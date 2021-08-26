@@ -134,7 +134,7 @@ for i, nodes in enumerate(IG.community_infomap(edge_weights="weight")):
     for node in nodes:
         G.nodes[IG.vs[node]["Name"]]["infomap"] = i+1
 IG2 = networkx2igraph(G)
-IG2.write_gml("chen.gml")
+IG2.write_gml("output/chen.gml")
 
 table = []
 for nA, nB, data in G.edges(data=True):
