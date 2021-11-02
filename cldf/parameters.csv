@@ -1,0 +1,76 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,Tag
+GREY,GREY,153,GREY,color
+RED,RED,156,RED,color
+BLACK,BLACK,163,BLACK,color
+BLUE,BLUE,837,BLUE,color
+WHITE,WHITE,1335,WHITE,color
+YELLOW,YELLOW,1424,YELLOW,color
+GREEN,GREEN,1425,GREEN,color
+GRIEF,GRIEF,1668,GRIEF,emotion
+PAIN,PAIN,1783,PAIN,emotion
+JOY,JOY,2524,JOY,emotion
+HAPPINESS,HAPPINESS,2941,HAPPINESS,emotion
+LONGINGWISH,LONGING (WISH),2960,LONGING (WISH),emotion
+BEARD,BEARD,678,BEARD,human body part
+BREAST,BREAST,1402,BREAST,human body part
+BUTTOCKS,BUTTOCKS,834,BUTTOCKS,human body part
+EYEBROW,EYEBROW,1173,EYEBROW,human body part
+FINGERNAIL,FINGERNAIL,1258,FINGERNAIL,human body part
+FOOT,FOOT,1301,FOOT,human body part
+HAIR,HAIR,1040,HAIR,human body part
+HAIRHEAD,HAIR (HEAD),2648,HAIR (HEAD),human body part
+HEEL,HEEL,980,HEEL,human body part
+KNEE,KNEE,1371,KNEE,human body part
+MOUSTACHE,MOUSTACHE,1165,MOUSTACHE,human body part
+PALMOFHAND,PALM OF HAND,1183,PALM OF HAND,human body part
+WAIST,WAIST,1681,WAIST,human body part
+ANUS,ANUS,1935,ANUS,human body part
+ARM,ARM,1673,ARM,human body part
+ARMPIT,ARMPIT,1886,ARMPIT,human body part
+BACK,BACK,1291,BACK,human body part
+BELLY,BELLY,1251,BELLY,human body part
+BODY,BODY,1480,BODY,human body part
+BONE,BONE,1394,BONE,human body part
+BRAIN,BRAIN,1583,BRAIN,human body part
+CHEEK,CHEEK,1730,CHEEK,human body part
+CHEST,CHEST,1592,CHEST,human body part
+CHIN,CHIN,1510,CHIN,human body part
+EAR,EAR,1247,EAR,human body part
+ELBOW,ELBOW,981,ELBOW,human body part
+EYE,EYE,1248,EYE,human body part
+FACE,FACE,1560,FACE,human body part
+FINGER,FINGER,1303,FINGER,human body part
+FLESH,FLESH,2259,FLESH,human body part
+FOREHEAD,FOREHEAD,123,FOREHEAD,human body part
+GALLBLADDER,GALL BLADDER,3372,GALL BLADDER,human body part
+HAND,HAND,1277,HAND,human body part
+HEAD,HEAD,1256,HEAD,human body part
+HEART,HEART,1223,HEART,human body part
+HIP,HIP,1745,HIP,human body part
+INTESTINES,INTESTINES,1991,INTESTINES,human body part
+JAW,JAW,798,JAW,human body part
+JOINT,JOINT,999,JOINT,human body part
+KIDNEY,KIDNEY,489,KIDNEY,human body part
+LEG,LEG,1297,LEG,human body part
+LIP,LIP,478,LIP,human body part
+LIVER,LIVER,1224,LIVER,human body part
+LUNG,LUNG,688,LUNG,human body part
+MOUTH,MOUTH,674,MOUTH,human body part
+NAPEOFNECK,NAPE (OF NECK),1347,NAPE (OF NECK),human body part
+NAVEL,NAVEL,1838,NAVEL,human body part
+NECK,NECK,1333,NECK,human body part
+NOSE,NOSE,1221,NOSE,human body part
+PENIS,PENIS,1222,PENIS,human body part
+RIB,RIB,801,RIB,human body part
+SHOULDER,SHOULDER,1482,SHOULDER,human body part
+SKIN,SKIN,763,SKIN,human body part
+STOMACH,STOMACH,819,STOMACH,human body part
+TENDON,TENDON,1137,TENDON,human body part
+TESTICLES,TESTICLES,797,TESTICLES,human body part
+THROAT,THROAT,1346,THROAT,human body part
+TOE,TOE,1389,TOE,human body part
+TONGUE,TONGUE,1205,TONGUE,human body part
+TOOTH,TOOTH,1380,TOOTH,human body part
+UPPERLEGTHIGH,UPPER LEG (THIGH),471,UPPER LEG (THIGH),human body part
+VAGINA,VAGINA,1836,VAGINA,human body part
+VEIN,VEIN,1924,VEIN,human body part

@@ -1,0 +1,170 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
+hantganbangime-Bankan_Tey,Bankan_Tey,bank1259,,,,15.07,-2.91,Dogon
+hantganbangime-Ben_Tey,Ben_Tey,bent1238,,,,14.85,-2.95,Dogon
+hantganbangime-Bunoge,Bunoge,buno1241,,,,14.65,-3.79,Dogon
+hantganbangime-Jamsay,Jamsay,jams1239,,,,14.64,-3.1,Dogon
+hantganbangime-Mombo,Mombo,momb1254,,,,14.51,-3.91,Dogon
+hantganbangime-Najamba,Najamba,bond1248,,,,14.9,-3.42,Dogon
+hantganbangime-Nanga,Nanga,nang1261,,,,14.72,-3.02,Dogon
+hantganbangime-Perge_Tegu,Perge_Tegu,perg1234,,,,14.85,-3.02,Dogon
+hantganbangime-Tebul_Ure,Tebul_Ure,tebu1239,,,,14.69,-3.11,Dogon
+hantganbangime-Tiranige_Diga,Tiranige_Diga,tira1258,,,,14.8,-3.72,Dogon
+hantganbangime-Togo_Kan,Togo_Kan,togo1254,,,,14.16,-3.38,Dogon
+hantganbangime-Tommo_So,Tommo_So,tomm1242,,,,14.67,-3.51,Dogon
+hantganbangime-Toro_Tegu,Toro_Tegu,toro1253,,,,15.01,-2.4,Dogon
+hantganbangime-Yanda_Dom,Yanda_Dom,yand1257,,,,14.63,-3.15,Dogon
+hantganbangime-Yorno_So,Yorno_So,yorn1234,,,,14.56,-3.24,Dogon
+hantganbangime-Penange,Penange,pena1270,,,,14.39,-4.03,Dogon
+northeuralex-fin,Finnish,finn1318,,,,61.00,24.45,Uralic
+northeuralex-krl,North Karelian,kare1335,,,,65.17,30.87,Uralic
+northeuralex-olo,Olonets Karelian,livv1243,,,,61.00,33.00,Uralic
+northeuralex-vep,Veps,veps1250,,,,60.34,34.79,Uralic
+northeuralex-ekk,Estonian,esto1258,,,,59.25,24.75,Uralic
+northeuralex-liv,Livonian,livv1244,,,,57.57,22.03,Uralic
+northeuralex-sma,Southern Sami,sout2674,,,,64.25,12.60,Uralic
+northeuralex-smj,Lule Sami,lule1254,,,,67.28,17.81,Uralic
+northeuralex-sme,Northern Sami,nort2671,,,,68.72,22.11,Uralic
+northeuralex-smn,Inari Sami,inar1241,,,,69.42,27.87,Uralic
+northeuralex-sms,Skolt Sami,skol1241,,,,68.83,29.72,Uralic
+northeuralex-sjd,Kildin Sami,kild1236,,,,68.22,35.83,Uralic
+northeuralex-mrj,Hill Mari,west2392,,,,56.33,46.33,Uralic
+northeuralex-mhr,Meadow Mari,east2328,,,,57.00,49.50,Uralic
+northeuralex-mdf,Moksha,moks1248,,,,54.19,42.67,Uralic
+northeuralex-myv,Erzya,erzy1239,,,,53.00,45.50,Uralic
+northeuralex-udm,Udmurt,udmu1245,,,,56.13,52.64,Uralic
+northeuralex-koi,Komi-Permyak,komi1269,,,,59.66,54.80,Uralic
+northeuralex-kpv,Komi-Zyrian,komi1268,,,,64.05,54.95,Uralic
+northeuralex-hun,Hungarian,hung1274,,,,46.91,19.66,Uralic
+northeuralex-kca,Northern Khanty,khan1273,,,,62.43,66.12,Uralic
+northeuralex-mns,Northern Mansi,mans1258,,,,64.41,61.34,Uralic
+northeuralex-sel,Northern Selkup,selk1253,,,,59.94,82.30,Uralic
+northeuralex-yrk,Tundra Nenets,nene1249,,,,66.18,71.02,Uralic
+northeuralex-enf,Forest Enets,fore1265,,,,69.98,88.21,Uralic
+northeuralex-nio,Nganasan,ngan1291,,,,73.14,86.21,Uralic
+northeuralex-ben,Bengali,beng1280,,,,24.00,90.00,Indo-European
+northeuralex-hin,Hindi,hind1269,,,,27.20,78.00,Indo-European
+northeuralex-pbu,Northern Pashto,nort2646,,,,32.10,67.20,Indo-European
+northeuralex-pes,Western Farsi,west2369,,,,28.66,55.16,Indo-European
+northeuralex-kmr,Northern Kurdish,nort2641,,,,37.00,43.00,Indo-European
+northeuralex-oss,Ossetian,osse1243,,,,43.18,44.23,Indo-European
+northeuralex-hye,Armenian,nucl1235,,,,40.00,45.00,Indo-European
+northeuralex-ell,Modern Greek,mode1248,,,,38.00,23.75,Indo-European
+northeuralex-sqi,Standard Albanian,alba1267,,,,41.33,19.85,Indo-European
+northeuralex-bul,Bulgarian,bulg1262,,,,42.70,23.80,Indo-European
+northeuralex-hrv,Croatian,croa1245,,,,45.20,16.83,Indo-European
+northeuralex-slv,Slovene,slov1268,,,,46.25,14.78,Indo-European
+northeuralex-slk,Slovak,slov1269,,,,48.55,18.78,Indo-European
+northeuralex-ces,Czech,czec1258,,,,49.87,15.10,Indo-European
+northeuralex-pol,Polish,poli1260,,,,51.84,18.63,Indo-European
+northeuralex-ukr,Ukrainian,ukra1253,,,,50.25,28.65,Indo-European
+northeuralex-bel,Belarusian,bela1254,,,,53.23,25.60,Indo-European
+northeuralex-rus,Russian,russ1263,,,,57.60,39.80,Indo-European
+northeuralex-lit,Lithuanian,lith1251,,,,55.14,23.96,Indo-European
+northeuralex-lav,Latvian,latv1249,,,,56.83,24.31,Indo-European
+northeuralex-isl,Icelandic,icel1247,,,,63.48,-19.02,Indo-European
+northeuralex-nor,Norwegian (Bokmål),norw1258,,,,59.92,10.71,Indo-European
+northeuralex-swe,Swedish,swed1254,,,,59.80,17.39,Indo-European
+northeuralex-dan,Danish,dani1285,,,,55.60,12.50,Indo-European
+northeuralex-deu,German,stan1295,,,,52.27,10.50,Indo-European
+northeuralex-nld,Dutch,dutc1256,,,,52.00,5.00,Indo-European
+northeuralex-eng,English,stan1293,,,,53.00,-1.00,Indo-European
+northeuralex-gle,Irish,iris1253,,,,53.22,-7.62,Indo-European
+northeuralex-cym,Welsh,wels1247,,,,52.00,-4.00,Indo-European
+northeuralex-bre,Breton,bret1244,,,,48.25,-3.79,Indo-European
+northeuralex-lat,Latin,lati1261,,,,41.90,12.45,Indo-European
+northeuralex-fra,French,stan1290,,,,48.00,2.00,Indo-European
+northeuralex-cat,Catalan,stan1289,,,,41.45,1.57,Indo-European
+northeuralex-spa,Spanish,stan1288,,,,42.25,-3.70,Indo-European
+northeuralex-por,Portuguese,port1283,,,,39.91,-8.10,Indo-European
+northeuralex-ita,Italian,ital1282,,,,43.05,12.65,Indo-European
+northeuralex-ron,Romanian,roma1327,,,,46.39,24.23,Indo-European
+northeuralex-arb,Standard Arabic,stan1318,,,,27.96,43.85,Afro-Asiatic
+northeuralex-heb,Modern Hebrew,hebr1245,,,,31.11,35.02,Afro-Asiatic
+northeuralex-cmn,Mandarin Chinese,mand1415,,,,40.02,116.23,Sino-Tibetan
+chenhmongmien-EasternLuobuohe,"Luobuohe, Eastern",luop1235,,,,26.63966,107.913354,Hmong-Mien
+chenhmongmien-WesternLuobuohe,"Luobuohe, Western",luop1235,,,,26.854607,107.226676,Hmong-Mien
+chenhmongmien-Chuanqiandian,Chuanqiandian,chua1248,,,,27.51846,105.421028,Hmong-Mien
+chenhmongmien-CentralGuizhouChuanqiandian,"Chuanqiandian, Central Guizhou",nort2749,,,,26.231562,106.861969,Hmong-Mien
+chenhmongmien-SouthernGuizhouChuanqiandian,"Chuanqiandian, Southern Guizhou",cent1394,,,,25.586343,106.323467,Hmong-Mien
+chenhmongmien-NortheastYunnanChuanqiandian,"Chuanqiandian, Northeast Yunnan",larg1235,,,,27.096059,103.698607,Hmong-Mien
+chenhmongmien-WesternXiangxi,"Xiangxi, West",west2430,,,,28.33212,109.422366,Hmong-Mien
+chenhmongmien-EasternXiangxi,"Xiangxi, East",east2371,,,,28.124036,109.890473,Hmong-Mien
+chenhmongmien-NorthernQiandong,"Qiandong, North",nort2747,,,,26.68993,108.401145,Hmong-Mien
+chenhmongmien-EasternQiandong,"Qiandong, East",east2370,,,,27.78098,110.499463,Hmong-Mien
+chenhmongmien-SouthernQiandong,"Qiandong, South",sout2754,,,,25.520166,108.779365,Hmong-Mien
+chenhmongmien-WesternQiandong,"Qiandong, West",,,,,26.43106,107.68758,Hmong-Mien
+chenhmongmien-WesternBaheng,"Baheng, West",pahn1237,,,,25.74971,109.286281,Hmong-Mien
+chenhmongmien-EasternBaheng,"Baheng, East",pahn1237,,,,27.11733,111.02615,Hmong-Mien
+chenhmongmien-Dongnu,Dongnu,dong1287,,,,24.201523,107.957327,Hmong-Mien
+chenhmongmien-Nunu,Nunu,nunu1247,,,,24.232341,107.194266,Hmong-Mien
+chenhmongmien-Numao,Numao,numa1251,,,,25.447767,108.064732,Hmong-Mien
+chenhmongmien-Bana,Bana,pana1310,,,,26.265147,110.096902,Hmong-Mien
+chenhmongmien-Younuo,Younuo,youn1235,,,,25.730893,110.115975,Hmong-Mien
+chenhmongmien-She,She,shee1238,,,,26.264261,110.096988,Hmong-Mien
+chenhmongmien-Jiongnai,Jiongnai,jion1236,,,,24.071002,110.105752,Hmong-Mien
+chenhmongmien-Mien,Mien,iumi1238,,,,24.172823,110.054488,Hmong-Mien
+chenhmongmien-KimMun,Kim Mun,kimm1245,,,,18.955781,109.86012,Hmong-Mien
+chenhmongmien-BiaoMin,Biao Min,biao1254,,,,25.82286,111.29622,Hmong-Mien
+chenhmongmien-ZaoMin,Zao Min,dzao1238,,,,24.612303,112.266749,Hmong-Mien
+kraftchadic-Angas,Angas,ngas1240,,,,9.32042,9.46146,Afro-Asiatic
+kraftchadic-Ankwe,Ankwe,goem1240,,,,8.74455,9.72453,Afro-Asiatic
+kraftchadic-Bacama,Bacama,baca1246,,,,9.53072,12.0416,Afro-Asiatic
+kraftchadic-Bade,Bade,bade1248,,,,12.789,10.6557,Afro-Asiatic
+kraftchadic-Banana,Banana,masa1322,,,,10.0606,15.4748,Afro-Asiatic
+kraftchadic-Bananamouseye,Banana (Mouseye),muse1242,,,,9.81612,15.4115,Afro-Asiatic
+kraftchadic-Boka,Boka,boga1251,,,,10.188,12.936,Afro-Asiatic
+kraftchadic-Bolewa,Bole(wa),nucl1695,,,,11.4839,11.2322,Afro-Asiatic
+kraftchadic-Buli,Buli,polc1243,,,,10.0258,9.53362,Afro-Asiatic
+kraftchadic-Bura,Bura,bura1292,,,,10.4822,12.3007,Afro-Asiatic
+kraftchadic-Burma,Burma,bogh1241,,,,9.49679,10.11454,Afro-Asiatic
+kraftchadic-Cibak,Cibak,ciba1236,,,,10.8977,12.902,Afro-Asiatic
+kraftchadic-Cip,Cip,mish1244,,,,9.20477,9.33752,Afro-Asiatic
+kraftchadic-Daba,Daba,nucl1683,,,,10.3521,13.6318,Afro-Asiatic
+kraftchadic-Dera,Dera,dera1248,,,,10.072,12.0256,Afro-Asiatic
+kraftchadic-Dira,Dira,diri1259,,,,11.1701,9.32363,Afro-Asiatic
+kraftchadic-Dwot,Dwot,dass1243,,,,9.9325,9.51838,Afro-Asiatic
+kraftchadic-Faligili,Fali Gili,bana1305,,,,10.3535,13.6131,Afro-Asiatic
+kraftchadic-Falijilbu,Fali Jilbu,zizi1238,,,,10.4689,13.5233,Afro-Asiatic
+kraftchadic-Falikiria,Fali Kiria,kiry1234,,,,10.48,13.36,Afro-Asiatic
+kraftchadic-Falimucella,Fali Mucella,gude1246,,,,10.2138,13.403,Afro-Asiatic
+kraftchadic-Faliwagira,Fali Ɓwagira,fali1285,,,,10.5419,13.4087,Afro-Asiatic
+kraftchadic-Gaanda,Ga?anda,gaan1243,,,,10.2955,12.6479,Afro-Asiatic
+kraftchadic-Gava,Gava,gudu1252,,,,11.1057,13.7893,Afro-Asiatic
+kraftchadic-Geji,Geji,geji1246,,,,10.3478,9.64965,Afro-Asiatic
+kraftchadic-Gera,Gera,gera1246,,,,10.4331,10.12,Afro-Asiatic
+kraftchadic-Gude,Gude,gude1246,,,,10.2138,13.403,Afro-Asiatic
+kraftchadic-Gudu,Gudu,gudu1250,,,,10.1206,12.5359,Afro-Asiatic
+kraftchadic-Gabin,Gábin,gaan1243,,,,10.2955,12.6479,Afro-Asiatic
+kraftchadic-Glvda,Gələvda,glav1244,,,,11.1334,13.8652,Afro-Asiatic
+kraftchadic-Hausa,Hausa,haus1257,,,,11.1513,8.7804,Afro-Asiatic
+kraftchadic-Higibaza,Higi Baza,kamw1239,,,,10.646,13.5136,Afro-Asiatic
+kraftchadic-Higifutu,Higi Futu,kamw1239,,,,10.646,13.5136,Afro-Asiatic
+kraftchadic-Higighye,Higi Ghye,hyaa1239,,,,10.4814,13.526,Afro-Asiatic
+kraftchadic-Higikamale,Higi Kamale,psik1239,,,,10.677,13.569,Afro-Asiatic
+kraftchadic-Higinkafa,Higi Nkafa,kamw1239,,,,10.646,13.5136,Afro-Asiatic
+kraftchadic-Hildi,Hildi,marg1266,,,,10.53854,12.99521,Afro-Asiatic
+kraftchadic-Hwona,Hwona,hwan1240,,,,10.3633,12.7683,Afro-Asiatic
+kraftchadic-Karekare,Karekare,kare1348,,,,12.5176,10.8732,Afro-Asiatic
+kraftchadic-Kilba,Kilba,huba1236,,,,10.3544,13.139,Afro-Asiatic
+kraftchadic-Lamepeve,Lame (Peve),peve1243,,,,9.16111,14.441,Afro-Asiatic
+kraftchadic-Mandara,Mandara,wand1278,,,,11.3169,13.8996,Afro-Asiatic
+kraftchadic-Margi,Margi,marg1265,,,,10.93854,13.0521,Afro-Asiatic
+kraftchadic-Massa,Massa,masa1322,,,,10.0606,15.4748,Afro-Asiatic
+kraftchadic-Matakam,Matakam,mafa1239,,,,10.943,13.8181,Afro-Asiatic
+kraftchadic-Mismezime,Misme (Zime),mesm1239,,,,9.28888,15.7018,Afro-Asiatic
+kraftchadic-Miya,Miya,miya1266,,,,10.9234,9.71505,Afro-Asiatic
+kraftchadic-Mwulyen,Mwulyen,bata1314,,,,9.68091,12.677,Afro-Asiatic
+kraftchadic-Nakatsa,Nakatsa,cine1238,,,,11.1319,13.8187,Afro-Asiatic
+kraftchadic-Ngamo,Ngamo,ngam1282,,,,12.0048,11.2108,Afro-Asiatic
+kraftchadic-Ngizim,Ngizim,ngiz1242,,,,12.1051,11.0178,Afro-Asiatic
+kraftchadic-Ngwaxi,Ngwaxi,nggw1242,,,,10.6058,12.9234,Afro-Asiatic
+kraftchadic-Njanye,Njanye,nzan1240,,,,10.0666,13.3343,Afro-Asiatic
+kraftchadic-Pero,Pero,pero1241,,,,9.62092,11.044,Afro-Asiatic
+kraftchadic-Piimdi,Piðimdi,tera1251,,,,11.0376,11.80953,Afro-Asiatic
+kraftchadic-Plci,Pəlci,polc1243,,,,10.0258,9.53362,Afro-Asiatic
+kraftchadic-Seya,Seya,saya1246,,,,9.69441,9.71748,Afro-Asiatic
+kraftchadic-Sura,Sura,mwag1236,,,,9.47205,8.96522,Afro-Asiatic
+kraftchadic-Tangale,Tangale,nucl1696,,,,9.75444,11.3228,Afro-Asiatic
+kraftchadic-Wamdiu,Wamdiu,marg1266,,,,10.53854,12.99521,Afro-Asiatic
+kraftchadic-Westmargi,West Margi,puta1243,,,,10.83854,12.99521,Afro-Asiatic
+kraftchadic-Zvana,Zə̀ɣvana,dghw1239,,,,11.05751,13.77847,Afro-Asiatic
