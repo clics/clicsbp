@@ -1,53 +1,90 @@
 CONCEPT	FAMILY	TAG	COMMUNITY	LINKS
+BEIGE	Afro-Asiatic	color	0	
+BRIGHT YELLOW	Afro-Asiatic	color	0	
+BROWN	Afro-Asiatic	color	0	
+COPPER (COLOR)	Afro-Asiatic	color	0	
+DARK GREEN	Afro-Asiatic	color	0	
+DARK YELLOW	Afro-Asiatic	color	0	
+GREY	Afro-Asiatic	color	0	
+KHAKI	Afro-Asiatic	color	0	
+LIGHT BLUE	Afro-Asiatic	color	0	
+LIGHT GREEN	Afro-Asiatic	color	0	
+LILAC	Afro-Asiatic	color	0	
+MAGENTA	Afro-Asiatic	color	0	
+ORANGE (COLOR)	Afro-Asiatic	color	0	
+PINK	Afro-Asiatic	color	0	
+PURPLE	Afro-Asiatic	color	0	
+TURQUOISE	Afro-Asiatic	color	0	
+WHITE	Afro-Asiatic	color	0	
+BLACK	Afro-Asiatic	color	1	BLUE:0.50
+BLUE	Afro-Asiatic	color	1	GREEN:8.00;BLACK:0.50;YELLOW:0.50
+GREEN	Afro-Asiatic	color	1	BLUE:8.00
+RED	Afro-Asiatic	color	2	YELLOW:0.50
+YELLOW	Afro-Asiatic	color	2	RED:0.50;BLUE:0.50
+AMUSEMENT	Afro-Asiatic	emotion	0	
+ANGER	Afro-Asiatic	emotion	0	
+AWE	Afro-Asiatic	emotion	0	
+CONFUSION	Afro-Asiatic	emotion	0	
+CONTEMPT	Afro-Asiatic	emotion	0	
+COURAGE	Afro-Asiatic	emotion	0	
+DEPRESSION	Afro-Asiatic	emotion	0	
+DISAPPOINTMENT	Afro-Asiatic	emotion	0	
+DISGUST	Afro-Asiatic	emotion	0	
+ENVY	Afro-Asiatic	emotion	0	
+EXCITEMENT	Afro-Asiatic	emotion	0	
+HAPPINESS	Afro-Asiatic	emotion	0	
+HATE (LOATHING)	Afro-Asiatic	emotion	0	
+HOPE (FAITH)	Afro-Asiatic	emotion	0	
+INTEREST (FEELING)	Afro-Asiatic	emotion	0	
+JEALOUSY	Afro-Asiatic	emotion	0	
+JOY	Afro-Asiatic	emotion	0	
+KINDNESS	Afro-Asiatic	emotion	0	
+LONGING (WISH)	Afro-Asiatic	emotion	0	
+LOVE (AFFECTION)	Afro-Asiatic	emotion	0	
+MISERY	Afro-Asiatic	emotion	0	
+MOURNING	Afro-Asiatic	emotion	0	
+PITY	Afro-Asiatic	emotion	0	
+PLEASURE	Afro-Asiatic	emotion	0	
+PRIDE	Afro-Asiatic	emotion	0	
+RESPECT (NOUN)	Afro-Asiatic	emotion	0	
+SADNESS	Afro-Asiatic	emotion	0	
+SHAME	Afro-Asiatic	emotion	0	
+SURPRISE (FEELING)	Afro-Asiatic	emotion	0	
+TRIUMPH	Afro-Asiatic	emotion	0	
+GRIEF	Afro-Asiatic	emotion	1	PAIN:0.50
+PAIN	Afro-Asiatic	emotion	1	GRIEF:0.50
+ANXIETY	Afro-Asiatic	emotion	2	FEAR (FRIGHT):0.50
+FEAR (FRIGHT)	Afro-Asiatic	emotion	2	ANXIETY:0.50
 ADAM'S APPLE	Afro-Asiatic	human body part	0	
-ANKLE	Afro-Asiatic	human body part	0	
 ANUS	Afro-Asiatic	human body part	0	
 ARMPIT	Afro-Asiatic	human body part	0	
 ARTERY	Afro-Asiatic	human body part	0	
 BACK	Afro-Asiatic	human body part	0	
 BACK OF HEAD	Afro-Asiatic	human body part	0	
-BELLY	Afro-Asiatic	human body part	0	
 BLADDER	Afro-Asiatic	human body part	0	
-BLOOD VESSEL	Afro-Asiatic	human body part	0	
 BODY	Afro-Asiatic	human body part	0	
 BODY PART	Afro-Asiatic	human body part	0	
 BRAIN	Afro-Asiatic	human body part	0	
-BREAST	Afro-Asiatic	human body part	0	
 BREASTBONE	Afro-Asiatic	human body part	0	
 BUTTOCKS	Afro-Asiatic	human body part	0	
 CALF OF LEG	Afro-Asiatic	human body part	0	
-CHEEK	Afro-Asiatic	human body part	0	
 CLITORIS	Afro-Asiatic	human body part	0	
-COLLARBONE	Afro-Asiatic	human body part	0	
-EAR	Afro-Asiatic	human body part	0	
 EARHOLE	Afro-Asiatic	human body part	0	
-EARLOBE	Afro-Asiatic	human body part	0	
 ELBOW	Afro-Asiatic	human body part	0	
 EYEBALL	Afro-Asiatic	human body part	0	
-EYEBROW	Afro-Asiatic	human body part	0	
-EYELASH	Afro-Asiatic	human body part	0	
-EYELID	Afro-Asiatic	human body part	0	
 FINGERNAIL	Afro-Asiatic	human body part	0	
 FINGERTIP	Afro-Asiatic	human body part	0	
 FLESH	Afro-Asiatic	human body part	0	
 FOREFINGER	Afro-Asiatic	human body part	0	
-FOREHEAD	Afro-Asiatic	human body part	0	
 FRONT TOOTH (INCISOR)	Afro-Asiatic	human body part	0	
 GALL BLADDER	Afro-Asiatic	human body part	0	
 GENITALIA	Afro-Asiatic	human body part	0	
 GUMS	Afro-Asiatic	human body part	0	
 GUTS	Afro-Asiatic	human body part	0	
-HAIR (BODY)	Afro-Asiatic	human body part	0	
-HAIR (HEAD)	Afro-Asiatic	human body part	0	
-HAND	Afro-Asiatic	human body part	0	
-HEAD	Afro-Asiatic	human body part	0	
 HEART	Afro-Asiatic	human body part	0	
-HEEL	Afro-Asiatic	human body part	0	
-HIP	Afro-Asiatic	human body part	0	
 HIP BONE	Afro-Asiatic	human body part	0	
 HUMP	Afro-Asiatic	human body part	0	
 INSTEP	Afro-Asiatic	human body part	0	
-JAW	Afro-Asiatic	human body part	0	
 JOINT	Afro-Asiatic	human body part	0	
 KIDNEY	Afro-Asiatic	human body part	0	
 KNUCKLE	Afro-Asiatic	human body part	0	
@@ -58,20 +95,14 @@ LITTLE FINGER	Afro-Asiatic	human body part	0
 LIVER	Afro-Asiatic	human body part	0	
 LOIN	Afro-Asiatic	human body part	0	
 LONG HAIR	Afro-Asiatic	human body part	0	
-LOWER ARM	Afro-Asiatic	human body part	0	
 LOWER BACK	Afro-Asiatic	human body part	0	
-LOWER LEG	Afro-Asiatic	human body part	0	
 LUNG	Afro-Asiatic	human body part	0	
 MIDDLE FINGER	Afro-Asiatic	human body part	0	
 MOLAR TOOTH	Afro-Asiatic	human body part	0	
 MOUSTACHE	Afro-Asiatic	human body part	0	
 MUSCLE	Afro-Asiatic	human body part	0	
-NAPE (OF NECK)	Afro-Asiatic	human body part	0	
 NAVEL	Afro-Asiatic	human body part	0	
 NERVE	Afro-Asiatic	human body part	0	
-NIPPLE	Afro-Asiatic	human body part	0	
-NOSE	Afro-Asiatic	human body part	0	
-NOSTRIL	Afro-Asiatic	human body part	0	
 ORAL CAVITY	Afro-Asiatic	human body part	0	
 OVARY	Afro-Asiatic	human body part	0	
 PALATE	Afro-Asiatic	human body part	0	
@@ -85,16 +116,12 @@ PUPIL	Afro-Asiatic	human body part	0
 RIGHT HAND	Afro-Asiatic	human body part	0	
 SCROTUM	Afro-Asiatic	human body part	0	
 SHIN	Afro-Asiatic	human body part	0	
-SHOULDERBLADE	Afro-Asiatic	human body part	0	
 SIDE (BODY)	Afro-Asiatic	human body part	0	
 SKELETON	Afro-Asiatic	human body part	0	
 SKIN (HUMAN)	Afro-Asiatic	human body part	0	
-SKULL	Afro-Asiatic	human body part	0	
 SOLE (FOOT)	Afro-Asiatic	human body part	0	
 SPINE	Afro-Asiatic	human body part	0	
 SPLEEN	Afro-Asiatic	human body part	0	
-TEMPLES	Afro-Asiatic	human body part	0	
-TENDON	Afro-Asiatic	human body part	0	
 TESTICLES	Afro-Asiatic	human body part	0	
 THROAT	Afro-Asiatic	human body part	0	
 THUMB	Afro-Asiatic	human body part	0	
@@ -103,184 +130,570 @@ TOENAIL	Afro-Asiatic	human body part	0
 TONGUE	Afro-Asiatic	human body part	0	
 TORSO	Afro-Asiatic	human body part	0	
 UMBILICAL CORD	Afro-Asiatic	human body part	0	
-UPPER ARM	Afro-Asiatic	human body part	0	
 UPPER BACK	Afro-Asiatic	human body part	0	
 UVULA	Afro-Asiatic	human body part	0	
-VAGINA	Afro-Asiatic	human body part	0	
 VEIN	Afro-Asiatic	human body part	0	
-VULVA	Afro-Asiatic	human body part	0	
 WAIST	Afro-Asiatic	human body part	0	
-WOMB	Afro-Asiatic	human body part	0	
-WRIST	Afro-Asiatic	human body part	0	
-FINGER	Afro-Asiatic	human body part	1	TOE:0.50
-TOE	Afro-Asiatic	human body part	1	FINGER:0.50
-FOOT	Afro-Asiatic	human body part	2	LEG:0.50
-LEG	Afro-Asiatic	human body part	2	FOOT:0.50;UPPER LEG (THIGH):0.50
-UPPER LEG (THIGH)	Afro-Asiatic	human body part	2	LEG:0.50
-NECK	Afro-Asiatic	human body part	3	SHOULDER:0.50
-SHOULDER	Afro-Asiatic	human body part	3	NECK:0.50
+FINGER	Afro-Asiatic	human body part	1	TOE:3.00
+TOE	Afro-Asiatic	human body part	1	FINGER:3.00
+HIP	Afro-Asiatic	human body part	10	UPPER LEG (THIGH):0.50
+UPPER LEG (THIGH)	Afro-Asiatic	human body part	10	LEG:0.50;HIP:0.50
+CHEEK	Afro-Asiatic	human body part	11	TEMPLES:0.50
+TEMPLES	Afro-Asiatic	human body part	11	CHEEK:0.50
+EYEBROW	Afro-Asiatic	human body part	12	EYELID:2.00;EYELASH:2.00
+EYELASH	Afro-Asiatic	human body part	12	EYEBROW:2.00;EYELID:2.00
+EYELID	Afro-Asiatic	human body part	12	EYEBROW:2.00;EYELASH:2.00
+HAIR (BODY)	Afro-Asiatic	human body part	13	HAIR (HEAD):0.50
+HAIR (HEAD)	Afro-Asiatic	human body part	13	HAIR (BODY):0.50
+HEAD	Afro-Asiatic	human body part	14	SKULL:0.50
+SKULL	Afro-Asiatic	human body part	14	HEAD:0.50
+EAR	Afro-Asiatic	human body part	15	EARLOBE:0.50
+EARLOBE	Afro-Asiatic	human body part	15	EAR:0.50
+BREAST	Afro-Asiatic	human body part	16	NIPPLE:0.50
+NIPPLE	Afro-Asiatic	human body part	16	BREAST:0.50
+VAGINA	Afro-Asiatic	human body part	17	VULVA:2.00
+VULVA	Afro-Asiatic	human body part	17	VAGINA:2.00
+BLOOD VESSEL	Afro-Asiatic	human body part	18	TENDON:0.50
+TENDON	Afro-Asiatic	human body part	18	BLOOD VESSEL:0.50
+NOSE	Afro-Asiatic	human body part	19	NOSTRIL:0.50
+NOSTRIL	Afro-Asiatic	human body part	19	NOSE:0.50
+ANKLE	Afro-Asiatic	human body part	2	HEEL:0.50
+FOOT	Afro-Asiatic	human body part	2	LEG:5.00;HEEL:0.50;LOWER LEG:0.50
+HEEL	Afro-Asiatic	human body part	2	LEG:0.50;FOOT:0.50;ANKLE:0.50
+LEG	Afro-Asiatic	human body part	2	FOOT:5.00;UPPER LEG (THIGH):0.50;HEEL:0.50
+LOWER LEG	Afro-Asiatic	human body part	2	FOOT:0.50
+LOWER ARM	Afro-Asiatic	human body part	20	UPPER ARM:0.50
+UPPER ARM	Afro-Asiatic	human body part	20	LOWER ARM:0.50
+COLLARBONE	Afro-Asiatic	human body part	3	SHOULDER:0.50;SHOULDERBLADE:0.50
+NAPE (OF NECK)	Afro-Asiatic	human body part	3	NECK:0.50
+NECK	Afro-Asiatic	human body part	3	SHOULDER:0.50;NAPE (OF NECK):0.50
+SHOULDER	Afro-Asiatic	human body part	3	NECK:0.50;SHOULDERBLADE:0.50;COLLARBONE:0.50
+SHOULDERBLADE	Afro-Asiatic	human body part	3	SHOULDER:0.50;COLLARBONE:0.50
 LIP	Afro-Asiatic	human body part	4	MOUTH:3.00
 MOUTH	Afro-Asiatic	human body part	4	LIP:3.00
+BELLY	Afro-Asiatic	human body part	5	WOMB:0.50;STOMACH:0.50
 BONE	Afro-Asiatic	human body part	5	RIB:0.50
 CHEST	Afro-Asiatic	human body part	5	RIB:0.50;STOMACH:0.50
 INTESTINES	Afro-Asiatic	human body part	5	STOMACH:0.50
 RIB	Afro-Asiatic	human body part	5	BONE:0.50;CHEST:0.50
-STOMACH	Afro-Asiatic	human body part	5	INTESTINES:0.50;CHEST:0.50
+STOMACH	Afro-Asiatic	human body part	5	INTESTINES:0.50;CHEST:0.50;BELLY:0.50
+WOMB	Afro-Asiatic	human body part	5	BELLY:0.50
 EYE	Afro-Asiatic	human body part	6	FACE:3.00
-FACE	Afro-Asiatic	human body part	6	EYE:3.00
+FACE	Afro-Asiatic	human body part	6	EYE:3.00;FOREHEAD:2.00
+FOREHEAD	Afro-Asiatic	human body part	6	FACE:2.00
 BEARD	Afro-Asiatic	human body part	7	CHIN:6.00
-CHIN	Afro-Asiatic	human body part	7	BEARD:6.00;TOOTH:0.50
+CHIN	Afro-Asiatic	human body part	7	BEARD:6.00;TOOTH:0.50;JAW:0.50
+JAW	Afro-Asiatic	human body part	7	CHIN:0.50
 TOOTH	Afro-Asiatic	human body part	7	CHIN:0.50
-ARM	Afro-Asiatic	human body part	8	SKIN:0.50
+ARM	Afro-Asiatic	human body part	8	SKIN:0.50;HAND:4.00;WRIST:0.50
+HAND	Afro-Asiatic	human body part	8	ARM:4.00;WRIST:0.50
 SKIN	Afro-Asiatic	human body part	8	ARM:0.50
+WRIST	Afro-Asiatic	human body part	8	ARM:0.50;HAND:0.50
 HAIR	Afro-Asiatic	human body part	9	KNEE:0.50
 KNEE	Afro-Asiatic	human body part	9	HAIR:0.50
-ADAM'S APPLE	Dogon	human body part	0	
-ANKLE	Dogon	human body part	0	
-ANUS	Dogon	human body part	0	
-ARM	Dogon	human body part	0	
-ARMPIT	Dogon	human body part	0	
-ARTERY	Dogon	human body part	0	
-BACK	Dogon	human body part	0	
-BACK OF HEAD	Dogon	human body part	0	
-BELLY	Dogon	human body part	0	
-BLADDER	Dogon	human body part	0	
-BLOOD VESSEL	Dogon	human body part	0	
-BODY	Dogon	human body part	0	
-BODY PART	Dogon	human body part	0	
-BRAIN	Dogon	human body part	0	
-BREAST	Dogon	human body part	0	
-BREASTBONE	Dogon	human body part	0	
-BUTTOCKS	Dogon	human body part	0	
-CALF OF LEG	Dogon	human body part	0	
-CHEEK	Dogon	human body part	0	
-CHEST	Dogon	human body part	0	
-CLITORIS	Dogon	human body part	0	
-COLLARBONE	Dogon	human body part	0	
-EAR	Dogon	human body part	0	
-EARHOLE	Dogon	human body part	0	
-EARLOBE	Dogon	human body part	0	
-ELBOW	Dogon	human body part	0	
-EYE	Dogon	human body part	0	
-EYEBALL	Dogon	human body part	0	
-EYEBROW	Dogon	human body part	0	
-EYELASH	Dogon	human body part	0	
-EYELID	Dogon	human body part	0	
-FACE	Dogon	human body part	0	
-FINGER	Dogon	human body part	0	
-FINGERNAIL	Dogon	human body part	0	
-FINGERTIP	Dogon	human body part	0	
-FLESH	Dogon	human body part	0	
-FOOT	Dogon	human body part	0	
-FOREFINGER	Dogon	human body part	0	
-FOREHEAD	Dogon	human body part	0	
-FRONT TOOTH (INCISOR)	Dogon	human body part	0	
-GALL BLADDER	Dogon	human body part	0	
-GENITALIA	Dogon	human body part	0	
-GUMS	Dogon	human body part	0	
-GUTS	Dogon	human body part	0	
-HAIR	Dogon	human body part	0	
-HAIR (BODY)	Dogon	human body part	0	
-HAIR (HEAD)	Dogon	human body part	0	
-HAND	Dogon	human body part	0	
-HEAD	Dogon	human body part	0	
-HEART	Dogon	human body part	0	
-HEEL	Dogon	human body part	0	
-HIP	Dogon	human body part	0	
-HIP BONE	Dogon	human body part	0	
-HUMP	Dogon	human body part	0	
-INSTEP	Dogon	human body part	0	
-INTESTINES	Dogon	human body part	0	
-JAW	Dogon	human body part	0	
-JOINT	Dogon	human body part	0	
-KIDNEY	Dogon	human body part	0	
-KNEE	Dogon	human body part	0	
-KNUCKLE	Dogon	human body part	0	
-LAP	Dogon	human body part	0	
-LARYNX	Dogon	human body part	0	
-LEFT HAND	Dogon	human body part	0	
-LEG	Dogon	human body part	0	
-LIP	Dogon	human body part	0	
-LITTLE FINGER	Dogon	human body part	0	
-LIVER	Dogon	human body part	0	
-LOIN	Dogon	human body part	0	
-LONG HAIR	Dogon	human body part	0	
-LOWER ARM	Dogon	human body part	0	
-LOWER BACK	Dogon	human body part	0	
-LOWER LEG	Dogon	human body part	0	
-LUNG	Dogon	human body part	0	
-MIDDLE FINGER	Dogon	human body part	0	
-MOLAR TOOTH	Dogon	human body part	0	
-MOUSTACHE	Dogon	human body part	0	
-MOUTH	Dogon	human body part	0	
-MUSCLE	Dogon	human body part	0	
-NAPE (OF NECK)	Dogon	human body part	0	
-NAVEL	Dogon	human body part	0	
-NECK	Dogon	human body part	0	
-NERVE	Dogon	human body part	0	
-NIPPLE	Dogon	human body part	0	
-NOSTRIL	Dogon	human body part	0	
-ORAL CAVITY	Dogon	human body part	0	
-OVARY	Dogon	human body part	0	
-PALATE	Dogon	human body part	0	
-PALM OF HAND	Dogon	human body part	0	
-PANCREAS	Dogon	human body part	0	
-PENIS	Dogon	human body part	0	
-PHARYNX	Dogon	human body part	0	
-PLACENTA	Dogon	human body part	0	
-PUBIC HAIR	Dogon	human body part	0	
-PUPIL	Dogon	human body part	0	
-RIB	Dogon	human body part	0	
-RIGHT HAND	Dogon	human body part	0	
-SCROTUM	Dogon	human body part	0	
-SHIN	Dogon	human body part	0	
-SHOULDER	Dogon	human body part	0	
-SHOULDERBLADE	Dogon	human body part	0	
-SIDE (BODY)	Dogon	human body part	0	
-SKELETON	Dogon	human body part	0	
-SKIN	Dogon	human body part	0	
-SKIN (HUMAN)	Dogon	human body part	0	
-SKULL	Dogon	human body part	0	
-SOLE (FOOT)	Dogon	human body part	0	
-SPINE	Dogon	human body part	0	
-SPLEEN	Dogon	human body part	0	
-STOMACH	Dogon	human body part	0	
-TEMPLES	Dogon	human body part	0	
-TENDON	Dogon	human body part	0	
-TESTICLES	Dogon	human body part	0	
-THROAT	Dogon	human body part	0	
-THUMB	Dogon	human body part	0	
-TIP (OF TONGUE)	Dogon	human body part	0	
-TOE	Dogon	human body part	0	
-TOENAIL	Dogon	human body part	0	
-TONGUE	Dogon	human body part	0	
-TOOTH	Dogon	human body part	0	
-TORSO	Dogon	human body part	0	
-UMBILICAL CORD	Dogon	human body part	0	
-UPPER ARM	Dogon	human body part	0	
-UPPER BACK	Dogon	human body part	0	
-UPPER LEG (THIGH)	Dogon	human body part	0	
-UVULA	Dogon	human body part	0	
-VAGINA	Dogon	human body part	0	
-VEIN	Dogon	human body part	0	
-VULVA	Dogon	human body part	0	
-WAIST	Dogon	human body part	0	
-WOMB	Dogon	human body part	0	
-WRIST	Dogon	human body part	0	
-BONE	Dogon	human body part	1	NOSE:1.00
-NOSE	Dogon	human body part	1	BONE:1.00
-BEARD	Dogon	human body part	2	CHIN:0.50
-CHIN	Dogon	human body part	2	BEARD:0.50
+BEIGE	Arawakan	color	0	
+BLACK	Arawakan	color	0	
+BRIGHT YELLOW	Arawakan	color	0	
+BROWN	Arawakan	color	0	
+COPPER (COLOR)	Arawakan	color	0	
+DARK GREEN	Arawakan	color	0	
+DARK YELLOW	Arawakan	color	0	
+GREY	Arawakan	color	0	
+KHAKI	Arawakan	color	0	
+LIGHT BLUE	Arawakan	color	0	
+LIGHT GREEN	Arawakan	color	0	
+LILAC	Arawakan	color	0	
+MAGENTA	Arawakan	color	0	
+ORANGE (COLOR)	Arawakan	color	0	
+PINK	Arawakan	color	0	
+PURPLE	Arawakan	color	0	
+TURQUOISE	Arawakan	color	0	
+WHITE	Arawakan	color	0	
+RED	Arawakan	color	1	YELLOW:0.50
+YELLOW	Arawakan	color	1	RED:0.50
+BLUE	Arawakan	color	2	GREEN:0.50
+GREEN	Arawakan	color	2	BLUE:0.50
+ADAM'S APPLE	Arawakan	human body part	0	
+ANKLE	Arawakan	human body part	0	
+ANUS	Arawakan	human body part	0	
+ARMPIT	Arawakan	human body part	0	
+ARTERY	Arawakan	human body part	0	
+BACK OF HEAD	Arawakan	human body part	0	
+BEARD	Arawakan	human body part	0	
+BLADDER	Arawakan	human body part	0	
+BLOOD VESSEL	Arawakan	human body part	0	
+BODY	Arawakan	human body part	0	
+BODY PART	Arawakan	human body part	0	
+BONE	Arawakan	human body part	0	
+BRAIN	Arawakan	human body part	0	
+BREAST	Arawakan	human body part	0	
+BREASTBONE	Arawakan	human body part	0	
+BUTTOCKS	Arawakan	human body part	0	
+CALF OF LEG	Arawakan	human body part	0	
+CHEEK	Arawakan	human body part	0	
+CHEST	Arawakan	human body part	0	
+CHIN	Arawakan	human body part	0	
+CLITORIS	Arawakan	human body part	0	
+COLLARBONE	Arawakan	human body part	0	
+EAR	Arawakan	human body part	0	
+EARHOLE	Arawakan	human body part	0	
+EARLOBE	Arawakan	human body part	0	
+ELBOW	Arawakan	human body part	0	
+EYE	Arawakan	human body part	0	
+EYEBALL	Arawakan	human body part	0	
+EYEBROW	Arawakan	human body part	0	
+EYELASH	Arawakan	human body part	0	
+EYELID	Arawakan	human body part	0	
+FACE	Arawakan	human body part	0	
+FINGER	Arawakan	human body part	0	
+FINGERNAIL	Arawakan	human body part	0	
+FINGERTIP	Arawakan	human body part	0	
+FLESH	Arawakan	human body part	0	
+FOOT	Arawakan	human body part	0	
+FOREFINGER	Arawakan	human body part	0	
+FOREHEAD	Arawakan	human body part	0	
+GALL BLADDER	Arawakan	human body part	0	
+GENITALIA	Arawakan	human body part	0	
+GUMS	Arawakan	human body part	0	
+GUTS	Arawakan	human body part	0	
+HAIR	Arawakan	human body part	0	
+HAIR (BODY)	Arawakan	human body part	0	
+HAND	Arawakan	human body part	0	
+HEAD	Arawakan	human body part	0	
+HEART	Arawakan	human body part	0	
+HEEL	Arawakan	human body part	0	
+HIP	Arawakan	human body part	0	
+HIP BONE	Arawakan	human body part	0	
+HUMP	Arawakan	human body part	0	
+INSTEP	Arawakan	human body part	0	
+INTESTINES	Arawakan	human body part	0	
+JAW	Arawakan	human body part	0	
+JOINT	Arawakan	human body part	0	
+KIDNEY	Arawakan	human body part	0	
+KNEE	Arawakan	human body part	0	
+KNUCKLE	Arawakan	human body part	0	
+LAP	Arawakan	human body part	0	
+LARYNX	Arawakan	human body part	0	
+LEFT HAND	Arawakan	human body part	0	
+LITTLE FINGER	Arawakan	human body part	0	
+LIVER	Arawakan	human body part	0	
+LOIN	Arawakan	human body part	0	
+LOWER BACK	Arawakan	human body part	0	
+LUNG	Arawakan	human body part	0	
+MIDDLE FINGER	Arawakan	human body part	0	
+MOLAR TOOTH	Arawakan	human body part	0	
+MOUSTACHE	Arawakan	human body part	0	
+MUSCLE	Arawakan	human body part	0	
+NAVEL	Arawakan	human body part	0	
+NERVE	Arawakan	human body part	0	
+NIPPLE	Arawakan	human body part	0	
+NOSE	Arawakan	human body part	0	
+NOSTRIL	Arawakan	human body part	0	
+ORAL CAVITY	Arawakan	human body part	0	
+OVARY	Arawakan	human body part	0	
+PALATE	Arawakan	human body part	0	
+PALM OF HAND	Arawakan	human body part	0	
+PANCREAS	Arawakan	human body part	0	
+PENIS	Arawakan	human body part	0	
+PHARYNX	Arawakan	human body part	0	
+PLACENTA	Arawakan	human body part	0	
+PUBIC HAIR	Arawakan	human body part	0	
+PUPIL	Arawakan	human body part	0	
+RIB	Arawakan	human body part	0	
+RIGHT HAND	Arawakan	human body part	0	
+SCROTUM	Arawakan	human body part	0	
+SHOULDER	Arawakan	human body part	0	
+SHOULDERBLADE	Arawakan	human body part	0	
+SIDE (BODY)	Arawakan	human body part	0	
+SKELETON	Arawakan	human body part	0	
+SKIN (HUMAN)	Arawakan	human body part	0	
+SKULL	Arawakan	human body part	0	
+SOLE (FOOT)	Arawakan	human body part	0	
+SPINE	Arawakan	human body part	0	
+SPLEEN	Arawakan	human body part	0	
+TEMPLES	Arawakan	human body part	0	
+TENDON	Arawakan	human body part	0	
+TESTICLES	Arawakan	human body part	0	
+THROAT	Arawakan	human body part	0	
+THUMB	Arawakan	human body part	0	
+TIP (OF TONGUE)	Arawakan	human body part	0	
+TOENAIL	Arawakan	human body part	0	
+TONGUE	Arawakan	human body part	0	
+TORSO	Arawakan	human body part	0	
+UMBILICAL CORD	Arawakan	human body part	0	
+UPPER LEG (THIGH)	Arawakan	human body part	0	
+UVULA	Arawakan	human body part	0	
+VAGINA	Arawakan	human body part	0	
+VEIN	Arawakan	human body part	0	
+VULVA	Arawakan	human body part	0	
+WAIST	Arawakan	human body part	0	
+WOMB	Arawakan	human body part	0	
+WRIST	Arawakan	human body part	0	
+LIP	Arawakan	human body part	1	MOUTH:0.50
+MOUTH	Arawakan	human body part	1	LIP:0.50
+BACK	Arawakan	human body part	2	UPPER BACK:2.00
+UPPER BACK	Arawakan	human body part	2	BACK:2.00
+HAIR (HEAD)	Arawakan	human body part	3	LONG HAIR:2.00
+LONG HAIR	Arawakan	human body part	3	HAIR (HEAD):2.00
+SKIN	Arawakan	human body part	4	TOE:0.50
+TOE	Arawakan	human body part	4	SKIN:0.50
+FRONT TOOTH (INCISOR)	Arawakan	human body part	5	TOOTH:0.50
+TOOTH	Arawakan	human body part	5	FRONT TOOTH (INCISOR):0.50
+BELLY	Arawakan	human body part	6	STOMACH:3.00
+STOMACH	Arawakan	human body part	6	BELLY:3.00
+ARM	Arawakan	human body part	7	UPPER ARM:0.50;LOWER ARM:2.00
+LOWER ARM	Arawakan	human body part	7	ARM:2.00;UPPER ARM:2.00
+UPPER ARM	Arawakan	human body part	7	ARM:0.50;LOWER ARM:2.00
+LEG	Arawakan	human body part	8	LOWER LEG:1.00;SHIN:0.50
+LOWER LEG	Arawakan	human body part	8	LEG:1.00;SHIN:0.50
+SHIN	Arawakan	human body part	8	LOWER LEG:0.50;LEG:0.50
+NAPE (OF NECK)	Arawakan	human body part	9	NECK:0.50
+NECK	Arawakan	human body part	9	NAPE (OF NECK):0.50
+BEIGE	Atlantic-Congo	color	0	
+BRIGHT YELLOW	Atlantic-Congo	color	0	
+BROWN	Atlantic-Congo	color	0	
+COPPER (COLOR)	Atlantic-Congo	color	0	
+DARK GREEN	Atlantic-Congo	color	0	
+DARK YELLOW	Atlantic-Congo	color	0	
+GREEN	Atlantic-Congo	color	0	
+GREY	Atlantic-Congo	color	0	
+KHAKI	Atlantic-Congo	color	0	
+LIGHT BLUE	Atlantic-Congo	color	0	
+LIGHT GREEN	Atlantic-Congo	color	0	
+LILAC	Atlantic-Congo	color	0	
+MAGENTA	Atlantic-Congo	color	0	
+ORANGE (COLOR)	Atlantic-Congo	color	0	
+PINK	Atlantic-Congo	color	0	
+PURPLE	Atlantic-Congo	color	0	
+RED	Atlantic-Congo	color	0	
+TURQUOISE	Atlantic-Congo	color	0	
+WHITE	Atlantic-Congo	color	0	
+YELLOW	Atlantic-Congo	color	0	
+BLACK	Atlantic-Congo	color	1	BLUE:0.50
+BLUE	Atlantic-Congo	color	1	BLACK:0.50
+ADAM'S APPLE	Atlantic-Congo	human body part	0	
+ANKLE	Atlantic-Congo	human body part	0	
+ANUS	Atlantic-Congo	human body part	0	
+ARMPIT	Atlantic-Congo	human body part	0	
+ARTERY	Atlantic-Congo	human body part	0	
+BACK	Atlantic-Congo	human body part	0	
+BACK OF HEAD	Atlantic-Congo	human body part	0	
+BEARD	Atlantic-Congo	human body part	0	
+BLOOD VESSEL	Atlantic-Congo	human body part	0	
+BODY	Atlantic-Congo	human body part	0	
+BODY PART	Atlantic-Congo	human body part	0	
+BREASTBONE	Atlantic-Congo	human body part	0	
+BUTTOCKS	Atlantic-Congo	human body part	0	
+CHEEK	Atlantic-Congo	human body part	0	
+CLITORIS	Atlantic-Congo	human body part	0	
+COLLARBONE	Atlantic-Congo	human body part	0	
+EARHOLE	Atlantic-Congo	human body part	0	
+EARLOBE	Atlantic-Congo	human body part	0	
+ELBOW	Atlantic-Congo	human body part	0	
+EYEBALL	Atlantic-Congo	human body part	0	
+EYEBROW	Atlantic-Congo	human body part	0	
+FINGER	Atlantic-Congo	human body part	0	
+FINGERNAIL	Atlantic-Congo	human body part	0	
+FINGERTIP	Atlantic-Congo	human body part	0	
+FLESH	Atlantic-Congo	human body part	0	
+FOREFINGER	Atlantic-Congo	human body part	0	
+FOREHEAD	Atlantic-Congo	human body part	0	
+FRONT TOOTH (INCISOR)	Atlantic-Congo	human body part	0	
+GALL BLADDER	Atlantic-Congo	human body part	0	
+GENITALIA	Atlantic-Congo	human body part	0	
+GUMS	Atlantic-Congo	human body part	0	
+GUTS	Atlantic-Congo	human body part	0	
+HAIR	Atlantic-Congo	human body part	0	
+HAIR (BODY)	Atlantic-Congo	human body part	0	
+HAIR (HEAD)	Atlantic-Congo	human body part	0	
+HEEL	Atlantic-Congo	human body part	0	
+HIP	Atlantic-Congo	human body part	0	
+HIP BONE	Atlantic-Congo	human body part	0	
+HUMP	Atlantic-Congo	human body part	0	
+INSTEP	Atlantic-Congo	human body part	0	
+INTESTINES	Atlantic-Congo	human body part	0	
+JOINT	Atlantic-Congo	human body part	0	
+KNEE	Atlantic-Congo	human body part	0	
+KNUCKLE	Atlantic-Congo	human body part	0	
+LAP	Atlantic-Congo	human body part	0	
+LARYNX	Atlantic-Congo	human body part	0	
+LEFT HAND	Atlantic-Congo	human body part	0	
+LITTLE FINGER	Atlantic-Congo	human body part	0	
+LOIN	Atlantic-Congo	human body part	0	
+LONG HAIR	Atlantic-Congo	human body part	0	
+LOWER BACK	Atlantic-Congo	human body part	0	
+LUNG	Atlantic-Congo	human body part	0	
+MIDDLE FINGER	Atlantic-Congo	human body part	0	
+MOLAR TOOTH	Atlantic-Congo	human body part	0	
+MOUSTACHE	Atlantic-Congo	human body part	0	
+MUSCLE	Atlantic-Congo	human body part	0	
+NERVE	Atlantic-Congo	human body part	0	
+NOSTRIL	Atlantic-Congo	human body part	0	
+ORAL CAVITY	Atlantic-Congo	human body part	0	
+OVARY	Atlantic-Congo	human body part	0	
+PALATE	Atlantic-Congo	human body part	0	
+PALM OF HAND	Atlantic-Congo	human body part	0	
+PANCREAS	Atlantic-Congo	human body part	0	
+PENIS	Atlantic-Congo	human body part	0	
+PHARYNX	Atlantic-Congo	human body part	0	
+PLACENTA	Atlantic-Congo	human body part	0	
+PUBIC HAIR	Atlantic-Congo	human body part	0	
+PUPIL	Atlantic-Congo	human body part	0	
+RIB	Atlantic-Congo	human body part	0	
+RIGHT HAND	Atlantic-Congo	human body part	0	
+SCROTUM	Atlantic-Congo	human body part	0	
+SHOULDER	Atlantic-Congo	human body part	0	
+SHOULDERBLADE	Atlantic-Congo	human body part	0	
+SIDE (BODY)	Atlantic-Congo	human body part	0	
+SKELETON	Atlantic-Congo	human body part	0	
+SKIN	Atlantic-Congo	human body part	0	
+SKIN (HUMAN)	Atlantic-Congo	human body part	0	
+SKULL	Atlantic-Congo	human body part	0	
+SOLE (FOOT)	Atlantic-Congo	human body part	0	
+SPLEEN	Atlantic-Congo	human body part	0	
+TEMPLES	Atlantic-Congo	human body part	0	
+TENDON	Atlantic-Congo	human body part	0	
+TESTICLES	Atlantic-Congo	human body part	0	
+THROAT	Atlantic-Congo	human body part	0	
+THUMB	Atlantic-Congo	human body part	0	
+TIP (OF TONGUE)	Atlantic-Congo	human body part	0	
+TOE	Atlantic-Congo	human body part	0	
+TOENAIL	Atlantic-Congo	human body part	0	
+TONGUE	Atlantic-Congo	human body part	0	
+TOOTH	Atlantic-Congo	human body part	0	
+TORSO	Atlantic-Congo	human body part	0	
+UMBILICAL CORD	Atlantic-Congo	human body part	0	
+UPPER BACK	Atlantic-Congo	human body part	0	
+UPPER LEG (THIGH)	Atlantic-Congo	human body part	0	
+UVULA	Atlantic-Congo	human body part	0	
+VAGINA	Atlantic-Congo	human body part	0	
+VEIN	Atlantic-Congo	human body part	0	
+VULVA	Atlantic-Congo	human body part	0	
+WAIST	Atlantic-Congo	human body part	0	
+WOMB	Atlantic-Congo	human body part	0	
+WRIST	Atlantic-Congo	human body part	0	
+BRAIN	Atlantic-Congo	human body part	1	HEAD:0.50
+HEAD	Atlantic-Congo	human body part	1	BRAIN:0.50
+EYELASH	Atlantic-Congo	human body part	10	EYELID:0.50
+EYELID	Atlantic-Congo	human body part	10	EYELASH:0.50
+ARM	Atlantic-Congo	human body part	11	HAND:0.50
+HAND	Atlantic-Congo	human body part	11	ARM:0.50;UPPER ARM:0.50;LOWER ARM:0.50
+LOWER ARM	Atlantic-Congo	human body part	11	UPPER ARM:0.50;HAND:0.50
+UPPER ARM	Atlantic-Congo	human body part	11	LOWER ARM:0.50;HAND:0.50
+BREAST	Atlantic-Congo	human body part	12	NIPPLE:0.50
+NIPPLE	Atlantic-Congo	human body part	12	BREAST:0.50
+BELLY	Atlantic-Congo	human body part	13	STOMACH:0.50
+STOMACH	Atlantic-Congo	human body part	13	BELLY:0.50
+BONE	Atlantic-Congo	human body part	2	NAVEL:0.50;SPINE:0.50
+NAVEL	Atlantic-Congo	human body part	2	BONE:0.50
+SPINE	Atlantic-Congo	human body part	2	BONE:0.50
+EAR	Atlantic-Congo	human body part	3	NECK:0.50
+NAPE (OF NECK)	Atlantic-Congo	human body part	3	NECK:0.50
+NECK	Atlantic-Congo	human body part	3	EAR:0.50;NAPE (OF NECK):0.50
+HEART	Atlantic-Congo	human body part	4	LIVER:0.50
+LIVER	Atlantic-Congo	human body part	4	HEART:0.50
+CHIN	Atlantic-Congo	human body part	5	JAW:0.50
+JAW	Atlantic-Congo	human body part	5	MOUTH:0.50;CHIN:0.50
+LIP	Atlantic-Congo	human body part	5	MOUTH:2.00
+MOUTH	Atlantic-Congo	human body part	5	LIP:2.00;JAW:0.50
+BLADDER	Atlantic-Congo	human body part	6	KIDNEY:0.50
+KIDNEY	Atlantic-Congo	human body part	6	BLADDER:0.50
+CALF OF LEG	Atlantic-Congo	human body part	7	LEG:0.50;SHIN:0.50
+FOOT	Atlantic-Congo	human body part	7	LEG:0.50;LOWER LEG:0.50
+LEG	Atlantic-Congo	human body part	7	CALF OF LEG:0.50;FOOT:0.50
+LOWER LEG	Atlantic-Congo	human body part	7	FOOT:0.50
+SHIN	Atlantic-Congo	human body part	7	CALF OF LEG:0.50
+EYE	Atlantic-Congo	human body part	8	FACE:0.50
+FACE	Atlantic-Congo	human body part	8	EYE:0.50
+CHEST	Atlantic-Congo	human body part	9	NOSE:0.50
+NOSE	Atlantic-Congo	human body part	9	CHEST:0.50
+BEIGE	Chocoan	color	0	
+BLACK	Chocoan	color	0	
+BRIGHT YELLOW	Chocoan	color	0	
+BROWN	Chocoan	color	0	
+COPPER (COLOR)	Chocoan	color	0	
+DARK GREEN	Chocoan	color	0	
+DARK YELLOW	Chocoan	color	0	
+GREY	Chocoan	color	0	
+KHAKI	Chocoan	color	0	
+LIGHT BLUE	Chocoan	color	0	
+LIGHT GREEN	Chocoan	color	0	
+LILAC	Chocoan	color	0	
+MAGENTA	Chocoan	color	0	
+ORANGE (COLOR)	Chocoan	color	0	
+PINK	Chocoan	color	0	
+PURPLE	Chocoan	color	0	
+RED	Chocoan	color	0	
+TURQUOISE	Chocoan	color	0	
+WHITE	Chocoan	color	0	
+YELLOW	Chocoan	color	0	
+BLUE	Chocoan	color	1	GREEN:0.50
+GREEN	Chocoan	color	1	BLUE:0.50
+ADAM'S APPLE	Chocoan	human body part	0	
+ANKLE	Chocoan	human body part	0	
+ANUS	Chocoan	human body part	0	
+ARMPIT	Chocoan	human body part	0	
+ARTERY	Chocoan	human body part	0	
+BACK OF HEAD	Chocoan	human body part	0	
+BEARD	Chocoan	human body part	0	
+BLADDER	Chocoan	human body part	0	
+BLOOD VESSEL	Chocoan	human body part	0	
+BODY	Chocoan	human body part	0	
+BODY PART	Chocoan	human body part	0	
+BRAIN	Chocoan	human body part	0	
+BREAST	Chocoan	human body part	0	
+BREASTBONE	Chocoan	human body part	0	
+BUTTOCKS	Chocoan	human body part	0	
+CALF OF LEG	Chocoan	human body part	0	
+CHEEK	Chocoan	human body part	0	
+CHEST	Chocoan	human body part	0	
+CHIN	Chocoan	human body part	0	
+CLITORIS	Chocoan	human body part	0	
+COLLARBONE	Chocoan	human body part	0	
+EAR	Chocoan	human body part	0	
+EARHOLE	Chocoan	human body part	0	
+EARLOBE	Chocoan	human body part	0	
+ELBOW	Chocoan	human body part	0	
+EYEBALL	Chocoan	human body part	0	
+EYEBROW	Chocoan	human body part	0	
+EYELASH	Chocoan	human body part	0	
+EYELID	Chocoan	human body part	0	
+FACE	Chocoan	human body part	0	
+FINGERNAIL	Chocoan	human body part	0	
+FINGERTIP	Chocoan	human body part	0	
+FLESH	Chocoan	human body part	0	
+FOREFINGER	Chocoan	human body part	0	
+FOREHEAD	Chocoan	human body part	0	
+GALL BLADDER	Chocoan	human body part	0	
+GENITALIA	Chocoan	human body part	0	
+GUMS	Chocoan	human body part	0	
+GUTS	Chocoan	human body part	0	
+HAIR	Chocoan	human body part	0	
+HAIR (BODY)	Chocoan	human body part	0	
+HAIR (HEAD)	Chocoan	human body part	0	
+HEAD	Chocoan	human body part	0	
+HEEL	Chocoan	human body part	0	
+HIP	Chocoan	human body part	0	
+HIP BONE	Chocoan	human body part	0	
+HUMP	Chocoan	human body part	0	
+INSTEP	Chocoan	human body part	0	
+JAW	Chocoan	human body part	0	
+JOINT	Chocoan	human body part	0	
+KIDNEY	Chocoan	human body part	0	
+KNEE	Chocoan	human body part	0	
+KNUCKLE	Chocoan	human body part	0	
+LAP	Chocoan	human body part	0	
+LARYNX	Chocoan	human body part	0	
+LEFT HAND	Chocoan	human body part	0	
+LIP	Chocoan	human body part	0	
+LITTLE FINGER	Chocoan	human body part	0	
+LOIN	Chocoan	human body part	0	
+LONG HAIR	Chocoan	human body part	0	
+LOWER BACK	Chocoan	human body part	0	
+MIDDLE FINGER	Chocoan	human body part	0	
+MOLAR TOOTH	Chocoan	human body part	0	
+MOUSTACHE	Chocoan	human body part	0	
+MOUTH	Chocoan	human body part	0	
+MUSCLE	Chocoan	human body part	0	
+NAPE (OF NECK)	Chocoan	human body part	0	
+NAVEL	Chocoan	human body part	0	
+NERVE	Chocoan	human body part	0	
+NIPPLE	Chocoan	human body part	0	
+NOSE	Chocoan	human body part	0	
+NOSTRIL	Chocoan	human body part	0	
+ORAL CAVITY	Chocoan	human body part	0	
+OVARY	Chocoan	human body part	0	
+PALATE	Chocoan	human body part	0	
+PALM OF HAND	Chocoan	human body part	0	
+PANCREAS	Chocoan	human body part	0	
+PENIS	Chocoan	human body part	0	
+PHARYNX	Chocoan	human body part	0	
+PLACENTA	Chocoan	human body part	0	
+PUBIC HAIR	Chocoan	human body part	0	
+PUPIL	Chocoan	human body part	0	
+RIB	Chocoan	human body part	0	
+RIGHT HAND	Chocoan	human body part	0	
+SCROTUM	Chocoan	human body part	0	
+SHOULDERBLADE	Chocoan	human body part	0	
+SIDE (BODY)	Chocoan	human body part	0	
+SKELETON	Chocoan	human body part	0	
+SKIN (HUMAN)	Chocoan	human body part	0	
+SKULL	Chocoan	human body part	0	
+SOLE (FOOT)	Chocoan	human body part	0	
+SPINE	Chocoan	human body part	0	
+SPLEEN	Chocoan	human body part	0	
+TEMPLES	Chocoan	human body part	0	
+TENDON	Chocoan	human body part	0	
+TESTICLES	Chocoan	human body part	0	
+THUMB	Chocoan	human body part	0	
+TIP (OF TONGUE)	Chocoan	human body part	0	
+TOENAIL	Chocoan	human body part	0	
+TONGUE	Chocoan	human body part	0	
+TORSO	Chocoan	human body part	0	
+UMBILICAL CORD	Chocoan	human body part	0	
+UPPER BACK	Chocoan	human body part	0	
+UPPER LEG (THIGH)	Chocoan	human body part	0	
+UVULA	Chocoan	human body part	0	
+VAGINA	Chocoan	human body part	0	
+VEIN	Chocoan	human body part	0	
+VULVA	Chocoan	human body part	0	
+WAIST	Chocoan	human body part	0	
+WOMB	Chocoan	human body part	0	
+WRIST	Chocoan	human body part	0	
+FRONT TOOTH (INCISOR)	Chocoan	human body part	1	TOOTH:1.00
+TOOTH	Chocoan	human body part	1	FRONT TOOTH (INCISOR):1.00
+NECK	Chocoan	human body part	10	THROAT:0.50
+THROAT	Chocoan	human body part	10	NECK:0.50
+BELLY	Chocoan	human body part	2	STOMACH:1.00
+STOMACH	Chocoan	human body part	2	BELLY:1.00
+FINGER	Chocoan	human body part	3	TOE:2.00
+TOE	Chocoan	human body part	3	FINGER:2.00
+BONE	Chocoan	human body part	4	FOOT:0.50
+FOOT	Chocoan	human body part	4	LEG:2.00;BONE:0.50;LOWER LEG:0.50
+LEG	Chocoan	human body part	4	FOOT:2.00
+LOWER LEG	Chocoan	human body part	4	FOOT:0.50
+HEART	Chocoan	human body part	5	LUNG:0.50
+LUNG	Chocoan	human body part	5	HEART:0.50
+ARM	Chocoan	human body part	6	LOWER ARM:0.50;UPPER ARM:1.00
+HAND	Chocoan	human body part	6	UPPER ARM:0.50;LOWER ARM:0.50
+LOWER ARM	Chocoan	human body part	6	ARM:0.50;UPPER ARM:0.50;HAND:0.50
+SHOULDER	Chocoan	human body part	6	UPPER ARM:0.50
+UPPER ARM	Chocoan	human body part	6	SHOULDER:0.50;ARM:1.00;LOWER ARM:0.50;HAND:0.50
+EYE	Chocoan	human body part	7	SHIN:0.50
+SHIN	Chocoan	human body part	7	EYE:0.50
+BACK	Chocoan	human body part	8	SKIN:0.50
+SKIN	Chocoan	human body part	8	BACK:0.50
+INTESTINES	Chocoan	human body part	9	LIVER:0.50
+LIVER	Chocoan	human body part	9	INTESTINES:0.50
+BEIGE	Hmong-Mien	color	0	
+BLACK	Hmong-Mien	color	0	
+BRIGHT YELLOW	Hmong-Mien	color	0	
+BROWN	Hmong-Mien	color	0	
+COPPER (COLOR)	Hmong-Mien	color	0	
+DARK GREEN	Hmong-Mien	color	0	
+DARK YELLOW	Hmong-Mien	color	0	
+GREY	Hmong-Mien	color	0	
+KHAKI	Hmong-Mien	color	0	
+LIGHT BLUE	Hmong-Mien	color	0	
+LIGHT GREEN	Hmong-Mien	color	0	
+LILAC	Hmong-Mien	color	0	
+MAGENTA	Hmong-Mien	color	0	
+ORANGE (COLOR)	Hmong-Mien	color	0	
+PINK	Hmong-Mien	color	0	
+PURPLE	Hmong-Mien	color	0	
+RED	Hmong-Mien	color	0	
+TURQUOISE	Hmong-Mien	color	0	
+WHITE	Hmong-Mien	color	0	
+YELLOW	Hmong-Mien	color	0	
+BLUE	Hmong-Mien	color	1	GREEN:5.00
+GREEN	Hmong-Mien	color	1	BLUE:5.00
 ADAM'S APPLE	Hmong-Mien	human body part	0	
 ANKLE	Hmong-Mien	human body part	0	
-ARM	Hmong-Mien	human body part	0	
 ARMPIT	Hmong-Mien	human body part	0	
 ARTERY	Hmong-Mien	human body part	0	
-BACK	Hmong-Mien	human body part	0	
 BACK OF HEAD	Hmong-Mien	human body part	0	
 BEARD	Hmong-Mien	human body part	0	
 BLADDER	Hmong-Mien	human body part	0	
-BLOOD VESSEL	Hmong-Mien	human body part	0	
 BODY	Hmong-Mien	human body part	0	
 BODY PART	Hmong-Mien	human body part	0	
 BONE	Hmong-Mien	human body part	0	
@@ -290,7 +703,6 @@ BREASTBONE	Hmong-Mien	human body part	0
 CALF OF LEG	Hmong-Mien	human body part	0	
 CHEEK	Hmong-Mien	human body part	0	
 CHEST	Hmong-Mien	human body part	0	
-CHIN	Hmong-Mien	human body part	0	
 CLITORIS	Hmong-Mien	human body part	0	
 COLLARBONE	Hmong-Mien	human body part	0	
 EAR	Hmong-Mien	human body part	0	
@@ -298,8 +710,6 @@ EARHOLE	Hmong-Mien	human body part	0
 EARLOBE	Hmong-Mien	human body part	0	
 ELBOW	Hmong-Mien	human body part	0	
 EYEBALL	Hmong-Mien	human body part	0	
-EYEBROW	Hmong-Mien	human body part	0	
-EYELASH	Hmong-Mien	human body part	0	
 EYELID	Hmong-Mien	human body part	0	
 FINGER	Hmong-Mien	human body part	0	
 FINGERNAIL	Hmong-Mien	human body part	0	
@@ -313,9 +723,7 @@ GENITALIA	Hmong-Mien	human body part	0
 GUMS	Hmong-Mien	human body part	0	
 GUTS	Hmong-Mien	human body part	0	
 HAIR	Hmong-Mien	human body part	0	
-HAIR (BODY)	Hmong-Mien	human body part	0	
 HAIR (HEAD)	Hmong-Mien	human body part	0	
-HAND	Hmong-Mien	human body part	0	
 HEAD	Hmong-Mien	human body part	0	
 HEEL	Hmong-Mien	human body part	0	
 HIP	Hmong-Mien	human body part	0	
@@ -323,7 +731,6 @@ HIP BONE	Hmong-Mien	human body part	0
 HUMP	Hmong-Mien	human body part	0	
 INSTEP	Hmong-Mien	human body part	0	
 INTESTINES	Hmong-Mien	human body part	0	
-JAW	Hmong-Mien	human body part	0	
 JOINT	Hmong-Mien	human body part	0	
 KIDNEY	Hmong-Mien	human body part	0	
 KNEE	Hmong-Mien	human body part	0	
@@ -336,7 +743,6 @@ LIP	Hmong-Mien	human body part	0
 LITTLE FINGER	Hmong-Mien	human body part	0	
 LOIN	Hmong-Mien	human body part	0	
 LONG HAIR	Hmong-Mien	human body part	0	
-LOWER ARM	Hmong-Mien	human body part	0	
 LOWER BACK	Hmong-Mien	human body part	0	
 LOWER LEG	Hmong-Mien	human body part	0	
 LUNG	Hmong-Mien	human body part	0	
@@ -349,17 +755,13 @@ NAPE (OF NECK)	Hmong-Mien	human body part	0
 NAVEL	Hmong-Mien	human body part	0	
 NERVE	Hmong-Mien	human body part	0	
 NIPPLE	Hmong-Mien	human body part	0	
-NOSE	Hmong-Mien	human body part	0	
-NOSTRIL	Hmong-Mien	human body part	0	
 ORAL CAVITY	Hmong-Mien	human body part	0	
 OVARY	Hmong-Mien	human body part	0	
 PALATE	Hmong-Mien	human body part	0	
 PALM OF HAND	Hmong-Mien	human body part	0	
 PANCREAS	Hmong-Mien	human body part	0	
-PENIS	Hmong-Mien	human body part	0	
 PHARYNX	Hmong-Mien	human body part	0	
 PLACENTA	Hmong-Mien	human body part	0	
-PUBIC HAIR	Hmong-Mien	human body part	0	
 PUPIL	Hmong-Mien	human body part	0	
 RIB	Hmong-Mien	human body part	0	
 RIGHT HAND	Hmong-Mien	human body part	0	
@@ -375,7 +777,6 @@ SOLE (FOOT)	Hmong-Mien	human body part	0
 SPINE	Hmong-Mien	human body part	0	
 SPLEEN	Hmong-Mien	human body part	0	
 TEMPLES	Hmong-Mien	human body part	0	
-TENDON	Hmong-Mien	human body part	0	
 TESTICLES	Hmong-Mien	human body part	0	
 THUMB	Hmong-Mien	human body part	0	
 TIP (OF TONGUE)	Hmong-Mien	human body part	0	
@@ -385,43 +786,268 @@ TONGUE	Hmong-Mien	human body part	0
 TOOTH	Hmong-Mien	human body part	0	
 TORSO	Hmong-Mien	human body part	0	
 UMBILICAL CORD	Hmong-Mien	human body part	0	
-UPPER ARM	Hmong-Mien	human body part	0	
 UPPER BACK	Hmong-Mien	human body part	0	
 UPPER LEG (THIGH)	Hmong-Mien	human body part	0	
 UVULA	Hmong-Mien	human body part	0	
-VAGINA	Hmong-Mien	human body part	0	
 VEIN	Hmong-Mien	human body part	0	
-VULVA	Hmong-Mien	human body part	0	
-WAIST	Hmong-Mien	human body part	0	
 WOMB	Hmong-Mien	human body part	0	
 WRIST	Hmong-Mien	human body part	0	
 EYE	Hmong-Mien	human body part	1	FACE:0.50
 FACE	Hmong-Mien	human body part	1	EYE:0.50
+EYEBROW	Hmong-Mien	human body part	10	EYELASH:0.50
+EYELASH	Hmong-Mien	human body part	10	EYEBROW:0.50
+NOSE	Hmong-Mien	human body part	11	NOSTRIL:0.50
+NOSTRIL	Hmong-Mien	human body part	11	NOSE:0.50
+ARM	Hmong-Mien	human body part	12	HAND:0.50
+HAND	Hmong-Mien	human body part	12	ARM:0.50
+PENIS	Hmong-Mien	human body part	13	VAGINA:0.50;VULVA:0.50
+VAGINA	Hmong-Mien	human body part	13	PENIS:0.50;VULVA:0.50
+VULVA	Hmong-Mien	human body part	13	PENIS:0.50;VAGINA:0.50
+LOWER ARM	Hmong-Mien	human body part	14	UPPER ARM:0.50
+UPPER ARM	Hmong-Mien	human body part	14	LOWER ARM:0.50
+BELLY	Hmong-Mien	human body part	2	STOMACH:3.00
 HEART	Hmong-Mien	human body part	2	LIVER:0.50;STOMACH:0.50
 LIVER	Hmong-Mien	human body part	2	HEART:0.50
-BELLY	Hmong-Mien	human body part	3	STOMACH:3.00
-STOMACH	Hmong-Mien	human body part	3	BELLY:3.00;HEART:0.50
-FOOT	Hmong-Mien	human body part	4	SKIN:0.50
-SKIN	Hmong-Mien	human body part	4	FOOT:0.50
-NECK	Hmong-Mien	human body part	5	THROAT:1.00
-THROAT	Hmong-Mien	human body part	5	NECK:1.00
-ANUS	Hmong-Mien	human body part	6	BUTTOCKS:1.00
-BUTTOCKS	Hmong-Mien	human body part	6	ANUS:1.00
+STOMACH	Hmong-Mien	human body part	2	BELLY:3.00;HEART:0.50
+FOOT	Hmong-Mien	human body part	3	SKIN:0.50
+SKIN	Hmong-Mien	human body part	3	FOOT:0.50
+NECK	Hmong-Mien	human body part	4	THROAT:1.00
+THROAT	Hmong-Mien	human body part	4	NECK:1.00
+ANUS	Hmong-Mien	human body part	5	BUTTOCKS:1.00
+BUTTOCKS	Hmong-Mien	human body part	5	ANUS:1.00
+HAIR (BODY)	Hmong-Mien	human body part	6	PUBIC HAIR:0.50
+PUBIC HAIR	Hmong-Mien	human body part	6	HAIR (BODY):0.50
+BLOOD VESSEL	Hmong-Mien	human body part	7	TENDON:0.50
+TENDON	Hmong-Mien	human body part	7	BLOOD VESSEL:0.50
+BACK	Hmong-Mien	human body part	8	WAIST:0.50
+WAIST	Hmong-Mien	human body part	8	BACK:0.50
+CHIN	Hmong-Mien	human body part	9	JAW:0.50
+JAW	Hmong-Mien	human body part	9	CHIN:0.50
+BEIGE	Huitotoan	color	0	
+BLACK	Huitotoan	color	0	
+BRIGHT YELLOW	Huitotoan	color	0	
+BROWN	Huitotoan	color	0	
+COPPER (COLOR)	Huitotoan	color	0	
+DARK GREEN	Huitotoan	color	0	
+DARK YELLOW	Huitotoan	color	0	
+GREY	Huitotoan	color	0	
+KHAKI	Huitotoan	color	0	
+LIGHT BLUE	Huitotoan	color	0	
+LIGHT GREEN	Huitotoan	color	0	
+LILAC	Huitotoan	color	0	
+MAGENTA	Huitotoan	color	0	
+ORANGE (COLOR)	Huitotoan	color	0	
+PINK	Huitotoan	color	0	
+PURPLE	Huitotoan	color	0	
+RED	Huitotoan	color	0	
+TURQUOISE	Huitotoan	color	0	
+WHITE	Huitotoan	color	0	
+YELLOW	Huitotoan	color	0	
+BLUE	Huitotoan	color	1	GREEN:0.50
+GREEN	Huitotoan	color	1	BLUE:0.50
+ADAM'S APPLE	Huitotoan	human body part	0	
+ANKLE	Huitotoan	human body part	0	
+ANUS	Huitotoan	human body part	0	
+ARM	Huitotoan	human body part	0	
+ARMPIT	Huitotoan	human body part	0	
+ARTERY	Huitotoan	human body part	0	
+BACK OF HEAD	Huitotoan	human body part	0	
+BELLY	Huitotoan	human body part	0	
+BLADDER	Huitotoan	human body part	0	
+BLOOD VESSEL	Huitotoan	human body part	0	
+BODY	Huitotoan	human body part	0	
+BODY PART	Huitotoan	human body part	0	
+BONE	Huitotoan	human body part	0	
+BRAIN	Huitotoan	human body part	0	
+BREAST	Huitotoan	human body part	0	
+BREASTBONE	Huitotoan	human body part	0	
+BUTTOCKS	Huitotoan	human body part	0	
+CALF OF LEG	Huitotoan	human body part	0	
+CHEEK	Huitotoan	human body part	0	
+CHEST	Huitotoan	human body part	0	
+CLITORIS	Huitotoan	human body part	0	
+COLLARBONE	Huitotoan	human body part	0	
+EAR	Huitotoan	human body part	0	
+EARHOLE	Huitotoan	human body part	0	
+EARLOBE	Huitotoan	human body part	0	
+EYE	Huitotoan	human body part	0	
+EYEBALL	Huitotoan	human body part	0	
+EYEBROW	Huitotoan	human body part	0	
+EYELASH	Huitotoan	human body part	0	
+EYELID	Huitotoan	human body part	0	
+FACE	Huitotoan	human body part	0	
+FINGER	Huitotoan	human body part	0	
+FINGERNAIL	Huitotoan	human body part	0	
+FINGERTIP	Huitotoan	human body part	0	
+FLESH	Huitotoan	human body part	0	
+FOOT	Huitotoan	human body part	0	
+FOREFINGER	Huitotoan	human body part	0	
+FOREHEAD	Huitotoan	human body part	0	
+FRONT TOOTH (INCISOR)	Huitotoan	human body part	0	
+GALL BLADDER	Huitotoan	human body part	0	
+GENITALIA	Huitotoan	human body part	0	
+GUMS	Huitotoan	human body part	0	
+GUTS	Huitotoan	human body part	0	
+HAIR	Huitotoan	human body part	0	
+HAIR (BODY)	Huitotoan	human body part	0	
+HAND	Huitotoan	human body part	0	
+HEAD	Huitotoan	human body part	0	
+HEART	Huitotoan	human body part	0	
+HEEL	Huitotoan	human body part	0	
+HIP	Huitotoan	human body part	0	
+HIP BONE	Huitotoan	human body part	0	
+HUMP	Huitotoan	human body part	0	
+INSTEP	Huitotoan	human body part	0	
+INTESTINES	Huitotoan	human body part	0	
+JAW	Huitotoan	human body part	0	
+JOINT	Huitotoan	human body part	0	
+KIDNEY	Huitotoan	human body part	0	
+KNEE	Huitotoan	human body part	0	
+KNUCKLE	Huitotoan	human body part	0	
+LAP	Huitotoan	human body part	0	
+LARYNX	Huitotoan	human body part	0	
+LEFT HAND	Huitotoan	human body part	0	
+LEG	Huitotoan	human body part	0	
+LITTLE FINGER	Huitotoan	human body part	0	
+LIVER	Huitotoan	human body part	0	
+LOIN	Huitotoan	human body part	0	
+LOWER BACK	Huitotoan	human body part	0	
+LOWER LEG	Huitotoan	human body part	0	
+LUNG	Huitotoan	human body part	0	
+MIDDLE FINGER	Huitotoan	human body part	0	
+MOLAR TOOTH	Huitotoan	human body part	0	
+MOUSTACHE	Huitotoan	human body part	0	
+MOUTH	Huitotoan	human body part	0	
+MUSCLE	Huitotoan	human body part	0	
+NAVEL	Huitotoan	human body part	0	
+NERVE	Huitotoan	human body part	0	
+NIPPLE	Huitotoan	human body part	0	
+NOSE	Huitotoan	human body part	0	
+NOSTRIL	Huitotoan	human body part	0	
+ORAL CAVITY	Huitotoan	human body part	0	
+OVARY	Huitotoan	human body part	0	
+PALATE	Huitotoan	human body part	0	
+PALM OF HAND	Huitotoan	human body part	0	
+PANCREAS	Huitotoan	human body part	0	
+PENIS	Huitotoan	human body part	0	
+PHARYNX	Huitotoan	human body part	0	
+PLACENTA	Huitotoan	human body part	0	
+PUBIC HAIR	Huitotoan	human body part	0	
+PUPIL	Huitotoan	human body part	0	
+RIB	Huitotoan	human body part	0	
+RIGHT HAND	Huitotoan	human body part	0	
+SCROTUM	Huitotoan	human body part	0	
+SHIN	Huitotoan	human body part	0	
+SHOULDERBLADE	Huitotoan	human body part	0	
+SIDE (BODY)	Huitotoan	human body part	0	
+SKELETON	Huitotoan	human body part	0	
+SKIN (HUMAN)	Huitotoan	human body part	0	
+SKULL	Huitotoan	human body part	0	
+SOLE (FOOT)	Huitotoan	human body part	0	
+SPINE	Huitotoan	human body part	0	
+SPLEEN	Huitotoan	human body part	0	
+STOMACH	Huitotoan	human body part	0	
+TEMPLES	Huitotoan	human body part	0	
+TENDON	Huitotoan	human body part	0	
+TESTICLES	Huitotoan	human body part	0	
+THROAT	Huitotoan	human body part	0	
+THUMB	Huitotoan	human body part	0	
+TIP (OF TONGUE)	Huitotoan	human body part	0	
+TOE	Huitotoan	human body part	0	
+TOENAIL	Huitotoan	human body part	0	
+TONGUE	Huitotoan	human body part	0	
+TOOTH	Huitotoan	human body part	0	
+TORSO	Huitotoan	human body part	0	
+UMBILICAL CORD	Huitotoan	human body part	0	
+UPPER LEG (THIGH)	Huitotoan	human body part	0	
+UVULA	Huitotoan	human body part	0	
+VAGINA	Huitotoan	human body part	0	
+VEIN	Huitotoan	human body part	0	
+VULVA	Huitotoan	human body part	0	
+WAIST	Huitotoan	human body part	0	
+WOMB	Huitotoan	human body part	0	
+WRIST	Huitotoan	human body part	0	
+BEARD	Huitotoan	human body part	1	CHIN:0.50
+CHIN	Huitotoan	human body part	1	BEARD:0.50
+BACK	Huitotoan	human body part	2	UPPER BACK:2.00
+UPPER BACK	Huitotoan	human body part	2	BACK:2.00
+ELBOW	Huitotoan	human body part	3	LOWER ARM:0.50
+LOWER ARM	Huitotoan	human body part	3	ELBOW:0.50;UPPER ARM:0.50
+SHOULDER	Huitotoan	human body part	3	UPPER ARM:0.50
+UPPER ARM	Huitotoan	human body part	3	SHOULDER:0.50;LOWER ARM:0.50
+NAPE (OF NECK)	Huitotoan	human body part	4	NECK:1.00
+NECK	Huitotoan	human body part	4	NAPE (OF NECK):1.00
+HAIR (HEAD)	Huitotoan	human body part	5	LONG HAIR:0.50
+LONG HAIR	Huitotoan	human body part	5	HAIR (HEAD):0.50
+LIP	Huitotoan	human body part	6	SKIN:0.50
+SKIN	Huitotoan	human body part	6	LIP:0.50
+BEIGE	Indo-European	color	0	
+BLACK	Indo-European	color	0	
+BRIGHT YELLOW	Indo-European	color	0	
+BROWN	Indo-European	color	0	
+COPPER (COLOR)	Indo-European	color	0	
+DARK GREEN	Indo-European	color	0	
+DARK YELLOW	Indo-European	color	0	
+KHAKI	Indo-European	color	0	
+LIGHT BLUE	Indo-European	color	0	
+LIGHT GREEN	Indo-European	color	0	
+LILAC	Indo-European	color	0	
+MAGENTA	Indo-European	color	0	
+ORANGE (COLOR)	Indo-European	color	0	
+PINK	Indo-European	color	0	
+PURPLE	Indo-European	color	0	
+RED	Indo-European	color	0	
+TURQUOISE	Indo-European	color	0	
+WHITE	Indo-European	color	0	
+YELLOW	Indo-European	color	0	
+BLUE	Indo-European	color	1	GREEN:2.00;GREY:0.50
+GREEN	Indo-European	color	1	BLUE:2.00;GREY:0.50
+GREY	Indo-European	color	1	BLUE:0.50;GREEN:0.50
+AMUSEMENT	Indo-European	emotion	0	
+ANGER	Indo-European	emotion	0	
+ANXIETY	Indo-European	emotion	0	
+AWE	Indo-European	emotion	0	
+CONFUSION	Indo-European	emotion	0	
+CONTEMPT	Indo-European	emotion	0	
+COURAGE	Indo-European	emotion	0	
+DEPRESSION	Indo-European	emotion	0	
+DISAPPOINTMENT	Indo-European	emotion	0	
+DISGUST	Indo-European	emotion	0	
+EXCITEMENT	Indo-European	emotion	0	
+HATE (LOATHING)	Indo-European	emotion	0	
+HOPE (FAITH)	Indo-European	emotion	0	
+INTEREST (FEELING)	Indo-European	emotion	0	
+JEALOUSY	Indo-European	emotion	0	
+KINDNESS	Indo-European	emotion	0	
+LONGING (WISH)	Indo-European	emotion	0	
+LOVE (AFFECTION)	Indo-European	emotion	0	
+MISERY	Indo-European	emotion	0	
+MOURNING	Indo-European	emotion	0	
+PAIN	Indo-European	emotion	0	
+PLEASURE	Indo-European	emotion	0	
+PRIDE	Indo-European	emotion	0	
+RESPECT (NOUN)	Indo-European	emotion	0	
+SADNESS	Indo-European	emotion	0	
+SHAME	Indo-European	emotion	0	
+SURPRISE (FEELING)	Indo-European	emotion	0	
+TRIUMPH	Indo-European	emotion	0	
+HAPPINESS	Indo-European	emotion	1	JOY:0.50
+JOY	Indo-European	emotion	1	HAPPINESS:0.50
+GRIEF	Indo-European	emotion	2	PITY:0.50
+PITY	Indo-European	emotion	2	GRIEF:0.50
+ENVY	Indo-European	emotion	3	FEAR (FRIGHT):1.00
+FEAR (FRIGHT)	Indo-European	emotion	3	ENVY:1.00
 ADAM'S APPLE	Indo-European	human body part	0	
-ANKLE	Indo-European	human body part	0	
 ANUS	Indo-European	human body part	0	
 ARMPIT	Indo-European	human body part	0	
 ARTERY	Indo-European	human body part	0	
 BACK OF HEAD	Indo-European	human body part	0	
 BLADDER	Indo-European	human body part	0	
-BLOOD VESSEL	Indo-European	human body part	0	
 BODY	Indo-European	human body part	0	
 BODY PART	Indo-European	human body part	0	
 BRAIN	Indo-European	human body part	0	
 BREASTBONE	Indo-European	human body part	0	
-BUTTOCKS	Indo-European	human body part	0	
 CALF OF LEG	Indo-European	human body part	0	
-CHEEK	Indo-European	human body part	0	
 CLITORIS	Indo-European	human body part	0	
 COLLARBONE	Indo-European	human body part	0	
 EAR	Indo-European	human body part	0	
@@ -430,9 +1056,7 @@ EARLOBE	Indo-European	human body part	0
 ELBOW	Indo-European	human body part	0	
 EYE	Indo-European	human body part	0	
 EYEBALL	Indo-European	human body part	0	
-EYEBROW	Indo-European	human body part	0	
 EYELASH	Indo-European	human body part	0	
-EYELID	Indo-European	human body part	0	
 FINGERTIP	Indo-European	human body part	0	
 FLESH	Indo-European	human body part	0	
 FOREFINGER	Indo-European	human body part	0	
@@ -442,16 +1066,12 @@ GENITALIA	Indo-European	human body part	0
 GUMS	Indo-European	human body part	0	
 GUTS	Indo-European	human body part	0	
 HAIR	Indo-European	human body part	0	
-HAIR (BODY)	Indo-European	human body part	0	
-HAIR (HEAD)	Indo-European	human body part	0	
 HEAD	Indo-European	human body part	0	
 HEART	Indo-European	human body part	0	
 HEEL	Indo-European	human body part	0	
-HIP	Indo-European	human body part	0	
 HIP BONE	Indo-European	human body part	0	
 HUMP	Indo-European	human body part	0	
 INSTEP	Indo-European	human body part	0	
-INTESTINES	Indo-European	human body part	0	
 JOINT	Indo-European	human body part	0	
 KIDNEY	Indo-European	human body part	0	
 KNEE	Indo-European	human body part	0	
@@ -459,14 +1079,11 @@ KNUCKLE	Indo-European	human body part	0
 LAP	Indo-European	human body part	0	
 LARYNX	Indo-European	human body part	0	
 LEFT HAND	Indo-European	human body part	0	
-LIP	Indo-European	human body part	0	
 LITTLE FINGER	Indo-European	human body part	0	
 LIVER	Indo-European	human body part	0	
 LOIN	Indo-European	human body part	0	
 LONG HAIR	Indo-European	human body part	0	
-LOWER ARM	Indo-European	human body part	0	
 LOWER BACK	Indo-European	human body part	0	
-LOWER LEG	Indo-European	human body part	0	
 LUNG	Indo-European	human body part	0	
 MIDDLE FINGER	Indo-European	human body part	0	
 MOLAR TOOTH	Indo-European	human body part	0	
@@ -474,17 +1091,14 @@ MOUSTACHE	Indo-European	human body part	0
 MUSCLE	Indo-European	human body part	0	
 NAVEL	Indo-European	human body part	0	
 NERVE	Indo-European	human body part	0	
-NIPPLE	Indo-European	human body part	0	
 NOSE	Indo-European	human body part	0	
 NOSTRIL	Indo-European	human body part	0	
 ORAL CAVITY	Indo-European	human body part	0	
 OVARY	Indo-European	human body part	0	
 PALATE	Indo-European	human body part	0	
 PANCREAS	Indo-European	human body part	0	
-PENIS	Indo-European	human body part	0	
 PHARYNX	Indo-European	human body part	0	
 PLACENTA	Indo-European	human body part	0	
-PUBIC HAIR	Indo-European	human body part	0	
 PUPIL	Indo-European	human body part	0	
 RIB	Indo-European	human body part	0	
 RIGHT HAND	Indo-European	human body part	0	
@@ -500,7 +1114,6 @@ SOLE (FOOT)	Indo-European	human body part	0
 SPINE	Indo-European	human body part	0	
 SPLEEN	Indo-European	human body part	0	
 TEMPLES	Indo-European	human body part	0	
-TESTICLES	Indo-European	human body part	0	
 THUMB	Indo-European	human body part	0	
 TIP (OF TONGUE)	Indo-European	human body part	0	
 TOENAIL	Indo-European	human body part	0	
@@ -508,41 +1121,746 @@ TONGUE	Indo-European	human body part	0
 TOOTH	Indo-European	human body part	0	
 TORSO	Indo-European	human body part	0	
 UMBILICAL CORD	Indo-European	human body part	0	
-UPPER ARM	Indo-European	human body part	0	
 UPPER BACK	Indo-European	human body part	0	
 UPPER LEG (THIGH)	Indo-European	human body part	0	
 UVULA	Indo-European	human body part	0	
-VAGINA	Indo-European	human body part	0	
-VULVA	Indo-European	human body part	0	
 WAIST	Indo-European	human body part	0	
-WOMB	Indo-European	human body part	0	
 WRIST	Indo-European	human body part	0	
-FINGER	Indo-European	human body part	1	TOE:5.00
-TOE	Indo-European	human body part	1	FINGER:5.00;HAND:0.50
-BELLY	Indo-European	human body part	10	STOMACH:2.00
-STOMACH	Indo-European	human body part	10	BELLY:2.00
-BONE	Indo-European	human body part	2	LEG:1.00
-FOOT	Indo-European	human body part	2	LEG:9.00
-LEG	Indo-European	human body part	2	FOOT:9.00;BONE:1.00
-FACE	Indo-European	human body part	3	MOUTH:0.50
-MOUTH	Indo-European	human body part	3	FACE:0.50
-NAPE (OF NECK)	Indo-European	human body part	4	NECK:2.00
-NECK	Indo-European	human body part	4	THROAT:2.00;NAPE (OF NECK):2.00
+FINGER	Indo-European	human body part	1	TOE:6.00
+TOE	Indo-European	human body part	1	FINGER:6.00;HAND:0.50
+BELLY	Indo-European	human body part	10	STOMACH:3.00;INTESTINES:0.50;WOMB:0.50
+INTESTINES	Indo-European	human body part	10	BELLY:0.50
+STOMACH	Indo-European	human body part	10	BELLY:3.00;CHEST:0.50;WOMB:0.50
+WOMB	Indo-European	human body part	10	STOMACH:0.50;BELLY:0.50
+BUTTOCKS	Indo-European	human body part	11	PENIS:0.50;TESTICLES:0.50;CHEEK:0.50
+CHEEK	Indo-European	human body part	11	FACE:0.50;BUTTOCKS:0.50
+PENIS	Indo-European	human body part	11	BUTTOCKS:0.50
+TESTICLES	Indo-European	human body part	11	BUTTOCKS:0.50
+HAIR (BODY)	Indo-European	human body part	12	HAIR (HEAD):0.50;PUBIC HAIR:0.50
+HAIR (HEAD)	Indo-European	human body part	12	HAIR (BODY):0.50
+PUBIC HAIR	Indo-European	human body part	12	HAIR (BODY):0.50
+VAGINA	Indo-European	human body part	13	VULVA:3.00
+VULVA	Indo-European	human body part	13	VAGINA:3.00
+EYEBROW	Indo-European	human body part	14	EYELID:0.50
+EYELID	Indo-European	human body part	14	EYEBROW:0.50
+ANKLE	Indo-European	human body part	15	HIP:0.50
+HIP	Indo-European	human body part	15	ANKLE:0.50
+LOWER ARM	Indo-European	human body part	16	UPPER ARM:0.50
+UPPER ARM	Indo-European	human body part	16	LOWER ARM:0.50
+BONE	Indo-European	human body part	2	LEG:1.00;LOWER LEG:0.50
+FOOT	Indo-European	human body part	2	LEG:8.00
+LEG	Indo-European	human body part	2	FOOT:8.00;BONE:1.00
+LOWER LEG	Indo-European	human body part	2	BONE:0.50
+FACE	Indo-European	human body part	3	MOUTH:1.00;CHEEK:0.50
+LIP	Indo-European	human body part	3	MOUTH:0.50
+MOUTH	Indo-European	human body part	3	FACE:1.00;LIP:0.50
+NAPE (OF NECK)	Indo-European	human body part	4	NECK:3.00
+NECK	Indo-European	human body part	4	THROAT:2.00;NAPE (OF NECK):3.00
 THROAT	Indo-European	human body part	4	NECK:2.00
-ARM	Indo-European	human body part	5	HAND:4.00;SHOULDER:4.00
+ARM	Indo-European	human body part	5	HAND:6.00;SHOULDER:2.00
 BACK	Indo-European	human body part	5	SHOULDER:0.50
-HAND	Indo-European	human body part	5	ARM:4.00;TOE:0.50;PALM OF HAND:2.00
+HAND	Indo-European	human body part	5	ARM:6.00;TOE:0.50;PALM OF HAND:2.00
 PALM OF HAND	Indo-European	human body part	5	HAND:2.00
-SHOULDER	Indo-European	human body part	5	ARM:4.00;BACK:0.50
-BREAST	Indo-European	human body part	6	CHEST:4.00
-CHEST	Indo-European	human body part	6	BREAST:4.00
-TENDON	Indo-European	human body part	7	VEIN:0.50
+SHOULDER	Indo-European	human body part	5	ARM:2.00;BACK:0.50
+BREAST	Indo-European	human body part	6	CHEST:4.00;NIPPLE:0.50
+CHEST	Indo-European	human body part	6	BREAST:4.00;STOMACH:0.50
+NIPPLE	Indo-European	human body part	6	BREAST:0.50
+BLOOD VESSEL	Indo-European	human body part	7	TENDON:3.00
+TENDON	Indo-European	human body part	7	VEIN:0.50;BLOOD VESSEL:3.00
 VEIN	Indo-European	human body part	7	TENDON:0.50
 FINGERNAIL	Indo-European	human body part	8	FOREHEAD:0.50
 FOREHEAD	Indo-European	human body part	8	FINGERNAIL:0.50
 BEARD	Indo-European	human body part	9	CHIN:3.00
 CHIN	Indo-European	human body part	9	BEARD:3.00;JAW:0.50
 JAW	Indo-European	human body part	9	CHIN:0.50
+BEIGE	Sino-Tibetan	color	0	
+BLACK	Sino-Tibetan	color	0	
+BRIGHT YELLOW	Sino-Tibetan	color	0	
+BROWN	Sino-Tibetan	color	0	
+COPPER (COLOR)	Sino-Tibetan	color	0	
+DARK GREEN	Sino-Tibetan	color	0	
+DARK YELLOW	Sino-Tibetan	color	0	
+GREY	Sino-Tibetan	color	0	
+KHAKI	Sino-Tibetan	color	0	
+LIGHT BLUE	Sino-Tibetan	color	0	
+LIGHT GREEN	Sino-Tibetan	color	0	
+LILAC	Sino-Tibetan	color	0	
+MAGENTA	Sino-Tibetan	color	0	
+ORANGE (COLOR)	Sino-Tibetan	color	0	
+PINK	Sino-Tibetan	color	0	
+PURPLE	Sino-Tibetan	color	0	
+RED	Sino-Tibetan	color	0	
+TURQUOISE	Sino-Tibetan	color	0	
+WHITE	Sino-Tibetan	color	0	
+BLUE	Sino-Tibetan	color	1	GREEN:4.00
+GREEN	Sino-Tibetan	color	1	YELLOW:3.00;BLUE:4.00
+YELLOW	Sino-Tibetan	color	1	GREEN:3.00
+ADAM'S APPLE	Sino-Tibetan	human body part	0	
+ANKLE	Sino-Tibetan	human body part	0	
+ANUS	Sino-Tibetan	human body part	0	
+ARMPIT	Sino-Tibetan	human body part	0	
+ARTERY	Sino-Tibetan	human body part	0	
+BACK OF HEAD	Sino-Tibetan	human body part	0	
+BLADDER	Sino-Tibetan	human body part	0	
+BLOOD VESSEL	Sino-Tibetan	human body part	0	
+BODY PART	Sino-Tibetan	human body part	0	
+BONE	Sino-Tibetan	human body part	0	
+BRAIN	Sino-Tibetan	human body part	0	
+BREASTBONE	Sino-Tibetan	human body part	0	
+BUTTOCKS	Sino-Tibetan	human body part	0	
+CLITORIS	Sino-Tibetan	human body part	0	
+COLLARBONE	Sino-Tibetan	human body part	0	
+EARHOLE	Sino-Tibetan	human body part	0	
+EARLOBE	Sino-Tibetan	human body part	0	
+EYEBALL	Sino-Tibetan	human body part	0	
+FACE	Sino-Tibetan	human body part	0	
+FINGERNAIL	Sino-Tibetan	human body part	0	
+FINGERTIP	Sino-Tibetan	human body part	0	
+FLESH	Sino-Tibetan	human body part	0	
+FOREFINGER	Sino-Tibetan	human body part	0	
+FOREHEAD	Sino-Tibetan	human body part	0	
+FRONT TOOTH (INCISOR)	Sino-Tibetan	human body part	0	
+GALL BLADDER	Sino-Tibetan	human body part	0	
+GENITALIA	Sino-Tibetan	human body part	0	
+GUMS	Sino-Tibetan	human body part	0	
+GUTS	Sino-Tibetan	human body part	0	
+HAIR	Sino-Tibetan	human body part	0	
+HAIR (BODY)	Sino-Tibetan	human body part	0	
+HAIR (HEAD)	Sino-Tibetan	human body part	0	
+HEAD	Sino-Tibetan	human body part	0	
+HEEL	Sino-Tibetan	human body part	0	
+HIP BONE	Sino-Tibetan	human body part	0	
+HUMP	Sino-Tibetan	human body part	0	
+INSTEP	Sino-Tibetan	human body part	0	
+JOINT	Sino-Tibetan	human body part	0	
+KIDNEY	Sino-Tibetan	human body part	0	
+KNEE	Sino-Tibetan	human body part	0	
+KNUCKLE	Sino-Tibetan	human body part	0	
+LAP	Sino-Tibetan	human body part	0	
+LARYNX	Sino-Tibetan	human body part	0	
+LEFT HAND	Sino-Tibetan	human body part	0	
+LIP	Sino-Tibetan	human body part	0	
+LITTLE FINGER	Sino-Tibetan	human body part	0	
+LIVER	Sino-Tibetan	human body part	0	
+LOIN	Sino-Tibetan	human body part	0	
+LONG HAIR	Sino-Tibetan	human body part	0	
+LOWER BACK	Sino-Tibetan	human body part	0	
+LUNG	Sino-Tibetan	human body part	0	
+MIDDLE FINGER	Sino-Tibetan	human body part	0	
+MOLAR TOOTH	Sino-Tibetan	human body part	0	
+MOUSTACHE	Sino-Tibetan	human body part	0	
+MUSCLE	Sino-Tibetan	human body part	0	
+NAPE (OF NECK)	Sino-Tibetan	human body part	0	
+NAVEL	Sino-Tibetan	human body part	0	
+NECK	Sino-Tibetan	human body part	0	
+NERVE	Sino-Tibetan	human body part	0	
+NIPPLE	Sino-Tibetan	human body part	0	
+NOSTRIL	Sino-Tibetan	human body part	0	
+ORAL CAVITY	Sino-Tibetan	human body part	0	
+OVARY	Sino-Tibetan	human body part	0	
+PALATE	Sino-Tibetan	human body part	0	
+PALM OF HAND	Sino-Tibetan	human body part	0	
+PANCREAS	Sino-Tibetan	human body part	0	
+PENIS	Sino-Tibetan	human body part	0	
+PHARYNX	Sino-Tibetan	human body part	0	
+PLACENTA	Sino-Tibetan	human body part	0	
+PUBIC HAIR	Sino-Tibetan	human body part	0	
+PUPIL	Sino-Tibetan	human body part	0	
+RIB	Sino-Tibetan	human body part	0	
+RIGHT HAND	Sino-Tibetan	human body part	0	
+SCROTUM	Sino-Tibetan	human body part	0	
+SHOULDER	Sino-Tibetan	human body part	0	
+SHOULDERBLADE	Sino-Tibetan	human body part	0	
+SIDE (BODY)	Sino-Tibetan	human body part	0	
+SKELETON	Sino-Tibetan	human body part	0	
+SKIN (HUMAN)	Sino-Tibetan	human body part	0	
+SKULL	Sino-Tibetan	human body part	0	
+SOLE (FOOT)	Sino-Tibetan	human body part	0	
+SPINE	Sino-Tibetan	human body part	0	
+TEMPLES	Sino-Tibetan	human body part	0	
+TENDON	Sino-Tibetan	human body part	0	
+TESTICLES	Sino-Tibetan	human body part	0	
+THUMB	Sino-Tibetan	human body part	0	
+TIP (OF TONGUE)	Sino-Tibetan	human body part	0	
+TOE	Sino-Tibetan	human body part	0	
+TOENAIL	Sino-Tibetan	human body part	0	
+TOOTH	Sino-Tibetan	human body part	0	
+TORSO	Sino-Tibetan	human body part	0	
+UMBILICAL CORD	Sino-Tibetan	human body part	0	
+UPPER BACK	Sino-Tibetan	human body part	0	
+UPPER LEG (THIGH)	Sino-Tibetan	human body part	0	
+UVULA	Sino-Tibetan	human body part	0	
+VEIN	Sino-Tibetan	human body part	0	
+WOMB	Sino-Tibetan	human body part	0	
+WRIST	Sino-Tibetan	human body part	0	
+FOOT	Sino-Tibetan	human body part	1	TONGUE:1.00;LEG:5.00;LOWER LEG:0.50
+INTESTINES	Sino-Tibetan	human body part	1	TONGUE:0.50
+LEG	Sino-Tibetan	human body part	1	FOOT:5.00
+LOWER LEG	Sino-Tibetan	human body part	1	FOOT:0.50
+TONGUE	Sino-Tibetan	human body part	1	FOOT:1.00;INTESTINES:0.50
+HIP	Sino-Tibetan	human body part	10	WAIST:2.00
+WAIST	Sino-Tibetan	human body part	10	BACK:0.50;HIP:2.00
+CHEEK	Sino-Tibetan	human body part	11	JAW:0.50
+JAW	Sino-Tibetan	human body part	11	CHEEK:0.50
+CHEST	Sino-Tibetan	human body part	12	THROAT:0.50
+THROAT	Sino-Tibetan	human body part	12	CHEST:0.50
+VAGINA	Sino-Tibetan	human body part	13	VULVA:0.50
+VULVA	Sino-Tibetan	human body part	13	VAGINA:0.50
+SKIN	Sino-Tibetan	human body part	14	SPLEEN:0.50
+SPLEEN	Sino-Tibetan	human body part	14	SKIN:0.50
+BACK	Sino-Tibetan	human body part	2	HEART:0.50;BODY:0.50;WAIST:0.50
+BODY	Sino-Tibetan	human body part	2	BACK:0.50
+HEART	Sino-Tibetan	human body part	2	BACK:0.50
+ARM	Sino-Tibetan	human body part	3	FINGER:0.50;HAND:3.00;ELBOW:0.50
+ELBOW	Sino-Tibetan	human body part	3	ARM:0.50;HAND:0.50
+FINGER	Sino-Tibetan	human body part	3	ARM:0.50
+HAND	Sino-Tibetan	human body part	3	ARM:3.00;ELBOW:0.50;UPPER ARM:0.50;LOWER ARM:0.50
+LOWER ARM	Sino-Tibetan	human body part	3	UPPER ARM:0.50;HAND:0.50
+UPPER ARM	Sino-Tibetan	human body part	3	LOWER ARM:0.50;HAND:0.50
+CALF OF LEG	Sino-Tibetan	human body part	4	SHIN:0.50
+SHIN	Sino-Tibetan	human body part	4	CALF OF LEG:0.50
+EYE	Sino-Tibetan	human body part	5	EYEBROW:0.50
+EYEBROW	Sino-Tibetan	human body part	5	EYELID:1.00;EYE:0.50;EYELASH:0.50
+EYELASH	Sino-Tibetan	human body part	5	EYEBROW:0.50
+EYELID	Sino-Tibetan	human body part	5	EYEBROW:1.00
+BEARD	Sino-Tibetan	human body part	6	CHIN:0.50
+CHIN	Sino-Tibetan	human body part	6	BEARD:0.50
+EAR	Sino-Tibetan	human body part	7	NOSE:0.50
+NOSE	Sino-Tibetan	human body part	7	EAR:0.50
+BELLY	Sino-Tibetan	human body part	8	STOMACH:2.00
+STOMACH	Sino-Tibetan	human body part	8	BELLY:2.00
+BREAST	Sino-Tibetan	human body part	9	MOUTH:0.50
+MOUTH	Sino-Tibetan	human body part	9	BREAST:0.50
+BEIGE	Tai-Kadai	color	0	
+BLACK	Tai-Kadai	color	0	
+BRIGHT YELLOW	Tai-Kadai	color	0	
+BROWN	Tai-Kadai	color	0	
+COPPER (COLOR)	Tai-Kadai	color	0	
+DARK GREEN	Tai-Kadai	color	0	
+DARK YELLOW	Tai-Kadai	color	0	
+GREY	Tai-Kadai	color	0	
+KHAKI	Tai-Kadai	color	0	
+LIGHT BLUE	Tai-Kadai	color	0	
+LIGHT GREEN	Tai-Kadai	color	0	
+LILAC	Tai-Kadai	color	0	
+MAGENTA	Tai-Kadai	color	0	
+ORANGE (COLOR)	Tai-Kadai	color	0	
+PINK	Tai-Kadai	color	0	
+PURPLE	Tai-Kadai	color	0	
+RED	Tai-Kadai	color	0	
+TURQUOISE	Tai-Kadai	color	0	
+WHITE	Tai-Kadai	color	0	
+YELLOW	Tai-Kadai	color	0	
+BLUE	Tai-Kadai	color	1	GREEN:2.00
+GREEN	Tai-Kadai	color	1	BLUE:2.00
+ADAM'S APPLE	Tai-Kadai	human body part	0	
+ANKLE	Tai-Kadai	human body part	0	
+ANUS	Tai-Kadai	human body part	0	
+ARM	Tai-Kadai	human body part	0	
+ARMPIT	Tai-Kadai	human body part	0	
+ARTERY	Tai-Kadai	human body part	0	
+BACK	Tai-Kadai	human body part	0	
+BACK OF HEAD	Tai-Kadai	human body part	0	
+BELLY	Tai-Kadai	human body part	0	
+BLADDER	Tai-Kadai	human body part	0	
+BLOOD VESSEL	Tai-Kadai	human body part	0	
+BODY	Tai-Kadai	human body part	0	
+BODY PART	Tai-Kadai	human body part	0	
+BONE	Tai-Kadai	human body part	0	
+BRAIN	Tai-Kadai	human body part	0	
+BREAST	Tai-Kadai	human body part	0	
+BREASTBONE	Tai-Kadai	human body part	0	
+BUTTOCKS	Tai-Kadai	human body part	0	
+CALF OF LEG	Tai-Kadai	human body part	0	
+CHEEK	Tai-Kadai	human body part	0	
+CHEST	Tai-Kadai	human body part	0	
+CLITORIS	Tai-Kadai	human body part	0	
+COLLARBONE	Tai-Kadai	human body part	0	
+EAR	Tai-Kadai	human body part	0	
+EARHOLE	Tai-Kadai	human body part	0	
+EARLOBE	Tai-Kadai	human body part	0	
+ELBOW	Tai-Kadai	human body part	0	
+EYE	Tai-Kadai	human body part	0	
+EYEBALL	Tai-Kadai	human body part	0	
+EYEBROW	Tai-Kadai	human body part	0	
+EYELASH	Tai-Kadai	human body part	0	
+EYELID	Tai-Kadai	human body part	0	
+FINGER	Tai-Kadai	human body part	0	
+FINGERNAIL	Tai-Kadai	human body part	0	
+FINGERTIP	Tai-Kadai	human body part	0	
+FLESH	Tai-Kadai	human body part	0	
+FOOT	Tai-Kadai	human body part	0	
+FOREFINGER	Tai-Kadai	human body part	0	
+FOREHEAD	Tai-Kadai	human body part	0	
+FRONT TOOTH (INCISOR)	Tai-Kadai	human body part	0	
+GALL BLADDER	Tai-Kadai	human body part	0	
+GENITALIA	Tai-Kadai	human body part	0	
+GUMS	Tai-Kadai	human body part	0	
+GUTS	Tai-Kadai	human body part	0	
+HAIR	Tai-Kadai	human body part	0	
+HAIR (BODY)	Tai-Kadai	human body part	0	
+HAIR (HEAD)	Tai-Kadai	human body part	0	
+HAND	Tai-Kadai	human body part	0	
+HEAD	Tai-Kadai	human body part	0	
+HEART	Tai-Kadai	human body part	0	
+HEEL	Tai-Kadai	human body part	0	
+HIP	Tai-Kadai	human body part	0	
+HIP BONE	Tai-Kadai	human body part	0	
+HUMP	Tai-Kadai	human body part	0	
+INSTEP	Tai-Kadai	human body part	0	
+INTESTINES	Tai-Kadai	human body part	0	
+JOINT	Tai-Kadai	human body part	0	
+KIDNEY	Tai-Kadai	human body part	0	
+KNUCKLE	Tai-Kadai	human body part	0	
+LAP	Tai-Kadai	human body part	0	
+LARYNX	Tai-Kadai	human body part	0	
+LEFT HAND	Tai-Kadai	human body part	0	
+LEG	Tai-Kadai	human body part	0	
+LIP	Tai-Kadai	human body part	0	
+LITTLE FINGER	Tai-Kadai	human body part	0	
+LIVER	Tai-Kadai	human body part	0	
+LOIN	Tai-Kadai	human body part	0	
+LONG HAIR	Tai-Kadai	human body part	0	
+LOWER BACK	Tai-Kadai	human body part	0	
+LOWER LEG	Tai-Kadai	human body part	0	
+LUNG	Tai-Kadai	human body part	0	
+MIDDLE FINGER	Tai-Kadai	human body part	0	
+MOLAR TOOTH	Tai-Kadai	human body part	0	
+MOUSTACHE	Tai-Kadai	human body part	0	
+MUSCLE	Tai-Kadai	human body part	0	
+NAPE (OF NECK)	Tai-Kadai	human body part	0	
+NAVEL	Tai-Kadai	human body part	0	
+NERVE	Tai-Kadai	human body part	0	
+NIPPLE	Tai-Kadai	human body part	0	
+NOSTRIL	Tai-Kadai	human body part	0	
+ORAL CAVITY	Tai-Kadai	human body part	0	
+OVARY	Tai-Kadai	human body part	0	
+PALATE	Tai-Kadai	human body part	0	
+PALM OF HAND	Tai-Kadai	human body part	0	
+PANCREAS	Tai-Kadai	human body part	0	
+PENIS	Tai-Kadai	human body part	0	
+PHARYNX	Tai-Kadai	human body part	0	
+PLACENTA	Tai-Kadai	human body part	0	
+PUBIC HAIR	Tai-Kadai	human body part	0	
+PUPIL	Tai-Kadai	human body part	0	
+RIB	Tai-Kadai	human body part	0	
+RIGHT HAND	Tai-Kadai	human body part	0	
+SCROTUM	Tai-Kadai	human body part	0	
+SHIN	Tai-Kadai	human body part	0	
+SHOULDER	Tai-Kadai	human body part	0	
+SHOULDERBLADE	Tai-Kadai	human body part	0	
+SIDE (BODY)	Tai-Kadai	human body part	0	
+SKELETON	Tai-Kadai	human body part	0	
+SKIN (HUMAN)	Tai-Kadai	human body part	0	
+SKULL	Tai-Kadai	human body part	0	
+SOLE (FOOT)	Tai-Kadai	human body part	0	
+SPINE	Tai-Kadai	human body part	0	
+SPLEEN	Tai-Kadai	human body part	0	
+STOMACH	Tai-Kadai	human body part	0	
+TEMPLES	Tai-Kadai	human body part	0	
+TENDON	Tai-Kadai	human body part	0	
+TESTICLES	Tai-Kadai	human body part	0	
+THUMB	Tai-Kadai	human body part	0	
+TIP (OF TONGUE)	Tai-Kadai	human body part	0	
+TOE	Tai-Kadai	human body part	0	
+TOENAIL	Tai-Kadai	human body part	0	
+TONGUE	Tai-Kadai	human body part	0	
+TOOTH	Tai-Kadai	human body part	0	
+TORSO	Tai-Kadai	human body part	0	
+UMBILICAL CORD	Tai-Kadai	human body part	0	
+UPPER BACK	Tai-Kadai	human body part	0	
+UPPER LEG (THIGH)	Tai-Kadai	human body part	0	
+UVULA	Tai-Kadai	human body part	0	
+VAGINA	Tai-Kadai	human body part	0	
+VEIN	Tai-Kadai	human body part	0	
+VULVA	Tai-Kadai	human body part	0	
+WAIST	Tai-Kadai	human body part	0	
+WOMB	Tai-Kadai	human body part	0	
+WRIST	Tai-Kadai	human body part	0	
+NOSE	Tai-Kadai	human body part	1	SKIN:1.00
+SKIN	Tai-Kadai	human body part	1	NOSE:1.00
+BEARD	Tai-Kadai	human body part	2	KNEE:0.50
+KNEE	Tai-Kadai	human body part	2	BEARD:0.50
+FACE	Tai-Kadai	human body part	3	MOUTH:0.50
+MOUTH	Tai-Kadai	human body part	3	FACE:0.50
+CHIN	Tai-Kadai	human body part	4	JAW:0.50
+JAW	Tai-Kadai	human body part	4	CHIN:0.50
+NECK	Tai-Kadai	human body part	5	THROAT:1.00
+THROAT	Tai-Kadai	human body part	5	NECK:1.00
+LOWER ARM	Tai-Kadai	human body part	6	UPPER ARM:0.50
+UPPER ARM	Tai-Kadai	human body part	6	LOWER ARM:0.50
+BEIGE	Tucanoan	color	0	
+BLACK	Tucanoan	color	0	
+BRIGHT YELLOW	Tucanoan	color	0	
+BROWN	Tucanoan	color	0	
+COPPER (COLOR)	Tucanoan	color	0	
+DARK GREEN	Tucanoan	color	0	
+DARK YELLOW	Tucanoan	color	0	
+GREY	Tucanoan	color	0	
+KHAKI	Tucanoan	color	0	
+LIGHT BLUE	Tucanoan	color	0	
+LIGHT GREEN	Tucanoan	color	0	
+LILAC	Tucanoan	color	0	
+MAGENTA	Tucanoan	color	0	
+ORANGE (COLOR)	Tucanoan	color	0	
+PINK	Tucanoan	color	0	
+PURPLE	Tucanoan	color	0	
+TURQUOISE	Tucanoan	color	0	
+RED	Tucanoan	color	1	YELLOW:0.50
+WHITE	Tucanoan	color	1	YELLOW:1.00
+YELLOW	Tucanoan	color	1	WHITE:1.00;RED:0.50
+BLUE	Tucanoan	color	2	GREEN:0.50
+GREEN	Tucanoan	color	2	BLUE:0.50
+ADAM'S APPLE	Tucanoan	human body part	0	
+ANKLE	Tucanoan	human body part	0	
+ANUS	Tucanoan	human body part	0	
+ARMPIT	Tucanoan	human body part	0	
+ARTERY	Tucanoan	human body part	0	
+BACK OF HEAD	Tucanoan	human body part	0	
+BLADDER	Tucanoan	human body part	0	
+BLOOD VESSEL	Tucanoan	human body part	0	
+BODY	Tucanoan	human body part	0	
+BODY PART	Tucanoan	human body part	0	
+BONE	Tucanoan	human body part	0	
+BRAIN	Tucanoan	human body part	0	
+BREAST	Tucanoan	human body part	0	
+BREASTBONE	Tucanoan	human body part	0	
+BUTTOCKS	Tucanoan	human body part	0	
+CALF OF LEG	Tucanoan	human body part	0	
+CHEEK	Tucanoan	human body part	0	
+CHEST	Tucanoan	human body part	0	
+CLITORIS	Tucanoan	human body part	0	
+COLLARBONE	Tucanoan	human body part	0	
+EAR	Tucanoan	human body part	0	
+EARHOLE	Tucanoan	human body part	0	
+EARLOBE	Tucanoan	human body part	0	
+EYE	Tucanoan	human body part	0	
+EYEBALL	Tucanoan	human body part	0	
+EYEBROW	Tucanoan	human body part	0	
+EYELASH	Tucanoan	human body part	0	
+EYELID	Tucanoan	human body part	0	
+FACE	Tucanoan	human body part	0	
+FINGER	Tucanoan	human body part	0	
+FINGERNAIL	Tucanoan	human body part	0	
+FINGERTIP	Tucanoan	human body part	0	
+FLESH	Tucanoan	human body part	0	
+FOREFINGER	Tucanoan	human body part	0	
+FOREHEAD	Tucanoan	human body part	0	
+FRONT TOOTH (INCISOR)	Tucanoan	human body part	0	
+GALL BLADDER	Tucanoan	human body part	0	
+GENITALIA	Tucanoan	human body part	0	
+GUMS	Tucanoan	human body part	0	
+GUTS	Tucanoan	human body part	0	
+HAIR	Tucanoan	human body part	0	
+HEAD	Tucanoan	human body part	0	
+HEART	Tucanoan	human body part	0	
+HEEL	Tucanoan	human body part	0	
+HIP	Tucanoan	human body part	0	
+HIP BONE	Tucanoan	human body part	0	
+HUMP	Tucanoan	human body part	0	
+INSTEP	Tucanoan	human body part	0	
+INTESTINES	Tucanoan	human body part	0	
+JAW	Tucanoan	human body part	0	
+JOINT	Tucanoan	human body part	0	
+KIDNEY	Tucanoan	human body part	0	
+KNEE	Tucanoan	human body part	0	
+KNUCKLE	Tucanoan	human body part	0	
+LAP	Tucanoan	human body part	0	
+LARYNX	Tucanoan	human body part	0	
+LEFT HAND	Tucanoan	human body part	0	
+LIP	Tucanoan	human body part	0	
+LITTLE FINGER	Tucanoan	human body part	0	
+LIVER	Tucanoan	human body part	0	
+LOIN	Tucanoan	human body part	0	
+LONG HAIR	Tucanoan	human body part	0	
+LOWER BACK	Tucanoan	human body part	0	
+LUNG	Tucanoan	human body part	0	
+MIDDLE FINGER	Tucanoan	human body part	0	
+MOLAR TOOTH	Tucanoan	human body part	0	
+MOUSTACHE	Tucanoan	human body part	0	
+MOUTH	Tucanoan	human body part	0	
+MUSCLE	Tucanoan	human body part	0	
+NAVEL	Tucanoan	human body part	0	
+NERVE	Tucanoan	human body part	0	
+NIPPLE	Tucanoan	human body part	0	
+NOSE	Tucanoan	human body part	0	
+NOSTRIL	Tucanoan	human body part	0	
+ORAL CAVITY	Tucanoan	human body part	0	
+OVARY	Tucanoan	human body part	0	
+PALATE	Tucanoan	human body part	0	
+PALM OF HAND	Tucanoan	human body part	0	
+PANCREAS	Tucanoan	human body part	0	
+PENIS	Tucanoan	human body part	0	
+PHARYNX	Tucanoan	human body part	0	
+PLACENTA	Tucanoan	human body part	0	
+PUBIC HAIR	Tucanoan	human body part	0	
+PUPIL	Tucanoan	human body part	0	
+RIB	Tucanoan	human body part	0	
+RIGHT HAND	Tucanoan	human body part	0	
+SCROTUM	Tucanoan	human body part	0	
+SHOULDERBLADE	Tucanoan	human body part	0	
+SIDE (BODY)	Tucanoan	human body part	0	
+SKELETON	Tucanoan	human body part	0	
+SKIN	Tucanoan	human body part	0	
+SKIN (HUMAN)	Tucanoan	human body part	0	
+SKULL	Tucanoan	human body part	0	
+SOLE (FOOT)	Tucanoan	human body part	0	
+SPINE	Tucanoan	human body part	0	
+SPLEEN	Tucanoan	human body part	0	
+TEMPLES	Tucanoan	human body part	0	
+TENDON	Tucanoan	human body part	0	
+TESTICLES	Tucanoan	human body part	0	
+THROAT	Tucanoan	human body part	0	
+THUMB	Tucanoan	human body part	0	
+TIP (OF TONGUE)	Tucanoan	human body part	0	
+TOE	Tucanoan	human body part	0	
+TOENAIL	Tucanoan	human body part	0	
+TONGUE	Tucanoan	human body part	0	
+TOOTH	Tucanoan	human body part	0	
+TORSO	Tucanoan	human body part	0	
+UMBILICAL CORD	Tucanoan	human body part	0	
+UPPER LEG (THIGH)	Tucanoan	human body part	0	
+UVULA	Tucanoan	human body part	0	
+VAGINA	Tucanoan	human body part	0	
+VEIN	Tucanoan	human body part	0	
+VULVA	Tucanoan	human body part	0	
+WAIST	Tucanoan	human body part	0	
+WOMB	Tucanoan	human body part	0	
+BEARD	Tucanoan	human body part	1	CHIN:0.50;HAIR (BODY):0.50
+CHIN	Tucanoan	human body part	1	BEARD:0.50
+HAIR (BODY)	Tucanoan	human body part	1	HAIR (HEAD):2.00;BEARD:0.50
+HAIR (HEAD)	Tucanoan	human body part	1	HAIR (BODY):2.00
+NAPE (OF NECK)	Tucanoan	human body part	2	NECK:2.00
+NECK	Tucanoan	human body part	2	NAPE (OF NECK):2.00
+BELLY	Tucanoan	human body part	3	STOMACH:2.00
+STOMACH	Tucanoan	human body part	3	BELLY:2.00
+BACK	Tucanoan	human body part	4	UPPER BACK:4.00
+UPPER BACK	Tucanoan	human body part	4	BACK:4.00
+ARM	Tucanoan	human body part	5	UPPER ARM:2.00;LOWER ARM:3.00;HAND:2.00
+HAND	Tucanoan	human body part	5	ARM:2.00;LOWER ARM:0.50
+LOWER ARM	Tucanoan	human body part	5	ARM:3.00;UPPER ARM:3.00;HAND:0.50
+SHOULDER	Tucanoan	human body part	5	UPPER ARM:0.50
+UPPER ARM	Tucanoan	human body part	5	SHOULDER:0.50;ARM:2.00;LOWER ARM:3.00
+FOOT	Tucanoan	human body part	6	LEG:0.50;LOWER LEG:0.50
+LEG	Tucanoan	human body part	6	SHIN:1.00;LOWER LEG:3.00;FOOT:0.50
+LOWER LEG	Tucanoan	human body part	6	LEG:3.00;SHIN:1.00;FOOT:0.50
+SHIN	Tucanoan	human body part	6	LEG:1.00;LOWER LEG:1.00
+ELBOW	Tucanoan	human body part	7	WRIST:0.50
+WRIST	Tucanoan	human body part	7	ELBOW:0.50
+BEIGE	Tupian	color	0	
+BLACK	Tupian	color	0	
+BRIGHT YELLOW	Tupian	color	0	
+BROWN	Tupian	color	0	
+COPPER (COLOR)	Tupian	color	0	
+DARK GREEN	Tupian	color	0	
+DARK YELLOW	Tupian	color	0	
+GREY	Tupian	color	0	
+KHAKI	Tupian	color	0	
+LIGHT BLUE	Tupian	color	0	
+LIGHT GREEN	Tupian	color	0	
+LILAC	Tupian	color	0	
+MAGENTA	Tupian	color	0	
+ORANGE (COLOR)	Tupian	color	0	
+PINK	Tupian	color	0	
+PURPLE	Tupian	color	0	
+RED	Tupian	color	0	
+TURQUOISE	Tupian	color	0	
+WHITE	Tupian	color	0	
+YELLOW	Tupian	color	0	
+BLUE	Tupian	color	1	GREEN:0.50
+GREEN	Tupian	color	1	BLUE:0.50
+ADAM'S APPLE	Tupian	human body part	0	
+ANKLE	Tupian	human body part	0	
+ANUS	Tupian	human body part	0	
+ARM	Tupian	human body part	0	
+ARMPIT	Tupian	human body part	0	
+ARTERY	Tupian	human body part	0	
+BACK	Tupian	human body part	0	
+BACK OF HEAD	Tupian	human body part	0	
+BLADDER	Tupian	human body part	0	
+BLOOD VESSEL	Tupian	human body part	0	
+BODY	Tupian	human body part	0	
+BODY PART	Tupian	human body part	0	
+BRAIN	Tupian	human body part	0	
+BREASTBONE	Tupian	human body part	0	
+BUTTOCKS	Tupian	human body part	0	
+CALF OF LEG	Tupian	human body part	0	
+CHEEK	Tupian	human body part	0	
+CHEST	Tupian	human body part	0	
+CHIN	Tupian	human body part	0	
+CLITORIS	Tupian	human body part	0	
+COLLARBONE	Tupian	human body part	0	
+EAR	Tupian	human body part	0	
+EARHOLE	Tupian	human body part	0	
+EARLOBE	Tupian	human body part	0	
+ELBOW	Tupian	human body part	0	
+EYE	Tupian	human body part	0	
+EYEBALL	Tupian	human body part	0	
+EYEBROW	Tupian	human body part	0	
+EYELASH	Tupian	human body part	0	
+EYELID	Tupian	human body part	0	
+FACE	Tupian	human body part	0	
+FINGERNAIL	Tupian	human body part	0	
+FINGERTIP	Tupian	human body part	0	
+FLESH	Tupian	human body part	0	
+FOREFINGER	Tupian	human body part	0	
+FOREHEAD	Tupian	human body part	0	
+FRONT TOOTH (INCISOR)	Tupian	human body part	0	
+GALL BLADDER	Tupian	human body part	0	
+GENITALIA	Tupian	human body part	0	
+GUMS	Tupian	human body part	0	
+GUTS	Tupian	human body part	0	
+HAIR	Tupian	human body part	0	
+HAIR (BODY)	Tupian	human body part	0	
+HEAD	Tupian	human body part	0	
+HEEL	Tupian	human body part	0	
+HIP	Tupian	human body part	0	
+HIP BONE	Tupian	human body part	0	
+HUMP	Tupian	human body part	0	
+INSTEP	Tupian	human body part	0	
+INTESTINES	Tupian	human body part	0	
+JAW	Tupian	human body part	0	
+JOINT	Tupian	human body part	0	
+KIDNEY	Tupian	human body part	0	
+KNEE	Tupian	human body part	0	
+KNUCKLE	Tupian	human body part	0	
+LAP	Tupian	human body part	0	
+LARYNX	Tupian	human body part	0	
+LEFT HAND	Tupian	human body part	0	
+LIP	Tupian	human body part	0	
+LITTLE FINGER	Tupian	human body part	0	
+LOIN	Tupian	human body part	0	
+LONG HAIR	Tupian	human body part	0	
+LOWER BACK	Tupian	human body part	0	
+LUNG	Tupian	human body part	0	
+MIDDLE FINGER	Tupian	human body part	0	
+MOLAR TOOTH	Tupian	human body part	0	
+MOUTH	Tupian	human body part	0	
+MUSCLE	Tupian	human body part	0	
+NAPE (OF NECK)	Tupian	human body part	0	
+NAVEL	Tupian	human body part	0	
+NERVE	Tupian	human body part	0	
+NOSE	Tupian	human body part	0	
+NOSTRIL	Tupian	human body part	0	
+ORAL CAVITY	Tupian	human body part	0	
+OVARY	Tupian	human body part	0	
+PALATE	Tupian	human body part	0	
+PALM OF HAND	Tupian	human body part	0	
+PANCREAS	Tupian	human body part	0	
+PHARYNX	Tupian	human body part	0	
+PLACENTA	Tupian	human body part	0	
+PUBIC HAIR	Tupian	human body part	0	
+PUPIL	Tupian	human body part	0	
+RIB	Tupian	human body part	0	
+RIGHT HAND	Tupian	human body part	0	
+SCROTUM	Tupian	human body part	0	
+SHIN	Tupian	human body part	0	
+SHOULDER	Tupian	human body part	0	
+SHOULDERBLADE	Tupian	human body part	0	
+SIDE (BODY)	Tupian	human body part	0	
+SKELETON	Tupian	human body part	0	
+SKIN	Tupian	human body part	0	
+SKIN (HUMAN)	Tupian	human body part	0	
+SKULL	Tupian	human body part	0	
+SOLE (FOOT)	Tupian	human body part	0	
+SPINE	Tupian	human body part	0	
+SPLEEN	Tupian	human body part	0	
+TEMPLES	Tupian	human body part	0	
+TENDON	Tupian	human body part	0	
+THUMB	Tupian	human body part	0	
+TIP (OF TONGUE)	Tupian	human body part	0	
+TOE	Tupian	human body part	0	
+TOENAIL	Tupian	human body part	0	
+TONGUE	Tupian	human body part	0	
+TOOTH	Tupian	human body part	0	
+TORSO	Tupian	human body part	0	
+UMBILICAL CORD	Tupian	human body part	0	
+UPPER BACK	Tupian	human body part	0	
+UVULA	Tupian	human body part	0	
+VAGINA	Tupian	human body part	0	
+VEIN	Tupian	human body part	0	
+VULVA	Tupian	human body part	0	
+WAIST	Tupian	human body part	0	
+WOMB	Tupian	human body part	0	
+WRIST	Tupian	human body part	0	
+BELLY	Tupian	human body part	1	STOMACH:1.00
+HAIR (HEAD)	Tupian	human body part	1	STOMACH:0.50
+HEART	Tupian	human body part	1	LIVER:0.50;STOMACH:0.50
+LIVER	Tupian	human body part	1	HEART:0.50;STOMACH:1.00
+STOMACH	Tupian	human body part	1	HAIR (HEAD):0.50;BELLY:1.00;HEART:0.50;LIVER:1.00
+FOOT	Tupian	human body part	2	LEG:0.50
+LEG	Tupian	human body part	2	FOOT:0.50
+NECK	Tupian	human body part	3	THROAT:0.50
+THROAT	Tupian	human body part	3	NECK:0.50
+BONE	Tupian	human body part	4	FINGER:0.50
+FINGER	Tupian	human body part	4	HAND:2.00;BONE:0.50
+HAND	Tupian	human body part	4	FINGER:2.00
+BEARD	Tupian	human body part	5	MOUSTACHE:0.50
+MOUSTACHE	Tupian	human body part	5	BEARD:0.50
+PENIS	Tupian	human body part	6	TESTICLES:0.50
+TESTICLES	Tupian	human body part	6	PENIS:0.50
+LOWER ARM	Tupian	human body part	7	UPPER ARM:0.50
+UPPER ARM	Tupian	human body part	7	LOWER ARM:0.50
+BREAST	Tupian	human body part	8	NIPPLE:0.50
+NIPPLE	Tupian	human body part	8	BREAST:0.50
+LOWER LEG	Tupian	human body part	9	UPPER LEG (THIGH):0.50
+UPPER LEG (THIGH)	Tupian	human body part	9	LOWER LEG:0.50
+BEIGE	Uralic	color	0	
+BLACK	Uralic	color	0	
+BRIGHT YELLOW	Uralic	color	0	
+BROWN	Uralic	color	0	
+COPPER (COLOR)	Uralic	color	0	
+DARK GREEN	Uralic	color	0	
+DARK YELLOW	Uralic	color	0	
+KHAKI	Uralic	color	0	
+LIGHT BLUE	Uralic	color	0	
+LIGHT GREEN	Uralic	color	0	
+LILAC	Uralic	color	0	
+MAGENTA	Uralic	color	0	
+ORANGE (COLOR)	Uralic	color	0	
+PINK	Uralic	color	0	
+PURPLE	Uralic	color	0	
+RED	Uralic	color	0	
+TURQUOISE	Uralic	color	0	
+WHITE	Uralic	color	0	
+BLUE	Uralic	color	1	GREEN:0.50
+GREEN	Uralic	color	1	YELLOW:2.00;BLUE:0.50
+GREY	Uralic	color	1	YELLOW:0.50
+YELLOW	Uralic	color	1	GREEN:2.00;GREY:0.50
+AMUSEMENT	Uralic	emotion	0	
+ANGER	Uralic	emotion	0	
+ANXIETY	Uralic	emotion	0	
+AWE	Uralic	emotion	0	
+CONFUSION	Uralic	emotion	0	
+CONTEMPT	Uralic	emotion	0	
+COURAGE	Uralic	emotion	0	
+DEPRESSION	Uralic	emotion	0	
+DISAPPOINTMENT	Uralic	emotion	0	
+DISGUST	Uralic	emotion	0	
+ENVY	Uralic	emotion	0	
+EXCITEMENT	Uralic	emotion	0	
+FEAR (FRIGHT)	Uralic	emotion	0	
+GRIEF	Uralic	emotion	0	
+HATE (LOATHING)	Uralic	emotion	0	
+HOPE (FAITH)	Uralic	emotion	0	
+INTEREST (FEELING)	Uralic	emotion	0	
+JEALOUSY	Uralic	emotion	0	
+KINDNESS	Uralic	emotion	0	
+LONGING (WISH)	Uralic	emotion	0	
+LOVE (AFFECTION)	Uralic	emotion	0	
+MISERY	Uralic	emotion	0	
+MOURNING	Uralic	emotion	0	
+PAIN	Uralic	emotion	0	
+PITY	Uralic	emotion	0	
+PLEASURE	Uralic	emotion	0	
+PRIDE	Uralic	emotion	0	
+RESPECT (NOUN)	Uralic	emotion	0	
+SADNESS	Uralic	emotion	0	
+SHAME	Uralic	emotion	0	
+SURPRISE (FEELING)	Uralic	emotion	0	
+TRIUMPH	Uralic	emotion	0	
+HAPPINESS	Uralic	emotion	1	JOY:0.50
+JOY	Uralic	emotion	1	HAPPINESS:0.50
 ADAM'S APPLE	Uralic	human body part	0	
 ANKLE	Uralic	human body part	0	
 ANUS	Uralic	human body part	0	
@@ -555,7 +1873,6 @@ BODY PART	Uralic	human body part	0
 BONE	Uralic	human body part	0	
 BRAIN	Uralic	human body part	0	
 BREASTBONE	Uralic	human body part	0	
-BUTTOCKS	Uralic	human body part	0	
 CALF OF LEG	Uralic	human body part	0	
 CHEEK	Uralic	human body part	0	
 CLITORIS	Uralic	human body part	0	
@@ -584,7 +1901,6 @@ HAIR	Uralic	human body part	0
 HAIR (BODY)	Uralic	human body part	0	
 HAIR (HEAD)	Uralic	human body part	0	
 HEEL	Uralic	human body part	0	
-HIP	Uralic	human body part	0	
 HIP BONE	Uralic	human body part	0	
 HUMP	Uralic	human body part	0	
 INSTEP	Uralic	human body part	0	
@@ -600,9 +1916,7 @@ LITTLE FINGER	Uralic	human body part	0
 LIVER	Uralic	human body part	0	
 LOIN	Uralic	human body part	0	
 LONG HAIR	Uralic	human body part	0	
-LOWER ARM	Uralic	human body part	0	
 LOWER BACK	Uralic	human body part	0	
-LOWER LEG	Uralic	human body part	0	
 LUNG	Uralic	human body part	0	
 MIDDLE FINGER	Uralic	human body part	0	
 MOLAR TOOTH	Uralic	human body part	0	
@@ -643,13 +1957,10 @@ TOENAIL	Uralic	human body part	0
 TONGUE	Uralic	human body part	0	
 TORSO	Uralic	human body part	0	
 UMBILICAL CORD	Uralic	human body part	0	
-UPPER ARM	Uralic	human body part	0	
 UPPER BACK	Uralic	human body part	0	
-UPPER LEG (THIGH)	Uralic	human body part	0	
 UVULA	Uralic	human body part	0	
 VAGINA	Uralic	human body part	0	
 VULVA	Uralic	human body part	0	
-WAIST	Uralic	human body part	0	
 WOMB	Uralic	human body part	0	
 WRIST	Uralic	human body part	0	
 BELLY	Uralic	human body part	1	STOMACH:4.00
@@ -661,21 +1972,28 @@ BACK	Uralic	human body part	11	KNEE:0.50
 KNEE	Uralic	human body part	11	BACK:0.50
 HEAD	Uralic	human body part	12	TOOTH:0.50
 TOOTH	Uralic	human body part	12	HEAD:0.50
+BUTTOCKS	Uralic	human body part	13	UPPER LEG (THIGH):0.50;HIP:0.50
+HIP	Uralic	human body part	13	UPPER LEG (THIGH):0.50;BUTTOCKS:0.50
+UPPER LEG (THIGH)	Uralic	human body part	13	HIP:0.50;BUTTOCKS:0.50
+LOWER ARM	Uralic	human body part	14	UPPER ARM:0.50
+UPPER ARM	Uralic	human body part	14	LOWER ARM:0.50
 BREAST	Uralic	human body part	2	CHEST:4.00
 CHEST	Uralic	human body part	2	BREAST:4.00
-FOOT	Uralic	human body part	3	LEG:8.00
+FOOT	Uralic	human body part	3	LEG:8.00;LOWER LEG:0.50
 LEG	Uralic	human body part	3	FOOT:8.00
+LOWER LEG	Uralic	human body part	3	FOOT:0.50
 ARM	Uralic	human body part	4	HAND:2.00
 HAND	Uralic	human body part	4	ARM:2.00;PALM OF HAND:3.00
 PALM OF HAND	Uralic	human body part	4	HAND:3.00
 NAPE (OF NECK)	Uralic	human body part	5	NECK:0.50
-NECK	Uralic	human body part	5	NAPE (OF NECK):0.50;THROAT:0.50
-THROAT	Uralic	human body part	5	NECK:0.50
-CHIN	Uralic	human body part	6	JAW:0.50
-JAW	Uralic	human body part	6	CHIN:0.50
+NECK	Uralic	human body part	5	NAPE (OF NECK):0.50;THROAT:2.00
+THROAT	Uralic	human body part	5	NECK:2.00
+CHIN	Uralic	human body part	6	JAW:1.00
+JAW	Uralic	human body part	6	CHIN:1.00
 TENDON	Uralic	human body part	7	VEIN:1.00
 VEIN	Uralic	human body part	7	TENDON:1.00
 BEARD	Uralic	human body part	8	MOUSTACHE:3.00
 MOUSTACHE	Uralic	human body part	8	BEARD:3.00
-BODY	Uralic	human body part	9	SKIN:3.00
-SKIN	Uralic	human body part	9	BODY:3.00
+BODY	Uralic	human body part	9	SKIN:2.00;WAIST:0.50
+SKIN	Uralic	human body part	9	BODY:2.00
+WAIST	Uralic	human body part	9	BODY:0.50

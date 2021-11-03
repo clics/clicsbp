@@ -34,7 +34,7 @@ def get_colexifications(wordlist, family, concepts):
     for language in languages:
         cols = defaultdict(list)
         for form in language.forms_with_sounds:
-            if form.concept.id in concepts:
+            if form.concept.concepticon_gloss in concepts:
                 tform = str(form.sounds)
                 cols[tform] += [form]
         for tokens, forms in cols.items():
@@ -108,7 +108,9 @@ def weight_by_cognacy(
                 pair = Pairwise(data["words"][0], data["words"][1])
                 pair.align(distance=True)
                 if pair.alignments[0][2] <= threshold:
-                    weight
+                    weight = 1
+                else:
+                    weight = 2
             else:
                 matrix = [[0 for i in data["words"]] for j in data["words"]]
                 for (i, w1), (j, w2) in combinations(
@@ -153,8 +155,8 @@ def run(args):
     
     table = []
     for family in families:
-        args.log.info("analyzing {0}".format(family))
-        for tag in ["human body part"]:
+        for tag in ["human body part", "color", "emotion"]:
+            args.log.info("analyzing {0} / {1}".format(family, tag))
             G = get_colexifications(wl, family, concepts[tag])
             if len(G) > 0:
                     weight_by_cognacy(
