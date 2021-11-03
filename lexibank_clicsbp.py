@@ -63,9 +63,8 @@ class Dataset(BaseDataset):
                 }
         idx = 1
         
-        families = [
-                "Hmong-Mien", "Uralic", "Indo-European", "Afro-Asiatic",
-                "Sino-Tibetan", "Niger-Congo", "Dogon"]
+        families = [k["Family"] for k in self.etc_dir.read_csv("families.tsv",
+            delimiter="\t", dicts=True)]
         concepts = {concept["CONCEPTICON_GLOSS"]: concept["TAG"] for concept in
                 self.concepts}
         for concept in self.concepts:

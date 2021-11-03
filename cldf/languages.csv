@@ -1,20 +1,4 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-hantganbangime-Bankan_Tey,Bankan_Tey,bank1259,,,,15.07,-2.91,Dogon
-hantganbangime-Ben_Tey,Ben_Tey,bent1238,,,,14.85,-2.95,Dogon
-hantganbangime-Bunoge,Bunoge,buno1241,,,,14.65,-3.79,Dogon
-hantganbangime-Jamsay,Jamsay,jams1239,,,,14.64,-3.1,Dogon
-hantganbangime-Mombo,Mombo,momb1254,,,,14.51,-3.91,Dogon
-hantganbangime-Najamba,Najamba,bond1248,,,,14.9,-3.42,Dogon
-hantganbangime-Nanga,Nanga,nang1261,,,,14.72,-3.02,Dogon
-hantganbangime-Perge_Tegu,Perge_Tegu,perg1234,,,,14.85,-3.02,Dogon
-hantganbangime-Tebul_Ure,Tebul_Ure,tebu1239,,,,14.69,-3.11,Dogon
-hantganbangime-Tiranige_Diga,Tiranige_Diga,tira1258,,,,14.8,-3.72,Dogon
-hantganbangime-Togo_Kan,Togo_Kan,togo1254,,,,14.16,-3.38,Dogon
-hantganbangime-Tommo_So,Tommo_So,tomm1242,,,,14.67,-3.51,Dogon
-hantganbangime-Toro_Tegu,Toro_Tegu,toro1253,,,,15.01,-2.4,Dogon
-hantganbangime-Yanda_Dom,Yanda_Dom,yand1257,,,,14.63,-3.15,Dogon
-hantganbangime-Yorno_So,Yorno_So,yorn1234,,,,14.56,-3.24,Dogon
-hantganbangime-Penange,Penange,pena1270,,,,14.39,-4.03,Dogon
 northeuralex-fin,Finnish,finn1318,,,,61.00,24.45,Uralic
 northeuralex-krl,North Karelian,kare1335,,,,65.17,30.87,Uralic
 northeuralex-olo,Olonets Karelian,livv1243,,,,61.00,33.00,Uralic
@@ -112,6 +96,7 @@ kraftchadic-Bacama,Bacama,baca1246,,,,9.53072,12.0416,Afro-Asiatic
 kraftchadic-Bade,Bade,bade1248,,,,12.789,10.6557,Afro-Asiatic
 kraftchadic-Banana,Banana,masa1322,,,,10.0606,15.4748,Afro-Asiatic
 kraftchadic-Bananamouseye,Banana (Mouseye),muse1242,,,,9.81612,15.4115,Afro-Asiatic
+kraftchadic-Bankala,Bankala,bank1257,,,,,,Atlantic-Congo
 kraftchadic-Boka,Boka,boga1251,,,,10.188,12.936,Afro-Asiatic
 kraftchadic-Bolewa,Bole(wa),nucl1695,,,,11.4839,11.2322,Afro-Asiatic
 kraftchadic-Buli,Buli,polc1243,,,,10.0258,9.53362,Afro-Asiatic
@@ -144,8 +129,11 @@ kraftchadic-Higikamale,Higi Kamale,psik1239,,,,10.677,13.569,Afro-Asiatic
 kraftchadic-Higinkafa,Higi Nkafa,kamw1239,,,,10.646,13.5136,Afro-Asiatic
 kraftchadic-Hildi,Hildi,marg1266,,,,10.53854,12.99521,Afro-Asiatic
 kraftchadic-Hwona,Hwona,hwan1240,,,,10.3633,12.7683,Afro-Asiatic
+kraftchadic-Jaku,Jaku,labi1245,,,,10.4847,9.59527,Atlantic-Congo
+kraftchadic-Jari,Jari,daga1272,,,,11.6839,-2.48569,Atlantic-Congo
 kraftchadic-Karekare,Karekare,kare1348,,,,12.5176,10.8732,Afro-Asiatic
 kraftchadic-Kilba,Kilba,huba1236,,,,10.3544,13.139,Afro-Asiatic
+kraftchadic-Lame,Lame,lame1257,,,,10.7229,8.78768,Atlantic-Congo
 kraftchadic-Lamepeve,Lame (Peve),peve1243,,,,9.16111,14.441,Afro-Asiatic
 kraftchadic-Mandara,Mandara,wand1278,,,,11.3169,13.8996,Afro-Asiatic
 kraftchadic-Margi,Margi,marg1265,,,,10.93854,13.0521,Afro-Asiatic
@@ -167,4 +155,301 @@ kraftchadic-Sura,Sura,mwag1236,,,,9.47205,8.96522,Afro-Asiatic
 kraftchadic-Tangale,Tangale,nucl1696,,,,9.75444,11.3228,Afro-Asiatic
 kraftchadic-Wamdiu,Wamdiu,marg1266,,,,10.53854,12.99521,Afro-Asiatic
 kraftchadic-Westmargi,West Margi,puta1243,,,,10.83854,12.99521,Afro-Asiatic
+kraftchadic-Yingilum,Yingilum,nort2770,,,,9.9249,13.6567,Atlantic-Congo
 kraftchadic-Zvana,Zə̀ɣvana,dghw1239,,,,11.05751,13.77847,Afro-Asiatic
+beidasinitic-Beijing,Beijing,beij1234,,,,39.9385466,116.1172766,Sino-Tibetan
+beidasinitic-Changsha,Changsha,chan1326,,,,28.85032,112.943344,Sino-Tibetan
+beidasinitic-Chaozhou,Chaozhou,chao1238,,,,23.666667,116.633333,Sino-Tibetan
+beidasinitic-Chengdu,Chengdu,chen1267,,,,30.605768,103.970947,Sino-Tibetan
+beidasinitic-Fuzhou,Fuzhou,fuzh1239,,,,26.08904,119.294243,Sino-Tibetan
+beidasinitic-Guangzhou,Guangzhou,guan1279,,,,23.1253503,112.9476548,Sino-Tibetan
+beidasinitic-Hefei,Hefei,hefe1234,,,,31.873593,117.223663,Sino-Tibetan
+beidasinitic-Jinan,Jinan,jina1245,,,,36.690777,116.997299,Sino-Tibetan
+beidasinitic-Kunming,Kunming,kunm1234,,,,25.049711,102.72274,Sino-Tibetan
+beidasinitic-Meixian,Meixian,yuet1238,,,,24.3522958,115.8903375,Sino-Tibetan
+beidasinitic-Nanchang,Nanchang,nanc1254,,,,28.706609,115.857468,Sino-Tibetan
+beidasinitic-Shenyang,Shenyang,shen1252,,,,41.8049906,123.1563167,Sino-Tibetan
+beidasinitic-Suzhou,Suzhou,suzh1234,,,,31.3280439,120.364116,Sino-Tibetan
+beidasinitic-Wenzhou,Wenzhou,ouji1238,,,,28.005496,120.701179,Sino-Tibetan
+beidasinitic-XiAn,Xi_an,xian1253,,,,34.228154,108.960571,Sino-Tibetan
+beidasinitic-Xiamen,Xiamen,xiam1236,,,,24.49421,118.08918,Sino-Tibetan
+beidasinitic-Yangjiang,Yangjiang,yang1307,,,,21.7895612,111.966667,Sino-Tibetan
+beidasinitic-Yangzhou,Yangzhou,yang1306,,,,32.4171449,119.209227,Sino-Tibetan
+allenbai-Eryuan,Eryuan,eryu1239,,,,26.538056,99.910000,Sino-Tibetan
+allenbai-Heqing,Heqing,heqi1238,,,,26.0991374,99.9416161,Sino-Tibetan
+allenbai-Jianchuan,Jianchuan,jian1239,,,,26.5536208,100.1396921,Sino-Tibetan
+allenbai-Lanping,Lanping,lanp1241,,,,26.5158555,99.2581092,Sino-Tibetan
+allenbai-Luobenzhuo,Luobenzhuo,nuji1238,,,,26.4240223,98.8862088,Sino-Tibetan
+allenbai-Qiliqiao,Qiliqiao,qili1234,,,,25.6553283,100.1709288,Sino-Tibetan
+allenbai-Xiangyun,Xiangyun,xian1250,,,,25.5313657,100.4478932,Sino-Tibetan
+allenbai-Yunlong,Yunlong,yunl1238,,,,25.9223745,99.0352884,Sino-Tibetan
+allenbai-Zhoucheng,Zhoucheng,zhou1234,,,,25.8958633,100.0987848,Sino-Tibetan
+abrahammonpa-MonpaKalaktang,Monpa Kalaktang,kala1376,,,,27.104162,92.113017,Sino-Tibetan
+abrahammonpa-MonpaBalemu,Monpa Balemu,kala1376,,,,26.964717,92.164581,Sino-Tibetan
+abrahammonpa-MonpaTomko,Monpa Tomko,kala1376,,,,27.16536,92.23077,Sino-Tibetan
+abrahammonpa-MonpaNamsu,Monpa Namsu,kala1376,,,,27.359505,92.34921,Sino-Tibetan
+abrahammonpa-MonpaTembang,Monpa Tembang,tsha1245,,,,27.333876,92.40513,Sino-Tibetan
+abrahammonpa-MonpaDirangDum,Monpa Dirang Dum,tsha1245,,,,27.334341,92.293734,Sino-Tibetan
+abrahammonpa-MonpaSangti,Monpa Sangti,tsha1245,,,,27.402266,92.314934,Sino-Tibetan
+abrahammonpa-MonpaDirang,Monpa Dirang,tsha1245,,,,27.34959,92.27914,Sino-Tibetan
+abrahammonpa-MonpaTawangMonastery,Monpa Tawang Monastery,dakp1242,,,,27.586829,91.85796,Sino-Tibetan
+abrahammonpa-MonpaZimithang,Monpa Zimithang,dakp1242,,,,27.335901,92.306528,Sino-Tibetan
+abrahammonpa-MonpaChangprong,Monpa Changprong,dakp1242,,,,27.578928,91.876393,Sino-Tibetan
+abrahammonpa-SartangKhoitam,Sartang Khoitam,khoi1252,,,,27.358518,92.438415,Sino-Tibetan
+abrahammonpa-ChugParchu,Chug Parchu,chug1252,,,,27.420054,92.234173,Sino-Tibetan
+abrahammonpa-SartangDarbuA,Sartang Darbu 1,sart1249,,,,27.329171,92.358727,Sino-Tibetan
+abrahammonpa-MijiNafra,Miji Nafra,miji1239,,,,27.373776,92.546071,Sino-Tibetan
+abrahammonpa-LishLish,Lish Lish,lish1235,,,,27.368692,92.249809,Sino-Tibetan
+abrahammonpa-SherdukpenRupa,Sherdukpen Rupa,sher1256,,,,27.203981,92.398629,Sino-Tibetan
+abrahammonpa-HrusoAkaJamiri,Hruso Aka Jamiri,hrus1242,,,,27.184929,92.599114,Sino-Tibetan
+abrahammonpa-SartangDarbuB,Sartang Darbu 2,sart1249,,,,27.329171,92.358727,Sino-Tibetan
+abrahammonpa-SartangKhoina,Sartang Khoina,khoi1253,,,,27.337381,92.529683,Sino-Tibetan
+abrahammonpa-BugunSingchung,Bugun Singchung,sing1271,,,,27.195773,92.473437,Sino-Tibetan
+abrahammonpa-BugunWangho,Bugun Wangho,wang1301,,,,27.231398,92.436886,Sino-Tibetan
+abrahammonpa-BugunBichom,Bugun Bichom,bich1234,,,,27.272159,92.574219,Sino-Tibetan
+abrahammonpa-BugunKaspi,Bugun Kaspi,kasp1234,,,,27.204143,92.549541,Sino-Tibetan
+abrahammonpa-BugunNamphri,Bugun Namphri,namp1239,,,,27.196633,92.504931,Sino-Tibetan
+abrahammonpa-NamreiNabolang,Namrei Nabolang,miji1239,,,,27.546333,92.797975,Sino-Tibetan
+abrahammonpa-NamreiBisai,Namrei Bisai,miji1239,,,,27.682796,92.700031,Sino-Tibetan
+abrahammonpa-DammaiRurang,Dammai Rurang,miji1239,,,,27.368455,92.500637,Sino-Tibetan
+abrahammonpa-DammaiDibin,Dammai Dibin,miji1239,,,,27.437363,92.531354,Sino-Tibetan
+abrahammonpa-SherdukpenShergaon,Sherdukpen Shergaon,sher1256,,,,27.104558,92.27076,Sino-Tibetan
+bantubvd-1,Kinyamwezi F22,nyam1276,,,,-5.08559,32.94452,Atlantic-Congo
+bantubvd-2,Bukusu E.31c,buku1249,,,,0.68043,34.7719,Atlantic-Congo
+bantubvd-3,Koyo C.24,koyo1242,,,,-0.69688,15.7508,Atlantic-Congo
+bantubvd-4,Bemba M.42,bemb1257,,,,-10.6122,29.2993,Atlantic-Congo
+bantubvd-5,Basaa A.43a,basa1284,,,,3.80765,10.4213,Atlantic-Congo
+bantubvd-6,Asu G.22,asut1235,,,,-4.17978,37.8323,Atlantic-Congo
+bantubvd-7,Rumanyo (Gciriku) K.38,diri1252,,,,-18.1681,20.6678,Atlantic-Congo
+bantubvd-8,Lega D.25,lega1249,,,,-3.83196,27.1424,Atlantic-Congo
+bantubvd-9,Tswana S.30,tswa1253,,,,-24.368,24.7587,Atlantic-Congo
+bantubvd-10,Yao P.21,yaoo1241,,,,-13.6119,35.2387,Atlantic-Congo
+castrosui-ShuigenCentralSandong,Sandong,sand1270,,,,25.724479,107.92172,Tai-Kadai
+castrosui-ZhongheCentralSandong,Zhonghe,sand1270,,,,25.817612,107.904898,Tai-Kadai
+castrosui-TangzhouWesternSandong,Tangzhou,sand1270,,,,25.775037,107.87072,Tai-Kadai
+castrosui-TingpaiWesternSandong,Tingpai,sand1270,,,,25.3756,107.5416,Tai-Kadai
+castrosui-AntangWesternSandong,Antang,sand1270,,,,25.935942,108.113772,Tai-Kadai
+castrosui-DujiangEasternSandong,Dujiang,sand1270,,,,26.009139,108.260898,Tai-Kadai
+castrosui-SanjiangEasternSandong,Sanjiang,sand1270,,,,26.009139,108.260898,Tai-Kadai
+castrosui-RenliEasternSandong,Renli,sand1270,,,,26.116584,108.435839,Tai-Kadai
+castrosui-JiuqianSouthernSandong,Jiuqian,sand1270,,,,25.615405,108.030525,Tai-Kadai
+castrosui-ShuiyaoSouthernSandong,Shuiyao,sand1270,,,,25.413123,107.969761,Tai-Kadai
+castrosui-JiarongSouthernSandong,Jiarong,sand1270,,,,25.493343,108.183955,Tai-Kadai
+castrosui-ShuiweiSouthernSandong,Shuiwei,sand1270,,,,25.710491,108.211043,Tai-Kadai
+castrosui-Pandong,Pandong,pand1262,,,,26.06349,107.693696,Tai-Kadai
+castrosui-JiaoliPandong,Jiaoli,pand1262,,,,26.059013,107.8486,Tai-Kadai
+castrosui-TangnianYangAn,Tangnian,anya1244,,,,25.58369,107.801479,Tai-Kadai
+castrosui-BanliangYangAn,Banliang,anya1244,,,,25.776111,107.870727,Tai-Kadai
+castroyi-HedongKuaNsi,Kua-nsi (Hedong),sich1238,,,,25.2871677,99.2546745,Sino-Tibetan
+castroyi-ShangepingKuaNsi,Kua-nsi,sich1238,,,,26.4362805,100.4142768,Sino-Tibetan
+castroyi-Kuamasi,Kuamasi,sich1238,,,,26.3386795,100.3652368,Sino-Tibetan
+castroyi-DaqingZibusi,Zibusi (Daqing),sich1238,,,,29.0539,97.9368,Sino-Tibetan
+castroyi-MoguangLaizisi,Laizisi (Moguang),sich1238,,,,26.4908975,100.2810418,Sino-Tibetan
+castroyi-XinfengSonaga,Sonaga (Xinfeng),sich1238,,,,24.4957899,101.3020228,Sino-Tibetan
+castrozhuang-LuzhaiSipai,Luzhai Sipai,liuq1235,,,,24.48884,109.73388,Tai-Kadai
+castrozhuang-LuzhaiLuzhai,Luzhai Luzhai,liuq1235,,,,24.36935,109.746886,Tai-Kadai
+castrozhuang-XiangzhouDale,Xiangzhou Dale,liuq1235,,,,24.07619,109.979439,Tai-Kadai
+castrozhuang-XiangzhouYunjiang,Xiangzhou Yunjiang,liuq1235,,,,24.137508,109.733639,Tai-Kadai
+castrozhuang-WuxuanTongling,Wuxuan Tongling,east2363,,,,23.394139,109.594364,Tai-Kadai
+castrozhuang-WuxuanHuangmao,Wuxuan Huangmao,liuq1235,,,,23.780134,109.636403,Tai-Kadai
+castrozhuang-GuipingShilong,Guiping Shilong,east2363,,,,23.369872,109.830511,Tai-Kadai
+castrozhuang-GangbeiZhongli,Gangbei Zhongli,east2363,,,,23.281551,109.641785,Tai-Kadai
+castrozhuang-XingbinSishan,Xingbin Sishan,east2363,,,,23.551889,109.383262,Tai-Kadai
+castrozhuang-XingbinQianjiang,Xingbin Qianjiang,east2363,,,,23.548344,108.900099,Tai-Kadai
+castrozhuang-ShanglinTanghong,Shanglin Tanghong,east2363,,,,23.703444,108.605752,Tai-Kadai
+castrozhuang-ShanglinMingliang,Shanglin Mingliang,east2363,,,,23.39007,108.593644,Tai-Kadai
+castrozhuang-MashanYongzhou,Mashan Yongzhou,cent2009,,,,23.55591,107.824583,Tai-Kadai
+castrozhuang-MashanBaishan,Mashan Baishan,cent2009,,,,23.68569,108.17574,Tai-Kadai
+castrozhuang-DahuaYantan,Dahua Yantan,cent2009,,,,24.026928,107.570884,Tai-Kadai
+castrozhuang-DahuaLiushui,Dahua Liushui,cent2009,,,,23.75189,107.9715,Tai-Kadai
+castrozhuang-DuAnGaoling,Du'an Gaoling,cent2009,,,,24.06382,108.079128,Tai-Kadai
+castrozhuang-DuAnBaiwang,Du'an Baiwang,cent2009,,,,24.11682,108.41675,Tai-Kadai
+castrozhuang-XinchengBeigeng,Xincheng Beigeng,east2326,,,,23.775707,108.559842,Tai-Kadai
+castrozhuang-XinchengGuosui,Xincheng Guosui,east2326,,,,23.879303,108.80687,Tai-Kadai
+chindialectsurvey-TaungthaWethet-T-1,Taungtha (Wethet),,,,,21.691667,94.097222,Sino-Tibetan
+chindialectsurvey-ThaiphumRengkheng-T-7,Thaiphum (Rengkheng),,,,,21.6,93.4432,Sino-Tibetan
+chindialectsurvey-AshoKokanTan-A-1,Asho (Kokan Tan),asho1236,,,,19.85,94,Sino-Tibetan
+chindialectsurvey-AshoLinde-A-11,Asho (Linde),asho1236,,,,,,Sino-Tibetan
+chindialectsurvey-UppuKyinDwe-U-5,Uppu (Kyin Dwe),chin1478,,,,20.97296,93.83817,Sino-Tibetan
+chindialectsurvey-LonpawKhoimalaung-U-9,Lonpaw (Khoimalaung),chin1478,,,,20.45,94.25,Sino-Tibetan
+chindialectsurvey-MinkyaChi-U-10,Minkya (Chi),chin1478,,,,20.45,94.25,Sino-Tibetan
+chindialectsurvey-DoituHetsawlay-U-11,Doitu (Hetsawlay),,,,,20.366667,93.266667,Sino-Tibetan
+chindialectsurvey-LaituKhuasung-U-12,Laitu (Khuasung),,,,,20.57061005,93.31453705,Sino-Tibetan
+chindialectsurvey-EkaiDaletYwaHaung-D-1,Ekai Dalet Ywa Haung,sumt1234,,,,19.99295,93.80038,Sino-Tibetan
+chindialectsurvey-KhulaiAyeChaungKwanwa-D-5,Khulai Aye Chaung Kwanwa,sumt1234,,,,19.4709,94.01271,Sino-Tibetan
+chindialectsurvey-DaituNyaungChaungYwa-D-4,Daitu Nyaung Chaung Ywa,sumt1234,,,,19.67484093,94.01331329,Sino-Tibetan
+chindialectsurvey-KhamawLakeKone-D-2,Khamaw Lake Kone,asho1236,,,,19.96184731,93.86746216,Sino-Tibetan
+chindialectsurvey-SaingbongAyoTaung-D-3,Saingbong Ayo Taung,asho1236,,,,19.95651054,93.85251617,Sino-Tibetan
+chindialectsurvey-LaisawThuHtayKung-A,Laisaw Thu Htay Kung,,,,,20.38415909,93.25898743,Sino-Tibetan
+chindialectsurvey-HyowLaituGhungurumukParainBandarban-A,Hyow-Laitu Ghungurumukʰ Para (in Bandarban),asho1236,,,,22.1454,92.08462,Sino-Tibetan
+chindialectsurvey-SonglaiHettui8KarchaungHettui-A,Songlai-Hettui 8Karchaung (Hettui),,,,,21.3,92.85,Sino-Tibetan
+chindialectsurvey-SonglaiMaungUmSong1MaungUmSong-A,Songlai-Maung Um (Song) 1Maung Um (Song),,,,,21.3,92.85,Sino-Tibetan
+chindialectsurvey-LaituAhongdong-A,Laitu Ahongdong,,,,,20.22525024,93.41887665,Sino-Tibetan
+chindialectsurvey-SumtuDookkan-A,Sumtu Dookkan,sumt1234,,,,,,Sino-Tibetan
+chindialectsurvey-NggaKantthayung-A,Ng'ga Kant-thayung,munc1235,,,,21.2,94.016667,Sino-Tibetan
+chindialectsurvey-KaangKruk-A,Kaang Kruk,,,,,21.6,93.4432,Sino-Tibetan
+chindialectsurvey-DaaiKalim-A,Daai Kal-im,daai1236,,,,21.6,93.4432,Sino-Tibetan
+chindialectsurvey-DaaiAwisi-A,Daai Awisi,daai1236,,,,21.6,93.4432,Sino-Tibetan
+chindialectsurvey-DaaiNgxang5HungNghang-A,Daai-Ngxang 5Hung (Ng'hang),daai1236,,,,21.3,92.85,Sino-Tibetan
+chindialectsurvey-DaaiYet3BuchaungwaYet-A,Daai-Yet 3Buchaungwa (Yet),daai1236,,,,21.3,92.85,Sino-Tibetan
+chindialectsurvey-MuunNituShingBawk-A,Muun (Nitu) Shing Bawk,munc1235,,,,21.366667,93.983333,Sino-Tibetan
+chindialectsurvey-RawngtuWeilong-A,Rawngtu Weilong,wela1234,,,,21.366667,93.983333,Sino-Tibetan
+chindialectsurvey-RawngtuRamtim-A,Rawngtu Ramtim,wela1234,,,,21.6,93.4432,Sino-Tibetan
+chindialectsurvey-MroKhimiAreong10KyaGaungvillageMrokhami-A,Mro-Khimi Areong 10Kya Gaung village (Mro-khami),mroc1235,,,,21.3,92.85,Sino-Tibetan
+chindialectsurvey-WakungAwaPyin-A,Wakung Awa Pyin,mroc1235,,,,19.49583054,93.95348358,Sino-Tibetan
+hubercolumbian-Achagua,Achagua,acha1250,,,,4.38649,-72.2005,Arawakan
+hubercolumbian-Baniva,Baniva,bani1254,,,,5.26123,-67.5633,Arawakan
+hubercolumbian-Barasana,Barasana,bara1380,,,,0.02193,-70.808,Tucanoan
+hubercolumbian-Bara,Bará,waim1255,,,,0.30416,-70.1644,Tucanoan
+hubercolumbian-Cabiyari,Cabiyarí,cabi1241,,,,0.16101,-71.0622,Arawakan
+hubercolumbian-Carapana,Carapana,cara1272,,,,0.06168,-69.6465,Tucanoan
+hubercolumbian-Catio,Catío,embe1260,,,,7.52721,-76.7476,Chocoan
+hubercolumbian-Cubeo,Cubeo,cube1242,,,,1.32382,-70.1939,Tucanoan
+hubercolumbian-Curripaco,Curripaco,curr1243,,,,0.69618,-67.5028,Arawakan
+hubercolumbian-Desano,Desano,desa1247,,,,0.58157,-69.4955,Tucanoan
+hubercolumbian-EmberaDarien,Embera Darién,nort2972,,,,7.12761,-77.574,Chocoan
+hubercolumbian-EmberaTado,Embera Tadó,embe1261,,,,5.23658,-77.1533,Chocoan
+hubercolumbian-EmberaChami,Embera Chamí,embe1262,,,,4.8791,-76.0749,Chocoan
+hubercolumbian-EpenaSaija,Epena Saija,epen1239,,,,4.25877,-77.3566,Chocoan
+hubercolumbian-EpenaBasurudo,Epena Basurudó,epen1239,,,,4.25877,-77.3566,Chocoan
+hubercolumbian-Giacone,Giacone,tari1256,,,,0.440205,-68.9042,Arawakan
+hubercolumbian-Koreguaje,Koreguaje,kore1283,,,,0.92316,-75.3475,Tucanoan
+hubercolumbian-Macuna,Macuna,macu1260,,,,-0.14459,-70.0749,Tucanoan
+hubercolumbian-Ocaina,Ocaina,ocai1244,,,,-2.159,-72.1422,Huitotoan
+hubercolumbian-Orejon,Orejón,orej1242,,,,-2.86315,-72.4926,Tucanoan
+hubercolumbian-Piapoco,Piapoco,piap1246,,,,4.37718,-68.5953,Arawakan
+hubercolumbian-Piratapuyo,Piratapuyo,pira1254,,,,0.50714,-69.5032,Tucanoan
+hubercolumbian-Resigaro,Resígaro,resi1247,,,,-2.48139,-71.3578,Arawakan
+hubercolumbian-Secoya,Secoya,seco1241,,,,-0.459785,-75.5547,Tucanoan
+hubercolumbian-Siona,Siona,sion1247,,,,0.31733,-76.0237,Tucanoan
+hubercolumbian-Siriano,Siriano,siri1274,,,,0.436515,-70.184,Tucanoan
+hubercolumbian-Tanimuca,Tanimuca,tani1257,,,,-0.59023,-70.3853,Tucanoan
+hubercolumbian-Tariano,Tariano,tari1256,,,,0.440205,-68.9042,Arawakan
+hubercolumbian-Tatuyo,Tatuyo,tatu1247,,,,0.55582,-70.5327,Tucanoan
+hubercolumbian-Tucano,Tucano,tuca1252,,,,0.579755,-69.5763,Tucanoan
+hubercolumbian-Tuyuca,Tuyuca,tuyu1244,,,,0.39441,-70.043515,Tucanoan
+hubercolumbian-Waimaja,Waimaja,waim1255,,,,0.30416,-70.1644,Tucanoan
+hubercolumbian-Wanano,Wanano,guan1269,,,,1.07554,-69.5705,Tucanoan
+hubercolumbian-Wayuu,Wayuu,wayu1243,,,,11.395566,-72.199791,Arawakan
+hubercolumbian-WitotoMinica,Witoto Mi̵ni̵ca,mini1256,,,,-1.54535,-73.1107,Huitotoan
+hubercolumbian-WitotoMurui,Witoto Murui,muru1274,,,,-1.13669,-73.8331,Huitotoan
+hubercolumbian-WitotoNipode,Witoto Ni̵pode,nupo1240,,,,-2.34495,-70.9559,Huitotoan
+hubercolumbian-Wounaan,Wounaan,woun1238,,,,8.5,-78.0,Chocoan
+hubercolumbian-Yucuna,Yucuna,yucu1253,,,,-0.76075,-71.0033,Arawakan
+hubercolumbian-Yuruti,Yurutí,yuru1263,,,,0.735585,-69.6955,Tucanoan
+gerarditupi-Mawe,MAWE,sate1243,,,,-3.63897,-56.8749,Tupian
+gerarditupi-Aweti,AWETI,awet1244,,,,-12.381944,-53.391944,Tupian
+gerarditupi-Asurini,Asurini,toca1235,,,,-3.59359,-49.8991,Tupian
+gerarditupi-Parakana,Parakanã,para1312,,,,-4.64681,-50.0621,Tupian
+gerarditupi-Surui,Suruí,suru1262,,,,-11.0989,-61.2818,Tupian
+gerarditupi-Tapirape,Tapirapé,tapi1254,,,,-10.5373,-50.5438,Tupian
+gerarditupi-Tembe,Tembé,temb1276,,,,-2.6123,-48.2359,Tupian
+gerarditupi-Apiaka,Apiaká,apia1248,,,,-7.84711,-57.91,Tupian
+gerarditupi-Guajajara,Guajajara,guaj1255,,,,-4.69461,-45.7081,Tupian
+gerarditupi-Amonda,Amonda,amun1246,,,,-9.04023,-62.3064,Tupian
+gerarditupi-Parintintin,Parintintin,tenh1241,,,,-7.92626,-61.936,Tupian
+gerarditupi-Urueuwauwau,Urueuwauwau,urue1240,,,,-10.9176,-63.8086,Tupian
+gerarditupi-Kayabi,Kayabí,kaya1329,,,,-11.2747,-55.5479,Tupian
+gerarditupi-AsuriniXingu,Asurini Xingu,xing1248,,,,-4.13463,-52.321,Tupian
+gerarditupi-Arawete,Araweté,araw1273,,,,-4.90246,-52.5001,Tupian
+gerarditupi-Kamayura,Kamayura,kama1373,,,,-12.2661,-53.4651,Tupian
+gerarditupi-Guaja,Guajá,guaj1256,,,,-3.93574,-46.3683,Tupian
+gerarditupi-Emerillon,Emerillon,emer1243,,,,3.23694,-52.3699,Tupian
+gerarditupi-Wayampi,Wayampí,waya1270,,,,1.73817,-52.6887,Tupian
+gerarditupi-UrubuKaapor,UrubuKaapor,urub1250,,,,-2.46455,-46.2204,Tupian
+gerarditupi-Anambe,Anambé,anam1249,,,,-2.71119,-49.303,Tupian
+gerarditupi-AvaCanoeiro,AvaCanoeiro,avac1239,,,,-13.6081,-48.1336,Tupian
+gerarditupi-Tupi,Tupí,tupi1273,,,,-22.807778,-42.106389,Tupian
+gerarditupi-Nheengatu,Nheengatu,nhen1239,,,,1.04503,-66.9646,Tupian
+gerarditupi-Kokama,Kokama,coca1259,,,,-4.5,-74.0,Tupian
+gerarditupi-Omagua,Omagua,omag1248,,,,-3.526,-69.1667,Tupian
+gerarditupi-Yuki,Yuki,yuqu1240,,,,-16.7875,-64.9438,Tupian
+gerarditupi-Guarayo,Guarayo,guar1292,,,,-15.8247,-61.6934,Tupian
+gerarditupi-Siriono,Sirionó,siri1273,,,,-15.5298,-63.9688,Tupian
+gerarditupi-Warazu,Warazu,paus1244,,,,-12.8553,-63.1903,Tupian
+gerarditupi-Chiriguano,Chiriguano,east2555,,,,-20.42,-63.37,Tupian
+gerarditupi-GuaraniMbya,GuaraniMbya,mbya1239,,,,-26.0188,-52.711,Tupian
+gerarditupi-GuaraniParaguay,Guarani Paraguay,para1311,,,,-25.60551,-57.08816,Tupian
+gerarditupi-Guayaki,Guayaki,ache1246,,,,-25.5865,-56.4697,Tupian
+gerarditupi-Xeta,Xeta,xeta1241,,,,-24.9408,-52.2266,Tupian
+suntb-Achang,Achang (Longchuan),acha1249,,,,24.466605,97.89503,Sino-Tibetan
+suntb-Anong,Anong,nung1282,,,,,,Sino-Tibetan
+suntb-Atsi,Atsi [Zaiwa],zaiw1241,,,,24.17,98.36,Sino-Tibetan
+suntb-BijiangBai,Bai (Bijiang),biji1251,,,,,,Sino-Tibetan
+suntb-DaliBai,Bai (Dali),dali1242,,,,,,Sino-Tibetan
+suntb-JianchuanBai,Bai (Jianchuan),jian1239,,,,,,Sino-Tibetan
+suntb-BokarLhoba,Bokar Lhoba,boka1249,,,,,,Sino-Tibetan
+suntb-RangoonBurmese,Burmese (Spoken Rangoon),mand1476,,,,16.867489,96.191442,Sino-Tibetan
+suntb-WrittenBurmese,Burmese (Written),nucl1310,,,,,,Sino-Tibetan
+suntb-Darang,Darang [Taraon],diga1241,,,,,,Sino-Tibetan
+suntb-DanbaErgong,Ergong (Danba),horp1239,,,,,,Sino-Tibetan
+suntb-Ersu,Ersu,ersu1241,,,,,,Sino-Tibetan
+suntb-Guiqiong,Guiqiong,guiq1238,,,,,,Sino-Tibetan
+suntb-CaiyuanHani,Hani (Caiyuan),biyo1243,,,,,,Sino-Tibetan
+suntb-DazhaiHani,Hani (Dazhai),dazh1234,,,,,,Sino-Tibetan
+suntb-ShuikuiHani,Hani (Shuikui),honi1244,,,,,,Sino-Tibetan
+suntb-Idu,Idu,idum1241,,,,,,Sino-Tibetan
+suntb-Jingpho,Jingpho,kach1280,,,,,,Sino-Tibetan
+suntb-Jinuo,Jinuo,youl1235,,,,,,Sino-Tibetan
+suntb-Kaman,Kaman [Miju],miju1243,,,,,,Sino-Tibetan
+suntb-BlackLahu,Lahu (Black),naaa1244,,,,,,Sino-Tibetan
+suntb-Lisu,Lisu,lisu1250,,,,,,Sino-Tibetan
+suntb-Maru,Maru [Langsu],lawn1238,,,,,,Sino-Tibetan
+suntb-Muya,Muya [Minyak],muya1239,,,,,,Sino-Tibetan
+suntb-Namuyi,Namuyi,namu1246,,,,,,Sino-Tibetan
+suntb-LijiangNaxi,Naxi (Lijiang),lich1241,,,,,,Sino-Tibetan
+suntb-YongningNaxi,Naxi (Yongning),yong1270,,,,,,Sino-Tibetan
+suntb-BijiangNusu,Nusu (Bijiang),nusu1239,,,,,,Sino-Tibetan
+suntb-QinghuaPumi,Pumi (Qinghua),qing1238,,,,,,Sino-Tibetan
+suntb-TaobaPumi,Pumi (Taoba),taob1238,,,,,,Sino-Tibetan
+suntb-MawoQiang,Qiang (Mawo),nort2722,,,,,,Sino-Tibetan
+suntb-TaopingQiang,Qiang (Taoping),taop1238,,,,,,Sino-Tibetan
+suntb-YajiangQueyu,Queyu (Yajiang) [Zhaba],quey1238,,,,,,Sino-Tibetan
+suntb-Sulong,Sulung [Puroik],bugu1245,,,,,,Sino-Tibetan
+suntb-AmdoTibetanBlabrang,Tibetan (Amdo:Bla-brang),,,,,,,Sino-Tibetan
+suntb-AmdoTibetanZeku,Tibetan (Amdo:Zeku),,,,,,,Sino-Tibetan
+suntb-KhamsTibetan,Tibetan (Khams:Dege),kham1282,,,,,,Sino-Tibetan
+suntb-LhasaTibetan,Tibetan (Lhasa),utsa1239,,,,,,Sino-Tibetan
+suntb-WrittenTibetan,Tibetan (Written),clas1254,,,,,,Sino-Tibetan
+suntb-Trung,Trung [Dulong],drun1238,,,,27.749017,98.691868,Sino-Tibetan
+suntb-MotuoTsangla,Tsangla (Motuo),tsha1245,,,,,,Sino-Tibetan
+suntb-MamaTshona,Tshona (Mama),dzal1238,,,,,,Sino-Tibetan
+suntb-Tujia,Tujia,tuji1244,,,,,,Sino-Tibetan
+suntb-Xumi,Xumi,shix1238,,,,,,Sino-Tibetan
+suntb-DafangYi,Yi (Dafang),dafa1241,,,,,,Sino-Tibetan
+suntb-MileYi,Yi (Mile),axiy1235,,,,27.16,105.61,Sino-Tibetan
+suntb-MojiangYi,Yi (Mojiang),sout2723,,,,24.41,103.43,Sino-Tibetan
+suntb-NanhuaYi,Yi (Nanhua),nanh1240,,,,23.43,101.69,Sino-Tibetan
+suntb-NanjianYi,Yi (Nanjian),xish1235,,,,25.19,101.27,Sino-Tibetan
+suntb-XideYi,Yi (Xide),yish1238,,,,25.04,100.51,Sino-Tibetan
+suntb-MaerkangrGyalrong,rGyalrong,maer1238,,,,28.33,102.42,Sino-Tibetan
+wold-Swahili,Swahili,swah1253,,,,-6.5,39,Atlantic-Congo
+wold-Iraqw,Iraqw,iraq1241,,,,-4,35.5,Afro-Asiatic
+wold-Gawwada,Gawwada,gaww1239,,,,5.5,37.25,Afro-Asiatic
+wold-Hausa,Hausa,haus1257,,,,12,7,Afro-Asiatic
+wold-TarifiytBerber,Tarifiyt Berber,tari1263,,,,34.5,-4,Afro-Asiatic
+wold-SeychellesCreole,Seychelles Creole,sese1246,,,,-4.75,55.5,Indo-European
+wold-Romanian,Romanian,roma1327,,,,46,25,Indo-European
+wold-SeliceRomani,Selice Romani,west2376,,,,48.091,17.9609,Indo-European
+wold-LowerSorbian,Lower Sorbian,lowe1385,,,,51.75,14.3333,Indo-European
+wold-OldHighGerman,Old High German,oldh1241,,,,50.55,9.68333,Indo-European
+wold-Dutch,Dutch,dutc1256,,,,52.5,6,Indo-European
+wold-English,English,stan1293,,,,52,0,Indo-European
+wold-KildinSaami,Kildin Saami,kild1236,,,,67,37,Uralic
+wold-Manange,Manange,mana1288,,,,28,84.25,Sino-Tibetan
+wold-MandarinChinese,Mandarin Chinese,mand1415,,,,34,110,Sino-Tibetan
+wold-Thai,Thai,thai1261,,,,16,101,Tai-Kadai
+wold-WhiteHmong,White Hmong,hmon1333,,,,26,105,Hmong-Mien
+wold-Saramaccan,Saramaccan,sara1340,,,,4.5,-55.5,Indo-European
+johanssonsoundsymbolic-Estonian,Estonian,esto1258,,,,58.55,25.82,Uralic
+johanssonsoundsymbolic-Guarani,Guaraní,para1311,,,,-25.60551,-57.08816,Tupian
+johanssonsoundsymbolic-Manange,Manange,mana1288,,,,28.6416,84.0515,Sino-Tibetan
+johanssonsoundsymbolic-Muruihuitoto,Murui Huitoto,muru1274,,,,-1.13669,-73.8331,Huitotoan
+johanssonsoundsymbolic-NorthernEmbera,Northern Emberá,nort2972,,,,7.12761,-77.574,Chocoan
+johanssonsoundsymbolic-Swahili,Swahili,swah1253,,,,-8.25605,37.624,Atlantic-Congo
+johanssonsoundsymbolic-Swedish,Swedish,swed1254,,,,59.800634,17.389526,Indo-European
+johanssonsoundsymbolic-Tarifit,Tarifit,tari1263,,,,34.916974,-3.430616,Afro-Asiatic
+johanssonsoundsymbolic-ThaiDialectKorat,Thai (Dialect Korat),thai1261,,,,14.192,100.671,Tai-Kadai
+johanssonsoundsymbolic-Tuyuca,Tuyuca,tuyu1244,,,,0.39441,-70.043515,Tucanoan
+johanssonsoundsymbolic-Wayuu,Wayuu,wayu1243,,,,11.395566,-72.199791,Arawakan
+johanssonsoundsymbolic-WhiteHmong,White Hmong,hmon1333,,,,21.5461,103.164,Hmong-Mien
