@@ -21,7 +21,7 @@ setup(
             'clicsbp=lexibank_clicsbp:Dataset',
         ],
         'cldfbench.commands': [
-            'clicsbp=clicsbp_commands',
+            'clicsbp=clicsbpcommands',
         ],
     },
     platforms='any',
