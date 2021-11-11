@@ -45,7 +45,7 @@ setup(
         #'pillow',
         #'matplotlib',
         #'scipy',
-        "lingrex"
+        #"lingrex"
     ],
     extras_require={
         'dev': ['flake8', 'wheel', 'twine'],
