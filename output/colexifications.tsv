@@ -1193,15 +1193,14 @@ RED	Sino-Tibetan	color	0
 TURQUOISE	Sino-Tibetan	color	0	
 WHITE	Sino-Tibetan	color	0	
 BLUE	Sino-Tibetan	color	1	GREEN:4.00
-GREEN	Sino-Tibetan	color	1	YELLOW:3.00;BLUE:4.00
-YELLOW	Sino-Tibetan	color	1	GREEN:3.00
+GREEN	Sino-Tibetan	color	1	YELLOW:4.00;BLUE:4.00
+YELLOW	Sino-Tibetan	color	1	GREEN:4.00
 ADAM'S APPLE	Sino-Tibetan	human body part	0	
 ANKLE	Sino-Tibetan	human body part	0	
 ANUS	Sino-Tibetan	human body part	0	
 ARMPIT	Sino-Tibetan	human body part	0	
 ARTERY	Sino-Tibetan	human body part	0	
 BACK OF HEAD	Sino-Tibetan	human body part	0	
-BLADDER	Sino-Tibetan	human body part	0	
 BLOOD VESSEL	Sino-Tibetan	human body part	0	
 BODY PART	Sino-Tibetan	human body part	0	
 BONE	Sino-Tibetan	human body part	0	
@@ -1213,21 +1212,16 @@ COLLARBONE	Sino-Tibetan	human body part	0
 EARHOLE	Sino-Tibetan	human body part	0	
 EARLOBE	Sino-Tibetan	human body part	0	
 EYEBALL	Sino-Tibetan	human body part	0	
-FACE	Sino-Tibetan	human body part	0	
 FINGERNAIL	Sino-Tibetan	human body part	0	
 FINGERTIP	Sino-Tibetan	human body part	0	
 FLESH	Sino-Tibetan	human body part	0	
 FOREFINGER	Sino-Tibetan	human body part	0	
-FOREHEAD	Sino-Tibetan	human body part	0	
 FRONT TOOTH (INCISOR)	Sino-Tibetan	human body part	0	
 GALL BLADDER	Sino-Tibetan	human body part	0	
 GENITALIA	Sino-Tibetan	human body part	0	
 GUMS	Sino-Tibetan	human body part	0	
 GUTS	Sino-Tibetan	human body part	0	
 HAIR	Sino-Tibetan	human body part	0	
-HAIR (BODY)	Sino-Tibetan	human body part	0	
-HAIR (HEAD)	Sino-Tibetan	human body part	0	
-HEAD	Sino-Tibetan	human body part	0	
 HEEL	Sino-Tibetan	human body part	0	
 HIP BONE	Sino-Tibetan	human body part	0	
 HUMP	Sino-Tibetan	human body part	0	
@@ -1239,9 +1233,7 @@ KNUCKLE	Sino-Tibetan	human body part	0
 LAP	Sino-Tibetan	human body part	0	
 LARYNX	Sino-Tibetan	human body part	0	
 LEFT HAND	Sino-Tibetan	human body part	0	
-LIP	Sino-Tibetan	human body part	0	
 LITTLE FINGER	Sino-Tibetan	human body part	0	
-LIVER	Sino-Tibetan	human body part	0	
 LOIN	Sino-Tibetan	human body part	0	
 LONG HAIR	Sino-Tibetan	human body part	0	
 LOWER BACK	Sino-Tibetan	human body part	0	
@@ -1252,7 +1244,6 @@ MOUSTACHE	Sino-Tibetan	human body part	0
 MUSCLE	Sino-Tibetan	human body part	0	
 NAPE (OF NECK)	Sino-Tibetan	human body part	0	
 NAVEL	Sino-Tibetan	human body part	0	
-NECK	Sino-Tibetan	human body part	0	
 NERVE	Sino-Tibetan	human body part	0	
 NIPPLE	Sino-Tibetan	human body part	0	
 NOSTRIL	Sino-Tibetan	human body part	0	
@@ -1269,12 +1260,10 @@ PUPIL	Sino-Tibetan	human body part	0
 RIB	Sino-Tibetan	human body part	0	
 RIGHT HAND	Sino-Tibetan	human body part	0	
 SCROTUM	Sino-Tibetan	human body part	0	
-SHOULDER	Sino-Tibetan	human body part	0	
 SHOULDERBLADE	Sino-Tibetan	human body part	0	
 SIDE (BODY)	Sino-Tibetan	human body part	0	
 SKELETON	Sino-Tibetan	human body part	0	
 SKIN (HUMAN)	Sino-Tibetan	human body part	0	
-SKULL	Sino-Tibetan	human body part	0	
 SOLE (FOOT)	Sino-Tibetan	human body part	0	
 SPINE	Sino-Tibetan	human body part	0	
 TEMPLES	Sino-Tibetan	human body part	0	
@@ -1282,55 +1271,66 @@ TENDON	Sino-Tibetan	human body part	0
 TESTICLES	Sino-Tibetan	human body part	0	
 THUMB	Sino-Tibetan	human body part	0	
 TIP (OF TONGUE)	Sino-Tibetan	human body part	0	
-TOE	Sino-Tibetan	human body part	0	
 TOENAIL	Sino-Tibetan	human body part	0	
-TOOTH	Sino-Tibetan	human body part	0	
 TORSO	Sino-Tibetan	human body part	0	
 UMBILICAL CORD	Sino-Tibetan	human body part	0	
 UPPER BACK	Sino-Tibetan	human body part	0	
-UPPER LEG (THIGH)	Sino-Tibetan	human body part	0	
 UVULA	Sino-Tibetan	human body part	0	
 VEIN	Sino-Tibetan	human body part	0	
 WOMB	Sino-Tibetan	human body part	0	
-WRIST	Sino-Tibetan	human body part	0	
-FOOT	Sino-Tibetan	human body part	1	TONGUE:1.00;LEG:5.00;LOWER LEG:0.50
+FOOT	Sino-Tibetan	human body part	1	TONGUE:1.00;LEG:8.00;LOWER LEG:0.50
 INTESTINES	Sino-Tibetan	human body part	1	TONGUE:0.50
-LEG	Sino-Tibetan	human body part	1	FOOT:5.00
+LEG	Sino-Tibetan	human body part	1	FOOT:8.00;WAIST:0.50;CALF OF LEG:0.50
 LOWER LEG	Sino-Tibetan	human body part	1	FOOT:0.50
 TONGUE	Sino-Tibetan	human body part	1	FOOT:1.00;INTESTINES:0.50
-HIP	Sino-Tibetan	human body part	10	WAIST:2.00
-WAIST	Sino-Tibetan	human body part	10	BACK:0.50;HIP:2.00
-CHEEK	Sino-Tibetan	human body part	11	JAW:0.50
-JAW	Sino-Tibetan	human body part	11	CHEEK:0.50
-CHEST	Sino-Tibetan	human body part	12	THROAT:0.50
-THROAT	Sino-Tibetan	human body part	12	CHEST:0.50
-VAGINA	Sino-Tibetan	human body part	13	VULVA:0.50
-VULVA	Sino-Tibetan	human body part	13	VAGINA:0.50
-SKIN	Sino-Tibetan	human body part	14	SPLEEN:0.50
-SPLEEN	Sino-Tibetan	human body part	14	SKIN:0.50
-BACK	Sino-Tibetan	human body part	2	HEART:0.50;BODY:0.50;WAIST:0.50
+BELLY	Sino-Tibetan	human body part	10	STOMACH:2.00
+STOMACH	Sino-Tibetan	human body part	10	BELLY:2.00
+BLADDER	Sino-Tibetan	human body part	11	FACE:0.50
+BREAST	Sino-Tibetan	human body part	11	MOUTH:0.50
+FACE	Sino-Tibetan	human body part	11	BLADDER:0.50;CHEEK:0.50;MOUTH:2.00
+LIP	Sino-Tibetan	human body part	11	MOUTH:0.50
+MOUTH	Sino-Tibetan	human body part	11	BREAST:0.50;LIP:0.50;SKIN:0.50;FACE:2.00
+NECK	Sino-Tibetan	human body part	12	THROAT:5.00
+THROAT	Sino-Tibetan	human body part	12	CHEST:0.50;NECK:5.00
+CHEST	Sino-Tibetan	human body part	13	THROAT:0.50;SHOULDER:0.50
+SHOULDER	Sino-Tibetan	human body part	13	ARM:0.50;CHEST:0.50
+VAGINA	Sino-Tibetan	human body part	14	VULVA:0.50
+VULVA	Sino-Tibetan	human body part	14	VAGINA:0.50
+HAIR (BODY)	Sino-Tibetan	human body part	15	HAIR (HEAD):0.50;TOOTH:0.50
+HAIR (HEAD)	Sino-Tibetan	human body part	15	HAIR (BODY):0.50;SKIN:1.00
+SKIN	Sino-Tibetan	human body part	15	SPLEEN:0.50;HAIR (HEAD):1.00;MOUTH:0.50
+SPLEEN	Sino-Tibetan	human body part	15	SKIN:0.50
+TOOTH	Sino-Tibetan	human body part	15	HAIR (BODY):0.50
+FOREHEAD	Sino-Tibetan	human body part	16	SKULL:0.50
+SKULL	Sino-Tibetan	human body part	16	FOREHEAD:0.50
+BACK	Sino-Tibetan	human body part	2	HEART:0.50;BODY:0.50;WAIST:3.00
 BODY	Sino-Tibetan	human body part	2	BACK:0.50
-HEART	Sino-Tibetan	human body part	2	BACK:0.50
-ARM	Sino-Tibetan	human body part	3	FINGER:0.50;HAND:3.00;ELBOW:0.50
-ELBOW	Sino-Tibetan	human body part	3	ARM:0.50;HAND:0.50
-FINGER	Sino-Tibetan	human body part	3	ARM:0.50
-HAND	Sino-Tibetan	human body part	3	ARM:3.00;ELBOW:0.50;UPPER ARM:0.50;LOWER ARM:0.50
-LOWER ARM	Sino-Tibetan	human body part	3	UPPER ARM:0.50;HAND:0.50
-UPPER ARM	Sino-Tibetan	human body part	3	LOWER ARM:0.50;HAND:0.50
-CALF OF LEG	Sino-Tibetan	human body part	4	SHIN:0.50
-SHIN	Sino-Tibetan	human body part	4	CALF OF LEG:0.50
-EYE	Sino-Tibetan	human body part	5	EYEBROW:0.50
-EYEBROW	Sino-Tibetan	human body part	5	EYELID:1.00;EYE:0.50;EYELASH:0.50
-EYELASH	Sino-Tibetan	human body part	5	EYEBROW:0.50
-EYELID	Sino-Tibetan	human body part	5	EYEBROW:1.00
-BEARD	Sino-Tibetan	human body part	6	CHIN:0.50
-CHIN	Sino-Tibetan	human body part	6	BEARD:0.50
-EAR	Sino-Tibetan	human body part	7	NOSE:0.50
-NOSE	Sino-Tibetan	human body part	7	EAR:0.50
-BELLY	Sino-Tibetan	human body part	8	STOMACH:2.00
-STOMACH	Sino-Tibetan	human body part	8	BELLY:2.00
-BREAST	Sino-Tibetan	human body part	9	MOUTH:0.50
-MOUTH	Sino-Tibetan	human body part	9	BREAST:0.50
+HIP	Sino-Tibetan	human body part	2	WAIST:3.00
+WAIST	Sino-Tibetan	human body part	2	BACK:3.00;HIP:3.00;LEG:0.50
+HEART	Sino-Tibetan	human body part	3	BACK:0.50;LIVER:0.50
+LIVER	Sino-Tibetan	human body part	3	HEART:0.50
+ARM	Sino-Tibetan	human body part	4	FINGER:0.50;HAND:6.00;ELBOW:0.50;WRIST:0.50;SHOULDER:0.50
+ELBOW	Sino-Tibetan	human body part	4	ARM:0.50;HAND:0.50;WRIST:0.50
+HAND	Sino-Tibetan	human body part	4	ARM:6.00;ELBOW:0.50;UPPER ARM:0.50;LOWER ARM:0.50;CHEEK:0.50
+LOWER ARM	Sino-Tibetan	human body part	4	UPPER ARM:0.50;HAND:0.50
+UPPER ARM	Sino-Tibetan	human body part	4	LOWER ARM:0.50;HAND:0.50
+UPPER LEG (THIGH)	Sino-Tibetan	human body part	4	WRIST:0.50
+WRIST	Sino-Tibetan	human body part	4	UPPER LEG (THIGH):0.50;ARM:0.50;ELBOW:0.50
+FINGER	Sino-Tibetan	human body part	5	ARM:0.50;TOE:0.50
+TOE	Sino-Tibetan	human body part	5	FINGER:0.50
+CALF OF LEG	Sino-Tibetan	human body part	6	SHIN:0.50;LEG:0.50
+SHIN	Sino-Tibetan	human body part	6	CALF OF LEG:0.50
+EYE	Sino-Tibetan	human body part	7	EYEBROW:0.50
+EYEBROW	Sino-Tibetan	human body part	7	EYELID:1.00;EYE:0.50;EYELASH:0.50
+EYELASH	Sino-Tibetan	human body part	7	EYEBROW:0.50
+EYELID	Sino-Tibetan	human body part	7	EYEBROW:1.00
+BEARD	Sino-Tibetan	human body part	8	CHIN:0.50
+CHEEK	Sino-Tibetan	human body part	8	JAW:2.00;HAND:0.50;FACE:0.50
+CHIN	Sino-Tibetan	human body part	8	BEARD:0.50;JAW:0.50
+JAW	Sino-Tibetan	human body part	8	CHEEK:2.00;CHIN:0.50
+EAR	Sino-Tibetan	human body part	9	NOSE:0.50
+HEAD	Sino-Tibetan	human body part	9	NOSE:0.50
+NOSE	Sino-Tibetan	human body part	9	EAR:0.50;HEAD:0.50
 BEIGE	Tai-Kadai	color	0	
 BLACK	Tai-Kadai	color	0	
 BRIGHT YELLOW	Tai-Kadai	color	0	
