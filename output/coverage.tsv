@@ -1,0 +1,130 @@
+Concept	Tag	Languages	Families
+BACK	human body part	1313	20
+BELLY	human body part	1644	20
+BLACK	color	1758	20
+BODY	human body part	732	20
+BONE	human body part	1731	20
+CHEEK	human body part	502	13
+CHIN	human body part	670	18
+EAR	human body part	1787	20
+ELBOW	human body part	698	18
+EYE	human body part	1848	20
+FACE	human body part	726	14
+FINGER	human body part	813	20
+FINGERNAIL	human body part	974	20
+FOOT	human body part	1570	20
+GREEN	color	1219	20
+HAIR (HEAD)	human body part	510	18
+HAND	human body part	1591	20
+HEAD	human body part	1781	20
+HEART	human body part	1113	20
+KNEE	human body part	1214	20
+MOUTH	human body part	1759	20
+NECK	human body part	1714	20
+NOSE	human body part	1831	20
+PALM OF HAND	human body part	442	12
+RED	color	1632	20
+SKIN	human body part	1673	20
+TONGUE	human body part	1810	20
+TOOTH	human body part	1755	20
+WHITE	color	1768	20
+YELLOW	color	1429	20
+BEARD	human body part	840	19
+BREAST	human body part	1629	20
+NAVEL	human body part	906	20
+WAIST	human body part	246	11
+KIDNEY	human body part	355	12
+INTESTINES	human body part	1001	17
+STOMACH	human body part	510	19
+LIVER	human body part	1534	20
+LUNG	human body part	550	20
+BLUE	color	513	19
+ARM	human body part	877	18
+ARMPIT	human body part	425	13
+BLADDER	human body part	154	2
+BRAIN	human body part	548	19
+BUTTOCKS	human body part	362	19
+CALF OF LEG	human body part	163	12
+CHEST	human body part	751	18
+EYEBROW	human body part	376	13
+EYELASH	human body part	44	12
+HAIR	human body part	1469	20
+HEEL	human body part	428	12
+HIP	human body part	107	13
+JAW	human body part	155	13
+JEALOUSY	emotion	9	1
+LEG	human body part	1526	20
+LIP	human body part	421	20
+NAPE (OF NECK)	human body part	278	16
+PENIS	human body part	570	20
+RIB	human body part	509	13
+SHAME	emotion	60	12
+SHOULDER	human body part	1212	18
+TESTICLES	human body part	204	20
+UPPER LEG (THIGH)	human body part	695	20
+VEIN	human body part	333	7
+SHIN	human body part	183	9
+SPINE	human body part	49	12
+FINGERTIP	human body part	18	1
+FOREHEAD	human body part	708	19
+LEFT HAND	human body part	52	1
+LITTLE FINGER	human body part	58	1
+RIGHT HAND	human body part	52	1
+THUMB	human body part	192	12
+GUTS	human body part	148	5
+CLITORIS	human body part	7	1
+FEAR (FRIGHT)	emotion	78	12
+GUMS	human body part	121	11
+LAP	human body part	8	1
+TOENAIL	human body part	225	6
+PUBIC HAIR	human body part	26	12
+SKIN (HUMAN)	human body part	32	3
+VAGINA	human body part	166	14
+ANKLE	human body part	232	12
+FLESH	human body part	1146	20
+THROAT	human body part	670	20
+TENDON	human body part	323	12
+HAIR (BODY)	human body part	146	16
+PANCREAS	human body part	16	1
+GREY	color	173	14
+WRIST	human body part	151	18
+ANUS	human body part	147	5
+GALL BLADDER	human body part	25	1
+EYELID	human body part	67	12
+JOINT	human body part	81	3
+TOE	human body part	354	19
+MOUSTACHE	human body part	145	6
+UPPER ARM	human body part	137	20
+ADAM'S APPLE	human body part	32	5
+UPPER BACK	human body part	34	5
+LONG HAIR	human body part	39	5
+VULVA	human body part	233	20
+TIP (OF TONGUE)	human body part	30	4
+FRONT TOOTH (INCISOR)	human body part	64	6
+LOWER ARM	human body part	133	20
+LOWER LEG	human body part	57	20
+NIPPLE	human body part	43	19
+SIDE (BODY)	human body part	20	1
+SKULL	human body part	55	11
+PAIN	emotion	181	13
+PITY	emotion	25	10
+JOY	emotion	74	5
+HAPPINESS	emotion	74	5
+GRIEF	emotion	100	12
+LONGING (WISH)	emotion	74	5
+SOLE (FOOT)	human body part	151	3
+COURAGE	emotion	46	1
+BLOOD VESSEL	human body part	31	12
+TEMPLES	human body part	30	10
+EARLOBE	human body part	23	11
+NOSTRIL	human body part	30	12
+MOLAR TOOTH	human body part	53	11
+SHOULDERBLADE	human body part	32	12
+COLLARBONE	human body part	26	12
+SPLEEN	human body part	25	11
+WOMB	human body part	31	12
+ANXIETY	emotion	25	12
+ANGER	emotion	27	12
+ENVY	emotion	35	12
+EYEBALL	human body part	45	1
+FOREFINGER	human body part	16	1
