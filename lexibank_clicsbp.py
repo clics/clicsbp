@@ -14,9 +14,10 @@ from git import Repo, GitCommandError
 from csvw.dsv import reader
 import lingpy
 from clldutils.misc import slug
+from tabulate import tabulate
 
 
-from pylexibank import Concept
+from pylexibank import Concept, Lexeme, progressbar
 import attr
 
 
@@ -25,12 +26,16 @@ class CustomConcept(Concept):
     Tag = attr.ib(default=None)
 
 
+@attr.s
+class CustomLexeme(Lexeme):
+    ConceptInSource = attr.ib(default=None)
+
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "clicsbp"
     concept_class = CustomConcept
-
+    lexeme_class = CustomLexeme
 
     def cmd_download(self, args):
         for dataset in self.etc_dir.read_csv(
@@ -59,7 +64,7 @@ class Dataset(BaseDataset):
         D = {
                 0: [
                     "doculect", "formid", "concept", "value", "form", "tokens", 
-                    "family"]
+                    "family", "conceptinsource"]
                 }
         idx = 1
         
@@ -67,6 +72,11 @@ class Dataset(BaseDataset):
             delimiter="\t", dicts=True)]
         concepts = {concept["CONCEPTICON_GLOSS"]: concept["TAG"] for concept in
                 self.concepts}
+        unmerge = collections.defaultdict(set)
+        for concept in self.concepts:
+            for gloss in concept["BROADER_CONCEPT"].split(" // "):
+                unmerge[gloss].add(concept["CONCEPTICON_GLOSS"])
+                
         for concept in self.concepts:
             args.writer.add_concept(
                     ID=slug(concept["CONCEPTICON_GLOSS"], lowercase=False),
@@ -78,7 +88,7 @@ class Dataset(BaseDataset):
         args.log.info("added concepts")
 
 
-        for language in wl.languages:
+        for language in progressbar(wl.languages, desc="adding forms"):
             if language.family in families:
                 args.writer.add_language(
                         ID=language.id,
@@ -97,9 +107,23 @@ class Dataset(BaseDataset):
                                 form.value,
                                 form.form,
                                 form.sounds,
-                                language.family
+                                language.family,
+                                ""
                                 ]
                         idx += 1
+                    elif form.concept and form.concept.concepticon_gloss in unmerge:
+                        for gloss in unmerge[form.concept.concepticon_gloss]:
+                            D[idx] = [
+                                    language.id,
+                                    form.id,
+                                    gloss,
+                                    form.value,
+                                    form.form,
+                                    form.sounds,
+                                    language.family,
+                                    form.concept.id]
+                            idx += 1
+
         wll = lingpy.Wordlist(D)
         for idx in wll:
             args.writer.add_form_with_segments(
@@ -108,8 +132,36 @@ class Dataset(BaseDataset):
                     Language_ID=wll[idx, 'doculect'],
                     Value=wll[idx, "value"],
                     Form=wll[idx, "form"],
-                    Segments=wll[idx, "tokens"]
+                    Segments=wll[idx, "tokens"],
+                    ConceptInSource=wll[idx, "conceptinsource"]
                     )
+
+        # add info on coverage
+        coverage = collections.defaultdict(dict)
+        perfamily = collections.defaultdict(lambda :
+                collections.defaultdict(list))
+        for idx, concept, language, family in wll.iter_rows(
+                "concept", "doculect", "family"):
+            coverage[concept][language] = family
+            perfamily[concept][family] += [language] 
+        with open(self.dir / "output" / "coverage.tsv", "w") as f:
+            f.write("Concept\tTag\tLanguages\tFamilies\n")
+            for k, vals in coverage.items():
+                f.write("{0}\t{1}\t{2}\t{3}\n".format(
+                    k, concepts[k], len(vals), len(set(vals.values()))))
+
+        # make big coverage map 
+        with open(self.dir / "output" / "coverage-per-family.tsv", "w") as f:
+            f.write("Concept\tTag")
+            for fam in sorted(families):
+                f.write("\t"+fam)
+            f.write("\n")
+            for concept in perfamily:
+                f.write("{0}\t{1}".format(concept, concepts[concept]))
+                for fam in families:
+                    f.write("\t{0}".format(len(set(perfamily[concept][fam]))))
+                f.write("\n")
+
 
 
 

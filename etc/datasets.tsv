@@ -1,40 +1,49 @@
 ID	Name	Organisation	Repository
-hantganbangime	HantganBangime	lexibank	hantganbangime
-northeuralex	NorthEuralex	lexibank	northeuralex
-chenhmongmien	ChenHmongMien	lexibank	chenhmongmien
-kraftchadic	KraftChadic	lexibank	kraftchadic
-beidasinitic	BeidaSinitic	lexibank	beidasinitic
-allenbai	Allen Bai	lexibank	allenbai
 abrahammonpa	Abraham	lexibank	abrahammonpa
-bowernpny	Bowern PNY	lexibank	bowernpny
+allenbai	Allen Bai	lexibank	allenbai
 bantubvd	bantu	lexibank	bantubvd
+beidasinitic	BeidaSinitic	lexibank	beidasinitic
+birchallchapacuran	birchall	lexibank	birchallchapacuran
+bodtkhobwa	bodt	lexibank	bodtkhobwa
+bowernpny	Bowern PNY	lexibank	bowernpny
 castrosui	castro sui	lexibank	castrosui
 castroyi	castro yi	lexibank	castroyi
 castrozhuang	castro zhuang	lexibank	castrozhuang
-chindialectsurvey	chin dialect	lexibank	chindialectsurvey
-hubercolumbian	huber and reed	lexibank	hubercolumbian
-gerarditupi	gerarditupi	lexibank	gerarditupi
-savelyevturkic	savelyev	lexibank	savelyevturkic
-suntb	sun	lexibank	suntb
-wold	wold	lexibank	wold
-walworthpolynesian	walworth	lexibank	walworthpolynesian
-johanssonsoundsymbolic	johannson	lexibank	johanssonsoundsymbolic
-marrisonnaga	marrison	lexibank	marrisonnaga
-constenlachibchan	constenla	lexibank	constenlachibchan
-lieberherrkhobwa	lieberherr	lexibank	lieberherrkhobwa
-bodtkhobwa	bodt	lexibank	bodtkhobwa
-git peirosaustroasiatic	peiro	lexibank	peirosaustroasiatic
-deepadungpalaung	deepadung	lexibank	deepadungpalaung
 chaconarawakan	chacon	lexibank	chaconarawakan
+chenhmongmien	ChenHmongMien	lexibank	chenhmongmien
+chindialectsurvey	chin dialect	lexibank	chindialectsurvey
+clarkkimmun	clark	lexibank	clarkkimmun
+constenlachibchan	constenla	lexibank	constenlachibchan
+deepadungpalaung	deepadung	lexibank	deepadungpalaung
+dunnaslian	dunn	lexibank	dunnaslian
+duonglachi	duong	lexibank	duonglachi
+gerarditupi	gerarditupi	lexibank	gerarditupi
+hantganbangime	HantganBangime	lexibank	hantganbangime
 hsiuhmongmien	hsiu	lexibank	hsiuhmongmien
+hubercolumbian	huber and reed	lexibank	hubercolumbian
+johanssonsoundsymbolic	johannson	lexibank	johanssonsoundsymbolic
+kraftchadic	KraftChadic	lexibank	kraftchadic
+lieberherrkhobwa	lieberherr	lexibank	lieberherrkhobwa
 mannburmish	mann	lexibank	mannburmish
+marrisonnaga	marrison	lexibank	marrisonnaga
+mitterhoferbena	mitterhofer	lexibank	mitterhoferbena
+nagarajakhasian	nagaraja	lexibank	nagarajakhasian
+northeuralex	NorthEuralex	lexibank	northeuralex
+peirosaustroasiatic	peiro	lexibank	peirosaustroasiatic
+polyglottaafricana	polyglottaafricana	lexibank	polyglottaafricana
+savelyevturkic	savelyev	lexibank	savelyevturkic
+sidwellbahnaric	sidwell	lexibank	sidwellbahnaric
+suntb	sun	lexibank	suntb
+utoaztecan	utoaztecan	lexibank	utoaztecan
+walworthpolynesian	walworth	lexibank	walworthpolynesian
+wold	wold	lexibank	wold
 yanglalo	yang	lexibank	yanglalo
 yangyi	yang	lexibank	yangyi
-utoaztecan	utoaztecan	lexibank	utoaztecan
-clarkkimmun	clark	lexibank	clarkkimmun
-mitterhoferbena	mitterhofer	lexibank	mitterhoferbena
-birchallchapacuran	birchall	lexibank	birchallchapacuran
-dunnaslian	dunn	lexibank	dunnaslian
-nagarajakhasian	nagaraja	lexibank	nagarajakhasian
-sidwellbahnaric	sidwell	lexibank	sidwellbahnaric
-duonglachi	duong	lexibank	duonglachi
+tuled	TULED	tupian-language-resources	tuled
+abvdoceanic	abvd	lexibank	abvdoceanic
+syrjaenenuralic	uralex	lexibank	syrjaenenuralic
+tryonsolomon	Solomon	lexibank	tryonsolomon
+wangbai	Bau	lexibank	wangbai
+sohartmanchin	Chin	lexibank	sohartmannchin
+naganorgyalrongic	Rgyalrong	lexibank	naganorgyalrongic
+listsamplesize	SampleSize	sequencecomparison	listsamplesize
