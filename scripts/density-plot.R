@@ -8,14 +8,14 @@ groundhog.library(pkgs, "2021-11-28")
 
 # setwd("")
 
-body <- read_delim("~/GitHub/Repos/clics/clicsbp/output/ari-body.tsv", 
+body <- read_delim("./clics/clicsbp/output/ari-body.tsv", 
                        delim = "\t", escape_double = FALSE, 
                        trim_ws = TRUE)
-emotion <- read_delim("~/GitHub/Repos/clics/clicsbp/output/ari-emotion.tsv", 
+emotion <- read_delim("./clics/clicsbp/output/ari-emotion.tsv", 
                    delim = "\t", escape_double = FALSE, 
                    trim_ws = TRUE)
 
-color <- read_delim("~/GitHub/Repos/clics/clicsbp/output/ari-color.tsv", 
+color <- read_delim("./clics/clicsbp/output/ari-color.tsv", 
                    delim = "\t", escape_double = FALSE, 
                    trim_ws = TRUE)
 
