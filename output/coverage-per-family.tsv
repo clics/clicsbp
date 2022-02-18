@@ -1,130 +1,162 @@
 Concept	Tag	Afro-Asiatic	Arawakan	Atlantic-Congo	Austroasiatic	Austronesian	Chapacuran	Chibchan	Chocoan	Dogon	Hmong-Mien	Huitotoan	Indo-European	Pama-Nyungan	Sino-Tibetan	Tai-Kadai	Tucanoan	Tupian	Turkic	Uralic	Uto-Aztecan
-BACK	human body part	7	8	19	39	526	11	7	8	17	5	5	50	158	252	22	19	89	41	28	2
-BELLY	human body part	19	15	138	122	542	10	7	8	17	29	5	46	173	274	38	20	70	40	35	36
-BLACK	color	81	17	141	105	541	11	7	8	1	40	5	46	159	330	39	20	95	41	35	36
-BODY	human body part	69	1	23	2	109	1	1	1	17	28	1	50	95	223	38	1	32	10	28	2
-BONE	human body part	79	17	139	137	524	11	7	8	17	41	5	50	173	254	39	20	98	40	35	37
-CHEEK	human body part	68	0	17	2	4	0	0	0	16	3	0	49	115	147	17	0	0	36	27	1
-CHIN	human body part	66	7	23	2	4	0	6	7	15	26	4	45	131	233	21	19	0	33	27	1
-EAR	human body part	81	16	143	137	543	11	7	8	17	41	5	46	172	327	39	20	61	41	35	37
-ELBOW	human body part	17	6	129	2	4	0	6	7	15	3	4	49	154	227	21	18	0	9	26	1
-EYE	human body part	81	17	150	137	547	11	7	8	17	41	5	46	174	336	39	20	100	41	35	36
-FACE	human body part	80	0	134	2	4	0	0	0	16	29	0	49	1	258	37	0	79	9	27	1
-FINGER	human body part	81	7	148	21	5	1	7	7	17	29	5	50	2	261	22	20	90	10	28	2
+BACK	human body part	7	8	18	39	526	11	7	8	17	5	5	50	158	252	22	19	89	41	28	2
+BAD	emotion	19	8	132	40	537	1	7	8	17	29	5	47	171	290	38	20	66	37	28	2
+BELLY	human body part	19	15	137	122	542	10	7	8	17	29	5	46	173	274	38	20	70	40	35	36
+BLACK	color	81	17	141	105	541	11	7	8	1	40	5	47	159	342	39	20	95	41	35	36
+BODY	human body part	69	1	22	2	109	1	1	1	17	28	1	51	95	223	38	1	32	10	28	2
+BONE	human body part	79	17	138	137	524	11	7	8	17	41	5	50	173	254	39	20	98	40	35	37
+CHEEK	human body part	68	0	16	2	4	0	0	0	16	3	0	50	115	147	17	0	0	36	27	1
+CHIN	human body part	66	7	22	2	4	0	6	7	15	26	4	46	131	233	21	19	0	33	27	1
+EAR	human body part	81	16	142	137	543	11	7	8	17	41	5	46	172	327	39	20	61	41	35	37
+ELBOW	human body part	17	6	128	2	4	0	6	7	15	3	4	50	154	227	21	18	0	9	26	1
+EYE	human body part	81	17	149	137	547	11	7	8	17	41	5	46	174	336	39	20	100	41	35	36
+FACE	human body part	80	0	133	2	4	0	0	0	16	29	0	50	1	258	37	0	79	9	27	1
+FINGER	human body part	81	7	147	21	5	1	7	7	17	29	5	51	2	261	22	20	90	10	28	2
 FINGERNAIL	human body part	18	11	134	92	5	9	7	8	1	29	5	46	131	262	38	20	88	40	28	2
-FOOT	human body part	17	17	120	136	438	11	7	8	17	28	5	50	173	274	39	20	97	41	35	37
-GREEN	color	54	17	4	81	476	1	7	8	1	30	5	46	2	238	39	19	79	40	35	37
+FOOT	human body part	17	17	119	136	438	11	7	8	17	28	5	50	173	274	39	20	97	41	35	37
+GOOD	emotion	80	17	139	107	541	11	7	8	16	41	5	47	171	326	39	20	93	39	35	36
+GREEN	color	54	17	4	81	476	1	7	8	1	30	5	47	2	250	39	19	79	40	35	37
 HAIR (HEAD)	human body part	4	10	1	25	4	0	6	7	0	28	4	12	1	304	17	19	34	32	1	1
-HAND	human body part	18	17	120	136	442	11	7	8	15	29	5	50	173	287	39	20	101	41	35	37
-HEAD	human body part	81	16	143	136	541	11	7	8	17	30	5	50	172	330	39	20	64	39	35	37
+HAND	human body part	18	17	119	136	442	11	7	8	15	29	5	50	173	288	39	20	101	41	35	37
+HEAD	human body part	81	16	142	136	541	11	7	8	17	30	5	50	172	330	39	20	64	39	35	37
 HEART	human body part	69	17	21	98	109	10	7	7	1	41	5	50	138	282	39	20	88	40	35	36
-KNEE	human body part	81	15	141	100	107	10	6	8	17	4	5	50	162	252	39	20	85	41	35	36
-MOUTH	human body part	81	17	142	134	534	10	6	8	17	30	5	50	174	319	39	20	61	41	35	36
-NECK	human body part	79	17	140	129	527	10	7	8	16	29	5	50	136	302	39	20	87	41	35	37
-NOSE	human body part	81	17	143	136	548	11	7	8	17	41	5	50	176	325	39	20	97	39	35	36
-PALM OF HAND	human body part	12	0	120	23	4	0	0	0	0	2	0	44	1	162	37	0	0	9	27	1
-RED	color	69	17	24	130	538	11	7	8	16	30	5	46	155	310	39	20	98	38	35	36
-SKIN	human body part	81	15	136	112	523	10	6	8	17	30	5	50	167	282	39	20	59	41	35	37
-TONGUE	human body part	80	16	143	135	546	11	7	8	17	30	5	50	175	329	39	20	87	41	35	36
-TOOTH	human body part	81	17	143	135	542	10	7	8	17	40	5	46	174	302	39	20	60	39	35	35
-WHITE	color	81	16	138	134	540	11	7	8	17	40	5	46	150	311	39	20	95	39	35	36
-YELLOW	color	57	14	7	90	511	5	7	7	16	39	5	46	99	273	39	17	87	39	35	36
-BEARD	human body part	68	7	23	1	106	0	6	7	16	28	4	49	162	203	37	19	67	9	27	1
-BREAST	human body part	80	13	135	116	541	10	7	8	16	3	5	50	173	217	38	19	88	40	35	35
-NAVEL	human body part	80	7	133	23	104	1	7	8	1	29	5	50	126	174	38	20	1	40	25	34
-WAIST	human body part	4	0	1	2	4	0	0	0	0	27	0	11	0	193	1	0	0	1	1	1
-KIDNEY	human body part	60	0	16	2	4	0	0	0	0	1	0	12	102	154	1	0	0	1	1	1
-INTESTINES	human body part	64	8	16	29	395	0	6	7	0	29	4	8	145	231	37	19	0	1	1	1
+KNEE	human body part	81	15	140	100	107	10	6	8	17	4	5	50	162	252	39	20	85	41	35	36
+MOUTH	human body part	81	17	141	134	534	10	6	8	17	30	5	50	174	319	39	20	61	41	35	36
+NECK	human body part	79	17	139	129	527	10	7	8	16	29	5	51	136	302	39	20	87	41	35	37
+NOSE	human body part	81	17	142	136	548	11	7	8	17	41	5	50	176	325	39	20	97	39	35	36
+PALM OF HAND	human body part	12	0	120	23	4	0	0	0	0	2	0	45	1	166	37	0	0	9	27	1
+RED	color	69	17	23	130	538	11	7	8	16	30	5	47	155	322	39	20	98	38	35	36
+SKIN	human body part	81	15	135	112	523	10	6	8	17	30	5	50	167	282	39	20	59	41	35	37
+HATE	emotion	4	0	4	2	4	0	0	0	0	2	0	8	1	249	1	0	0	1	1	1
+LOVE	emotion	18	0	113	2	101	0	0	0	0	2	0	46	1	224	37	0	0	9	27	1
+TONGUE	human body part	80	16	142	135	546	11	7	8	17	30	5	50	175	329	39	20	87	41	35	36
+TOOTH	human body part	81	17	142	135	542	10	7	8	17	40	5	46	174	302	39	20	60	39	35	35
+WHITE	color	81	16	137	134	540	11	7	8	17	40	5	47	150	323	39	20	95	39	35	36
+YELLOW	color	57	14	6	90	511	5	7	7	16	39	5	47	99	285	39	17	87	39	35	36
+BEARD	human body part	68	7	22	1	106	0	6	7	16	28	4	50	162	203	37	19	67	9	27	1
+BREAST	human body part	80	13	134	116	541	10	7	8	16	3	5	50	173	217	38	19	88	40	35	35
+NAVEL	human body part	80	7	133	23	104	1	7	8	1	29	5	51	126	174	38	20	1	40	25	34
+WAIST	human body part	4	0	1	2	4	0	0	0	0	27	0	12	0	193	1	0	0	1	1	1
+KIDNEY	human body part	60	0	16	2	4	0	0	0	0	1	0	13	102	154	1	0	0	1	1	1
+INTESTINES	human body part	64	8	16	29	395	0	6	7	0	29	4	9	145	231	37	19	0	1	1	1
 STOMACH	human body part	68	6	16	26	4	0	6	7	15	26	4	49	1	170	2	19	55	9	26	1
 LIVER	human body part	67	16	23	132	529	8	6	8	1	30	5	50	148	257	39	20	90	36	35	34
-LUNG	human body part	60	7	23	3	5	1	6	8	17	29	5	13	119	190	38	19	1	2	2	2
-BLUE	color	48	1	4	4	93	1	0	1	1	26	1	46	2	144	23	1	77	10	28	2
-ARM	human body part	74	7	132	1	109	0	6	7	0	2	4	45	1	260	17	19	92	40	27	34
-ARMPIT	human body part	4	0	17	2	4	0	0	0	15	2	0	12	159	170	37	0	0	1	1	1
+LUNG	human body part	60	7	22	3	5	1	6	8	17	29	5	14	119	190	38	19	1	2	2	2
+ANGRY	emotion	1	1	1	1	1	1	0	1	1	1	0	1	115	106	1	1	1	1	1	1
+LIKE	emotion	2	0	0	0	0	0	0	0	0	1	0	37	0	170	16	0	0	8	25	0
+WANT	emotion	7	1	6	3	5	1	0	1	1	24	1	46	2	201	38	1	86	10	28	2
+BLUE	color	48	1	4	4	93	1	0	1	1	26	1	47	2	156	23	1	77	10	28	2
+ARM	human body part	74	7	132	1	109	0	6	7	0	2	4	46	1	260	17	19	92	40	27	34
+ARMPIT	human body part	4	0	16	2	4	0	0	0	15	2	0	13	159	170	37	0	0	1	1	1
 BLADDER	human body part	0	0	10	0	0	0	0	0	0	0	0	0	0	144	0	0	0	0	0	0
-BRAIN	human body part	68	1	17	18	106	1	0	1	1	30	1	49	2	161	22	1	1	39	27	2
-BUTTOCKS	human body part	65	1	17	3	5	1	1	1	1	29	0	13	2	155	22	1	39	2	2	2
+BRAIN	human body part	68	1	17	18	106	1	0	1	1	30	1	50	2	161	22	1	1	39	27	2
+BUTTOCKS	human body part	65	1	17	3	5	1	1	1	1	29	0	14	2	155	22	1	39	2	2	2
 CALF OF LEG	human body part	4	0	11	2	4	0	0	0	0	2	0	11	1	124	1	0	0	1	1	1
-CHEST	human body part	80	10	136	3	4	0	6	4	15	26	4	49	140	180	38	19	0	9	27	1
-EYEBROW	human body part	4	0	24	2	4	0	0	0	0	28	0	12	112	164	1	0	22	1	1	1
-EYELASH	human body part	4	0	10	2	4	0	0	0	0	1	0	8	1	10	1	0	0	1	1	1
-HAIR	human body part	77	7	142	134	528	11	1	1	17	27	1	38	170	150	22	1	63	9	34	36
-HEEL	human body part	16	0	117	2	4	0	0	0	0	2	0	49	95	85	21	0	0	9	27	1
-HIP	human body part	4	0	11	2	4	0	0	0	16	2	0	12	1	51	1	0	0	1	1	1
-JAW	human body part	6	0	17	2	4	0	0	0	16	2	0	49	1	21	1	0	0	9	26	1
+CHEST	human body part	80	10	135	3	4	0	6	4	15	26	4	50	140	180	38	19	0	9	27	1
+EYEBROW	human body part	4	0	24	2	4	0	0	0	0	28	0	13	112	164	1	0	22	1	1	1
+EYELASH	human body part	4	0	10	2	4	0	0	0	0	1	0	9	1	10	1	0	0	1	1	1
+HAIR	human body part	77	7	141	134	528	11	1	1	17	27	1	38	170	150	22	1	63	9	34	36
+HEEL	human body part	16	0	117	2	4	0	0	0	0	2	0	50	95	85	21	0	0	9	27	1
+HIP	human body part	4	0	11	2	4	0	0	0	16	2	0	13	1	51	1	0	0	1	1	1
+JAW	human body part	6	0	16	2	4	0	0	0	16	2	0	50	1	21	1	0	0	9	26	1
 JEALOUSY	emotion	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-LEG	human body part	80	9	140	7	540	9	6	6	16	40	4	49	162	238	37	19	89	40	34	1
-LIP	human body part	64	7	17	3	5	1	7	8	1	3	5	50	2	152	2	20	34	10	28	2
+LEG	human body part	80	9	139	7	542	9	6	6	16	40	4	50	162	238	37	19	89	40	34	1
+LIP	human body part	64	7	17	3	5	1	7	8	1	3	5	51	2	152	2	20	34	10	28	2
+DESIRE	emotion	0	0	10	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0
 NAPE (OF NECK)	human body part	6	5	10	2	4	0	4	7	0	0	3	48	124	10	1	17	0	9	27	1
-PENIS	human body part	66	4	17	20	105	1	7	8	15	2	4	9	131	78	2	19	77	1	2	2
-RIB	human body part	76	0	128	2	4	0	0	0	15	2	0	12	124	126	17	0	0	1	1	1
+PENIS	human body part	66	4	16	20	105	1	7	8	15	2	4	9	131	78	2	19	77	1	2	2
+RIB	human body part	76	0	127	2	4	0	0	0	15	2	0	13	124	126	17	0	0	1	1	1
 SHAME	emotion	4	0	11	1	4	0	0	0	0	1	0	8	1	26	1	0	0	1	1	1
-SHOULDER	human body part	80	7	135	2	366	0	6	7	0	28	4	49	160	217	37	18	29	39	27	1
-TESTICLES	human body part	66	1	16	3	5	1	1	1	17	2	1	9	2	10	2	1	60	2	2	2
-UPPER LEG (THIGH)	human body part	81	8	135	3	5	1	7	8	1	4	5	50	163	135	2	20	1	39	25	2
+SHOULDER	human body part	80	7	135	2	366	0	6	7	0	28	4	50	160	217	37	18	29	39	27	1
+TESTICLES	human body part	66	1	15	3	5	1	1	1	17	2	1	9	2	10	2	1	60	2	2	2
+UPPER LEG (THIGH)	human body part	81	8	135	3	5	1	7	8	1	4	5	51	163	135	2	20	1	39	25	2
 VEIN	human body part	73	0	127	0	0	0	0	0	0	0	0	36	0	1	0	0	64	8	24	0
-SHIN	human body part	0	5	7	0	0	0	6	7	0	1	4	0	97	41	0	15	0	0	0	0
-SPINE	human body part	4	0	7	2	4	0	0	0	0	1	0	8	1	2	17	0	0	1	1	1
+SHIN	human body part	0	5	7	0	0	0	6	7	0	1	4	1	97	41	0	15	0	0	0	0
+SPINE	human body part	4	0	7	2	4	0	0	0	0	1	0	9	1	2	17	0	0	1	1	1
 FINGERTIP	human body part	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0
-FOREHEAD	human body part	17	6	112	2	4	0	6	7	16	2	4	45	148	214	37	19	14	27	27	1
+FOREHEAD	human body part	17	6	111	2	4	0	6	7	16	2	4	46	148	214	37	19	14	27	27	1
+HAPPY	emotion	5	1	2	3	5	0	0	1	1	3	0	10	82	130	2	1	78	2	2	2
 LEFT HAND	human body part	0	0	0	0	0	0	0	0	0	0	0	0	0	52	0	0	0	0	0	0
 LITTLE FINGER	human body part	0	0	0	0	0	0	0	0	0	0	0	0	0	58	0	0	0	0	0	0
+BLAME (SOMEBODY)	emotion	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0
+PROUD	emotion	4	0	1	1	4	0	0	0	0	1	0	9	0	81	1	0	0	1	1	1
+REGRET	emotion	4	0	1	2	4	0	0	0	0	1	0	9	1	53	1	0	0	1	1	1
 RIGHT HAND	human body part	0	0	0	0	0	0	0	0	0	0	0	0	0	52	0	0	0	0	0	0
-THUMB	human body part	4	0	2	2	4	0	0	0	0	1	0	8	78	89	1	0	0	1	1	1
+THUMB	human body part	4	0	2	2	4	0	0	0	0	1	0	9	78	89	1	0	0	1	1	1
 GUTS	human body part	0	0	0	6	99	8	0	0	0	0	0	0	0	7	0	0	0	28	0	0
 CLITORIS	human body part	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0
 FEAR (FRIGHT)	emotion	4	0	1	1	4	0	0	0	0	1	0	8	1	54	1	0	0	1	1	1
 GUMS	human body part	4	0	1	2	4	0	0	0	0	3	0	8	0	75	21	0	0	1	1	1
 LAP	human body part	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0
 TOENAIL	human body part	13	0	117	0	0	0	0	0	0	0	0	37	0	24	0	0	0	8	26	0
-PUBIC HAIR	human body part	4	0	1	2	3	0	0	0	0	1	0	6	1	4	1	0	0	1	1	1
+PUBIC HAIR	human body part	4	0	1	2	3	0	0	0	0	1	0	7	1	4	1	0	0	1	1	1
 SKIN (HUMAN)	human body part	0	0	3	21	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0
-VAGINA	human body part	65	0	7	2	4	0	0	0	14	1	0	8	1	19	1	0	41	1	1	1
+VAGINA	human body part	65	0	6	2	4	0	0	0	14	1	0	8	1	19	1	0	41	1	1	1
 ANKLE	human body part	4	0	1	2	4	0	0	0	0	1	0	12	133	71	1	0	0	1	1	1
 FLESH	human body part	75	16	124	31	388	1	6	8	1	3	5	13	160	189	2	20	91	2	9	2
-THROAT	human body part	19	1	122	3	5	1	1	1	15	27	1	46	137	156	2	1	62	40	28	2
+THROAT	human body part	19	1	121	3	5	1	1	1	15	27	1	47	137	156	2	1	62	40	28	2
 TENDON	human body part	6	0	1	2	4	0	0	0	0	26	0	45	85	117	1	0	0	9	26	1
-HAIR (BODY)	human body part	4	7	1	2	4	0	6	7	0	3	4	7	0	63	17	18	0	1	1	1
+HAIR (BODY)	human body part	4	7	1	2	4	0	6	7	0	3	4	8	0	63	17	18	0	1	1	1
 PANCREAS	human body part	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0
+GLOOMY	emotion	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0
 GREY	color	2	0	1	1	1	0	0	0	1	1	1	38	1	74	16	0	1	8	27	0
+ASHAMED	emotion	0	0	0	15	0	0	0	0	0	0	0	0	0	106	0	0	0	0	0	0
+SAD	emotion	2	1	1	1	1	1	0	1	1	2	1	39	1	92	1	1	1	9	27	1
 WRIST	human body part	3	5	1	2	4	0	4	6	0	1	4	12	1	83	1	15	6	1	1	1
-ANUS	human body part	60	0	5	0	0	0	0	0	0	23	0	0	0	40	0	0	19	0	0	0
+ANUS	human body part	60	0	5	0	0	0	0	0	0	23	0	1	0	40	0	0	19	0	0	0
 GALL BLADDER	human body part	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0
 EYELID	human body part	4	0	2	2	4	0	0	0	0	2	0	12	1	36	1	0	0	1	1	1
-JOINT	human body part	0	0	1	0	0	0	0	0	15	0	0	0	0	65	0	0	0	0	0	0
-TOE	human body part	19	7	119	3	5	0	6	7	1	3	5	50	2	67	2	18	1	10	27	2
-MOUSTACHE	human body part	2	0	0	0	0	0	0	0	0	0	0	37	0	9	0	0	63	8	26	0
+JOINT	human body part	0	0	0	0	0	0	0	0	15	0	0	1	0	65	0	0	0	0	0	0
+TOE	human body part	19	7	119	3	5	0	6	7	1	3	5	51	2	67	2	18	1	10	27	2
+MOUSTACHE	human body part	2	0	0	0	0	0	0	0	0	0	0	38	0	9	0	0	63	8	26	0
 UPPER ARM	human body part	12	5	78	1	1	1	5	5	1	1	5	1	1	1	1	14	1	1	1	1
 ADAM'S APPLE	human body part	0	5	0	0	0	0	5	6	0	0	4	0	0	0	0	12	0	0	0	0
-UPPER BACK	human body part	0	4	0	0	0	0	5	7	0	0	4	0	0	0	0	14	0	0	0	0
+UPPER BACK	human body part	0	4	0	0	0	0	5	7	0	0	4	1	0	0	0	14	0	0	0	0
 LONG HAIR	human body part	0	6	0	0	0	0	6	7	0	0	2	0	0	0	0	18	0	0	0	0
 VULVA	human body part	4	3	2	3	104	1	3	7	1	2	4	9	1	72	1	9	1	2	2	2
 TIP (OF TONGUE)	human body part	0	5	0	0	0	0	5	0	0	0	3	0	0	0	0	17	0	0	0	0
 FRONT TOOTH (INCISOR)	human body part	0	5	0	0	0	0	6	7	0	0	4	0	0	25	0	17	0	0	0	0
 LOWER ARM	human body part	10	5	74	1	1	1	5	8	1	1	5	1	1	1	1	13	1	1	1	1
 LOWER LEG	human body part	1	6	1	1	1	1	7	8	1	1	4	1	1	1	1	17	1	1	1	1
-NIPPLE	human body part	3	1	2	2	5	1	1	1	1	2	0	9	2	3	2	1	1	2	2	2
+SCARED	emotion	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1
+NIPPLE	human body part	3	1	2	2	5	1	1	1	1	2	0	10	2	3	2	1	1	2	2	2
 SIDE (BODY)	human body part	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0
-SKULL	human body part	4	0	1	2	4	0	0	0	0	1	0	12	0	27	1	0	0	1	1	1
-PAIN	emotion	6	0	4	2	4	0	0	0	0	1	0	45	1	24	1	0	56	9	27	1
+SKULL	human body part	4	0	1	2	4	0	0	0	0	1	0	13	0	27	1	0	0	1	1	1
+PAIN	emotion	6	0	4	2	4	0	0	0	0	1	0	46	1	36	1	0	56	9	27	1
 PITY	emotion	3	0	4	1	4	0	0	0	0	1	0	8	0	1	1	0	0	1	0	1
 JOY	emotion	2	0	0	0	0	0	0	0	0	0	0	37	0	1	0	0	0	8	26	0
-HAPPINESS	emotion	2	0	0	0	0	0	0	0	0	0	0	37	0	1	0	0	0	8	26	0
-GRIEF	emotion	6	0	1	1	4	0	0	0	0	1	0	45	1	3	1	0	0	9	27	1
+HAPPINESS	emotion	2	0	0	0	0	0	0	0	0	0	0	38	0	11	0	0	0	8	26	0
+GRIEF	emotion	6	0	1	1	4	0	0	0	0	1	0	46	1	14	1	0	0	9	27	1
 LONGING (WISH)	emotion	2	0	0	0	0	0	0	0	0	0	0	37	0	1	0	0	0	8	26	0
-SOLE (FOOT)	human body part	7	0	110	0	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0
+MERRY	emotion	2	0	0	0	0	0	0	0	0	0	0	38	0	11	0	0	0	8	26	0
+SOLE (FOOT)	human body part	7	0	110	0	0	0	0	0	0	0	0	1	0	34	0	0	0	0	0	0
 COURAGE	emotion	0	0	0	0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	0
-BLOOD VESSEL	human body part	4	0	1	2	4	0	0	0	0	1	0	12	1	2	1	0	0	1	1	1
-TEMPLES	human body part	3	0	1	1	4	0	0	0	0	0	0	7	0	10	1	0	0	1	1	1
+BLOOD VESSEL	human body part	4	0	1	2	4	0	0	0	0	1	0	13	1	2	1	0	0	1	1	1
+TEMPLES	human body part	3	0	1	1	4	0	0	0	0	0	0	8	0	10	1	0	0	1	1	1
 EARLOBE	human body part	3	0	1	2	4	0	0	0	0	1	0	6	0	2	1	0	0	1	1	1
-NOSTRIL	human body part	4	0	1	2	4	0	0	0	0	1	0	11	1	2	1	0	0	1	1	1
-MOLAR TOOTH	human body part	4	0	1	2	4	0	0	0	0	1	0	7	0	30	1	0	0	1	1	1
-SHOULDERBLADE	human body part	4	0	1	2	4	0	0	0	0	1	0	7	1	8	1	0	0	1	1	1
+NOSTRIL	human body part	4	0	1	2	4	0	0	0	0	1	0	12	1	2	1	0	0	1	1	1
+MOLAR TOOTH	human body part	4	0	1	2	4	0	0	0	0	1	0	8	0	30	1	0	0	1	1	1
+SHOULDERBLADE	human body part	4	0	1	2	4	0	0	0	0	1	0	8	1	8	1	0	0	1	1	1
 COLLARBONE	human body part	3	0	1	2	4	0	0	0	0	1	0	9	1	1	1	0	0	1	1	1
-SPLEEN	human body part	4	0	1	2	4	0	0	0	0	1	0	8	0	1	1	0	0	1	1	1
+SPLEEN	human body part	4	0	1	2	4	0	0	0	0	1	0	9	0	1	1	0	0	1	1	1
 WOMB	human body part	4	0	1	2	4	0	0	0	0	1	0	12	1	2	1	0	0	1	1	1
+SURPRISED	emotion	4	0	1	2	4	0	0	0	0	1	0	6	1	2	1	0	0	1	1	1
 ANXIETY	emotion	3	0	1	2	4	0	0	0	0	1	0	8	1	1	1	0	0	1	1	1
 ANGER	emotion	4	0	1	2	4	0	0	0	0	1	0	8	1	2	1	0	0	1	1	1
-ENVY	emotion	3	0	1	2	4	0	0	0	0	1	0	8	1	11	1	0	0	1	1	1
-EYEBALL	human body part	0	0	0	0	0	0	0	0	0	0	0	0	0	45	0	0	0	0	0	0
+ENVY	emotion	3	0	1	2	4	0	0	0	0	1	0	9	1	22	1	0	0	1	1	1
+DOUBT	emotion	3	0	1	1	4	0	0	0	0	1	0	7	0	2	1	0	0	1	1	1
+EYEBALL	human body part	0	0	0	0	0	0	0	0	0	0	0	1	0	45	0	0	0	0	0	0
 FOREFINGER	human body part	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0
+KIND	emotion	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0
+JEALOUS	emotion	0	0	0	0	0	0	0	0	0	0	0	1	0	16	0	0	0	0	0	0
+WORRY	emotion	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0
+BROWN	color	0	0	0	0	0	0	0	0	0	0	0	1	0	11	0	0	0	0	0	0
+GRIEVE	emotion	0	0	0	0	0	0	0	0	0	0	0	1	0	9	0	0	0	0	0	0
+HATE (LOATHING)	emotion	0	0	0	0	0	0	0	0	0	0	0	1	0	12	0	0	0	0	0	0
+PRIDE	emotion	0	0	0	0	0	0	0	0	0	0	0	1	0	11	0	0	0	0	0	0
+KINDNESS	emotion	0	0	0	0	0	0	0	0	0	0	0	1	0	10	0	0	0	0	0	0
+MOURNING	emotion	0	0	0	0	0	0	0	0	0	0	0	1	0	12	0	0	0	0	0	0
+SKELETON	human body part	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+NERVE	human body part	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+LOWER BACK	human body part	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+UMBILICAL CORD	human body part	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0

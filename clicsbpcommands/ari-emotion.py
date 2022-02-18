@@ -60,7 +60,7 @@ def run(args):
         f = 2*(p*r)/(p+r)
         pairs[famA, famB] = [ari, ami, f]
     with open(CLICS.dir.joinpath("output", "ari-emotion.tsv"), "w") as f:
-        f.write("FAMILY_A\tFAMILY_B\tARI\tAMI\tBCUBES\n")
+        f.write("FAMILY_A\tFAMILY_B\tARI_EMOTION\tAMI_EMOTION\tBCUBES_EMOTION\n")
         for (fA, fB), (ari, ami, bc) in pairs.items():
             f.write("{0}\t{1}\t{2:.4f}\t{3:.4f}\t{4:.4f}\n".format(
                 fA, fB, ari, ami, bc))
