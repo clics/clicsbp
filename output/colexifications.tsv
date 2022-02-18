@@ -23,38 +23,66 @@ RED	Afro-Asiatic	color	2	YELLOW:0.50
 YELLOW	Afro-Asiatic	color	2	RED:0.50;BLUE:0.50
 AMUSEMENT	Afro-Asiatic	emotion	0	
 ANGER	Afro-Asiatic	emotion	0	
+ANGRY	Afro-Asiatic	emotion	0	
+ASHAMED	Afro-Asiatic	emotion	0	
+ASTONISHED	Afro-Asiatic	emotion	0	
 AWE	Afro-Asiatic	emotion	0	
+BAD	Afro-Asiatic	emotion	0	
+BLAME (SOMEBODY)	Afro-Asiatic	emotion	0	
 CONFUSION	Afro-Asiatic	emotion	0	
 CONTEMPT	Afro-Asiatic	emotion	0	
 COURAGE	Afro-Asiatic	emotion	0	
 DEPRESSION	Afro-Asiatic	emotion	0	
+DESIRE	Afro-Asiatic	emotion	0	
 DISAPPOINTMENT	Afro-Asiatic	emotion	0	
 DISGUST	Afro-Asiatic	emotion	0	
+DOUBT	Afro-Asiatic	emotion	0	
 ENVY	Afro-Asiatic	emotion	0	
 EXCITEMENT	Afro-Asiatic	emotion	0	
+GLOOMY	Afro-Asiatic	emotion	0	
+GOOD	Afro-Asiatic	emotion	0	
+GRIEVE	Afro-Asiatic	emotion	0	
 HAPPINESS	Afro-Asiatic	emotion	0	
+HAPPY	Afro-Asiatic	emotion	0	
+HATE	Afro-Asiatic	emotion	0	
 HATE (LOATHING)	Afro-Asiatic	emotion	0	
+HOPE	Afro-Asiatic	emotion	0	
 HOPE (FAITH)	Afro-Asiatic	emotion	0	
+IMPATIENT	Afro-Asiatic	emotion	0	
 INTEREST (FEELING)	Afro-Asiatic	emotion	0	
+JEALOUS	Afro-Asiatic	emotion	0	
 JEALOUSY	Afro-Asiatic	emotion	0	
 JOY	Afro-Asiatic	emotion	0	
+KIND	Afro-Asiatic	emotion	0	
 KINDNESS	Afro-Asiatic	emotion	0	
 LONGING (WISH)	Afro-Asiatic	emotion	0	
 LOVE (AFFECTION)	Afro-Asiatic	emotion	0	
+MERRY	Afro-Asiatic	emotion	0	
 MISERY	Afro-Asiatic	emotion	0	
 MOURNING	Afro-Asiatic	emotion	0	
+PATIENT	Afro-Asiatic	emotion	0	
 PITY	Afro-Asiatic	emotion	0	
 PLEASURE	Afro-Asiatic	emotion	0	
 PRIDE	Afro-Asiatic	emotion	0	
+PROUD	Afro-Asiatic	emotion	0	
+REGRET	Afro-Asiatic	emotion	0	
 RESPECT (NOUN)	Afro-Asiatic	emotion	0	
+SAD	Afro-Asiatic	emotion	0	
 SADNESS	Afro-Asiatic	emotion	0	
+SAFE	Afro-Asiatic	emotion	0	
+SCARED	Afro-Asiatic	emotion	0	
 SHAME	Afro-Asiatic	emotion	0	
 SURPRISE (FEELING)	Afro-Asiatic	emotion	0	
+SURPRISED	Afro-Asiatic	emotion	0	
 TRIUMPH	Afro-Asiatic	emotion	0	
-GRIEF	Afro-Asiatic	emotion	1	PAIN:0.50
-PAIN	Afro-Asiatic	emotion	1	GRIEF:0.50
-ANXIETY	Afro-Asiatic	emotion	2	FEAR (FRIGHT):0.50
-FEAR (FRIGHT)	Afro-Asiatic	emotion	2	ANXIETY:0.50
+WORRY	Afro-Asiatic	emotion	0	
+LIKE	Afro-Asiatic	emotion	1	LOVE:1.00
+LOVE	Afro-Asiatic	emotion	1	LIKE:1.00;WANT:3.00
+WANT	Afro-Asiatic	emotion	1	LOVE:3.00
+GRIEF	Afro-Asiatic	emotion	2	PAIN:0.50
+PAIN	Afro-Asiatic	emotion	2	GRIEF:0.50
+ANXIETY	Afro-Asiatic	emotion	3	FEAR (FRIGHT):0.50
+FEAR (FRIGHT)	Afro-Asiatic	emotion	3	ANXIETY:0.50
 ADAM'S APPLE	Afro-Asiatic	human body part	0	
 ANUS	Afro-Asiatic	human body part	0	
 ARMPIT	Afro-Asiatic	human body part	0	
@@ -377,6 +405,7 @@ ANUS	Atlantic-Congo	human body part	0
 ARMPIT	Atlantic-Congo	human body part	0	
 ARTERY	Atlantic-Congo	human body part	0	
 BACK OF HEAD	Atlantic-Congo	human body part	0	
+BEARD	Atlantic-Congo	human body part	0	
 BLOOD VESSEL	Atlantic-Congo	human body part	0	
 BODY	Atlantic-Congo	human body part	0	
 BODY PART	Atlantic-Congo	human body part	0	
@@ -462,18 +491,18 @@ RIB	Atlantic-Congo	human body part	10	BONE:2.00;NAVEL:1.00
 NAPE (OF NECK)	Atlantic-Congo	human body part	11	NECK:0.50
 NECK	Atlantic-Congo	human body part	11	NAPE (OF NECK):0.50;EAR:0.50;THROAT:8.00;HAND:0.50
 THROAT	Atlantic-Congo	human body part	11	NECK:8.00;TONGUE:0.50;NAVEL:0.50
-ARM	Atlantic-Congo	human body part	12	LOWER ARM:4.00;HAND:3.00;PALM OF HAND:2.00;FINGER:2.00;FINGERNAIL:0.50;TOENAIL:0.50;SHOULDER:1.00
+ARM	Atlantic-Congo	human body part	12	LOWER ARM:4.00;HAND:3.00;PALM OF HAND:2.00;FINGER:2.00;TOENAIL:0.50;FINGERNAIL:0.50;SHOULDER:1.00
 HAND	Atlantic-Congo	human body part	12	UPPER ARM:2.00;LOWER ARM:3.00;PALM OF HAND:5.00;ARM:3.00;NECK:0.50
 LOWER ARM	Atlantic-Congo	human body part	12	UPPER ARM:5.00;HAND:3.00;ARM:4.00;ELBOW:0.50;FINGER:0.50
 PALM OF HAND	Atlantic-Congo	human body part	12	HAND:5.00;ARM:2.00;SOLE (FOOT):1.00;SKIN:0.50
-SHOULDER	Atlantic-Congo	human body part	12	VEIN:0.50;UPPER ARM:1.00;FINGERNAIL:0.50;TOENAIL:0.50;ARM:1.00
+SHOULDER	Atlantic-Congo	human body part	12	VEIN:0.50;UPPER ARM:1.00;TOENAIL:0.50;FINGERNAIL:0.50;ARM:1.00
 UPPER ARM	Atlantic-Congo	human body part	12	LOWER ARM:5.00;HAND:2.00;SHOULDER:1.00
 VEIN	Atlantic-Congo	human body part	12	SHOULDER:0.50
 HEART	Atlantic-Congo	human body part	13	LIVER:0.50
 LIVER	Atlantic-Congo	human body part	13	HEART:0.50
 FINGERNAIL	Atlantic-Congo	human body part	14	TOENAIL:19.00;FINGER:0.50;SHOULDER:0.50;ARM:0.50
 TOENAIL	Atlantic-Congo	human body part	14	FINGERNAIL:19.00;FINGER:0.50;SHOULDER:0.50;ARM:0.50
-FINGER	Atlantic-Congo	human body part	15	TOE:3.00;ARM:2.00;HEEL:0.50;FINGERNAIL:0.50;TOENAIL:0.50;LOWER ARM:0.50
+FINGER	Atlantic-Congo	human body part	15	TOE:3.00;ARM:2.00;HEEL:0.50;TOENAIL:0.50;FINGERNAIL:0.50;LOWER ARM:0.50
 TOE	Atlantic-Congo	human body part	15	FINGER:3.00
 ELBOW	Atlantic-Congo	human body part	16	KNEE:2.00;LOWER ARM:0.50
 KNEE	Atlantic-Congo	human body part	16	ELBOW:2.00;LEG:1.00;TOOTH:0.50
@@ -489,17 +518,16 @@ BLADDER	Atlantic-Congo	human body part	3	KIDNEY:0.50
 KIDNEY	Atlantic-Congo	human body part	3	BLADDER:0.50
 CALF OF LEG	Atlantic-Congo	human body part	4	LEG:0.50;SHIN:0.50
 SHIN	Atlantic-Congo	human body part	4	CALF OF LEG:0.50
-FOOT	Atlantic-Congo	human body part	5	LEG:8.00;LOWER LEG:0.50;HEEL:3.00;SOLE (FOOT):4.00
+FOOT	Atlantic-Congo	human body part	5	LOWER LEG:0.50;HEEL:3.00;LEG:7.00;SOLE (FOOT):4.00
 HEEL	Atlantic-Congo	human body part	5	FOOT:3.00;SOLE (FOOT):0.50;FINGER:0.50
-LEG	Atlantic-Congo	human body part	5	CALF OF LEG:0.50;FOOT:8.00;UPPER LEG (THIGH):1.00;KNEE:1.00
+LEG	Atlantic-Congo	human body part	5	CALF OF LEG:0.50;UPPER LEG (THIGH):1.00;FOOT:7.00;KNEE:1.00
 LOWER LEG	Atlantic-Congo	human body part	5	FOOT:0.50
 SOLE (FOOT)	Atlantic-Congo	human body part	5	FOOT:4.00;PALM OF HAND:1.00;HEEL:0.50
 UPPER LEG (THIGH)	Atlantic-Congo	human body part	5	LEG:1.00
 EYE	Atlantic-Congo	human body part	6	FACE:5.00
 FACE	Atlantic-Congo	human body part	6	EYE:5.00;FOREHEAD:10.00
 FOREHEAD	Atlantic-Congo	human body part	6	FACE:10.00
-BEARD	Atlantic-Congo	human body part	7	CHIN:0.50
-CHIN	Atlantic-Congo	human body part	7	JAW:2.00;BEARD:0.50
+CHIN	Atlantic-Congo	human body part	7	JAW:2.00
 JAW	Atlantic-Congo	human body part	7	MOUTH:0.50;CHIN:2.00
 BREAST	Atlantic-Congo	human body part	8	MOUTH:0.50;CHEST:0.50;NIPPLE:0.50
 CHEST	Atlantic-Congo	human body part	8	NOSE:0.50;BREAST:0.50
@@ -639,7 +667,7 @@ WRIST	Austroasiatic	human body part	0
 BELLY	Austroasiatic	human body part	1	INTESTINES:2.00;STOMACH:6.00;LIVER:0.50
 HEART	Austroasiatic	human body part	1	LIVER:0.50
 INTESTINES	Austroasiatic	human body part	1	BELLY:2.00;STOMACH:1.00
-LIVER	Austroasiatic	human body part	1	HEART:0.50;BELLY:0.50;STOMACH:0.50
+LIVER	Austroasiatic	human body part	1	HEART:0.50;STOMACH:0.50;BELLY:0.50
 STOMACH	Austroasiatic	human body part	1	BELLY:6.00;INTESTINES:1.00;LIVER:0.50
 VAGINA	Austroasiatic	human body part	10	VULVA:0.50
 VULVA	Austroasiatic	human body part	10	VAGINA:0.50
@@ -687,6 +715,68 @@ BLUE	Austronesian	color	1	GREEN:6.00
 GREEN	Austronesian	color	1	BLACK:3.00;YELLOW:4.00;BLUE:6.00
 RED	Austronesian	color	1	YELLOW:3.00
 YELLOW	Austronesian	color	1	RED:3.00;GREEN:4.00
+AMUSEMENT	Austronesian	emotion	0	
+ANGER	Austronesian	emotion	0	
+ANGRY	Austronesian	emotion	0	
+ASHAMED	Austronesian	emotion	0	
+ASTONISHED	Austronesian	emotion	0	
+AWE	Austronesian	emotion	0	
+BAD	Austronesian	emotion	0	
+BLAME (SOMEBODY)	Austronesian	emotion	0	
+CONFUSION	Austronesian	emotion	0	
+CONTEMPT	Austronesian	emotion	0	
+COURAGE	Austronesian	emotion	0	
+DEPRESSION	Austronesian	emotion	0	
+DESIRE	Austronesian	emotion	0	
+DISAPPOINTMENT	Austronesian	emotion	0	
+DISGUST	Austronesian	emotion	0	
+ENVY	Austronesian	emotion	0	
+EXCITEMENT	Austronesian	emotion	0	
+FEAR (FRIGHT)	Austronesian	emotion	0	
+GLOOMY	Austronesian	emotion	0	
+GRIEF	Austronesian	emotion	0	
+GRIEVE	Austronesian	emotion	0	
+HAPPINESS	Austronesian	emotion	0	
+HAPPY	Austronesian	emotion	0	
+HATE	Austronesian	emotion	0	
+HATE (LOATHING)	Austronesian	emotion	0	
+HOPE	Austronesian	emotion	0	
+HOPE (FAITH)	Austronesian	emotion	0	
+IMPATIENT	Austronesian	emotion	0	
+INTEREST (FEELING)	Austronesian	emotion	0	
+JEALOUS	Austronesian	emotion	0	
+JEALOUSY	Austronesian	emotion	0	
+JOY	Austronesian	emotion	0	
+KIND	Austronesian	emotion	0	
+KINDNESS	Austronesian	emotion	0	
+LIKE	Austronesian	emotion	0	
+LONGING (WISH)	Austronesian	emotion	0	
+LOVE (AFFECTION)	Austronesian	emotion	0	
+MERRY	Austronesian	emotion	0	
+MISERY	Austronesian	emotion	0	
+MOURNING	Austronesian	emotion	0	
+PAIN	Austronesian	emotion	0	
+PATIENT	Austronesian	emotion	0	
+PLEASURE	Austronesian	emotion	0	
+PRIDE	Austronesian	emotion	0	
+PROUD	Austronesian	emotion	0	
+REGRET	Austronesian	emotion	0	
+RESPECT (NOUN)	Austronesian	emotion	0	
+SAD	Austronesian	emotion	0	
+SADNESS	Austronesian	emotion	0	
+SAFE	Austronesian	emotion	0	
+SCARED	Austronesian	emotion	0	
+SHAME	Austronesian	emotion	0	
+SURPRISE (FEELING)	Austronesian	emotion	0	
+SURPRISED	Austronesian	emotion	0	
+TRIUMPH	Austronesian	emotion	0	
+WORRY	Austronesian	emotion	0	
+GOOD	Austronesian	emotion	1	LOVE:2.00
+LOVE	Austronesian	emotion	1	WANT:0.50;PITY:0.50;GOOD:2.00
+PITY	Austronesian	emotion	1	LOVE:0.50
+WANT	Austronesian	emotion	1	LOVE:0.50
+ANXIETY	Austronesian	emotion	2	DOUBT:0.50
+DOUBT	Austronesian	emotion	2	ANXIETY:0.50
 ADAM'S APPLE	Austronesian	human body part	0	
 ANUS	Austronesian	human body part	0	
 ARMPIT	Austronesian	human body part	0	
@@ -1455,6 +1545,68 @@ WHITE	Hmong-Mien	color	0
 YELLOW	Hmong-Mien	color	0	
 BLUE	Hmong-Mien	color	1	GREEN:5.00
 GREEN	Hmong-Mien	color	1	BLUE:5.00
+AMUSEMENT	Hmong-Mien	emotion	0	
+ANGER	Hmong-Mien	emotion	0	
+ANGRY	Hmong-Mien	emotion	0	
+ANXIETY	Hmong-Mien	emotion	0	
+ASHAMED	Hmong-Mien	emotion	0	
+ASTONISHED	Hmong-Mien	emotion	0	
+AWE	Hmong-Mien	emotion	0	
+BAD	Hmong-Mien	emotion	0	
+BLAME (SOMEBODY)	Hmong-Mien	emotion	0	
+CONFUSION	Hmong-Mien	emotion	0	
+CONTEMPT	Hmong-Mien	emotion	0	
+COURAGE	Hmong-Mien	emotion	0	
+DEPRESSION	Hmong-Mien	emotion	0	
+DESIRE	Hmong-Mien	emotion	0	
+DISAPPOINTMENT	Hmong-Mien	emotion	0	
+DISGUST	Hmong-Mien	emotion	0	
+DOUBT	Hmong-Mien	emotion	0	
+ENVY	Hmong-Mien	emotion	0	
+EXCITEMENT	Hmong-Mien	emotion	0	
+FEAR (FRIGHT)	Hmong-Mien	emotion	0	
+GLOOMY	Hmong-Mien	emotion	0	
+GOOD	Hmong-Mien	emotion	0	
+GRIEF	Hmong-Mien	emotion	0	
+GRIEVE	Hmong-Mien	emotion	0	
+HAPPINESS	Hmong-Mien	emotion	0	
+HAPPY	Hmong-Mien	emotion	0	
+HATE	Hmong-Mien	emotion	0	
+HATE (LOATHING)	Hmong-Mien	emotion	0	
+HOPE	Hmong-Mien	emotion	0	
+HOPE (FAITH)	Hmong-Mien	emotion	0	
+IMPATIENT	Hmong-Mien	emotion	0	
+INTEREST (FEELING)	Hmong-Mien	emotion	0	
+JEALOUS	Hmong-Mien	emotion	0	
+JEALOUSY	Hmong-Mien	emotion	0	
+JOY	Hmong-Mien	emotion	0	
+KIND	Hmong-Mien	emotion	0	
+KINDNESS	Hmong-Mien	emotion	0	
+LIKE	Hmong-Mien	emotion	0	
+LONGING (WISH)	Hmong-Mien	emotion	0	
+LOVE	Hmong-Mien	emotion	0	
+LOVE (AFFECTION)	Hmong-Mien	emotion	0	
+MERRY	Hmong-Mien	emotion	0	
+MISERY	Hmong-Mien	emotion	0	
+MOURNING	Hmong-Mien	emotion	0	
+PAIN	Hmong-Mien	emotion	0	
+PATIENT	Hmong-Mien	emotion	0	
+PLEASURE	Hmong-Mien	emotion	0	
+PRIDE	Hmong-Mien	emotion	0	
+PROUD	Hmong-Mien	emotion	0	
+RESPECT (NOUN)	Hmong-Mien	emotion	0	
+SAD	Hmong-Mien	emotion	0	
+SADNESS	Hmong-Mien	emotion	0	
+SAFE	Hmong-Mien	emotion	0	
+SCARED	Hmong-Mien	emotion	0	
+SHAME	Hmong-Mien	emotion	0	
+SURPRISE (FEELING)	Hmong-Mien	emotion	0	
+SURPRISED	Hmong-Mien	emotion	0	
+TRIUMPH	Hmong-Mien	emotion	0	
+WANT	Hmong-Mien	emotion	0	
+WORRY	Hmong-Mien	emotion	0	
+PITY	Hmong-Mien	emotion	1	REGRET:0.50
+REGRET	Hmong-Mien	emotion	1	PITY:0.50
 ADAM'S APPLE	Hmong-Mien	human body part	0	
 ANKLE	Hmong-Mien	human body part	0	
 ARMPIT	Hmong-Mien	human body part	0	
@@ -1773,38 +1925,66 @@ GREEN	Indo-European	color	1	BLUE:2.00;GREY:0.50
 GREY	Indo-European	color	1	BLUE:0.50;GREEN:0.50
 AMUSEMENT	Indo-European	emotion	0	
 ANGER	Indo-European	emotion	0	
+ANGRY	Indo-European	emotion	0	
 ANXIETY	Indo-European	emotion	0	
+ASHAMED	Indo-European	emotion	0	
+ASTONISHED	Indo-European	emotion	0	
 AWE	Indo-European	emotion	0	
+BAD	Indo-European	emotion	0	
+BLAME (SOMEBODY)	Indo-European	emotion	0	
 CONFUSION	Indo-European	emotion	0	
 CONTEMPT	Indo-European	emotion	0	
 COURAGE	Indo-European	emotion	0	
 DEPRESSION	Indo-European	emotion	0	
+DESIRE	Indo-European	emotion	0	
 DISAPPOINTMENT	Indo-European	emotion	0	
 DISGUST	Indo-European	emotion	0	
+DOUBT	Indo-European	emotion	0	
 EXCITEMENT	Indo-European	emotion	0	
+GLOOMY	Indo-European	emotion	0	
+GOOD	Indo-European	emotion	0	
+GRIEVE	Indo-European	emotion	0	
+HATE	Indo-European	emotion	0	
 HATE (LOATHING)	Indo-European	emotion	0	
+HOPE	Indo-European	emotion	0	
 HOPE (FAITH)	Indo-European	emotion	0	
+IMPATIENT	Indo-European	emotion	0	
 INTEREST (FEELING)	Indo-European	emotion	0	
+JEALOUS	Indo-European	emotion	0	
 JEALOUSY	Indo-European	emotion	0	
+KIND	Indo-European	emotion	0	
 KINDNESS	Indo-European	emotion	0	
 LONGING (WISH)	Indo-European	emotion	0	
 LOVE (AFFECTION)	Indo-European	emotion	0	
+MERRY	Indo-European	emotion	0	
 MISERY	Indo-European	emotion	0	
 MOURNING	Indo-European	emotion	0	
 PAIN	Indo-European	emotion	0	
+PATIENT	Indo-European	emotion	0	
 PLEASURE	Indo-European	emotion	0	
 PRIDE	Indo-European	emotion	0	
+PROUD	Indo-European	emotion	0	
 RESPECT (NOUN)	Indo-European	emotion	0	
+SAD	Indo-European	emotion	0	
 SADNESS	Indo-European	emotion	0	
+SAFE	Indo-European	emotion	0	
+SCARED	Indo-European	emotion	0	
 SHAME	Indo-European	emotion	0	
 SURPRISE (FEELING)	Indo-European	emotion	0	
+SURPRISED	Indo-European	emotion	0	
 TRIUMPH	Indo-European	emotion	0	
+WORRY	Indo-European	emotion	0	
 HAPPINESS	Indo-European	emotion	1	JOY:0.50
 JOY	Indo-European	emotion	1	HAPPINESS:0.50
-GRIEF	Indo-European	emotion	2	PITY:0.50
-PITY	Indo-European	emotion	2	GRIEF:0.50
-ENVY	Indo-European	emotion	3	FEAR (FRIGHT):1.00
-FEAR (FRIGHT)	Indo-European	emotion	3	ENVY:1.00
+HAPPY	Indo-European	emotion	2	LOVE:0.50
+LIKE	Indo-European	emotion	2	LOVE:5.00;WANT:3.00
+LOVE	Indo-European	emotion	2	LIKE:5.00;WANT:2.00;HAPPY:0.50
+WANT	Indo-European	emotion	2	LIKE:3.00;LOVE:2.00
+GRIEF	Indo-European	emotion	3	PITY:0.50;REGRET:0.50
+PITY	Indo-European	emotion	3	GRIEF:0.50
+REGRET	Indo-European	emotion	3	GRIEF:0.50
+ENVY	Indo-European	emotion	4	FEAR (FRIGHT):1.00
+FEAR (FRIGHT)	Indo-European	emotion	4	ENVY:1.00
 ADAM'S APPLE	Indo-European	human body part	0	
 ANUS	Indo-European	human body part	0	
 ARMPIT	Indo-European	human body part	0	
@@ -1919,8 +2099,8 @@ BONE	Indo-European	human body part	2	LOWER LEG:0.50;LEG:1.00
 FOOT	Indo-European	human body part	2	LEG:8.00
 LEG	Indo-European	human body part	2	FOOT:8.00;BONE:1.00
 LOWER LEG	Indo-European	human body part	2	BONE:0.50
-FINGER	Indo-European	human body part	3	TOE:6.00
-TOE	Indo-European	human body part	3	FINGER:6.00;HAND:0.50
+FINGER	Indo-European	human body part	3	TOE:7.00
+TOE	Indo-European	human body part	3	FINGER:7.00;HAND:0.50
 FINGERNAIL	Indo-European	human body part	4	TOENAIL:8.00;FOREHEAD:1.00
 FOREHEAD	Indo-European	human body part	4	FINGERNAIL:1.00;TOENAIL:0.50
 TOENAIL	Indo-European	human body part	4	FINGERNAIL:8.00;FOREHEAD:0.50
@@ -1963,6 +2143,68 @@ GREY	Pama-Nyungan	color	1	WHITE:0.50
 WHITE	Pama-Nyungan	color	1	GREY:0.50
 BLUE	Pama-Nyungan	color	2	GREEN:0.50
 GREEN	Pama-Nyungan	color	2	BLUE:0.50
+AMUSEMENT	Pama-Nyungan	emotion	0	
+ANGER	Pama-Nyungan	emotion	0	
+ANXIETY	Pama-Nyungan	emotion	0	
+ASHAMED	Pama-Nyungan	emotion	0	
+ASTONISHED	Pama-Nyungan	emotion	0	
+AWE	Pama-Nyungan	emotion	0	
+BLAME (SOMEBODY)	Pama-Nyungan	emotion	0	
+CONFUSION	Pama-Nyungan	emotion	0	
+CONTEMPT	Pama-Nyungan	emotion	0	
+COURAGE	Pama-Nyungan	emotion	0	
+DEPRESSION	Pama-Nyungan	emotion	0	
+DESIRE	Pama-Nyungan	emotion	0	
+DISAPPOINTMENT	Pama-Nyungan	emotion	0	
+DISGUST	Pama-Nyungan	emotion	0	
+DOUBT	Pama-Nyungan	emotion	0	
+ENVY	Pama-Nyungan	emotion	0	
+EXCITEMENT	Pama-Nyungan	emotion	0	
+FEAR (FRIGHT)	Pama-Nyungan	emotion	0	
+GLOOMY	Pama-Nyungan	emotion	0	
+GOOD	Pama-Nyungan	emotion	0	
+GRIEF	Pama-Nyungan	emotion	0	
+GRIEVE	Pama-Nyungan	emotion	0	
+HAPPINESS	Pama-Nyungan	emotion	0	
+HAPPY	Pama-Nyungan	emotion	0	
+HATE	Pama-Nyungan	emotion	0	
+HATE (LOATHING)	Pama-Nyungan	emotion	0	
+HOPE	Pama-Nyungan	emotion	0	
+HOPE (FAITH)	Pama-Nyungan	emotion	0	
+IMPATIENT	Pama-Nyungan	emotion	0	
+INTEREST (FEELING)	Pama-Nyungan	emotion	0	
+JEALOUS	Pama-Nyungan	emotion	0	
+JEALOUSY	Pama-Nyungan	emotion	0	
+JOY	Pama-Nyungan	emotion	0	
+KIND	Pama-Nyungan	emotion	0	
+KINDNESS	Pama-Nyungan	emotion	0	
+LIKE	Pama-Nyungan	emotion	0	
+LONGING (WISH)	Pama-Nyungan	emotion	0	
+LOVE	Pama-Nyungan	emotion	0	
+LOVE (AFFECTION)	Pama-Nyungan	emotion	0	
+MERRY	Pama-Nyungan	emotion	0	
+MISERY	Pama-Nyungan	emotion	0	
+MOURNING	Pama-Nyungan	emotion	0	
+PAIN	Pama-Nyungan	emotion	0	
+PATIENT	Pama-Nyungan	emotion	0	
+PITY	Pama-Nyungan	emotion	0	
+PLEASURE	Pama-Nyungan	emotion	0	
+PRIDE	Pama-Nyungan	emotion	0	
+PROUD	Pama-Nyungan	emotion	0	
+REGRET	Pama-Nyungan	emotion	0	
+RESPECT (NOUN)	Pama-Nyungan	emotion	0	
+SAD	Pama-Nyungan	emotion	0	
+SADNESS	Pama-Nyungan	emotion	0	
+SAFE	Pama-Nyungan	emotion	0	
+SCARED	Pama-Nyungan	emotion	0	
+SHAME	Pama-Nyungan	emotion	0	
+SURPRISE (FEELING)	Pama-Nyungan	emotion	0	
+SURPRISED	Pama-Nyungan	emotion	0	
+TRIUMPH	Pama-Nyungan	emotion	0	
+WANT	Pama-Nyungan	emotion	0	
+WORRY	Pama-Nyungan	emotion	0	
+ANGRY	Pama-Nyungan	emotion	1	BAD:0.50
+BAD	Pama-Nyungan	emotion	1	ANGRY:0.50
 ADAM'S APPLE	Pama-Nyungan	human body part	0	
 ANUS	Pama-Nyungan	human body part	0	
 ARMPIT	Pama-Nyungan	human body part	0	
@@ -2102,7 +2344,6 @@ HEAD	Pama-Nyungan	human body part	9	HAIR:1.00;FOREHEAD:2.00
 BEIGE	Sino-Tibetan	color	0	
 BLACK	Sino-Tibetan	color	0	
 BRIGHT YELLOW	Sino-Tibetan	color	0	
-BROWN	Sino-Tibetan	color	0	
 COPPER (COLOR)	Sino-Tibetan	color	0	
 DARK GREEN	Sino-Tibetan	color	0	
 DARK YELLOW	Sino-Tibetan	color	0	
@@ -2116,11 +2357,74 @@ PINK	Sino-Tibetan	color	0
 PURPLE	Sino-Tibetan	color	0	
 TURQUOISE	Sino-Tibetan	color	0	
 WHITE	Sino-Tibetan	color	0	
-BLUE	Sino-Tibetan	color	1	GREEN:5.00;RED:1.00;GREY:1.00
-GREEN	Sino-Tibetan	color	1	YELLOW:4.00;BLUE:5.00;RED:0.50
+BLUE	Sino-Tibetan	color	1	GREEN:8.00;RED:1.00;GREY:1.00
+BROWN	Sino-Tibetan	color	1	RED:1.00;YELLOW:1.00
+GREEN	Sino-Tibetan	color	1	YELLOW:4.00;BLUE:8.00;RED:0.50
 GREY	Sino-Tibetan	color	1	BLUE:1.00
-RED	Sino-Tibetan	color	1	BLUE:1.00;GREEN:0.50
-YELLOW	Sino-Tibetan	color	1	GREEN:4.00
+RED	Sino-Tibetan	color	1	BLUE:1.00;GREEN:0.50;BROWN:1.00
+YELLOW	Sino-Tibetan	color	1	GREEN:4.00;BROWN:1.00
+AMUSEMENT	Sino-Tibetan	emotion	0	
+ANGER	Sino-Tibetan	emotion	0	
+ANXIETY	Sino-Tibetan	emotion	0	
+ASHAMED	Sino-Tibetan	emotion	0	
+ASTONISHED	Sino-Tibetan	emotion	0	
+AWE	Sino-Tibetan	emotion	0	
+BAD	Sino-Tibetan	emotion	0	
+BLAME (SOMEBODY)	Sino-Tibetan	emotion	0	
+CONFUSION	Sino-Tibetan	emotion	0	
+CONTEMPT	Sino-Tibetan	emotion	0	
+COURAGE	Sino-Tibetan	emotion	0	
+DEPRESSION	Sino-Tibetan	emotion	0	
+DISAPPOINTMENT	Sino-Tibetan	emotion	0	
+DISGUST	Sino-Tibetan	emotion	0	
+DOUBT	Sino-Tibetan	emotion	0	
+EXCITEMENT	Sino-Tibetan	emotion	0	
+FEAR (FRIGHT)	Sino-Tibetan	emotion	0	
+GLOOMY	Sino-Tibetan	emotion	0	
+HOPE	Sino-Tibetan	emotion	0	
+HOPE (FAITH)	Sino-Tibetan	emotion	0	
+IMPATIENT	Sino-Tibetan	emotion	0	
+INTEREST (FEELING)	Sino-Tibetan	emotion	0	
+JEALOUSY	Sino-Tibetan	emotion	0	
+JOY	Sino-Tibetan	emotion	0	
+KIND	Sino-Tibetan	emotion	0	
+KINDNESS	Sino-Tibetan	emotion	0	
+LONGING (WISH)	Sino-Tibetan	emotion	0	
+LOVE (AFFECTION)	Sino-Tibetan	emotion	0	
+MISERY	Sino-Tibetan	emotion	0	
+PATIENT	Sino-Tibetan	emotion	0	
+PITY	Sino-Tibetan	emotion	0	
+PLEASURE	Sino-Tibetan	emotion	0	
+RESPECT (NOUN)	Sino-Tibetan	emotion	0	
+SADNESS	Sino-Tibetan	emotion	0	
+SAFE	Sino-Tibetan	emotion	0	
+SCARED	Sino-Tibetan	emotion	0	
+SHAME	Sino-Tibetan	emotion	0	
+SURPRISE (FEELING)	Sino-Tibetan	emotion	0	
+SURPRISED	Sino-Tibetan	emotion	0	
+TRIUMPH	Sino-Tibetan	emotion	0	
+DESIRE	Sino-Tibetan	emotion	1	WANT:7.00;LOVE:4.00;HAPPY:0.50
+GOOD	Sino-Tibetan	emotion	1	LOVE:2.00;LIKE:2.00;MERRY:1.00
+HAPPINESS	Sino-Tibetan	emotion	1	HAPPY:2.00
+HAPPY	Sino-Tibetan	emotion	1	LIKE:9.00;LOVE:3.00;WANT:0.50;DESIRE:0.50;HAPPINESS:2.00
+LIKE	Sino-Tibetan	emotion	1	HAPPY:9.00;LOVE:12.00;GOOD:2.00
+LOVE	Sino-Tibetan	emotion	1	GOOD:2.00;HAPPY:3.00;LIKE:12.00;DESIRE:4.00;WANT:3.00
+MERRY	Sino-Tibetan	emotion	1	GOOD:1.00
+WANT	Sino-Tibetan	emotion	1	DESIRE:7.00;LOVE:3.00;HAPPY:0.50
+REGRET	Sino-Tibetan	emotion	2	SAD:7.00
+SAD	Sino-Tibetan	emotion	2	REGRET:7.00;WORRY:2.00;MOURNING:1.00
+WORRY	Sino-Tibetan	emotion	2	SAD:2.00
+ANGRY	Sino-Tibetan	emotion	3	HATE:2.00
+HATE	Sino-Tibetan	emotion	3	ANGRY:2.00;ENVY:0.50;HATE (LOATHING):1.00
+HATE (LOATHING)	Sino-Tibetan	emotion	3	HATE:1.00
+ENVY	Sino-Tibetan	emotion	4	HATE:0.50;JEALOUS:3.00
+JEALOUS	Sino-Tibetan	emotion	4	ENVY:3.00
+GRIEVE	Sino-Tibetan	emotion	5	MOURNING:2.00
+MOURNING	Sino-Tibetan	emotion	5	GRIEVE:2.00;SAD:1.00
+PRIDE	Sino-Tibetan	emotion	6	PROUD:1.00
+PROUD	Sino-Tibetan	emotion	6	PRIDE:1.00
+GRIEF	Sino-Tibetan	emotion	7	PAIN:1.00
+PAIN	Sino-Tibetan	emotion	7	GRIEF:1.00
 ADAM'S APPLE	Sino-Tibetan	human body part	0	
 ANKLE	Sino-Tibetan	human body part	0	
 ARMPIT	Sino-Tibetan	human body part	0	
@@ -2241,7 +2545,7 @@ PALM OF HAND	Sino-Tibetan	human body part	5	HAND:2.00
 UPPER ARM	Sino-Tibetan	human body part	5	LOWER ARM:0.50;HAND:0.50
 WRIST	Sino-Tibetan	human body part	5	UPPER LEG (THIGH):0.50;ARM:2.00;ELBOW:4.00;JOINT:0.50
 FINGERNAIL	Sino-Tibetan	human body part	6	TOENAIL:4.00;LIVER:1.00
-LIVER	Sino-Tibetan	human body part	6	FINGERNAIL:1.00;TOENAIL:1.00;HEART:0.50
+LIVER	Sino-Tibetan	human body part	6	TOENAIL:1.00;FINGERNAIL:1.00;HEART:0.50
 TOENAIL	Sino-Tibetan	human body part	6	FINGERNAIL:4.00;LIVER:1.00
 HAIR	Sino-Tibetan	human body part	7	PUBIC HAIR:0.50;HAIR (HEAD):1.00
 HAIR (BODY)	Sino-Tibetan	human body part	7	HAIR (HEAD):0.50;TOOTH:0.50
@@ -2279,6 +2583,68 @@ WHITE	Tai-Kadai	color	0
 YELLOW	Tai-Kadai	color	0	
 BLUE	Tai-Kadai	color	1	GREEN:3.00
 GREEN	Tai-Kadai	color	1	BLUE:3.00
+AMUSEMENT	Tai-Kadai	emotion	0	
+ANGER	Tai-Kadai	emotion	0	
+ANGRY	Tai-Kadai	emotion	0	
+ANXIETY	Tai-Kadai	emotion	0	
+ASHAMED	Tai-Kadai	emotion	0	
+ASTONISHED	Tai-Kadai	emotion	0	
+AWE	Tai-Kadai	emotion	0	
+BAD	Tai-Kadai	emotion	0	
+BLAME (SOMEBODY)	Tai-Kadai	emotion	0	
+CONFUSION	Tai-Kadai	emotion	0	
+CONTEMPT	Tai-Kadai	emotion	0	
+COURAGE	Tai-Kadai	emotion	0	
+DEPRESSION	Tai-Kadai	emotion	0	
+DESIRE	Tai-Kadai	emotion	0	
+DISAPPOINTMENT	Tai-Kadai	emotion	0	
+DISGUST	Tai-Kadai	emotion	0	
+DOUBT	Tai-Kadai	emotion	0	
+ENVY	Tai-Kadai	emotion	0	
+EXCITEMENT	Tai-Kadai	emotion	0	
+FEAR (FRIGHT)	Tai-Kadai	emotion	0	
+GLOOMY	Tai-Kadai	emotion	0	
+GOOD	Tai-Kadai	emotion	0	
+GRIEF	Tai-Kadai	emotion	0	
+GRIEVE	Tai-Kadai	emotion	0	
+HAPPINESS	Tai-Kadai	emotion	0	
+HAPPY	Tai-Kadai	emotion	0	
+HATE	Tai-Kadai	emotion	0	
+HATE (LOATHING)	Tai-Kadai	emotion	0	
+HOPE	Tai-Kadai	emotion	0	
+HOPE (FAITH)	Tai-Kadai	emotion	0	
+IMPATIENT	Tai-Kadai	emotion	0	
+INTEREST (FEELING)	Tai-Kadai	emotion	0	
+JEALOUS	Tai-Kadai	emotion	0	
+JEALOUSY	Tai-Kadai	emotion	0	
+JOY	Tai-Kadai	emotion	0	
+KIND	Tai-Kadai	emotion	0	
+KINDNESS	Tai-Kadai	emotion	0	
+LONGING (WISH)	Tai-Kadai	emotion	0	
+LOVE (AFFECTION)	Tai-Kadai	emotion	0	
+MERRY	Tai-Kadai	emotion	0	
+MISERY	Tai-Kadai	emotion	0	
+MOURNING	Tai-Kadai	emotion	0	
+PAIN	Tai-Kadai	emotion	0	
+PATIENT	Tai-Kadai	emotion	0	
+PITY	Tai-Kadai	emotion	0	
+PLEASURE	Tai-Kadai	emotion	0	
+PRIDE	Tai-Kadai	emotion	0	
+PROUD	Tai-Kadai	emotion	0	
+REGRET	Tai-Kadai	emotion	0	
+RESPECT (NOUN)	Tai-Kadai	emotion	0	
+SAD	Tai-Kadai	emotion	0	
+SADNESS	Tai-Kadai	emotion	0	
+SAFE	Tai-Kadai	emotion	0	
+SCARED	Tai-Kadai	emotion	0	
+SHAME	Tai-Kadai	emotion	0	
+SURPRISE (FEELING)	Tai-Kadai	emotion	0	
+SURPRISED	Tai-Kadai	emotion	0	
+TRIUMPH	Tai-Kadai	emotion	0	
+WANT	Tai-Kadai	emotion	0	
+WORRY	Tai-Kadai	emotion	0	
+LIKE	Tai-Kadai	emotion	1	LOVE:1.00
+LOVE	Tai-Kadai	emotion	1	LIKE:1.00
 ADAM'S APPLE	Tai-Kadai	human body part	0	
 ANKLE	Tai-Kadai	human body part	0	
 ANUS	Tai-Kadai	human body part	0	
@@ -2437,6 +2803,68 @@ WHITE	Tucanoan	color	1	YELLOW:1.00
 YELLOW	Tucanoan	color	1	WHITE:1.00;RED:0.50
 BLUE	Tucanoan	color	2	GREEN:0.50
 GREEN	Tucanoan	color	2	BLUE:0.50
+AMUSEMENT	Tucanoan	emotion	0	
+ANGER	Tucanoan	emotion	0	
+ANGRY	Tucanoan	emotion	0	
+ANXIETY	Tucanoan	emotion	0	
+ASHAMED	Tucanoan	emotion	0	
+ASTONISHED	Tucanoan	emotion	0	
+AWE	Tucanoan	emotion	0	
+BLAME (SOMEBODY)	Tucanoan	emotion	0	
+CONFUSION	Tucanoan	emotion	0	
+CONTEMPT	Tucanoan	emotion	0	
+COURAGE	Tucanoan	emotion	0	
+DEPRESSION	Tucanoan	emotion	0	
+DESIRE	Tucanoan	emotion	0	
+DISAPPOINTMENT	Tucanoan	emotion	0	
+DISGUST	Tucanoan	emotion	0	
+DOUBT	Tucanoan	emotion	0	
+ENVY	Tucanoan	emotion	0	
+EXCITEMENT	Tucanoan	emotion	0	
+FEAR (FRIGHT)	Tucanoan	emotion	0	
+GLOOMY	Tucanoan	emotion	0	
+GRIEF	Tucanoan	emotion	0	
+GRIEVE	Tucanoan	emotion	0	
+HAPPINESS	Tucanoan	emotion	0	
+HAPPY	Tucanoan	emotion	0	
+HATE	Tucanoan	emotion	0	
+HATE (LOATHING)	Tucanoan	emotion	0	
+HOPE	Tucanoan	emotion	0	
+HOPE (FAITH)	Tucanoan	emotion	0	
+IMPATIENT	Tucanoan	emotion	0	
+INTEREST (FEELING)	Tucanoan	emotion	0	
+JEALOUS	Tucanoan	emotion	0	
+JEALOUSY	Tucanoan	emotion	0	
+JOY	Tucanoan	emotion	0	
+KIND	Tucanoan	emotion	0	
+KINDNESS	Tucanoan	emotion	0	
+LIKE	Tucanoan	emotion	0	
+LONGING (WISH)	Tucanoan	emotion	0	
+LOVE	Tucanoan	emotion	0	
+LOVE (AFFECTION)	Tucanoan	emotion	0	
+MERRY	Tucanoan	emotion	0	
+MISERY	Tucanoan	emotion	0	
+MOURNING	Tucanoan	emotion	0	
+PAIN	Tucanoan	emotion	0	
+PATIENT	Tucanoan	emotion	0	
+PITY	Tucanoan	emotion	0	
+PLEASURE	Tucanoan	emotion	0	
+PRIDE	Tucanoan	emotion	0	
+PROUD	Tucanoan	emotion	0	
+REGRET	Tucanoan	emotion	0	
+RESPECT (NOUN)	Tucanoan	emotion	0	
+SAD	Tucanoan	emotion	0	
+SADNESS	Tucanoan	emotion	0	
+SAFE	Tucanoan	emotion	0	
+SCARED	Tucanoan	emotion	0	
+SHAME	Tucanoan	emotion	0	
+SURPRISE (FEELING)	Tucanoan	emotion	0	
+SURPRISED	Tucanoan	emotion	0	
+TRIUMPH	Tucanoan	emotion	0	
+WANT	Tucanoan	emotion	0	
+WORRY	Tucanoan	emotion	0	
+BAD	Tucanoan	emotion	1	GOOD:0.50
+GOOD	Tucanoan	emotion	1	BAD:0.50
 ADAM'S APPLE	Tucanoan	human body part	0	
 ANKLE	Tucanoan	human body part	0	
 ANUS	Tucanoan	human body part	0	
@@ -2595,6 +3023,68 @@ BLUE	Tupian	color	1	GREEN:4.00;BLACK:3.00;RED:0.50
 GREEN	Tupian	color	1	BLUE:4.00;WHITE:0.50
 RED	Tupian	color	1	BLUE:0.50
 WHITE	Tupian	color	1	GREEN:0.50
+AMUSEMENT	Tupian	emotion	0	
+ANGER	Tupian	emotion	0	
+ANGRY	Tupian	emotion	0	
+ANXIETY	Tupian	emotion	0	
+ASHAMED	Tupian	emotion	0	
+ASTONISHED	Tupian	emotion	0	
+AWE	Tupian	emotion	0	
+BLAME (SOMEBODY)	Tupian	emotion	0	
+CONFUSION	Tupian	emotion	0	
+CONTEMPT	Tupian	emotion	0	
+COURAGE	Tupian	emotion	0	
+DEPRESSION	Tupian	emotion	0	
+DESIRE	Tupian	emotion	0	
+DISAPPOINTMENT	Tupian	emotion	0	
+DISGUST	Tupian	emotion	0	
+DOUBT	Tupian	emotion	0	
+ENVY	Tupian	emotion	0	
+EXCITEMENT	Tupian	emotion	0	
+FEAR (FRIGHT)	Tupian	emotion	0	
+GLOOMY	Tupian	emotion	0	
+GOOD	Tupian	emotion	0	
+GRIEF	Tupian	emotion	0	
+GRIEVE	Tupian	emotion	0	
+HAPPINESS	Tupian	emotion	0	
+HAPPY	Tupian	emotion	0	
+HATE	Tupian	emotion	0	
+HATE (LOATHING)	Tupian	emotion	0	
+HOPE	Tupian	emotion	0	
+HOPE (FAITH)	Tupian	emotion	0	
+IMPATIENT	Tupian	emotion	0	
+INTEREST (FEELING)	Tupian	emotion	0	
+JEALOUS	Tupian	emotion	0	
+JEALOUSY	Tupian	emotion	0	
+JOY	Tupian	emotion	0	
+KIND	Tupian	emotion	0	
+KINDNESS	Tupian	emotion	0	
+LIKE	Tupian	emotion	0	
+LONGING (WISH)	Tupian	emotion	0	
+LOVE	Tupian	emotion	0	
+LOVE (AFFECTION)	Tupian	emotion	0	
+MERRY	Tupian	emotion	0	
+MISERY	Tupian	emotion	0	
+MOURNING	Tupian	emotion	0	
+PATIENT	Tupian	emotion	0	
+PITY	Tupian	emotion	0	
+PLEASURE	Tupian	emotion	0	
+PRIDE	Tupian	emotion	0	
+PROUD	Tupian	emotion	0	
+REGRET	Tupian	emotion	0	
+RESPECT (NOUN)	Tupian	emotion	0	
+SAD	Tupian	emotion	0	
+SADNESS	Tupian	emotion	0	
+SAFE	Tupian	emotion	0	
+SCARED	Tupian	emotion	0	
+SHAME	Tupian	emotion	0	
+SURPRISE (FEELING)	Tupian	emotion	0	
+SURPRISED	Tupian	emotion	0	
+TRIUMPH	Tupian	emotion	0	
+WORRY	Tupian	emotion	0	
+BAD	Tupian	emotion	1	PAIN:0.50;WANT:0.50
+PAIN	Tupian	emotion	1	BAD:0.50;WANT:0.50
+WANT	Tupian	emotion	1	BAD:0.50;PAIN:0.50
 ADAM'S APPLE	Tupian	human body part	0	
 ANKLE	Tupian	human body part	0	
 ANUS	Tupian	human body part	0	
@@ -2753,6 +3243,68 @@ YELLOW	Turkic	color	0
 BLUE	Turkic	color	1	GREEN:0.50;GREY:0.50
 GREEN	Turkic	color	1	BLUE:0.50
 GREY	Turkic	color	1	BLUE:0.50
+AMUSEMENT	Turkic	emotion	0	
+ANGER	Turkic	emotion	0	
+ANGRY	Turkic	emotion	0	
+ANXIETY	Turkic	emotion	0	
+ASHAMED	Turkic	emotion	0	
+ASTONISHED	Turkic	emotion	0	
+AWE	Turkic	emotion	0	
+BAD	Turkic	emotion	0	
+BLAME (SOMEBODY)	Turkic	emotion	0	
+CONFUSION	Turkic	emotion	0	
+CONTEMPT	Turkic	emotion	0	
+COURAGE	Turkic	emotion	0	
+DEPRESSION	Turkic	emotion	0	
+DESIRE	Turkic	emotion	0	
+DISAPPOINTMENT	Turkic	emotion	0	
+DISGUST	Turkic	emotion	0	
+DOUBT	Turkic	emotion	0	
+ENVY	Turkic	emotion	0	
+EXCITEMENT	Turkic	emotion	0	
+FEAR (FRIGHT)	Turkic	emotion	0	
+GLOOMY	Turkic	emotion	0	
+GOOD	Turkic	emotion	0	
+GRIEF	Turkic	emotion	0	
+GRIEVE	Turkic	emotion	0	
+HAPPINESS	Turkic	emotion	0	
+HAPPY	Turkic	emotion	0	
+HATE	Turkic	emotion	0	
+HATE (LOATHING)	Turkic	emotion	0	
+HOPE	Turkic	emotion	0	
+HOPE (FAITH)	Turkic	emotion	0	
+IMPATIENT	Turkic	emotion	0	
+INTEREST (FEELING)	Turkic	emotion	0	
+JEALOUS	Turkic	emotion	0	
+JEALOUSY	Turkic	emotion	0	
+JOY	Turkic	emotion	0	
+KIND	Turkic	emotion	0	
+KINDNESS	Turkic	emotion	0	
+LOVE (AFFECTION)	Turkic	emotion	0	
+MERRY	Turkic	emotion	0	
+MISERY	Turkic	emotion	0	
+MOURNING	Turkic	emotion	0	
+PAIN	Turkic	emotion	0	
+PATIENT	Turkic	emotion	0	
+PITY	Turkic	emotion	0	
+PLEASURE	Turkic	emotion	0	
+PRIDE	Turkic	emotion	0	
+PROUD	Turkic	emotion	0	
+REGRET	Turkic	emotion	0	
+RESPECT (NOUN)	Turkic	emotion	0	
+SAD	Turkic	emotion	0	
+SADNESS	Turkic	emotion	0	
+SAFE	Turkic	emotion	0	
+SCARED	Turkic	emotion	0	
+SHAME	Turkic	emotion	0	
+SURPRISE (FEELING)	Turkic	emotion	0	
+SURPRISED	Turkic	emotion	0	
+TRIUMPH	Turkic	emotion	0	
+WORRY	Turkic	emotion	0	
+LIKE	Turkic	emotion	1	LOVE:0.50
+LOVE	Turkic	emotion	1	LIKE:0.50
+LONGING (WISH)	Turkic	emotion	2	WANT:0.50
+WANT	Turkic	emotion	2	LONGING (WISH):0.50
 ADAM'S APPLE	Turkic	human body part	0	
 ANKLE	Turkic	human body part	0	
 ANUS	Turkic	human body part	0	
@@ -2913,38 +3465,66 @@ GREY	Uralic	color	1	YELLOW:0.50
 YELLOW	Uralic	color	1	GREEN:2.00;GREY:0.50
 AMUSEMENT	Uralic	emotion	0	
 ANGER	Uralic	emotion	0	
+ANGRY	Uralic	emotion	0	
 ANXIETY	Uralic	emotion	0	
+ASHAMED	Uralic	emotion	0	
+ASTONISHED	Uralic	emotion	0	
 AWE	Uralic	emotion	0	
+BAD	Uralic	emotion	0	
+BLAME (SOMEBODY)	Uralic	emotion	0	
 CONFUSION	Uralic	emotion	0	
 CONTEMPT	Uralic	emotion	0	
 COURAGE	Uralic	emotion	0	
 DEPRESSION	Uralic	emotion	0	
+DESIRE	Uralic	emotion	0	
 DISAPPOINTMENT	Uralic	emotion	0	
 DISGUST	Uralic	emotion	0	
+DOUBT	Uralic	emotion	0	
 ENVY	Uralic	emotion	0	
 EXCITEMENT	Uralic	emotion	0	
 FEAR (FRIGHT)	Uralic	emotion	0	
+GLOOMY	Uralic	emotion	0	
+GOOD	Uralic	emotion	0	
 GRIEF	Uralic	emotion	0	
+GRIEVE	Uralic	emotion	0	
+HAPPY	Uralic	emotion	0	
+HATE	Uralic	emotion	0	
 HATE (LOATHING)	Uralic	emotion	0	
+HOPE	Uralic	emotion	0	
 HOPE (FAITH)	Uralic	emotion	0	
+IMPATIENT	Uralic	emotion	0	
 INTEREST (FEELING)	Uralic	emotion	0	
+JEALOUS	Uralic	emotion	0	
 JEALOUSY	Uralic	emotion	0	
+KIND	Uralic	emotion	0	
 KINDNESS	Uralic	emotion	0	
 LONGING (WISH)	Uralic	emotion	0	
 LOVE (AFFECTION)	Uralic	emotion	0	
 MISERY	Uralic	emotion	0	
 MOURNING	Uralic	emotion	0	
 PAIN	Uralic	emotion	0	
+PATIENT	Uralic	emotion	0	
 PITY	Uralic	emotion	0	
 PLEASURE	Uralic	emotion	0	
 PRIDE	Uralic	emotion	0	
+PROUD	Uralic	emotion	0	
+REGRET	Uralic	emotion	0	
 RESPECT (NOUN)	Uralic	emotion	0	
 SADNESS	Uralic	emotion	0	
+SAFE	Uralic	emotion	0	
+SCARED	Uralic	emotion	0	
 SHAME	Uralic	emotion	0	
 SURPRISE (FEELING)	Uralic	emotion	0	
+SURPRISED	Uralic	emotion	0	
 TRIUMPH	Uralic	emotion	0	
-HAPPINESS	Uralic	emotion	1	JOY:0.50
-JOY	Uralic	emotion	1	HAPPINESS:0.50
+WORRY	Uralic	emotion	0	
+LIKE	Uralic	emotion	1	LOVE:8.00;WANT:2.00
+LOVE	Uralic	emotion	1	LIKE:8.00;WANT:0.50
+WANT	Uralic	emotion	1	LOVE:0.50;LIKE:2.00
+HAPPINESS	Uralic	emotion	2	JOY:0.50
+JOY	Uralic	emotion	2	HAPPINESS:0.50
+MERRY	Uralic	emotion	3	SAD:0.50
+SAD	Uralic	emotion	3	MERRY:0.50
 ADAM'S APPLE	Uralic	human body part	0	
 ANKLE	Uralic	human body part	0	
 ANUS	Uralic	human body part	0	
@@ -3081,6 +3661,68 @@ CHIN	Uralic	human body part	8	JAW:1.00
 JAW	Uralic	human body part	8	CHIN:1.00
 TENDON	Uralic	human body part	9	VEIN:1.00
 VEIN	Uralic	human body part	9	TENDON:1.00
+AMUSEMENT	Uto-Aztecan	emotion	0	
+ANGER	Uto-Aztecan	emotion	0	
+ANGRY	Uto-Aztecan	emotion	0	
+ANXIETY	Uto-Aztecan	emotion	0	
+ASHAMED	Uto-Aztecan	emotion	0	
+ASTONISHED	Uto-Aztecan	emotion	0	
+AWE	Uto-Aztecan	emotion	0	
+BAD	Uto-Aztecan	emotion	0	
+BLAME (SOMEBODY)	Uto-Aztecan	emotion	0	
+CONFUSION	Uto-Aztecan	emotion	0	
+CONTEMPT	Uto-Aztecan	emotion	0	
+COURAGE	Uto-Aztecan	emotion	0	
+DEPRESSION	Uto-Aztecan	emotion	0	
+DESIRE	Uto-Aztecan	emotion	0	
+DISAPPOINTMENT	Uto-Aztecan	emotion	0	
+DISGUST	Uto-Aztecan	emotion	0	
+DOUBT	Uto-Aztecan	emotion	0	
+ENVY	Uto-Aztecan	emotion	0	
+EXCITEMENT	Uto-Aztecan	emotion	0	
+FEAR (FRIGHT)	Uto-Aztecan	emotion	0	
+GLOOMY	Uto-Aztecan	emotion	0	
+GOOD	Uto-Aztecan	emotion	0	
+GRIEF	Uto-Aztecan	emotion	0	
+GRIEVE	Uto-Aztecan	emotion	0	
+HAPPINESS	Uto-Aztecan	emotion	0	
+HAPPY	Uto-Aztecan	emotion	0	
+HATE	Uto-Aztecan	emotion	0	
+HATE (LOATHING)	Uto-Aztecan	emotion	0	
+HOPE	Uto-Aztecan	emotion	0	
+HOPE (FAITH)	Uto-Aztecan	emotion	0	
+IMPATIENT	Uto-Aztecan	emotion	0	
+INTEREST (FEELING)	Uto-Aztecan	emotion	0	
+JEALOUS	Uto-Aztecan	emotion	0	
+JEALOUSY	Uto-Aztecan	emotion	0	
+JOY	Uto-Aztecan	emotion	0	
+KIND	Uto-Aztecan	emotion	0	
+KINDNESS	Uto-Aztecan	emotion	0	
+LIKE	Uto-Aztecan	emotion	0	
+LONGING (WISH)	Uto-Aztecan	emotion	0	
+LOVE (AFFECTION)	Uto-Aztecan	emotion	0	
+MERRY	Uto-Aztecan	emotion	0	
+MISERY	Uto-Aztecan	emotion	0	
+MOURNING	Uto-Aztecan	emotion	0	
+PAIN	Uto-Aztecan	emotion	0	
+PATIENT	Uto-Aztecan	emotion	0	
+PLEASURE	Uto-Aztecan	emotion	0	
+PRIDE	Uto-Aztecan	emotion	0	
+PROUD	Uto-Aztecan	emotion	0	
+RESPECT (NOUN)	Uto-Aztecan	emotion	0	
+SAD	Uto-Aztecan	emotion	0	
+SADNESS	Uto-Aztecan	emotion	0	
+SAFE	Uto-Aztecan	emotion	0	
+SCARED	Uto-Aztecan	emotion	0	
+SHAME	Uto-Aztecan	emotion	0	
+SURPRISE (FEELING)	Uto-Aztecan	emotion	0	
+SURPRISED	Uto-Aztecan	emotion	0	
+TRIUMPH	Uto-Aztecan	emotion	0	
+WORRY	Uto-Aztecan	emotion	0	
+LOVE	Uto-Aztecan	emotion	1	WANT:0.50
+WANT	Uto-Aztecan	emotion	1	LOVE:0.50
+PITY	Uto-Aztecan	emotion	2	REGRET:0.50
+REGRET	Uto-Aztecan	emotion	2	PITY:0.50
 ADAM'S APPLE	Uto-Aztecan	human body part	0	
 ANKLE	Uto-Aztecan	human body part	0	
 ANUS	Uto-Aztecan	human body part	0	

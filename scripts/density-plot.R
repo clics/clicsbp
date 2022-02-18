@@ -77,12 +77,15 @@ t.test(df2$BCUBES_EMOTION,df2$BCUBES_COLOR)
 #########################################
 
 #Density
-ggplot(df2) + 
+ggplot(na.omit(df2)) + 
   geom_density(aes(x=ARI_BODY),color="darkgreen",fill="darkgreen",alpha=0.7) + 
   geom_density(aes(x=AMI_BODY),color="mediumspringgreen",fill="mediumspringgreen",alpha=0.7) + 
   geom_density(aes(x=ARI_COLOR),color="blue",fill="blue",alpha=0.7) + 
   geom_density(aes(x=AMI_COLOR),color="#52ADD4",fill="#52ADD4",alpha=0.7) + 
-  scale_x_continuous(expand=c(0.02,0), name ="ARI and AMI") +
-  scale_y_continuous(expand=c(0.02,0)) +
+  geom_density(aes(x=ARI_EMOTION),color="#FFA500",fill="#FFA500",alpha=0.7) + 
+  geom_density(aes(x=AMI_EMOTION),color="#FF8C00",fill="#FF8C00",alpha=0.7) + 
+  scale_x_continuous(expand=c(0.02,0), name ="ARI and AMI", limits = c(-0.2,1.2)) +
+  scale_y_continuous(expand=c(0.02,0), limits = c(0,6)) +
   theme_classic()
 
+ggsave("graph.png")
