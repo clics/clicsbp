@@ -44,7 +44,7 @@ bantubvd-3,Koyo C.24,koyo1242,Koyo,koh,Africa,-0.69688,15.7508,Atlantic-Congo
 bantubvd-4,Bemba M.42,bemb1257,Bemba (Zambia),bem,Africa,-10.6122,29.2993,Atlantic-Congo
 bantubvd-5,Basaa A.43a,basa1284,Basa (Cameroon),bas,Africa,3.80765,10.4213,Atlantic-Congo
 bantubvd-6,Asu G.22,asut1235,Asu (Tanzania),asa,Africa,-4.17978,37.8323,Atlantic-Congo
-bantubvd-7,Rumanyo (Gciriku) K.38,diri1252,Diriku,diu,Africa,-18.1681,20.6678,Atlantic-Congo
+bantubvd-7,Rumanyo (Gciriku) K.38,diri1252,Diriku-Shambyu,diu,Africa,-18.1681,20.6678,Atlantic-Congo
 bantubvd-8,Lega D.25,lega1249,Lega-Shabunda,lea,Africa,-3.83196,27.1424,Atlantic-Congo
 bantubvd-9,Tswana S.30,tswa1253,Tswana,tsn,Africa,-24.368,24.7587,Atlantic-Congo
 bantubvd-10,Yao P.21,yaoo1241,Yao,yao,Africa,-13.6119,35.2387,Atlantic-Congo
@@ -91,7 +91,7 @@ bowernpny-Antekerrepenhe,Antekerrepenhe,ande1247,Andegerebinha,adg,Australia,-22
 bowernpny-Arabana,Arabana,arab1267,Arabana,ard,Australia,-28.705,135.449,Pama-Nyungan
 bowernpny-Awabakal,Awabakal,awab1243,Awabakal,awk,Australia,-33.12847,151.43555,Pama-Nyungan
 bowernpny-Badimaya,Badimaya,badi1246,Badimaya,bia,Australia,-29.0647,117.246,Pama-Nyungan
-bowernpny-Badjiri,Badjiri,badj1244,Badjiri,jbi,Australia,-28.79,145.47,Pama-Nyungan
+bowernpny-Badjiri,Badjiri,badj1244,Badjirri,jbi,Australia,-28.79,145.47,Pama-Nyungan
 bowernpny-Bandjalang,Bandjalang,band1358,Bandjalang,,Australia,,,Pama-Nyungan
 bowernpny-Batyala,Batyala,baty1234,Batyala,xby,Australia,-25.44486,153.15399,Pama-Nyungan
 bowernpny-BidyaraGungabula,Bidyara-Gungabula,sout2765,Southern Maric,,,,,Pama-Nyungan
@@ -122,7 +122,7 @@ bowernpny-Dyirbal,Dyirbal,dyir1250,Dyirbal,dbl,Australia,-17.4516,145.544,Pama-N
 bowernpny-FlindersIsland,Flinders Island,flin1247,Flinders Island,fln,Australia,-14.1812,144.259,Pama-Nyungan
 bowernpny-Gamilaraay,Gamilaraay,gami1243,Yuwaalaraay-Gamilaraay,kld,Australia,-29.9037,149.543,Pama-Nyungan
 bowernpny-Gangulu,Gangulu,gang1268,Gangulu,gnl,Australia,-22.7637,149.416,Pama-Nyungan
-bowernpny-Garlali,Garlali,kala1380,Kalali,gll,Australia,-28.136,143.929,Pama-Nyungan
+bowernpny-Garlali,Garlali,kala1380,Bulloo River,gll,Australia,-28.136,143.929,Pama-Nyungan
 bowernpny-GoorengGooreng,Gooreng Gooreng,gure1255,Gureng Gureng,gnr,Australia,-25.3893,151.175,Pama-Nyungan
 bowernpny-Gudjal,Gudjal,gudj1237,Gudjal,,Australia,-19.44157406,144.6482584,Pama-Nyungan
 bowernpny-Gumatj,Gumatj,guma1253,Gumatj,gnn,Australia,-12.25254,136.83042,Pama-Nyungan
@@ -175,7 +175,7 @@ bowernpny-MayiYapi,Mayi-Yapi,mayi1235,Mayi-Yapi,xyj,Australia,-19.25,140.61,Pama
 bowernpny-Mbabaram,Mbabaram,mbab1239,Mbabaram,vmb,Australia,-20.1389,143.438,Pama-Nyungan
 bowernpny-Mbakwithi,Mbakwithi,angu1242,Anguthimri,awg,Australia,-12.395,141.755,Pama-Nyungan
 bowernpny-Minjungbal,Minjungbal,minj1242,Minjangbal,,Australia,,,Pama-Nyungan
-bowernpny-Mirniny,Mirniny,kala1379,Kalarko,kba,Australia,-31.7154,118.911,Pama-Nyungan
+bowernpny-Mirniny,Mirniny,kala1379,Kalarko-Mirniny,kba,Australia,-31.7154,118.911,Pama-Nyungan
 bowernpny-Mithaka,Mithaka,mith1236,Mithaka,,Australia,-25.13606725,139.598447,Pama-Nyungan
 bowernpny-Mudburra,Mudburra,mudb1240,Mudburra,mwd,Australia,-16.7694,132.329,Pama-Nyungan
 bowernpny-Muruwari,Muruwari,muru1266,Muruwari,zmu,Australia,-28.9618,146.546,Pama-Nyungan
@@ -245,7 +245,7 @@ bowernpny-Wulguru,Wulguru,wulg1239,Wulguru,qgu,Australia,-19.85103121,146.345395
 bowernpny-YabulaYabula,Yabula Yabula,yabu1234,Yabula Yabula,yxy,Australia,-35.76116,145.23209,Pama-Nyungan
 bowernpny-Yagara,Yagara,yaga1262,Yagara,yxg,Australia,-27.87648,152.46028,Pama-Nyungan
 bowernpny-Yalarnnga,Yalarnnga,yala1262,Yalarnnga,ylr,Australia,-21.731,139.511,Pama-Nyungan
-bowernpny-Yannhangu,Yan-nhangu,yann1237,Yan-nhangu,jay,Australia,-12.0853,134.877,Pama-Nyungan
+bowernpny-Yannhangu,Yan-nhangu,yann1237,Nhangu,jay,Australia,-12.0853,134.877,Pama-Nyungan
 bowernpny-Yandruwandha,Yandruwandha,yand1253,Yandruwandha,ynd,Australia,-28.4744,140.583,Pama-Nyungan
 bowernpny-Yanyuwa,Yanyuwa,yany1243,Yanyuwa,jao,Australia,-15.7621,136.055,Pama-Nyungan
 bowernpny-Yarluyandi,Yarluyandi,yarl1238,Yarluyandi,yry,Australia,-25.83705,139.58436,Pama-Nyungan
@@ -454,7 +454,6 @@ hantganbangime-Tommo_So,Tommo_So,tomm1242,Tommo So Dogon,dto,Africa,14.67,-3.51,
 hantganbangime-Toro_Tegu,Toro_Tegu,toro1253,Toro Tegu Dogon,dtt,Africa,15.01,-2.4,Dogon
 hantganbangime-Yanda_Dom,Yanda_Dom,yand1257,Yanda Dom Dogon,dym,Africa,14.63,-3.15,Dogon
 hantganbangime-Yorno_So,Yorno_So,yorn1234,Yorno So,,Africa,14.56,-3.24,Dogon
-hantganbangime-Fulfulde,Fulfulde,maas1239,Maasina Fulfulde,ffm,Africa,14.8,-3.84,Atlantic-Congo
 hantganbangime-Penange,Penange,pena1270,Penange,,Africa,14.39,-4.03,Dogon
 hsiuhmongmien-NaMeoTuyenQuang,Na Meo (Tuyen Quang),,,,,21.8486731,105.4383658,Hmong-Mien
 hsiuhmongmien-NaMeoCaoBang,Na Meo (Cao Bang),name1237,Ná-Meo,neo,Eurasia,22.4820439,106.4824318,Hmong-Mien
@@ -559,7 +558,7 @@ kraftchadic-Falimucella,Fali Mucella,gude1246,Gude,gde,Africa,10.2138,13.403,Afr
 kraftchadic-Faliwagira,Fali Ɓwagira,fali1285,Fali,fli,Africa,10.5419,13.4087,Afro-Asiatic
 kraftchadic-Gaanda,Ga?anda,gaan1243,Ga'anda,gqa,Africa,10.2955,12.6479,Afro-Asiatic
 kraftchadic-Gava,Gava,gudu1252,Guduf-Gava,gdf,Africa,11.1057,13.7893,Afro-Asiatic
-kraftchadic-Geji,Geji,geji1246,Geji,gji,Africa,10.3478,9.64965,Afro-Asiatic
+kraftchadic-Geji,Geji,geji1246,Gejic,,Africa,10.3478,9.64965,Afro-Asiatic
 kraftchadic-Gera,Gera,gera1246,Gera,gew,Africa,10.4331,10.12,Afro-Asiatic
 kraftchadic-Gude,Gude,gude1246,Gude,gde,Africa,10.2138,13.403,Afro-Asiatic
 kraftchadic-Gudu,Gudu,gudu1250,Gudu,gdu,Africa,10.1206,12.5359,Afro-Asiatic
@@ -893,7 +892,7 @@ polyglottaafricana-Kabiye,Kabiye,kabi1261,Kabiyé,kbp,Africa,8.96816,0.495023,At
 polyglottaafricana-Kanyok,Kanyok,kany1247,Kanyok,kny,Africa,-7.31878,23.613,Atlantic-Congo
 polyglottaafricana-Karekare,Karekare,kare1348,Karekare,kai,Africa,12.5176,10.8732,Afro-Asiatic
 polyglottaafricana-Kasem,Kasem,kase1253,Kasem,xsm,Africa,11.0824,-1.39076,Atlantic-Congo
-polyglottaafricana-Kikongo,Kikongo,koon1244,South-Central Kikongo,kng,Africa,-5.57722,14.4771,Atlantic-Congo
+polyglottaafricana-Kikongo,Kikongo,koon1244,South-Central Koongo,kng,Africa,-5.57722,14.4771,Atlantic-Congo
 polyglottaafricana-Kota,Kota,kota1274,Kota (Gabon),koq,Africa,1.016,13.97,Atlantic-Congo
 polyglottaafricana-Kpan,Kpan,kpan1246,Kpan,kpk,Africa,7.58343,10.1642,Atlantic-Congo
 polyglottaafricana-Kupa,Kupa,kupa1238,Kupa,kug,Africa,8.48437,6.35806,Atlantic-Congo
@@ -907,7 +906,7 @@ polyglottaafricana-ManjakuTame,Manjaku-Tame,mand1419,Mandjak,mfv,Africa,12.829,-
 polyglottaafricana-Mankanya,Mankanya,mank1251,Mankanya,knf,Africa,12.2615066667,-15.74389,Atlantic-Congo
 polyglottaafricana-MaxiGbe,Maxi-Gbe,maxi1236,Maxi Gbe,mxl,Africa,7.57292,1.78181,Atlantic-Congo
 polyglottaafricana-Mbangala,Mbangala,mban1264,Mbangala,mxg,Africa,-9.15592,17.4086,Atlantic-Congo
-polyglottaafricana-Mbere,Mbere,mber1257,Mbere,mdt,Africa,-0.477445,14.2877,Atlantic-Congo
+polyglottaafricana-Mbere,Mbere,mber1257,Mbere-Mbamba,mdt,Africa,-0.477445,14.2877,Atlantic-Congo
 polyglottaafricana-Mbo,Mbo,mboc1235,Mbo (Cameroon),mbo,Africa,5.13981,9.92766,Atlantic-Congo
 polyglottaafricana-Mbundu,Mbundu,kimb1241,Kimbundu,kmb,Africa,-8.97835,14.8893,Atlantic-Congo
 polyglottaafricana-Mengaka,Mengaka,meng1264,Mengaka,xmg,Africa,5.71399,10.3377,Atlantic-Congo
@@ -918,7 +917,7 @@ polyglottaafricana-Nde,Nde,ndee1242,Nde,,Africa,,,Atlantic-Congo
 polyglottaafricana-Ngemba,Ngemba,ngem1255,Ngemba,nge,Africa,5.97864,10.1469,Atlantic-Congo
 polyglottaafricana-Ngizim,Ngizim,ngiz1242,Ngizim,ngi,Africa,12.1051,11.0178,Afro-Asiatic
 polyglottaafricana-Nomaande,Nomaande,noma1260,Nomaande,lem,Africa,4.5893,10.9157,Atlantic-Congo
-polyglottaafricana-NorthernTeke,Northern Teke,teke1275,Teke-Tege,teg,Africa,-1.61688,14.8664,Atlantic-Congo
+polyglottaafricana-NorthernTeke,Northern Teke,teke1275,Latege,teg,Africa,-1.61688,14.8664,Atlantic-Congo
 polyglottaafricana-Nsongo,Nsongo,nson1238,Nsongo,nsx,Africa,-10.5166,16.7348,Atlantic-Congo
 polyglottaafricana-NupeTako,Nupe-Tako,nupe1254,Nupe-Nupe-Tako,nup,Africa,9.18404,5.40031,Atlantic-Congo
 polyglottaafricana-Oloma,Oloma,olom1241,Oloma,olm,Africa,7.01279,6.02767,Atlantic-Congo
@@ -985,7 +984,7 @@ savelyevturkic-Salar,Salar,sala1264,Salar,slr,Eurasia,35.5457,102.819,Turkic
 savelyevturkic-SarygYugur,Saryg Yugur,west2402,West Yugur,ybe,Eurasia,39.0548,99.3112,Turkic
 savelyevturkic-Shor,Shor,shor1247,Shor,cjs,Eurasia,52.3261,88.4344,Turkic
 savelyevturkic-SouthAltai,South Altay,sout2694,Southern Altai,alt,Eurasia,50.1347,86.8705,Turkic
-savelyevturkic-Tatar,Kazan Tatar,midd1325,Middle Tatar,,Eurasia,,,Turkic
+savelyevturkic-Tatar,Kazan Tatar,midd1325,Central Tatar,,Eurasia,,,Turkic
 savelyevturkic-Tofa,Tofa,tofa1248,Tofa,,Eurasia,,,Turkic
 savelyevturkic-Turkish,Turkish,anat1259,Anatolian Turkish,,Eurasia,,,Turkic
 savelyevturkic-Turkmen,Turkmen,turk1304,Turkmen,tuk,Eurasia,37.0872,59.1757,Turkic
@@ -1039,7 +1038,7 @@ suntb-Kaman,Kaman [Miju],miju1243,Kman,mxj,Eurasia,28.4732,97.0444,Sino-Tibetan
 suntb-BlackLahu,Lahu (Black),naaa1244,Na (Lahu),,Eurasia,,,Sino-Tibetan
 suntb-Lisu,Lisu,lisu1250,Lisu,lis,Eurasia,26.91,98.94,Sino-Tibetan
 suntb-Maru,Maru [Langsu],lawn1238,Lawng Hsu,,Eurasia,,,Sino-Tibetan
-suntb-Muya,Muya [Minyak],muya1239,Muya,mvm,Eurasia,29.8226,102.205,Sino-Tibetan
+suntb-Muya,Muya [Minyak],muya1239,Muya,,Eurasia,29.8226,102.205,Sino-Tibetan
 suntb-Namuyi,Namuyi,namu1246,Namuyi,nmy,Eurasia,28.5909,101.898,Sino-Tibetan
 suntb-LijiangNaxi,Naxi (Lijiang),lich1241,Lichiang,,Eurasia,,,Sino-Tibetan
 suntb-YongningNaxi,Naxi (Yongning),yong1270,Narua,nru,Eurasia,27.8,100.9,Sino-Tibetan
@@ -1302,6 +1301,7 @@ tuled-Tapirape,Tapirapé,tapi1254,Tapirapé,taf,South America,-10.5373,-50.5438,
 tuled-Tembe,Tembe,temb1276,Tenetehara,tqb,South America,-2.6123,-48.2359,Tupian
 tuled-Tupari,Tupari,tupa1250,Tuparí,tpr,South America,-11.8884,-62.2544,Tupian
 tuled-Tupinamba,Tupinambá,tupi1273,Tupinambá,tpn,South America,-8.1055,-34.887,Tupian
+tuled-Turiwara,Turiwara,turi1247,Turiwára,twt,South America,-2,-49.5,Tupian
 tuled-Urueuwauwau,Urueuwauwau,urue1240,Uru-Eu-Wau-Wau,urz,South America,-10.9176,-63.8086,Tupian
 tuled-Urumi,Urumi,urum1250,Urumi,uru,South America,-9.08,-63.85,Tupian
 tuled-Warazu,Warazu,paus1244,Warázu,psm,South America,-12.8553,-63.1903,Tupian
@@ -1852,7 +1852,7 @@ sohartmannchin-Mkaang,Mkaang,lamk1238,Lamkang,lmk,Eurasia,24.1523,94.2706,Sino-T
 sohartmannchin-Ngmuun,Ngmüün,munc1235,Mün Chin,mwq,Eurasia,20.289,94.3929,Sino-Tibetan
 sohartmannchin-Nyhmoye,Nyhmoye,chin1478,Chinbon Chin,cnb,Eurasia,20.0776,94.0506,Sino-Tibetan
 sohartmannchin-Wakung,Wakung,mroc1235,Mro Chin,cmr,Eurasia,19.71,93.995,Sino-Tibetan
-naganorgyalrongic-NyagrongMinyag,Nyagrong Minyag (Ganzi Xinlong),muya1239,Muya,mvm,Eurasia,30.932449,100.326871,Sino-Tibetan
+naganorgyalrongic-NyagrongMinyag,Nyagrong Minyag (Ganzi Xinlong),muya1239,Muya,,Eurasia,30.932449,100.326871,Sino-Tibetan
 naganorgyalrongic-GanziDanbarGyalrong,rGyalrong (Ganzi Danba Badi Munashan),situ1238,Situ,,Eurasia,31.060903,101.855001,Sino-Tibetan
 naganorgyalrongic-JinchuanErkairGyalrong,rGyalrong (Jinchuan Erkai),shan1274,Stodsde,jih,Eurasia,31.464691,101.341027,Sino-Tibetan
 naganorgyalrongic-JinchuanGuaninqiaorGyalrong,rGyalrong (Jinchuan Guaninqiao Wobzi),eree1240,Ere (China),,Eurasia,31.639053,101.445432,Sino-Tibetan
@@ -1862,6 +1862,19 @@ naganorgyalrongic-MaerkangBolarGyalrongB,rGyalrong (Maerkang Bola (B)),maer1238,
 naganorgyalrongic-MaerkangCaodengrGyalrong,rGyalrong (Maerkang Caodeng (B)),tsho1240,Tshobdun,,Eurasia,32.209102,101.832718,Sino-Tibetan
 naganorgyalrongic-MaerkangJaphugrGyalrong,rGyalrong (Maerkang Japhug Shaerzong (B)),gdon1234,Gdongbrgyad-Kamnyu,,Eurasia,32.159653,102.159643,Sino-Tibetan
 naganorgyalrongic-MaerkangSomanrGyalrong,rGyalrong (Maerkang Soman),maer1238,Maerkang,,Eurasia,31.864114,102.484959,Sino-Tibetan
+halenepal-Nepali,Nepali,nepa1254,Nepali,npi,Eurasia,28.0,85.0,Indo-European
+halenepal-Gurung,Gurung,guru1261,Gurung,gvr,Eurasia,27.41687,86.28988,Sino-Tibetan
+halenepal-SahuTamang,Tamang (Sahu),west2415,Western Tamang,tdg,Eurasia,28.0239,85.0563,Sino-Tibetan
+halenepal-Thakali,Thakali,thak1245,Thakali,ths,Eurasia,28.7014,83.6466,Sino-Tibetan
+halenepal-Magar,Magar,maga1261,Magar,,,,,Sino-Tibetan
+halenepal-Kham,Kham,parb1234,Parbate Kham,,,,,Sino-Tibetan
+halenepal-Kaike,Kaike,kaik1246,Kaike,kzq,Eurasia,28.853,83.1384,Sino-Tibetan
+halenepal-JirelTibetan,Tibetan (Jirel),jire1238,Jirel,jul,Eurasia,27.6931,86.3201,Sino-Tibetan
+halenepal-SherpaTibetan,Tibetan (Sherpa),sher1255,Solu-Khumbu Sherpa,xsr,Eurasia,27.674,86.9994,Sino-Tibetan
+halenepal-Sunwar,Sunwar,sunw1242,Sunwar,suz,Eurasia,27.5201,86.2476,Sino-Tibetan
+halenepal-Khaling,Khaling,khal1275,Khaling,klr,Eurasia,27.3912,87.5053,Sino-Tibetan
+halenepal-Newar,Newar,newa1246,Kathmandu Valley Newari,new,Eurasia,27.2614,84.9577,Sino-Tibetan
+halenepal-Chepang,Chepang,chep1245,Chepang,cdm,Eurasia,27.7206,84.9017,Sino-Tibetan
 listsamplesize-german,German,stan1295,German,deu,Eurasia,48.649,12.4676,Indo-European
 listsamplesize-dutch,Dutch,dutc1256,Dutch,nld,Eurasia,52.0,5.0,Indo-European
 listsamplesize-french,French,stan1290,French,fra,Eurasia,48.0,2.0,Indo-European
