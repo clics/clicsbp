@@ -15,10 +15,13 @@ from csvw.dsv import reader
 import lingpy
 from clldutils.misc import slug
 from tabulate import tabulate
+from pathlib import Path
 
 
 from pylexibank import Concept, Lexeme, progressbar
 import attr
+from csvw.dsv import UnicodeWriter
+import json
 
 
 @attr.s
@@ -53,7 +56,53 @@ class Dataset(BaseDataset):
                         self.raw_dir / dataset["ID"])
 
 
+
     def cmd_makecldf(self, args):
+        
+        # adjust metadata and concept list in lexirumah
+        with open(
+                self.raw_dir.joinpath(
+                    "lexirumah", "cldf",
+                    "cldf-metadata.json")) as f:
+            md = json.load(f)
+            md["rdf:ID"] = "lexirumah"
+        postedit = False
+        for i, t in enumerate(md["tables"]):
+            if "ParameterTable" in t["dc:conformsTo"]:
+                for col in md["tables"][i]["tableSchema"]["columns"]:
+                    if col["name"] == "Concepticon_Gloss":
+                        postedit = True
+                if postedit:
+                    md["tables"][i]["tableSchema"]["columns"].append(
+                            {
+                                "datatype": "string",
+                                "name": "Concepticon_Gloss"
+                                })
+        if postedit:
+            with open(
+                    self.raw_dir.joinpath(
+                        "lexirumah", "cldf",
+                        "cldf-metadata.json"), 
+                    "w") as f:
+                f.write(json.dumps(md, indent=4))
+            args.log.info("updated lexirumah metadata")
+        else:
+            args.log.info("lexirumah metadata is already updated")
+        concepts = self.dir.read_csv(
+                Path("raw") / "lexirumah" / "cldf" / "concepts.csv")
+        if not "Concepticon_Gloss" in concepts:
+            concepts[0].append("Concepticon_Gloss")
+            id2gloss = {c.id: c.gloss for c in
+                    self.concepticon.conceptsets.values()}
+            for i, row in enumerate(concepts[1:]):
+                concepts[i].append(id2gloss.get(row[-2], ""))
+            with UnicodeWriter(self.raw_dir.joinpath("lexirumah", "cldf",
+                "concepts.csv")) as writer:
+                writer.writerows(concepts)
+            args.log.info("updated lexirumah concepts")
+        else:
+            args.log.info("lexirumah concepts are already updated")
+        
 
         datasets = [pycldf.Dataset.from_metadata(
             self.raw_dir / ds["ID"] / "cldf/cldf-metadata.json") for ds in
