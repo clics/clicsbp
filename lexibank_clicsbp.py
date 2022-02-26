@@ -66,12 +66,12 @@ class Dataset(BaseDataset):
                     "cldf-metadata.json")) as f:
             md = json.load(f)
             md["rdf:ID"] = "lexirumah"
-        postedit = False
+        postedit = True
         for i, t in enumerate(md["tables"]):
             if "ParameterTable" in t["dc:conformsTo"]:
                 for col in md["tables"][i]["tableSchema"]["columns"]:
                     if col["name"] == "Concepticon_Gloss":
-                        postedit = True
+                        postedit = False
                 if postedit:
                     md["tables"][i]["tableSchema"]["columns"].append(
                             {
@@ -90,12 +90,12 @@ class Dataset(BaseDataset):
             args.log.info("lexirumah metadata is already updated")
         concepts = self.dir.read_csv(
                 Path("raw") / "lexirumah" / "cldf" / "concepts.csv")
-        if not "Concepticon_Gloss" in concepts:
+        if not "Concepticon_Gloss" in concepts[0]:
             concepts[0].append("Concepticon_Gloss")
             id2gloss = {c.id: c.gloss for c in
                     self.concepticon.conceptsets.values()}
             for i, row in enumerate(concepts[1:]):
-                concepts[i].append(id2gloss.get(row[-2], ""))
+                concepts[i+1].append(id2gloss.get(row[-2], ""))
             with UnicodeWriter(self.raw_dir.joinpath("lexirumah", "cldf",
                 "concepts.csv")) as writer:
                 writer.writerows(concepts)
