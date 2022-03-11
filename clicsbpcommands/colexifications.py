@@ -12,6 +12,7 @@ from collections import defaultdict
 from tabulate import tabulate
 from lingpy.algorithm import extra
 from lingpy.convert.graph import networkx2igraph
+import numpy as np
 
 from lexibank_clicsbp import Dataset as _CLICS
 
@@ -48,32 +49,37 @@ def get_colexifications(wordlist, family, concepts):
                                     c1, 
                                     occurrences=[f1.id],
                                     words=[tokens],
-                                    languages=[language.id],
+                                    varieties = [language.id],
+                                    languages=[language.glottocode],
                                     families=[language.family]
                                     )
                         else:
                             G.nodes[c1]["occurrences"] += [f1.id]
                             G.nodes[c1]["words"] += [tokens]
-                            G.nodes[c1]["languages"] += [language.id]
+                            G.nodes[c1]["varieties"] += [language.id]
+                            G.nodes[c1]["languages"] += [language.glottocode]
                             G.nodes[c1]["families"] += [language.family]
                         if not c2 in G:
                             G.add_node(
                                     c2, 
                                     occurrences=[f2.id],
                                     words=[" ".join(tokens)],
-                                    languages=[language.id],
+                                    varieties=[language.id],
+                                    languages=[language.glottocode],
                                     families=[language.family]
                                     )
                         else:
                             G.nodes[c2]["occurrences"] += [f2.id]
                             G.nodes[c2]["words"] += [tokens]
-                            G.nodes[c2]["languages"] += [language.id]
+                            G.nodes[c2]["varieties"] += [language.id]
+                            G.nodes[c2]["languages"] += [language.glottocode]
                             G.nodes[c2]["families"] += [language.family]
 
                         try:
                             G[c1][c2]["count"] += 1
                             G[c1][c2]["words"] += [tokens]
-                            G[c1][c2]["languages"] += [language.id]
+                            G[c1][c2]["varieties"] += [language.id]
+                            G[c1][c2]["languages"] += [language.glottocode]
                             G[c1][c2]["families"] += [language.family]
                         except:
                             G.add_edge(
@@ -81,11 +87,59 @@ def get_colexifications(wordlist, family, concepts):
                                     c2,
                                     count=1,
                                     words=[tokens],
-                                    languages=[language.id],
+                                    varieties=[language.id],
+                                    languages=[language.glottocode],
                                     families=[language.family],
                                     weight=0
                                     )
+    for nA, nB, data in G.edges(data=True):
+        G[nA][nB]["variety_weight"] = len(set(data["varieties"]))
+        G[nA][nB]["language_weight"] = len(set(data["languages"]))
+        G[nA][nB]["family_weight"] = len(set(data["families"]))
+    for node, data in G.nodes(data=True):
+        G.nodes[node]["language_weight"] = len(set(data["languages"]))
+        G.nodes[node]["variety_weight"] = len(set(data["varieties"]))
+        G.nodes[node]["family_weight"] = len(set(data["families"]))
     return G
+
+
+def get_transition_matrix(G, steps=10, weight="weight"):
+    """
+    Compute transition matrix following Jackson et al. 2019
+    """
+    # prune nodes excluding singletons
+    nodes = []
+    for node in G.nodes:
+        #if len(G[node]) >= 1:
+        nodes.append(node)
+    print("retained matrix with {0} nodes out of {1}".format(len(nodes), len(G)))
+
+    a_matrix = [[0 for x in nodes] for y in nodes]
+
+    # define i == j as number of languages occurring here
+    if weight == "language_weight": # TODO: generalize later
+        for i, n in enumerate(nodes):
+            a_matrix[i][i] = G.nodes[n]["language_weight"]
+        
+    for nodeA, nodeB, data in G.edges(data=True):
+        idxA, idxB = nodes.index(nodeA), nodes.index(nodeB)
+        a_matrix[idxA][idxB] = a_matrix[idxB][idxA] = data[weight]
+    d_matrix = [[0 for x in nodes] for y in nodes]
+    diagonal = [sum(row) for row in a_matrix]
+    for i in range(len(nodes)):
+        d_matrix[i][i] = 1 / diagonal[i]
+
+    p_matrix = np.matmul(d_matrix, a_matrix)
+    new_p_matrix = np.matmul(d_matrix, a_matrix)
+    for i in range(1, steps+1):
+        new_matrix = np.linalg.matrix_power(p_matrix, i)
+        new_matrix_m1 = np.linalg.matrix_power(p_matrix, i-1)
+        new_p_matrix = np.multiply(new_matrix, 1-new_matrix_m1) + new_p_matrix
+
+    return new_p_matrix, nodes, a_matrix
+    
+
+        
 
 
 def weight_by_cognacy(
@@ -94,6 +148,12 @@ def weight_by_cognacy(
         method="sca",
         cluster_method="infomap"
         ):
+    """
+    Function weights the data by computing cognate sets.
+
+    :todo: compute cognacy for concept slots to determine self-colexification
+    scores.
+    """
     if cluster_method == "infomap":
         clusterm = extra.infomap_clustering
     else:
@@ -125,9 +185,17 @@ def weight_by_cognacy(
                         taxa=data["languages"])
                 weight = len(results)
         else:
-            weight = 0.5
+            weight = 1
         graph[nA][nB]["weight"] = weight
 
+
+def write_matrix(name, matrix, concepts):
+    with open(name, "w") as f:
+        for i, row in enumerate(matrix):
+            f.write(concepts[i])
+            for cell in row:
+                f.write("\t{0:.2f}".format(cell))
+            f.write("\n")
 
 
 def run(args):
@@ -140,49 +208,83 @@ def run(args):
                 delimiter="\t")]
 
     clts = CLTS()
-    concepts = {"color": [], "emotion": [], "human body part": []}
-    for concept in CLICS.concepts:
-        concepts[concept["TAG"]] += [concept["CONCEPTICON_GLOSS"]]
-
-    args.log.info("loaded concepts and families")
-
     wl = Wordlist(
             [Dataset.from_metadata(
         CLICS.cldf_dir / "cldf-metadata.json")],
             ts=clts.bipa)
-
     args.log.info("loaded wordlist")
+    concepts = {"all": [], "color": [], "emotion": [], "human body part": []}
+    concepts["all"] = [concept.concepticon_gloss for concept in wl.concepts]
+    for concept in CLICS.concepts:
+        if concept["CONCEPTICON_GLOSS"] in concepts["all"]:
+            concepts[concept["TAG"]] += [concept["CONCEPTICON_GLOSS"]]
+    args.log.info("loaded concepts and families")
     
     table = []
     for family in families:
-        for tag in ["human body part", "color", "emotion"]:
-            args.log.info("analyzing {0} / {1}".format(family, tag))
-            G = get_colexifications(wl, family, concepts[tag])
-            if len(G) > 0:
-                    weight_by_cognacy(
-                            G,
-                            threshold=args.acd_threshold,
-                            method=args.acd_method
-                            )
-                    IG = networkx2igraph(G)
+        G = get_colexifications(wl, family, concepts["all"])
+        weight_by_cognacy(
+                G,
+                threshold=args.acd_threshold,
+                method=args.acd_method
+                )
+
+        # get the transition matrix
+        if len(G) > 1:
+            T, all_nodes, A = get_transition_matrix(G, steps=5, weight="language_weight")
+            write_matrix(
+                    CLICS.dir.joinpath("output", "p-matrix", "{0}-t.tsv".format(family)),
+                    T, 
+                    all_nodes
+                    )
+            write_matrix(
+                    CLICS.dir.joinpath("output", "p-matrix", "{0}-a.tsv".format(family)),
+                    A, 
+                    all_nodes
+                    )
+
+            for tag in ["human body part", "color", "emotion"]:
+                current_concepts = [c for c in concepts[tag] if c in all_nodes]
+                args.log.info("analyzing {0} / {1}".format(family, tag))
+                idxs = []
+                for c in current_concepts:
+                    idxs += [all_nodes.index(c)]
+                new_matrix = [[0 for x in idxs] for y in idxs]
+                for i, idxA in enumerate(idxs):
+                    for j, idxB in enumerate(idxs):
+                        new_matrix[i][j] = T[idxA][idxB]
+                # convert to graph
+                DG = nx.Graph()
+                for node in current_concepts:
+                    DG.add_node(node, **G.nodes[node])
+                for i, idxA in enumerate(idxs):
+                    for j, idxB in enumerate(idxs):
+                        if i < j:
+                            nodeA, nodeB = current_concepts[i], current_concepts[j]
+                            score = sum([new_matrix[i][j], new_matrix[j][i]])/2
+                            if round(score, 2) > 0:
+                                DG.add_edge(nodeA, nodeB, **G[nodeA].get(nodeB, {}))
+                                DG[nodeA][nodeB]["tweight"] = score
+                if len(DG.nodes) > 5:
+                    IG = networkx2igraph(DG)
                     clusters = {c: 0 for c in concepts[tag]}
                     for i, nodes in enumerate(
-                            IG.community_infomap(edge_weights="weight")):
+                            IG.community_infomap(edge_weights="tweight")):
                         for node in nodes:
                             clusters[IG.vs[node]["Name"]] = i+1
-                    for concept in concepts[tag]:
+                    for concept in current_concepts:
                         links = []
-                        if concept in G:
-                            for neighbor, data in G[concept].items():
-                                links += ["{0}:{1:.2f}".format(neighbor, data["weight"])]
+                        if concept in DG:
+                            for neighbor, data in DG[concept].items():
+                                links += ["{0}:{1:.2f}".format(neighbor, data["tweight"])]
                         table += [[
                             concept,
                             family,
                             tag,
                             str(clusters[concept]),
                             ";".join(links)]]
-            else:
-                args.log.info("skipping family {0} since there are no data".format(family))
+                else:
+                    args.log.info("skipping family {0} since there are no data".format(family))
     with open(CLICS.dir / "output" / "colexifications.tsv", "w") as f:
         f.write("CONCEPT\tFAMILY\tTAG\tCOMMUNITY\tLINKS\n")
         for row in sorted(table, key=lambda x: (x[1], x[2], x[3], x[0])):

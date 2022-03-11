@@ -54,55 +54,62 @@ class Dataset(BaseDataset):
                         dataset["Organisation"]+"/"+
                         dataset["Repository"]+'.git',
                         self.raw_dir / dataset["ID"])
+        
+        if self.raw_dir.joinpath("norare-data").exists():
+            pass
+        else:
+            args.log.info("downloading norare data")
+            repo = Repo.clone_from(
+                    "https://github.com/concepticon/norare-data.git",
+                    self.raw_dir / "norare-data")
 
 
 
     def cmd_makecldf(self, args):
         
-        # adjust metadata and concept list in lexirumah
-        with open(
-                self.raw_dir.joinpath(
-                    "lexirumah", "cldf",
-                    "cldf-metadata.json")) as f:
-            md = json.load(f)
-            md["rdf:ID"] = "lexirumah"
-        postedit = True
-        for i, t in enumerate(md["tables"]):
-            if "ParameterTable" in t["dc:conformsTo"]:
-                for col in md["tables"][i]["tableSchema"]["columns"]:
-                    if col["name"] == "Concepticon_Gloss":
-                        postedit = False
-                if postedit:
-                    md["tables"][i]["tableSchema"]["columns"].append(
-                            {
-                                "datatype": "string",
-                                "name": "Concepticon_Gloss"
-                                })
-        if postedit:
-            with open(
-                    self.raw_dir.joinpath(
-                        "lexirumah", "cldf",
-                        "cldf-metadata.json"), 
-                    "w") as f:
-                f.write(json.dumps(md, indent=4))
-            args.log.info("updated lexirumah metadata")
-        else:
-            args.log.info("lexirumah metadata is already updated")
-        concepts = self.dir.read_csv(
-                Path("raw") / "lexirumah" / "cldf" / "concepts.csv")
-        if not "Concepticon_Gloss" in concepts[0]:
-            concepts[0].append("Concepticon_Gloss")
-            id2gloss = {c.id: c.gloss for c in
-                    self.concepticon.conceptsets.values()}
-            for i, row in enumerate(concepts[1:]):
-                concepts[i+1].append(id2gloss.get(row[-2], ""))
-            with UnicodeWriter(self.raw_dir.joinpath("lexirumah", "cldf",
-                "concepts.csv")) as writer:
-                writer.writerows(concepts)
-            args.log.info("updated lexirumah concepts")
-        else:
-            args.log.info("lexirumah concepts are already updated")
-        
+        ## # adjust metadata and concept list in lexirumah
+        ## with open(
+        ##         self.raw_dir.joinpath(
+        ##             "lexirumah", "cldf",
+        ##             "cldf-metadata.json")) as f:
+        ##     md = json.load(f)
+        ##     md["rdf:ID"] = "lexirumah"
+        ## postedit = True
+        ## for i, t in enumerate(md["tables"]):
+        ##     if "ParameterTable" in t["dc:conformsTo"]:
+        ##         for col in md["tables"][i]["tableSchema"]["columns"]:
+        ##             if col["name"] == "Concepticon_Gloss":
+        ##                 postedit = False
+        ##         if postedit:
+        ##             md["tables"][i]["tableSchema"]["columns"].append(
+        ##                     {
+        ##                         "datatype": "string",
+        ##                         "name": "Concepticon_Gloss"
+        ##                         })
+        ## if postedit:
+        ##     with open(
+        ##             self.raw_dir.joinpath(
+        ##                 "lexirumah", "cldf",
+        ##                 "cldf-metadata.json"), 
+        ##             "w") as f:
+        ##         f.write(json.dumps(md, indent=4))
+        ##     args.log.info("updated lexirumah metadata")
+        ## else:
+        ##     args.log.info("lexirumah metadata is already updated")
+        ## concepts = self.dir.read_csv(
+        ##         Path("raw") / "lexirumah" / "cldf" / "concepts.csv")
+        ## if not "Concepticon_Gloss" in concepts[0]:
+        ##     concepts[0].append("Concepticon_Gloss")
+        ##     id2gloss = {c.id: c.gloss for c in
+        ##             self.concepticon.conceptsets.values()}
+        ##     for i, row in enumerate(concepts[1:]):
+        ##         concepts[i+1].append(id2gloss.get(row[-2], ""))
+        ##     with UnicodeWriter(self.raw_dir.joinpath("lexirumah", "cldf",
+        ##         "concepts.csv")) as writer:
+        ##         writer.writerows(concepts)
+        ##     args.log.info("updated lexirumah concepts")
+        ## else:
+        ##     args.log.info("lexirumah concepts are already updated")
 
         datasets = [pycldf.Dataset.from_metadata(
             self.raw_dir / ds["ID"] / "cldf/cldf-metadata.json") for ds in
@@ -135,10 +142,11 @@ class Dataset(BaseDataset):
                     Tag=concept["TAG"]
                     )
         args.log.info("added concepts")
+        
+        new_concepts = {}
 
-
-        for language in progressbar(wl.languages, desc="adding forms"):
-            if language.family in families:
+        for language in wl.languages:
+            if language.family in families and language.glottocode:
                 args.writer.add_language(
                         ID=language.id,
                         Name=language.name,
@@ -152,7 +160,7 @@ class Dataset(BaseDataset):
                         D[idx] = [
                                 language.id,
                                 form.id,
-                                form.concept.id,
+                                form.concept.id, 
                                 form.value,
                                 form.form,
                                 form.sounds,
@@ -172,9 +180,34 @@ class Dataset(BaseDataset):
                                     language.family,
                                     form.concept.id]
                             idx += 1
+                    elif form.concept:
+                        D[idx] = [
+                                language.id,
+                                form.id,
+                                form.concept.id,
+                                form.value,
+                                form.form,
+                                form.sounds,
+                                language.family,
+                                ""
+                                ]
+                        idx += 1
+                        if form.concept.name not in new_concepts:
+                            new_concepts[form.concept.name] = form.concept
+        # add remaining concepts
+        for concept in new_concepts.values():
+            args.writer.add_concept(
+                    ID=slug(concept.concepticon_gloss, lowercase=False),
+                    Name=concept.name,
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss,
+                    Tag=""
+                    )
+            concepts[concept.concepticon_gloss] = ""
+        args.log.info("added remaining concepts")
 
         wll = lingpy.Wordlist(D)
-        for idx in wll:
+        for idx in progressbar(wll, desc="adding forms"):
             args.writer.add_form_with_segments(
                     Local_ID=wll[idx, "formid"],
                     Parameter_ID=slug(wll[idx, "concept"], lowercase=False),
