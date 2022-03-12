@@ -2,6 +2,7 @@
 cldf/forms.csv
 cldf/.transcription-report.json
 output/p-matrix/*.tsv
+output/plots/*.pdf
 raw/abrahammonpa/
 raw/abvdoceanic/
 raw/allenbai

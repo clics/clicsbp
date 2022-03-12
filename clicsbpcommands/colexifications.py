@@ -27,6 +27,20 @@ def register(parser):
             help="Select automatic cognate detection method",
             default="sca"
             )
+    parser.add_argument(
+            "--steps",
+            help="define steps for the random walk",
+            default=10)
+
+    parser.add_argument(
+            "--community-method",
+            help="community method",
+            default="infomap")
+
+    parser.add_argument(
+            "--weight",
+            help="determine the weight to use",
+            default="language_weight")
 
     
 def get_colexifications(wordlist, family, concepts):
@@ -103,23 +117,18 @@ def get_colexifications(wordlist, family, concepts):
     return G
 
 
-def get_transition_matrix(G, steps=10, weight="weight"):
+def get_transition_matrix(G, steps=10, weight="weight", normalize=False):
     """
     Compute transition matrix following Jackson et al. 2019
     """
     # prune nodes excluding singletons
     nodes = []
     for node in G.nodes:
-        #if len(G[node]) >= 1:
-        nodes.append(node)
+        if len(G[node]) >= 1:
+            nodes.append(node)
     print("retained matrix with {0} nodes out of {1}".format(len(nodes), len(G)))
 
     a_matrix = [[0 for x in nodes] for y in nodes]
-
-    # define i == j as number of languages occurring here
-    if weight == "language_weight": # TODO: generalize later
-        for i, n in enumerate(nodes):
-            a_matrix[i][i] = G.nodes[n]["language_weight"]
         
     for nodeA, nodeB, data in G.edges(data=True):
         idxA, idxB = nodes.index(nodeA), nodes.index(nodeB)
@@ -130,11 +139,23 @@ def get_transition_matrix(G, steps=10, weight="weight"):
         d_matrix[i][i] = 1 / diagonal[i]
 
     p_matrix = np.matmul(d_matrix, a_matrix)
-    new_p_matrix = np.matmul(d_matrix, a_matrix)
-    for i in range(1, steps+1):
-        new_matrix = np.linalg.matrix_power(p_matrix, i)
-        new_matrix_m1 = np.linalg.matrix_power(p_matrix, i-1)
-        new_p_matrix = np.multiply(new_matrix, 1-new_matrix_m1) + new_p_matrix
+    # Note that the calculation with the recursive formulation is in fact not
+    # needed, as it yields the same results as if we take the sum of all
+    # different time steps
+    #new_p_matrix = np.matmul(d_matrix, a_matrix)
+    #if mode == "1":
+    #    for i in range(2, steps+1):
+    #        new_matrix = np.linalg.matrix_power(p_matrix, i)
+    #        new_matrix_m1 = 1-np.linalg.matrix_power(p_matrix, i-1)
+    #        new_p_matrix = np.multiply(new_matrix, new_matrix_m1) + new_p_matrix
+    #    new_p_matrix = new_p_matrix / steps
+    #else:
+    new_p_matrix = sum([np.linalg.matrix_power(p_matrix, i) for i in range(1,
+        steps+1)])
+
+    # we can normalize the matrix by dividing by the number of time steps
+    if normalize:
+        new_p_matrix = new_p_matrix / steps
 
     return new_p_matrix, nodes, a_matrix
     
@@ -231,7 +252,9 @@ def run(args):
 
         # get the transition matrix
         if len(G) > 1:
-            T, all_nodes, A = get_transition_matrix(G, steps=5, weight="language_weight")
+            T, all_nodes, A = get_transition_matrix(
+                    G, steps=args.steps,
+                    weight=args.weight)
             write_matrix(
                     CLICS.dir.joinpath("output", "p-matrix", "{0}-t.tsv".format(family)),
                     T, 
@@ -264,29 +287,36 @@ def run(args):
                             score = sum([new_matrix[i][j], new_matrix[j][i]])/2
                             if round(score, 2) > 0:
                                 DG.add_edge(nodeA, nodeB, **G[nodeA].get(nodeB, {}))
-                                DG[nodeA][nodeB]["tweight"] = score
-                if len(DG.nodes) > 5:
+                                DG[nodeA][nodeB]["tweight"] = round(score, 2)
+                SG = G.subgraph(current_concepts)
+                if len(DG.nodes) >= 5:
                     IG = networkx2igraph(DG)
                     clusters = {c: 0 for c in concepts[tag]}
-                    for i, nodes in enumerate(
-                            IG.community_infomap(edge_weights="tweight")):
+                    if args.community_method == "infomap":
+                        comms = IG.community_infomap(edge_weights="tweight")
+                    else:
+                        comms = IG.community_optimal_modularity(weights="tweight")
+                    for i, nodes in enumerate(comms):
                         for node in nodes:
                             clusters[IG.vs[node]["Name"]] = i+1
                     for concept in current_concepts:
-                        links = []
+                        links, links2 = [], []
                         if concept in DG:
                             for neighbor, data in DG[concept].items():
                                 links += ["{0}:{1:.2f}".format(neighbor, data["tweight"])]
+                            for neighbor, data in SG[concept].items():
+                                links2 += ["{0}:{1:.2f}".format(neighbor, data[args.weight])]
                         table += [[
                             concept,
                             family,
                             tag,
                             str(clusters[concept]),
-                            ";".join(links)]]
+                            ";".join(links),
+                            ";".join(links2)]]
                 else:
                     args.log.info("skipping family {0} since there are no data".format(family))
     with open(CLICS.dir / "output" / "colexifications.tsv", "w") as f:
-        f.write("CONCEPT\tFAMILY\tTAG\tCOMMUNITY\tLINKS\n")
+        f.write("CONCEPT\tFAMILY\tTAG\tCOMMUNITY\tLINKS\tCOLEXIFICATIONS\n")
         for row in sorted(table, key=lambda x: (x[1], x[2], x[3], x[0])):
             f.write("\t".join(row)+"\n")
 

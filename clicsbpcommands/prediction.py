@@ -14,6 +14,7 @@ from sklearn import svm, naive_bayes
 from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import accuracy_score, f1_score
+from sklearn.linear_model import LogisticRegression
 
 
 
@@ -119,6 +120,7 @@ def run(args):
             clf = svm.SVC(kernel="linear")
             clf = naive_bayes.GaussianNB()
             clf = RandomForestRegressor()
+            clf = LinearRegression(random_state=0, multiclass="multinomial")
             clf.fit(XS, Y)
             r = permutation_importance(clf, XS, Y, n_repeats=100, random_state=0)
             #r = clf.feature_importances_
