@@ -30,7 +30,8 @@ def register(parser):
     parser.add_argument(
             "--steps",
             help="define steps for the random walk",
-            default=10)
+            default=10,
+            type=int)
 
     parser.add_argument(
             "--community-method",
@@ -41,6 +42,12 @@ def register(parser):
             "--weight",
             help="determine the weight to use",
             default="language_weight")
+
+    parser.add_argument(
+            "--normalize",
+            help="normalize weights",
+            action="store_true"
+            )
 
     
 def get_colexifications(wordlist, family, concepts):
@@ -254,7 +261,8 @@ def run(args):
         if len(G) > 1:
             T, all_nodes, A = get_transition_matrix(
                     G, steps=args.steps,
-                    weight=args.weight)
+                    weight=args.weight,
+                    normalize=args.normalize)
             write_matrix(
                     CLICS.dir.joinpath("output", "p-matrix", "{0}-t.tsv".format(family)),
                     T, 
