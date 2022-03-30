@@ -71,13 +71,24 @@ def run(args):
                         #alpha=2*data_["weight"] if data_["weight"] < 1 else 1, 
                         edgelist=[(nA, nB)],
                         edge_color="lightgray")
-            for i, (com, nodes) in enumerate(coms.items()):
+            all_coms = sorted([c for c in coms if c != "0"])
+            for i, com in enumerate(all_coms):
+                nodes = coms[com]
                 color = colors[i] if i < len(colors) else "black"
                 nx.draw_networkx_nodes(G, pos, 
                         node_size=30, 
                         alpha=0.5,
                         nodelist=nodes,
                         node_color=color)
+            if "0" in coms:
+                nx.draw_networkx_nodes(
+                        G,
+                        pos,
+                        node_size=20,
+                        alpha=0.25,
+                        nodelist=coms["0"],
+                        node_color="white"
+                        )
 
             #nx.draw_networkx_nodes(G, pos, node_size=10)
             #nx.draw_networkx_edges(G, pos, width=2)

@@ -14,6 +14,7 @@ from sklearn import svm, naive_bayes
 from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import accuracy_score, f1_score
+from sklearn.linear_model import LogisticRegression
 
 
 
@@ -109,6 +110,7 @@ def run(args):
                             new_row += [row[j]]
                     XSN += [new_row]
                 clf = svm.SVC(kernel="linear")
+                clf = LogisticRegression(random_state=0, multi_class="multinomial")
                 clf.fit(XSN, Y)
                 y_pred = []
                 for row in XSN:
@@ -119,22 +121,23 @@ def run(args):
             clf = svm.SVC(kernel="linear")
             clf = naive_bayes.GaussianNB()
             clf = RandomForestRegressor()
+            clf = LogisticRegression(random_state=0, multi_class="multinomial")
             clf.fit(XS, Y)
             r = permutation_importance(clf, XS, Y, n_repeats=100, random_state=0)
             #r = clf.feature_importances_
             print("# {0} ({1})".format(family, len(Y)))
             ff = features + features
             with Table("feature", "importance", "std") as table:
-                #for a, b in tabs:
-                #    table.append([a, b, 0])
-                for i in range(len(features)):
-                    table.append(
-                            [
-                                features[i], 
-                                r.importances_mean[i], 
-                                0, #r.importances_std[i]
-                                ]
-                            )
+                for a, b in tabs:
+                    table.append([a, b, 0])
+                #for i in range(len(features)):
+                #    table.append(
+                #            [
+                #                features[i], 
+                #                r.importances_mean[i], 
+                #                0, #r.importances_std[i]
+                #                ]
+                #            )
         else:
             print("# Skipping family {0}".format(family))
 
