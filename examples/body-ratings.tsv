@@ -1,0 +1,109 @@
+ID	CONCEPT_1	CONCEPT_2	FUNCTION	SHAPE	PERCEPT
+1	heel	ankle	2.75	2.4	3.25
+2	elbow	arm	3	2	4
+3	buttocks	back	1.75	1.6	2
+4	jaw	beard	2	2.2	3.25
+5	buttocks	belly	2	2.4	1.5
+6	stomach	belly	3.75	3.2	4.75
+7	womb	belly	2.25	3.6	3.75
+8	arm	bone	2.75	3.6	3.25
+9	leg	bone	4	4.2	3.75
+10	rib	bone	4	4.2	4
+11	belly	breast	1.5	2.2	2
+12	anus	buttocks	2	2.4	3.25
+13	cheek	buttocks	2	3.2	3.25
+14	shin	calf of leg	3.75	3.4	3.5
+15	chin	cheek	2.5	2.4	3.25
+16	jaw	cheek	2.75	2.8	3.5
+17	breast	chest	3.25	3.4	4.5
+18	rib	chest	3.25	2.8	4
+19	beard	chin	2	2.4	4
+20	eyebrow	eye	2	1.8	3.75
+21	eyelash	eye	1.75	1.2	4
+22	kidney	eye	1.75	2.6	1.5
+23	eyebrow	eyelash	2.75	3	3.5
+24	eyelid	eyelash	2.75	1.6	4
+25	eyebrow	eyelid	2.75	2	4
+26	eye	face	1.75	2	3.25
+27	forehead	face	3.5	2.8	4.25
+28	toe	finger	4.25	4.4	2.75
+29	finger	fingernail	2	1.8	3.75
+30	toenail	fingernail	4.75	5	3.75
+31	ankle	foot	2.75	1.6	4
+32	heel	foot	3.25	2	3.75
+33	shin	foot	2.25	2	3
+34	beard	hair	4.5	4.4	3.5
+35	arm	hand	3.25	1.4	3.25
+36	forehead	head	4	3	4.75
+37	hair	head	2	1.4	3.75
+38	kidney	heart	2	3.2	2
+39	ankle	hip	3	2	1.5
+40	buttocks	hip	2.25	1.6	3.25
+41	stomach	intestines	2.5	2.4	3.75
+42	chin	jaw	4	3.8	4.5
+43	armpit	knee	2.5	3.4	2.25
+44	back	knee	1.5	1.2	1.25
+45	elbow	knee	3.75	4.6	3.25
+46	foot	leg	3.5	1.8	3.25
+47	shin	leg	3.75	3.8	4.25
+48	beard	lip	1.75	1.2	2.75
+49	tongue	lip	2	2.2	2.5
+50	belly	liver	2	2	2.75
+51	heart	liver	2	2.6	1.75
+52	intestines	liver	2.75	1.4	3
+53	stomach	liver	2.5	2.8	3
+54	tongue	liver	1.25	2.6	1.75
+55	arm	lower arm	3.75	4.2	4.25
+56	elbow	lower arm	2.5	1.4	4
+57	hand	lower arm	3.5	2.2	4
+58	calf of leg	lower leg	4	4	4.5
+59	foot	lower leg	2.5	1.8	3.25
+60	leg	lower leg	4.25	4.2	4.5
+61	shin	lower leg	3.75	4	3.75
+62	upper leg	lower leg	4	4.4	4.25
+63	heart	lung	2.25	2	2.75
+64	belly	mouth	1.5	1.4	2.25
+65	lip	mouth	3.25	2.6	4.5
+66	tongue	mouth	2.75	1.6	4.25
+67	tooth	mouth	2.25	1.6	4.25
+68	belly	navel	2.5	2	4
+69	lip	navel	1.5	2.2	1.5
+70	nape of neck	neck	4.5	3.8	4.25
+71	breast	nipple	2.5	2.2	4.25
+72	bone	nose	1.5	2.2	1.5
+73	tooth	nose	1.25	2.4	1.5
+74	hand	palm of hand	4.75	4.4	4.75
+75	testicles	penis	2.5	1.6	2.75
+76	beard	pubic hair	3.75	4.2	2.75
+77	hair	pubic hair	4.5	4.4	3.25
+78	arm	shoulder	3.25	1.6	3.75
+79	armpit	shoulder	2.5	2.4	3
+80	shoulder	shoulderblade	4	3.4	4.25
+81	back	skin	2.25	1.8	2.5
+82	body	skin	2.75	3.2	3.5
+83	forehead	skull	3.25	2.6	3.25
+84	head	skull	4	4.6	4.75
+85	back	spine	3	2.8	4.25
+86	bone	spine	4	3.8	3.75
+87	vein	spine	1.5	2.8	1.5
+88	mouth	throat	2.5	1.8	3.75
+89	neck	throat	3.25	4	4
+90	toe	toenail	2.5	2	4
+91	arm	upper arm	4.5	4.2	4.5
+92	hand	upper arm	2.5	1.6	3
+93	lower arm	upper arm	4	4.4	4.25
+94	buttocks	upper leg	1.5	1.6	2.5
+95	foot	upper leg	2.5	1.6	2.25
+96	leg	upper leg	4	4	4.25
+97	penis	vagina	2	1.6	2.25
+98	tendon	vein	1.75	4.4	3.5
+99	lip	vulva	1.75	4.2	2.75
+100	penis	vulva	3	1.4	2
+101	vagina	vulva	4.25	3.2	4.25
+102	breast	womb	1.75	2.2	2.25
+103	chest	womb	1.75	1.8	2
+104	stomach	womb	2	3.8	3.5
+105	ankle	wrist	4.75	3.6	2.75
+106	arm	wrist	2.75	1.8	3.25
+107	elbow	wrist	3.5	3.2	2.25
+108	hand	wrist	2.75	1.8	4.25
