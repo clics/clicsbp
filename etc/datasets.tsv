@@ -59,11 +59,8 @@ zhoubizic	Zhou	lexibank	1	zhoubizic
 othanieljen	Othaniel	lexibank	1	othanieljen
 lamanisoic	Lama	lexibank	1	lamanisoic
 luangthongkumkaren	Luangthongkum	lexibank	1	luangthongkumkaren
-diacl	Carling	lexibank	0	diacl
 huntergatherer	HunterGathererLanguageDatabase	lexibank	0	huntergatherer
 ids	IDS	intercontinental-dictionary-series	0	ids
 satterthwaitetb	Satterthwaite	lexibank	0	satterthwaitetb
-tls	TLS	lexibank	0	tls
+tls	TLS	lexibank	1	tls
 logos	Logos	lexibank	0	logos
-eppsnorthgermanic	Epps	lexibank	0	eppsnorthgermanic
-gravinachadic	Gravina	lexibank	0	gravinachadic
