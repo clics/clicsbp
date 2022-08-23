@@ -1,6 +1,6 @@
 <a name="ds-cldfmetadatajson"> </a>
 
-# Wordlist Language Islands
+# Body Colexifications
 
 **CLDF Metadata**: [cldf-metadata.json](./cldf-metadata.json)
 

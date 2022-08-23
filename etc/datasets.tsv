@@ -1,50 +1,66 @@
-ID	Name	Organisation	Repository
-abrahammonpa	Abraham	lexibank	abrahammonpa
-allenbai	Allen Bai	lexibank	allenbai
-bantubvd	bantu	lexibank	bantubvd
-beidasinitic	BeidaSinitic	lexibank	beidasinitic
-birchallchapacuran	birchall	lexibank	birchallchapacuran
-bodtkhobwa	bodt	lexibank	bodtkhobwa
-bowernpny	Bowern PNY	lexibank	bowernpny
-castrosui	castro sui	lexibank	castrosui
-castroyi	castro yi	lexibank	castroyi
-castrozhuang	castro zhuang	lexibank	castrozhuang
-chaconarawakan	chacon	lexibank	chaconarawakan
-chenhmongmien	ChenHmongMien	lexibank	chenhmongmien
-chindialectsurvey	chin dialect	lexibank	chindialectsurvey
-clarkkimmun	clark	lexibank	clarkkimmun
-constenlachibchan	constenla	lexibank	constenlachibchan
-deepadungpalaung	deepadung	lexibank	deepadungpalaung
-dunnaslian	dunn	lexibank	dunnaslian
-duonglachi	duong	lexibank	duonglachi
-gerarditupi	gerarditupi	lexibank	gerarditupi
-hantganbangime	HantganBangime	lexibank	hantganbangime
-hsiuhmongmien	hsiu	lexibank	hsiuhmongmien
-hubercolumbian	huber and reed	lexibank	hubercolumbian
-johanssonsoundsymbolic	johannson	lexibank	johanssonsoundsymbolic
-kraftchadic	KraftChadic	lexibank	kraftchadic
-lieberherrkhobwa	lieberherr	lexibank	lieberherrkhobwa
-mannburmish	mann	lexibank	mannburmish
-marrisonnaga	marrison	lexibank	marrisonnaga
-mitterhoferbena	mitterhofer	lexibank	mitterhoferbena
-nagarajakhasian	nagaraja	lexibank	nagarajakhasian
-northeuralex	NorthEuralex	lexibank	northeuralex
-peirosaustroasiatic	peiro	lexibank	peirosaustroasiatic
-polyglottaafricana	polyglottaafricana	lexibank	polyglottaafricana
-savelyevturkic	savelyev	lexibank	savelyevturkic
-sidwellbahnaric	sidwell	lexibank	sidwellbahnaric
-suntb	sun	lexibank	suntb
-utoaztecan	utoaztecan	lexibank	utoaztecan
-walworthpolynesian	walworth	lexibank	walworthpolynesian
-wold	wold	lexibank	wold
-yanglalo	yang	lexibank	yanglalo
-yangyi	yang	lexibank	yangyi
-tuled	TULED	tupian-language-resources	tuled
-abvdoceanic	abvd	lexibank	abvdoceanic
-syrjaenenuralic	uralex	lexibank	syrjaenenuralic
-tryonsolomon	Solomon	lexibank	tryonsolomon
-wangbai	Bau	lexibank	wangbai
-sohartmanchin	Chin	lexibank	sohartmannchin
-naganorgyalrongic	Rgyalrong	lexibank	naganorgyalrongic
-halenepal	Hale	lexibank	halenepal
-listsamplesize	SampleSize	sequencecomparison	listsamplesize
+ID	Name	Organisation	CLTS	Repository
+abrahammonpa	Abraham	lexibank	1	abrahammonpa
+allenbai	Allen Bai	lexibank	1	allenbai
+bantubvd	bantu	lexibank	1	bantubvd
+beidasinitic	BeidaSinitic	lexibank	1	beidasinitic
+bodtkhobwa	bodt	lexibank	1	bodtkhobwa
+bowernpny	Bowern PNY	lexibank	1	bowernpny
+castrosui	castro sui	lexibank	1	castrosui
+castroyi	castro yi	lexibank	1	castroyi
+castrozhuang	castro zhuang	lexibank	1	castrozhuang
+chaconarawakan	chacon	lexibank	1	chaconarawakan
+chenhmongmien	ChenHmongMien	lexibank	1	chenhmongmien
+chindialectsurvey	chin dialect	lexibank	1	chindialectsurvey
+clarkkimmun	clark	lexibank	1	clarkkimmun
+deepadungpalaung	deepadung	lexibank	1	deepadungpalaung
+dunnaslian	dunn	lexibank	1	dunnaslian
+duonglachi	duong	lexibank	1	duonglachi
+gerarditupi	gerarditupi	lexibank	1	gerarditupi
+hantganbangime	HantganBangime	lexibank	1	hantganbangime
+hsiuhmongmien	hsiu	lexibank	1	hsiuhmongmien
+hubercolumbian	huber and reed	lexibank	1	hubercolumbian
+johanssonsoundsymbolic	johannson	lexibank	1	johanssonsoundsymbolic
+kraftchadic	KraftChadic	lexibank	1	kraftchadic
+lieberherrkhobwa	lieberherr	lexibank	1	lieberherrkhobwa
+mannburmish	mann	lexibank	1	mannburmish
+marrisonnaga	marrison	lexibank	1	marrisonnaga
+mitterhoferbena	mitterhofer	lexibank	1	mitterhoferbena
+nagarajakhasian	nagaraja	lexibank	1	nagarajakhasian
+northeuralex	NorthEuralex	lexibank	1	northeuralex
+peirosaustroasiatic	peiro	lexibank	1	peirosaustroasiatic
+polyglottaafricana	polyglottaafricana	lexibank	1	polyglottaafricana
+savelyevturkic	savelyev	lexibank	1	savelyevturkic
+sidwellbahnaric	sidwell	lexibank	1	sidwellbahnaric
+suntb	sun	lexibank	1	suntb
+utoaztecan	utoaztecan	lexibank	1	utoaztecan
+walworthpolynesian	walworth	lexibank	1	walworthpolynesian
+wold	wold	lexibank	1	wold
+yanglalo	yang	lexibank	1	yanglalo
+yangyi	yang	lexibank	1	yangyi
+tuled	TULED	tupian-language-resources	1	tuled
+abvdoceanic	abvd	lexibank	1	abvdoceanic
+syrjaenenuralic	uralex	lexibank	1	syrjaenenuralic
+tryonsolomon	Solomon	lexibank	1	tryonsolomon
+wangbai	Bau	lexibank	1	wangbai
+sohartmanchin	Chin	lexibank	1	sohartmannchin
+naganorgyalrongic	Rgyalrong	lexibank	1	naganorgyalrongic
+halenepal	Hale	lexibank	1	halenepal
+listsamplesize	SampleSize	sequencecomparison	1	listsamplesize
+lindseyende	Lindsey	intercontinental-dictionary-series	1	lindseyende
+robinsonap	Robinson	lexibank	1	robinsonap
+sagartst	Sagart	lexibank	1	sagartst
+simsrma	Sims	lexibank	1	simsrma
+transnewguineaorg	TransNewGuinea	lexibank	1	transnewguineaorg
+visserkalamang	Visser	intercontinental-dictionary-series	1	visserkalamang
+yuchinese	Yu	intercontinental-dictionary-series	1	yuchinese
+zgraggenmadang	Z'graggen	lexibank	1	zgraggenmadang
+zhivlovobugrian	Zhivlov	sequencecomparison	1	zhivlovobugrian
+zhoubizic	Zhou	lexibank	1	zhoubizic
+othanieljen	Othaniel	lexibank	1	othanieljen
+lamanisoic	Lama	lexibank	1	lamanisoic
+luangthongkumkaren	Luangthongkum	lexibank	1	luangthongkumkaren
+huntergatherer	HunterGathererLanguageDatabase	lexibank	0	huntergatherer
+ids	IDS	intercontinental-dictionary-series	0	ids
+satterthwaitetb	Satterthwaite	lexibank	0	satterthwaitetb
+tls	TLS	lexibank	1	tls
+logos	Logos	lexibank	0	logos
