@@ -69,8 +69,7 @@ class Dataset(BaseDataset):
 
         datasets = [pycldf.Dataset.from_metadata(
             self.raw_dir / ds["ID"] / "cldf/cldf-metadata.json") for ds in
-            self.etc_dir.read_csv("datasets.tsv", delimiter="\t", dicts=True) \
-                    ]
+            self.etc_dir.read_csv("datasets.tsv", delimiter="\t", dicts=True) if ds["CLTS"] == "1"]
         args.log.info("loaded datasets")
         wl = Wordlist(datasets, ts=args.clts.api.bipa)
 
