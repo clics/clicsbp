@@ -1,5 +1,5 @@
 """
-Calculate colexification networks for individual families.
+Calculate colexification network for all data.
 """
 from cltoolkit import Wordlist
 from pycldf import Dataset
