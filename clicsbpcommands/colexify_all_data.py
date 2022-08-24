@@ -138,8 +138,9 @@ def run(args):
             f.write("NodeA\tNodeB\tFamilyWeight\tLanguageWeight\tCommunityA\tCommunityB\n")
             for row in table:
                 f.write("\t".join([str(x) for x in row])+"\n")
-
-
+        with open(CLICS.dir / "output" / "graph.gml", "w") as f:
+            for line in nx.generate_gml(G):
+                f.write(html.unescape(line)+"\n")
 
 
     
