@@ -66,57 +66,37 @@ class Dataset(BaseDataset):
 
 
     def cmd_makecldf(self, args):
-        
-        ## # adjust metadata and concept list in lexirumah
-        ## with open(
-        ##         self.raw_dir.joinpath(
-        ##             "lexirumah", "cldf",
-        ##             "cldf-metadata.json")) as f:
-        ##     md = json.load(f)
-        ##     md["rdf:ID"] = "lexirumah"
-        ## postedit = True
-        ## for i, t in enumerate(md["tables"]):
-        ##     if "ParameterTable" in t["dc:conformsTo"]:
-        ##         for col in md["tables"][i]["tableSchema"]["columns"]:
-        ##             if col["name"] == "Concepticon_Gloss":
-        ##                 postedit = False
-        ##         if postedit:
-        ##             md["tables"][i]["tableSchema"]["columns"].append(
-        ##                     {
-        ##                         "datatype": "string",
-        ##                         "name": "Concepticon_Gloss"
-        ##                         })
-        ## if postedit:
-        ##     with open(
-        ##             self.raw_dir.joinpath(
-        ##                 "lexirumah", "cldf",
-        ##                 "cldf-metadata.json"), 
-        ##             "w") as f:
-        ##         f.write(json.dumps(md, indent=4))
-        ##     args.log.info("updated lexirumah metadata")
-        ## else:
-        ##     args.log.info("lexirumah metadata is already updated")
-        ## concepts = self.dir.read_csv(
-        ##         Path("raw") / "lexirumah" / "cldf" / "concepts.csv")
-        ## if not "Concepticon_Gloss" in concepts[0]:
-        ##     concepts[0].append("Concepticon_Gloss")
-        ##     id2gloss = {c.id: c.gloss for c in
-        ##             self.concepticon.conceptsets.values()}
-        ##     for i, row in enumerate(concepts[1:]):
-        ##         concepts[i+1].append(id2gloss.get(row[-2], ""))
-        ##     with UnicodeWriter(self.raw_dir.joinpath("lexirumah", "cldf",
-        ##         "concepts.csv")) as writer:
-        ##         writer.writerows(concepts)
-        ##     args.log.info("updated lexirumah concepts")
-        ## else:
-        ##     args.log.info("lexirumah concepts are already updated")
 
         datasets = [pycldf.Dataset.from_metadata(
             self.raw_dir / ds["ID"] / "cldf/cldf-metadata.json") for ds in
-            self.etc_dir.read_csv("datasets.tsv", delimiter="\t", dicts=True) \
-                    ]
+            self.etc_dir.read_csv("datasets.tsv", delimiter="\t", dicts=True) if ds["CLTS"] == "1"]
         args.log.info("loaded datasets")
         wl = Wordlist(datasets, ts=args.clts.api.bipa)
+
+        # sort the concepts by number of unique glottocodes
+        all_concepts = sorted(
+                wl.concepts,
+                key=lambda x: len(set([form.language.glottocode for form in
+                    x.forms_with_sounds])),
+                reverse=True)
+        selected_concepts = [concept.id for concept in all_concepts[:1000]]
+
+        # get valid languages
+        valid_languages = []
+        visited = set()
+        for language in sorted(
+                wl.languages,
+                key=lambda x: len([c for c in x.concepts if c.id in
+                    selected_concepts]),
+                reverse=True):
+            if language.glottocode in visited:
+                pass
+            else:
+                visited.add(language.glottocode)
+                valid_languages.append(language.id)
+
+        args.log.info("found {0} valid languages".format(len(valid_languages)))
+
         D = {
                 0: [
                     "doculect", "formid", "concept", "value", "form", "tokens", 
@@ -134,19 +114,21 @@ class Dataset(BaseDataset):
                 unmerge[gloss].add(concept["CONCEPTICON_GLOSS"])
                 
         for concept in self.concepts:
-            args.writer.add_concept(
-                    ID=slug(concept["CONCEPTICON_GLOSS"], lowercase=False),
-                    Name=concept["ENGLISH"],
-                    Concepticon_ID=concept["CONCEPTICON_ID"],
-                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
-                    Tag=concept["TAG"]
-                    )
+            if concept["CONCEPTICON_GLOSS"] in selected_concepts:
+                args.writer.add_concept(
+                        ID=slug(concept["CONCEPTICON_GLOSS"], lowercase=False),
+                        Name=concept["ENGLISH"],
+                        Concepticon_ID=concept["CONCEPTICON_ID"],
+                        Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
+                        Tag=concept["TAG"]
+                        )
         args.log.info("added concepts")
         
         new_concepts = {}
 
         for language in wl.languages:
-            if language.family in families and language.glottocode:
+            if (language.family in families and language.glottocode and
+                    language.id in valid_languages):
                 args.writer.add_language(
                         ID=language.id,
                         Name=language.name,
@@ -156,7 +138,9 @@ class Dataset(BaseDataset):
                         Glottocode=language.glottocode)
                 args.log.info("Processing {0}".format(language.id))
                 for form in language.forms_with_sounds:
-                    if form.concept and form.concept.concepticon_gloss in concepts:
+                    if (form.concept and form.concept.concepticon_gloss in
+                            concepts and form.concept.concepticon_gloss in
+                            selected_concepts):
                         D[idx] = [
                                 language.id,
                                 form.id,
@@ -168,19 +152,22 @@ class Dataset(BaseDataset):
                                 ""
                                 ]
                         idx += 1
-                    elif form.concept and form.concept.concepticon_gloss in unmerge:
+                    elif (form.concept and form.concept.concepticon_gloss in
+                            unmerge):
                         for gloss in unmerge[form.concept.concepticon_gloss]:
-                            D[idx] = [
-                                    language.id,
-                                    form.id,
-                                    gloss,
-                                    form.value,
-                                    form.form,
-                                    form.sounds,
-                                    language.family,
-                                    form.concept.id]
-                            idx += 1
-                    elif form.concept:
+                            if gloss in selected_concepts:
+                                D[idx] = [
+                                        language.id,
+                                        form.id,
+                                        gloss,
+                                        form.value,
+                                        form.form,
+                                        form.sounds,
+                                        language.family,
+                                        form.concept.id]
+                                idx += 1
+                    elif (form.concept and form.concept.concepticon_gloss in
+                            selected_concepts):
                         D[idx] = [
                                 language.id,
                                 form.id,
@@ -194,6 +181,7 @@ class Dataset(BaseDataset):
                         idx += 1
                         if form.concept.name not in new_concepts:
                             new_concepts[form.concept.name] = form.concept
+
         # add remaining concepts
         for concept in new_concepts.values():
             args.writer.add_concept(
@@ -222,10 +210,24 @@ class Dataset(BaseDataset):
         coverage = collections.defaultdict(dict)
         perfamily = collections.defaultdict(lambda :
                 collections.defaultdict(list))
+        poweran = {concept: {language: 0 for language in wll.cols} for concept
+                in wll.rows}
         for idx, concept, language, family in wll.iter_rows(
                 "concept", "doculect", "family"):
             coverage[concept][language] = family
-            perfamily[concept][family] += [language] 
+            perfamily[concept][family] += [language]
+            poweran[concept][language] = 1
+
+        with open(self.dir / "output" / "power_analysis.tsv", "w") as f:
+            for concept in wll.rows:
+                for language in wll.cols:
+                    f.write("{0}\t{1}\t{2}\t{3}\t{4}\n".format(
+                        concept,
+                        concepts.get(concept, ""),
+                        wl.languages[language].family,
+                        language,
+                        poweran[concept][language]))
+
         with open(self.dir / "output" / "coverage.tsv", "w") as f:
             f.write("Concept\tTag\tLanguages\tFamilies\n")
             for k, vals in coverage.items():
