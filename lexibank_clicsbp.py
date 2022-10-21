@@ -1,27 +1,16 @@
 import pathlib
-import zipfile
-import itertools
 import collections
 
 import pycldf
-from cldfbench import CLDFSpec
 from pylexibank import Dataset as BaseDataset
 from cltoolkit import Wordlist
-from cltoolkit.features import FEATURES
-from cldfzenodo import oai_lexibank
-from pyclts import CLTS
-from git import Repo, GitCommandError
-from csvw.dsv import reader
+from git import Repo
 import lingpy
 from clldutils.misc import slug
-from tabulate import tabulate
-from pathlib import Path
-
 
 from pylexibank import Concept, Lexeme, progressbar
 import attr
-from csvw.dsv import UnicodeWriter
-import json
+
 
 
 @attr.s
@@ -49,27 +38,17 @@ class Dataset(BaseDataset):
                 args.log.info("skipping {0}".format(dataset["ID"]))
             else:
                 args.log.info("cloning {0} to raw/{0}".format(dataset["ID"]))
-                repo = Repo.clone_from(
-                        "https://github.com/"+
-                        dataset["Organisation"]+"/"+
-                        dataset["Repository"]+'.git',
-                        self.raw_dir / dataset["ID"])
+                Repo.clone_from(
+                 "https://github.com/"+
+                 dataset["Organisation"]+"/"+
+                 dataset["Repository"]+'.git',
+                 self.raw_dir / dataset["ID"])
         
-        if self.raw_dir.joinpath("norare-data").exists():
-            pass
-        else:
-            args.log.info("downloading norare data")
-            repo = Repo.clone_from(
-                    "https://github.com/concepticon/norare-data.git",
-                    self.raw_dir / "norare-data")
-
-
-
     def cmd_makecldf(self, args):
 
         datasets = [pycldf.Dataset.from_metadata(
             self.raw_dir / ds["ID"] / "cldf/cldf-metadata.json") for ds in
-            self.etc_dir.read_csv("datasets.tsv", delimiter="\t", dicts=True) if ds["CLTS"] == "1"]
+            self.etc_dir.read_csv("datasets.tsv", delimiter="\t", dicts=True)]
         args.log.info("loaded datasets")
         wl = Wordlist(datasets, ts=args.clts.api.bipa)
 
@@ -92,8 +71,9 @@ class Dataset(BaseDataset):
             if language.glottocode in visited:
                 pass
             else:
-                visited.add(language.glottocode)
-                valid_languages.append(language.id)
+                if language.latitude:
+                    visited.add(language.glottocode)
+                    valid_languages.append(language.id)
 
         args.log.info("found {0} valid languages".format(len(valid_languages)))
 
@@ -104,8 +84,8 @@ class Dataset(BaseDataset):
                 }
         idx = 1
         
-        families = [k["Family"] for k in self.etc_dir.read_csv("families.tsv",
-            delimiter="\t", dicts=True)]
+        families = {k["Family"]: k["Glottocode"] for k in self.etc_dir.read_csv("families.tsv",
+            delimiter="\t", dicts=True)}
         concepts = {concept["CONCEPTICON_GLOSS"]: concept["TAG"] for concept in
                 self.concepts}
         unmerge = collections.defaultdict(set)
