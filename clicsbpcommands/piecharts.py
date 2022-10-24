@@ -32,8 +32,13 @@ def run(args):
     rels = {}
     for row in relations:
         # change choice() to row["Relation"] !
-        rels[row["NodeA"], row["NodeB"]] = choice(["1", "2", "3"])
-        rels[row["NodeB"], row["NodeA"]] = rels[row["NodeA"], row["NodeB"]]
+        if row["NodeA"] != row["NodeB"]:
+            rels[row["NodeA"], row["NodeB"]] = (
+                    int(row["Adjacency"]),
+                    int(row["Shape"]),
+                    int(row["Function"])
+                    )
+            rels[row["NodeB"], row["NodeA"]] = rels[row["NodeA"], row["NodeB"]]
 
 
     data = defaultdict(lambda : defaultdict(list))
@@ -65,17 +70,20 @@ def run(args):
                     weight = float(weight)
                     if not conB in G.nodes:
                         G.add_node(con, community=com)
-                    G.add_edge(con, conB, weight=weight)
+                    if not con == conB:
+                        G.add_edge(con, conB, weight=weight)
         # get relations
-        relidx = {"1": 0, "2": 1, "3": 2}
         this_pie = [0, 0, 0]
         for nodeA, nodeB in G.edges:
             try:
-                this_pie[relidx[rels[nodeA, nodeB]]] += 1
+                this_pie[0] += rels[nodeA, nodeB][0]
+                this_pie[1] += rels[nodeA, nodeB][1]
+                this_pie[2] += rels[nodeA, nodeB][2]
             except:
                 print(fam, nodeA, nodeB)
         pies[fam] = this_pie
-        plt.pie(this_pie, colors=colors)
+        plt.pie(this_pie, colors=colors, labels=["Adjacency", "Shape", "Function"])
+        plt.title("Family {0} / {1} edges".format(fam, len(G.edges)))
         plt.savefig(
                 clicsbp.dir.joinpath(
                     "output", 
