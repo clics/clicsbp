@@ -11,7 +11,7 @@
         {
             "rdf:about": "https://github.com/clics/clicsbp",
             "rdf:type": "prov:Entity",
-            "dc:created": "db0ada1",
+            "dc:created": "51b7eb2",
             "dc:title": "Repository"
         },
         {
@@ -490,7 +490,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 473278,
+            "dc:extent": 542686,
             "tableSchema": {
                 "columns": [
                     {
@@ -597,7 +597,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 1116,
+            "dc:extent": 1238,
             "tableSchema": {
                 "columns": [
                     {

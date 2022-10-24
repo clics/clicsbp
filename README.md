@@ -19,15 +19,15 @@ This dataset is licensed under a CC-BY-4.0 license
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 1,116
+- **Varieties:** 1,238
 - **Concepts:** 999
-- **Lexemes:** 473,278
+- **Lexemes:** 542,686
 - **Sources:** 0
-- **Synonymy:** 1.12
+- **Synonymy:** 1.13
 - **Invalid lexemes:** 0
-- **Tokens:** 2,648,527
-- **Segments:** 1,268 (0 BIPA errors, 0 CLTS sound class errors, 1260 CLTS modified)
-- **Inventory size (avg):** 42.20
+- **Tokens:** 3,048,597
+- **Segments:** 1,338 (0 BIPA errors, 0 CLTS sound class errors, 1330 CLTS modified)
+- **Inventory size (avg):** 42.33
 
 ## Possible Improvements:
 
@@ -35,7 +35,7 @@ This dataset is licensed under a CC-BY-4.0 license
   - Rawngtu Weilong [wela1234](http://glottolog.org/resource/languoid/id/wela1234)
 
 
-- Entries missing sources: 473278/473278 (100.00%)
+- Entries missing sources: 542686/542686 (100.00%)
 
 ## CLDF Datasets
 
