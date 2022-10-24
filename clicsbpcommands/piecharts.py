@@ -49,9 +49,9 @@ def run(args):
             rels[row["NodeB"], row["NodeA"]] = rels[row["NodeA"], row["NodeB"]]
 
     
-    props["Adjacency"] = props["Adjacency"] / sum(props.values())
-    props["Shape"] = props["Shape"] / sum(props.values())
-    props["Function"] = props["Function"] / sum(props.values())
+    #props["Adjacency"] = props["Adjacency"] / sum(props.values())
+    #props["Shape"] = props["Shape"] / sum(props.values())
+    #props["Function"] = props["Function"] / sum(props.values())
 
     data = defaultdict(lambda : defaultdict(list))
     for row in colexifications:
@@ -67,7 +67,6 @@ def run(args):
         "#1f78b4",
         "#b2df8a"]
     pies = {}
-    graphs = {}
     for fam in data:
         plt.clf()
         args.log.info("loading {0}".format(fam))
@@ -95,9 +94,9 @@ def run(args):
             except:
                 print(fam, nodeA, nodeB)
         prop_pie = [
-                this_pie[0] * props["Adjacency"],
-                this_pie[1] * props["Shape"],
-                this_pie[2] * props["Function"]
+                this_pie[0] / props["Adjacency"],
+                this_pie[1] / props["Shape"],
+                this_pie[2] / props["Function"]
                 ]
 
         pies[fam] = (this_pie, prop_pie, len(G), len(G.edges))
@@ -113,6 +112,7 @@ def run(args):
                     "plots",
                     "pie-"+fam+".png")
                 )
+        fig.close()
         plt.clf()
     with open(clicsbp.dir.joinpath(
         "output",
