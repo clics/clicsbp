@@ -142,10 +142,14 @@ def run(args):
                                 links += ["{0}:{1:.2f}".format(neighbor, data["tweight"])]
                             for neighbor, data in SG[concept].items():
                                 links2 += ["{0}:{1:.2f}".format(neighbor, data[args.weight])]
+                                
+                                if G.nodes[concept][args.weight] > G.nodes[neighbor][args.weight]:
+                                    c_max = G.nodes[neighbor][args.weight]
+                                else:
+                                    c_max = G.nodes[concept][args.weight]
                                 links3 += ["{0}:{1:.2f}".format(
                                     neighbor,
-                                    (data[args.weight]**2)/(
-                                        G.nodes[concept][args.weight]+G.nodes[neighbor][args.weight]-data[args.weight]))]
+                                    (data[args.weight]**2)/(c_max**2))]
                                     
                         table += [[
                             concept,

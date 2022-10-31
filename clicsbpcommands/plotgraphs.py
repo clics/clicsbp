@@ -67,7 +67,7 @@ def run(args):
                         G.add_edge(con, conB, weight=weight)
             pos = nx.nx_agraph.graphviz_layout(G)
             for nA, nB, data_ in G.edges(data=True):
-                nx.draw_networkx_edges(G, pos, width=2*data_["weight"],
+                nx.draw_networkx_edges(G, pos, width=5*data_["weight"],
                         #alpha=2*data_["weight"] if data_["weight"] < 1 else 1, 
                         edgelist=[(nA, nB)],
                         edge_color="lightgray")
