@@ -18,6 +18,8 @@ cldfbench lexibank.makecldf --glottolog-repos=Path2Glottolog --concepticon-repos
 
 ## 4 Compute Colexifications
 
+Make sure to install pyclics, download via git, checkout branch `colexifications`, and then install the package.
+
 ```
 cldfbench clicsbp.colexifications
 cldfbench clicsbp.colexify_all_data

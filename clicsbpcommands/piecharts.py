@@ -112,7 +112,6 @@ def run(args):
                     "plots",
                     "pie-"+fam+".png")
                 )
-        fig.close()
         plt.clf()
     with open(clicsbp.dir.joinpath(
         "output",

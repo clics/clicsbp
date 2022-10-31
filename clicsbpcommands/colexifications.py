@@ -136,23 +136,31 @@ def run(args):
                         for node in nodes:
                             clusters[IG.vs[node]["Name"]] = i+1
                     for concept in current_concepts:
-                        links, links2 = [], []
+                        links, links2, links3 = [], [], []
                         if concept in DG:
                             for neighbor, data in DG[concept].items():
                                 links += ["{0}:{1:.2f}".format(neighbor, data["tweight"])]
                             for neighbor, data in SG[concept].items():
                                 links2 += ["{0}:{1:.2f}".format(neighbor, data[args.weight])]
+                                links3 += ["{0}:{1:.2f}".format(
+                                    neighbor,
+                                    (data[args.weight]**2)/(
+                                        G.nodes[concept][args.weight]+G.nodes[neighbor][args.weight]-data[args.weight]))]
+                                    
                         table += [[
                             concept,
+                            str(G.nodes[concept][args.weight]),
                             family,
                             tag,
                             str(clusters[concept]),
                             ";".join(links),
-                            ";".join(links2)]]
+                            ";".join(links2),
+                            ";".join(links3)
+                            ]]
                 else:
                     args.log.info("skipping family {0} since there are no data for {1}".format(family, tag))
     with open(CLICS.dir / "output" / "colexifications.tsv", "w") as f:
-        f.write("CONCEPT\tFAMILY\tTAG\tCOMMUNITY\tLINKS\tCOLEXIFICATIONS\n")
+        f.write("CONCEPT\tFREQUENCY\tFAMILY\tTAG\tCOMMUNITY\tLINKS\tCOLEXIFICATIONS\tWEIGHTED\n")
         for row in sorted(table, key=lambda x: (x[1], x[2], x[3], x[0])):
             f.write("\t".join(row)+"\n")
 

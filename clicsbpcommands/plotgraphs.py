@@ -31,7 +31,7 @@ def run(args):
                 (
                             row["CONCEPT"], 
                             row["COMMUNITY"],
-                            row["LINKS"].split(";")
+                            row["WEIGHTED"].split(";")
                             )
                         ]
     colors = [
