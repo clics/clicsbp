@@ -10,10 +10,9 @@ from matplotlib import pyplot as plt
 def register(parser):
     """
     """
-    pass
-    #add_catalog_spec(parser, 'concepticon')
-    #add_format(parser, default="simple")
-    #parser.add_argument("--family", default="xxx")
+    parser.add_argument("--weight", default="Language_Count_Weighted")
+    parser.add_argument("--factor", default=2, type=int)
+    parser.add_argument("--tag", default="human body part")
     #parser.add_argument("--mode", default="binary")
     #parser.add_argument("--zero", action="store_true")
 
@@ -27,11 +26,11 @@ def run(args):
 
     data = defaultdict(lambda : defaultdict(list))
     for row in colexifications:
-        data[row["FAMILY"]][row["TAG"]] += [
+        data[row["Family"]][row["Tag"]] += [
                 (
-                            row["CONCEPT"], 
-                            row["COMMUNITY"],
-                            row["WEIGHTED"].split(";")
+                            row["Concept"], 
+                            row["Random_Walk_Community"],
+                            row[args.weight].split(";")
                             )
                         ]
     colors = [
@@ -49,53 +48,52 @@ def run(args):
         "#b15928",
             ]
     for fam in data:
-        for tag in ["human body part", "emotion", "color"]:
-            plt.clf()
-            args.log.info("loading {0} {1}".format(fam, tag))
-            G = nx.Graph()
-            coms = defaultdict(list)
-            for con, com, lnks in data[fam][tag]:
-                coms[com] += [con]
-                if not con in G.nodes:
-                    G.add_node(con, community=com)
-                for lnk in lnks:
-                    if lnk:
-                        conB, weight = lnk.split(":")
-                        weight = float(weight)
-                        if not conB in G.nodes:
-                            G.add_node(con, community=com)
-                        G.add_edge(con, conB, weight=weight)
-            pos = nx.nx_agraph.graphviz_layout(G)
-            for nA, nB, data_ in G.edges(data=True):
-                nx.draw_networkx_edges(G, pos, width=5*data_["weight"],
-                        #alpha=2*data_["weight"] if data_["weight"] < 1 else 1, 
-                        edgelist=[(nA, nB)],
-                        edge_color="lightgray")
-            all_coms = sorted([c for c in coms if c != "0"])
-            for i, com in enumerate(all_coms):
-                nodes = coms[com]
-                color = colors[i] if i < len(colors) else "black"
-                nx.draw_networkx_nodes(G, pos, 
-                        node_size=30, 
-                        alpha=0.5,
-                        nodelist=nodes,
-                        node_color=color)
-            if "0" in coms:
-                nx.draw_networkx_nodes(
-                        G,
-                        pos,
-                        node_size=20,
-                        alpha=0.25,
-                        nodelist=coms["0"],
-                        node_color="white"
-                        )
+        plt.clf()
+        args.log.info("loading {0}".format(fam))
+        G = nx.Graph()
+        coms = defaultdict(list)
+        for con, com, lnks in data[fam][args.tag]:
+            coms[com] += [con]
+            if not con in G.nodes:
+                G.add_node(con, community=com)
+            for lnk in lnks:
+                if lnk:
+                    conB, weight = lnk.split(":")
+                    weight = float(weight)
+                    if not conB in G.nodes:
+                        G.add_node(con, community=com)
+                    G.add_edge(con, conB, weight=weight)
+        pos = nx.nx_agraph.graphviz_layout(G)
+        for nA, nB, data_ in G.edges(data=True):
+            nx.draw_networkx_edges(G, pos, width=5*data_["weight"],
+                    #alpha=2*data_["weight"] if data_["weight"] < 1 else 1, 
+                    edgelist=[(nA, nB)],
+                    edge_color="lightgray")
+        all_coms = sorted([c for c in coms if c != "0"])
+        for i, com in enumerate(all_coms):
+            nodes = coms[com]
+            color = colors[i] if i < len(colors) else "black"
+            nx.draw_networkx_nodes(G, pos, 
+                    node_size=30, 
+                    alpha=0.5,
+                    nodelist=nodes,
+                    node_color=color)
+        if "0" in coms:
+            nx.draw_networkx_nodes(
+                    G,
+                    pos,
+                    node_size=20,
+                    alpha=0.25,
+                    nodelist=coms["0"],
+                    node_color="white"
+                    )
 
-            #nx.draw_networkx_nodes(G, pos, node_size=10)
-            #nx.draw_networkx_edges(G, pos, width=2)
-            nx.draw_networkx_labels(G, pos, font_size=6)
-            plt.axis("off")
-            plt.savefig(clicsbp.dir.joinpath("output", "plots",
-                "{0}-{1}.pdf".format(fam, tag)).as_posix())
+        #nx.draw_networkx_nodes(G, pos, node_size=10)
+        #nx.draw_networkx_edges(G, pos, width=2)
+        nx.draw_networkx_labels(G, pos, font_size=6)
+        plt.axis("off")
+        plt.savefig(clicsbp.dir.joinpath("output", "plots",
+            "{0}-{1}-{2}.pdf".format(fam, args.tag.replace(" ", "_"), args.weight.lower())).as_posix())
 
 
 

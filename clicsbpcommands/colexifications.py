@@ -136,20 +136,28 @@ def run(args):
                         for node in nodes:
                             clusters[IG.vs[node]["Name"]] = i+1
                     for concept in current_concepts:
-                        links, links2, links3 = [], [], []
+                        links, links2, links3, links4, links5 = [], [], [], [], []
                         if concept in DG:
                             for neighbor, data in DG[concept].items():
                                 links += ["{0}:{1:.2f}".format(neighbor, data["tweight"])]
+                            
                             for neighbor, data in SG[concept].items():
-                                links2 += ["{0}:{1:.2f}".format(neighbor, data[args.weight])]
+                                links2 += ["{0}:{1:.2f}".format(neighbor, data["language_count"])]
                                 
-                                if G.nodes[concept][args.weight] > G.nodes[neighbor][args.weight]:
-                                    c_max = G.nodes[neighbor][args.weight]
+                                if G.nodes[concept][args.weight] > G.nodes[neighbor]["language_count"]:
+                                    c_max = G.nodes[neighbor]["language_count"]
                                 else:
-                                    c_max = G.nodes[concept][args.weight]
+                                    c_max = G.nodes[concept]["language_count"]
                                 links3 += ["{0}:{1:.2f}".format(
                                     neighbor,
-                                    (data[args.weight]**2)/(c_max**2))]
+                                    (data["language_count"]**2)/(c_max**2))
+                                    ]
+                                links4 = ["{0}:{1:.2f}".format(
+                                    neighbor,
+                                    data["cognate_count"])]
+                                links5 = ["{0}:{1:.2f}".format(
+                                    neighbor,
+                                    (data["cognate_count"]**2)/(c_max**2))]
                                     
                         table += [[
                             concept,
@@ -159,12 +167,22 @@ def run(args):
                             str(clusters[concept]),
                             ";".join(links),
                             ";".join(links2),
-                            ";".join(links3)
+                            ";".join(links3), 
+                            ";".join(links4),
+                            ";".join(links5)
                             ]]
                 else:
                     args.log.info("skipping family {0} since there are no data for {1}".format(family, tag))
     with open(CLICS.dir / "output" / "colexifications.tsv", "w") as f:
-        f.write("CONCEPT\tFREQUENCY\tFAMILY\tTAG\tCOMMUNITY\tLINKS\tCOLEXIFICATIONS\tWEIGHTED\n")
+        f.write("\t".join([
+            "Concept", "Frequency", "Family", "Tag", "Random_Walk_Community",
+            "Random_Walk_Links",
+            "Language_Count", 
+            "Language_Count_Weighted",
+            "Cognate_Count",
+            "Cognate_Count_Weighted"
+            ]
+            )+"\n")
         for row in sorted(table, key=lambda x: (x[1], x[2], x[3], x[0])):
             f.write("\t".join(row)+"\n")
 
