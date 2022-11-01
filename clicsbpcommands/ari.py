@@ -10,6 +10,13 @@ from itertools import combinations
 from sklearn.metrics import adjusted_rand_score, adjusted_mutual_info_score
 from lingpy.evaluate.acd import _get_bcubed_score as bcubes
 
+def register(parser):
+    parser.add_argument(
+            "--tag",
+            help="Select the domain (human body part, emotion, color)",
+            default="human body part"
+            )
+
 
 def run(args):
 
@@ -25,20 +32,20 @@ def run(args):
             delimiter="\t") as reader:
         data = [row for row in reader]
 
-    concepts = sorted(set([row["CONCEPT"] for row in data if row["TAG"] == "human body part"
+    concepts = sorted(set([row["Concept"] for row in data if row["Tag"] == args.tag
             ]))
 
     fams = defaultdict(dict)
     for row in data:
-        if row["TAG"] == "human body part":
-            fams[row["FAMILY"]][row["CONCEPT"]] = row["COMMUNITY"]
+        if row["Tag"] == args.tag:
+            fams[row["Family"]][row["Concept"]] = row["Random_Walk_Community"]
     
     pairs = {}
     for famA, famB in combinations(list(fams), r=2):
         print(famA, famB)
         dtA, dtB = fams[famA], fams[famB]
         labelsA, labelsB, labelsBC, labelsAC = [], [], [], []
-        trackA = max([int(row["COMMUNITY"]) for row in data])+1
+        trackA = max([int(row["Random_Walk_Community"]) for row in data])+1
         trackB = trackA
         for concept in concepts:
             if concept in dtA and concept in dtB:
@@ -59,7 +66,12 @@ def run(args):
         p, r = bcubes(labelsA, labelsBC), bcubes(labelsBC, labelsA)
         f = 2*(p*r)/(p+r)
         pairs[famA, famB] = [ari, ami, f]
-    with open(CLICS.dir.joinpath("output", "ari.tsv"), "w") as f:
+    with open(
+            CLICS.dir.joinpath(
+                "output",
+                "ari-{0}.tsv".format(args.tag.replace(" ", "_"))), 
+                "w"
+                ) as f:
         f.write("FAMILY_A\tFAMILY_B\tARI\tAMI\tBCUBES\n")
         for (fA, fB), (ari, ami, bc) in pairs.items():
             f.write("{0}\t{1}\t{2:.4f}\t{3:.4f}\t{4:.4f}\n".format(

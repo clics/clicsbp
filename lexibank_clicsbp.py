@@ -58,7 +58,7 @@ class Dataset(BaseDataset):
                 key=lambda x: len(set([form.language.glottocode for form in
                     x.forms_with_sounds])),
                 reverse=True)
-        selected_concepts = [concept.id for concept in all_concepts[:1000]]
+        selected_concepts = [concept.id for concept in all_concepts[:1501]]
 
         # get valid languages
         valid_languages = []

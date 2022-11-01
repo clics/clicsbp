@@ -11,12 +11,7 @@ from random import choice
 def register(parser):
     """
     """
-    pass
-    #add_catalog_spec(parser, 'concepticon')
-    #add_format(parser, default="simple")
-    #parser.add_argument("--family", default="xxx")
-    #parser.add_argument("--mode", default="binary")
-    #parser.add_argument("--zero", action="store_true")
+    parser.add_argument("--weight", default="Language_Count_Weighted")
 
 
 def run(args):
@@ -55,11 +50,11 @@ def run(args):
 
     data = defaultdict(lambda : defaultdict(list))
     for row in colexifications:
-        data[row["FAMILY"]][row["TAG"]] += [
+        data[row["Family"]][row["Tag"]] += [
                 (
-                            row["CONCEPT"], 
-                            row["COMMUNITY"],
-                            row["COLEXIFICATIONS"].split(";")
+                            row["Concept"], 
+                            row["Random_Walk_Community"],
+                            row[args.weight].split(";")
                             )
                         ]
     colors = [
@@ -110,9 +105,8 @@ def run(args):
                 clicsbp.dir.joinpath(
                     "output", 
                     "plots",
-                    "pie-"+fam+".png")
+                    "pie-"+fam+"-"+args.weight.lower()+".png")
                 )
-        fig.close()
         plt.clf()
     with open(clicsbp.dir.joinpath(
         "output",

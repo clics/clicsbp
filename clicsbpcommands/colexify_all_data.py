@@ -67,8 +67,8 @@ def run(args):
         table = []
         for nA, nB, data in sorted(G.edges(data=True), key=lambda x: x[2][args.weight], reverse=True):
             table += [[nA, nB, data["family_count"], data["language_count"], clusters[nA], clusters[nB]]]
-        with open(CLICS.dir / "output" / "all-data-colexifications.tsv", "w") as f:
-            f.write("NodeA\tNodeB\tFamilyWeight\tLanguageWeight\tCommunityA\tCommunityB\n")
+        with open(CLICS.dir / "output" / "colexifications-global.tsv", "w") as f:
+            f.write("Concept_A\tConcept_B\tFamily_Count\tLanguage_Count\tCommunity_A\tCommunity_B\n")
             for row in table:
                 f.write("\t".join([str(x) for x in row])+"\n")
         with open(CLICS.dir / "output" / "graph.gml", "w") as f:
