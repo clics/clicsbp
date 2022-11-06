@@ -10,6 +10,53 @@ this dataset using the DOI of the [particular released version](../../releases/)
 
 This dataset is licensed under a CC-BY-4.0 license
 
+## Notes
+
+# Workflow Instructions
+
+To run the code, you need to follow specific workflow instructions
+
+## 1 Install Packages
+
+- glottolog
+- concepticon
+- clts
+
+## 2 Download Data
+
+## 3 Create CLICS4 Dataset
+
+```
+cldfbench lexibank.makecldf --glottolog-repos=Path2Glottolog --concepticon-repos=Path2Concepticon --clts-repos=Path2Clics --glottolog-version=v4.6 --concepticon-version=v2.6.0 --clts-version=v2.2.0 lexibank_clicsbp.py
+```
+
+## 4 Compute Colexifications
+
+Make sure to install pyclics, download via git, checkout branch `colexifications`, and then install the package.
+
+```
+cldfbench clicsbp.colexifications
+cldfbench clicsbp.colexify_all_data
+```
+
+## 5 Compute Statistics
+
+### 5.1 Compute Pie-Charts
+
+```
+cldfbench clicspb.piecharts --weight=Language_Count_Weighted
+```
+
+### 5.2 Compute ARI
+
+### 5.3 Plot Networks
+
+```
+cldfbench clicsbp.plotgraphs --weight=Cognate_Count_Weighted --tag="human body part"
+```
+
+
+
 ## Statistics
 
 
@@ -19,26 +66,27 @@ This dataset is licensed under a CC-BY-4.0 license
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 1,238
-- **Concepts:** 999
-- **Lexemes:** 542,686
+- **Varieties:** 1,033
+- **Concepts:** 1,500
+- **Lexemes:** 695,606
 - **Sources:** 0
-- **Synonymy:** 1.13
+- **Synonymy:** 1.14
 - **Invalid lexemes:** 0
-- **Tokens:** 3,048,597
-- **Segments:** 1,338 (0 BIPA errors, 0 CLTS sound class errors, 1330 CLTS modified)
-- **Inventory size (avg):** 42.33
+- **Tokens:** 4,077,068
+- **Segments:** 1,385 (0 BIPA errors, 0 CLTS sound class errors, 1377 CLTS modified)
+- **Inventory size (avg):** 44.42
 
 ## Possible Improvements:
 
 - Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
   - Rawngtu Weilong [wela1234](http://glottolog.org/resource/languoid/id/wela1234)
+  - Sanapaná (Angaité) [sana1281](http://glottolog.org/resource/languoid/id/sana1281)
 
 
-- Entries missing sources: 542686/542686 (100.00%)
+- Entries missing sources: 695606/695606 (100.00%)
 
 ## CLDF Datasets
 
 The following CLDF datasets are available in [cldf](cldf):
 
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/Wordlist-metadata.json](cldf/Wordlist-metadata.json)

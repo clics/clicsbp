@@ -14,6 +14,7 @@ from lingpy.algorithm import extra
 from lingpy.convert.graph import networkx2igraph
 import numpy as np
 from pyclics.colexifications import get_colexifications, weight_by_cognacy, get_transition_matrix
+from pyclics.util import write_gml
 
 from lexibank_clicsbp import Dataset as _CLICS
 
@@ -100,6 +101,14 @@ def run(args):
                     CLICS.dir.joinpath("output", "p-matrix", "{0}-a.tsv".format(family)),
                     A, 
                     all_nodes
+                    )
+            write_gml(
+                    G,
+                    CLICS.dir.joinpath(
+                        "output", 
+                        "graphs",
+                        "{0}.gml".format(family)
+                        )
                     )
 
             for tag in ["human body part", "color", "emotion"]:
