@@ -209,4 +209,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea
-cldf/forms.csv
