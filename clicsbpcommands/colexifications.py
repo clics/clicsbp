@@ -4,13 +4,10 @@ Calculate colexification networks for individual families.
 from cltoolkit import Wordlist
 from pycldf import Dataset
 from pyclts import CLTS
-from lingpy import Pairwise
-from lingpy.algorithm import cluster
 from itertools import combinations, product
 import networkx as nx
 from collections import defaultdict
 from tabulate import tabulate
-from lingpy.algorithm import extra
 from lingpy.convert.graph import networkx2igraph
 import numpy as np
 from pyclics.colexifications import get_colexifications, weight_by_cognacy, get_transition_matrix

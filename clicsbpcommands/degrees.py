@@ -7,22 +7,26 @@ from lexibank_clicsbp import Dataset as _CLICS
 import igraph
 from lingpy.convert.graph import igraph2networkx
 import random
+from collections import defaultdict
 
 def register(parser):
 
     parser.add_argument("--weight", default="cognate_count")
-    parser.add_argument("--trials", default=100)
+    parser.add_argument("--trials", default=1000, type=int)
 
 
 def run(args):
     
     table = []
     CLICS = _CLICS()
-    families = [row["Family"] for row in 
+    families = [row["Family"] for row in
             CLICS.etc_dir.read_csv(
                 "families.tsv", 
                 dicts=True, 
                 delimiter="\t")]
+    languages = defaultdict(int)
+    for row in CLICS.cldf_dir.read_csv("languages.csv", dicts=True):
+        languages[row["Family"]] += 1
     concepts = {"color": [], "emotion": [], "human body part": []}
     for concept in CLICS.concepts:
         if concept["CONCEPTICON_GLOSS"]:
@@ -68,6 +72,7 @@ def run(args):
 
             table += [[
                 family,
+                languages[family],
                 len(graph),
                 len(graph.edges()),
                 sum(all_deg.values())/len(all_deg),
@@ -78,10 +83,17 @@ def run(args):
                 sum(col_deg.values())/len(col_deg),
                 rdegs[2]/args.trials,
                 ]]
-    print(tabulate(table, headers=["Family", "Nodes", "Edges", "Degree",
+    print(tabulate(sorted(table, key=lambda x: x[1]), headers=["Family", "Languages", "Nodes", "Edges", "Degree",
         "Emotion", "Emotion R", "Body", "Body R", "Color", "Color R"], floatfmt=".2f", tablefmt="pipe"))
-        
-
+    with open(
+            CLICS.dir.joinpath("output", "degree-{0}.tsv".format(args.weight)),
+            'w') as f:
+        f.write('\t'.join(
+            ["Family", "Languages", "Nodes", "Edges", "Degree", "Emotion",
+             "EmotionSigma", "Body", "BodySigma", "Color", "ColorSigma"])+'\n')
+        for row in sorted(table, key=lambda x: x[1]):
+            f.write(row[0]+"\t"+"\t".join([str(v) for v in row[1:4]])+"\t"+"\t".join(["{0:.2f}".format(v) for v in row[4:]]))
+            f.write("\n")
 
 
 
