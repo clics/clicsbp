@@ -54,6 +54,7 @@ def run(args):
             col_val = sum(col_deg.values())/len(col_deg)
 
             rdegs = [0, 0, 0]
+            rdifs = [0, 0, 0]
             for i in range(args.trials):
                 emox = dict(nx.degree(graph, weight=args.weight,
                         nbunch=random.sample(graph.nodes, len(emo_deg))))
@@ -61,12 +62,19 @@ def run(args):
                         nbunch=random.sample(graph.nodes, len(bdp_deg))))
                 colx = dict(nx.degree(graph, weight=args.weight,
                         nbunch=random.sample(graph.nodes, len(col_deg))))
-                if sum(emox.values())/len(emox) > emo_val:
+                emo_tri = sum(emox.values())/len(emox)
+                bdp_tri = sum(bdpx.values())/len(bdpx)
+                col_tri = sum(colx.values())/len(colx)
+                if emo_tri > emo_val:
                     rdegs[0] += 1
-                if sum(bdpx.values())/len(bdpx) > bdp_val:
+                if bdp_tri > bdp_val:
                     rdegs[1] += 1
-                if sum(colx.values())/len(colx) > col_val:
+                if col_tri > col_val:
                     rdegs[2] += 1
+
+                rdifs[0] += (emo_val - emo_tri)
+                rdifs[1] += (bdp_val - bdp_tri)
+                rdifs[2] += (col_val - col_tri)
 
 
 
@@ -77,20 +85,34 @@ def run(args):
                 len(graph.edges()),
                 sum(all_deg.values())/len(all_deg),
                 sum(emo_deg.values())/len(emo_deg),
+                rdifs[0]/args.trials,
                 rdegs[0]/args.trials,
                 sum(bdp_deg.values())/len(bdp_deg),
+                rdifs[1]/args.trials,
                 rdegs[1]/args.trials,
                 sum(col_deg.values())/len(col_deg),
+                rdifs[2]/args.trials,
                 rdegs[2]/args.trials,
                 ]]
-    print(tabulate(sorted(table, key=lambda x: x[1]), headers=["Family", "Languages", "Nodes", "Edges", "Degree",
-        "Emotion", "Emotion R", "Body", "Body R", "Color", "Color R"], floatfmt=".2f", tablefmt="pipe"))
+    print(
+        tabulate(
+            sorted(table, key=lambda x: x[1]),
+            headers=[
+                "Family", "Languages", "Nodes", "Edges", "Degree",
+                "Emotion", "Emotion_Eff", "Emotion_Sig",
+                "Body", "Body_Eff", "Body_Sig",
+                "Color", "Color_Eff", "Color_Sig"
+            ], floatfmt=".2f", tablefmt="pipe"))
     with open(
             CLICS.dir.joinpath("output", "degree-{0}.tsv".format(args.weight)),
             'w') as f:
         f.write('\t'.join(
-            ["Family", "Languages", "Nodes", "Edges", "Degree", "Emotion",
-             "EmotionSigma", "Body", "BodySigma", "Color", "ColorSigma"])+'\n')
+            [
+                "Family", "Languages", "Nodes", "Edges", "Degree",
+                "Emotion", "Emotion_Eff", "Emotion_Sig",
+                "Body", "Body_Eff", "Body_Sig",
+                "Color", "Color_Eff", "Color_Sig"
+            ])+'\n')
         for row in sorted(table, key=lambda x: x[1]):
             f.write(row[0]+"\t"+"\t".join([str(v) for v in row[1:4]])+"\t"+"\t".join(["{0:.2f}".format(v) for v in row[4:]]))
             f.write("\n")

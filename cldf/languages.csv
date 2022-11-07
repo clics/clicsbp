@@ -315,8 +315,8 @@ idssegmented-tindi,Tindi,Eurasia,42.3316,45.9227,tind1238,tin,Tindi,Nakh-Daghest
 idssegmented-chamalal,Chamalal,Eurasia,42.5024,45.995,cham1309,cji,Chamalal,Nakh-Daghestanian,1606,1606
 idssegmented-hunzib,Hunzib,Eurasia,42.0808,46.1369,hunz1247,huz,Hunzib,Nakh-Daghestanian,1441,1441
 idssegmented-dargwa,Dargwa,Eurasia,42.4257,47.4388,darg1241,dar,North-Central Dargwa,Nakh-Daghestanian,1670,1670
-idssegmented-dargwakubachidialect,Dargwa (Kubachi dialect),Eurasia,42.08504,47.601843,kuba1248,ugh,Kubachi,Nakh-Daghestanian,1287,1287
-idssegmented-dargwakhajdakdialect,Dargwa (Khajdak dialect),Eurasia,42.052428,47.776611,kajt1238,xdq,Kajtak,Nakh-Daghestanian,1400,1400
+idssegmented-dargwakubachidialect,Dargwa (Kubachi dialect),Eurasia,42.08504,47.601843,kuba1248,,Kubachi,Nakh-Daghestanian,1287,1287
+idssegmented-dargwakhajdakdialect,Dargwa (Khajdak dialect),Eurasia,42.052428,47.776611,kajt1238,,Kajtak,Nakh-Daghestanian,1400,1400
 idssegmented-aghul,Aghul,Eurasia,41.9242,47.5843,aghu1253,agx,Aghul,Nakh-Daghestanian,1310,1310
 idssegmented-archivariety1,Archi (variety 1),Eurasia,42.3239,46.8267,arch1244,aqc,Archi,Nakh-Daghestanian,1293,1293
 idssegmented-budukh,Budukh,Eurasia,41.2272,48.3353,budu1248,bdk,Budukh,Nakh-Daghestanian,1634,1634
@@ -395,7 +395,7 @@ idssegmented-elamite,Elamite,Eurasia,31.1833,48.2333,elam1244,elx,Elamite,Elamit
 idssegmented-negerhollands,Negerhollands,North America,18.3416,-64.8922,nege1244,dcr,Negerhollands,Indo-European,1209,1209
 idssegmented-jamaicancreolelimonesecreoledialect,Jamaican Creole (Limonese Creole dialect),North America,18.13,-77.2612,jama1262,jam,Jamaican Creole English,Indo-European,1602,1602
 idssegmented-basque,Basque,Eurasia,43.2787,-1.31622,basq1248,eus,Basque,Basque,1465,1465
-idssegmented-polci,Polci,Africa,10.0258,9.53362,polc1243,plj,Pesse,Afro-Asiatic,1124,1124
+idssegmented-polci,Polci,Africa,10.0258,9.53362,polc1243,plj,Polci,Afro-Asiatic,1124,1124
 idssegmented-nahuatlsierradezacapoaxtlavariety,Nahuatl (Sierra de Zacapoaxtla variety),North America,20.1554,-97.5556,high1278,azz,Highland Puebla Nahuatl,Uto-Aztecan,1408,1408
 idssegmented-chatinozacatepecvariety,Chatino (Zacatepec variety),North America,16.08,-97.3069,zaca1242,ctz,Zacatepec Chatino,Otomanguean,1492,1492
 idssegmented-karok,Karok,North America,41.8228,-123.315,karo1304,kyh,Karok,Karok,840,840
