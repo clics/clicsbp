@@ -15,9 +15,17 @@ emotion <- read_delim("./clics/clicsbp/output/ari-emotion.tsv",
                    delim = "\t", escape_double = FALSE, 
                    trim_ws = TRUE)
 
+names(emotion)[names(emotion) == "ARI"] <- "ARI_EMOTION"
+names(emotion)[names(emotion) == "AMI"] <- "AMI_EMOTION"
+names(emotion)[names(emotion) == "BCUBES"] <- "BCUBES_EMOTION"
+
 color <- read_delim("./clics/clicsbp/output/ari-color.tsv", 
                    delim = "\t", escape_double = FALSE, 
                    trim_ws = TRUE)
+
+names(color)[names(color) == "ARI"] <- "ARI_COLOR"
+names(color)[names(color) == "AMI"] <- "AMI_COLOR"
+names(color)[names(color) == "BCUBES"] <- "BCUBES_COLOR"
 
 df1 <- full_join(body, emotion, by = c("FAMILY_A", "FAMILY_B"))
 df2 <- full_join(df1, color, by = c("FAMILY_A", "FAMILY_B"))
@@ -85,7 +93,7 @@ ggplot(na.omit(df2)) +
   geom_density(aes(x=ARI_EMOTION),color="#FFA500",fill="#FFA500",alpha=0.7) + 
   geom_density(aes(x=AMI_EMOTION),color="#FF8C00",fill="#FF8C00",alpha=0.7) + 
   scale_x_continuous(expand=c(0.02,0), name ="ARI and AMI", limits = c(-0.2,1.2)) +
-  scale_y_continuous(expand=c(0.02,0), limits = c(0,6)) +
+  scale_y_continuous(name = "Density", expand=c(0.02,0), limits = c(0,5)) +
   theme_classic()
 
-ggsave("graph.png")
+ggsave("density-plot.png")
