@@ -26,7 +26,7 @@ def run(args):
             dicts=True)
     rels = {}
     props = {
-            "Adjacency": 0,
+            "Continuity": 0,
             "Shape": 0,
             "Function": 0
             }
@@ -34,17 +34,17 @@ def run(args):
         # change choice() to row["Relation"] !
         if row["NodeA"] != row["NodeB"]:
             rels[row["NodeA"], row["NodeB"]] = (
-                    int(row["Adjacency"]),
+                    int(row["Continuity"]),
                     int(row["Shape"]),
                     int(row["Function"])
                     )
-            props["Adjacency"] += int(row["Adjacency"])
+            props["Continuity"] += int(row["Continuity"])
             props["Shape"] += int(row["Shape"])
             props["Function"] += int(row["Function"])
             rels[row["NodeB"], row["NodeA"]] = rels[row["NodeA"], row["NodeB"]]
 
     
-    #props["Adjacency"] = props["Adjacency"] / sum(props.values())
+    #props["Continuity"] = props["Continuity"] / sum(props.values())
     #props["Shape"] = props["Shape"] / sum(props.values())
     #props["Function"] = props["Function"] / sum(props.values())
 
@@ -89,16 +89,16 @@ def run(args):
             except:
                 print(fam, nodeA, nodeB)
         prop_pie = [
-                this_pie[0] / props["Adjacency"],
+                this_pie[0] / props["Continuity"],
                 this_pie[1] / props["Shape"],
                 this_pie[2] / props["Function"]
                 ]
 
         pies[fam] = (this_pie, prop_pie, len(G), len(G.edges))
         fig, (ax1, ax2) = plt.subplots(1, 2, sharey=True)
-        ax1.pie(this_pie, colors=colors, labels=["Adjacency", "Shape", "Function"])
+        ax1.pie(this_pie, colors=colors, labels=["Continuity", "Shape", "Function"])
         ax1.set_title("Raw Scores")
-        ax2.pie(prop_pie, colors=colors, labels=["Adjacency", "Shape", "Function"])
+        ax2.pie(prop_pie, colors=colors, labels=["Continuity", "Shape", "Function"])
         ax2.set_title("Weighted by Proportions")
         fig.suptitle("Family {0} / {1} edges".format(fam, len(G.edges)))
         plt.savefig(

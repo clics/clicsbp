@@ -1,4 +1,4 @@
-CONCEPT A	CONCEPT B	Family_Count	Language_Count	Community_A	Community_B	CONTINUITY	SHAPE	FUNCTION
+NodeA	NodeB	Family_Count	Language_Count	Community_A	Community_B	Continuity	Shape	Function
 FOOT	LEG	54	325	7	7	1	0	1
 HAND	ARM	36	256	8	8	1	0	1
 CHIN	JAW	32	47	3	3	1	1	1

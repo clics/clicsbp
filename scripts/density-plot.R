@@ -8,9 +8,14 @@ groundhog.library(pkgs, "2021-11-28")
 
 # setwd("")
 
-body <- read_delim("./clics/clicsbp/output/ari-body.tsv", 
+body <- read_delim("./clics/clicsbp/output/ari-human_body_part.tsv", 
                        delim = "\t", escape_double = FALSE, 
                        trim_ws = TRUE)
+
+names(body)[names(body) == "ARI"] <- "ARI_BODY"
+names(body)[names(body) == "AMI"] <- "AMI_BODY"
+names(body)[names(body) == "BCUBES"] <- "BCUBES_BODY"
+
 emotion <- read_delim("./clics/clicsbp/output/ari-emotion.tsv", 
                    delim = "\t", escape_double = FALSE, 
                    trim_ws = TRUE)
@@ -93,7 +98,7 @@ ggplot(na.omit(df2)) +
   geom_density(aes(x=ARI_EMOTION),color="#FFA500",fill="#FFA500",alpha=0.7) + 
   geom_density(aes(x=AMI_EMOTION),color="#FF8C00",fill="#FF8C00",alpha=0.7) + 
   scale_x_continuous(expand=c(0.02,0), name ="ARI and AMI", limits = c(-0.2,1.2)) +
-  scale_y_continuous(name = "Density", expand=c(0.02,0), limits = c(0,5)) +
+  scale_y_continuous(name = "Density", expand=c(0.02,0), limits = c(0,6)) +
   theme_classic()
 
 ggsave("density-plot.png")
