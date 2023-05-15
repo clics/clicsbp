@@ -1969,18 +1969,6 @@ graph [
   ]
   node [
     id 164
-    label "KID"
-    occurrences "clicsbp-idssegmented-azerbaijani-KID-1//clicsbp-idssegmented-kumyk-KID-1//clicsbp-idssegmented-nogai-KID-1"
-    words "k e tʃ i + b a l a s ɨ//u l a q//u l a k"
-    varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
-    languages "nort2697//kumy1244//noga1249"
-    families "Turkic//Turkic//Turkic"
-    language_count 3
-    variety_count 3
-    family_count 1
-  ]
-  node [
-    id 165
     label "HORSE"
     occurrences "clicsbp-idssegmented-azerbaijani-HORSE-1//clicsbp-idssegmented-kumyk-HORSE-1//clicsbp-idssegmented-nogai-HORSE-1//clicsbp-northeuralex-tur-HORSE-1//clicsbp-northeuralex-tur-HORSE-2//clicsbp-northeuralex-uzn-HORSE-1//clicsbp-northeuralex-kaz-HORSE-1//clicsbp-northeuralex-bak-HORSE-1//clicsbp-northeuralex-tat-HORSE-1//clicsbp-northeuralex-chv-HORSE-1//clicsbp-wold-Sakha-HORSE-1//clicsbp-wold-Sakha-HORSE-2"
     words "a t//a t//a t//a t//b ɛ j g i ɾ//ɒ t//ʒ ə l q ə//a t//a t//l a ʂ a//s ɨ l g ɨ//a t"
@@ -1992,7 +1980,7 @@ graph [
     family_count 1
   ]
   node [
-    id 166
+    id 165
     label "STALLION"
     occurrences "clicsbp-idssegmented-azerbaijani-STALLION-1//clicsbp-idssegmented-kumyk-STALLION-1//clicsbp-idssegmented-nogai-STALLION-1//clicsbp-wold-Sakha-STALLION-1"
     words "a j ɣ ɨ r//a j ɣ ɨ r//a j g ɨ r//a t ɨː r"
@@ -2004,7 +1992,7 @@ graph [
     family_count 1
   ]
   node [
-    id 167
+    id 166
     label "MARE"
     occurrences "clicsbp-idssegmented-azerbaijani-MARE-1//clicsbp-idssegmented-kumyk-MARE-1//clicsbp-idssegmented-nogai-MARE-1//clicsbp-idssegmented-nogai-MARE-2//clicsbp-wold-Sakha-MARE-1"
     words "m a d j a n//b a j t a l//b a j t a r//b i j e//b i e"
@@ -2016,7 +2004,7 @@ graph [
     family_count 1
   ]
   node [
-    id 168
+    id 167
     label "FOAL"
     occurrences "clicsbp-idssegmented-azerbaijani-FOAL-1//clicsbp-idssegmented-kumyk-FOAL-1//clicsbp-idssegmented-kumyk-FOAL-2//clicsbp-idssegmented-nogai-FOAL-1//clicsbp-idssegmented-nogai-FOAL-2//clicsbp-wold-Sakha-FOAL-1//clicsbp-wold-Sakha-FOAL-2//clicsbp-wold-Sakha-FOAL-3"
     words "g u l a n//t a j//g ü l ü k//t a j//k u l ɨ n//k u l u n//u b a h a//t ɨ y"
@@ -2028,7 +2016,7 @@ graph [
     family_count 1
   ]
   node [
-    id 169
+    id 168
     label "DONKEY"
     occurrences "clicsbp-idssegmented-azerbaijani-DONKEY-1//clicsbp-idssegmented-kumyk-DONKEY-1//clicsbp-idssegmented-nogai-DONKEY-1"
     words "e ʃ ʃ æ k//e ʃ e k//e ʃ e k"
@@ -2040,7 +2028,7 @@ graph [
     family_count 1
   ]
   node [
-    id 170
+    id 169
     label "MULE"
     occurrences "clicsbp-idssegmented-azerbaijani-MULE-1//clicsbp-idssegmented-kumyk-MULE-1//clicsbp-idssegmented-nogai-MULE-1"
     words "g a t ɨ r//q a tʃ ɨ r//k a t ɨ r"
@@ -2052,7 +2040,7 @@ graph [
     family_count 1
   ]
   node [
-    id 171
+    id 170
     label "FOWL"
     occurrences "clicsbp-idssegmented-azerbaijani-FOWL-1//clicsbp-idssegmented-kumyk-FOWL-1//clicsbp-idssegmented-nogai-FOWL-1//clicsbp-wold-Sakha-FOWL-1"
     words "e v + g u ʃ l a r ɨ//ü j + q u ʃ//ü j + k u s//dʒ i e + k œ t œ r œ"
@@ -2064,7 +2052,7 @@ graph [
     family_count 1
   ]
   node [
-    id 172
+    id 171
     label "ROOSTER"
     occurrences "clicsbp-idssegmented-azerbaijani-ROOSTER-1//clicsbp-idssegmented-kumyk-ROOSTER-1//clicsbp-idssegmented-nogai-ROOSTER-1//clicsbp-northeuralex-tur-ROOSTER-1//clicsbp-northeuralex-uzn-ROOSTER-1//clicsbp-northeuralex-kaz-ROOSTER-1//clicsbp-northeuralex-kaz-ROOSTER-2//clicsbp-northeuralex-bak-ROOSTER-1//clicsbp-northeuralex-tat-ROOSTER-1//clicsbp-northeuralex-chv-ROOSTER-1//clicsbp-wold-Sakha-ROOSTER-1"
     words "x o r u z//x o r a z//k o r a z//h o ɾ o z//χ o r ɒ z//æ t e ʃ//q o ɾ ɑ z//æ t æ s//æ t æ tɕ//a ʋ t a n//b œ t yː k"
@@ -2076,7 +2064,7 @@ graph [
     family_count 1
   ]
   node [
-    id 173
+    id 172
     label "HEN"
     occurrences "clicsbp-idssegmented-azerbaijani-HEN-1//clicsbp-idssegmented-kumyk-HEN-1//clicsbp-idssegmented-nogai-HEN-1//clicsbp-wold-Sakha-HEN-1"
     words "t o j u g//t a w u q//t a w ɨ k//k uː r u sː a"
@@ -2088,7 +2076,7 @@ graph [
     family_count 1
   ]
   node [
-    id 174
+    id 173
     label "CHICKEN"
     occurrences "clicsbp-idssegmented-azerbaijani-CHICKEN-1//clicsbp-idssegmented-azerbaijani-CHICKEN-2//clicsbp-idssegmented-kumyk-CHICKEN-1//clicsbp-idssegmented-nogai-CHICKEN-1//clicsbp-northeuralex-tur-CHICKEN-1//clicsbp-northeuralex-uzn-CHICKEN-1//clicsbp-northeuralex-kaz-CHICKEN-1//clicsbp-northeuralex-kaz-CHICKEN-2//clicsbp-northeuralex-bak-CHICKEN-1//clicsbp-northeuralex-tat-CHICKEN-1//clicsbp-northeuralex-chv-CHICKEN-1//clicsbp-northeuralex-chv-CHICKEN-2//clicsbp-wold-Sakha-CHICKEN-1"
     words "dʒ ü dʒ æ//tʃ o l p a//ʒ i ʒ e k//ʃ i p i j//t a v u k//t ɒ w u q//t ɑ uə q//m e k ɪ j e n//t au ɯ q//t a w ɤ k//tɕ ə χ//tɕ ə χ ə//tʃ o p uː s k a"
@@ -2100,7 +2088,7 @@ graph [
     family_count 1
   ]
   node [
-    id 175
+    id 174
     label "GOOSE"
     occurrences "clicsbp-idssegmented-azerbaijani-GOOSE-1//clicsbp-idssegmented-kumyk-GOOSE-1//clicsbp-idssegmented-nogai-GOOSE-1//clicsbp-northeuralex-tur-GOOSE-1//clicsbp-northeuralex-uzn-GOOSE-1//clicsbp-northeuralex-kaz-GOOSE-1//clicsbp-northeuralex-bak-GOOSE-1//clicsbp-northeuralex-tat-GOOSE-1//clicsbp-northeuralex-chv-GOOSE-1//clicsbp-wold-Sakha-GOOSE-1"
     words "g a z//q a z//k a z//k a z//ɣ ɒ z//q ɑ z//q a ð//q ɑ z//χ u r//χ aː s"
@@ -2112,7 +2100,7 @@ graph [
     family_count 1
   ]
   node [
-    id 176
+    id 175
     label "DUCK"
     occurrences "clicsbp-idssegmented-azerbaijani-DUCK-1//clicsbp-idssegmented-kumyk-DUCK-1//clicsbp-idssegmented-nogai-DUCK-1//clicsbp-northeuralex-tur-DUCK-1//clicsbp-northeuralex-uzn-DUCK-1//clicsbp-northeuralex-kaz-DUCK-1//clicsbp-northeuralex-bak-DUCK-1//clicsbp-northeuralex-tat-DUCK-1//clicsbp-northeuralex-chv-DUCK-1//clicsbp-wold-Sakha-DUCK-1"
     words "œ r d æ k//b a b i ʃ//b ä p i j//œ ɾ d ɛ k//o r d a k//ʊ j ɾ e k//ø j r æ k//ʉ r d æ k//k ə ʋ a k a l//k u s"
@@ -2124,7 +2112,7 @@ graph [
     family_count 1
   ]
   node [
-    id 177
+    id 176
     label "NEST"
     occurrences "clicsbp-idssegmented-azerbaijani-NEST-1//clicsbp-idssegmented-kumyk-NEST-1//clicsbp-idssegmented-nogai-NEST-1//clicsbp-northeuralex-tur-NEST-1//clicsbp-northeuralex-uzn-NEST-1//clicsbp-northeuralex-kaz-NEST-1//clicsbp-northeuralex-bak-NEST-1//clicsbp-northeuralex-tat-NEST-1//clicsbp-northeuralex-chv-NEST-1//clicsbp-wold-Sakha-NEST-1"
     words "j u v a//uː a//u j a//j u v a//ɒ ʃ j ɒ n//ʉ j ɑ//o j a//o j a//j ə ʋ a//u y a"
@@ -2136,7 +2124,7 @@ graph [
     family_count 1
   ]
   node [
-    id 178
+    id 177
     label "BIRD"
     occurrences "clicsbp-idssegmented-azerbaijani-BIRD-1//clicsbp-idssegmented-kumyk-BIRD-2//clicsbp-idssegmented-kumyk-BIRD-1//clicsbp-idssegmented-nogai-BIRD-1//clicsbp-northeuralex-tur-BIRD-1//clicsbp-northeuralex-uzn-BIRD-1//clicsbp-northeuralex-kaz-BIRD-1//clicsbp-northeuralex-bak-BIRD-1//clicsbp-northeuralex-tat-BIRD-1//clicsbp-northeuralex-chv-BIRD-1//clicsbp-northeuralex-chv-BIRD-2//clicsbp-wold-Sakha-BIRD-1//clicsbp-wold-Sakha-BIRD-2//clicsbp-savelyevturkic-Karaim-BIRD-1"
     words "g u ʃ//ʒ a n//q u ʃ//k u s//k u ʃ//q u ʃ//q ʉ s//q o ʃ//q o ʃ//k a j ə k//ʋ ɘ ɕ ɛ n + k a j ə k//k œ t œ r//tʃ ɨː tʃ aː χ//k u ʃ"
@@ -2148,7 +2136,7 @@ graph [
     family_count 1
   ]
   node [
-    id 179
+    id 178
     label "HERON"
     occurrences "clicsbp-idssegmented-azerbaijani-HERON-1//clicsbp-idssegmented-kumyk-HERON-1//clicsbp-idssegmented-nogai-HERON-1//clicsbp-wold-Sakha-HERON-1"
     words "g u ʃ//tʃ i l q u ʃ//g a z i l a q l a q//k u t a n"
@@ -2160,7 +2148,7 @@ graph [
     family_count 1
   ]
   node [
-    id 180
+    id 179
     label "EAGLE"
     occurrences "clicsbp-idssegmented-azerbaijani-EAGLE-1//clicsbp-idssegmented-kumyk-EAGLE-1//clicsbp-idssegmented-nogai-EAGLE-1//clicsbp-northeuralex-tur-EAGLE-1//clicsbp-northeuralex-tur-EAGLE-2//clicsbp-northeuralex-uzn-EAGLE-1//clicsbp-northeuralex-kaz-EAGLE-1//clicsbp-northeuralex-bak-EAGLE-1//clicsbp-northeuralex-tat-EAGLE-1//clicsbp-northeuralex-chv-EAGLE-1//clicsbp-wold-Sakha-EAGLE-1"
     words "g a r t a l//q a r a q u ʃ//k a r a g u s//k a ɾ t a l//k a ɾ a k u ʃ//b u r g u t//b ʊ ɾ k ə t//b ø r k ø t//q ɑ r a q o ʃ//ə m ə r t + k a j ə k//χ o t o y"
@@ -2172,7 +2160,7 @@ graph [
     family_count 1
   ]
   node [
-    id 181
+    id 180
     label "HAWK"
     occurrences "clicsbp-idssegmented-azerbaijani-HAWK-1//clicsbp-idssegmented-azerbaijani-HAWK-2//clicsbp-idssegmented-kumyk-HAWK-1//clicsbp-idssegmented-kumyk-HAWK-2//clicsbp-idssegmented-nogai-HAWK-1//clicsbp-idssegmented-nogai-HAWK-2//clicsbp-wold-Sakha-HAWK-1"
     words "g ɨ r ɣ ɨ//ʃ a h i n//q ɨ r ɣ ɨ j//l a tʃ i n//l a ʃ ɨ n//k a r ʃ ɨ g a + k u s//m o χ s o ɣ o l"
@@ -2184,7 +2172,7 @@ graph [
     family_count 1
   ]
   node [
-    id 182
+    id 181
     label "VULTURE"
     occurrences "clicsbp-idssegmented-azerbaijani-VULTURE-1//clicsbp-idssegmented-kumyk-VULTURE-1//clicsbp-idssegmented-kumyk-VULTURE-2//clicsbp-idssegmented-nogai-VULTURE-1"
     words "g a n a d l ɨ + æ ʒ d a h a//q a r a q u ʃ//j ɨ r t ɣ ɨ tʃ + q u ʃ//k a r a g u s"
@@ -2196,7 +2184,7 @@ graph [
     family_count 1
   ]
   node [
-    id 183
+    id 182
     label "BAT"
     occurrences "clicsbp-idssegmented-azerbaijani-BAT-1//clicsbp-idssegmented-kumyk-BAT-1//clicsbp-idssegmented-kumyk-BAT-2//clicsbp-idssegmented-nogai-BAT-1//clicsbp-wold-Sakha-BAT-1"
     words "j a r a s a//g e tʃ e q u ʃ//w a r k a n a t//j e r g a n a t//s a r ɨː + k ɨ n a t"
@@ -2208,7 +2196,7 @@ graph [
     family_count 1
   ]
   node [
-    id 184
+    id 183
     label "PARROT"
     occurrences "clicsbp-idssegmented-azerbaijani-PARROT-1//clicsbp-idssegmented-kumyk-PARROT-1//clicsbp-idssegmented-kumyk-PARROT-2//clicsbp-idssegmented-nogai-PARROT-1"
     words "t u t u g u ʃ u//p o p u g a j//p a p a ɣ a n q u ʃ//p o p u g a j"
@@ -2220,7 +2208,7 @@ graph [
     family_count 1
   ]
   node [
-    id 185
+    id 184
     label "CROW"
     occurrences "clicsbp-idssegmented-azerbaijani-CROW-1//clicsbp-idssegmented-kumyk-CROW-1//clicsbp-idssegmented-nogai-CROW-1//clicsbp-northeuralex-tur-CROW-1//clicsbp-northeuralex-uzn-CROW-1//clicsbp-northeuralex-kaz-CROW-1//clicsbp-northeuralex-bak-CROW-1//clicsbp-northeuralex-tat-CROW-1//clicsbp-northeuralex-chv-CROW-1//clicsbp-wold-Sakha-CROW-1"
     words "a l a g a r ɣ a//q a r ɣ a//k a r g a//k a ɾ g a//q a r ɣ a//q ɑ ɾ ʁ ɑ//q a r ɣ a//q ɑ r g a//u l a + k u r a k//t u r aː χ"
@@ -2232,7 +2220,7 @@ graph [
     family_count 1
   ]
   node [
-    id 186
+    id 185
     label "DOVE"
     occurrences "clicsbp-idssegmented-azerbaijani-DOVE-1//clicsbp-idssegmented-azerbaijani-DOVE-2//clicsbp-idssegmented-kumyk-DOVE-1//clicsbp-idssegmented-nogai-DOVE-1//clicsbp-wold-Sakha-DOVE-1"
     words "gʲ œ j æ r tʃ i n//d i ʃ i + gʲ œ j æ r tʃ i n//g œ g ü r tʃ ü n//k œ g e r ʃ i n//χ o l uː p"
@@ -2244,7 +2232,7 @@ graph [
     family_count 1
   ]
   node [
-    id 187
+    id 186
     label "OWL"
     occurrences "clicsbp-idssegmented-azerbaijani-OWL-1//clicsbp-idssegmented-azerbaijani-OWL-2//clicsbp-idssegmented-kumyk-OWL-1//clicsbp-idssegmented-kumyk-OWL-2//clicsbp-idssegmented-nogai-OWL-1//clicsbp-idssegmented-nogai-OWL-2//clicsbp-idssegmented-nogai-OWL-3//clicsbp-northeuralex-tur-OWL-1//clicsbp-northeuralex-uzn-OWL-1//clicsbp-northeuralex-kaz-OWL-1//clicsbp-northeuralex-bak-OWL-1//clicsbp-northeuralex-bak-OWL-2//clicsbp-northeuralex-tat-OWL-1//clicsbp-northeuralex-chv-OWL-1//clicsbp-wold-Sakha-OWL-1//clicsbp-wold-Sakha-OWL-2"
     words "b a j g u ʃ//j a p a l a g//u a b a l a q//k i k i m a w//o b ɨ r g u s//j e p a l a k//m a ŋ k a g u s//b a j k u ʃ//b ɒ j o ɣ l i//ʒ ɑ p ɑ l ɑ q//ø k ø//j a b a l a q//j a b a l a k//t ə m a n a//m e k tʃ i r g e//χ a χː a n"
@@ -2256,7 +2244,7 @@ graph [
     family_count 1
   ]
   node [
-    id 188
+    id 187
     label "DOG"
     occurrences "clicsbp-idssegmented-azerbaijani-DOG-1//clicsbp-idssegmented-kumyk-DOG-1//clicsbp-idssegmented-nogai-DOG-1//clicsbp-northeuralex-tur-DOG-1//clicsbp-northeuralex-tur-DOG-2//clicsbp-northeuralex-uzn-DOG-1//clicsbp-northeuralex-kaz-DOG-1//clicsbp-northeuralex-bak-DOG-1//clicsbp-northeuralex-tat-DOG-1//clicsbp-northeuralex-chv-DOG-1//clicsbp-wold-Sakha-DOG-1//clicsbp-savelyevturkic-Karaim-DOG-1"
     words "i t//i t//i j t//i t//k œ p ɛ k//i t//ɪ j t//e t//ɛ t//j ɯ t ə//ɨ t//i t"
@@ -2268,7 +2256,7 @@ graph [
     family_count 1
   ]
   node [
-    id 189
+    id 188
     label "RABBIT"
     occurrences "clicsbp-idssegmented-azerbaijani-RABBIT-1//clicsbp-idssegmented-kumyk-RABBIT-1//clicsbp-idssegmented-kumyk-RABBIT-2//clicsbp-idssegmented-kumyk-RABBIT-3//clicsbp-idssegmented-nogai-RABBIT-1//clicsbp-idssegmented-nogai-RABBIT-2//clicsbp-wold-Sakha-RABBIT-1"
     words "k r o l i k//q o u a n//ü j q o u a n//t a w ʃ a n//k o j a n//t a w ʃ a n//x o r u o l u k"
@@ -2280,7 +2268,7 @@ graph [
     family_count 1
   ]
   node [
-    id 190
+    id 189
     label "CAT"
     occurrences "clicsbp-idssegmented-azerbaijani-CAT-1//clicsbp-idssegmented-kumyk-CAT-1//clicsbp-idssegmented-nogai-CAT-1//clicsbp-northeuralex-tur-CAT-1//clicsbp-northeuralex-uzn-CAT-1//clicsbp-northeuralex-kaz-CAT-1//clicsbp-northeuralex-bak-CAT-1//clicsbp-northeuralex-tat-CAT-1//clicsbp-northeuralex-chv-CAT-1//clicsbp-wold-Sakha-CAT-1"
     words "p i ʃ i k//m i ʃ i k//m ɨ s ɨ k//k ɛ d i//m u ʃ u k//m ə s ə q//b e s æ j//p e s i//k u ʂ a k//k u o s k a"
@@ -2292,7 +2280,7 @@ graph [
     family_count 1
   ]
   node [
-    id 191
+    id 190
     label "MUROID (MOUSE OR RAT)"
     occurrences "clicsbp-idssegmented-azerbaijani-MUROIDMOUSEORRAT-1//clicsbp-idssegmented-azerbaijani-MUROIDMOUSEORRAT-2//clicsbp-idssegmented-kumyk-MUROIDMOUSEORRAT-1//clicsbp-idssegmented-kumyk-MUROIDMOUSEORRAT-2//clicsbp-idssegmented-nogai-MUROIDMOUSEORRAT-1//clicsbp-idssegmented-nogai-MUROIDMOUSEORRAT-2//clicsbp-idssegmented-nogai-MUROIDMOUSEORRAT-3//clicsbp-wold-Sakha-MUROIDMOUSEORRAT-1"
     words "s i tʃ a n//s i tʃ o v u l//tʃ ɨ tʃ q a n//l o b a n//ʃ ɨ ʃ k a n//k r ɨ s a//t ü j e + ʃ ɨ ʃ k a n//k u t u y a χ"
@@ -2304,7 +2292,7 @@ graph [
     family_count 1
   ]
   node [
-    id 192
+    id 191
     label "FISH"
     occurrences "clicsbp-idssegmented-azerbaijani-FISH-1//clicsbp-idssegmented-kumyk-FISH-1//clicsbp-idssegmented-kumyk-FISH-2//clicsbp-idssegmented-nogai-FISH-1//clicsbp-idssegmented-nogai-FISH-2//clicsbp-northeuralex-tur-FISH-1//clicsbp-northeuralex-uzn-FISH-1//clicsbp-northeuralex-kaz-FISH-1//clicsbp-northeuralex-bak-FISH-1//clicsbp-northeuralex-tat-FISH-1//clicsbp-northeuralex-chv-FISH-1//clicsbp-wold-Sakha-FISH-1//clicsbp-savelyevturkic-Karaim-FISH-1"
     words "b a l ɨ g//b a l ɨ q//tʃ a b a q//b a l ɨ k//ʃ a b a k//b a l ɯ k//b a l i q//b ɑ l ə q//b a l ɯ q//b a l ɤ k//p u l ə//b a l ɨ k//b a l ɯ k"
@@ -2316,7 +2304,7 @@ graph [
     family_count 1
   ]
   node [
-    id 193
+    id 192
     label "FIN"
     occurrences "clicsbp-idssegmented-azerbaijani-FIN-1//clicsbp-idssegmented-kumyk-FIN-1//clicsbp-idssegmented-nogai-FIN-1//clicsbp-wold-Sakha-FIN-1"
     words "ü z gʲ æ dʒ//b a l ɨ q n ɨ + q a n a t ɨ//b a l ɨ k t ɨ ŋ + k a n a t ɨ//l a p tʃ aː n"
@@ -2328,7 +2316,7 @@ graph [
     family_count 1
   ]
   node [
-    id 194
+    id 193
     label "SCALE"
     occurrences "clicsbp-idssegmented-azerbaijani-SCALE-1//clicsbp-idssegmented-azerbaijani-SCALE-2//clicsbp-idssegmented-azerbaijani-SCALE-3//clicsbp-idssegmented-kumyk-SCALE-1//clicsbp-idssegmented-kumyk-SCALE-2//clicsbp-idssegmented-nogai-SCALE-1//clicsbp-wold-Sakha-SCALE-1"
     words "p u l//a x tʃ a//x a l//a q tʃ a//b a l ɨ q a q tʃ a//b a l ɨ k t ɨ ŋ + k a b ɨ g ɨ//χ a t ɨ r ɨ k"
@@ -2340,7 +2328,7 @@ graph [
     family_count 1
   ]
   node [
-    id 195
+    id 194
     label "MONEY"
     occurrences "clicsbp-idssegmented-azerbaijani-MONEY-1//clicsbp-idssegmented-kumyk-MONEY-1//clicsbp-idssegmented-nogai-MONEY-1//clicsbp-northeuralex-tur-MONEY-1//clicsbp-northeuralex-uzn-MONEY-1//clicsbp-northeuralex-kaz-MONEY-1//clicsbp-northeuralex-bak-MONEY-1//clicsbp-northeuralex-tat-MONEY-1//clicsbp-northeuralex-chv-MONEY-1//clicsbp-wold-Sakha-MONEY-1"
     words "p u l//a q tʃ a//a k ʃ a//p a ɾ a//p u l//p ʉ l//a q s a//a k tɕ a//u k ɕ a//χ a r tʃ ɨ"
@@ -2352,7 +2340,7 @@ graph [
     family_count 1
   ]
   node [
-    id 196
+    id 195
     label "COIN"
     occurrences "clicsbp-idssegmented-azerbaijani-COIN-1//clicsbp-idssegmented-azerbaijani-COIN-2//clicsbp-idssegmented-kumyk-COIN-1//clicsbp-idssegmented-kumyk-COIN-2//clicsbp-idssegmented-nogai-COIN-1//clicsbp-idssegmented-nogai-COIN-2//clicsbp-wold-Sakha-COIN-1"
     words "p u l//s i kː æ//a q tʃ a//t e m i r + a q tʃ a//a k ʃ a//m ä n e t//m a n ɨ a t"
@@ -2364,7 +2352,7 @@ graph [
     family_count 1
   ]
   node [
-    id 197
+    id 196
     label "SHELL"
     occurrences "clicsbp-idssegmented-azerbaijani-SHELL-1//clicsbp-idssegmented-azerbaijani-SHELL-2//clicsbp-idssegmented-kumyk-SHELL-1//clicsbp-idssegmented-nogai-SHELL-1//clicsbp-idssegmented-nogai-SHELL-2//clicsbp-wold-Sakha-SHELL-1"
     words "b a l ɨ gː u l a ɣ ɨ//m æ r dʒ a n g u l u//d e ŋ i z + ʒ ɨ ɣ ɨ r ʒ a q//r a k u ʃ k a//b a k a ʃ a j a k//χ a b a + χ aː t a"
@@ -2376,7 +2364,7 @@ graph [
     family_count 1
   ]
   node [
-    id 198
+    id 197
     label "STINGRAY"
     occurrences "clicsbp-idssegmented-azerbaijani-STINGRAY-1//clicsbp-idssegmented-kumyk-STINGRAY-1"
     words "j ɨ r t ɨ dʒ ɨ + b a l ɨ g//s k a t"
@@ -2388,7 +2376,7 @@ graph [
     family_count 1
   ]
   node [
-    id 199
+    id 198
     label "FRESHWATER EEL"
     occurrences "clicsbp-idssegmented-azerbaijani-FRESHWATEREEL-1//clicsbp-idssegmented-azerbaijani-FRESHWATEREEL-2//clicsbp-idssegmented-kumyk-FRESHWATEREEL-1//clicsbp-idssegmented-nogai-FRESHWATEREEL-1"
     words "a n gʲ v i l//m o z a l a n + s u f r æ s i//j ɨ l a n b a l ɨ q//j ɨ l a n + b a l ɨ k"
@@ -2400,7 +2388,7 @@ graph [
     family_count 1
   ]
   node [
-    id 200
+    id 199
     label "WOLF"
     occurrences "clicsbp-idssegmented-azerbaijani-WOLF-1//clicsbp-idssegmented-azerbaijani-WOLF-2//clicsbp-idssegmented-kumyk-WOLF-1//clicsbp-idssegmented-nogai-WOLF-1//clicsbp-northeuralex-tur-WOLF-1//clicsbp-northeuralex-uzn-WOLF-1//clicsbp-northeuralex-kaz-WOLF-1//clicsbp-northeuralex-kaz-WOLF-2//clicsbp-northeuralex-bak-WOLF-1//clicsbp-northeuralex-tat-WOLF-1//clicsbp-northeuralex-chv-WOLF-1//clicsbp-wold-Sakha-WOLF-1"
     words "g u r d//dʒ a n a v a r//b œ r ü//b œ r i//k u ɾ t//b o r i//b ø ɾ ə//q ɑ s q ə ɾ//b y r e//b ʉ r e//k a ʂ k ə r//b œ r œ"
@@ -2412,7 +2400,7 @@ graph [
     family_count 1
   ]
   node [
-    id 201
+    id 200
     label "WORM"
     occurrences "clicsbp-idssegmented-azerbaijani-WORM-1//clicsbp-idssegmented-kumyk-WORM-1//clicsbp-idssegmented-nogai-WORM-1//clicsbp-northeuralex-tur-WORM-1//clicsbp-northeuralex-tur-WORM-2//clicsbp-northeuralex-uzn-WORM-1//clicsbp-northeuralex-kaz-WORM-1//clicsbp-northeuralex-bak-WORM-1//clicsbp-northeuralex-tat-WORM-1//clicsbp-northeuralex-chv-WORM-1//clicsbp-wold-Sakha-WORM-1//clicsbp-savelyevturkic-Karaim-WORM-1"
     words "g u r d//x u r t//k u r t//k u ɾ t//s o l u dʒ a n//q u r t//ʃ ʉ b ɑ l ʃ ɑ ŋ//s e l j a y s e n//q o r t//ə m a n//tʃ i e r b e//k u r t"
@@ -2424,7 +2412,7 @@ graph [
     family_count 1
   ]
   node [
-    id 202
+    id 201
     label "LION"
     occurrences "clicsbp-idssegmented-azerbaijani-LION-1//clicsbp-idssegmented-kumyk-LION-1//clicsbp-idssegmented-kumyk-LION-2//clicsbp-idssegmented-nogai-LION-1//clicsbp-wold-Sakha-LION-1"
     words "ʃ i r//a r s l a n//a r s l a n + q a p l a n//a r s l a n//χ a χ a y"
@@ -2436,7 +2424,7 @@ graph [
     family_count 1
   ]
   node [
-    id 203
+    id 202
     label "BEAR"
     occurrences "clicsbp-idssegmented-azerbaijani-BEAR-1//clicsbp-idssegmented-kumyk-BEAR-1//clicsbp-idssegmented-nogai-BEAR-1//clicsbp-northeuralex-tur-BEAR-1//clicsbp-northeuralex-uzn-BEAR-1//clicsbp-northeuralex-kaz-BEAR-1//clicsbp-northeuralex-bak-BEAR-1//clicsbp-northeuralex-tat-BEAR-1//clicsbp-northeuralex-chv-BEAR-1//clicsbp-wold-Sakha-BEAR-1//clicsbp-wold-Sakha-BEAR-2"
     words "a j ɨ//a y w//a j u w//a j ɯ//a j i q//ɑ j ʊ w//a j ɯ u//a j ʊ//u p a//e h e//k ɨ r dʒ a ɣ a s + t ɨ a t aː ɣ ɨ"
@@ -2448,7 +2436,7 @@ graph [
     family_count 1
   ]
   node [
-    id 204
+    id 203
     label "FOX"
     occurrences "clicsbp-idssegmented-azerbaijani-FOX-1//clicsbp-idssegmented-kumyk-FOX-1//clicsbp-idssegmented-nogai-FOX-1//clicsbp-northeuralex-tur-FOX-1//clicsbp-northeuralex-uzn-FOX-1//clicsbp-northeuralex-kaz-FOX-1//clicsbp-northeuralex-bak-FOX-1//clicsbp-northeuralex-tat-FOX-1//clicsbp-northeuralex-chv-FOX-1//clicsbp-wold-Sakha-FOX-1//clicsbp-wold-Sakha-FOX-2"
     words "t ü l k ü//t ü l k ü//t ü l k i//t i l k i//t u l k i//t ʊ l k ə//t ø l k ø//t œ l k e//t i l ɘ//s a h ɨ l//k ɨ r s a"
@@ -2460,7 +2448,7 @@ graph [
     family_count 1
   ]
   node [
-    id 205
+    id 204
     label "DEER"
     occurrences "clicsbp-idssegmented-azerbaijani-DEER-1//clicsbp-idssegmented-kumyk-DEER-1//clicsbp-idssegmented-kumyk-DEER-2//clicsbp-idssegmented-nogai-DEER-1//clicsbp-idssegmented-nogai-DEER-2//clicsbp-idssegmented-nogai-DEER-3//clicsbp-wold-Sakha-DEER-1"
     words "m a r a l//q u b a g i j i k//m a r a l//k e r e k ʃ i n//b u g ɨ//l a nʲ//k u l aː h a y"
@@ -2472,7 +2460,7 @@ graph [
     family_count 1
   ]
   node [
-    id 206
+    id 205
     label "MONKEY"
     occurrences "clicsbp-idssegmented-azerbaijani-MONKEY-1//clicsbp-idssegmented-kumyk-MONKEY-1//clicsbp-idssegmented-nogai-MONKEY-1"
     words "m e j m u n//m a j m u n//m a j m ɨ l"
@@ -2484,7 +2472,7 @@ graph [
     family_count 1
   ]
   node [
-    id 207
+    id 206
     label "ELEPHANT"
     occurrences "clicsbp-idssegmented-azerbaijani-ELEPHANT-1//clicsbp-idssegmented-kumyk-ELEPHANT-1//clicsbp-idssegmented-nogai-ELEPHANT-1//clicsbp-idssegmented-nogai-ELEPHANT-2"
     words "f i l//p i l//p i l//b i l"
@@ -2496,7 +2484,7 @@ graph [
     family_count 1
   ]
   node [
-    id 208
+    id 207
     label "CAMEL"
     occurrences "clicsbp-idssegmented-azerbaijani-CAMEL-1//clicsbp-idssegmented-kumyk-CAMEL-1//clicsbp-idssegmented-nogai-CAMEL-1//clicsbp-wold-Sakha-CAMEL-1"
     words "d æ v æ//t ü j e//t ü j e//t e b i e n"
@@ -2508,7 +2496,7 @@ graph [
     family_count 1
   ]
   node [
-    id 209
+    id 208
     label "INSECT"
     occurrences "clicsbp-idssegmented-azerbaijani-INSECT-1//clicsbp-idssegmented-kumyk-INSECT-1//clicsbp-idssegmented-nogai-INSECT-1//clicsbp-wold-Sakha-INSECT-1//clicsbp-wold-Sakha-INSECT-2"
     words "h æ ʃ æ r a t//u w a q + ʒ a n + ʒ a n ɨ w a r//k u r t k u m ɨ r s k a + j a n u w a r l a r//y œ n//y œ n + k œ y yː r"
@@ -2520,7 +2508,7 @@ graph [
     family_count 1
   ]
   node [
-    id 210
+    id 209
     label "LOUSE"
     occurrences "clicsbp-idssegmented-azerbaijani-LOUSE-1//clicsbp-idssegmented-kumyk-LOUSE-1//clicsbp-idssegmented-nogai-LOUSE-1//clicsbp-northeuralex-tur-LOUSE-1//clicsbp-northeuralex-uzn-LOUSE-1//clicsbp-northeuralex-kaz-LOUSE-1//clicsbp-northeuralex-bak-LOUSE-1//clicsbp-northeuralex-tat-LOUSE-1//clicsbp-northeuralex-chv-LOUSE-1//clicsbp-savelyevturkic-Karaim-LOUSE-1"
     words "b i t//b i t//b i j t//b i t//b i t//b ɪ j t//b e t//b e t//p ɯ j t ə//b i t"
@@ -2532,7 +2520,7 @@ graph [
     family_count 1
   ]
   node [
-    id 211
+    id 210
     label "NIT"
     occurrences "clicsbp-idssegmented-azerbaijani-NIT-1//clicsbp-idssegmented-kumyk-NIT-1//clicsbp-idssegmented-nogai-NIT-1//clicsbp-wold-Sakha-NIT-1"
     words "s i r k æ//s i r k e//s i r k e//b ɨ t + s aː ɣ a"
@@ -2544,7 +2532,7 @@ graph [
     family_count 1
   ]
   node [
-    id 212
+    id 211
     label "FLEA"
     occurrences "clicsbp-idssegmented-azerbaijani-FLEA-1//clicsbp-idssegmented-kumyk-FLEA-1//clicsbp-idssegmented-nogai-FLEA-1//clicsbp-wold-Sakha-FLEA-1"
     words "b i r æ//b ü r tʃ e//b ü r ʃ e//b ɨ l a χ ɨ"
@@ -2556,7 +2544,7 @@ graph [
     family_count 1
   ]
   node [
-    id 213
+    id 212
     label "CENTIPEDE"
     occurrences "clicsbp-idssegmented-azerbaijani-CENTIPEDE-1//clicsbp-idssegmented-azerbaijani-CENTIPEDE-2//clicsbp-idssegmented-kumyk-CENTIPEDE-1//clicsbp-idssegmented-nogai-CENTIPEDE-1"
     words "tʃ o x a j a g l ɨ//g ɨ r x a j a g//q ɨ r q a u a q//k ɨ r k a j a k"
@@ -2568,7 +2556,7 @@ graph [
     family_count 1
   ]
   node [
-    id 214
+    id 213
     label "SCORPION"
     occurrences "clicsbp-idssegmented-azerbaijani-SCORPION-1//clicsbp-idssegmented-kumyk-SCORPION-1//clicsbp-idssegmented-kumyk-SCORPION-2//clicsbp-idssegmented-nogai-SCORPION-1"
     words "æ g r æ b//a l p e l e k//a r p e l e k//a r p e l e k"
@@ -2580,7 +2568,7 @@ graph [
     family_count 1
   ]
   node [
-    id 215
+    id 214
     label "COCKROACH"
     occurrences "clicsbp-idssegmented-azerbaijani-COCKROACH-1//clicsbp-idssegmented-azerbaijani-COCKROACH-2//clicsbp-idssegmented-kumyk-COCKROACH-1//clicsbp-idssegmented-kumyk-COCKROACH-2//clicsbp-idssegmented-nogai-COCKROACH-1//clicsbp-wold-Sakha-COCKROACH-1"
     words "t a r a k a n//m æ t b æ x b œ tʃ æ j i//t a r a k a n//ü j + q o ŋ u z a q//t a r a k a n//t a r a k aː n"
@@ -2592,7 +2580,7 @@ graph [
     family_count 1
   ]
   node [
-    id 216
+    id 215
     label "ANT"
     occurrences "clicsbp-idssegmented-azerbaijani-ANT-1//clicsbp-idssegmented-kumyk-ANT-1//clicsbp-idssegmented-nogai-ANT-1//clicsbp-northeuralex-tur-ANT-1//clicsbp-northeuralex-uzn-ANT-1//clicsbp-northeuralex-kaz-ANT-1//clicsbp-northeuralex-bak-ANT-1//clicsbp-northeuralex-tat-ANT-1//clicsbp-northeuralex-chv-ANT-1//clicsbp-wold-Sakha-ANT-1//clicsbp-savelyevturkic-Karaim-ANT-1"
     words "g a r ɨ ʃ g a//x o m u r s ɣ a//k u m ɨ r s k a//k a ɾ ɯ n dʒ a//tʃ u m ɒ l i//q ʊ m ə ɾ s k ɑ//q ɯ r m ɯ θ q a//q ɤ r m ɤ s q ɑ//k ə t k ə//k ɨ m ɨ r d a ɣ a s//k u m u r s k a"
@@ -2604,7 +2592,7 @@ graph [
     family_count 1
   ]
   node [
-    id 217
+    id 216
     label "SPIDER"
     occurrences "clicsbp-idssegmented-azerbaijani-SPIDER-1//clicsbp-idssegmented-kumyk-SPIDER-1//clicsbp-idssegmented-nogai-SPIDER-1//clicsbp-idssegmented-nogai-SPIDER-2//clicsbp-northeuralex-tur-SPIDER-1//clicsbp-northeuralex-uzn-SPIDER-1//clicsbp-northeuralex-kaz-SPIDER-1//clicsbp-northeuralex-bak-SPIDER-1//clicsbp-northeuralex-tat-SPIDER-1//clicsbp-northeuralex-chv-SPIDER-1//clicsbp-wold-Sakha-SPIDER-1"
     words "h œ r ü m tʃ æ k//m i u a m a//b i j//œ r m e k ʃ i//œ ɾ y m dʒ ɛ k//o r g i m tʃ a k//ø ɾ m e k ʃ ə//y r m æ k s e//ʉ r m æ k ʉ tɕ//e r ɛ ʂ m ɛ n//oː ɣ u y"
@@ -2616,7 +2604,7 @@ graph [
     family_count 1
   ]
   node [
-    id 218
+    id 217
     label "SPIDER WEB"
     occurrences "clicsbp-idssegmented-azerbaijani-SPIDERWEB-1//clicsbp-idssegmented-kumyk-SPIDERWEB-1//clicsbp-idssegmented-kumyk-SPIDERWEB-2//clicsbp-idssegmented-nogai-SPIDERWEB-1//clicsbp-idssegmented-nogai-SPIDERWEB-2//clicsbp-wold-Sakha-SPIDERWEB-1"
     words "h œ r ü m tʃ æ k + t o r u//a w//m i u a m a + a w//b i j + ʃ ɨ m ɨ l d ɨ g ɨ//ʃ a t ɨ r//oː ɣ u y + s i t i m e"
@@ -2628,7 +2616,7 @@ graph [
     family_count 1
   ]
   node [
-    id 219
+    id 218
     label "BEE"
     occurrences "clicsbp-idssegmented-azerbaijani-BEE-1//clicsbp-idssegmented-kumyk-BEE-1//clicsbp-idssegmented-nogai-BEE-1//clicsbp-wold-Sakha-BEE-1"
     words "a r ɨ//b a l ʒ i b i n//b a l ʃ ɨ b ɨ n//ɨ ŋ ɨ r ɨ a"
@@ -2640,7 +2628,7 @@ graph [
     family_count 1
   ]
   node [
-    id 220
+    id 219
     label "WASP"
     occurrences "clicsbp-idssegmented-azerbaijani-WASP-1//clicsbp-idssegmented-kumyk-WASP-1//clicsbp-idssegmented-nogai-WASP-1//clicsbp-wold-Sakha-WASP-1"
     words "a r ɨ//t e l i ʒ i b i n//s o n a//t ɨ g aː y ɨ"
@@ -2652,7 +2640,7 @@ graph [
     family_count 1
   ]
   node [
-    id 221
+    id 220
     label "BEESWAX"
     occurrences "clicsbp-idssegmented-azerbaijani-BEESWAX-1//clicsbp-idssegmented-kumyk-BEESWAX-1//clicsbp-idssegmented-nogai-BEESWAX-1//clicsbp-idssegmented-nogai-BEESWAX-2"
     words "m u m//b a l a w u z//b a l a w ɨ z//k a w ɨ z"
@@ -2664,7 +2652,7 @@ graph [
     family_count 1
   ]
   node [
-    id 222
+    id 221
     label "BEEHIVE"
     occurrences "clicsbp-idssegmented-azerbaijani-BEEHIVE-1//clicsbp-idssegmented-kumyk-BEEHIVE-1//clicsbp-idssegmented-kumyk-BEEHIVE-2//clicsbp-idssegmented-nogai-BEEHIVE-1//clicsbp-idssegmented-nogai-BEEHIVE-2//clicsbp-wold-Sakha-BEEHIVE-1"
     words "a r ɨ + t æ k n æ s i//b a l ʒ i b i n + uː a//b a l ʒ i b i n + tʃ e t e n//b a l ʃ ɨ b ɨ n + u j a//b a l + ʃ e t e n//ɨ ŋ ɨ r ɨ a + u y a t a"
@@ -2676,7 +2664,7 @@ graph [
     family_count 1
   ]
   node [
-    id 223
+    id 222
     label "FLY (INSECT)"
     occurrences "clicsbp-idssegmented-azerbaijani-FLYINSECT-1//clicsbp-idssegmented-kumyk-FLYINSECT-1//clicsbp-idssegmented-nogai-FLYINSECT-1//clicsbp-northeuralex-tur-FLYINSECT-1//clicsbp-northeuralex-uzn-FLYINSECT-1//clicsbp-northeuralex-kaz-FLYINSECT-1//clicsbp-northeuralex-bak-FLYINSECT-1//clicsbp-northeuralex-tat-FLYINSECT-1//clicsbp-northeuralex-chv-FLYINSECT-1//clicsbp-wold-Sakha-FLYINSECT-1//clicsbp-savelyevturkic-Karaim-FLYINSECT-1"
     words "m i l tʃ æ k//ʒ i b i n//ʃ ɨ b ɨ n//s i n ɛ k//p a ʃ ʃ a//ʃ ə b ə n//s e b e n//tɕ e b e n//ʂ ə n a//s a χ s ɨ r ɣ a//ts i b i n"
@@ -2688,7 +2676,7 @@ graph [
     family_count 1
   ]
   node [
-    id 224
+    id 223
     label "SANDFLY"
     occurrences "clicsbp-idssegmented-azerbaijani-SANDFLY-1//clicsbp-idssegmented-azerbaijani-SANDFLY-2//clicsbp-idssegmented-kumyk-SANDFLY-1//clicsbp-idssegmented-nogai-SANDFLY-1//clicsbp-idssegmented-nogai-SANDFLY-2//clicsbp-wold-Sakha-SANDFLY-1//clicsbp-wold-Sakha-SANDFLY-2"
     words "a ɣ dʒ a g a n a d//m ɨ ɣ m ɨ ɣ a//s ü j r ü ʒ i b i n//ʃ i r k e j//s o k ɨ r + ʃ ɨ b ɨ n//o ŋ oː y u//k ɨː m aː y ɨ"
@@ -2700,7 +2688,7 @@ graph [
     family_count 1
   ]
   node [
-    id 225
+    id 224
     label "MOSQUITO"
     occurrences "clicsbp-idssegmented-azerbaijani-MOSQUITO-1//clicsbp-idssegmented-kumyk-MOSQUITO-1//clicsbp-idssegmented-nogai-MOSQUITO-1//clicsbp-idssegmented-nogai-MOSQUITO-2//clicsbp-northeuralex-tur-MOSQUITO-1//clicsbp-northeuralex-uzn-MOSQUITO-1//clicsbp-northeuralex-kaz-MOSQUITO-1//clicsbp-northeuralex-bak-MOSQUITO-1//clicsbp-northeuralex-tat-MOSQUITO-1//clicsbp-northeuralex-tat-MOSQUITO-2//clicsbp-northeuralex-chv-MOSQUITO-1//clicsbp-wold-Sakha-MOSQUITO-1//clicsbp-wold-Sakha-MOSQUITO-2"
     words "a ɣ dʒ a g a n a d//s ü j r ü ʒ i b i n//ʃ i r k e j//s o k ɨ r + ʃ ɨ b ɨ n//s i v ɾ i s i n ɛ k//tʃ i w i n//m ɑ s ɑ//s e r æ k æ j//tɕ e r k i//o z ɤ n b o r ɤ n//ʋ ə r ə m + t u n a//b ɨ r d a χ//k u m aː r"
@@ -2712,7 +2700,7 @@ graph [
     family_count 1
   ]
   node [
-    id 226
+    id 225
     label "SNAKE"
     occurrences "clicsbp-idssegmented-azerbaijani-SNAKE-1//clicsbp-idssegmented-kumyk-SNAKE-1//clicsbp-idssegmented-nogai-SNAKE-1//clicsbp-northeuralex-tur-SNAKE-1//clicsbp-northeuralex-uzn-SNAKE-1//clicsbp-northeuralex-kaz-SNAKE-1//clicsbp-northeuralex-bak-SNAKE-1//clicsbp-northeuralex-tat-SNAKE-1//clicsbp-northeuralex-chv-SNAKE-1//clicsbp-wold-Sakha-SNAKE-1//clicsbp-wold-Sakha-SNAKE-2//clicsbp-savelyevturkic-Karaim-SNAKE-1"
     words "i l a n//j ɨ l a n//j ɨ l a n//j ɯ l a n//i l ɒ n//ʒ ə l ɑ n//j ɯ l a n//e l a n//ɕ ɘ l ɛ n//m o ɣ o y//e r i e n + y œ n//j ɯ l a n"
@@ -2724,7 +2712,7 @@ graph [
     family_count 1
   ]
   node [
-    id 227
+    id 226
     label "FIREFLY"
     occurrences "clicsbp-idssegmented-azerbaijani-FIREFLY-1//clicsbp-idssegmented-kumyk-FIREFLY-1//clicsbp-idssegmented-nogai-FIREFLY-1"
     words "i ʃ ɨ l d a g u ʃ//u a r ɨ q + b e r e g e n + x u r t//j a r ɨ k + b e r e t a g a n + k u r t"
@@ -2736,7 +2724,7 @@ graph [
     family_count 1
   ]
   node [
-    id 228
+    id 227
     label "BUTTERFLY"
     occurrences "clicsbp-idssegmented-azerbaijani-BUTTERFLY-1//clicsbp-idssegmented-kumyk-BUTTERFLY-1//clicsbp-idssegmented-nogai-BUTTERFLY-1//clicsbp-northeuralex-tur-BUTTERFLY-1//clicsbp-northeuralex-uzn-BUTTERFLY-1//clicsbp-northeuralex-kaz-BUTTERFLY-1//clicsbp-northeuralex-bak-BUTTERFLY-1//clicsbp-northeuralex-tat-BUTTERFLY-1//clicsbp-northeuralex-chv-BUTTERFLY-1//clicsbp-wold-Sakha-BUTTERFLY-1"
     words "k æ p n æ k//g œ b e l e k//k ü p e l e k//k ɛ l ɛ b ɛ k//k a p a l a k//k ø b e l e k//k y b æ l æ k//k ʉ b æ l æ k//l ɘ p ɘ ʂ//y r y m e tʃː i"
@@ -2748,7 +2736,7 @@ graph [
     family_count 1
   ]
   node [
-    id 229
+    id 228
     label "GRASSHOPPER"
     occurrences "clicsbp-idssegmented-azerbaijani-GRASSHOPPER-1//clicsbp-idssegmented-kumyk-GRASSHOPPER-1//clicsbp-idssegmented-nogai-GRASSHOPPER-1//clicsbp-wold-Sakha-GRASSHOPPER-1"
     words "ʃ a l a + dʒ ɨ r dʒ ɨ r a m a//tʃ e ŋ e r t k i//ʃ e g e r t k i//a h ɨ ŋ a"
@@ -2760,7 +2748,7 @@ graph [
     family_count 1
   ]
   node [
-    id 230
+    id 229
     label "SNAIL"
     occurrences "clicsbp-idssegmented-azerbaijani-SNAIL-1//clicsbp-idssegmented-kumyk-SNAIL-1//clicsbp-idssegmented-nogai-SNAIL-1//clicsbp-wold-Sakha-SNAIL-1"
     words "i l b i z//x u r t uː a//ɨ l u w//tʃ o χ u + χ aː t a"
@@ -2772,7 +2760,7 @@ graph [
     family_count 1
   ]
   node [
-    id 231
+    id 230
     label "FROG"
     occurrences "clicsbp-idssegmented-azerbaijani-FROG-1//clicsbp-idssegmented-kumyk-FROG-1//clicsbp-idssegmented-nogai-FROG-1//clicsbp-wold-Sakha-FROG-1"
     words "g u r b a ɣ a//b a q a//b a k a//b a ɣ a"
@@ -2784,7 +2772,7 @@ graph [
     family_count 1
   ]
   node [
-    id 232
+    id 231
     label "LIZARD"
     occurrences "clicsbp-idssegmented-azerbaijani-LIZARD-1//clicsbp-idssegmented-kumyk-LIZARD-1//clicsbp-idssegmented-nogai-LIZARD-2//clicsbp-idssegmented-nogai-LIZARD-1//clicsbp-wold-Sakha-LIZARD-1"
     words "k æ r t æ n k æ l æ//k e s e r t k i//ʃ e g e r t k i//k e s e r t k i//k y l g e r i"
@@ -2796,7 +2784,7 @@ graph [
     family_count 1
   ]
   node [
-    id 233
+    id 232
     label "CROCODILE"
     occurrences "clicsbp-idssegmented-azerbaijani-CROCODILE-1//clicsbp-idssegmented-kumyk-CROCODILE-1//clicsbp-idssegmented-nogai-CROCODILE-1"
     words "t i m s a h//k r a k a d i l//k r o k o d i l"
@@ -2808,7 +2796,7 @@ graph [
     family_count 1
   ]
   node [
-    id 234
+    id 233
     label "TURTLE"
     occurrences "clicsbp-idssegmented-azerbaijani-TURTLE-1//clicsbp-idssegmented-kumyk-TURTLE-1//clicsbp-idssegmented-nogai-TURTLE-1"
     words "t ɨ s b a ɣ a//t a q a l ɨ b a q a//t a s b a k a"
@@ -2820,7 +2808,7 @@ graph [
     family_count 1
   ]
   node [
-    id 235
+    id 234
     label "BODY"
     occurrences "clicsbp-idssegmented-azerbaijani-BODY-1//clicsbp-idssegmented-kumyk-BODY-1//clicsbp-idssegmented-nogai-BODY-1//clicsbp-idssegmented-nogai-BODY-2//clicsbp-northeuralex-tur-BODY-1//clicsbp-northeuralex-uzn-BODY-1//clicsbp-northeuralex-kaz-BODY-1//clicsbp-northeuralex-bak-BODY-1//clicsbp-northeuralex-tat-BODY-1//clicsbp-northeuralex-tat-BODY-2//clicsbp-northeuralex-chv-BODY-1//clicsbp-northeuralex-chv-BODY-2//clicsbp-wold-Sakha-BODY-1"
     words "b æ d æ n//q a r q a r a//k a r k ɨ r a//k e w d e//v y dʒ u t//b a d n a//d e n e//t æ n//t æ n//dʑ i s e m//y t//y t p y//e t"
@@ -2832,7 +2820,7 @@ graph [
     family_count 1
   ]
   node [
-    id 236
+    id 235
     label "FLESH"
     occurrences "clicsbp-idssegmented-azerbaijani-FLESH-1//clicsbp-idssegmented-azerbaijani-FLESH-2//clicsbp-idssegmented-kumyk-FLESH-1//clicsbp-idssegmented-nogai-FLESH-1//clicsbp-wold-Sakha-FLESH-1"
     words "b æ d æ n//dʒ i s m//q a r q a r a//k a r k ɨ r a//e t"
@@ -2844,7 +2832,7 @@ graph [
     family_count 1
   ]
   node [
-    id 237
+    id 236
     label "SKIN"
     occurrences "clicsbp-idssegmented-azerbaijani-SKIN-1//clicsbp-idssegmented-kumyk-SKIN-1//clicsbp-idssegmented-nogai-SKIN-1//clicsbp-idssegmented-nogai-SKIN-2//clicsbp-northeuralex-tur-SKIN-1//clicsbp-northeuralex-uzn-SKIN-1//clicsbp-northeuralex-kaz-SKIN-1//clicsbp-northeuralex-bak-SKIN-1//clicsbp-northeuralex-tat-SKIN-1//clicsbp-northeuralex-chv-SKIN-1//clicsbp-wold-Sakha-SKIN-1//clicsbp-savelyevturkic-Karaim-SKIN-1"
     words "d æ r i//t e r i//t e r i//k œ n//dʒ i l t//t ɛ r i//t e ɾ ə//t i r e//t i r e//t i r//t i r iː//t e r i"
@@ -2856,7 +2844,7 @@ graph [
     family_count 1
   ]
   node [
-    id 238
+    id 237
     label "LEATHER"
     occurrences "clicsbp-idssegmented-azerbaijani-LEATHER-1//clicsbp-idssegmented-kumyk-LEATHER-1//clicsbp-idssegmented-nogai-LEATHER-2//clicsbp-idssegmented-nogai-LEATHER-1//clicsbp-northeuralex-tur-LEATHER-1//clicsbp-northeuralex-tur-LEATHER-2//clicsbp-northeuralex-uzn-LEATHER-1//clicsbp-northeuralex-kaz-LEATHER-1//clicsbp-northeuralex-bak-LEATHER-1//clicsbp-northeuralex-tat-LEATHER-1//clicsbp-northeuralex-chv-LEATHER-1//clicsbp-wold-Sakha-LEATHER-1"
     words "d æ r i//t e r i//t e r i//k œ n//d ɛ ɾ i//m ɛ ʃ i n//tʃ a r m//k ø n//k y n//k ʉ n//s ə r a n//t i r iː"
@@ -2868,7 +2856,7 @@ graph [
     family_count 1
   ]
   node [
-    id 239
+    id 238
     label "HAIR (HEAD)"
     occurrences "clicsbp-idssegmented-azerbaijani-HAIRHEAD-1//clicsbp-idssegmented-kumyk-HAIRHEAD-1//clicsbp-idssegmented-nogai-HAIRHEAD-1//clicsbp-wold-Sakha-HAIRHEAD-1//clicsbp-wold-Sakha-HAIRHEAD-2//clicsbp-savelyevturkic-Karaim-HAIRHEAD-1"
     words "s a tʃ//tʃ a tʃ//ʃ a ʃ//b a tː a χ//a s//s a tɕ"
@@ -2880,7 +2868,7 @@ graph [
     family_count 1
   ]
   node [
-    id 240
+    id 239
     label "BEARD"
     occurrences "clicsbp-idssegmented-azerbaijani-BEARD-1//clicsbp-idssegmented-kumyk-BEARD-1//clicsbp-idssegmented-nogai-BEARD-1//clicsbp-northeuralex-tur-BEARD-1//clicsbp-northeuralex-uzn-BEARD-1//clicsbp-northeuralex-kaz-BEARD-1//clicsbp-northeuralex-bak-BEARD-1//clicsbp-northeuralex-tat-BEARD-1//clicsbp-northeuralex-chv-BEARD-1//clicsbp-wold-Sakha-BEARD-1"
     words "s a gː a l//s a q a l//s a k a l//s a k a l//s ɒ q ɒ l//s ɑ q ɑ l//h a q a l//s a q ɑ l//s u χ a l//b ɨ t ɨ k"
@@ -2892,7 +2880,7 @@ graph [
     family_count 1
   ]
   node [
-    id 241
+    id 240
     label "HAIR (BODY)"
     occurrences "clicsbp-idssegmented-azerbaijani-HAIRBODY-1//clicsbp-idssegmented-kumyk-HAIRBODY-1//clicsbp-idssegmented-nogai-HAIRBODY-1//clicsbp-wold-Sakha-HAIRBODY-1"
     words "t ü k//t ü k//t ü k//t yː"
@@ -2904,7 +2892,7 @@ graph [
     family_count 1
   ]
   node [
-    id 242
+    id 241
     label "PUBIC HAIR"
     occurrences "clicsbp-idssegmented-azerbaijani-PUBICHAIR-1//clicsbp-idssegmented-kumyk-PUBICHAIR-1//clicsbp-idssegmented-nogai-PUBICHAIR-1//clicsbp-wold-Sakha-PUBICHAIR-1"
     words "a l ɨ n + t ü k ü//u a mː u z//t ü k//t yː"
@@ -2916,7 +2904,7 @@ graph [
     family_count 1
   ]
   node [
-    id 243
+    id 242
     label "DANDRUFF"
     occurrences "clicsbp-idssegmented-azerbaijani-DANDRUFF-1//clicsbp-idssegmented-kumyk-DANDRUFF-1//clicsbp-idssegmented-nogai-DANDRUFF-1//clicsbp-wold-Sakha-DANDRUFF-1"
     words "k æ p æ k//q a s n a q//k a j ɨ z g a k//χ o ɣ o h o"
@@ -2928,7 +2916,7 @@ graph [
     family_count 1
   ]
   node [
-    id 244
+    id 243
     label "BLOOD"
     occurrences "clicsbp-idssegmented-azerbaijani-BLOOD-1//clicsbp-idssegmented-kumyk-BLOOD-1//clicsbp-idssegmented-nogai-BLOOD-1//clicsbp-northeuralex-tur-BLOOD-1//clicsbp-northeuralex-uzn-BLOOD-1//clicsbp-northeuralex-kaz-BLOOD-1//clicsbp-northeuralex-bak-BLOOD-1//clicsbp-northeuralex-tat-BLOOD-1//clicsbp-northeuralex-chv-BLOOD-1//clicsbp-wold-Sakha-BLOOD-1//clicsbp-savelyevturkic-Karaim-BLOOD-1"
     words "g a n//q a n//k a n//k a n//q ɒ n//q ɑ n//q a n//q ɑ n//j u n//χ aː n//k a n"
@@ -2940,7 +2928,7 @@ graph [
     family_count 1
   ]
   node [
-    id 245
+    id 244
     label "BLOOD VESSEL"
     occurrences "clicsbp-idssegmented-azerbaijani-BLOODVESSEL-1//clicsbp-idssegmented-azerbaijani-BLOODVESSEL-2//clicsbp-idssegmented-azerbaijani-BLOODVESSEL-3//clicsbp-idssegmented-kumyk-BLOODVESSEL-1//clicsbp-idssegmented-nogai-BLOODVESSEL-1//clicsbp-wold-Sakha-BLOODVESSEL-1"
     words "v e n a//a r t e r i j a//d a m a r//q a n t a m u r//k a n + t a m ɨ r//t ɨ m ɨ r"
@@ -2952,7 +2940,7 @@ graph [
     family_count 1
   ]
   node [
-    id 246
+    id 245
     label "BONE"
     occurrences "clicsbp-idssegmented-azerbaijani-BONE-1//clicsbp-idssegmented-kumyk-BONE-1//clicsbp-idssegmented-nogai-BONE-1//clicsbp-northeuralex-tur-BONE-1//clicsbp-northeuralex-uzn-BONE-1//clicsbp-northeuralex-kaz-BONE-1//clicsbp-northeuralex-bak-BONE-1//clicsbp-northeuralex-tat-BONE-1//clicsbp-northeuralex-chv-BONE-1//clicsbp-wold-Sakha-BONE-1//clicsbp-savelyevturkic-Karaim-BONE-1"
     words "s ü m ü k//s ü j e k//s ü j e k//k ɛ m i k//s u j a k//ʒ ə l ə k//h o j æ k//s œ j a k//ʂ ə m ə//u ŋ u o χ//s i v e k"
@@ -2964,7 +2952,7 @@ graph [
     family_count 1
   ]
   node [
-    id 247
+    id 246
     label "RIB"
     occurrences "clicsbp-idssegmented-azerbaijani-RIB-1//clicsbp-idssegmented-kumyk-RIB-1//clicsbp-idssegmented-kumyk-RIB-2//clicsbp-idssegmented-nogai-RIB-1//clicsbp-wold-Sakha-RIB-1"
     words "g a b ɨ r g a//q a b u r ɣ a//q a b u r ɣ a + s ü j e k//k u j r ɨ k//o y o ɣ o s + u ŋ u o ɣ a"
@@ -2976,7 +2964,7 @@ graph [
     family_count 1
   ]
   node [
-    id 248
+    id 247
     label "HORN (ANATOMY)"
     occurrences "clicsbp-idssegmented-azerbaijani-HORNANATOMY-1//clicsbp-idssegmented-kumyk-HORNANATOMY-1//clicsbp-idssegmented-nogai-HORNANATOMY-1//clicsbp-northeuralex-tur-HORNANATOMY-1//clicsbp-northeuralex-uzn-HORNANATOMY-1//clicsbp-northeuralex-kaz-HORNANATOMY-1//clicsbp-northeuralex-bak-HORNANATOMY-1//clicsbp-northeuralex-tat-HORNANATOMY-1//clicsbp-northeuralex-chv-HORNANATOMY-1//clicsbp-wold-Sakha-HORNANATOMY-1//clicsbp-savelyevturkic-Karaim-HORNANATOMY-1"
     words "b u j n u z//m ü j u z//m ü j i z//b o j n u z//m u g i z//m ʊ j ə z//m ø ɣ ø ð//m œ g e z//m ə j r a k a//m u o s//m y ŋ y z"
@@ -2988,7 +2976,7 @@ graph [
     family_count 1
   ]
   node [
-    id 249
+    id 248
     label "TAIL"
     occurrences "clicsbp-idssegmented-azerbaijani-TAIL-1//clicsbp-idssegmented-kumyk-TAIL-1//clicsbp-idssegmented-nogai-TAIL-1//clicsbp-northeuralex-tur-TAIL-1//clicsbp-northeuralex-uzn-TAIL-1//clicsbp-northeuralex-kaz-TAIL-1//clicsbp-northeuralex-bak-TAIL-1//clicsbp-northeuralex-tat-TAIL-1//clicsbp-northeuralex-chv-TAIL-1//clicsbp-wold-Sakha-TAIL-1//clicsbp-savelyevturkic-Karaim-TAIL-1"
     words "g u j r u g//q u j r u q//k u j r ɨ k//k u j ɾ u k//q u j r u q//q ʉ j ɾ ə q//q o j r o q//q o j r ɤ k//χ y r ɛ//k u t u r u k//k u j r u k"
@@ -3000,7 +2988,7 @@ graph [
     family_count 1
   ]
   node [
-    id 250
+    id 249
     label "BACK"
     occurrences "clicsbp-idssegmented-azerbaijani-BACK-1//clicsbp-idssegmented-azerbaijani-BACK-2//clicsbp-idssegmented-kumyk-BACK-1//clicsbp-idssegmented-kumyk-BACK-2//clicsbp-idssegmented-nogai-BACK-1//clicsbp-idssegmented-nogai-BACK-2//clicsbp-northeuralex-tur-BACK-1//clicsbp-northeuralex-uzn-BACK-1//clicsbp-northeuralex-kaz-BACK-1//clicsbp-northeuralex-bak-BACK-1//clicsbp-northeuralex-tat-BACK-1//clicsbp-northeuralex-chv-BACK-1//clicsbp-wold-Sakha-BACK-1//clicsbp-savelyevturkic-Karaim-BACK-1"
     words "a r x a//b e l//a r q a//s ɨ r t//s ɨ r t//a r k a//a ɾ k a//ɒ r q a//ɑ ɾ q ɑ//a r q a//s ɤ r t//ɕ u r ə m//k œ ɣ y s//a r k a"
@@ -3012,7 +3000,7 @@ graph [
     family_count 1
   ]
   node [
-    id 251
+    id 250
     label "WAIST"
     occurrences "clicsbp-idssegmented-azerbaijani-WAIST-1//clicsbp-idssegmented-kumyk-WAIST-1//clicsbp-idssegmented-nogai-WAIST-1//clicsbp-wold-Sakha-WAIST-1"
     words "b e l//b e l//b e l//b iː l"
@@ -3024,7 +3012,7 @@ graph [
     family_count 1
   ]
   node [
-    id 252
+    id 251
     label "SPADE"
     occurrences "clicsbp-idssegmented-azerbaijani-SPADE-2//clicsbp-idssegmented-azerbaijani-SPADE-1//clicsbp-idssegmented-kumyk-SPADE-1//clicsbp-idssegmented-nogai-SPADE-1//clicsbp-northeuralex-tur-SPADE-1//clicsbp-northeuralex-uzn-SPADE-1//clicsbp-northeuralex-kaz-SPADE-1//clicsbp-northeuralex-bak-SPADE-1//clicsbp-northeuralex-tat-SPADE-1//clicsbp-northeuralex-chv-SPADE-1//clicsbp-wold-Sakha-SPADE-1"
     words "b e l//k ü r æ k//b e l//k a z g ɨ r//b ɛ l//b ɛ l//k ʊ ɾ e k//k ø r æ k//k œ r æ k//k ɘ r ɛ ɕ ɛ//k y r dʒ e χ"
@@ -3036,7 +3024,7 @@ graph [
     family_count 1
   ]
   node [
-    id 253
+    id 252
     label "SHOVEL"
     occurrences "clicsbp-idssegmented-azerbaijani-SHOVEL-1//clicsbp-idssegmented-azerbaijani-SHOVEL-2//clicsbp-idssegmented-kumyk-SHOVEL-1//clicsbp-idssegmented-kumyk-SHOVEL-2//clicsbp-idssegmented-kumyk-SHOVEL-3//clicsbp-idssegmented-kumyk-SHOVEL-4//clicsbp-idssegmented-nogai-SHOVEL-1//clicsbp-idssegmented-nogai-SHOVEL-2//clicsbp-northeuralex-tur-SHOVEL-1//clicsbp-northeuralex-uzn-SHOVEL-1//clicsbp-northeuralex-kaz-SHOVEL-1//clicsbp-northeuralex-bak-SHOVEL-1//clicsbp-northeuralex-tat-SHOVEL-1//clicsbp-northeuralex-chv-SHOVEL-1//clicsbp-wold-Sakha-SHOVEL-1"
     words "b e l//x æ k æ n d a z//b e l//h a k e nː e z//u n + a u a q//tʃ o r ɣ a u a q//k a z g ɨ r//s æ w e k//k y ɾ ɛ k//k u r a k//q ɑ l ɑ q//k ø r æ k//k œ r æ k//k ɘ r ɛ ɕ ɛ//k y r dʒ e χ"
@@ -3048,7 +3036,7 @@ graph [
     family_count 1
   ]
   node [
-    id 254
+    id 253
     label "SPINE"
     occurrences "clicsbp-idssegmented-azerbaijani-SPINE-1//clicsbp-idssegmented-azerbaijani-SPINE-2//clicsbp-idssegmented-kumyk-SPINE-1//clicsbp-idssegmented-nogai-SPINE-1//clicsbp-idssegmented-nogai-SPINE-2//clicsbp-wold-Sakha-SPINE-1//clicsbp-wold-Sakha-SPINE-2"
     words "o n u r ɣ a//b e l + s ü m ü j ü//a r q a s ü j e k//a r k a + a d e k//o m ɨ r t k a//u o r ɣ a//t o n o ɣ o s"
@@ -3060,7 +3048,7 @@ graph [
     family_count 1
   ]
   node [
-    id 255
+    id 254
     label "HEAD"
     occurrences "clicsbp-idssegmented-azerbaijani-HEAD-1//clicsbp-idssegmented-kumyk-HEAD-1//clicsbp-idssegmented-nogai-HEAD-1//clicsbp-northeuralex-tur-HEAD-1//clicsbp-northeuralex-tur-HEAD-2//clicsbp-northeuralex-uzn-HEAD-1//clicsbp-northeuralex-kaz-HEAD-1//clicsbp-northeuralex-bak-HEAD-1//clicsbp-northeuralex-tat-HEAD-1//clicsbp-northeuralex-chv-HEAD-1//clicsbp-wold-Sakha-HEAD-1//clicsbp-wold-Sakha-HEAD-2//clicsbp-savelyevturkic-Karaim-HEAD-1"
     words "b a ʃ//b a ʃ//b a s//b a ʃ//k a f a//b ɒ ʃ//k æ lː æ//b a ʃ//b a ʃ//p u ɕ//b a s//t œ b œ//b a ʃ"
@@ -3072,7 +3060,7 @@ graph [
     family_count 1
   ]
   node [
-    id 256
+    id 255
     label "EMPTY"
     occurrences "clicsbp-idssegmented-azerbaijani-EMPTY-1//clicsbp-idssegmented-kumyk-EMPTY-1//clicsbp-idssegmented-nogai-EMPTY-1//clicsbp-northeuralex-tur-EMPTY-1//clicsbp-northeuralex-uzn-EMPTY-1//clicsbp-northeuralex-kaz-EMPTY-1//clicsbp-northeuralex-bak-EMPTY-1//clicsbp-northeuralex-tat-EMPTY-1//clicsbp-northeuralex-chv-EMPTY-1//clicsbp-wold-Sakha-EMPTY-1//clicsbp-wold-Sakha-EMPTY-2"
     words "b a ʃ//b o ʃ//b o s//b o ʃ//p u tʃ//b o s//b u ʃ//b u ʃ//p u ʂ ə//i tʃː i t e χ//k u r aː n a χ"
@@ -3084,7 +3072,7 @@ graph [
     family_count 1
   ]
   node [
-    id 257
+    id 256
     label "TEMPLES"
     occurrences "clicsbp-idssegmented-azerbaijani-TEMPLES-1//clicsbp-idssegmented-kumyk-TEMPLES-1//clicsbp-idssegmented-kumyk-TEMPLES-2//clicsbp-idssegmented-nogai-TEMPLES-1//clicsbp-wold-Sakha-TEMPLES-1//clicsbp-wold-Sakha-TEMPLES-2//clicsbp-wold-Sakha-TEMPLES-3"
     words "gʲ i dʒ gʲ a h//tʃ e k e//q a m a//ʃ e k e//tʃ e tʃ e g e y//tʃ a n tʃ ɨ k//tʃ a b ɨ r ɣ a y"
@@ -3096,7 +3084,7 @@ graph [
     family_count 1
   ]
   node [
-    id 258
+    id 257
     label "SKULL"
     occurrences "clicsbp-idssegmented-azerbaijani-SKULL-1//clicsbp-idssegmented-azerbaijani-SKULL-2//clicsbp-idssegmented-kumyk-SKULL-1//clicsbp-idssegmented-nogai-SKULL-1//clicsbp-idssegmented-nogai-SKULL-2//clicsbp-wold-Sakha-SKULL-1"
     words "k æ lː æ//g a f a + t a s ɨ//t a q a//b a s + s ü j e k//t a k a//t œ b œ + u ŋ u o ɣ a"
@@ -3108,7 +3096,7 @@ graph [
     family_count 1
   ]
   node [
-    id 259
+    id 258
     label "BRAIN"
     occurrences "clicsbp-idssegmented-azerbaijani-BRAIN-1//clicsbp-idssegmented-kumyk-BRAIN-1//clicsbp-idssegmented-kumyk-BRAIN-2//clicsbp-idssegmented-nogai-BRAIN-1//clicsbp-northeuralex-tur-BRAIN-1//clicsbp-northeuralex-uzn-BRAIN-1//clicsbp-northeuralex-kaz-BRAIN-1//clicsbp-northeuralex-bak-BRAIN-1//clicsbp-northeuralex-tat-BRAIN-1//clicsbp-northeuralex-chv-BRAIN-1//clicsbp-wold-Sakha-BRAIN-1//clicsbp-savelyevturkic-Karaim-BRAIN-1"
     words "b e j i n//m i j//b a ʃ m a j//m ɨ j//b ɛ j i n//m i j a//m ɪ j//m e j e//m i//m i m ɛ//m e y iː//m i j"
@@ -3120,7 +3108,7 @@ graph [
     family_count 1
   ]
   node [
-    id 260
+    id 259
     label "FACE"
     occurrences "clicsbp-idssegmented-azerbaijani-FACE-1//clicsbp-idssegmented-azerbaijani-FACE-2//clicsbp-idssegmented-kumyk-FACE-1//clicsbp-idssegmented-kumyk-FACE-2//clicsbp-idssegmented-nogai-FACE-1//clicsbp-idssegmented-nogai-FACE-2//clicsbp-idssegmented-nogai-FACE-3//clicsbp-idssegmented-nogai-FACE-4//clicsbp-northeuralex-tur-FACE-1//clicsbp-northeuralex-uzn-FACE-1//clicsbp-northeuralex-kaz-FACE-1//clicsbp-northeuralex-bak-FACE-1//clicsbp-northeuralex-tat-FACE-1//clicsbp-northeuralex-chv-FACE-1//clicsbp-northeuralex-chv-FACE-2//clicsbp-wold-Sakha-FACE-1"
     words "s i f æ t//ü z//b e t//s ɨ p a t//j u z//ʃ ɨ r a j//s ɨ t a t//b e t//j y z//j u z//b e t ɑ u z ə//b i t//j œ z//p i t//p i t k u ɕ//s i r e y"
@@ -3132,7 +3120,7 @@ graph [
     family_count 1
   ]
   node [
-    id 261
+    id 260
     label "FOREHEAD"
     occurrences "clicsbp-idssegmented-azerbaijani-FOREHEAD-1//clicsbp-idssegmented-kumyk-FOREHEAD-1//clicsbp-idssegmented-nogai-FOREHEAD-1//clicsbp-northeuralex-tur-FOREHEAD-1//clicsbp-northeuralex-uzn-FOREHEAD-1//clicsbp-northeuralex-kaz-FOREHEAD-1//clicsbp-northeuralex-bak-FOREHEAD-1//clicsbp-northeuralex-tat-FOREHEAD-1//clicsbp-northeuralex-chv-FOREHEAD-1//clicsbp-wold-Sakha-FOREHEAD-1"
     words "a l ɨ n//m a ŋ a l a j//m a ŋ l a j//a l ɯ n//m a ŋ l a j//m ɑ ŋ d ɑ j//m a ŋ l a j//m a ŋ g a j//ɕ a m k a//s yː s"
@@ -3144,7 +3132,7 @@ graph [
     family_count 1
   ]
   node [
-    id 262
+    id 261
     label "JAW"
     occurrences "clicsbp-idssegmented-azerbaijani-JAW-1//clicsbp-idssegmented-kumyk-JAW-1//clicsbp-idssegmented-kumyk-JAW-2//clicsbp-idssegmented-nogai-JAW-1//clicsbp-idssegmented-nogai-JAW-2//clicsbp-northeuralex-tur-JAW-1//clicsbp-northeuralex-uzn-JAW-1//clicsbp-northeuralex-kaz-JAW-1//clicsbp-northeuralex-bak-JAW-1//clicsbp-northeuralex-tat-JAW-1//clicsbp-northeuralex-chv-JAW-1//clicsbp-wold-Sakha-JAW-1"
     words "tʃ æ n æ//tʃ e n e//u a u a q s ü j e k//ʃ e k e//j a k//tʃ ɛ n ɛ//i j a k//ʒ ɑ q//j a ŋ a q + h ø j æ g e//q ɑ z n a l ɤ k//j a n a χ//s ɨ ŋ aː χ"
@@ -3156,7 +3144,7 @@ graph [
     family_count 1
   ]
   node [
-    id 263
+    id 262
     label "CHIN"
     occurrences "clicsbp-idssegmented-azerbaijani-CHIN-1//clicsbp-idssegmented-kumyk-CHIN-1//clicsbp-idssegmented-nogai-CHIN-1//clicsbp-northeuralex-tur-CHIN-1//clicsbp-northeuralex-uzn-CHIN-1//clicsbp-northeuralex-kaz-CHIN-1//clicsbp-northeuralex-bak-CHIN-1//clicsbp-northeuralex-tat-CHIN-1//clicsbp-northeuralex-chv-CHIN-1//clicsbp-wold-Sakha-CHIN-1"
     words "tʃ æ n æ//s a q a l s ü j e k//i j e k//tʃ ɛ n ɛ//æ ŋ a k//ɪ j e k//e j e k//i j a k//j a n a χ//s e ŋ i y e"
@@ -3168,7 +3156,7 @@ graph [
     family_count 1
   ]
   node [
-    id 264
+    id 263
     label "CHEEK"
     occurrences "clicsbp-idssegmented-azerbaijani-CHEEK-1//clicsbp-idssegmented-kumyk-CHEEK-1//clicsbp-idssegmented-nogai-CHEEK-2//clicsbp-idssegmented-nogai-CHEEK-1//clicsbp-northeuralex-tur-CHEEK-1//clicsbp-northeuralex-uzn-CHEEK-1//clicsbp-northeuralex-kaz-CHEEK-1//clicsbp-northeuralex-bak-CHEEK-1//clicsbp-northeuralex-tat-CHEEK-1//clicsbp-northeuralex-chv-CHEEK-1//clicsbp-wold-Sakha-CHEEK-1//clicsbp-savelyevturkic-Karaim-CHEEK-1"
     words "j a n a g//u a u a q//b e t//j e k//j a n a k//b ɛ t//ʉ ɾ t//j a ts a q t a r//j a ŋ a k//p i t + ɕ ə m a r t i//i e d e s//j a j a k"
@@ -3180,7 +3168,7 @@ graph [
     family_count 1
   ]
   node [
-    id 265
+    id 264
     label "EYE"
     occurrences "clicsbp-idssegmented-azerbaijani-EYE-1//clicsbp-idssegmented-kumyk-EYE-1//clicsbp-idssegmented-nogai-EYE-1//clicsbp-northeuralex-tur-EYE-1//clicsbp-northeuralex-uzn-EYE-1//clicsbp-northeuralex-kaz-EYE-1//clicsbp-northeuralex-bak-EYE-1//clicsbp-northeuralex-tat-EYE-1//clicsbp-northeuralex-chv-EYE-1//clicsbp-wold-Sakha-EYE-1//clicsbp-savelyevturkic-Karaim-EYE-1"
     words "gʲ œ z//g œ z//k œ z//g œ z//k o z//k ø z//k y ð//k ʉ z//k u ɕ//χ a r a χ//k ø z"
@@ -3192,7 +3180,7 @@ graph [
     family_count 1
   ]
   node [
-    id 266
+    id 265
     label "EYEBROW"
     occurrences "clicsbp-idssegmented-azerbaijani-EYEBROW-1//clicsbp-idssegmented-kumyk-EYEBROW-1//clicsbp-idssegmented-nogai-EYEBROW-1//clicsbp-wold-Sakha-EYEBROW-1"
     words "g a ʃ//q a ʃ//k a s//χ aː s"
@@ -3204,7 +3192,7 @@ graph [
     family_count 1
   ]
   node [
-    id 267
+    id 266
     label "EYELID"
     occurrences "clicsbp-idssegmented-azerbaijani-EYELID-1//clicsbp-idssegmented-kumyk-EYELID-2//clicsbp-idssegmented-kumyk-EYELID-1//clicsbp-idssegmented-nogai-EYELID-1//clicsbp-wold-Sakha-EYELID-1"
     words "gʲ œ z + g a p a ɣ ɨ//g œ z//g œ z + q a b a ɣ ɨ//k œ z + k a b a k//χ a l t a h a"
@@ -3216,7 +3204,7 @@ graph [
     family_count 1
   ]
   node [
-    id 268
+    id 267
     label "EYELASH"
     occurrences "clicsbp-idssegmented-azerbaijani-EYELASH-1//clicsbp-idssegmented-kumyk-EYELASH-1//clicsbp-idssegmented-nogai-EYELASH-1//clicsbp-wold-Sakha-EYELASH-1"
     words "k i r p i k//k i r p i k//k i r p i k//k ɨ l a m a n"
@@ -3228,7 +3216,7 @@ graph [
     family_count 1
   ]
   node [
-    id 269
+    id 268
     label "BLINK"
     occurrences "clicsbp-idssegmented-azerbaijani-BLINK-1//clicsbp-idssegmented-kumyk-BLINK-1//clicsbp-idssegmented-nogai-BLINK-1//clicsbp-idssegmented-nogai-BLINK-2//clicsbp-wold-Sakha-BLINK-1"
     words "gʲ œ z l æ r i n i + g ɨ j m a g//g œ z + s ü z m e k//k œ z d i + k ɨ s u w//k œ z d i + j ɨ m u w//tʃ a p tʃ ɨ l ɨ y"
@@ -3240,7 +3228,7 @@ graph [
     family_count 1
   ]
   node [
-    id 270
+    id 269
     label "EAR"
     occurrences "clicsbp-idssegmented-azerbaijani-EAR-1//clicsbp-idssegmented-kumyk-EAR-1//clicsbp-idssegmented-nogai-EAR-1//clicsbp-northeuralex-tur-EAR-1//clicsbp-northeuralex-uzn-EAR-1//clicsbp-northeuralex-kaz-EAR-1//clicsbp-northeuralex-bak-EAR-1//clicsbp-northeuralex-tat-EAR-1//clicsbp-northeuralex-chv-EAR-1//clicsbp-wold-Sakha-EAR-1//clicsbp-savelyevturkic-Karaim-EAR-1"
     words "g u l a g//q u l a q//k u l a k//k u l a k//q u l ɒ q//q ʉ l ɑ q//q o l a q//q o l a k//χ ə l χ a//k u l g aː χ//k u l a k"
@@ -3252,7 +3240,7 @@ graph [
     family_count 1
   ]
   node [
-    id 271
+    id 270
     label "EARLOBE"
     occurrences "clicsbp-idssegmented-azerbaijani-EARLOBE-1//clicsbp-idssegmented-kumyk-EARLOBE-1//clicsbp-idssegmented-nogai-EARLOBE-1//clicsbp-wold-Sakha-EARLOBE-1"
     words "m æ r dʒ æ k//q u l a q + t ü b ü//k u l a k + t ü b i//k u l g aː χ + e m i n ɲ e ɣ e"
@@ -3264,7 +3252,7 @@ graph [
     family_count 1
   ]
   node [
-    id 272
+    id 271
     label "EARWAX"
     occurrences "clicsbp-idssegmented-azerbaijani-EARWAX-1//clicsbp-idssegmented-azerbaijani-EARWAX-2//clicsbp-idssegmented-kumyk-EARWAX-1//clicsbp-idssegmented-nogai-EARWAX-1//clicsbp-wold-Sakha-EARWAX-1"
     words "k ü k ü r d//g u l a g + tʃ i r k i//q u l a q + k ü k ü r t//k u l a k + k ü k i r t//k u l g aː χ + χ o ɣ o h o t o"
@@ -3276,7 +3264,7 @@ graph [
     family_count 1
   ]
   node [
-    id 273
+    id 272
     label "NOSE"
     occurrences "clicsbp-idssegmented-azerbaijani-NOSE-1//clicsbp-idssegmented-kumyk-NOSE-1//clicsbp-idssegmented-nogai-NOSE-1//clicsbp-northeuralex-tur-NOSE-1//clicsbp-northeuralex-uzn-NOSE-1//clicsbp-northeuralex-kaz-NOSE-1//clicsbp-northeuralex-bak-NOSE-1//clicsbp-northeuralex-tat-NOSE-1//clicsbp-northeuralex-chv-NOSE-1//clicsbp-wold-Sakha-NOSE-1//clicsbp-savelyevturkic-Karaim-NOSE-1"
     words "b u r u n//b u r u n//b u r ɨ n//b u ɾ u n//b u r u n//m ʉ ɾ ə n//t a n au//b o r ɤ n//s ə m s a//m u r u n//b u r u n"
@@ -3288,7 +3276,7 @@ graph [
     family_count 1
   ]
   node [
-    id 274
+    id 273
     label "NOSTRIL"
     occurrences "clicsbp-idssegmented-azerbaijani-NOSTRIL-1//clicsbp-idssegmented-kumyk-NOSTRIL-1//clicsbp-idssegmented-nogai-NOSTRIL-1//clicsbp-wold-Sakha-NOSTRIL-1//clicsbp-wold-Sakha-NOSTRIL-2"
     words "b u r u n + n a h i j æ s i//t a n a w//t a n a w//t a n ɨː//m u r u n + χ a y a ɣ a h a"
@@ -3300,7 +3288,7 @@ graph [
     family_count 1
   ]
   node [
-    id 275
+    id 274
     label "NASAL MUCUS (SNOT)"
     occurrences "clicsbp-idssegmented-azerbaijani-NASALMUCUSSNOT-1//clicsbp-idssegmented-azerbaijani-NASALMUCUSSNOT-2//clicsbp-idssegmented-kumyk-NASALMUCUSSNOT-1//clicsbp-idssegmented-kumyk-NASALMUCUSSNOT-2//clicsbp-idssegmented-nogai-NASALMUCUSSNOT-1//clicsbp-idssegmented-nogai-NASALMUCUSSNOT-2//clicsbp-idssegmented-nogai-NASALMUCUSSNOT-3//clicsbp-idssegmented-nogai-NASALMUCUSSNOT-4//clicsbp-wold-Sakha-NASALMUCUSSNOT-1//clicsbp-savelyevturkic-Karaim-NASALMUCUSSNOT-1//clicsbp-savelyevturkic-Karaim-NASALMUCUSSNOT-2//clicsbp-savelyevturkic-Karaim-NASALMUCUSSNOT-3"
     words "s e l i k//f ɨ r t ɨ g//j ɨ l a w u q//b u r u n p o q//s ɨ b a s//l a j l a//b u r ɨ n p o k//s i m i r i k//s ɨː ŋ k//b u r u n + j i v i s i//b u r u n + j i v i s i//j e r i ŋ"
@@ -3312,7 +3300,7 @@ graph [
     family_count 1
   ]
   node [
-    id 276
+    id 275
     label "MOUTH"
     occurrences "clicsbp-idssegmented-azerbaijani-MOUTH-1//clicsbp-idssegmented-kumyk-MOUTH-1//clicsbp-idssegmented-nogai-MOUTH-1//clicsbp-northeuralex-tur-MOUTH-1//clicsbp-northeuralex-uzn-MOUTH-1//clicsbp-northeuralex-kaz-MOUTH-1//clicsbp-northeuralex-bak-MOUTH-1//clicsbp-northeuralex-tat-MOUTH-1//clicsbp-northeuralex-tat-MOUTH-2//clicsbp-northeuralex-chv-MOUTH-1//clicsbp-wold-Sakha-MOUTH-1//clicsbp-savelyevturkic-Karaim-MOUTH-1"
     words "a ɣ ɨ z//a w u z//a w ɨ z//aː ɯ z//ɒ ɣ i z//ɑ uə z//au ɯ ð//a w ɤ z//t a m a k//ɕ ə ʋ a r//a ỹ a χ//a v u z"
@@ -3324,7 +3312,7 @@ graph [
     family_count 1
   ]
   node [
-    id 277
+    id 276
     label "BEAK"
     occurrences "clicsbp-idssegmented-azerbaijani-BEAK-1//clicsbp-idssegmented-kumyk-BEAK-1//clicsbp-idssegmented-nogai-BEAK-1//clicsbp-wold-Sakha-BEAK-1"
     words "d i m d i k//q u ʃ b u r u n//b u r ɨ n//t u m u s"
@@ -3336,7 +3324,7 @@ graph [
     family_count 1
   ]
   node [
-    id 278
+    id 277
     label "LIP"
     occurrences "clicsbp-idssegmented-azerbaijani-LIP-1//clicsbp-idssegmented-kumyk-LIP-1//clicsbp-idssegmented-nogai-LIP-1//clicsbp-northeuralex-tur-LIP-1//clicsbp-northeuralex-uzn-LIP-1//clicsbp-northeuralex-kaz-LIP-1//clicsbp-northeuralex-bak-LIP-1//clicsbp-northeuralex-tat-LIP-1//clicsbp-northeuralex-chv-LIP-1//clicsbp-wold-Sakha-LIP-1"
     words "d o d a g//e r i n//e r i n//d u d a k//d u d ɒ q//e ɾ ə n//i r e n//i r e n//t u t a//u o s"
@@ -3348,7 +3336,7 @@ graph [
     family_count 1
   ]
   node [
-    id 279
+    id 278
     label "TONGUE"
     occurrences "clicsbp-idssegmented-azerbaijani-TONGUE-1//clicsbp-idssegmented-kumyk-TONGUE-1//clicsbp-idssegmented-nogai-TONGUE-1//clicsbp-northeuralex-tur-TONGUE-1//clicsbp-northeuralex-uzn-TONGUE-1//clicsbp-northeuralex-kaz-TONGUE-1//clicsbp-northeuralex-bak-TONGUE-1//clicsbp-northeuralex-tat-TONGUE-1//clicsbp-northeuralex-chv-TONGUE-1//clicsbp-wold-Sakha-TONGUE-1//clicsbp-savelyevturkic-Karaim-TONGUE-1"
     words "d i l//t i l//t i l//d i l//t i l//t ə l//t e l//t e l//tɕ ɘ l χ ɛ//t ɨ l//t i l"
@@ -3360,7 +3348,7 @@ graph [
     family_count 1
   ]
   node [
-    id 280
+    id 279
     label "LANGUAGE"
     occurrences "clicsbp-idssegmented-azerbaijani-LANGUAGE-1//clicsbp-idssegmented-kumyk-LANGUAGE-1//clicsbp-idssegmented-nogai-LANGUAGE-1//clicsbp-northeuralex-tur-LANGUAGE-1//clicsbp-northeuralex-tur-LANGUAGE-2//clicsbp-northeuralex-uzn-LANGUAGE-1//clicsbp-northeuralex-kaz-LANGUAGE-1//clicsbp-northeuralex-bak-LANGUAGE-1//clicsbp-northeuralex-bak-LANGUAGE-2//clicsbp-northeuralex-tat-LANGUAGE-1//clicsbp-northeuralex-chv-LANGUAGE-1//clicsbp-wold-Sakha-LANGUAGE-1"
     words "d i l//t i l//t i l//d i l//l i s a n//t i l//t ə l//t e l//t e l m æ r//t e l//tɕ ɘ l χ ɛ//t ɨ l"
@@ -3372,7 +3360,7 @@ graph [
     family_count 1
   ]
   node [
-    id 281
+    id 280
     label "TOOTH"
     occurrences "clicsbp-idssegmented-azerbaijani-TOOTH-1//clicsbp-idssegmented-kumyk-TOOTH-1//clicsbp-idssegmented-nogai-TOOTH-1//clicsbp-northeuralex-tur-TOOTH-1//clicsbp-northeuralex-uzn-TOOTH-1//clicsbp-northeuralex-kaz-TOOTH-1//clicsbp-northeuralex-bak-TOOTH-1//clicsbp-northeuralex-tat-TOOTH-1//clicsbp-northeuralex-chv-TOOTH-1//clicsbp-wold-Sakha-TOOTH-1//clicsbp-savelyevturkic-Karaim-TOOTH-1"
     words "d i ʃ//t i ʃ//t i s//d i ʃ//t i ʃ//t ə s//t e ʃ//t e ʃ//ʂ ə l//t iː s//t i s"
@@ -3384,7 +3372,7 @@ graph [
     family_count 1
   ]
   node [
-    id 282
+    id 281
     label "GUMS"
     occurrences "clicsbp-idssegmented-azerbaijani-GUMS-1//clicsbp-idssegmented-kumyk-GUMS-1//clicsbp-idssegmented-nogai-GUMS-1//clicsbp-wold-Sakha-GUMS-1"
     words "d i ʃ + æ t i//t i ʃ e t l e r//t i s + e t i//m iː l e"
@@ -3396,7 +3384,7 @@ graph [
     family_count 1
   ]
   node [
-    id 283
+    id 282
     label "MOLAR TOOTH"
     occurrences "clicsbp-idssegmented-azerbaijani-MOLARTOOTH-1//clicsbp-idssegmented-kumyk-MOLARTOOTH-1//clicsbp-idssegmented-nogai-MOLARTOOTH-1//clicsbp-wold-Sakha-MOLARTOOTH-1"
     words "a z ɨ d i ʃ//a z ɨ w t i ʃ//a z u w + t i s//b a l t a"
@@ -3408,7 +3396,7 @@ graph [
     family_count 1
   ]
   node [
-    id 284
+    id 283
     label "NECK"
     occurrences "clicsbp-idssegmented-azerbaijani-NECK-1//clicsbp-idssegmented-kumyk-NECK-1//clicsbp-idssegmented-nogai-NECK-1//clicsbp-northeuralex-tur-NECK-1//clicsbp-northeuralex-tur-NECK-2//clicsbp-northeuralex-uzn-NECK-1//clicsbp-northeuralex-kaz-NECK-1//clicsbp-northeuralex-bak-NECK-1//clicsbp-northeuralex-tat-NECK-1//clicsbp-northeuralex-chv-NECK-1//clicsbp-wold-Sakha-NECK-1//clicsbp-savelyevturkic-Karaim-NECK-1"
     words "b o j u n//b o ü n//m o j ɨ n//b o j u n//g ɛ ɾ d a n//b o j i n//m o j ə n//m u j ɯ n//b u g a z//p ɯ r//m oː y//b o j u n"
@@ -3420,7 +3408,7 @@ graph [
     family_count 1
   ]
   node [
-    id 285
+    id 284
     label "NAPE (OF NECK)"
     occurrences "clicsbp-idssegmented-azerbaijani-NAPEOFNECK-1//clicsbp-idssegmented-azerbaijani-NAPEOFNECK-2//clicsbp-idssegmented-kumyk-NAPEOFNECK-1//clicsbp-idssegmented-nogai-NAPEOFNECK-1//clicsbp-northeuralex-tur-NAPEOFNECK-1//clicsbp-northeuralex-uzn-NAPEOFNECK-1//clicsbp-northeuralex-kaz-NAPEOFNECK-1//clicsbp-northeuralex-bak-NAPEOFNECK-1//clicsbp-northeuralex-tat-NAPEOFNECK-1//clicsbp-northeuralex-chv-NAPEOFNECK-1//clicsbp-wold-Sakha-NAPEOFNECK-1//clicsbp-wold-Sakha-NAPEOFNECK-2"
     words "p e j s æ r//æ n s æ//e l k e//e k e//ɛ n s ɛ//g a r d a n//ʒ e l k e//s o ŋ q a//dʑ i l k æ//ɘ n s ɛ//a r ɣ a s//s y r y n"
@@ -3432,7 +3420,7 @@ graph [
     family_count 1
   ]
   node [
-    id 286
+    id 285
     label "THROAT"
     occurrences "clicsbp-idssegmented-azerbaijani-THROAT-1//clicsbp-idssegmented-azerbaijani-THROAT-2//clicsbp-idssegmented-kumyk-THROAT-1//clicsbp-idssegmented-nogai-THROAT-1//clicsbp-northeuralex-tur-THROAT-1//clicsbp-northeuralex-uzn-THROAT-1//clicsbp-northeuralex-kaz-THROAT-1//clicsbp-northeuralex-bak-THROAT-1//clicsbp-northeuralex-tat-THROAT-1//clicsbp-northeuralex-chv-THROAT-1//clicsbp-northeuralex-chv-THROAT-2//clicsbp-wold-Sakha-THROAT-1//clicsbp-savelyevturkic-Karaim-THROAT-1"
     words "b o ɣ a z//u d l a g//t a m a q//t a m a k//b oː a z//b o ɣ i z//ɑ l q ə m//t a m a q//t a m a k//p ɯ r//k a r l a n k ə//k y œ m e y//t a m a q"
@@ -3444,7 +3432,7 @@ graph [
     family_count 1
   ]
   node [
-    id 287
+    id 286
     label "SHOULDER"
     occurrences "clicsbp-idssegmented-azerbaijani-SHOULDER-1//clicsbp-idssegmented-kumyk-SHOULDER-1//clicsbp-idssegmented-nogai-SHOULDER-1//clicsbp-northeuralex-tur-SHOULDER-1//clicsbp-northeuralex-uzn-SHOULDER-1//clicsbp-northeuralex-kaz-SHOULDER-1//clicsbp-northeuralex-bak-SHOULDER-1//clicsbp-northeuralex-tat-SHOULDER-1//clicsbp-northeuralex-tat-SHOULDER-2//clicsbp-northeuralex-chv-SHOULDER-1//clicsbp-wold-Sakha-SHOULDER-1//clicsbp-savelyevturkic-Karaim-SHOULDER-1"
     words "tʃ i j i n//i n b a ʃ//i j i n//o m u z//ɛ l k a//ɪ j ə q//j au r ɯ n//i ŋ b a ʃ//q u l b a ʃ//χ u l + p u ɕ i//s a r ɨ n//iː n"
@@ -3456,7 +3444,7 @@ graph [
     family_count 1
   ]
   node [
-    id 288
+    id 287
     label "SHOULDERBLADE"
     occurrences "clicsbp-idssegmented-azerbaijani-SHOULDERBLADE-1//clicsbp-idssegmented-kumyk-SHOULDERBLADE-1//clicsbp-idssegmented-nogai-SHOULDERBLADE-1//clicsbp-wold-Sakha-SHOULDERBLADE-1"
     words "k ü r æ k//u a w r u n q a l a q//j a w ɨ r ɨ n + k a l a k//s a r ɨ n + χ a p t a ɣ a y a"
@@ -3468,7 +3456,7 @@ graph [
     family_count 1
   ]
   node [
-    id 289
+    id 288
     label "OAR"
     occurrences "clicsbp-idssegmented-azerbaijani-OAR-2//clicsbp-idssegmented-azerbaijani-OAR-1//clicsbp-idssegmented-kumyk-OAR-1//clicsbp-idssegmented-nogai-OAR-1//clicsbp-idssegmented-nogai-OAR-2//clicsbp-northeuralex-tur-OAR-1//clicsbp-northeuralex-uzn-OAR-1//clicsbp-northeuralex-kaz-OAR-1//clicsbp-northeuralex-bak-OAR-1//clicsbp-northeuralex-tat-OAR-1//clicsbp-northeuralex-chv-OAR-1//clicsbp-wold-Sakha-OAR-1"
     words "k ü r æ k//a v a r//q a l a q//e s k e k//k a l a k//k y ɾ ɛ k//æ ʃ k a k//e s k e k//i ʃ k æ k//i ʃ k æ k//k ɘ s m ɛ n//e r d iː"
@@ -3480,7 +3468,7 @@ graph [
     family_count 1
   ]
   node [
-    id 290
+    id 289
     label "PADDLE"
     occurrences "clicsbp-idssegmented-azerbaijani-PADDLE-2//clicsbp-idssegmented-azerbaijani-PADDLE-1//clicsbp-idssegmented-kumyk-PADDLE-1//clicsbp-idssegmented-nogai-PADDLE-2//clicsbp-idssegmented-nogai-PADDLE-1"
     words "k ü r æ k//a v a r//q a l a q//e s k e k//k a l a k"
@@ -3492,7 +3480,7 @@ graph [
     family_count 1
   ]
   node [
-    id 291
+    id 290
     label "COLLARBONE"
     occurrences "clicsbp-idssegmented-azerbaijani-COLLARBONE-1//clicsbp-idssegmented-kumyk-COLLARBONE-1//clicsbp-idssegmented-nogai-COLLARBONE-1//clicsbp-idssegmented-nogai-COLLARBONE-2//clicsbp-wold-Sakha-COLLARBONE-1"
     words "k œ r p ü dʒ ü k + s ü m ü j ü//o m u r a w//o m ɨ r a w + s ü j e k//k a n d i s//χ o m u r ɣ a n"
@@ -3504,7 +3492,7 @@ graph [
     family_count 1
   ]
   node [
-    id 292
+    id 291
     label "ARM"
     occurrences "clicsbp-idssegmented-azerbaijani-ARM-1//clicsbp-idssegmented-azerbaijani-ARM-2//clicsbp-idssegmented-kumyk-ARM-1//clicsbp-idssegmented-nogai-ARM-1//clicsbp-northeuralex-tur-ARM-1//clicsbp-northeuralex-uzn-ARM-1//clicsbp-northeuralex-kaz-ARM-1//clicsbp-northeuralex-bak-ARM-1//clicsbp-northeuralex-tat-ARM-1//clicsbp-northeuralex-chv-ARM-1//clicsbp-wold-Sakha-ARM-1//clicsbp-savelyevturkic-Karaim-ARM-1//clicsbp-savelyevturkic-Karaim-ARM-2"
     words "æ l//g o l//q o l//k o l//k o l//b i l a k//q o l//q u l//q u l//a l ə//i l iː//k o l//b i l e k"
@@ -3516,7 +3504,7 @@ graph [
     family_count 1
   ]
   node [
-    id 293
+    id 292
     label "HAND"
     occurrences "clicsbp-idssegmented-azerbaijani-HAND-1//clicsbp-idssegmented-kumyk-HAND-1//clicsbp-idssegmented-nogai-HAND-1//clicsbp-northeuralex-tur-HAND-1//clicsbp-northeuralex-uzn-HAND-1//clicsbp-northeuralex-kaz-HAND-1//clicsbp-northeuralex-bak-HAND-1//clicsbp-northeuralex-bak-HAND-2//clicsbp-northeuralex-tat-HAND-1//clicsbp-northeuralex-chv-HAND-1//clicsbp-wold-Sakha-HAND-1//clicsbp-savelyevturkic-Karaim-HAND-1//clicsbp-savelyevturkic-Karaim-HAND-2"
     words "æ l//q o l//k o l d ɨ ŋ + u ʃ ɨ//ɛ l//q o l//q o l//q u l//q u l + s u ɣ ɯ//q u l//a l ə + s ɯ p i//i l iː//k o l//b i l e k"
@@ -3528,7 +3516,7 @@ graph [
     family_count 1
   ]
   node [
-    id 294
+    id 293
     label "ARMPIT"
     occurrences "clicsbp-idssegmented-azerbaijani-ARMPIT-1//clicsbp-idssegmented-kumyk-ARMPIT-1//clicsbp-idssegmented-nogai-ARMPIT-1//clicsbp-wold-Sakha-ARMPIT-1"
     words "g o l t u g//q o l t u q t ü p//k o l t ɨ k//χ o nː o χ"
@@ -3540,7 +3528,7 @@ graph [
     family_count 1
   ]
   node [
-    id 295
+    id 294
     label "ELBOW"
     occurrences "clicsbp-idssegmented-azerbaijani-ELBOW-1//clicsbp-idssegmented-kumyk-ELBOW-1//clicsbp-idssegmented-nogai-ELBOW-1//clicsbp-northeuralex-tur-ELBOW-1//clicsbp-northeuralex-uzn-ELBOW-1//clicsbp-northeuralex-kaz-ELBOW-1//clicsbp-northeuralex-bak-ELBOW-1//clicsbp-northeuralex-tat-ELBOW-1//clicsbp-northeuralex-chv-ELBOW-1//clicsbp-wold-Sakha-ELBOW-1"
     words "d i r s æ k//t i r s e k//ʃ ɨ g a n a k//d i ɾ s ɛ k//t i r s a k//ʃ ə n t ɑ q//t e r h æ k//t e r s æ k//tɕ a ʋ s a//t o ŋ o l o χ"
@@ -3552,7 +3540,7 @@ graph [
     family_count 1
   ]
   node [
-    id 296
+    id 295
     label "WRIST"
     occurrences "clicsbp-idssegmented-azerbaijani-WRIST-1//clicsbp-idssegmented-kumyk-WRIST-1//clicsbp-idssegmented-nogai-WRIST-1//clicsbp-wold-Sakha-WRIST-1"
     words "b i l æ k//b i l e k + t ü b ü//b i l e k//b e g e tʃː e k"
@@ -3564,7 +3552,7 @@ graph [
     family_count 1
   ]
   node [
-    id 297
+    id 296
     label "PALM OF HAND"
     occurrences "clicsbp-idssegmented-azerbaijani-PALMOFHAND-1//clicsbp-idssegmented-kumyk-PALMOFHAND-1//clicsbp-idssegmented-nogai-PALMOFHAND-1//clicsbp-northeuralex-tur-PALMOFHAND-1//clicsbp-northeuralex-tur-PALMOFHAND-2//clicsbp-northeuralex-uzn-PALMOFHAND-1//clicsbp-northeuralex-kaz-PALMOFHAND-1//clicsbp-northeuralex-bak-PALMOFHAND-1//clicsbp-northeuralex-tat-PALMOFHAND-1//clicsbp-northeuralex-chv-PALMOFHAND-1//clicsbp-wold-Sakha-PALMOFHAND-1"
     words "o v u dʒ//a u a//a j a//a v u tʃ//ɛ l + a j a s ɯ//k a f t//ɑ l ɑ q ɑ n//u s + t ø b ø//u tɕ//a l + l a p i//ɨ t ɨ s"
@@ -3576,7 +3564,7 @@ graph [
     family_count 1
   ]
   node [
-    id 298
+    id 297
     label "FINGER"
     occurrences "clicsbp-idssegmented-azerbaijani-FINGER-1//clicsbp-idssegmented-kumyk-FINGER-1//clicsbp-idssegmented-nogai-FINGER-1//clicsbp-northeuralex-tur-FINGER-1//clicsbp-northeuralex-uzn-FINGER-1//clicsbp-northeuralex-kaz-FINGER-1//clicsbp-northeuralex-bak-FINGER-1//clicsbp-northeuralex-tat-FINGER-1//clicsbp-northeuralex-chv-FINGER-1//clicsbp-wold-Sakha-FINGER-1"
     words "b a r m a g//b a r m a q//b a r m a k//p a ɾ m a k//b a r m ɒ q//s ɑ u s ɑ q//b a r m a q//b a r m a k//p y r n ɛ//t a r b a χ"
@@ -3588,7 +3576,7 @@ graph [
     family_count 1
   ]
   node [
-    id 299
+    id 298
     label "TOE"
     occurrences "clicsbp-idssegmented-azerbaijani-TOE-1//clicsbp-idssegmented-kumyk-TOE-1//clicsbp-idssegmented-nogai-TOE-1//clicsbp-northeuralex-tur-TOE-1//clicsbp-northeuralex-uzn-TOE-1//clicsbp-northeuralex-kaz-TOE-1//clicsbp-northeuralex-kaz-TOE-2//clicsbp-northeuralex-bak-TOE-1//clicsbp-northeuralex-tat-TOE-1//clicsbp-northeuralex-chv-TOE-1//clicsbp-wold-Sakha-TOE-1"
     words "b a r m a g//b a r m a q//b a r m a k//a j a k + p a ɾ m aː ɯ//ɒ j ɒ q + b a r m ɒ ɣ i//t ə ɾ n ɑ q//t ʉ j ɑ q//b a r m a q//b a r m a k//p y r n ɛ//t a r b a χ"
@@ -3600,7 +3588,7 @@ graph [
     family_count 1
   ]
   node [
-    id 300
+    id 299
     label "THUMB"
     occurrences "clicsbp-idssegmented-azerbaijani-THUMB-1//clicsbp-idssegmented-kumyk-THUMB-1//clicsbp-idssegmented-nogai-THUMB-1//clicsbp-wold-Sakha-THUMB-1"
     words "b a ʃ + b a r m a g//b a ʃ b a r m a q//b a s + b a r m a k//e r b e χ"
@@ -3612,7 +3600,7 @@ graph [
     family_count 1
   ]
   node [
-    id 301
+    id 300
     label "FINGERNAIL"
     occurrences "clicsbp-idssegmented-azerbaijani-FINGERNAIL-1//clicsbp-idssegmented-kumyk-FINGERNAIL-1//clicsbp-idssegmented-nogai-FINGERNAIL-1//clicsbp-northeuralex-tur-FINGERNAIL-1//clicsbp-northeuralex-uzn-FINGERNAIL-1//clicsbp-northeuralex-kaz-FINGERNAIL-1//clicsbp-northeuralex-bak-FINGERNAIL-1//clicsbp-northeuralex-tat-FINGERNAIL-1//clicsbp-northeuralex-chv-FINGERNAIL-1//clicsbp-wold-Sakha-FINGERNAIL-1//clicsbp-savelyevturkic-Karaim-FINGERNAIL-1"
     words "d ɨ r n a g//t ɨ r n a q//t ɨ r k a k//ɛ l + t ɯ ɾ n aː ɯ//t i r n ɒ q//t ə ɾ n ɑ q//t ɯ r n a q//t ɤ r n a k//tɕ ɘ r n ɛ//t ɨ ŋ ɨ r a χ//t ɯ r n a k"
@@ -3624,7 +3612,7 @@ graph [
     family_count 1
   ]
   node [
-    id 302
+    id 301
     label "CLAW"
     occurrences "clicsbp-idssegmented-azerbaijani-CLAW-1//clicsbp-idssegmented-kumyk-CLAW-1//clicsbp-idssegmented-nogai-CLAW-1//clicsbp-northeuralex-tur-CLAW-1//clicsbp-northeuralex-uzn-CLAW-1//clicsbp-northeuralex-kaz-CLAW-1//clicsbp-northeuralex-bak-CLAW-1//clicsbp-northeuralex-tat-CLAW-1//clicsbp-northeuralex-chv-CLAW-1//clicsbp-wold-Sakha-CLAW-1//clicsbp-savelyevturkic-Karaim-CLAW-1"
     words "dʒ a j n a g//t ɨ r n a q//t ɨ r n a k//p ɛ n tʃ ɛ//t i r n ɒ q//t ə ɾ n ɑ q//t ɯ r n a q//t ɤ r n a k//tɕ ɘ r n ɛ//t ɨ ŋ ɨ r a χ//t ɯ r n a χ"
@@ -3636,7 +3624,7 @@ graph [
     family_count 1
   ]
   node [
-    id 303
+    id 302
     label "LEG"
     occurrences "clicsbp-idssegmented-azerbaijani-LEG-1//clicsbp-idssegmented-kumyk-LEG-1//clicsbp-idssegmented-nogai-LEG-1//clicsbp-northeuralex-tur-LEG-1//clicsbp-northeuralex-uzn-LEG-1//clicsbp-northeuralex-kaz-LEG-1//clicsbp-northeuralex-bak-LEG-1//clicsbp-northeuralex-tat-LEG-1//clicsbp-northeuralex-chv-LEG-1//clicsbp-wold-Sakha-LEG-1//clicsbp-savelyevturkic-Karaim-LEG-1"
     words "a j a g//a u a q//a j a k//b a dʒ a k//ɒ j ɒ q//ɑ j ɑ q//a j a q//a j a k//u r a//a t a χ//a j a k"
@@ -3648,7 +3636,7 @@ graph [
     family_count 1
   ]
   node [
-    id 304
+    id 303
     label "UPPER LEG (THIGH)"
     occurrences "clicsbp-idssegmented-azerbaijani-UPPERLEGTHIGH-1//clicsbp-idssegmented-azerbaijani-UPPERLEGTHIGH-2//clicsbp-idssegmented-kumyk-UPPERLEGTHIGH-1//clicsbp-idssegmented-nogai-UPPERLEGTHIGH-1//clicsbp-idssegmented-nogai-UPPERLEGTHIGH-2//clicsbp-northeuralex-tur-UPPERLEGTHIGH-1//clicsbp-northeuralex-uzn-UPPERLEGTHIGH-1//clicsbp-northeuralex-kaz-UPPERLEGTHIGH-1//clicsbp-northeuralex-bak-UPPERLEGTHIGH-1//clicsbp-northeuralex-tat-UPPERLEGTHIGH-1//clicsbp-northeuralex-chv-UPPERLEGTHIGH-1//clicsbp-wold-Sakha-UPPERLEGTHIGH-1//clicsbp-savelyevturkic-Karaim-UPPERLEGTHIGH-1//clicsbp-savelyevturkic-Karaim-UPPERLEGTHIGH-2"
     words "o m b a//b u d//b u t//j a n b a s//s a n//u j l u k//s ɒ n//ʒ ɑ m b ɑ s//s a n d ɯ r//b o t//p ɘ ɕ ɘ//b uː t//b u t//t i j m e"
@@ -3660,7 +3648,7 @@ graph [
     family_count 1
   ]
   node [
-    id 305
+    id 304
     label "HIP"
     occurrences "clicsbp-idssegmented-azerbaijani-HIP-1//clicsbp-idssegmented-kumyk-HIP-1//clicsbp-idssegmented-kumyk-HIP-2//clicsbp-idssegmented-nogai-HIP-1//clicsbp-idssegmented-nogai-HIP-2//clicsbp-idssegmented-nogai-HIP-3//clicsbp-wold-Sakha-HIP-1//clicsbp-wold-Sakha-HIP-2"
     words "b u d//b u t//s o m//s a n//b ɨ t//b u t//œ tː y k//u lː u k"
@@ -3672,7 +3660,7 @@ graph [
     family_count 1
   ]
   node [
-    id 306
+    id 305
     label "CALF OF LEG"
     occurrences "clicsbp-idssegmented-azerbaijani-CALFOFLEG-1//clicsbp-idssegmented-kumyk-CALFOFLEG-1//clicsbp-idssegmented-kumyk-CALFOFLEG-2//clicsbp-idssegmented-nogai-CALFOFLEG-1//clicsbp-idssegmented-nogai-CALFOFLEG-2//clicsbp-wold-Sakha-CALFOFLEG-1"
     words "a j a g + b a l d ɨ r ɨ//b o r b a j//b a l d ɨ r//b a l t ɨ r//b o r b a j//s o t o + b œ t œ ɣ œ t œ"
@@ -3684,7 +3672,7 @@ graph [
     family_count 1
   ]
   node [
-    id 307
+    id 306
     label "KNEE"
     occurrences "clicsbp-idssegmented-azerbaijani-KNEE-1//clicsbp-idssegmented-kumyk-KNEE-1//clicsbp-idssegmented-nogai-KNEE-1//clicsbp-northeuralex-tur-KNEE-1//clicsbp-northeuralex-uzn-KNEE-1//clicsbp-northeuralex-kaz-KNEE-1//clicsbp-northeuralex-bak-KNEE-1//clicsbp-northeuralex-tat-KNEE-1//clicsbp-northeuralex-chv-KNEE-1//clicsbp-wold-Sakha-KNEE-1//clicsbp-savelyevturkic-Karaim-KNEE-1"
     words "d i z//t o b u q//t i z//d i z//t i z//t ə z e//t u b ɯ q//t e z//tɕ ɘ r k u ɕ i//t o b u k//t y z"
@@ -3696,7 +3684,7 @@ graph [
     family_count 1
   ]
   node [
-    id 308
+    id 307
     label "FOOT"
     occurrences "clicsbp-idssegmented-azerbaijani-FOOT-1//clicsbp-idssegmented-azerbaijani-FOOT-2//clicsbp-idssegmented-kumyk-FOOT-1//clicsbp-idssegmented-nogai-FOOT-1//clicsbp-northeuralex-tur-FOOT-1//clicsbp-northeuralex-uzn-FOOT-1//clicsbp-northeuralex-kaz-FOOT-1//clicsbp-northeuralex-bak-FOOT-1//clicsbp-northeuralex-tat-FOOT-1//clicsbp-northeuralex-chv-FOOT-1//clicsbp-wold-Sakha-FOOT-2//clicsbp-wold-Sakha-FOOT-1//clicsbp-savelyevturkic-Karaim-FOOT-1"
     words "a j a ɣ ɨ n + a l t ɨ//p æ n dʒ æ//a u a q n ɨ + t ü b ü//t a b a n//a j a k//ɒ j ɒ q//ɑ j ɑ q b ɑ s ə//t a b a n//t a b a n//u r a + l a p i//a t a χ//u lː u ŋ a χ//a j a k"
@@ -3708,7 +3696,7 @@ graph [
     family_count 1
   ]
   node [
-    id 309
+    id 308
     label "ANKLE"
     occurrences "clicsbp-idssegmented-azerbaijani-ANKLE-1//clicsbp-idssegmented-kumyk-ANKLE-1//clicsbp-idssegmented-nogai-ANKLE-1//clicsbp-idssegmented-nogai-ANKLE-2//clicsbp-wold-Sakha-ANKLE-1"
     words "t o p u g//b a ɣ ɨ n tʃ a q//t o b ɨ k//t o b ɨ k + s ü j e g i//b e r b eː k e y"
@@ -3720,7 +3708,7 @@ graph [
     family_count 1
   ]
   node [
-    id 310
+    id 309
     label "HEEL"
     occurrences "clicsbp-idssegmented-azerbaijani-HEEL-1//clicsbp-idssegmented-kumyk-HEEL-1//clicsbp-idssegmented-nogai-HEEL-1//clicsbp-northeuralex-tur-HEEL-1//clicsbp-northeuralex-uzn-HEEL-1//clicsbp-northeuralex-kaz-HEEL-1//clicsbp-northeuralex-kaz-HEEL-2//clicsbp-northeuralex-bak-HEEL-1//clicsbp-northeuralex-tat-HEEL-1//clicsbp-northeuralex-chv-HEEL-1//clicsbp-wold-Sakha-HEEL-1"
     words "d a b a n//t a b a n//œ k ʃ e//t o p u k//t ɒ w ɒ n//ø k ʃ e//ø k ʃ e l ə k//y k s æ//ʉ k tɕ æ//k ɘ l ɛ//t i l e χ"
@@ -3732,7 +3720,7 @@ graph [
     family_count 1
   ]
   node [
-    id 311
+    id 310
     label "FOOTPRINT"
     occurrences "clicsbp-idssegmented-azerbaijani-FOOTPRINT-1//clicsbp-idssegmented-azerbaijani-FOOTPRINT-2//clicsbp-idssegmented-kumyk-FOOTPRINT-1//clicsbp-idssegmented-nogai-FOOTPRINT-1//clicsbp-northeuralex-tur-FOOTPRINT-1//clicsbp-northeuralex-uzn-FOOTPRINT-1//clicsbp-northeuralex-kaz-FOOTPRINT-1//clicsbp-northeuralex-bak-FOOTPRINT-1//clicsbp-northeuralex-tat-FOOTPRINT-1//clicsbp-northeuralex-chv-FOOTPRINT-1//clicsbp-wold-Sakha-FOOTPRINT-1"
     words "i z//a j a g + i z i//h ɨ z//ɨ z//i z//i z//ə z//æ θ e r//ɛ z//j ɘ r//a t a χ + s u o l a"
@@ -3744,7 +3732,7 @@ graph [
     family_count 1
   ]
   node [
-    id 312
+    id 311
     label "WING"
     occurrences "clicsbp-idssegmented-azerbaijani-WING-1//clicsbp-idssegmented-kumyk-WING-1//clicsbp-idssegmented-nogai-WING-1//clicsbp-northeuralex-tur-WING-1//clicsbp-northeuralex-uzn-WING-1//clicsbp-northeuralex-kaz-WING-1//clicsbp-northeuralex-bak-WING-1//clicsbp-northeuralex-tat-WING-1//clicsbp-northeuralex-chv-WING-1//clicsbp-wold-Sakha-WING-1//clicsbp-savelyevturkic-Karaim-WING-1"
     words "g a n a d//q a n a t//k a n a t//k a n a t//q a n ɒ t//q ɑ n ɑ t//q a n a t//q ɑ n a t//ɕ u n a t//k ɨ n a t//k a n a t"
@@ -3756,7 +3744,7 @@ graph [
     family_count 1
   ]
   node [
-    id 313
+    id 312
     label "FEATHER"
     occurrences "clicsbp-idssegmented-azerbaijani-FEATHER-1//clicsbp-idssegmented-kumyk-FEATHER-1//clicsbp-idssegmented-nogai-FEATHER-2//clicsbp-idssegmented-nogai-FEATHER-1//clicsbp-northeuralex-tur-FEATHER-1//clicsbp-northeuralex-uzn-FEATHER-1//clicsbp-northeuralex-kaz-FEATHER-1//clicsbp-northeuralex-bak-FEATHER-1//clicsbp-northeuralex-tat-FEATHER-1//clicsbp-northeuralex-chv-FEATHER-1//clicsbp-wold-Sakha-FEATHER-1//clicsbp-savelyevturkic-Karaim-FEATHER-1"
     words "l æ l æ k//q a n a t//k a n a t//k u ʃ ɨ n a//t y j//p a r//q ɑ l ɑ m ʉ ʃ//q au ɯ r h ɯ n//j o n//t ɘ k//k u o r s u n//t i k"
@@ -3768,7 +3756,7 @@ graph [
     family_count 1
   ]
   node [
-    id 314
+    id 313
     label "CHEST"
     occurrences "clicsbp-idssegmented-azerbaijani-CHEST-1//clicsbp-idssegmented-kumyk-CHEST-1//clicsbp-idssegmented-nogai-CHEST-1//clicsbp-northeuralex-tur-CHEST-1//clicsbp-northeuralex-uzn-CHEST-1//clicsbp-northeuralex-kaz-CHEST-1//clicsbp-northeuralex-bak-CHEST-1//clicsbp-northeuralex-tat-CHEST-1//clicsbp-northeuralex-tat-CHEST-2//clicsbp-northeuralex-chv-CHEST-1//clicsbp-wold-Sakha-CHEST-1"
     words "d œ ʃ + g æ f æ s i//t œ ʃ + s ü j e k l e r//k œ k i r e k + s ü j e k l e r//g œ j y s//k o k r a k//k e u d e//t y ʃ//i m tɕ æ k//k ʉ k r æ k//u m ɘ//t y œ s"
@@ -3780,7 +3768,7 @@ graph [
     family_count 1
   ]
   node [
-    id 315
+    id 314
     label "BREAST"
     occurrences "clicsbp-idssegmented-azerbaijani-BREAST-1//clicsbp-idssegmented-azerbaijani-BREAST-2//clicsbp-idssegmented-kumyk-BREAST-1//clicsbp-idssegmented-kumyk-BREAST-2//clicsbp-idssegmented-nogai-BREAST-1//clicsbp-idssegmented-nogai-BREAST-2//clicsbp-northeuralex-tur-BREAST-1//clicsbp-northeuralex-uzn-BREAST-1//clicsbp-northeuralex-kaz-BREAST-1//clicsbp-northeuralex-bak-BREAST-1//clicsbp-northeuralex-tat-BREAST-1//clicsbp-northeuralex-chv-BREAST-1//clicsbp-wold-Sakha-BREAST-1//clicsbp-savelyevturkic-Karaim-BREAST-1//clicsbp-savelyevturkic-Karaim-BREAST-2"
     words "k œ k s//s i n æ//k œ k ü r e k//e m tʃ e k//k œ k i r e k//e m ʃ e k//k o j u n//æ m tʃ a k//o m ə ɾ ɑ u//k y k r æ k//t ʉ ʃ//k ə k ə r//e m iː y//k ø k r ɛ k//t ø ʃ"
@@ -3792,7 +3780,7 @@ graph [
     family_count 1
   ]
   node [
-    id 316
+    id 315
     label "NIPPLE"
     occurrences "clicsbp-idssegmented-azerbaijani-NIPPLE-1//clicsbp-idssegmented-kumyk-NIPPLE-1//clicsbp-idssegmented-nogai-NIPPLE-1//clicsbp-wold-Sakha-NIPPLE-1"
     words "m æ m æ dʒ i k//e m tʃ e k + b a ʃ ɨ//e m ʃ e k//t u m u k"
@@ -3804,7 +3792,7 @@ graph [
     family_count 1
   ]
   node [
-    id 317
+    id 316
     label "UDDER"
     occurrences "clicsbp-idssegmented-azerbaijani-UDDER-1//clicsbp-idssegmented-azerbaijani-UDDER-2//clicsbp-idssegmented-kumyk-UDDER-1//clicsbp-idssegmented-nogai-UDDER-1//clicsbp-wold-Sakha-UDDER-1"
     words "j e l i n//æ m dʒ æ k//j e l i n//j e l i n//e m iː y"
@@ -3816,7 +3804,7 @@ graph [
     family_count 1
   ]
   node [
-    id 318
+    id 317
     label "NAVEL"
     occurrences "clicsbp-idssegmented-azerbaijani-NAVEL-1//clicsbp-idssegmented-kumyk-NAVEL-1//clicsbp-idssegmented-nogai-NAVEL-1//clicsbp-northeuralex-tur-NAVEL-1//clicsbp-northeuralex-uzn-NAVEL-1//clicsbp-northeuralex-kaz-NAVEL-1//clicsbp-northeuralex-bak-NAVEL-1//clicsbp-northeuralex-tat-NAVEL-1//clicsbp-northeuralex-chv-NAVEL-1//clicsbp-wold-Sakha-NAVEL-1//clicsbp-savelyevturkic-Karaim-NAVEL-1"
     words "gʲ œ b æ k//g i nː i k//k i n d i k//g œ b ɛ k//k i n d i k//k ə n d ə k//k e n d e k//k e n d e k//k ə ʋ a p a//k iː n//k i n d i k"
@@ -3828,7 +3816,7 @@ graph [
     family_count 1
   ]
   node [
-    id 319
+    id 318
     label "HEART"
     occurrences "clicsbp-idssegmented-azerbaijani-HEART-1//clicsbp-idssegmented-kumyk-HEART-1//clicsbp-idssegmented-nogai-HEART-1//clicsbp-northeuralex-tur-HEART-1//clicsbp-northeuralex-tur-HEART-2//clicsbp-northeuralex-uzn-HEART-1//clicsbp-northeuralex-kaz-HEART-1//clicsbp-northeuralex-bak-HEART-1//clicsbp-northeuralex-tat-HEART-1//clicsbp-northeuralex-chv-HEART-1//clicsbp-wold-Sakha-HEART-1//clicsbp-savelyevturkic-Karaim-HEART-1"
     words "ü r æ k//j u r e k//j u r e k//k a l p//j y ɾ ɛ k//q a l b//ʒ ʊ ɾ e k//j o r æ k//j œ r æ k//tɕ ɘ r ɛ//s y r e χ//j i r e k"
@@ -3840,7 +3828,7 @@ graph [
     family_count 1
   ]
   node [
-    id 320
+    id 319
     label "LUNG"
     occurrences "clicsbp-idssegmented-azerbaijani-LUNG-1//clicsbp-idssegmented-kumyk-LUNG-1//clicsbp-idssegmented-nogai-LUNG-1//clicsbp-wold-Sakha-LUNG-1"
     words "a ɣ + dʒ i j æ r//œ p k e//œ p k e//t ɨ ŋ a"
@@ -3852,7 +3840,7 @@ graph [
     family_count 1
   ]
   node [
-    id 321
+    id 320
     label "LIVER"
     occurrences "clicsbp-idssegmented-azerbaijani-LIVER-1//clicsbp-idssegmented-kumyk-LIVER-1//clicsbp-idssegmented-nogai-LIVER-1//clicsbp-northeuralex-tur-LIVER-1//clicsbp-northeuralex-uzn-LIVER-1//clicsbp-northeuralex-kaz-LIVER-1//clicsbp-northeuralex-bak-LIVER-1//clicsbp-northeuralex-tat-LIVER-1//clicsbp-northeuralex-chv-LIVER-1//clicsbp-wold-Sakha-LIVER-1//clicsbp-savelyevturkic-Karaim-LIVER-1"
     words "g a r a dʒ i j æ r//b a w u r//b a w ɨ r//k a ɾ a dʒ i j ɛ ɾ//b a ɣ i r//b ɑ uə ɾ//b au ɯ r//b a w ɤ r//p ɘ ʋ ɛ r//b ɨ a r//b a v u r"
@@ -3864,7 +3852,7 @@ graph [
     family_count 1
   ]
   node [
-    id 322
+    id 321
     label "KIDNEY"
     occurrences "clicsbp-idssegmented-azerbaijani-KIDNEY-1//clicsbp-idssegmented-kumyk-KIDNEY-1//clicsbp-idssegmented-nogai-KIDNEY-1//clicsbp-wold-Sakha-KIDNEY-1"
     words "b œ j r æ k//b ü j r e k//b ü j r e k//b y œ r"
@@ -3876,7 +3864,7 @@ graph [
     family_count 1
   ]
   node [
-    id 323
+    id 322
     label "SPLEEN"
     occurrences "clicsbp-idssegmented-azerbaijani-SPLEEN-1//clicsbp-idssegmented-kumyk-SPLEEN-1//clicsbp-idssegmented-nogai-SPLEEN-1//clicsbp-wold-Sakha-SPLEEN-1"
     words "d a l a g//t a l a q//t a l a k//t aː l"
@@ -3888,7 +3876,7 @@ graph [
     family_count 1
   ]
   node [
-    id 324
+    id 323
     label "STOMACH"
     occurrences "clicsbp-idssegmented-azerbaijani-STOMACH-1//clicsbp-idssegmented-kumyk-STOMACH-1//clicsbp-idssegmented-kumyk-STOMACH-2//clicsbp-idssegmented-kumyk-STOMACH-3//clicsbp-idssegmented-nogai-STOMACH-1//clicsbp-northeuralex-tur-STOMACH-1//clicsbp-northeuralex-uzn-STOMACH-1//clicsbp-northeuralex-kaz-STOMACH-1//clicsbp-northeuralex-bak-STOMACH-1//clicsbp-northeuralex-tat-STOMACH-1//clicsbp-northeuralex-chv-STOMACH-1//clicsbp-wold-Sakha-STOMACH-1"
     words "m æ + d æ//a ʃ q a z a n//q u r s a q//q a r ɨ n//a s k a z a n//m i d ɛ//ɒ ʃ q ɒ z ɒ n//ɑ s q ɑ z ɑ n//a ʃ q a ð a n//a ʃ q ɑ z a n ɤ//χ ɯ r ə m l ə χ//k u r t a χ"
@@ -3900,7 +3888,7 @@ graph [
     family_count 1
   ]
   node [
-    id 325
+    id 324
     label "INTESTINES"
     occurrences "clicsbp-idssegmented-azerbaijani-INTESTINES-1//clicsbp-idssegmented-kumyk-INTESTINES-1//clicsbp-idssegmented-nogai-INTESTINES-1//clicsbp-wold-Sakha-INTESTINES-1"
     words "b a ɣ ɨ r s a g l a r//i tʃ e k l e r//ʃ e k l e r//o h o ɣ o s t o r"
@@ -3912,7 +3900,7 @@ graph [
     family_count 1
   ]
   node [
-    id 326
+    id 325
     label "BUTTOCKS"
     occurrences "clicsbp-idssegmented-azerbaijani-BUTTOCKS-1//clicsbp-idssegmented-azerbaijani-BUTTOCKS-2//clicsbp-idssegmented-kumyk-BUTTOCKS-1//clicsbp-idssegmented-nogai-BUTTOCKS-1//clicsbp-wold-Sakha-BUTTOCKS-1"
     words "s a ɣ r ɨ//j a n//b u t n u + a r t + s o m u//k u j r ɨ k//e m e h e"
@@ -3924,7 +3912,7 @@ graph [
     family_count 1
   ]
   node [
-    id 327
+    id 326
     label "WOMB"
     occurrences "clicsbp-idssegmented-azerbaijani-WOMB-1//clicsbp-idssegmented-azerbaijani-WOMB-2//clicsbp-idssegmented-kumyk-WOMB-1//clicsbp-idssegmented-nogai-WOMB-1//clicsbp-wold-Sakha-WOMB-1//clicsbp-wold-Sakha-WOMB-2//clicsbp-wold-Sakha-WOMB-3"
     words "u ʃ a l g l ɨ g//a ɣ u m//a n a l ɨ q + j e r i//b a l a + j a t a k//k i e l i//b u o m//m a t k a"
@@ -3936,7 +3924,7 @@ graph [
     family_count 1
   ]
   node [
-    id 328
+    id 327
     label "TESTICLES"
     occurrences "clicsbp-idssegmented-azerbaijani-TESTICLES-1//clicsbp-idssegmented-kumyk-TESTICLES-1//clicsbp-idssegmented-nogai-TESTICLES-1//clicsbp-wold-Sakha-TESTICLES-1//clicsbp-wold-Sakha-TESTICLES-2"
     words "x a j a//q o t a q//k o t a k//t a h aː χ//s ɨ m ɨː t"
@@ -3948,7 +3936,7 @@ graph [
     family_count 1
   ]
   node [
-    id 329
+    id 328
     label "PENIS"
     occurrences "clicsbp-idssegmented-azerbaijani-PENIS-1//clicsbp-idssegmented-kumyk-PENIS-1//clicsbp-idssegmented-nogai-PENIS-3//clicsbp-idssegmented-nogai-PENIS-1//clicsbp-idssegmented-nogai-PENIS-2//clicsbp-idssegmented-nogai-PENIS-4//clicsbp-wold-Sakha-PENIS-1"
     words "s i k//e r g i ʃ i n i + uː a t + j e r i//k o t a k//b œ k œ w//b œ k œ ʃ//ʃ u m e j//y b y s"
@@ -3960,7 +3948,7 @@ graph [
     family_count 1
   ]
   node [
-    id 330
+    id 329
     label "BREATH OR BREATHE"
     occurrences "clicsbp-idssegmented-azerbaijani-BREATHORBREATHE-1//clicsbp-idssegmented-azerbaijani-BREATHORBREATHE-2//clicsbp-idssegmented-kumyk-BREATHORBREATHE-1//clicsbp-idssegmented-kumyk-BREATHORBREATHE-2//clicsbp-idssegmented-nogai-BREATHORBREATHE-1"
     words "n æ f æ s//n æ f æ s + a l m a g//t ɨ n ɨ ʃ + a l m a q//t ɨ n ɨ ʃ + a l ɨ w//t ɨ n ɨ s + a l u w"
@@ -3972,7 +3960,7 @@ graph [
     family_count 1
   ]
   node [
-    id 331
+    id 330
     label "YAWN"
     occurrences "clicsbp-idssegmented-azerbaijani-YAWN-1//clicsbp-idssegmented-kumyk-YAWN-1//clicsbp-idssegmented-nogai-YAWN-1//clicsbp-wold-Sakha-YAWN-1"
     words "æ s n æ m æ k//e s n e m e k//e s n e w//dʒ aː h ɨ y"
@@ -3984,7 +3972,7 @@ graph [
     family_count 1
   ]
   node [
-    id 332
+    id 331
     label "HICCOUGH"
     occurrences "clicsbp-idssegmented-azerbaijani-HICCOUGH-1//clicsbp-idssegmented-kumyk-HICCOUGH-1//clicsbp-idssegmented-nogai-HICCOUGH-1//clicsbp-wold-Sakha-HICCOUGH-1"
     words "h ɨ tʃ g ɨ r m a g//h ɨ n q + e t m e k//s ɨ k ɨ l d a w//b œ t"
@@ -3996,7 +3984,7 @@ graph [
     family_count 1
   ]
   node [
-    id 333
+    id 332
     label "CRY"
     occurrences "clicsbp-idssegmented-azerbaijani-CRY-2//clicsbp-idssegmented-azerbaijani-CRY-1//clicsbp-idssegmented-kumyk-CRY-1//clicsbp-idssegmented-kumyk-CRY-2//clicsbp-idssegmented-nogai-CRY-1//clicsbp-idssegmented-nogai-CRY-2//clicsbp-idssegmented-nogai-CRY-3//clicsbp-northeuralex-tur-CRY-1//clicsbp-northeuralex-uzn-CRY-1//clicsbp-northeuralex-kaz-CRY-1//clicsbp-northeuralex-bak-CRY-1//clicsbp-northeuralex-tat-CRY-1//clicsbp-northeuralex-chv-CRY-1//clicsbp-northeuralex-chv-CRY-2//clicsbp-wold-Sakha-CRY-1//clicsbp-wold-Sakha-CRY-2//clicsbp-savelyevturkic-Karaim-CRY-1"
     words "h ɨ tʃ g ɨ r m a g//a ɣ l a m a g//j ɨ l a m a q//h ɨ n q + e t i p + j ɨ l a m a q//j ɨ l a w//s o l k ɨ l d a w//œ k s y w//aː l a m a k//j i ɣ l a m ɒ q//ʒ ə l ɑ u//i l au//e l au//j ɘ r//m a k ə r//ɨ t aː//s o ŋ oː//j ɯ l a"
@@ -4008,7 +3996,7 @@ graph [
     family_count 1
   ]
   node [
-    id 334
+    id 333
     label "COUGH"
     occurrences "clicsbp-idssegmented-azerbaijani-COUGH-1//clicsbp-idssegmented-kumyk-COUGH-1//clicsbp-idssegmented-nogai-COUGH-1//clicsbp-northeuralex-tur-COUGH-1//clicsbp-northeuralex-uzn-COUGH-1//clicsbp-northeuralex-kaz-COUGH-1//clicsbp-northeuralex-bak-COUGH-1//clicsbp-northeuralex-tat-COUGH-1//clicsbp-northeuralex-chv-COUGH-1//clicsbp-wold-Sakha-COUGH-1//clicsbp-savelyevturkic-Karaim-COUGH-1"
     words "œ s k ü r m æ k//j o t k ü r m e k//j œ t k i r y w//œ k s y ɾ m ɛ k//j o t a l m ɒ q//ʒ ø t e l u//j y t æ l l æ y//j ʊ t æ l l æ ʉ//y s ɘ r//s œ t œ l y n//ø t k y r"
@@ -4020,7 +4008,7 @@ graph [
     family_count 1
   ]
   node [
-    id 335
+    id 334
     label "SNEEZE"
     occurrences "clicsbp-idssegmented-azerbaijani-SNEEZE-1//clicsbp-idssegmented-kumyk-SNEEZE-1//clicsbp-idssegmented-nogai-SNEEZE-1//clicsbp-wold-Sakha-SNEEZE-1"
     words "a s g ɨ r m a g//ʃ ü ʃ g ü r m e k//ʃ ü ʃ k i r y w//ɨ t ɨ r t"
@@ -4032,7 +4020,7 @@ graph [
     family_count 1
   ]
   node [
-    id 336
+    id 335
     label "SWEAT (PERSPIRE)"
     occurrences "clicsbp-idssegmented-azerbaijani-SWEATPERSPIRE-1//clicsbp-idssegmented-kumyk-SWEATPERSPIRE-1//clicsbp-idssegmented-nogai-SWEATPERSPIRE-1//clicsbp-wold-Sakha-SWEATPERSPIRE-1"
     words "t æ r l æ m æ k//t e r l e m e//t e r l e w//t i r i t"
@@ -4044,7 +4032,7 @@ graph [
     family_count 1
   ]
   node [
-    id 337
+    id 336
     label "SPIT"
     occurrences "clicsbp-idssegmented-azerbaijani-SPIT-1//clicsbp-idssegmented-kumyk-SPIT-1//clicsbp-idssegmented-kumyk-SPIT-2//clicsbp-idssegmented-nogai-SPIT-1//clicsbp-idssegmented-nogai-SPIT-2//clicsbp-wold-Sakha-SPIT-1//clicsbp-savelyevturkic-Karaim-SPIT-1"
     words "t ü p ü r dʒ æ k//t ü k ü r m e k//t ü k ü r ü k//t ü k i r ʃ i k//t ü k i r y w//s i lː eː//t i k i r"
@@ -4056,7 +4044,7 @@ graph [
     family_count 1
   ]
   node [
-    id 338
+    id 337
     label "VOMIT"
     occurrences "clicsbp-idssegmented-azerbaijani-VOMIT-1//clicsbp-idssegmented-kumyk-VOMIT-1//clicsbp-idssegmented-nogai-VOMIT-1//clicsbp-wold-Sakha-VOMIT-1//clicsbp-savelyevturkic-Karaim-VOMIT-1"
     words "g u s m a d a n + æ z a b + t æ k m æ//q u s u ɣ u + g e l m e k//k u s u w ɨ + k e l y w//χ o t u o l aː//k u s"
@@ -4068,7 +4056,7 @@ graph [
     family_count 1
   ]
   node [
-    id 339
+    id 338
     label "BITE"
     occurrences "clicsbp-idssegmented-azerbaijani-BITE-1//clicsbp-idssegmented-kumyk-BITE-1//clicsbp-idssegmented-nogai-BITE-1//clicsbp-northeuralex-tur-BITE-1//clicsbp-northeuralex-uzn-BITE-1//clicsbp-northeuralex-kaz-BITE-1//clicsbp-northeuralex-kaz-BITE-2//clicsbp-northeuralex-kaz-BITE-3//clicsbp-northeuralex-bak-BITE-1//clicsbp-northeuralex-tat-BITE-1//clicsbp-northeuralex-chv-BITE-1//clicsbp-northeuralex-chv-BITE-2//clicsbp-wold-Sakha-BITE-1//clicsbp-savelyevturkic-Karaim-BITE-1"
     words "d i ʃ l æ m æ k//x a p m a q//t i s l e w//ɯ s ɯ ɾ m a k//t i ʃ l a m ɒ q//q ɑ b u//t ə s t e u//q ɑ uə p + ɑ l u//t e ʃ l æ y//t e ʃ l æ ʉ//ɕ ɯ r t//χ ɯ p//ɨ t ɨ r//t i ʃ l e"
@@ -4080,7 +4068,7 @@ graph [
     family_count 1
   ]
   node [
-    id 340
+    id 339
     label "LICK"
     occurrences "clicsbp-idssegmented-azerbaijani-LICK-1//clicsbp-idssegmented-kumyk-LICK-1//clicsbp-idssegmented-nogai-LICK-1//clicsbp-northeuralex-tur-LICK-1//clicsbp-northeuralex-uzn-LICK-1//clicsbp-northeuralex-kaz-LICK-1//clicsbp-northeuralex-bak-LICK-1//clicsbp-northeuralex-tat-LICK-1//clicsbp-northeuralex-chv-LICK-1//clicsbp-wold-Sakha-LICK-1//clicsbp-savelyevturkic-Karaim-LICK-1"
     words "j a l a m a g//u a l a m a q//j a l a w//j a l a m a k//m i dʒ i m ɒ q//ʒ ɑ l ɑ u//j a l au//j a l au//ɕ u l a//s a l aː//j a l a"
@@ -4092,7 +4080,7 @@ graph [
     family_count 1
   ]
   node [
-    id 341
+    id 340
     label "DRIBBLE"
     occurrences "clicsbp-idssegmented-azerbaijani-DRIBBLE-1//clicsbp-idssegmented-kumyk-DRIBBLE-1//clicsbp-idssegmented-nogai-DRIBBLE-1//clicsbp-idssegmented-nogai-DRIBBLE-2//clicsbp-wold-Sakha-DRIBBLE-1"
     words "a ɣ ɨ z + s u j u n u + t œ k m æ k//t ü k ü r ü k + t œ k m e k//s i l e k e j i n + ʃ ɨ b ɨ r t m a k//t œ k m e k//s ɨ r aː nː a n"
@@ -4104,7 +4092,7 @@ graph [
     family_count 1
   ]
   node [
-    id 342
+    id 341
     label "SLEEP"
     occurrences "clicsbp-idssegmented-azerbaijani-SLEEP-1//clicsbp-idssegmented-kumyk-SLEEP-1//clicsbp-idssegmented-nogai-SLEEP-1//clicsbp-idssegmented-nogai-SLEEP-2//clicsbp-northeuralex-tur-SLEEP-1//clicsbp-northeuralex-uzn-SLEEP-1//clicsbp-northeuralex-kaz-SLEEP-1//clicsbp-northeuralex-bak-SLEEP-1//clicsbp-northeuralex-tat-SLEEP-1//clicsbp-northeuralex-chv-SLEEP-1//clicsbp-wold-Sakha-SLEEP-1//clicsbp-savelyevturkic-Karaim-SLEEP-1"
     words "j a t m a g//j u x l a m a q//u j k l a m a k//u j k l a w//u j u m a k//u χ l a m ɒ q//ʉ j ə q t ɑ u//j o q l au//j o k l au//ɕ ɯ ʋ ə r//u t u y//j u k l a"
@@ -4116,7 +4104,7 @@ graph [
     family_count 1
   ]
   node [
-    id 343
+    id 342
     label "LIE DOWN"
     occurrences "clicsbp-idssegmented-azerbaijani-LIEDOWN-2//clicsbp-idssegmented-azerbaijani-LIEDOWN-1//clicsbp-idssegmented-kumyk-LIEDOWN-1//clicsbp-idssegmented-nogai-LIEDOWN-1//clicsbp-idssegmented-nogai-LIEDOWN-2//clicsbp-wold-Sakha-LIEDOWN-1//clicsbp-savelyevturkic-Karaim-LIEDOWN-1"
     words "j a t m a g//u z a n m a g//u a t m a q//j a t m a k//j a t u w//s ɨ t//j a t"
@@ -4128,7 +4116,7 @@ graph [
     family_count 1
   ]
   node [
-    id 344
+    id 343
     label "SNORE"
     occurrences "clicsbp-idssegmented-azerbaijani-SNORE-1//clicsbp-idssegmented-kumyk-SNORE-1//clicsbp-idssegmented-nogai-SNORE-1//clicsbp-wold-Sakha-SNORE-1"
     words "x o r u l d a m a g//x o r u lː a m a q//x u r ɨ l d a w//χ a h ɨ ŋ ɨ r aː"
@@ -4140,7 +4128,7 @@ graph [
     family_count 1
   ]
   node [
-    id 345
+    id 344
     label "DREAM (SOMETHING)"
     occurrences "clicsbp-idssegmented-azerbaijani-DREAMSOMETHING-1//clicsbp-idssegmented-azerbaijani-DREAMSOMETHING-2//clicsbp-idssegmented-kumyk-DREAMSOMETHING-1//clicsbp-idssegmented-kumyk-DREAMSOMETHING-2//clicsbp-idssegmented-nogai-DREAMSOMETHING-1//clicsbp-idssegmented-nogai-DREAMSOMETHING-2//clicsbp-wold-Sakha-DREAMSOMETHING-1"
     words "a r z u + e t m æ k//j u x u + gʲ œ r m æ k//t ü ʃ + g œ r m e k//x i j a lː a n m a q//t y s + k œ r y w//o j l a n u w//t y h eː"
@@ -4152,7 +4140,7 @@ graph [
     family_count 1
   ]
   node [
-    id 346
+    id 345
     label "WAKE UP"
     occurrences "clicsbp-idssegmented-azerbaijani-WAKEUP-1//clicsbp-idssegmented-kumyk-WAKEUP-1//clicsbp-idssegmented-nogai-WAKEUP-1//clicsbp-idssegmented-nogai-WAKEUP-2//clicsbp-northeuralex-tur-WAKEUP-1//clicsbp-northeuralex-uzn-WAKEUP-1//clicsbp-northeuralex-kaz-WAKEUP-1//clicsbp-northeuralex-bak-WAKEUP-1//clicsbp-northeuralex-tat-WAKEUP-1//clicsbp-northeuralex-chv-WAKEUP-1//clicsbp-wold-Sakha-WAKEUP-1"
     words "o j a n m a g//uː a n m a q//u j a n m a k//u j a n u w//u j a n m a k//u j ɣ ɒ n m ɒ q//o j ɑ n u//u j a n ɯ u//u j a n u//ʋ a r a n//u h u g u n"
@@ -4164,7 +4152,7 @@ graph [
     family_count 1
   ]
   node [
-    id 347
+    id 346
     label "FART"
     occurrences "clicsbp-idssegmented-azerbaijani-FART-1//clicsbp-idssegmented-kumyk-FART-1//clicsbp-idssegmented-nogai-FART-1//clicsbp-wold-Sakha-FART-1"
     words "g a z a n d a n + a z a d + o l m a g//o s u r m a q//o s ɨ r u w//u t u r u k t aː"
@@ -4176,7 +4164,7 @@ graph [
     family_count 1
   ]
   node [
-    id 348
+    id 347
     label "PISS"
     occurrences "clicsbp-idssegmented-azerbaijani-PISS-1//clicsbp-idssegmented-kumyk-PISS-1//clicsbp-idssegmented-nogai-PISS-1//clicsbp-wold-Sakha-PISS-1"
     words "i ʃ æ m æ k//s u w u a r a w u n + e t m e k//n e s e p + e t y w//iː k t eː"
@@ -4188,7 +4176,7 @@ graph [
     family_count 1
   ]
   node [
-    id 349
+    id 348
     label "SHIT (DEFECATE)"
     occurrences "clicsbp-idssegmented-azerbaijani-SHITDEFECATE-1//clicsbp-idssegmented-kumyk-SHITDEFECATE-1//clicsbp-idssegmented-nogai-SHITDEFECATE-1//clicsbp-wold-Sakha-SHITDEFECATE-1"
     words "n æ dʒ i s + i f r a z + e t m æ k//e ʃ i g i n + e t m e r//e ʒ i g i ʔ i + e t y w//s aː χ t aː"
@@ -4200,7 +4188,7 @@ graph [
     family_count 1
   ]
   node [
-    id 350
+    id 349
     label "COPULATE"
     occurrences "clicsbp-idssegmented-azerbaijani-COPULATE-1//clicsbp-idssegmented-kumyk-COPULATE-1//clicsbp-idssegmented-nogai-COPULATE-1//clicsbp-wold-Sakha-COPULATE-1//clicsbp-wold-Sakha-COPULATE-2"
     words "dʒ i n s i + æ l a g æ j æ + gʲ i r m æ k//s i g i ʃ m e r//j u w ɨ k l a s u w l ɨ k//k ɨ a r//k ɨ n"
@@ -4212,7 +4200,7 @@ graph [
     family_count 1
   ]
   node [
-    id 351
+    id 350
     label "SHIVER"
     occurrences "clicsbp-idssegmented-azerbaijani-SHIVER-1//clicsbp-idssegmented-kumyk-SHIVER-1//clicsbp-idssegmented-nogai-SHIVER-1//clicsbp-idssegmented-nogai-SHIVER-2//clicsbp-northeuralex-tur-SHIVER-1//clicsbp-northeuralex-uzn-SHIVER-1//clicsbp-northeuralex-kaz-SHIVER-1//clicsbp-northeuralex-kaz-SHIVER-2//clicsbp-northeuralex-bak-SHIVER-1//clicsbp-northeuralex-tat-SHIVER-1//clicsbp-northeuralex-tat-SHIVER-2//clicsbp-northeuralex-chv-SHIVER-1//clicsbp-wold-Sakha-SHIVER-1"
     words "æ s m æ k//q a r t ɨ lː a m a q//d i r i l d e w//k a l t ɨ r a w//t i t ɾ ɛ m ɛ k//t i t r a m ɒ q//q ɑ l ʃ//q ɑ l ʃ ə l d ɑ t u//q a l t ɯ r au//q ɑ l t ɤ r au//q ɑ l t ɤ r a n u//tɕ ɘ t r ɛ//i l i b i r eː"
@@ -4224,7 +4212,7 @@ graph [
     family_count 1
   ]
   node [
-    id 352
+    id 351
     label "BLOW (OF WIND)"
     occurrences "clicsbp-idssegmented-azerbaijani-BLOWOFWIND-2//clicsbp-idssegmented-azerbaijani-BLOWOFWIND-1//clicsbp-idssegmented-kumyk-BLOWOFWIND-1//clicsbp-idssegmented-nogai-BLOWOFWIND-1//clicsbp-northeuralex-tur-BLOWOFWIND-1//clicsbp-northeuralex-uzn-BLOWOFWIND-1//clicsbp-northeuralex-kaz-BLOWOFWIND-1//clicsbp-northeuralex-bak-BLOWOFWIND-1//clicsbp-northeuralex-tat-BLOWOFWIND-1//clicsbp-northeuralex-chv-BLOWOFWIND-1//clicsbp-wold-Sakha-BLOWOFWIND-1//clicsbp-savelyevturkic-Karaim-BLOWOFWIND-1"
     words "æ s m æ k//ü f ü r m æ k//ü f ü r m e k//ü p i r y w//ɛ s m ɛ k//ɛ l p i m ɒ q//o g ə p + t u ɾ//i θ e y//i s ʉ//ʋ a r k ə ʂ//y r//i r"
@@ -4236,7 +4224,7 @@ graph [
     family_count 1
   ]
   node [
-    id 353
+    id 352
     label "BATHE"
     occurrences "clicsbp-idssegmented-azerbaijani-BATHE-1//clicsbp-idssegmented-kumyk-BATHE-1//clicsbp-idssegmented-nogai-BATHE-1//clicsbp-northeuralex-tur-BATHE-1//clicsbp-northeuralex-tur-BATHE-2//clicsbp-northeuralex-uzn-BATHE-1//clicsbp-northeuralex-kaz-BATHE-1//clicsbp-northeuralex-bak-BATHE-1//clicsbp-northeuralex-tat-BATHE-1//clicsbp-northeuralex-chv-BATHE-1//clicsbp-wold-Sakha-BATHE-1"
     words "tʃ i mː æ k//k i r i n m e k//ʃ a m ɨ l u w//j ɯ k a n m a k//b a n j o + j a p m a k//tʃ o m i l m ɒ q//ʃ o m ə l u//h ɯ u + i n e y//q o e n u//ʂ ɯ ʋ a + k ɘ r//s uː n"
@@ -4248,7 +4236,7 @@ graph [
     family_count 1
   ]
   node [
-    id 354
+    id 353
     label "BEGET"
     occurrences "clicsbp-idssegmented-azerbaijani-BEGET-1//clicsbp-idssegmented-kumyk-BEGET-1//clicsbp-idssegmented-nogai-BEGET-1//clicsbp-wold-Sakha-BEGET-1//clicsbp-wold-Sakha-BEGET-2"
     words "d o ɣ m a g//t u w d u r m a q//t a p t ɨ r u w//y œ s k e t//o ŋ o r"
@@ -4260,7 +4248,7 @@ graph [
     family_count 1
   ]
   node [
-    id 355
+    id 354
     label "BE BORN"
     occurrences "clicsbp-idssegmented-azerbaijani-BEBORN-1//clicsbp-idssegmented-kumyk-BEBORN-1//clicsbp-idssegmented-nogai-BEBORN-1//clicsbp-idssegmented-nogai-BEBORN-2//clicsbp-northeuralex-tur-BEBORN-1//clicsbp-northeuralex-uzn-BEBORN-1//clicsbp-northeuralex-kaz-BEBORN-1//clicsbp-northeuralex-bak-BEBORN-1//clicsbp-northeuralex-tat-BEBORN-1//clicsbp-northeuralex-chv-BEBORN-1//clicsbp-wold-Sakha-BEBORN-1"
     words "d o ɣ u l m a g//t u w m a q//t u w u w//a t u w//d oː m a k//t u ɣ i l m ɒ q//t ʊ w//t ɯ u ɯ u//t u u//ɕ u r a l//t œ r œː"
@@ -4272,7 +4260,7 @@ graph [
     family_count 1
   ]
   node [
-    id 356
+    id 355
     label "PREGNANT"
     occurrences "clicsbp-idssegmented-azerbaijani-PREGNANT-1//clicsbp-idssegmented-kumyk-PREGNANT-1//clicsbp-idssegmented-kumyk-PREGNANT-2//clicsbp-idssegmented-nogai-PREGNANT-1//clicsbp-idssegmented-nogai-PREGNANT-2//clicsbp-wold-Sakha-PREGNANT-1//clicsbp-wold-Sakha-PREGNANT-2//clicsbp-wold-Sakha-PREGNANT-3"
     words "h a m i l æ//a j l ɨ//a w u r//a w ɨ r + a j a k l ɨ//j u k l i//i s t eː χ//χ a t//ɨ a r a χ a n"
@@ -4284,7 +4272,7 @@ graph [
     family_count 1
   ]
   node [
-    id 357
+    id 356
     label "CONCEIVE"
     occurrences "clicsbp-idssegmented-azerbaijani-CONCEIVE-1//clicsbp-idssegmented-kumyk-CONCEIVE-1//clicsbp-idssegmented-nogai-CONCEIVE-1//clicsbp-wold-Sakha-CONCEIVE-1//clicsbp-wold-Sakha-CONCEIVE-2//clicsbp-wold-Sakha-CONCEIVE-3"
     words "h a m i l æ + o l m a g//a j l ɨ + b o l m a q//a w ɨ r + a j a k l ɨ + b o l u w//χ a t + b u o l//i s t eː χ + b u o l//ɨ a r a χ a n + b u o l"
@@ -4296,7 +4284,7 @@ graph [
     family_count 1
   ]
   node [
-    id 358
+    id 357
     label "BE ALIVE OR LIFE"
     occurrences "clicsbp-idssegmented-azerbaijani-BEALIVEORLIFE-1//clicsbp-idssegmented-azerbaijani-BEALIVEORLIFE-2//clicsbp-idssegmented-azerbaijani-BEALIVEORLIFE-3//clicsbp-idssegmented-kumyk-BEALIVEORLIFE-1//clicsbp-idssegmented-kumyk-BEALIVEORLIFE-2//clicsbp-idssegmented-kumyk-BEALIVEORLIFE-3//clicsbp-idssegmented-nogai-BEALIVEORLIFE-1//clicsbp-idssegmented-nogai-BEALIVEORLIFE-2//clicsbp-idssegmented-nogai-BEALIVEORLIFE-3"
     words "j a ʃ a m a g//d i r i//h æ j a t//u a ʃ a m a q//s a w//u a ʃ a w//j a ʃ a m a k//j e n l ɨ//j a ʃ a w"
@@ -4308,7 +4296,7 @@ graph [
     family_count 1
   ]
   node [
-    id 359
+    id 358
     label "DWELL (LIVE, RESIDE)"
     occurrences "clicsbp-idssegmented-azerbaijani-DWELLLIVERESIDE-1//clicsbp-idssegmented-kumyk-DWELLLIVERESIDE-1//clicsbp-idssegmented-nogai-DWELLLIVERESIDE-1//clicsbp-idssegmented-nogai-DWELLLIVERESIDE-2//clicsbp-northeuralex-tur-DWELLLIVERESIDE-1//clicsbp-northeuralex-uzn-DWELLLIVERESIDE-1//clicsbp-northeuralex-kaz-DWELLLIVERESIDE-1//clicsbp-northeuralex-kaz-DWELLLIVERESIDE-2//clicsbp-northeuralex-bak-DWELLLIVERESIDE-1//clicsbp-northeuralex-tat-DWELLLIVERESIDE-1//clicsbp-northeuralex-chv-DWELLLIVERESIDE-1//clicsbp-northeuralex-chv-DWELLLIVERESIDE-2//clicsbp-wold-Sakha-DWELLLIVERESIDE-1"
     words "j a ʃ a m a g//u a ʃ a m a q//j a ʃ a m a k//j a ʃ a w//o t u ɾ m a k//i s t i q ɒ m a t + q i l m ɒ q//m e k e n d e u//ø m ə ɾ + s ʊ ɾ u//j æ ʃ æ y//j a ʃ æ ʉ//tɕ u n a + p a r//p a r ə n s a + t ə r//o l o r"
@@ -4320,7 +4308,7 @@ graph [
     family_count 1
   ]
   node [
-    id 360
+    id 359
     label "BE DEAD OR DIE"
     occurrences "clicsbp-idssegmented-azerbaijani-BEDEADORDIE-1//clicsbp-idssegmented-azerbaijani-BEDEADORDIE-2//clicsbp-idssegmented-azerbaijani-BEDEADORDIE-3//clicsbp-idssegmented-kumyk-BEDEADORDIE-1//clicsbp-idssegmented-kumyk-BEDEADORDIE-2//clicsbp-idssegmented-kumyk-BEDEADORDIE-3//clicsbp-idssegmented-nogai-BEDEADORDIE-1//clicsbp-idssegmented-nogai-BEDEADORDIE-2//clicsbp-idssegmented-nogai-BEDEADORDIE-3//clicsbp-idssegmented-nogai-BEDEADORDIE-4"
     words "œ l m æ k//œ l ü//v æ f a t + e t m æ k//œ l m e k//b i t l m e k//œ l ü//k e ʃ k e n//œ l m e k//œ l y w//œ l g e n"
@@ -4332,7 +4320,7 @@ graph [
     family_count 1
   ]
   node [
-    id 361
+    id 360
     label "DROWNED"
     occurrences "clicsbp-idssegmented-azerbaijani-DROWNED-1//clicsbp-idssegmented-kumyk-DROWNED-1//clicsbp-idssegmented-kumyk-DROWNED-2//clicsbp-idssegmented-nogai-DROWNED-1"
     words "s u d a + b a t m ɨ ʃ + a d a m//b a t ɨ l ɣ a n//b a t ɨ l ɨ p + œ l g e n//j u t ɨ l g a n"
@@ -4344,7 +4332,7 @@ graph [
     family_count 1
   ]
   node [
-    id 362
+    id 361
     label "KILL"
     occurrences "clicsbp-idssegmented-azerbaijani-KILL-1//clicsbp-idssegmented-kumyk-KILL-1//clicsbp-idssegmented-nogai-KILL-1//clicsbp-idssegmented-nogai-KILL-2//clicsbp-northeuralex-tur-KILL-1//clicsbp-northeuralex-uzn-KILL-1//clicsbp-northeuralex-kaz-KILL-1//clicsbp-northeuralex-kaz-KILL-2//clicsbp-northeuralex-bak-KILL-1//clicsbp-northeuralex-tat-KILL-1//clicsbp-northeuralex-chv-KILL-1//clicsbp-wold-Sakha-KILL-1//clicsbp-savelyevturkic-Karaim-KILL-1"
     words "œ l d ü r m æ k//œ l t ü r m e k//œ l t i r m e k//œ l t i r y w//œ l d y ɾ m ɛ k//o l d i r m ɒ q//q ʉ ɾ t u//ø l t ə ɾ u//y l t e r e y//ʉ t e r ʉ//ʋ ɘ l ɛ r//œ l œ r//ø l d i r"
@@ -4356,7 +4344,7 @@ graph [
     family_count 1
   ]
   node [
-    id 363
+    id 362
     label "STAB TO DEATH"
     occurrences "clicsbp-idssegmented-azerbaijani-STABTODEATH-1//clicsbp-idssegmented-azerbaijani-STABTODEATH-2//clicsbp-idssegmented-kumyk-STABTODEATH-1//clicsbp-idssegmented-nogai-STABTODEATH-1//clicsbp-idssegmented-nogai-STABTODEATH-2//clicsbp-wold-Sakha-STABTODEATH-1"
     words "œ l d ü r m æ k//j a r m a g//tʃ a n tʃ ɨ p + œ l t ü r m e k//ʃ a n ʃ u w//s u g u w//b ɨ h a ɣ ɨ n a n + a s"
@@ -4368,7 +4356,7 @@ graph [
     family_count 1
   ]
   node [
-    id 364
+    id 363
     label "CORPSE"
     occurrences "clicsbp-idssegmented-azerbaijani-CORPSE-1//clicsbp-idssegmented-kumyk-CORPSE-1//clicsbp-idssegmented-kumyk-CORPSE-2//clicsbp-idssegmented-nogai-CORPSE-3//clicsbp-idssegmented-nogai-CORPSE-1//clicsbp-idssegmented-nogai-CORPSE-2//clicsbp-wold-Sakha-CORPSE-1"
     words "m e j i t//s ü j e k//œ l ü//s ü j e k//l e s i n//l e s//œ l y k"
@@ -4380,7 +4368,7 @@ graph [
     family_count 1
   ]
   node [
-    id 365
+    id 364
     label "BURY"
     occurrences "clicsbp-idssegmented-azerbaijani-BURY-1//clicsbp-idssegmented-kumyk-BURY-1//clicsbp-idssegmented-nogai-BURY-1//clicsbp-wold-Sakha-BURY-1"
     words "d æ f n + e t m æ k//g œ mː e k//k œ m y w//k œ m"
@@ -4392,7 +4380,7 @@ graph [
     family_count 1
   ]
   node [
-    id 366
+    id 365
     label "GRAVE"
     occurrences "clicsbp-idssegmented-azerbaijani-GRAVE-1//clicsbp-idssegmented-azerbaijani-GRAVE-2//clicsbp-idssegmented-kumyk-GRAVE-1//clicsbp-idssegmented-kumyk-GRAVE-2//clicsbp-idssegmented-nogai-GRAVE-1//clicsbp-idssegmented-nogai-GRAVE-2//clicsbp-idssegmented-nogai-GRAVE-3//clicsbp-northeuralex-tur-GRAVE-1//clicsbp-northeuralex-uzn-GRAVE-1//clicsbp-northeuralex-kaz-GRAVE-1//clicsbp-northeuralex-kaz-GRAVE-2//clicsbp-northeuralex-bak-GRAVE-1//clicsbp-northeuralex-tat-GRAVE-1//clicsbp-northeuralex-tat-GRAVE-2//clicsbp-northeuralex-chv-GRAVE-1//clicsbp-wold-Sakha-GRAVE-1//clicsbp-wold-Sakha-GRAVE-2"
     words "g æ b i r//m æ z a r//q a b u r//k œ r//m e z a r//k a b ɨ r//k œ r//k a b i ɾ//g o r//m o l ɑ//m ɑ z ɑ ɾ//q æ b e r//g ʉ r//q ɑ b e r//m a s a r + ʂ ə t ə k ɘ//k i h i + u ŋ u o ɣ a//iː n"
@@ -4404,7 +4392,7 @@ graph [
     family_count 1
   ]
   node [
-    id 367
+    id 366
     label "MIGHTY OR POWERFUL OR STRONG"
     occurrences "clicsbp-idssegmented-azerbaijani-MIGHTYORPOWERFULORSTRONG-1//clicsbp-idssegmented-azerbaijani-MIGHTYORPOWERFULORSTRONG-2//clicsbp-idssegmented-azerbaijani-MIGHTYORPOWERFULORSTRONG-3//clicsbp-idssegmented-kumyk-MIGHTYORPOWERFULORSTRONG-1//clicsbp-idssegmented-kumyk-MIGHTYORPOWERFULORSTRONG-2//clicsbp-idssegmented-nogai-MIGHTYORPOWERFULORSTRONG-1//clicsbp-idssegmented-nogai-MIGHTYORPOWERFULORSTRONG-2"
     words "g ü d r æ t l i//k ü dʒ l ü//g ü vː æ t l i//g ü tʃ l ü//q u w a t l ɨ//k ü ʃ l i//k u w a t l ɨ"
@@ -4416,7 +4404,7 @@ graph [
     family_count 1
   ]
   node [
-    id 368
+    id 367
     label "WEAK"
     occurrences "clicsbp-idssegmented-azerbaijani-WEAK-1//clicsbp-idssegmented-azerbaijani-WEAK-2//clicsbp-idssegmented-azerbaijani-WEAK-3//clicsbp-idssegmented-kumyk-WEAK-1//clicsbp-idssegmented-kumyk-WEAK-2//clicsbp-idssegmented-nogai-WEAK-1//clicsbp-idssegmented-nogai-WEAK-2//clicsbp-idssegmented-nogai-WEAK-3//clicsbp-northeuralex-tur-WEAK-1//clicsbp-northeuralex-tur-WEAK-2//clicsbp-northeuralex-uzn-WEAK-1//clicsbp-northeuralex-kaz-WEAK-1//clicsbp-northeuralex-kaz-WEAK-2//clicsbp-northeuralex-kaz-WEAK-3//clicsbp-northeuralex-bak-WEAK-1//clicsbp-northeuralex-tat-WEAK-1//clicsbp-northeuralex-chv-WEAK-1//clicsbp-wold-Sakha-WEAK-1"
     words "z æ i f//a r ɨ g//dʒ a n s ɨ z//o s a l//a r ɨ q//a r ɨ k//o s a l//ä l s i z//z a j ɯ f//g y tʃ s y z//k u tʃ s i z//æ l s ə z//k ʊ ʃ s ə z//q ɑ j ɾ ɑ t s ə z//k ø s h ø ð//z æ g ɤ j f ʔ//χ a l s ə r//m œ l t œ χ"
@@ -4428,7 +4416,7 @@ graph [
     family_count 1
   ]
   node [
-    id 369
+    id 368
     label "HEALTHY"
     occurrences "clicsbp-idssegmented-azerbaijani-HEALTHY-1//clicsbp-idssegmented-azerbaijani-HEALTHY-2//clicsbp-idssegmented-azerbaijani-HEALTHY-3//clicsbp-idssegmented-kumyk-HEALTHY-1//clicsbp-idssegmented-kumyk-HEALTHY-2//clicsbp-idssegmented-nogai-HEALTHY-1//clicsbp-idssegmented-nogai-HEALTHY-2//clicsbp-northeuralex-tur-HEALTHY-1//clicsbp-northeuralex-uzn-HEALTHY-1//clicsbp-northeuralex-kaz-HEALTHY-1//clicsbp-northeuralex-bak-HEALTHY-1//clicsbp-northeuralex-tat-HEALTHY-1//clicsbp-northeuralex-chv-HEALTHY-1//clicsbp-northeuralex-chv-HEALTHY-2//clicsbp-wold-Sakha-HEALTHY-1"
     words "s œ l a l e//s a ɣ l a m//s a ɣ l a m l ɨ g//s a w//s a w l u q//s a w//s a w l ɨ k//s aː l ɯ k//s ɒ ɣ l i k//d e n s ɑ u l ə k//h au l ɯ q//s au l ɤ k//χ a l//s ɯ ʋ l ə χ//tʃ e g i e n"
@@ -4440,7 +4428,7 @@ graph [
     family_count 1
   ]
   node [
-    id 370
+    id 369
     label "SICK"
     occurrences "clicsbp-idssegmented-azerbaijani-SICK-1//clicsbp-idssegmented-azerbaijani-SICK-2//clicsbp-idssegmented-kumyk-SICK-1//clicsbp-idssegmented-kumyk-SICK-2//clicsbp-idssegmented-nogai-SICK-1//clicsbp-idssegmented-nogai-SICK-2//clicsbp-northeuralex-tur-SICK-1//clicsbp-northeuralex-tur-SICK-2//clicsbp-northeuralex-uzn-SICK-1//clicsbp-northeuralex-kaz-SICK-1//clicsbp-northeuralex-bak-SICK-2//clicsbp-northeuralex-bak-SICK-1//clicsbp-northeuralex-tat-SICK-2//clicsbp-northeuralex-tat-SICK-1//clicsbp-northeuralex-chv-SICK-1//clicsbp-wold-Sakha-SICK-1"
     words "x æ s t æ l i k//x æ s t æ//a w r u w l u//a w r u w//a w ɨ r u w l ɨ//a w ɨ r u w//h a s t a//ɾ a h a t s ɯ z//k a s a l//k e s e l d ə//au ɯ r ɯ u//s i r l e//s ɤ r x au//tɕ i r l e//tɕ i r l ɘ//ɨ a l dʒ a r"
@@ -4452,7 +4440,7 @@ graph [
     family_count 1
   ]
   node [
-    id 371
+    id 370
     label "FEVER"
     occurrences "clicsbp-idssegmented-azerbaijani-FEVER-1//clicsbp-idssegmented-azerbaijani-FEVER-2//clicsbp-idssegmented-kumyk-FEVER-1//clicsbp-idssegmented-kumyk-FEVER-2//clicsbp-idssegmented-kumyk-FEVER-3//clicsbp-idssegmented-nogai-FEVER-1//clicsbp-idssegmented-nogai-FEVER-2//clicsbp-northeuralex-tur-FEVER-1//clicsbp-northeuralex-uzn-FEVER-1//clicsbp-northeuralex-kaz-FEVER-1//clicsbp-northeuralex-kaz-FEVER-2//clicsbp-northeuralex-kaz-FEVER-3//clicsbp-northeuralex-bak-FEVER-1//clicsbp-northeuralex-bak-FEVER-2//clicsbp-northeuralex-tat-FEVER-1//clicsbp-northeuralex-chv-FEVER-1//clicsbp-wold-Sakha-FEVER-1"
     words "g ɨ z d ɨ r m a//h æ r a r æ t//q ɨ z d ɨ r m a q//q ɨ z d ɨ r m a + b e zː e k//t u t m a q//k ɨ z d ɨ r m a + t o q + g ɨ s t u w//b e z g e k + t u t u w//a t ɛ ʃ//b ɛ z g a k//b e z g e k//q ɑ l t ə ɾ ɑ u//q ə z u + k ø t e ɾ ə l uə//t a p m a//b i ð g æ k//b i z g æ k//s i ʋ + tɕ i r//t e m p e r a t u r a"
@@ -4464,7 +4452,7 @@ graph [
     family_count 1
   ]
   node [
-    id 372
+    id 371
     label "GOITER"
     occurrences "clicsbp-idssegmented-azerbaijani-GOITER-1//clicsbp-idssegmented-azerbaijani-GOITER-2//clicsbp-idssegmented-kumyk-GOITER-1//clicsbp-idssegmented-nogai-GOITER-1//clicsbp-idssegmented-nogai-GOITER-2//clicsbp-idssegmented-nogai-GOITER-3//clicsbp-wold-Sakha-GOITER-1//clicsbp-wold-Sakha-GOITER-2"
     words "u r//b o ɣ a z + u r u//t a m a q + b e z l e r//b œ t e g e//u r//z o b//s o ɣ u o//u r"
@@ -4476,7 +4464,7 @@ graph [
     family_count 1
   ]
   node [
-    id 373
+    id 372
     label "COMMON COLD (DISEASE)"
     occurrences "clicsbp-idssegmented-azerbaijani-COMMONCOLDDISEASE-1//clicsbp-idssegmented-kumyk-COMMONCOLDDISEASE-1//clicsbp-idssegmented-nogai-COMMONCOLDDISEASE-1//clicsbp-idssegmented-nogai-COMMONCOLDDISEASE-2//clicsbp-wold-Sakha-COMMONCOLDDISEASE-1"
     words "s o j u g d æ j m æ//s u w u q + t i j m e k//s u w ɨ k + t i j u w//s u w ɨ k + a l u w//t ɨ m n ɨ y ɨː"
@@ -4488,7 +4476,7 @@ graph [
     family_count 1
   ]
   node [
-    id 374
+    id 373
     label "WOUND"
     occurrences "clicsbp-idssegmented-azerbaijani-WOUND-1//clicsbp-idssegmented-azerbaijani-WOUND-2//clicsbp-idssegmented-kumyk-WOUND-1//clicsbp-idssegmented-nogai-WOUND-1//clicsbp-idssegmented-nogai-WOUND-2//clicsbp-northeuralex-tur-WOUND-1//clicsbp-northeuralex-uzn-WOUND-1//clicsbp-northeuralex-kaz-WOUND-1//clicsbp-northeuralex-kaz-WOUND-2//clicsbp-northeuralex-bak-WOUND-1//clicsbp-northeuralex-tat-WOUND-1//clicsbp-northeuralex-tat-WOUND-2//clicsbp-northeuralex-chv-WOUND-1//clicsbp-wold-Sakha-WOUND-1"
     words "j a r a//x o r a//u a r a//j e r a//i r i n l i + j e r a//j a ɾ a//j a r a//z ɑ q ə m//ʒ ɑ ɾ ɑ q ɑ t//j æ r æ x æ t//j a r a//dʑ æ r æ x æ t//s u r a n//b aː s"
@@ -4500,7 +4488,7 @@ graph [
     family_count 1
   ]
   node [
-    id 375
+    id 374
     label "BRUISE"
     occurrences "clicsbp-idssegmented-azerbaijani-BRUISE-1//clicsbp-idssegmented-azerbaijani-BRUISE-2//clicsbp-idssegmented-kumyk-BRUISE-1//clicsbp-idssegmented-kumyk-BRUISE-2//clicsbp-idssegmented-kumyk-BRUISE-3//clicsbp-idssegmented-nogai-BRUISE-1//clicsbp-idssegmented-nogai-BRUISE-2//clicsbp-wold-Sakha-BRUISE-1//clicsbp-wold-Sakha-BRUISE-2"
     words "æ z m æ//z æ d æ l æ m æ//u r u n u p//a w u r t u w//a w u r t ɣ a n + j e r i//u r ɨ p + a w ɨ r t u w//u r ɨ p + k œ g e r t k e j + j e r//k œ ɣ œ r yː//œ l œ r y n yː"
@@ -4512,7 +4500,7 @@ graph [
     family_count 1
   ]
   node [
-    id 376
+    id 375
     label "SWELLING"
     occurrences "clicsbp-idssegmented-azerbaijani-SWELLING-1//clicsbp-idssegmented-kumyk-SWELLING-1//clicsbp-idssegmented-kumyk-SWELLING-2//clicsbp-idssegmented-nogai-SWELLING-1//clicsbp-wold-Sakha-SWELLING-1"
     words "ʃ i ʃ//ʃ i ʃ i k//t a l a w//s i s i k//k u t u r g u y a"
@@ -4524,7 +4512,7 @@ graph [
     family_count 1
   ]
   node [
-    id 377
+    id 376
     label "ITCH"
     occurrences "clicsbp-idssegmented-azerbaijani-ITCH-1//clicsbp-idssegmented-kumyk-ITCH-1//clicsbp-idssegmented-nogai-ITCH-1//clicsbp-wold-Sakha-ITCH-1"
     words "gʲ i dʒ i ʃ m æ//q ɨ tʃ ɨ t ɨ w//k ɨ ʃ u w//k ɨ h ɨː"
@@ -4536,7 +4524,7 @@ graph [
     family_count 1
   ]
   node [
-    id 378
+    id 377
     label "BLISTER"
     occurrences "clicsbp-idssegmented-azerbaijani-BLISTER-1//clicsbp-idssegmented-azerbaijani-BLISTER-2//clicsbp-idssegmented-kumyk-BLISTER-1//clicsbp-idssegmented-kumyk-BLISTER-2//clicsbp-idssegmented-nogai-BLISTER-1//clicsbp-idssegmented-nogai-BLISTER-2//clicsbp-wold-Sakha-BLISTER-1//clicsbp-wold-Sakha-BLISTER-2"
     words "g a b a r//s u l u g//q a b a r tʃ ɨ q//s u w + t o l ɣ a n + j e r i//k a b a r ʃ ɨ k//s u w l ɨ + s i s i k//b ɨ h a + aː lː a r b ɨ t//χ a b ɨ lː a n + t a χ s ɨ b ɨ t"
@@ -4548,7 +4536,7 @@ graph [
     family_count 1
   ]
   node [
-    id 379
+    id 378
     label "BOIL (OF SKIN)"
     occurrences "clicsbp-idssegmented-azerbaijani-BOILOFSKIN-1//clicsbp-idssegmented-kumyk-BOILOFSKIN-1//clicsbp-idssegmented-kumyk-BOILOFSKIN-2//clicsbp-idssegmented-nogai-BOILOFSKIN-1//clicsbp-idssegmented-nogai-BOILOFSKIN-2//clicsbp-wold-Sakha-BOILOFSKIN-1"
     words "tʃ i b a n//tʃ ɨ ɣ ɨ w//s ɨ z l a w u q//i r i n l e i g e n e r//ʃ ɨ j k a n//k u t u r g u y a"
@@ -4560,7 +4548,7 @@ graph [
     family_count 1
   ]
   node [
-    id 380
+    id 379
     label "PUS"
     occurrences "clicsbp-idssegmented-azerbaijani-PUS-1//clicsbp-idssegmented-kumyk-PUS-1//clicsbp-idssegmented-nogai-PUS-1//clicsbp-wold-Sakha-PUS-1//clicsbp-savelyevturkic-Karaim-PUS-1"
     words "i r i n//i r i n//i r i n//i r i ŋ e//i r i n"
@@ -4572,7 +4560,7 @@ graph [
     family_count 1
   ]
   node [
-    id 381
+    id 380
     label "SCAR"
     occurrences "clicsbp-idssegmented-azerbaijani-SCAR-1//clicsbp-idssegmented-azerbaijani-SCAR-2//clicsbp-idssegmented-kumyk-SCAR-1//clicsbp-idssegmented-kumyk-SCAR-2//clicsbp-idssegmented-nogai-SCAR-1//clicsbp-idssegmented-nogai-SCAR-2//clicsbp-wold-Sakha-SCAR-1"
     words "j a r a + j e r i//tʃ a p ɨ g//tʃ o r//u a r a + h ɨ z//j a r a + ɨ z ɨ//t ɨ r t ɨ k//tʃ e r"
@@ -4584,7 +4572,7 @@ graph [
     family_count 1
   ]
   node [
-    id 382
+    id 381
     label "CURE"
     occurrences "clicsbp-idssegmented-azerbaijani-CURE-1//clicsbp-idssegmented-kumyk-CURE-1//clicsbp-idssegmented-kumyk-CURE-2//clicsbp-idssegmented-nogai-CURE-1//clicsbp-idssegmented-nogai-CURE-2//clicsbp-wold-Sakha-CURE-1"
     words "m ü a l i dʒ æ + e t m æ k//s a w + e t m e k//b a q m a q//s a w + e t u w//e m l e w//e m t eː"
@@ -4596,7 +4584,7 @@ graph [
     family_count 1
   ]
   node [
-    id 383
+    id 382
     label "PHYSICIAN"
     occurrences "clicsbp-idssegmented-azerbaijani-PHYSICIAN-1//clicsbp-idssegmented-kumyk-PHYSICIAN-1//clicsbp-idssegmented-kumyk-PHYSICIAN-2//clicsbp-idssegmented-nogai-PHYSICIAN-1//clicsbp-idssegmented-nogai-PHYSICIAN-2//clicsbp-northeuralex-tur-PHYSICIAN-1//clicsbp-northeuralex-tur-PHYSICIAN-2//clicsbp-northeuralex-uzn-PHYSICIAN-1//clicsbp-northeuralex-kaz-PHYSICIAN-1//clicsbp-northeuralex-bak-PHYSICIAN-1//clicsbp-northeuralex-tat-PHYSICIAN-1//clicsbp-northeuralex-tat-PHYSICIAN-2//clicsbp-northeuralex-chv-PHYSICIAN-1//clicsbp-northeuralex-chv-PHYSICIAN-2//clicsbp-wold-Sakha-PHYSICIAN-1//clicsbp-wold-Sakha-PHYSICIAN-2"
     words "h æ k i m//d o x t u r//v r a tʃ//d o k t o r//e m ʃ i//h ɛ k i m//d o k t o ɾ//h a k i m//d æ ɾ ə g e ɾ//w r a tʃ//w r a tɕ//t a b i b//ʋ r a tɕ//t u χ t ə r//b ɨ r aː s//e m tʃ i t"
@@ -4608,7 +4596,7 @@ graph [
     family_count 1
   ]
   node [
-    id 384
+    id 383
     label "MEDICINE"
     occurrences "clicsbp-idssegmented-azerbaijani-MEDICINE-1//clicsbp-idssegmented-kumyk-MEDICINE-1//clicsbp-idssegmented-kumyk-MEDICINE-2//clicsbp-idssegmented-nogai-MEDICINE-1//clicsbp-idssegmented-nogai-MEDICINE-2//clicsbp-northeuralex-tur-MEDICINE-1//clicsbp-northeuralex-uzn-MEDICINE-1//clicsbp-northeuralex-kaz-MEDICINE-1//clicsbp-northeuralex-kaz-MEDICINE-2//clicsbp-northeuralex-bak-MEDICINE-1//clicsbp-northeuralex-tat-MEDICINE-1//clicsbp-northeuralex-chv-MEDICINE-1//clicsbp-wold-Sakha-MEDICINE-1"
     words "d æ r m a n//d a r m a n//e m//e m//d a r m a n//i l aː tʃ//d ɒ r i//d æ ɾ ə//d æ ɾ ə d æ ɾ m e k//d a r ɯ u//d a r u//e m ɛ l//e m p"
@@ -4620,7 +4608,7 @@ graph [
     family_count 1
   ]
   node [
-    id 385
+    id 384
     label "POISON"
     occurrences "clicsbp-idssegmented-azerbaijani-POISON-1//clicsbp-idssegmented-kumyk-POISON-1//clicsbp-idssegmented-kumyk-POISON-2//clicsbp-idssegmented-nogai-POISON-1//clicsbp-idssegmented-nogai-POISON-2//clicsbp-wold-Sakha-POISON-1//clicsbp-wold-Sakha-POISON-2"
     words "z æ h æ r//a ɣ u//u w//u w//a g u w//dʒ aː t//s y l y h y n"
@@ -4632,7 +4620,7 @@ graph [
     family_count 1
   ]
   node [
-    id 386
+    id 385
     label "TIRED"
     occurrences "clicsbp-idssegmented-azerbaijani-TIRED-1//clicsbp-idssegmented-kumyk-TIRED-1//clicsbp-idssegmented-kumyk-TIRED-2//clicsbp-idssegmented-kumyk-TIRED-3//clicsbp-idssegmented-nogai-TIRED-1//clicsbp-idssegmented-nogai-TIRED-2//clicsbp-wold-Sakha-TIRED-1"
     words "j o r ɣ u n//a r ɨ ɣ a n//t a l ɣ a n//q a w ʃ a l ɣ a n//a r ɨ g a n//t a l g a n//s ɨ l aː y b ɨ t"
@@ -4644,7 +4632,7 @@ graph [
     family_count 1
   ]
   node [
-    id 387
+    id 386
     label "REST"
     occurrences "clicsbp-idssegmented-azerbaijani-REST-1//clicsbp-idssegmented-kumyk-REST-1//clicsbp-idssegmented-kumyk-REST-2//clicsbp-idssegmented-nogai-REST-1//clicsbp-idssegmented-nogai-REST-2//clicsbp-idssegmented-nogai-REST-3//clicsbp-northeuralex-tur-REST-1//clicsbp-northeuralex-uzn-REST-1//clicsbp-northeuralex-kaz-REST-1//clicsbp-northeuralex-bak-REST-1//clicsbp-northeuralex-tat-REST-1//clicsbp-northeuralex-tat-REST-2//clicsbp-northeuralex-chv-REST-1//clicsbp-wold-Sakha-REST-1"
     words "i s t i r a h æ t + e t m æ k//u a l + a l m a q//r a h a t l a n m a q//j a l + a l u w//t ɨ k ʃ a j u w//p a r a x a t l a n u w//d i n l ɛ n m ɛ k//d a m + ɒ l m ɒ q//t ə n ə ʁ u//j a l + i t e y//j a l + a l u//i s t i r a x æ t + i t ʉ//k a n//s ɨ n ɲ a n"
@@ -4656,7 +4644,7 @@ graph [
     family_count 1
   ]
   node [
-    id 388
+    id 387
     label "LAZY"
     occurrences "clicsbp-idssegmented-azerbaijani-LAZY-1//clicsbp-idssegmented-kumyk-LAZY-1//clicsbp-idssegmented-nogai-LAZY-1//clicsbp-northeuralex-tur-LAZY-1//clicsbp-northeuralex-uzn-LAZY-1//clicsbp-northeuralex-kaz-LAZY-1//clicsbp-northeuralex-kaz-LAZY-2//clicsbp-northeuralex-bak-LAZY-1//clicsbp-northeuralex-tat-LAZY-1//clicsbp-northeuralex-tat-LAZY-2//clicsbp-northeuralex-chv-LAZY-1//clicsbp-northeuralex-chv-LAZY-2//clicsbp-northeuralex-chv-LAZY-3//clicsbp-wold-Sakha-LAZY-1"
     words "t æ n b æ l//e r i n tʃ e k//e r i n ʃ e k//t ɛ m b ɛ l//æ r i n tʃ a k//ʒ ɑ l q ɑ u//e ɾ ə n ʃ e k//i r e n s æ k//j a l q ɑ u//i r e n tɕ æ k//n a j a n//j u l χ a ʋ//y r k ɛ n tɕ ɘ k//s y r e ɣ e + s u o χ"
@@ -4668,7 +4656,7 @@ graph [
     family_count 1
   ]
   node [
-    id 389
+    id 388
     label "BALD"
     occurrences "clicsbp-idssegmented-azerbaijani-BALD-1//clicsbp-idssegmented-kumyk-BALD-1//clicsbp-idssegmented-kumyk-BALD-2//clicsbp-idssegmented-nogai-BALD-1//clicsbp-idssegmented-nogai-BALD-2//clicsbp-wold-Sakha-BALD-1"
     words "d a z//a u a z//a u a z b a ʃ//t a z//t a k ɨ r + b a s//t a r a ɣ a y"
@@ -4680,7 +4668,7 @@ graph [
     family_count 1
   ]
   node [
-    id 390
+    id 389
     label "LAME"
     occurrences "clicsbp-idssegmented-azerbaijani-LAME-1//clicsbp-idssegmented-kumyk-LAME-1//clicsbp-idssegmented-nogai-LAME-1//clicsbp-idssegmented-nogai-LAME-2//clicsbp-wold-Sakha-LAME-1"
     words "a x s a m a g//a q s a q l a m a q//a k s a k l a m a k//a k s a k l a w//d o ɣ o l o ŋ"
@@ -4692,7 +4680,7 @@ graph [
     family_count 1
   ]
   node [
-    id 391
+    id 390
     label "LIMP"
     occurrences "clicsbp-idssegmented-azerbaijani-LIMP-1//clicsbp-idssegmented-kumyk-LIMP-1//clicsbp-idssegmented-nogai-LIMP-1//clicsbp-idssegmented-nogai-LIMP-2//clicsbp-wold-Sakha-LIMP-1"
     words "a x s a m a g//a q s a q l a m a q//a k s a k l a m a k//a k s a ŋ l a w//d o ɣ o l o ŋ n oː"
@@ -4704,7 +4692,7 @@ graph [
     family_count 1
   ]
   node [
-    id 392
+    id 391
     label "DEAF"
     occurrences "clicsbp-idssegmented-azerbaijani-DEAF-1//clicsbp-idssegmented-kumyk-DEAF-1//clicsbp-idssegmented-nogai-DEAF-1//clicsbp-idssegmented-nogai-DEAF-2//clicsbp-northeuralex-tur-DEAF-1//clicsbp-northeuralex-uzn-DEAF-1//clicsbp-northeuralex-kaz-DEAF-1//clicsbp-northeuralex-kaz-DEAF-2//clicsbp-northeuralex-bak-DEAF-1//clicsbp-northeuralex-tat-DEAF-1//clicsbp-northeuralex-tat-DEAF-2//clicsbp-northeuralex-chv-DEAF-1//clicsbp-wold-Sakha-DEAF-1"
     words "k a r//s a ŋ ɨ r a w//s a g ɨ r//s a ŋ ɨ r a w//s aː ɯ ɾ//g a r a ŋ//k e ɾ e ŋ//s ɑ ŋ ə ɾ ɑ u//h a ŋ ɣ ɯ r au//tɕ u k r a k//s a ŋ g ɤ r au//χ ə l χ a s ə r//dʒ y l e y"
@@ -4716,7 +4704,7 @@ graph [
     family_count 1
   ]
   node [
-    id 393
+    id 392
     label "MUTE"
     occurrences "clicsbp-idssegmented-azerbaijani-MUTE-1//clicsbp-idssegmented-kumyk-MUTE-1//clicsbp-idssegmented-nogai-MUTE-1//clicsbp-idssegmented-nogai-MUTE-2//clicsbp-wold-Sakha-MUTE-1"
     words "l a l//t i l s i z//s a k a w//t i l s i z//t ɨ l a + s u o χ"
@@ -4728,7 +4716,7 @@ graph [
     family_count 1
   ]
   node [
-    id 394
+    id 393
     label "BLIND"
     occurrences "clicsbp-idssegmented-azerbaijani-BLIND-1//clicsbp-idssegmented-kumyk-BLIND-1//clicsbp-idssegmented-nogai-BLIND-1//clicsbp-northeuralex-tur-BLIND-1//clicsbp-northeuralex-uzn-BLIND-1//clicsbp-northeuralex-kaz-BLIND-1//clicsbp-northeuralex-kaz-BLIND-2//clicsbp-northeuralex-kaz-BLIND-3//clicsbp-northeuralex-bak-BLIND-1//clicsbp-northeuralex-tat-BLIND-1//clicsbp-northeuralex-tat-BLIND-2//clicsbp-northeuralex-chv-BLIND-1//clicsbp-wold-Sakha-BLIND-1//clicsbp-wold-Sakha-BLIND-2"
     words "k o r//s o q u r//s o k ɨ r//k œ ɾ//k o r//k ø z s ə z//k ø ɾ//k ø ɾ + s o q ə ɾ//h u q ɯ r//s u q ɤ r//k ʉ z s e z//s u k ə r//b a l a y//χ a r a ɣ a + s u o χ"
@@ -4740,7 +4728,7 @@ graph [
     family_count 1
   ]
   node [
-    id 395
+    id 394
     label "DRUNK"
     occurrences "clicsbp-idssegmented-azerbaijani-DRUNK-1//clicsbp-idssegmented-azerbaijani-DRUNK-2//clicsbp-idssegmented-kumyk-DRUNK-1//clicsbp-idssegmented-nogai-DRUNK-1//clicsbp-idssegmented-nogai-DRUNK-2//clicsbp-wold-Sakha-DRUNK-1"
     words "s æ r x o ʃ//k e f l i//e s i r g e n//e s i r i k//e s i r g e n//i t i r i k"
@@ -4752,7 +4740,7 @@ graph [
     family_count 1
   ]
   node [
-    id 396
+    id 395
     label "NAKED"
     occurrences "clicsbp-idssegmented-azerbaijani-NAKED-1//clicsbp-idssegmented-azerbaijani-NAKED-2//clicsbp-idssegmented-kumyk-NAKED-1//clicsbp-idssegmented-nogai-NAKED-1//clicsbp-idssegmented-nogai-NAKED-2//clicsbp-northeuralex-tur-NAKED-1//clicsbp-northeuralex-uzn-NAKED-1//clicsbp-northeuralex-kaz-NAKED-1//clicsbp-northeuralex-bak-NAKED-1//clicsbp-northeuralex-tat-NAKED-1//clicsbp-northeuralex-chv-NAKED-1//clicsbp-wold-Sakha-NAKED-1"
     words "l ü t//tʃ ɨ l p a g//u a l a n ɣ a tʃ//j a l a ŋ a ʃ//j a l a ŋ a ʃ l a n g a n//tʃ ɯ p l a k//j a l a ŋ//ʒ ɑ l ɑ ŋ ɑ ʃ//j a l a n ɣ a s//ʃ æ r æ//ɕ a r a//s ɨ g ɨ n ɲ a χ"
@@ -4764,7 +4752,7 @@ graph [
     family_count 1
   ]
   node [
-    id 397
+    id 396
     label "EAT"
     occurrences "clicsbp-idssegmented-azerbaijani-EAT-1//clicsbp-idssegmented-kumyk-EAT-1//clicsbp-idssegmented-nogai-EAT-1//clicsbp-idssegmented-nogai-EAT-2//clicsbp-idssegmented-nogai-EAT-3//clicsbp-northeuralex-tur-EAT-1//clicsbp-northeuralex-uzn-EAT-1//clicsbp-northeuralex-kaz-EAT-1//clicsbp-northeuralex-kaz-EAT-2//clicsbp-northeuralex-bak-EAT-1//clicsbp-northeuralex-tat-EAT-1//clicsbp-northeuralex-chv-EAT-1//clicsbp-wold-Sakha-EAT-1//clicsbp-wold-Sakha-EAT-2//clicsbp-savelyevturkic-Karaim-EAT-1"
     words "j e m æ k//a ʃ a m a q//a ʃ a m a k//a ʃ a w//j e m e k//j ɛ m ɛ k//ɛ m ɒ q//ʒ e u//t ɑ m ɑ q t ɑ n u//a ʃ au//a ʃ au//ɕ i//s i e//a h aː//a s a"
@@ -4776,7 +4764,7 @@ graph [
     family_count 1
   ]
   node [
-    id 398
+    id 397
     label "FOOD"
     occurrences "clicsbp-idssegmented-azerbaijani-FOOD-1//clicsbp-idssegmented-kumyk-FOOD-1//clicsbp-idssegmented-kumyk-FOOD-2//clicsbp-idssegmented-nogai-FOOD-1//clicsbp-idssegmented-nogai-FOOD-2//clicsbp-idssegmented-nogai-FOOD-3//clicsbp-northeuralex-tur-FOOD-1//clicsbp-northeuralex-tur-FOOD-2//clicsbp-northeuralex-uzn-FOOD-1//clicsbp-northeuralex-kaz-FOOD-1//clicsbp-northeuralex-kaz-FOOD-2//clicsbp-northeuralex-bak-FOOD-1//clicsbp-northeuralex-tat-FOOD-1//clicsbp-northeuralex-tat-FOOD-2//clicsbp-northeuralex-tat-FOOD-3//clicsbp-northeuralex-chv-FOOD-1//clicsbp-wold-Sakha-FOOD-1//clicsbp-wold-Sakha-FOOD-2"
     words "j e m æ k//a ʃ//a z ɨ q//a z ɨ k//j e m i s//a s//g ɯ d a//b ɛ s i n//ɛ m a k//ɑ s//t ɑ m ɑ q//a ð ɯ q//a z ɤ k//t æ g a m//a ʃ a m l ɤ k//a p a t ɕ i m ɘ s//a s//a h ɨ l ɨ k"
@@ -4788,7 +4776,7 @@ graph [
     family_count 1
   ]
   node [
-    id 399
+    id 398
     label "MEAL"
     occurrences "clicsbp-idssegmented-azerbaijani-MEAL-2//clicsbp-idssegmented-azerbaijani-MEAL-1//clicsbp-idssegmented-kumyk-MEAL-1//clicsbp-idssegmented-kumyk-MEAL-2//clicsbp-idssegmented-nogai-MEAL-1//clicsbp-idssegmented-nogai-MEAL-2//clicsbp-idssegmented-nogai-MEAL-3//clicsbp-northeuralex-tur-MEAL-1//clicsbp-northeuralex-uzn-MEAL-1//clicsbp-northeuralex-kaz-MEAL-1//clicsbp-northeuralex-bak-MEAL-1//clicsbp-northeuralex-tat-MEAL-1//clicsbp-northeuralex-chv-MEAL-1//clicsbp-wold-Sakha-MEAL-1"
     words "j e m æ k//j e m æ j i + a l m a g//a ʃ//a z ɨ q + a ʃ a w//a ʃ//a s + a ʃ a w//a z ɨ k + a ʃ a w//j ɛ m ɛ k//t ɒ m ɒ q//ɑ s//a ʃ au//a ʃ au//a p a t//a s aː h ɨ n"
@@ -4800,7 +4788,7 @@ graph [
     family_count 1
   ]
   node [
-    id 400
+    id 399
     label "COOKED"
     occurrences "clicsbp-idssegmented-azerbaijani-COOKED-1//clicsbp-idssegmented-kumyk-COOKED-1//clicsbp-idssegmented-kumyk-COOKED-2//clicsbp-idssegmented-nogai-COOKED-1//clicsbp-idssegmented-nogai-COOKED-2//clicsbp-wold-Sakha-COOKED-1"
     words "s u d a + b i ʃ m i ʃ//b i ʃ g e n//q a j n a ɣ a n//p i s k e n//k a j n a g a n//b u s p u t"
@@ -4812,7 +4800,7 @@ graph [
     family_count 1
   ]
   node [
-    id 401
+    id 400
     label "RAW"
     occurrences "clicsbp-idssegmented-azerbaijani-RAW-1//clicsbp-idssegmented-azerbaijani-RAW-2//clicsbp-idssegmented-kumyk-RAW-1//clicsbp-idssegmented-kumyk-RAW-2//clicsbp-idssegmented-nogai-RAW-1//clicsbp-idssegmented-nogai-RAW-2//clicsbp-northeuralex-tur-RAW-1//clicsbp-northeuralex-uzn-RAW-1//clicsbp-northeuralex-kaz-RAW-1//clicsbp-northeuralex-bak-RAW-1//clicsbp-northeuralex-tat-RAW-1//clicsbp-northeuralex-chv-RAW-1//clicsbp-wold-Sakha-RAW-1//clicsbp-savelyevturkic-Karaim-RAW-1"
     words "n æ m//j a ʃ//tʃ i j//b i ʃ m e g e n//i ʃ i j//p i s p e g e n//tʃ i j//χ ɒ m//ʃ ɪ j k ə//s e j//tɕ i//tɕ ɘ r ɘ//s iː k e y//tɕ ɯ j"
@@ -4824,7 +4812,7 @@ graph [
     family_count 1
   ]
   node [
-    id 402
+    id 401
     label "AGE"
     occurrences "clicsbp-idssegmented-azerbaijani-AGE-1//clicsbp-idssegmented-azerbaijani-AGE-2//clicsbp-idssegmented-azerbaijani-AGE-3//clicsbp-idssegmented-kumyk-AGE-1//clicsbp-idssegmented-kumyk-AGE-2//clicsbp-idssegmented-kumyk-AGE-3//clicsbp-idssegmented-nogai-AGE-1//clicsbp-idssegmented-nogai-AGE-4//clicsbp-idssegmented-nogai-AGE-2//clicsbp-idssegmented-nogai-AGE-3//clicsbp-northeuralex-tur-AGE-1//clicsbp-northeuralex-uzn-AGE-1//clicsbp-northeuralex-kaz-AGE-1//clicsbp-northeuralex-kaz-AGE-2//clicsbp-northeuralex-bak-AGE-1//clicsbp-northeuralex-tat-AGE-1//clicsbp-northeuralex-chv-AGE-1//clicsbp-wold-Sakha-AGE-1"
     words "j a ʃ//æ s r//d œ v r//ü z + j ɨ l//a s r u//d e w ü r//j u z//z a m a n//j ɨ l//e p o x a//j a ʃ//j ɒ ʃ//ʒ ɑ s//ʒ ɑ s + ʃ ɑ m ɑ s ə//j æ ʃ//j a ʃ ʔ//ɕ u l + ʂ u tɕ ɘ//s aː s"
@@ -4836,7 +4824,7 @@ graph [
     family_count 1
   ]
   node [
-    id 403
+    id 402
     label "WET"
     occurrences "clicsbp-idssegmented-azerbaijani-WET-1//clicsbp-idssegmented-azerbaijani-WET-2//clicsbp-idssegmented-kumyk-WET-1//clicsbp-idssegmented-kumyk-WET-2//clicsbp-idssegmented-kumyk-WET-3//clicsbp-idssegmented-kumyk-WET-4//clicsbp-idssegmented-nogai-WET-1//clicsbp-idssegmented-nogai-WET-2//clicsbp-idssegmented-nogai-WET-3//clicsbp-northeuralex-tur-WET-1//clicsbp-northeuralex-tur-WET-2//clicsbp-northeuralex-uzn-WET-1//clicsbp-northeuralex-kaz-WET-1//clicsbp-northeuralex-bak-WET-1//clicsbp-northeuralex-tat-WET-1//clicsbp-northeuralex-chv-WET-1//clicsbp-wold-Sakha-WET-2//clicsbp-wold-Sakha-WET-1//clicsbp-savelyevturkic-Karaim-WET-1//clicsbp-savelyevturkic-Karaim-WET-2"
     words "j a ʃ//i s l a g//s u w//i z ɣ a r//d ɨ m//b a w u q//s u w//ɨ z g a r//d ɨ m k ɨ l//j a ʃ//ɯ s l a k//n a m//s u l ə//j e ye ʃ//d ɤ m l ɤ//n y r ɘ//s ɨ t ɨ y b ɨ t//ɨ n tʃ a ɣ a y//j a ʃ//j i v i s"
@@ -4848,7 +4836,7 @@ graph [
     family_count 1
   ]
   node [
-    id 404
+    id 403
     label "RIPE"
     occurrences "clicsbp-idssegmented-azerbaijani-RIPE-1//clicsbp-idssegmented-azerbaijani-RIPE-2//clicsbp-idssegmented-kumyk-RIPE-1//clicsbp-idssegmented-nogai-RIPE-1//clicsbp-northeuralex-tur-RIPE-1//clicsbp-northeuralex-uzn-RIPE-1//clicsbp-northeuralex-kaz-RIPE-1//clicsbp-northeuralex-bak-RIPE-1//clicsbp-northeuralex-tat-RIPE-1//clicsbp-northeuralex-chv-RIPE-1//clicsbp-northeuralex-chv-RIPE-2//clicsbp-northeuralex-chv-RIPE-3//clicsbp-northeuralex-chv-RIPE-4//clicsbp-wold-Sakha-RIPE-1//clicsbp-wold-Sakha-RIPE-2//clicsbp-savelyevturkic-Karaim-RIPE-1"
     words "j e t i ʃ m i ʃ//j e t k i n//b i ʃ g e n//p i s k e n//o l g u n//p i ʃ i q//p ə s k e n//ø l g ø r ɣ æ n//œ l g e r g æ n//p u l n ə//p i ɕ ɘ χ n ɘ//a t a l a n ə//p i ɕ s ɛ + ɕ i t n ɘ//b u s p u t//s i pː i t//j e t i l"
@@ -4860,7 +4848,7 @@ graph [
     family_count 1
   ]
   node [
-    id 405
+    id 404
     label "UNRIPE"
     occurrences "clicsbp-idssegmented-azerbaijani-UNRIPE-1//clicsbp-idssegmented-azerbaijani-UNRIPE-2//clicsbp-idssegmented-azerbaijani-UNRIPE-3//clicsbp-idssegmented-kumyk-UNRIPE-2//clicsbp-idssegmented-kumyk-UNRIPE-3//clicsbp-idssegmented-kumyk-UNRIPE-1//clicsbp-idssegmented-nogai-UNRIPE-2//clicsbp-idssegmented-nogai-UNRIPE-3//clicsbp-idssegmented-nogai-UNRIPE-1//clicsbp-wold-Sakha-UNRIPE-1//clicsbp-wold-Sakha-UNRIPE-2"
     words "j a ʃ ɨ l//j e t i ʃ m æ m i ʃ//k a l//tʃ i j//b i ʃ m e g e n//u a ʃ ɨ l//i ʃ i j//p i s p e g e n//j a s ɨ l//s iː k e y//s i t e + i l i k"
@@ -4872,7 +4860,7 @@ graph [
     family_count 1
   ]
   node [
-    id 406
+    id 405
     label "GREEN"
     occurrences "clicsbp-idssegmented-azerbaijani-GREEN-1//clicsbp-idssegmented-kumyk-GREEN-1//clicsbp-idssegmented-nogai-GREEN-1//clicsbp-northeuralex-tur-GREEN-1//clicsbp-northeuralex-uzn-GREEN-1//clicsbp-northeuralex-kaz-GREEN-1//clicsbp-northeuralex-bak-GREEN-1//clicsbp-northeuralex-tat-GREEN-1//clicsbp-northeuralex-chv-GREEN-1//clicsbp-northeuralex-chv-GREEN-2//clicsbp-northeuralex-chv-GREEN-3//clicsbp-wold-Sakha-GREEN-1//clicsbp-savelyevturkic-Karaim-GREEN-1"
     words "j a ʃ ɨ l//u a ʃ ɨ l//j a s ɨ l//j ɛ ʃ i l//j a ʃ i l//ʒ ɑ s ə l//j æ ʃ e l//j a ʃ e l//s i m ɘ s//p i ɕ m ɛ n//ə s + p u χ m a n//o t + k y œ χ//j e s i l"
@@ -4884,7 +4872,7 @@ graph [
     family_count 1
   ]
   node [
-    id 407
+    id 406
     label "ROTTEN"
     occurrences "clicsbp-idssegmented-azerbaijani-ROTTEN-1//clicsbp-idssegmented-kumyk-ROTTEN-1//clicsbp-idssegmented-nogai-ROTTEN-1//clicsbp-idssegmented-nogai-ROTTEN-2//clicsbp-wold-Sakha-ROTTEN-1//clicsbp-savelyevturkic-Karaim-ROTTEN-1"
     words "dʒ ü r ü k//tʃ i r i k//ʃ i r i k//ʃ i r i g e n//s ɨ t ɨ y b ɨ t//ts i r i"
@@ -4896,7 +4884,7 @@ graph [
     family_count 1
   ]
   node [
-    id 408
+    id 407
     label "DRINK"
     occurrences "clicsbp-idssegmented-azerbaijani-DRINK-1//clicsbp-idssegmented-kumyk-DRINK-1//clicsbp-idssegmented-nogai-DRINK-1//clicsbp-northeuralex-tur-DRINK-1//clicsbp-northeuralex-uzn-DRINK-1//clicsbp-northeuralex-kaz-DRINK-1//clicsbp-northeuralex-kaz-DRINK-2//clicsbp-northeuralex-bak-DRINK-1//clicsbp-northeuralex-tat-DRINK-1//clicsbp-northeuralex-chv-DRINK-1//clicsbp-wold-Sakha-DRINK-1//clicsbp-savelyevturkic-Karaim-DRINK-1"
     words "i tʃ m æ k//i tʃ m e k//i ʃ y w//i tʃ m ɛ k//i tʃ m ɒ q//ə ʃ u//ʉ ɾ tː ɑ u//e s e y//ɛ tɕ ʉ//ɘ ɕ//i s//i tɕ"
@@ -4908,7 +4896,7 @@ graph [
     family_count 1
   ]
   node [
-    id 409
+    id 408
     label "HUNGER"
     occurrences "clicsbp-idssegmented-azerbaijani-HUNGER-1//clicsbp-idssegmented-kumyk-HUNGER-1//clicsbp-idssegmented-nogai-HUNGER-1//clicsbp-northeuralex-tur-HUNGER-1//clicsbp-northeuralex-uzn-HUNGER-1//clicsbp-northeuralex-kaz-HUNGER-1//clicsbp-northeuralex-bak-HUNGER-1//clicsbp-northeuralex-tat-HUNGER-1//clicsbp-northeuralex-chv-HUNGER-1"
     words "a dʒ l ɨ g//a tʃ l ɨ q//a ʃ l ɨ k//a tʃ l ɯ k//ɒ tʃ l i k//ɑ ʃ ɑ ɾ ʃ ə l ə q//a s l ɯ q//a tɕ l ɤ k//ʋ ɯ ɕ l ə χ"
@@ -4920,7 +4908,7 @@ graph [
     family_count 1
   ]
   node [
-    id 410
+    id 409
     label "FAMINE"
     occurrences "clicsbp-idssegmented-azerbaijani-FAMINE-1//clicsbp-idssegmented-azerbaijani-FAMINE-2//clicsbp-idssegmented-kumyk-FAMINE-1//clicsbp-idssegmented-kumyk-FAMINE-2//clicsbp-idssegmented-nogai-FAMINE-1//clicsbp-idssegmented-nogai-FAMINE-2//clicsbp-wold-Sakha-FAMINE-1//clicsbp-wold-Sakha-FAMINE-2"
     words "a dʒ l ɨ g//a dʒ + o t i g t a//a tʃ l ɨ q//a tʃ + b o l u w//a ʃ l ɨ k//a ʃ + b o l u w//s u t//χ o r g u y uː"
@@ -4932,7 +4920,7 @@ graph [
     family_count 1
   ]
   node [
-    id 411
+    id 410
     label "THIRST"
     occurrences "clicsbp-idssegmented-azerbaijani-THIRST-1//clicsbp-idssegmented-kumyk-THIRST-1//clicsbp-idssegmented-nogai-THIRST-1"
     words "s u s u z l u g//s u w s a w//s u w s a w"
@@ -4944,7 +4932,7 @@ graph [
     family_count 1
   ]
   node [
-    id 412
+    id 411
     label "SUCK"
     occurrences "clicsbp-idssegmented-azerbaijani-SUCK-1//clicsbp-idssegmented-azerbaijani-SUCK-2//clicsbp-idssegmented-kumyk-SUCK-1//clicsbp-idssegmented-kumyk-SUCK-2//clicsbp-idssegmented-nogai-SUCK-1//clicsbp-idssegmented-nogai-SUCK-2//clicsbp-wold-Sakha-SUCK-1//clicsbp-savelyevturkic-Karaim-SUCK-1"
     words "s o r m a g//h o p m a g//s o r m a q//i tʃ i n e + s i ŋ d i r m e k//s o r u w//s i ŋ d i r y w//e m//e m"
@@ -4956,7 +4944,7 @@ graph [
     family_count 1
   ]
   node [
-    id 413
+    id 412
     label "CHEW"
     occurrences "clicsbp-idssegmented-azerbaijani-CHEW-1//clicsbp-idssegmented-kumyk-CHEW-1//clicsbp-idssegmented-nogai-CHEW-1//clicsbp-wold-Sakha-CHEW-1//clicsbp-savelyevturkic-Karaim-CHEW-1"
     words "tʃ e j n æ m æ k//tʃ a j n a m a q//ʃ a j n a w//ɨ s t aː//tɕ a j n a"
@@ -4968,7 +4956,7 @@ graph [
     family_count 1
   ]
   node [
-    id 414
+    id 413
     label "SWALLOW"
     occurrences "clicsbp-idssegmented-azerbaijani-SWALLOW-1//clicsbp-idssegmented-kumyk-SWALLOW-1//clicsbp-idssegmented-kumyk-SWALLOW-2//clicsbp-idssegmented-nogai-SWALLOW-1//clicsbp-northeuralex-tur-SWALLOW-1//clicsbp-northeuralex-uzn-SWALLOW-1//clicsbp-northeuralex-kaz-SWALLOW-1//clicsbp-northeuralex-bak-SWALLOW-1//clicsbp-northeuralex-tat-SWALLOW-1//clicsbp-northeuralex-chv-SWALLOW-1//clicsbp-wold-Sakha-SWALLOW-1//clicsbp-savelyevturkic-Karaim-SWALLOW-1"
     words "u d m a g//j u t m a q//t ɨ ɣ ɨ n m a q//j u t u w//j u t m a k//j u t m ɒ q//ʒ ʉ t u//j o t ou//j o t u//ɕ ə t//ɨ ỹ ɨ h ɨ n//j u t"
@@ -4980,7 +4968,7 @@ graph [
     family_count 1
   ]
   node [
-    id 415
+    id 414
     label "CHOKE"
     occurrences "clicsbp-idssegmented-azerbaijani-CHOKE-1//clicsbp-idssegmented-kumyk-CHOKE-1//clicsbp-idssegmented-kumyk-CHOKE-2//clicsbp-idssegmented-nogai-CHOKE-1//clicsbp-idssegmented-nogai-CHOKE-2//clicsbp-wold-Sakha-CHOKE-1//clicsbp-wold-Sakha-CHOKE-2//clicsbp-wold-Sakha-CHOKE-3"
     words "b o g m a g//b u w m a q//t u n tʃ u q d u r m a q//t u n ʃ ɨ k t ɨ r u w//b u w m a k//χ a r//tʃ a tʃ a y//t ɨː n ɨ n + χ aː y"
@@ -4992,7 +4980,7 @@ graph [
     family_count 1
   ]
   node [
-    id 416
+    id 415
     label "COOK (SOMETHING)"
     occurrences "clicsbp-idssegmented-azerbaijani-COOKSOMETHING-1//clicsbp-idssegmented-kumyk-COOKSOMETHING-1//clicsbp-idssegmented-kumyk-COOKSOMETHING-2//clicsbp-idssegmented-nogai-COOKSOMETHING-1//clicsbp-idssegmented-nogai-COOKSOMETHING-2//clicsbp-idssegmented-nogai-COOKSOMETHING-3//clicsbp-northeuralex-tur-COOKSOMETHING-1//clicsbp-northeuralex-uzn-COOKSOMETHING-1//clicsbp-northeuralex-kaz-COOKSOMETHING-1//clicsbp-northeuralex-bak-COOKSOMETHING-1//clicsbp-northeuralex-tat-COOKSOMETHING-1//clicsbp-northeuralex-chv-COOKSOMETHING-1//clicsbp-wold-Sakha-COOKSOMETHING-1"
     words "b i ʃ i r m æ k//b i ʃ i r m e k//q a j n a t m a q//p i s i r u w//k a j n a t u w//a s u w//h a z ɯ ɾ l a m a k//p i ʃ i r m ɒ q//d ɑ j ɑ ɾ + e t u//b e ʃ e r e y//p e ʃ e r e n ʉ//p ɘ ɕ ɛ r//b u h a r"
@@ -5004,7 +4992,7 @@ graph [
     family_count 1
   ]
   node [
-    id 417
+    id 416
     label "BAKE"
     occurrences "clicsbp-idssegmented-azerbaijani-BAKE-1//clicsbp-idssegmented-kumyk-BAKE-1//clicsbp-idssegmented-nogai-BAKE-1//clicsbp-northeuralex-tur-BAKE-1//clicsbp-northeuralex-tur-BAKE-2//clicsbp-northeuralex-uzn-BAKE-1//clicsbp-northeuralex-kaz-BAKE-1//clicsbp-northeuralex-bak-BAKE-1//clicsbp-northeuralex-tat-BAKE-1//clicsbp-northeuralex-chv-BAKE-1//clicsbp-wold-Sakha-BAKE-1"
     words "b i ʃ i r m æ k//b i ʃ i r m e k//p i s i r y w//p i ʃ i ɾ m ɛ k//f ɯ ɾ ɯ n d a + p i ʃ i ɾ m ɛ k//j ɒ p m ɒ q//p ə s ə ɾ u//b e ʃ e r e y//p e ʃ e r ʉ//p ɘ ɕ ɛ r//b u h a r"
@@ -5016,7 +5004,7 @@ graph [
     family_count 1
   ]
   node [
-    id 418
+    id 417
     label "BOIL (OF LIQUID)"
     occurrences "clicsbp-idssegmented-azerbaijani-BOILOFLIQUID-1//clicsbp-idssegmented-kumyk-BOILOFLIQUID-1//clicsbp-idssegmented-nogai-BOILOFLIQUID-1//clicsbp-northeuralex-tur-BOILOFLIQUID-1//clicsbp-northeuralex-uzn-BOILOFLIQUID-1//clicsbp-northeuralex-kaz-BOILOFLIQUID-1//clicsbp-northeuralex-bak-BOILOFLIQUID-1//clicsbp-northeuralex-tat-BOILOFLIQUID-1//clicsbp-northeuralex-chv-BOILOFLIQUID-1//clicsbp-wold-Sakha-BOILOFLIQUID-1"
     words "g a j n a t m a g//q a j n a t m a q//k a j n a t u w//k a j n a m a k//q a j n a m ɒ q//q ɑ j n ɑ u//q a j n au//u r g ɤ l u//ʋ ɘ r ɛ//o r g u y"
@@ -5028,7 +5016,7 @@ graph [
     family_count 1
   ]
   node [
-    id 419
+    id 418
     label "ROAST OR FRY"
     occurrences "clicsbp-idssegmented-azerbaijani-ROASTORFRY-1//clicsbp-idssegmented-kumyk-ROASTORFRY-1//clicsbp-idssegmented-kumyk-ROASTORFRY-2//clicsbp-idssegmented-nogai-ROASTORFRY-1//clicsbp-idssegmented-nogai-ROASTORFRY-2//clicsbp-wold-Sakha-ROASTORFRY-1//clicsbp-wold-Sakha-ROASTORFRY-2//clicsbp-wold-Sakha-ROASTORFRY-3"
     words "g ɨ z a r t m a g//q u w u r m a q//q ɨ z a r t m a q//k u w ɨ r u w//k ɨ z a r t u w//ɨ h aː r ɨ l aː//h o r k u o y d aː//y t"
@@ -5040,7 +5028,7 @@ graph [
     family_count 1
   ]
   node [
-    id 420
+    id 419
     label "OVEN"
     occurrences "clicsbp-idssegmented-azerbaijani-OVEN-1//clicsbp-idssegmented-kumyk-OVEN-1//clicsbp-idssegmented-nogai-OVEN-1//clicsbp-wold-Sakha-OVEN-1"
     words "o dʒ a g//p e tʃ//p i s i r y w//o h o χ"
@@ -5052,7 +5040,7 @@ graph [
     family_count 1
   ]
   node [
-    id 421
+    id 420
     label "STOVE"
     occurrences "clicsbp-idssegmented-azerbaijani-STOVE-1//clicsbp-idssegmented-azerbaijani-STOVE-2//clicsbp-idssegmented-kumyk-STOVE-3//clicsbp-idssegmented-kumyk-STOVE-1//clicsbp-idssegmented-kumyk-STOVE-2//clicsbp-idssegmented-nogai-STOVE-1//clicsbp-idssegmented-nogai-STOVE-2//clicsbp-northeuralex-tur-STOVE-1//clicsbp-northeuralex-uzn-STOVE-1//clicsbp-northeuralex-kaz-STOVE-1//clicsbp-northeuralex-kaz-STOVE-2//clicsbp-northeuralex-bak-STOVE-1//clicsbp-northeuralex-tat-STOVE-1//clicsbp-northeuralex-chv-STOVE-1//clicsbp-wold-Sakha-STOVE-1"
     words "o dʒ a g//p e tʃ//p e tʃ//o t b a ʃ//k œ r ü k//t a n d ɨ r//p e ʃ//s o b a//p ɛ tʃ k a//o ʃ ɑ q//p e ʃ//m e j e s//m i tɕ//k ə m a k a//o h o χ"
@@ -5064,7 +5052,7 @@ graph [
     family_count 1
   ]
   node [
-    id 422
+    id 421
     label "COOKING POT"
     occurrences "clicsbp-idssegmented-azerbaijani-COOKINGPOT-1//clicsbp-idssegmented-azerbaijani-COOKINGPOT-2//clicsbp-idssegmented-kumyk-COOKINGPOT-1//clicsbp-idssegmented-kumyk-COOKINGPOT-2//clicsbp-idssegmented-kumyk-COOKINGPOT-3//clicsbp-idssegmented-nogai-COOKINGPOT-1"
     words "gʲ ü v æ dʒ//g a z a n tʃ a//ü r t ü//a s a r//q a z a n//k a z a n"
@@ -5076,7 +5064,7 @@ graph [
     family_count 1
   ]
   node [
-    id 423
+    id 422
     label "KETTLE"
     occurrences "clicsbp-idssegmented-azerbaijani-KETTLE-1//clicsbp-idssegmented-kumyk-KETTLE-1//clicsbp-idssegmented-kumyk-KETTLE-2//clicsbp-idssegmented-nogai-KETTLE-1//clicsbp-idssegmented-nogai-KETTLE-2//clicsbp-northeuralex-tur-KETTLE-1//clicsbp-northeuralex-uzn-KETTLE-1//clicsbp-northeuralex-kaz-KETTLE-1//clicsbp-northeuralex-bak-KETTLE-1//clicsbp-northeuralex-tat-KETTLE-1//clicsbp-northeuralex-chv-KETTLE-1//clicsbp-wold-Sakha-KETTLE-1"
     words "tʃ a j d a n//tʃ a j n i k//tʃ a j d a n//tʃ a j n i k//ʃ a j + k a z a n//k a z a n//q ɒ z ɒ n//q ɑ z ɑ n//q a ð a n//q ɑ z a n//χ u r a n//tʃ aː n ɲ ɨ k"
@@ -5088,7 +5076,7 @@ graph [
     family_count 1
   ]
   node [
-    id 424
+    id 423
     label "PAN"
     occurrences "clicsbp-idssegmented-azerbaijani-PAN-1//clicsbp-idssegmented-kumyk-PAN-1//clicsbp-idssegmented-nogai-PAN-1//clicsbp-wold-Sakha-PAN-1"
     words "g a z a n//q a z a n//k a z a n//χ o b o r d oː χ"
@@ -5100,7 +5088,7 @@ graph [
     family_count 1
   ]
   node [
-    id 425
+    id 424
     label "DISH"
     occurrences "clicsbp-idssegmented-azerbaijani-DISH-1//clicsbp-idssegmented-azerbaijani-DISH-2//clicsbp-idssegmented-azerbaijani-DISH-3//clicsbp-idssegmented-kumyk-DISH-1//clicsbp-idssegmented-nogai-DISH-1//clicsbp-idssegmented-nogai-DISH-2//clicsbp-northeuralex-tur-DISH-1//clicsbp-northeuralex-uzn-DISH-1//clicsbp-northeuralex-kaz-DISH-1//clicsbp-northeuralex-bak-DISH-1//clicsbp-northeuralex-tat-DISH-1//clicsbp-northeuralex-tat-DISH-2//clicsbp-northeuralex-chv-DISH-1//clicsbp-wold-Sakha-DISH-1"
     words "d œ v r æ//n i m tʃ æ//b o ʃ g a b//b o ʃ ɣ a p//t e p s e//t a b a k//k a p + k a dʒ a k//i d i ʃ//ə d ə s//h au ɯ t h a b a//s a w ɤ t s a b a//q ɑ ʃ ɤ k a j a k//s a ʋ ə t s a p a//b y l yː d e"
@@ -5112,7 +5100,7 @@ graph [
     family_count 1
   ]
   node [
-    id 426
+    id 425
     label "PLATE"
     occurrences "clicsbp-idssegmented-azerbaijani-PLATE-1//clicsbp-idssegmented-azerbaijani-PLATE-2//clicsbp-idssegmented-kumyk-PLATE-1//clicsbp-idssegmented-nogai-PLATE-2//clicsbp-idssegmented-nogai-PLATE-1//clicsbp-wold-Sakha-PLATE-1"
     words "n i m tʃ æ//b o ʃ g a b//b o ʃ ɣ a p//t a b a k//t a r e l k a//t e r i e l k e"
@@ -5124,7 +5112,7 @@ graph [
     family_count 1
   ]
   node [
-    id 427
+    id 426
     label "BOWL"
     occurrences "clicsbp-idssegmented-azerbaijani-BOWL-1//clicsbp-idssegmented-kumyk-BOWL-1//clicsbp-idssegmented-kumyk-BOWL-2//clicsbp-idssegmented-nogai-BOWL-2//clicsbp-idssegmented-nogai-BOWL-1//clicsbp-wold-Sakha-BOWL-2//clicsbp-wold-Sakha-BOWL-1"
     words "k a s a//a u a q//p i u a l a//a j a k//k a b a k//t aː s//m iː s k e"
@@ -5136,7 +5124,7 @@ graph [
     family_count 1
   ]
   node [
-    id 428
+    id 427
     label "CUP"
     occurrences "clicsbp-idssegmented-azerbaijani-CUP-2//clicsbp-idssegmented-azerbaijani-CUP-1//clicsbp-idssegmented-azerbaijani-CUP-3//clicsbp-idssegmented-kumyk-CUP-2//clicsbp-idssegmented-kumyk-CUP-1//clicsbp-idssegmented-kumyk-CUP-3//clicsbp-idssegmented-nogai-CUP-2//clicsbp-idssegmented-nogai-CUP-1//clicsbp-northeuralex-tur-CUP-1//clicsbp-northeuralex-uzn-CUP-1//clicsbp-northeuralex-kaz-CUP-1//clicsbp-northeuralex-bak-CUP-1//clicsbp-northeuralex-tat-CUP-1//clicsbp-northeuralex-chv-CUP-1//clicsbp-wold-Sakha-CUP-1"
     words "k a s a//p i j a l æ//g æ d æ h//a u a q//x a b a//q a r t ɨ q//a j a k//t o s t a k a j//f i n dʒ a n//p i j ɒ l a//ʃ ə n ə ɑ j ɑ q//s ɯ n a j a q//tɕ ɤ n a j a k//k u r k a//tʃ aː s k ɨ"
@@ -5148,7 +5136,7 @@ graph [
     family_count 1
   ]
   node [
-    id 429
+    id 428
     label "JUG"
     occurrences "clicsbp-idssegmented-azerbaijani-JUG-1//clicsbp-idssegmented-azerbaijani-JUG-2//clicsbp-idssegmented-kumyk-JUG-1//clicsbp-idssegmented-kumyk-JUG-2//clicsbp-idssegmented-nogai-JUG-1//clicsbp-wold-Sakha-JUG-1"
     words "s æ h æ n gʲ//b a r d a g//k a ʒ i n//q u mː a n//k u m g a n//k u p s uː n"
@@ -5160,7 +5148,7 @@ graph [
     family_count 1
   ]
   node [
-    id 430
+    id 429
     label "SAUCER"
     occurrences "clicsbp-idssegmented-azerbaijani-SAUCER-1//clicsbp-idssegmented-kumyk-SAUCER-1//clicsbp-idssegmented-nogai-SAUCER-1//clicsbp-wold-Sakha-SAUCER-1"
     words "n æ l b æ k i//n a l b e k i//ʃ a j t e p ʃ e k//b y l yː h e"
@@ -5172,7 +5160,7 @@ graph [
     family_count 1
   ]
   node [
-    id 431
+    id 430
     label "SPOON"
     occurrences "clicsbp-idssegmented-azerbaijani-SPOON-1//clicsbp-idssegmented-kumyk-SPOON-1//clicsbp-idssegmented-nogai-SPOON-1//clicsbp-northeuralex-tur-SPOON-1//clicsbp-northeuralex-uzn-SPOON-1//clicsbp-northeuralex-kaz-SPOON-1//clicsbp-northeuralex-bak-SPOON-1//clicsbp-northeuralex-tat-SPOON-1//clicsbp-northeuralex-chv-SPOON-1//clicsbp-wold-Sakha-SPOON-1"
     words "g a ʃ ɨ g//q a ʃ ɨ q//k a s ɨ k//k a ʃ ɯ k//q ɒ ʃ i q//q ɑ s ə q//q a l a q//q ɑ ʃ ɤ k//k a ʂ ə k//l u o s k a"
@@ -5184,7 +5172,7 @@ graph [
     family_count 1
   ]
   node [
-    id 432
+    id 431
     label "KNIFE (FOR EATING)"
     occurrences "clicsbp-idssegmented-azerbaijani-KNIFEFOREATING-1//clicsbp-idssegmented-kumyk-KNIFEFOREATING-1//clicsbp-idssegmented-kumyk-KNIFEFOREATING-2//clicsbp-idssegmented-nogai-KNIFEFOREATING-1//clicsbp-wold-Sakha-KNIFEFOREATING-1//clicsbp-wold-Sakha-KNIFEFOREATING-2"
     words "b ɨ tʃ a g//b i tʃ a q//b e k i//p ɨ ʃ a k//b ɨ h a χ//b i r iː pː e"
@@ -5196,7 +5184,7 @@ graph [
     family_count 1
   ]
   node [
-    id 433
+    id 432
     label "KNIFE"
     occurrences "clicsbp-idssegmented-azerbaijani-KNIFE-1//clicsbp-idssegmented-kumyk-KNIFE-1//clicsbp-idssegmented-kumyk-KNIFE-2//clicsbp-idssegmented-nogai-KNIFE-1//clicsbp-northeuralex-tur-KNIFE-1//clicsbp-northeuralex-uzn-KNIFE-1//clicsbp-northeuralex-kaz-KNIFE-1//clicsbp-northeuralex-bak-KNIFE-1//clicsbp-northeuralex-tat-KNIFE-1//clicsbp-northeuralex-chv-KNIFE-1//clicsbp-wold-Sakha-KNIFE-1"
     words "b ɨ tʃ a g//b i tʃ a q//b e k i//p ɨ ʃ a k//b ɯ tʃ a k//p i tʃ ɒ q//p ə ʃ ɑ q//b ɯ s a q//p ɤ tɕ a k//ɕ ɘ ɕ ɘ//b ɨ h a χ"
@@ -5208,7 +5196,7 @@ graph [
     family_count 1
   ]
   node [
-    id 434
+    id 433
     label "FORK"
     occurrences "clicsbp-idssegmented-azerbaijani-FORK-1//clicsbp-idssegmented-kumyk-FORK-1//clicsbp-idssegmented-nogai-FORK-1//clicsbp-idssegmented-nogai-FORK-2//clicsbp-northeuralex-tur-FORK-1//clicsbp-northeuralex-uzn-FORK-1//clicsbp-northeuralex-kaz-FORK-1//clicsbp-northeuralex-kaz-FORK-2//clicsbp-northeuralex-bak-FORK-1//clicsbp-northeuralex-tat-FORK-1//clicsbp-northeuralex-chv-FORK-1//clicsbp-wold-Sakha-FORK-1"
     words "tʃ æ n gʲ æ l//tʃ i ʃ//ʃ a n ɨ ʃ k ɨ ʃ//s i s//tʃ a t a l//b i l k a//ɑ ʃ ɑ//ʃ ɑ n ə ʃ q ə//s æ n s k e//tɕ æ n n e tɕ k e//ʋ i l k a//b iː l k e"
@@ -5220,7 +5208,7 @@ graph [
     family_count 1
   ]
   node [
-    id 435
+    id 434
     label "TONGS"
     occurrences "clicsbp-idssegmented-azerbaijani-TONGS-1//clicsbp-idssegmented-azerbaijani-TONGS-2//clicsbp-idssegmented-kumyk-TONGS-1//clicsbp-idssegmented-nogai-TONGS-1//clicsbp-wold-Sakha-TONGS-1"
     words "m a ʃ a//k æ l b æ t i n//k e l p e t e//k ɨ s k ɨ ʃ//s ɨ p s ɨː"
@@ -5232,7 +5220,7 @@ graph [
     family_count 1
   ]
   node [
-    id 436
+    id 435
     label "BREAKFAST"
     occurrences "clicsbp-idssegmented-azerbaijani-BREAKFAST-1//clicsbp-idssegmented-kumyk-BREAKFAST-1//clicsbp-idssegmented-nogai-BREAKFAST-1//clicsbp-wold-Sakha-BREAKFAST-1"
     words "s æ h æ r + j e m æ j i//q u ʃ l u q + a ʃ//e r t e ŋ g i + a s//tʃ e y d eː"
@@ -5244,7 +5232,7 @@ graph [
     family_count 1
   ]
   node [
-    id 437
+    id 436
     label "DINNER (SUPPER)"
     occurrences "clicsbp-idssegmented-azerbaijani-DINNERSUPPER-1//clicsbp-idssegmented-azerbaijani-DINNERSUPPER-2//clicsbp-idssegmented-azerbaijani-DINNERSUPPER-3//clicsbp-idssegmented-azerbaijani-DINNERSUPPER-4//clicsbp-idssegmented-kumyk-DINNERSUPPER-1//clicsbp-idssegmented-kumyk-DINNERSUPPER-2//clicsbp-idssegmented-nogai-DINNERSUPPER-1//clicsbp-idssegmented-nogai-DINNERSUPPER-2//clicsbp-wold-Sakha-DINNERSUPPER-2//clicsbp-wold-Sakha-DINNERSUPPER-1"
     words "n a h a r//gʲ ü n o r t a + j e m æ j i//a x ʃ a m + j e m æ j i//ʃ a m//t ü ʃ l ü k + a ʃ//a x ʃ a m ɣ i + a ʃ//ü j l e + a s//k e ʃ k i + a s//tʃ e y d eː//e b i e t"
@@ -5256,7 +5244,7 @@ graph [
     family_count 1
   ]
   node [
-    id 438
+    id 437
     label "CANDLE"
     occurrences "clicsbp-idssegmented-azerbaijani-CANDLE-1//clicsbp-idssegmented-kumyk-CANDLE-1//clicsbp-idssegmented-nogai-CANDLE-1//clicsbp-wold-Sakha-CANDLE-1"
     words "ʃ a m//m a j tʃ ɨ r a q//m a j + ʃ ɨ r a k//tʃ y m e tʃ i"
@@ -5268,7 +5256,7 @@ graph [
     family_count 1
   ]
   node [
-    id 439
+    id 438
     label "PINE"
     occurrences "clicsbp-idssegmented-azerbaijani-PINE-1//clicsbp-idssegmented-kumyk-PINE-1//clicsbp-idssegmented-nogai-PINE-1//clicsbp-northeuralex-tur-PINE-1//clicsbp-northeuralex-uzn-PINE-1//clicsbp-northeuralex-kaz-PINE-1//clicsbp-northeuralex-bak-PINE-1//clicsbp-northeuralex-tat-PINE-1//clicsbp-northeuralex-chv-PINE-1//clicsbp-wold-Sakha-PINE-1"
     words "ʃ a m//n a r a t//k a r a g a j//tʃ a m//q a r a ɣ a j//q ɑ ɾ ɑ ʁ ɑ j//q a r ɣ a j//n a r a t//χ ɯ r//b e s"
@@ -5280,7 +5268,7 @@ graph [
     family_count 1
   ]
   node [
-    id 440
+    id 439
     label "PEEL"
     occurrences "clicsbp-idssegmented-azerbaijani-PEEL-1//clicsbp-idssegmented-kumyk-PEEL-1//clicsbp-idssegmented-nogai-PEEL-1//clicsbp-idssegmented-nogai-PEEL-2//clicsbp-wold-Sakha-PEEL-1//clicsbp-wold-Sakha-PEEL-2"
     words "t æ m i z l æ m æ k//a r tʃ ɨ m a q//t a z a l a w//a r ʃ u w//ɨ r aː s t aː//χ a χ t aː"
@@ -5292,7 +5280,7 @@ graph [
     family_count 1
   ]
   node [
-    id 441
+    id 440
     label "SIEVE OR STRAIN"
     occurrences "clicsbp-idssegmented-azerbaijani-SIEVEORSTRAIN-1//clicsbp-idssegmented-azerbaijani-SIEVEORSTRAIN-2//clicsbp-idssegmented-kumyk-SIEVEORSTRAIN-1//clicsbp-idssegmented-kumyk-SIEVEORSTRAIN-2//clicsbp-idssegmented-nogai-SIEVEORSTRAIN-1//clicsbp-idssegmented-nogai-SIEVEORSTRAIN-2//clicsbp-idssegmented-nogai-SIEVEORSTRAIN-3//clicsbp-idssegmented-nogai-SIEVEORSTRAIN-4//clicsbp-wold-Sakha-SIEVEORSTRAIN-1"
     words "æ l æ m æ k//s ü z m æ k//e l e m e k//s ü z m e k//e l e w//ʃ e l t e w//s u w ɨ r u w//s ü z y w//s iː d e l eː"
@@ -5304,7 +5292,7 @@ graph [
     family_count 1
   ]
   node [
-    id 442
+    id 441
     label "SCRAPE"
     occurrences "clicsbp-idssegmented-azerbaijani-SCRAPE-1//clicsbp-idssegmented-azerbaijani-SCRAPE-2//clicsbp-idssegmented-kumyk-SCRAPE-1//clicsbp-idssegmented-nogai-SCRAPE-4//clicsbp-idssegmented-nogai-SCRAPE-1//clicsbp-idssegmented-nogai-SCRAPE-2//clicsbp-idssegmented-nogai-SCRAPE-3//clicsbp-idssegmented-nogai-SCRAPE-5//clicsbp-northeuralex-tur-SCRAPE-1//clicsbp-northeuralex-uzn-SCRAPE-1//clicsbp-northeuralex-kaz-SCRAPE-1//clicsbp-northeuralex-bak-SCRAPE-1//clicsbp-northeuralex-tat-SCRAPE-1//clicsbp-northeuralex-chv-SCRAPE-1//clicsbp-wold-Sakha-SCRAPE-1"
     words "s ü r t m æ k//o v m a g//q ɨ r m a q//t a z a l a w//t ɨ r i a w//k e m i r y w//k ɨ r u w//ɨ s k ɨ l a w//k a ʃ ɯ m a k//q a ʃ i m ɒ q//q ə ɾ u//q ɯ r ɯ u//t ɤ r n au//χ ɯ r//aː l"
@@ -5316,7 +5304,7 @@ graph [
     family_count 1
   ]
   node [
-    id 443
+    id 442
     label "MIX"
     occurrences "clicsbp-idssegmented-azerbaijani-MIX-1//clicsbp-idssegmented-kumyk-MIX-1//clicsbp-idssegmented-nogai-MIX-1//clicsbp-idssegmented-nogai-MIX-2//clicsbp-wold-Sakha-MIX-1"
     words "g a r ɨ ʃ d ɨ r m a g//b u l ɣ a m a q//b ɨ l g a w//a r a l a s t ɨ r u w//b u l k u y"
@@ -5328,7 +5316,7 @@ graph [
     family_count 1
   ]
   node [
-    id 444
+    id 443
     label "BREAD"
     occurrences "clicsbp-idssegmented-azerbaijani-BREAD-1//clicsbp-idssegmented-kumyk-BREAD-1//clicsbp-idssegmented-nogai-BREAD-1//clicsbp-northeuralex-tur-BREAD-1//clicsbp-northeuralex-uzn-BREAD-1//clicsbp-northeuralex-kaz-BREAD-1//clicsbp-northeuralex-bak-BREAD-1//clicsbp-northeuralex-tat-BREAD-1//clicsbp-northeuralex-tat-BREAD-2//clicsbp-northeuralex-chv-BREAD-1//clicsbp-wold-Sakha-BREAD-1"
     words "tʃ œ r æ k//e k m e k//œ t p e k//ɛ k m ɛ k//n ɒ n//k ʊ l ʃ e//i k m æ k//i p i//i k m æ k//ɕ ə k ə r//k i l i e p"
@@ -5340,7 +5328,7 @@ graph [
     family_count 1
   ]
   node [
-    id 445
+    id 444
     label "DOUGH"
     occurrences "clicsbp-idssegmented-azerbaijani-DOUGH-1//clicsbp-idssegmented-kumyk-DOUGH-1//clicsbp-idssegmented-nogai-DOUGH-1//clicsbp-wold-Sakha-DOUGH-1"
     words "x æ m i r//x a m u r//i j l e n g e n + u n//t i e s t e"
@@ -5352,7 +5340,7 @@ graph [
     family_count 1
   ]
   node [
-    id 446
+    id 445
     label "KNEAD"
     occurrences "clicsbp-idssegmented-azerbaijani-KNEAD-1//clicsbp-idssegmented-kumyk-KNEAD-1//clicsbp-idssegmented-kumyk-KNEAD-2//clicsbp-idssegmented-nogai-KNEAD-1//clicsbp-wold-Sakha-KNEAD-1"
     words "x æ m i r + j o ɣ u r m a g//b a s m a q//i j l e m e k//u n d ɨ + i j l e w//m e h i y"
@@ -5364,7 +5352,7 @@ graph [
     family_count 1
   ]
   node [
-    id 447
+    id 446
     label "FLOUR"
     occurrences "clicsbp-idssegmented-azerbaijani-FLOUR-1//clicsbp-idssegmented-kumyk-FLOUR-1//clicsbp-idssegmented-nogai-FLOUR-1//clicsbp-wold-Sakha-FLOUR-1"
     words "u n//u n//u n//b u r d u k"
@@ -5376,7 +5364,7 @@ graph [
     family_count 1
   ]
   node [
-    id 448
+    id 447
     label "GRIND"
     occurrences "clicsbp-idssegmented-azerbaijani-GRIND-1//clicsbp-idssegmented-azerbaijani-GRIND-2//clicsbp-idssegmented-kumyk-GRIND-1//clicsbp-idssegmented-kumyk-GRIND-2//clicsbp-idssegmented-kumyk-GRIND-3//clicsbp-idssegmented-nogai-GRIND-1//clicsbp-idssegmented-nogai-GRIND-2//clicsbp-idssegmented-nogai-GRIND-3//clicsbp-idssegmented-nogai-GRIND-4//clicsbp-idssegmented-nogai-GRIND-5//clicsbp-wold-Sakha-GRIND-1//clicsbp-wold-Sakha-GRIND-2//clicsbp-savelyevturkic-Karaim-GRIND-1"
     words "æ z m æ k//x ɨ r d a l a m a g//b a s m a q//u w a t m a q//t ü j m e k//b a s u w//s ɨ g u w//j a n ɨ ʃ u w//u w a t u w//t ü j y w//t a r t//m e l i y//t a r t"
@@ -5388,7 +5376,7 @@ graph [
     family_count 1
   ]
   node [
-    id 449
+    id 448
     label "PRESS"
     occurrences "clicsbp-idssegmented-azerbaijani-PRESS-1//clicsbp-idssegmented-azerbaijani-PRESS-2//clicsbp-idssegmented-kumyk-PRESS-2//clicsbp-idssegmented-kumyk-PRESS-1//clicsbp-idssegmented-nogai-PRESS-2//clicsbp-idssegmented-nogai-PRESS-1//clicsbp-northeuralex-tur-PRESS-1//clicsbp-northeuralex-uzn-PRESS-1//clicsbp-northeuralex-kaz-PRESS-1//clicsbp-northeuralex-bak-PRESS-1//clicsbp-northeuralex-tat-PRESS-1//clicsbp-northeuralex-chv-PRESS-1//clicsbp-wold-Sakha-PRESS-1"
     words "æ z m æ k//b a s m a g//b a s m a q//q ɨ s m a q//b a s u w//k ɨ s u w//s ɯ k m a k//b ɒ s m ɒ q//b ɑ s u//q ɯ θ ɯ u//q ɤ s u//p u s//b a tː aː"
@@ -5400,7 +5388,7 @@ graph [
     family_count 1
   ]
   node [
-    id 450
+    id 449
     label "MILL"
     occurrences "clicsbp-idssegmented-azerbaijani-MILL-1//clicsbp-idssegmented-kumyk-MILL-1//clicsbp-idssegmented-nogai-MILL-1//clicsbp-idssegmented-nogai-MILL-2//clicsbp-wold-Sakha-MILL-1"
     words "d æ j i r m a n//t i r m e n//t ü j i r m e n//t e r m e n//m i e l i ŋ s e"
@@ -5412,7 +5400,7 @@ graph [
     family_count 1
   ]
   node [
-    id 451
+    id 450
     label "MORTAR"
     occurrences "clicsbp-idssegmented-azerbaijani-MORTAR-1//clicsbp-idssegmented-kumyk-MORTAR-1//clicsbp-idssegmented-kumyk-MORTAR-2//clicsbp-idssegmented-nogai-MORTAR-1//clicsbp-idssegmented-nogai-MORTAR-2//clicsbp-idssegmented-nogai-MORTAR-3//clicsbp-idssegmented-nogai-MORTAR-4//clicsbp-wold-Sakha-MORTAR-1"
     words "h æ v æ n gʲ d æ s t æ//k e l i//h a w e n k//a u k//k e l i//a w a n g e l i//t ü j g i ʃ//k e l iː"
@@ -5424,7 +5412,7 @@ graph [
     family_count 1
   ]
   node [
-    id 452
+    id 451
     label "PESTLE"
     occurrences "clicsbp-idssegmented-azerbaijani-PESTLE-1//clicsbp-idssegmented-kumyk-PESTLE-1//clicsbp-idssegmented-nogai-PESTLE-1//clicsbp-idssegmented-nogai-PESTLE-2"
     words "d æ s t dʒ i k//k e l i n i + t o q m a ɣ ɨ//k e l i s a p//ʃ e ʃ e k e j d i ŋ + u r l ɨ g ɨ"
@@ -5436,7 +5424,7 @@ graph [
     family_count 1
   ]
   node [
-    id 453
+    id 452
     label "MEAT"
     occurrences "clicsbp-idssegmented-azerbaijani-MEAT-1//clicsbp-idssegmented-kumyk-MEAT-1//clicsbp-idssegmented-nogai-MEAT-1//clicsbp-northeuralex-tur-MEAT-1//clicsbp-northeuralex-uzn-MEAT-1//clicsbp-northeuralex-kaz-MEAT-1//clicsbp-northeuralex-bak-MEAT-1//clicsbp-northeuralex-tat-MEAT-1//clicsbp-northeuralex-chv-MEAT-1//clicsbp-northeuralex-chv-MEAT-2//clicsbp-wold-Sakha-MEAT-1//clicsbp-savelyevturkic-Karaim-MEAT-1"
     words "æ t//e t//e t//ɛ t//g o ʃ t//e t//i t//i t//a ʂ//k a k a j//e t//e t"
@@ -5448,7 +5436,7 @@ graph [
     family_count 1
   ]
   node [
-    id 454
+    id 453
     label "SOUP"
     occurrences "clicsbp-idssegmented-azerbaijani-SOUP-1//clicsbp-idssegmented-azerbaijani-SOUP-2//clicsbp-idssegmented-kumyk-SOUP-1//clicsbp-idssegmented-nogai-SOUP-1//clicsbp-northeuralex-tur-SOUP-1//clicsbp-northeuralex-uzn-SOUP-1//clicsbp-northeuralex-kaz-SOUP-1//clicsbp-northeuralex-bak-SOUP-1//clicsbp-northeuralex-tat-SOUP-1//clicsbp-northeuralex-chv-SOUP-1//clicsbp-wold-Sakha-SOUP-1"
     words "s u p//ʃ o r b a//ʃ o r p a//s o r p a//tʃ o ɾ b a//ʃ o r w a//k ø ʒ e//h u r p a//ʃ u l p a//j a ʂ k a//m iː n"
@@ -5460,7 +5448,7 @@ graph [
     family_count 1
   ]
   node [
-    id 455
+    id 454
     label "VEGETABLES"
     occurrences "clicsbp-idssegmented-azerbaijani-VEGETABLES-1//clicsbp-idssegmented-kumyk-VEGETABLES-1//clicsbp-idssegmented-nogai-VEGETABLES-1//clicsbp-wold-Sakha-VEGETABLES-1"
     words "t æ r æ v æ z//u a ʃ ɨ l tʃ a l a r//j a s ɨ l ʃ a l a r//o ɣ u r u o t + a h a"
@@ -5472,7 +5460,7 @@ graph [
     family_count 1
   ]
   node [
-    id 456
+    id 455
     label "BEAN"
     occurrences "clicsbp-idssegmented-azerbaijani-BEAN-1//clicsbp-idssegmented-kumyk-BEAN-1//clicsbp-idssegmented-nogai-BEAN-1"
     words "p a x l a//b u r tʃ a q//n o g ɨ t"
@@ -5484,7 +5472,7 @@ graph [
     family_count 1
   ]
   node [
-    id 457
+    id 456
     label "POTATO"
     occurrences "clicsbp-idssegmented-azerbaijani-POTATO-1//clicsbp-idssegmented-kumyk-POTATO-1//clicsbp-idssegmented-nogai-POTATO-1//clicsbp-wold-Sakha-POTATO-1//clicsbp-wold-Sakha-POTATO-2"
     words "k a r t o f//k a r t o p//j e r a l m a//χ o r t u o s k a//χ o r t u o p u y"
@@ -5496,7 +5484,7 @@ graph [
     family_count 1
   ]
   node [
-    id 458
+    id 457
     label "FRUIT"
     occurrences "clicsbp-idssegmented-azerbaijani-FRUIT-1//clicsbp-idssegmented-kumyk-FRUIT-1//clicsbp-idssegmented-nogai-FRUIT-1//clicsbp-savelyevturkic-Karaim-FRUIT-1"
     words "m e j v æ//j e m i ʃ//j e m i s//j e m i s"
@@ -5508,7 +5496,7 @@ graph [
     family_count 1
   ]
   node [
-    id 459
+    id 458
     label "BUNCH"
     occurrences "clicsbp-idssegmented-azerbaijani-BUNCH-1//clicsbp-idssegmented-azerbaijani-BUNCH-2//clicsbp-idssegmented-kumyk-BUNCH-1//clicsbp-idssegmented-kumyk-BUNCH-2//clicsbp-idssegmented-nogai-BUNCH-1//clicsbp-idssegmented-nogai-BUNCH-2//clicsbp-idssegmented-nogai-BUNCH-3"
     words "s a l x ɨ m//d æ s t æ//s a l q ɨ n//b a j l a m//s o l k ɨ m//b u w ɨ m//b a j l a m"
@@ -5520,7 +5508,7 @@ graph [
     family_count 1
   ]
   node [
-    id 460
+    id 459
     label "FIG"
     occurrences "clicsbp-idssegmented-azerbaijani-FIG-1//clicsbp-idssegmented-azerbaijani-FIG-2//clicsbp-idssegmented-kumyk-FIG-1//clicsbp-idssegmented-nogai-FIG-1//clicsbp-idssegmented-nogai-FIG-2//clicsbp-idssegmented-nogai-FIG-3//clicsbp-idssegmented-nogai-FIG-4"
     words "æ n dʒ i r//æ n dʒ i r + a ɣ a dʒ ɨ//i n ʒ i r//ʃ a g ɨ r//i j l e k//j e l e k//i n ʒ i r"
@@ -5532,7 +5520,7 @@ graph [
     family_count 1
   ]
   node [
-    id 461
+    id 460
     label "GRAPE"
     occurrences "clicsbp-idssegmented-azerbaijani-GRAPE-1//clicsbp-idssegmented-kumyk-GRAPE-1//clicsbp-idssegmented-nogai-GRAPE-1"
     words "ü z ü m//ü z ü m//j u z i m"
@@ -5544,7 +5532,7 @@ graph [
     family_count 1
   ]
   node [
-    id 462
+    id 461
     label "NUT"
     occurrences "clicsbp-idssegmented-azerbaijani-NUT-1//clicsbp-idssegmented-kumyk-NUT-1//clicsbp-idssegmented-nogai-NUT-1//clicsbp-wold-Sakha-NUT-1"
     words "g o z//q o z//k o z//e r i e χ e"
@@ -5556,7 +5544,7 @@ graph [
     family_count 1
   ]
   node [
-    id 463
+    id 462
     label "OIL (ORGANIC SUBSTANCE)"
     occurrences "clicsbp-idssegmented-azerbaijani-OILORGANICSUBSTANCE-1//clicsbp-idssegmented-kumyk-OILORGANICSUBSTANCE-1//clicsbp-idssegmented-nogai-OILORGANICSUBSTANCE-1//clicsbp-northeuralex-tur-OILORGANICSUBSTANCE-1//clicsbp-northeuralex-tur-OILORGANICSUBSTANCE-2//clicsbp-northeuralex-uzn-OILORGANICSUBSTANCE-1//clicsbp-northeuralex-kaz-OILORGANICSUBSTANCE-1//clicsbp-northeuralex-bak-OILORGANICSUBSTANCE-1//clicsbp-northeuralex-tat-OILORGANICSUBSTANCE-1//clicsbp-northeuralex-chv-OILORGANICSUBSTANCE-1//clicsbp-wold-Sakha-OILORGANICSUBSTANCE-1"
     words "b i t k i + j a ɣ ɨ//u r l u q + m a j//j a s ɨ l ʃ a + m a j//j aː//a k a ɾ + j aː//m ɒ j//m ɑ j//m a j + b u j au ɯ//m a j//ɕ u//m a s + a r ɨː t a"
@@ -5568,7 +5556,7 @@ graph [
     family_count 1
   ]
   node [
-    id 464
+    id 463
     label "FAT (ORGANIC SUBSTANCE)"
     occurrences "clicsbp-idssegmented-azerbaijani-FATORGANICSUBSTANCE-1//clicsbp-idssegmented-kumyk-FATORGANICSUBSTANCE-1//clicsbp-idssegmented-kumyk-FATORGANICSUBSTANCE-2//clicsbp-idssegmented-nogai-FATORGANICSUBSTANCE-1//clicsbp-idssegmented-nogai-FATORGANICSUBSTANCE-2//clicsbp-northeuralex-tur-FATORGANICSUBSTANCE-1//clicsbp-northeuralex-uzn-FATORGANICSUBSTANCE-1//clicsbp-northeuralex-kaz-FATORGANICSUBSTANCE-1//clicsbp-northeuralex-bak-FATORGANICSUBSTANCE-1//clicsbp-northeuralex-tat-FATORGANICSUBSTANCE-1//clicsbp-northeuralex-chv-FATORGANICSUBSTANCE-1//clicsbp-wold-Sakha-FATORGANICSUBSTANCE-1//clicsbp-savelyevturkic-Karaim-FATORGANICSUBSTANCE-1"
     words "p i j//m a j//u a w//k u j r ɨ k + m a j//i ʃ + m a j//j aː//m ɒ j//m ɑ j//m a j//m a j//ɕ u//s ɨ a//j a v"
@@ -5580,7 +5568,7 @@ graph [
     family_count 1
   ]
   node [
-    id 465
+    id 464
     label "SALT"
     occurrences "clicsbp-idssegmented-azerbaijani-SALT-1//clicsbp-idssegmented-kumyk-SALT-1//clicsbp-idssegmented-nogai-SALT-1//clicsbp-northeuralex-tur-SALT-1//clicsbp-northeuralex-uzn-SALT-1//clicsbp-northeuralex-kaz-SALT-1//clicsbp-northeuralex-bak-SALT-1//clicsbp-northeuralex-tat-SALT-1//clicsbp-northeuralex-chv-SALT-1//clicsbp-wold-Sakha-SALT-1//clicsbp-savelyevturkic-Karaim-SALT-1"
     words "d u z//t u z//t u z//t u z//t u z//t ʉ z//t o ð//t o z//t ə ʋ a r//t uː s//t u z"
@@ -5592,7 +5580,7 @@ graph [
     family_count 1
   ]
   node [
-    id 466
+    id 465
     label "PEPPER"
     occurrences "clicsbp-idssegmented-azerbaijani-PEPPER-1//clicsbp-idssegmented-kumyk-PEPPER-1//clicsbp-idssegmented-nogai-PEPPER-1//clicsbp-idssegmented-nogai-PEPPER-2//clicsbp-wold-Sakha-PEPPER-1"
     words "i s t i o t//b u r tʃ//b u r ɨ ʃ//ʃ i b ʒ i j//b i e r e s"
@@ -5604,7 +5592,7 @@ graph [
     family_count 1
   ]
   node [
-    id 467
+    id 466
     label "CHILI PEPPER"
     occurrences "clicsbp-idssegmented-azerbaijani-CHILIPEPPER-1//clicsbp-idssegmented-kumyk-CHILIPEPPER-1//clicsbp-idssegmented-nogai-CHILIPEPPER-1//clicsbp-idssegmented-nogai-CHILIPEPPER-2"
     words "a dʒ ɨ + i s t i o t//a tʃː ɨ + b u r tʃ//b u r ɨ ʃ//ʃ i b ʒ i j"
@@ -5616,7 +5604,7 @@ graph [
     family_count 1
   ]
   node [
-    id 468
+    id 467
     label "HONEY"
     occurrences "clicsbp-idssegmented-azerbaijani-HONEY-1//clicsbp-idssegmented-kumyk-HONEY-1//clicsbp-idssegmented-nogai-HONEY-1//clicsbp-northeuralex-tur-HONEY-1//clicsbp-northeuralex-uzn-HONEY-1//clicsbp-northeuralex-kaz-HONEY-1//clicsbp-northeuralex-bak-HONEY-1//clicsbp-northeuralex-tat-HONEY-1//clicsbp-northeuralex-chv-HONEY-1//clicsbp-wold-Sakha-HONEY-1"
     words "b a l//b a l//b a l//b a l//a s a l//b ɑ l//b a l//b a l//p ɯ l//m y œ t"
@@ -5628,7 +5616,7 @@ graph [
     family_count 1
   ]
   node [
-    id 469
+    id 468
     label "SUGAR"
     occurrences "clicsbp-idssegmented-azerbaijani-SUGAR-1//clicsbp-idssegmented-kumyk-SUGAR-1//clicsbp-idssegmented-nogai-SUGAR-1//clicsbp-wold-Sakha-SUGAR-1"
     words "g æ n d//ʃ e k e r//s e k e r//s aː χ a r"
@@ -5640,7 +5628,7 @@ graph [
     family_count 1
   ]
   node [
-    id 470
+    id 469
     label "MILK"
     occurrences "clicsbp-idssegmented-azerbaijani-MILK-1//clicsbp-idssegmented-kumyk-MILK-1//clicsbp-idssegmented-nogai-MILK-1//clicsbp-northeuralex-tur-MILK-1//clicsbp-northeuralex-uzn-MILK-1//clicsbp-northeuralex-kaz-MILK-1//clicsbp-northeuralex-bak-MILK-1//clicsbp-northeuralex-tat-MILK-1//clicsbp-northeuralex-chv-MILK-1//clicsbp-wold-Sakha-MILK-1"
     words "s ü d//s ü t//s ü t//s y t//s u t//s ʊ t//h ø t//s œ t//s ɘ t//yː t"
@@ -5652,7 +5640,7 @@ graph [
     family_count 1
   ]
   node [
-    id 471
+    id 470
     label "DRAW MILK"
     occurrences "clicsbp-idssegmented-azerbaijani-DRAWMILK-1//clicsbp-idssegmented-kumyk-DRAWMILK-1//clicsbp-idssegmented-nogai-DRAWMILK-1//clicsbp-idssegmented-nogai-DRAWMILK-2//clicsbp-northeuralex-tur-DRAWMILK-1//clicsbp-northeuralex-uzn-DRAWMILK-1//clicsbp-northeuralex-kaz-DRAWMILK-1//clicsbp-northeuralex-bak-DRAWMILK-1//clicsbp-northeuralex-tat-DRAWMILK-1//clicsbp-northeuralex-chv-DRAWMILK-1//clicsbp-wold-Sakha-DRAWMILK-1"
     words "s a ɣ m a g//s a w m a q//s a w m a k//s a w u w//s aː m a k//s ɒ ɣ m ɒ q//s ɑʊ w//h au ɯ y//s a w u//s u//ɨ a"
@@ -5664,7 +5652,7 @@ graph [
     family_count 1
   ]
   node [
-    id 472
+    id 471
     label "BUTTER"
     occurrences "clicsbp-idssegmented-azerbaijani-BUTTER-1//clicsbp-idssegmented-kumyk-BUTTER-1//clicsbp-idssegmented-nogai-BUTTER-1//clicsbp-northeuralex-tur-BUTTER-1//clicsbp-northeuralex-uzn-BUTTER-1//clicsbp-northeuralex-kaz-BUTTER-1//clicsbp-northeuralex-bak-BUTTER-1//clicsbp-northeuralex-tat-BUTTER-1//clicsbp-northeuralex-chv-BUTTER-1//clicsbp-wold-Sakha-BUTTER-1"
     words "k æ r æ + j a ɣ ɨ//k a m a//s a r ɨ + m a j//t ɛ ɾ ɛ j aː ɯ//j ɒ ɣ//m ɑ j//m a j//m a j//ɕ u//a r ɨː"
@@ -5676,7 +5664,7 @@ graph [
     family_count 1
   ]
   node [
-    id 473
+    id 472
     label "BEVERAGE"
     occurrences "clicsbp-idssegmented-azerbaijani-BEVERAGE-1//clicsbp-idssegmented-kumyk-BEVERAGE-1//clicsbp-idssegmented-nogai-BEVERAGE-1//clicsbp-wold-Sakha-BEVERAGE-1"
     words "i tʃ k i//i tʃ g i//i ʃ k i//u t a χ"
@@ -5688,7 +5676,7 @@ graph [
     family_count 1
   ]
   node [
-    id 474
+    id 473
     label "WINE"
     occurrences "clicsbp-idssegmented-azerbaijani-WINE-1//clicsbp-idssegmented-azerbaijani-WINE-2//clicsbp-idssegmented-kumyk-WINE-1//clicsbp-idssegmented-nogai-WINE-1//clicsbp-wold-Sakha-WINE-1"
     words "ʃ æ r a b//tʃ a x ɨ r//tʃ a ɣ ɨ r//ʃ a g ɨ r//a r ɨ g ɨ"
@@ -5700,7 +5688,7 @@ graph [
     family_count 1
   ]
   node [
-    id 475
+    id 474
     label "BEER"
     occurrences "clicsbp-idssegmented-azerbaijani-BEER-1//clicsbp-idssegmented-kumyk-BEER-1//clicsbp-idssegmented-nogai-BEER-1//clicsbp-wold-Sakha-BEER-1"
     words "p i v æ//p i v o//p i w o//p iː b e"
@@ -5712,7 +5700,7 @@ graph [
     family_count 1
   ]
   node [
-    id 476
+    id 475
     label "ALCOHOL (FERMENTED DRINK)"
     occurrences "clicsbp-idssegmented-azerbaijani-ALCOHOLFERMENTEDDRINK-1//clicsbp-idssegmented-kumyk-ALCOHOLFERMENTEDDRINK-1//clicsbp-idssegmented-nogai-ALCOHOLFERMENTEDDRINK-1//clicsbp-wold-Sakha-ALCOHOLFERMENTEDDRINK-1"
     words "b r a g a//b o z a//b o z a//b ɨ r aː g a"
@@ -5724,7 +5712,7 @@ graph [
     family_count 1
   ]
   node [
-    id 477
+    id 476
     label "EGG"
     occurrences "clicsbp-idssegmented-azerbaijani-EGG-1//clicsbp-idssegmented-kumyk-EGG-1//clicsbp-idssegmented-nogai-EGG-1//clicsbp-northeuralex-tur-EGG-1//clicsbp-northeuralex-uzn-EGG-1//clicsbp-northeuralex-kaz-EGG-1//clicsbp-northeuralex-bak-EGG-1//clicsbp-northeuralex-tat-EGG-1//clicsbp-northeuralex-tat-EGG-2//clicsbp-northeuralex-chv-EGG-1//clicsbp-wold-Sakha-EGG-1//clicsbp-savelyevturkic-Karaim-EGG-1"
     words "j u m u r t a//j ɨ m ɨ r t q a//j u m ɨ r t k a//j u m u ɾ t a//t u χ u m//ʒ ʉ m ə ɾ t q ɑ//j o m o r t q a//k ʉ k æ j//j o m ɤ r q ɑ//ɕ ə m a r t a//s ɨ m ɨː t//j u m u r t χ a"
@@ -5736,7 +5724,7 @@ graph [
     family_count 1
   ]
   node [
-    id 478
+    id 477
     label "YOLK"
     occurrences "clicsbp-idssegmented-azerbaijani-YOLK-1//clicsbp-idssegmented-kumyk-YOLK-1//clicsbp-idssegmented-nogai-YOLK-1//clicsbp-wold-Sakha-YOLK-1//clicsbp-wold-Sakha-YOLK-2"
     words "j u m u r t a + s a r ɨ s ɨ//j ɨ m ɨ r t q a n ɨ + s a r i s i//j u m a r t k a d ɨ ŋ + s a r ɨ s ɨ//s ɨ m ɨː t + u o ɣ a h a//s ɨ m ɨː t + a r a ɣ a h a"
@@ -5748,7 +5736,7 @@ graph [
     family_count 1
   ]
   node [
-    id 479
+    id 478
     label "PUT ON"
     occurrences "clicsbp-idssegmented-azerbaijani-PUTON-1//clicsbp-idssegmented-azerbaijani-PUTON-2//clicsbp-idssegmented-kumyk-PUTON-1//clicsbp-idssegmented-nogai-PUTON-1//clicsbp-idssegmented-nogai-PUTON-2//clicsbp-northeuralex-tur-PUTON-1//clicsbp-northeuralex-uzn-PUTON-1//clicsbp-northeuralex-kaz-PUTON-1//clicsbp-northeuralex-bak-PUTON-1//clicsbp-northeuralex-tat-PUTON-1//clicsbp-northeuralex-chv-PUTON-1//clicsbp-wold-Sakha-PUTON-1//clicsbp-wold-Sakha-PUTON-2//clicsbp-savelyevturkic-Karaim-PUTON-1"
     words "gʲ e j i n d i r m æ k//gʲ e j i n m æ k//g i j m e k//k i j y w//k i j i n d i r y w//g i j m ɛ k//k i j m ɒ q//k ɪ j g ə z u//k e j e y//k i j ʊ//t ə χ ə n//k e t//t a ŋ ɨ nː a r//k i j"
@@ -5760,7 +5748,7 @@ graph [
     family_count 1
   ]
   node [
-    id 480
+    id 479
     label "CLOTHES"
     occurrences "clicsbp-idssegmented-azerbaijani-CLOTHES-1//clicsbp-idssegmented-kumyk-CLOTHES-1//clicsbp-idssegmented-nogai-CLOTHES-1//clicsbp-northeuralex-tur-CLOTHES-1//clicsbp-northeuralex-uzn-CLOTHES-1//clicsbp-northeuralex-kaz-CLOTHES-1//clicsbp-northeuralex-bak-CLOTHES-1//clicsbp-northeuralex-tat-CLOTHES-1//clicsbp-northeuralex-chv-CLOTHES-1//clicsbp-northeuralex-chv-CLOTHES-2//clicsbp-northeuralex-chv-CLOTHES-3//clicsbp-wold-Sakha-CLOTHES-1"
     words "p a l t a r//o p u r a q//k i j i m//g i j i m//k i j i m//k ɪ j ə m//k e j e m//k i e m//t u m//ɕ i p u ɕ//t u m t i r//t a ŋ a s"
@@ -5772,7 +5760,7 @@ graph [
     family_count 1
   ]
   node [
-    id 481
+    id 480
     label "TAILOR"
     occurrences "clicsbp-idssegmented-azerbaijani-TAILOR-1//clicsbp-idssegmented-kumyk-TAILOR-1//clicsbp-idssegmented-nogai-TAILOR-1//clicsbp-wold-Sakha-TAILOR-1"
     words "d æ r z i//d e r z i//t i g y w ʃ i//iː s t e n ɲ e ŋ"
@@ -5784,7 +5772,7 @@ graph [
     family_count 1
   ]
   node [
-    id 482
+    id 481
     label "CLOTH"
     occurrences "clicsbp-idssegmented-azerbaijani-CLOTH-1//clicsbp-idssegmented-azerbaijani-CLOTH-2//clicsbp-idssegmented-kumyk-CLOTH-1//clicsbp-idssegmented-nogai-CLOTH-1//clicsbp-idssegmented-nogai-CLOTH-2//clicsbp-northeuralex-tur-CLOTH-1//clicsbp-northeuralex-uzn-CLOTH-1//clicsbp-northeuralex-kaz-CLOTH-1//clicsbp-northeuralex-kaz-CLOTH-2//clicsbp-northeuralex-bak-CLOTH-1//clicsbp-northeuralex-tat-CLOTH-1//clicsbp-northeuralex-chv-CLOTH-1//clicsbp-wold-Sakha-CLOTH-1"
     words "p a r tʃ a//m a h u d//q u m a tʃ//k u m a ʃ//ʃ u g a//k u m a ʃ//m a t ɒ//m ɑ t ɑ//k e z d e m e//t u q ɯ m a//t u q ɤ m a//t ɘ r t ɘ m//t a ŋ a s"
@@ -5796,7 +5784,7 @@ graph [
     family_count 1
   ]
   node [
-    id 483
+    id 482
     label "COTTON"
     occurrences "clicsbp-idssegmented-azerbaijani-COTTON-2//clicsbp-idssegmented-azerbaijani-COTTON-1//clicsbp-idssegmented-kumyk-COTTON-1//clicsbp-idssegmented-nogai-COTTON-1//clicsbp-wold-Sakha-COTTON-1"
     words "p a r tʃ a//p a m b ɨ g//m a m u q + q u m a tʃ//m a m ɨ k//s iː d e s"
@@ -5808,7 +5796,7 @@ graph [
     family_count 1
   ]
   node [
-    id 484
+    id 483
     label "WOOL"
     occurrences "clicsbp-idssegmented-azerbaijani-WOOL-1//clicsbp-idssegmented-azerbaijani-WOOL-2//clicsbp-idssegmented-kumyk-WOOL-1//clicsbp-idssegmented-nogai-WOOL-1//clicsbp-idssegmented-nogai-WOOL-2//clicsbp-northeuralex-tur-WOOL-1//clicsbp-northeuralex-uzn-WOOL-1//clicsbp-northeuralex-kaz-WOOL-1//clicsbp-northeuralex-bak-WOOL-1//clicsbp-northeuralex-tat-WOOL-1//clicsbp-northeuralex-chv-WOOL-1//clicsbp-wold-Sakha-WOOL-1"
     words "j u n//j u n + p a r tʃ a//ü n + q u m a tʃ//j u n//k a w r a k//j y n//dʒ u n//ʒ ʊ n//j ø n//j o n//ɕ ə m//t yː"
@@ -5820,7 +5808,7 @@ graph [
     family_count 1
   ]
   node [
-    id 485
+    id 484
     label "SILK"
     occurrences "clicsbp-idssegmented-azerbaijani-SILK-1//clicsbp-idssegmented-kumyk-SILK-1//clicsbp-idssegmented-nogai-SILK-1//clicsbp-idssegmented-nogai-SILK-2//clicsbp-wold-Sakha-SILK-1"
     words "i p æ k//tʃ i lː e//ʃ i lː e//j i b e k//s o l k o"
@@ -5832,7 +5820,7 @@ graph [
     family_count 1
   ]
   node [
-    id 486
+    id 485
     label "FUR"
     occurrences "clicsbp-idssegmented-azerbaijani-FUR-1//clicsbp-idssegmented-kumyk-FUR-1//clicsbp-idssegmented-nogai-FUR-1//clicsbp-idssegmented-nogai-FUR-2//clicsbp-northeuralex-tur-FUR-1//clicsbp-northeuralex-uzn-FUR-1//clicsbp-northeuralex-kaz-FUR-1//clicsbp-northeuralex-bak-FUR-1//clicsbp-northeuralex-tat-FUR-1//clicsbp-northeuralex-chv-FUR-1//clicsbp-wold-Sakha-FUR-1"
     words "x æ z//j u n//t e r i//k œ r k//p o s t//m o j n a//t e ɾ ə//t i r e//t i r e//ɕ ə m//t yː"
@@ -5844,7 +5832,7 @@ graph [
     family_count 1
   ]
   node [
-    id 487
+    id 486
     label "SPIN"
     occurrences "clicsbp-idssegmented-azerbaijani-SPIN-1//clicsbp-idssegmented-azerbaijani-SPIN-2//clicsbp-idssegmented-kumyk-SPIN-1//clicsbp-idssegmented-nogai-SPIN-1//clicsbp-wold-Sakha-SPIN-2//clicsbp-wold-Sakha-SPIN-1//clicsbp-savelyevturkic-Karaim-SPIN-1"
     words "g u l a g l a r ɨ n ɨ + dʒ ü t l æ m æ k//æ j i r m æ k//s o q m a q//j i p + i j i r y w//χ a t//œ r//iː r"
@@ -5856,7 +5844,7 @@ graph [
     family_count 1
   ]
   node [
-    id 488
+    id 487
     label "SPINDLE"
     occurrences "clicsbp-idssegmented-azerbaijani-SPINDLE-1//clicsbp-idssegmented-azerbaijani-SPINDLE-2//clicsbp-idssegmented-kumyk-SPINDLE-1//clicsbp-idssegmented-nogai-SPINDLE-1"
     words "i j//o x//u r tʃ u q//u r ʃ ɨ k"
@@ -5868,7 +5856,7 @@ graph [
     family_count 1
   ]
   node [
-    id 489
+    id 488
     label "ARROW"
     occurrences "clicsbp-idssegmented-azerbaijani-ARROW-1//clicsbp-idssegmented-kumyk-ARROW-1//clicsbp-idssegmented-nogai-ARROW-1//clicsbp-northeuralex-tur-ARROW-1//clicsbp-northeuralex-uzn-ARROW-1//clicsbp-northeuralex-kaz-ARROW-1//clicsbp-northeuralex-bak-ARROW-1//clicsbp-northeuralex-tat-ARROW-1//clicsbp-northeuralex-chv-ARROW-1//clicsbp-northeuralex-chv-ARROW-2//clicsbp-wold-Sakha-ARROW-1"
     words "o x//o q//o k//o k//o q//ʒ e b e//u q//u k//ɕ ɘ m r ɛ n//u χ ə + j ɘ p i//o χ"
@@ -5880,7 +5868,7 @@ graph [
     family_count 1
   ]
   node [
-    id 490
+    id 489
     label "WEAVE"
     occurrences "clicsbp-idssegmented-azerbaijani-WEAVE-1//clicsbp-idssegmented-kumyk-WEAVE-1//clicsbp-idssegmented-nogai-WEAVE-1//clicsbp-idssegmented-nogai-WEAVE-2//clicsbp-savelyevturkic-Karaim-WEAVE-1//clicsbp-savelyevturkic-Karaim-WEAVE-2"
     words "h œ r m æ k//e ʃ m e k//b ɨ r y w//t o k u w//s o χ//t u χ u"
@@ -5892,7 +5880,7 @@ graph [
     family_count 1
   ]
   node [
-    id 491
+    id 490
     label "BRAID (VERB) OR WEAVE (BASKET)"
     occurrences "clicsbp-idssegmented-azerbaijani-BRAIDVERBORWEAVEBASKET-2//clicsbp-idssegmented-azerbaijani-BRAIDVERBORWEAVEBASKET-1//clicsbp-idssegmented-kumyk-BRAIDVERBORWEAVEBASKET-1//clicsbp-idssegmented-nogai-BRAIDVERBORWEAVEBASKET-2//clicsbp-idssegmented-nogai-BRAIDVERBORWEAVEBASKET-1//clicsbp-wold-Sakha-BRAIDVERBORWEAVEBASKET-1"
     words "h œ r m æ k//t o x u m a g//s o q m a q//t i g y w//s o g u w//œ r"
@@ -5904,7 +5892,7 @@ graph [
     family_count 1
   ]
   node [
-    id 492
+    id 491
     label "LOOM"
     occurrences "clicsbp-idssegmented-azerbaijani-LOOM-1//clicsbp-idssegmented-kumyk-LOOM-1//clicsbp-idssegmented-nogai-LOOM-1"
     words "t o x u m a + d æ z gʲ a h ɨ//tʃ ɨ ɣ ɨ r//k u m a ʃ + s o g a t a g a n + s t a n o k"
@@ -5916,7 +5904,7 @@ graph [
     family_count 1
   ]
   node [
-    id 493
+    id 492
     label "SEW"
     occurrences "clicsbp-idssegmented-azerbaijani-SEW-1//clicsbp-idssegmented-kumyk-SEW-1//clicsbp-idssegmented-nogai-SEW-1//clicsbp-northeuralex-tur-SEW-1//clicsbp-northeuralex-uzn-SEW-1//clicsbp-northeuralex-kaz-SEW-1//clicsbp-northeuralex-bak-SEW-1//clicsbp-northeuralex-tat-SEW-1//clicsbp-northeuralex-chv-SEW-1//clicsbp-wold-Sakha-SEW-1//clicsbp-wold-Sakha-SEW-2//clicsbp-savelyevturkic-Karaim-SEW-1"
     words "t i k m æ k//t i k m e k//t i g y w//d i k m ɛ k//t i k m ɒ q//t ə g u//t e g e y//t e g ʉ//ɕ ɘ l ɛ//t i k//iː s t e n//t i k"
@@ -5928,7 +5916,7 @@ graph [
     family_count 1
   ]
   node [
-    id 494
+    id 493
     label "BUILD"
     occurrences "clicsbp-idssegmented-azerbaijani-BUILD-1//clicsbp-idssegmented-kumyk-BUILD-1//clicsbp-idssegmented-kumyk-BUILD-2//clicsbp-idssegmented-nogai-BUILD-1//clicsbp-idssegmented-nogai-BUILD-2//clicsbp-idssegmented-nogai-BUILD-3//clicsbp-northeuralex-tur-BUILD-1//clicsbp-northeuralex-tur-BUILD-2//clicsbp-northeuralex-uzn-BUILD-1//clicsbp-northeuralex-kaz-BUILD-1//clicsbp-northeuralex-bak-BUILD-1//clicsbp-northeuralex-tat-BUILD-1//clicsbp-northeuralex-chv-BUILD-1//clicsbp-wold-Sakha-BUILD-1"
     words "t i k m æ k//q u r m a q//t i z m e k//t ü z y w//k u r u w//k a l a w//k u ɾ m a k//i n ʃ a + ɛ t m ɛ k//s ɒ l m ɒ q//t ʉ ɾ ʁ ə z u//t ø ð ø y//q o r u//t u//t u t"
@@ -5940,7 +5928,7 @@ graph [
     family_count 1
   ]
   node [
-    id 495
+    id 494
     label "NEEDLE (FOR SEWING)"
     occurrences "clicsbp-idssegmented-azerbaijani-NEEDLEFORSEWING-1//clicsbp-idssegmented-kumyk-NEEDLEFORSEWING-1//clicsbp-idssegmented-nogai-NEEDLEFORSEWING-1//clicsbp-northeuralex-tur-NEEDLEFORSEWING-1//clicsbp-northeuralex-uzn-NEEDLEFORSEWING-1//clicsbp-northeuralex-kaz-NEEDLEFORSEWING-1//clicsbp-northeuralex-bak-NEEDLEFORSEWING-1//clicsbp-northeuralex-tat-NEEDLEFORSEWING-1//clicsbp-northeuralex-chv-NEEDLEFORSEWING-1//clicsbp-wold-Sakha-NEEDLEFORSEWING-1"
     words "i j n æ//i n e//i j n e//i j n ɛ//i g n a//ɪ j n e//e n æ//ɛ n æ//j ɘ p//i nː e"
@@ -5952,7 +5940,7 @@ graph [
     family_count 1
   ]
   node [
-    id 496
+    id 495
     label "THREAD"
     occurrences "clicsbp-idssegmented-azerbaijani-THREAD-1//clicsbp-idssegmented-kumyk-THREAD-1//clicsbp-idssegmented-nogai-THREAD-1//clicsbp-northeuralex-tur-THREAD-1//clicsbp-northeuralex-tur-THREAD-2//clicsbp-northeuralex-uzn-THREAD-1//clicsbp-northeuralex-kaz-THREAD-1//clicsbp-northeuralex-bak-THREAD-1//clicsbp-northeuralex-tat-THREAD-1//clicsbp-northeuralex-chv-THREAD-1//clicsbp-wold-Sakha-THREAD-1"
     words "s a p//tʃ a r + j i p//j i p//t i ɾ ɛ//i p l i k//i p//ʒ ə p//j e p//dʑ e p//ɕ i p//s a p"
@@ -5964,7 +5952,7 @@ graph [
     family_count 1
   ]
   node [
-    id 497
+    id 496
     label "DYE"
     occurrences "clicsbp-idssegmented-azerbaijani-DYE-1//clicsbp-idssegmented-kumyk-DYE-1//clicsbp-idssegmented-nogai-DYE-1//clicsbp-idssegmented-nogai-DYE-2//clicsbp-northeuralex-tur-DYE-1//clicsbp-northeuralex-uzn-DYE-1//clicsbp-northeuralex-kaz-DYE-1//clicsbp-northeuralex-kaz-DYE-2//clicsbp-northeuralex-bak-DYE-1//clicsbp-northeuralex-tat-DYE-1//clicsbp-northeuralex-chv-DYE-1//clicsbp-wold-Sakha-DYE-1"
     words "b o j a//b o u a w//s ɨ r//s ɨ j a//b o j a m a k//b o j ɒ q l a m ɒ q//b o j ɑ u//s ə ɾ l ɑ u//b u j au//m a n u//p ɘ ʋ ɛ t//k ɨ r aː s k a l aː"
@@ -5976,7 +5964,7 @@ graph [
     family_count 1
   ]
   node [
-    id 498
+    id 497
     label "PAINT (PIGMENTS)"
     occurrences "clicsbp-idssegmented-azerbaijani-PAINTPIGMENTS-1//clicsbp-idssegmented-azerbaijani-PAINTPIGMENTS-2//clicsbp-idssegmented-kumyk-PAINTPIGMENTS-1//clicsbp-idssegmented-kumyk-PAINTPIGMENTS-2//clicsbp-idssegmented-nogai-PAINTPIGMENTS-1//clicsbp-idssegmented-nogai-PAINTPIGMENTS-2//clicsbp-northeuralex-tur-PAINTPIGMENTS-1//clicsbp-northeuralex-uzn-PAINTPIGMENTS-1//clicsbp-northeuralex-kaz-PAINTPIGMENTS-1//clicsbp-northeuralex-bak-PAINTPIGMENTS-1//clicsbp-northeuralex-tat-PAINTPIGMENTS-1//clicsbp-northeuralex-chv-PAINTPIGMENTS-1//clicsbp-wold-Sakha-PAINTPIGMENTS-1//clicsbp-wold-Sakha-PAINTPIGMENTS-2"
     words "b o j a//r æ n gʲ//b o u a w//s ɨ r//s ɨ r//b o j a k//b o j a//b o j ɒ k//ɾ e ŋ//b u j au//b u j au//s ə r ə//k ɨ r aː s k a//b u t u k"
@@ -5988,7 +5976,7 @@ graph [
     family_count 1
   ]
   node [
-    id 499
+    id 498
     label "DRESS"
     occurrences "clicsbp-idssegmented-azerbaijani-DRESS-1//clicsbp-idssegmented-kumyk-DRESS-1//clicsbp-idssegmented-kumyk-DRESS-2//clicsbp-idssegmented-kumyk-DRESS-3//clicsbp-idssegmented-nogai-DRESS-1//clicsbp-idssegmented-nogai-DRESS-2//clicsbp-wold-Sakha-DRESS-1//clicsbp-wold-Sakha-DRESS-2"
     words "g a d ɨ n + k œ j n æ j i//q a b a l a j//p o l ʃ a//k a p o t//k œ j l e k//ʃ ɨ b a//b ɨ l aː tʃː ɨ y a//ɨ r b aː χ ɨ"
@@ -6000,7 +5988,7 @@ graph [
     family_count 1
   ]
   node [
-    id 500
+    id 499
     label "COAT"
     occurrences "clicsbp-idssegmented-azerbaijani-COAT-1//clicsbp-idssegmented-kumyk-COAT-1//clicsbp-idssegmented-nogai-COAT-1//clicsbp-wold-Sakha-COAT-1//clicsbp-wold-Sakha-COAT-2//clicsbp-wold-Sakha-COAT-3"
     words "p a l t o//p a l j t o//p a lʲ t o//s o n//b o l t u o//s a ɣ i n ɲ a χ"
@@ -6012,7 +6000,7 @@ graph [
     family_count 1
   ]
   node [
-    id 501
+    id 500
     label "SHIRT"
     occurrences "clicsbp-idssegmented-azerbaijani-SHIRT-1//clicsbp-idssegmented-kumyk-SHIRT-1//clicsbp-idssegmented-nogai-SHIRT-1//clicsbp-northeuralex-tur-SHIRT-1//clicsbp-northeuralex-uzn-SHIRT-1//clicsbp-northeuralex-kaz-SHIRT-1//clicsbp-northeuralex-bak-SHIRT-1//clicsbp-northeuralex-tat-SHIRT-1//clicsbp-northeuralex-chv-SHIRT-1//clicsbp-wold-Sakha-SHIRT-1//clicsbp-wold-Sakha-SHIRT-2"
     words "k œ j n æ k//g œ l e k//k œ j l e k//g œ m l ɛ k//k o j l a k//ʒ e j d e//k y l d æ k//k ʉ l m æ k//k ɘ p ɛ//ɨ r b aː χ ɨ//s a r o tʃ k a"
@@ -6024,7 +6012,7 @@ graph [
     family_count 1
   ]
   node [
-    id 502
+    id 501
     label "COLLAR"
     occurrences "clicsbp-idssegmented-azerbaijani-COLLAR-1//clicsbp-idssegmented-azerbaijani-COLLAR-2//clicsbp-idssegmented-kumyk-COLLAR-1//clicsbp-idssegmented-nogai-COLLAR-1//clicsbp-northeuralex-tur-COLLAR-1//clicsbp-northeuralex-uzn-COLLAR-1//clicsbp-northeuralex-kaz-COLLAR-1//clicsbp-northeuralex-bak-COLLAR-1//clicsbp-northeuralex-tat-COLLAR-1//clicsbp-northeuralex-chv-COLLAR-1//clicsbp-wold-Sakha-COLLAR-1"
     words "j a x a l ɨ g//j a x a//u a ɣ a//j a g a//j a k a//j ɒ q a//ʒ ɑ ʁ ɑ//j a ɣ a//j a q ɑ//ɕ u χ a//s a ɣ a"
@@ -6036,7 +6024,7 @@ graph [
     family_count 1
   ]
   node [
-    id 503
+    id 502
     label "SKIRT"
     occurrences "clicsbp-idssegmented-azerbaijani-SKIRT-1//clicsbp-idssegmented-kumyk-SKIRT-1//clicsbp-idssegmented-nogai-SKIRT-1//clicsbp-wold-Sakha-SKIRT-1"
     words "j u b k a//ü b k a//j u b k a//dʒ uː pː a"
@@ -6048,7 +6036,7 @@ graph [
     family_count 1
   ]
   node [
-    id 504
+    id 503
     label "GRASS-SKIRT"
     occurrences "clicsbp-idssegmented-azerbaijani-GRASSSKIRT-1//clicsbp-idssegmented-kumyk-GRASSSKIRT-1//clicsbp-idssegmented-nogai-GRASSSKIRT-1"
     words "j a r p a g + j u b k a s ɨ//u a p ɨ r a q l a r d a n + e t i l g e n + j u b k a//j u b k a"
@@ -6060,7 +6048,7 @@ graph [
     family_count 1
   ]
   node [
-    id 505
+    id 504
     label "TROUSERS"
     occurrences "clicsbp-idssegmented-azerbaijani-TROUSERS-1//clicsbp-idssegmented-kumyk-TROUSERS-1//clicsbp-idssegmented-kumyk-TROUSERS-2//clicsbp-idssegmented-nogai-TROUSERS-1//clicsbp-idssegmented-nogai-TROUSERS-2//clicsbp-idssegmented-nogai-TROUSERS-3//clicsbp-idssegmented-nogai-TROUSERS-4//clicsbp-northeuralex-tur-TROUSERS-1//clicsbp-northeuralex-uzn-TROUSERS-1//clicsbp-northeuralex-kaz-TROUSERS-1//clicsbp-northeuralex-bak-TROUSERS-1//clicsbp-northeuralex-tat-TROUSERS-1//clicsbp-northeuralex-chv-TROUSERS-1//clicsbp-wold-Sakha-TROUSERS-1//clicsbp-wold-Sakha-TROUSERS-2"
     words "ʃ a l v a r//i ʃ t a n//ʃ a l b a r//ʃ a l b ɨ r//b a l a k//ɨ s t a n//s a k s ɨ r//p a n t o l o n//ʃ i m//ʃ ɑ l b ɑ ɾ//s a l b a r//tɕ a l b a r//ʂ ə l a ʋ a r//ɨ s t aː n//b y r yː k e"
@@ -6072,7 +6060,7 @@ graph [
     family_count 1
   ]
   node [
-    id 506
+    id 505
     label "STOCKING"
     occurrences "clicsbp-idssegmented-azerbaijani-STOCKING-1//clicsbp-idssegmented-kumyk-STOCKING-1//clicsbp-idssegmented-kumyk-STOCKING-2//clicsbp-idssegmented-nogai-STOCKING-1//clicsbp-wold-Sakha-STOCKING-1//clicsbp-wold-Sakha-STOCKING-2"
     words "dʒ o r a b//tʃ o r a p//n a s g i//ʃ o r a p//tʃ u l k u//n a s k ɨ"
@@ -6084,7 +6072,7 @@ graph [
     family_count 1
   ]
   node [
-    id 507
+    id 506
     label "SHOE"
     occurrences "clicsbp-idssegmented-azerbaijani-SHOE-1//clicsbp-idssegmented-kumyk-SHOE-1//clicsbp-idssegmented-kumyk-SHOE-2//clicsbp-idssegmented-nogai-SHOE-1//clicsbp-idssegmented-nogai-SHOE-2//clicsbp-northeuralex-tur-SHOE-1//clicsbp-northeuralex-tur-SHOE-2//clicsbp-northeuralex-uzn-SHOE-1//clicsbp-northeuralex-kaz-SHOE-1//clicsbp-northeuralex-bak-SHOE-1//clicsbp-northeuralex-tat-SHOE-1//clicsbp-northeuralex-chv-SHOE-1//clicsbp-northeuralex-chv-SHOE-2//clicsbp-wold-Sakha-SHOE-1//clicsbp-wold-Sakha-SHOE-2"
     words "t u f l i//t u f l i//t ü p l ü//t u f l j a//b ä p i ʃ//k u n d u ɾ a//a j a kː a b ɯ//b u t//k e b ə s//t u f l i//b a ʃ m a k//p u ʂ m a k//b o t i n o k//t yː pː y l e//b a tʃ ɨː n k a"
@@ -6096,7 +6084,7 @@ graph [
     family_count 1
   ]
   node [
-    id 508
+    id 507
     label "BOOT"
     occurrences "clicsbp-idssegmented-azerbaijani-BOOT-1//clicsbp-idssegmented-azerbaijani-BOOT-2//clicsbp-idssegmented-kumyk-BOOT-1//clicsbp-idssegmented-nogai-BOOT-1//clicsbp-northeuralex-tur-BOOT-1//clicsbp-northeuralex-uzn-BOOT-1//clicsbp-northeuralex-kaz-BOOT-1//clicsbp-northeuralex-bak-BOOT-1//clicsbp-northeuralex-tat-BOOT-1//clicsbp-northeuralex-chv-BOOT-1//clicsbp-wold-Sakha-BOOT-1//clicsbp-wold-Sakha-BOOT-2//clicsbp-wold-Sakha-BOOT-3"
     words "b o t i n k a//tʃ æ k m æ//b a t i n k a//b o t i n k a//tʃ i z m ɛ//b ɒ t i n k a//e t ə k//i t e k//i t e k//a t ə//s a pː ɨ k ɨ//u n t uː//e t e r b e s"
@@ -6108,7 +6096,7 @@ graph [
     family_count 1
   ]
   node [
-    id 509
+    id 508
     label "HEADGEAR"
     occurrences "clicsbp-idssegmented-azerbaijani-HEADGEAR-1//clicsbp-idssegmented-kumyk-HEADGEAR-1//clicsbp-idssegmented-kumyk-HEADGEAR-2//clicsbp-idssegmented-nogai-HEADGEAR-1//clicsbp-idssegmented-nogai-HEADGEAR-2//clicsbp-wold-Sakha-HEADGEAR-1//clicsbp-wold-Sakha-HEADGEAR-2"
     words "ʃ l j a p a//ʃ l u a p a//b œ r k//ʃ l j a p j a//b œ r k//s e l eː pː e//b e r g e h e"
@@ -6120,7 +6108,7 @@ graph [
     family_count 1
   ]
   node [
-    id 510
+    id 509
     label "BELT"
     occurrences "clicsbp-idssegmented-azerbaijani-BELT-1//clicsbp-idssegmented-azerbaijani-BELT-2//clicsbp-idssegmented-kumyk-BELT-1//clicsbp-idssegmented-nogai-BELT-1//clicsbp-northeuralex-tur-BELT-1//clicsbp-northeuralex-uzn-BELT-1//clicsbp-northeuralex-kaz-BELT-1//clicsbp-northeuralex-bak-BELT-1//clicsbp-northeuralex-tat-BELT-1//clicsbp-northeuralex-chv-BELT-1//clicsbp-wold-Sakha-BELT-1"
     words "k æ m æ r//t o gː a//b e l b a w//b e l b a w//k u ʃ a k//t a s m a//b e l b e u//q a j ɯ ʃ//b i l b au//p i ɕ i χ i//k u r"
@@ -6132,7 +6120,7 @@ graph [
     family_count 1
   ]
   node [
-    id 511
+    id 510
     label "GLOVE"
     occurrences "clicsbp-idssegmented-azerbaijani-GLOVE-1//clicsbp-idssegmented-kumyk-GLOVE-1//clicsbp-idssegmented-nogai-GLOVE-1//clicsbp-wold-Sakha-GLOVE-1"
     words "æ l dʒ æ k//q o l ɣ a p//k o l k a p//t a r b a χ + y t y l y k"
@@ -6144,7 +6132,7 @@ graph [
     family_count 1
   ]
   node [
-    id 512
+    id 511
     label "POCKET"
     occurrences "clicsbp-idssegmented-azerbaijani-POCKET-1//clicsbp-idssegmented-kumyk-POCKET-1//clicsbp-idssegmented-nogai-POCKET-1//clicsbp-wold-Sakha-POCKET-1"
     words "dʒ i b//k i s e//k i s e//s i e p"
@@ -6156,7 +6144,7 @@ graph [
     family_count 1
   ]
   node [
-    id 513
+    id 512
     label "BUTTON"
     occurrences "clicsbp-idssegmented-azerbaijani-BUTTON-1//clicsbp-idssegmented-kumyk-BUTTON-1//clicsbp-idssegmented-nogai-BUTTON-1//clicsbp-idssegmented-nogai-BUTTON-2//clicsbp-northeuralex-tur-BUTTON-1//clicsbp-northeuralex-uzn-BUTTON-1//clicsbp-northeuralex-kaz-BUTTON-1//clicsbp-northeuralex-bak-BUTTON-1//clicsbp-northeuralex-tat-BUTTON-1//clicsbp-northeuralex-chv-BUTTON-1//clicsbp-wold-Sakha-BUTTON-1"
     words "d ü j m æ//t ü j m e//t ü j m e//s ä d e p//d y j m ɛ//t u g m a//t ʊ j m e//t ø j m æ//t œ j m æ//t y m ɛ//t i m e χ"
@@ -6168,7 +6156,7 @@ graph [
     family_count 1
   ]
   node [
-    id 514
+    id 513
     label "PIN"
     occurrences "clicsbp-idssegmented-azerbaijani-PIN-1//clicsbp-idssegmented-kumyk-PIN-1//clicsbp-idssegmented-nogai-PIN-1//clicsbp-wold-Sakha-PIN-1"
     words "s a n dʒ a g//t j u j r e w ü tʃ//t ü j r e w g i ʃ//b u l aː p k a"
@@ -6180,7 +6168,7 @@ graph [
     family_count 1
   ]
   node [
-    id 515
+    id 514
     label "ORNAMENT"
     occurrences "clicsbp-idssegmented-azerbaijani-ORNAMENT-1//clicsbp-idssegmented-azerbaijani-ORNAMENT-2//clicsbp-idssegmented-azerbaijani-ORNAMENT-3//clicsbp-idssegmented-kumyk-ORNAMENT-1//clicsbp-idssegmented-nogai-ORNAMENT-1//clicsbp-wold-Sakha-ORNAMENT-1//clicsbp-wold-Sakha-ORNAMENT-2"
     words "b æ z æ m æ//n a x ɨ ʃ//b æ z æ k + æ ʃ j a l a r ɨ//b e z e n d i r i w//b e z e n d i r i w//k i e r g e l//s i m e χ"
@@ -6192,7 +6180,7 @@ graph [
     family_count 1
   ]
   node [
-    id 516
+    id 515
     label "RING"
     occurrences "clicsbp-idssegmented-azerbaijani-RING-1//clicsbp-idssegmented-kumyk-RING-1//clicsbp-idssegmented-kumyk-RING-2//clicsbp-idssegmented-nogai-RING-1//clicsbp-northeuralex-tur-RING-1//clicsbp-northeuralex-uzn-RING-1//clicsbp-northeuralex-kaz-RING-1//clicsbp-northeuralex-bak-RING-1//clicsbp-northeuralex-bak-RING-2//clicsbp-northeuralex-tat-RING-1//clicsbp-northeuralex-chv-RING-1//clicsbp-wold-Sakha-RING-1//clicsbp-wold-Sakha-RING-2"
     words "ü z ü k//ü z ü k//œ r m e k tʃ e//j u z i k//j y z y k//j u z u k//ʒ ʊ z ə k//j ø ð ø k//b a l d a q//b a l d a k//ɕ ɘ r ɘ//k y l yː s k e//b i h i l e χ"
@@ -6204,7 +6192,7 @@ graph [
     family_count 1
   ]
   node [
-    id 517
+    id 516
     label "BRACELET"
     occurrences "clicsbp-idssegmented-azerbaijani-BRACELET-1//clicsbp-idssegmented-azerbaijani-BRACELET-2//clicsbp-idssegmented-kumyk-BRACELET-1//clicsbp-idssegmented-nogai-BRACELET-1//clicsbp-wold-Sakha-BRACELET-1"
     words "g o l b a g//b i l æ r z i k//b i l e z i k//b i l e z i k//b œ ɣ œ χ"
@@ -6216,7 +6204,7 @@ graph [
     family_count 1
   ]
   node [
-    id 518
+    id 517
     label "NECKLACE"
     occurrences "clicsbp-idssegmented-azerbaijani-NECKLACE-1//clicsbp-idssegmented-azerbaijani-NECKLACE-2//clicsbp-idssegmented-kumyk-NECKLACE-1//clicsbp-idssegmented-kumyk-NECKLACE-2//clicsbp-idssegmented-nogai-NECKLACE-1//clicsbp-idssegmented-nogai-NECKLACE-2//clicsbp-wold-Sakha-NECKLACE-1//clicsbp-wold-Sakha-NECKLACE-2"
     words "m u n dʒ u g//b o j u n b a ɣ ɨ//h a m a r tʃ a l a r//m i n tʃ a q l a r//m o j ɨ n ʃ a k//m o j ʃ a k//χ o r u o ŋ k a//o ɣ u r u o"
@@ -6228,7 +6216,7 @@ graph [
     family_count 1
   ]
   node [
-    id 519
+    id 518
     label "BEAD"
     occurrences "clicsbp-idssegmented-azerbaijani-BEAD-1//clicsbp-idssegmented-kumyk-BEAD-1//clicsbp-idssegmented-nogai-BEAD-1//clicsbp-wold-Sakha-BEAD-2//clicsbp-wold-Sakha-BEAD-1"
     words "m u n dʒ u g + d æ n æ s i//m i n tʃ a q//m o j ʃ a k//χ o r u o ŋ k a//o ɣ u r u o"
@@ -6240,7 +6228,7 @@ graph [
     family_count 1
   ]
   node [
-    id 520
+    id 519
     label "EARRING"
     occurrences "clicsbp-idssegmented-azerbaijani-EARRING-1//clicsbp-idssegmented-azerbaijani-EARRING-2//clicsbp-idssegmented-kumyk-EARRING-1//clicsbp-idssegmented-nogai-EARRING-1//clicsbp-idssegmented-nogai-EARRING-2//clicsbp-wold-Sakha-EARRING-1"
     words "s ɨ r ɣ a//t æ n æ//h a l q a//s ɨ r g a//k u l a k ʃ ɨ n//ɨ t a r ɣ a"
@@ -6252,7 +6240,7 @@ graph [
     family_count 1
   ]
   node [
-    id 521
+    id 520
     label "HEADBAND OR HEADDRESS"
     occurrences "clicsbp-idssegmented-azerbaijani-HEADBANDORHEADDRESS-1//clicsbp-idssegmented-azerbaijani-HEADBANDORHEADDRESS-2//clicsbp-idssegmented-kumyk-HEADBANDORHEADDRESS-1//clicsbp-idssegmented-kumyk-HEADBANDORHEADDRESS-2//clicsbp-idssegmented-nogai-HEADBANDORHEADDRESS-1//clicsbp-idssegmented-nogai-HEADBANDORHEADDRESS-2//clicsbp-wold-Sakha-HEADBANDORHEADDRESS-1//clicsbp-wold-Sakha-HEADBANDORHEADDRESS-2"
     words "p a p a g//b a ʃ + gʲ e j i m i//tʃ a l m a//b a ʃ g i j i m//ʃ a l m a//b a s k i j i m//b ɨ l aː t//b a s t ɨ ŋ a"
@@ -6264,7 +6252,7 @@ graph [
     family_count 1
   ]
   node [
-    id 522
+    id 521
     label "RAG"
     occurrences "clicsbp-idssegmented-azerbaijani-RAG-1//clicsbp-idssegmented-kumyk-RAG-1//clicsbp-idssegmented-nogai-RAG-1//clicsbp-idssegmented-nogai-RAG-2//clicsbp-wold-Sakha-RAG-1"
     words "dʒ i b + d æ s m a l ɨ//q o l u a w l u q//k o l j a w l ɨ k//b e t j a w l ɨ k//b ɨ l aː t"
@@ -6276,7 +6264,7 @@ graph [
     family_count 1
   ]
   node [
-    id 523
+    id 522
     label "TOWEL"
     occurrences "clicsbp-idssegmented-azerbaijani-TOWEL-1//clicsbp-idssegmented-azerbaijani-TOWEL-2//clicsbp-idssegmented-kumyk-TOWEL-1//clicsbp-idssegmented-kumyk-TOWEL-2//clicsbp-idssegmented-nogai-TOWEL-1//clicsbp-idssegmented-nogai-TOWEL-2//clicsbp-northeuralex-tur-TOWEL-1//clicsbp-northeuralex-uzn-TOWEL-1//clicsbp-northeuralex-kaz-TOWEL-1//clicsbp-northeuralex-bak-TOWEL-1//clicsbp-northeuralex-tat-TOWEL-1//clicsbp-northeuralex-chv-TOWEL-1//clicsbp-wold-Sakha-TOWEL-1"
     words "d æ s m a l//m æ h r æ b a//b e t u a w l u q//tʃ ü j u a w l u q//t a s t a m a l//s ü l g i//h a v l u//s ɒ tʃ i q//s ʊ l g ə//t a θ t a m a l//s œ l g æ//a l + ʂ ə l i//s o tː o r"
@@ -6288,7 +6276,7 @@ graph [
     family_count 1
   ]
   node [
-    id 524
+    id 523
     label "COMB"
     occurrences "clicsbp-idssegmented-azerbaijani-COMB-1//clicsbp-idssegmented-azerbaijani-COMB-2//clicsbp-idssegmented-kumyk-COMB-1//clicsbp-idssegmented-nogai-COMB-1//clicsbp-idssegmented-nogai-COMB-2//clicsbp-northeuralex-tur-COMB-1//clicsbp-northeuralex-uzn-COMB-1//clicsbp-northeuralex-kaz-COMB-1//clicsbp-northeuralex-bak-COMB-1//clicsbp-northeuralex-tat-COMB-1//clicsbp-northeuralex-chv-COMB-1//clicsbp-wold-Sakha-COMB-1"
     words "d a r a g//ʃ a n a//t a r a q//b a s t a r a k//t a r a k//t a ɾ a k//t a r ɒ q//t ɑ ɾ ɑ q//t a r a q//t a r a k//t u r a//t a r aː χ"
@@ -6300,7 +6288,7 @@ graph [
     family_count 1
   ]
   node [
-    id 525
+    id 524
     label "BRUSH"
     occurrences "clicsbp-idssegmented-azerbaijani-BRUSH-1//clicsbp-idssegmented-kumyk-BRUSH-1//clicsbp-idssegmented-nogai-BRUSH-1//clicsbp-wold-Sakha-BRUSH-1"
     words "d a r a g//t a r a q//b a s t a r a k//s u o kː a"
@@ -6312,7 +6300,7 @@ graph [
     family_count 1
   ]
   node [
-    id 526
+    id 525
     label "BRAID"
     occurrences "clicsbp-idssegmented-azerbaijani-BRAID-1//clicsbp-idssegmented-kumyk-BRAID-1//clicsbp-idssegmented-nogai-BRAID-1//clicsbp-idssegmented-nogai-BRAID-2//clicsbp-wold-Sakha-BRAID-1"
     words "h œ r ü k//tʃ a tʃ//ʃ a ʃ//œ r m e//s u h u o χ"
@@ -6324,7 +6312,7 @@ graph [
     family_count 1
   ]
   node [
-    id 527
+    id 526
     label "RAZOR"
     occurrences "clicsbp-idssegmented-azerbaijani-RAZOR-1//clicsbp-idssegmented-kumyk-RAZOR-1//clicsbp-idssegmented-nogai-RAZOR-1//clicsbp-wold-Sakha-RAZOR-1"
     words "ü l gʲ ü dʒ//d e lː e k//b e k i//b i r iː pː e"
@@ -6336,7 +6324,7 @@ graph [
     family_count 1
   ]
   node [
-    id 528
+    id 527
     label "OINTMENT"
     occurrences "clicsbp-idssegmented-azerbaijani-OINTMENT-1//clicsbp-idssegmented-azerbaijani-OINTMENT-2//clicsbp-idssegmented-kumyk-OINTMENT-2//clicsbp-idssegmented-kumyk-OINTMENT-1//clicsbp-idssegmented-nogai-OINTMENT-1//clicsbp-idssegmented-nogai-OINTMENT-2//clicsbp-wold-Sakha-OINTMENT-1//clicsbp-wold-Sakha-OINTMENT-2"
     words "m a z//m æ lʰ æ m//m a j//m a z//m a zʲ//m a j//o ɣ u n u o χ//m aː s"
@@ -6348,7 +6336,7 @@ graph [
     family_count 1
   ]
   node [
-    id 529
+    id 528
     label "SOAP"
     occurrences "clicsbp-idssegmented-azerbaijani-SOAP-1//clicsbp-idssegmented-kumyk-SOAP-1//clicsbp-idssegmented-nogai-SOAP-1//clicsbp-wold-Sakha-SOAP-1"
     words "s a b u n//s a p u n//s a b ɨ n//m ɨː l a"
@@ -6360,7 +6348,7 @@ graph [
     family_count 1
   ]
   node [
-    id 530
+    id 529
     label "MIRROR"
     occurrences "clicsbp-idssegmented-azerbaijani-MIRROR-1//clicsbp-idssegmented-azerbaijani-MIRROR-2//clicsbp-idssegmented-kumyk-MIRROR-1//clicsbp-idssegmented-nogai-MIRROR-1//clicsbp-northeuralex-tur-MIRROR-1//clicsbp-northeuralex-uzn-MIRROR-1//clicsbp-northeuralex-kaz-MIRROR-1//clicsbp-northeuralex-bak-MIRROR-1//clicsbp-northeuralex-tat-MIRROR-1//clicsbp-northeuralex-chv-MIRROR-1//clicsbp-northeuralex-chv-MIRROR-2//clicsbp-wold-Sakha-MIRROR-1"
     words "gʲ ü z gʲ ü//a j n a//g ü z g ü//b i j a l a//a j n a//k o z g u//ɑ j n ɑ//k ø z g ø//k œ z g e//t ɘ k ɘ r//k u ɕ + k ɘ s k i//s i e r k e l e"
@@ -6372,7 +6360,7 @@ graph [
     family_count 1
   ]
   node [
-    id 531
+    id 530
     label "GLASS"
     occurrences "clicsbp-idssegmented-azerbaijani-GLASS-2//clicsbp-idssegmented-azerbaijani-GLASS-1//clicsbp-idssegmented-kumyk-GLASS-1//clicsbp-idssegmented-nogai-GLASS-1//clicsbp-northeuralex-tur-GLASS-1//clicsbp-northeuralex-uzn-GLASS-1//clicsbp-northeuralex-kaz-GLASS-1//clicsbp-northeuralex-bak-GLASS-1//clicsbp-northeuralex-tat-GLASS-1//clicsbp-northeuralex-chv-GLASS-1//clicsbp-wold-Sakha-GLASS-1//clicsbp-wold-Sakha-GLASS-2"
     words "a j n a//ʃ ü ʃ æ//ʃ i ʃ a//s i s e//dʒ a m//ɒ j n a//ʃ ə n ə//b ɯ j a l a//p ɤ j a l a//k ɘ l ɛ n tɕ ɛ//œ s t y œ k y l e//t y nː y k + t aː h a"
@@ -6384,7 +6372,7 @@ graph [
     family_count 1
   ]
   node [
-    id 532
+    id 531
     label "HOUSE"
     occurrences "clicsbp-idssegmented-azerbaijani-HOUSE-1//clicsbp-idssegmented-kumyk-HOUSE-1//clicsbp-idssegmented-nogai-HOUSE-1//clicsbp-northeuralex-tur-HOUSE-1//clicsbp-northeuralex-uzn-HOUSE-1//clicsbp-northeuralex-kaz-HOUSE-1//clicsbp-northeuralex-bak-HOUSE-1//clicsbp-northeuralex-bak-HOUSE-2//clicsbp-northeuralex-tat-HOUSE-1//clicsbp-northeuralex-tat-HOUSE-2//clicsbp-northeuralex-chv-HOUSE-1//clicsbp-wold-Sakha-HOUSE-1//clicsbp-savelyevturkic-Karaim-HOUSE-1"
     words "e v//ü j//ü j//ɛ v//u j//ʊ j//ø j//j o r t//œ j//j o r t//ɕ u r t//dʒ i e//y v"
@@ -6396,7 +6384,7 @@ graph [
     family_count 1
   ]
   node [
-    id 533
+    id 532
     label "HUT"
     occurrences "clicsbp-idssegmented-azerbaijani-HUT-1//clicsbp-idssegmented-azerbaijani-HUT-2//clicsbp-idssegmented-kumyk-HUT-1//clicsbp-idssegmented-nogai-HUT-1//clicsbp-idssegmented-nogai-HUT-2//clicsbp-wold-Sakha-HUT-1"
     words "k o m a//d a x m a//j u r t + ü j//x i ʒ i n a//k i ʃ k e j + ü j//yː t eː n"
@@ -6408,7 +6396,7 @@ graph [
     family_count 1
   ]
   node [
-    id 534
+    id 533
     label "TENT"
     occurrences "clicsbp-idssegmented-azerbaijani-TENT-1//clicsbp-idssegmented-kumyk-TENT-1//clicsbp-idssegmented-nogai-TENT-1//clicsbp-wold-Sakha-TENT-1"
     words "tʃ a d ɨ r//tʃ a t ɨ r//ʃ a t ɨ r//b a l aː kː a"
@@ -6420,7 +6408,7 @@ graph [
     family_count 1
   ]
   node [
-    id 535
+    id 534
     label "YARD"
     occurrences "clicsbp-idssegmented-azerbaijani-YARD-1//clicsbp-idssegmented-kumyk-YARD-1//clicsbp-idssegmented-nogai-YARD-1//clicsbp-wold-Sakha-YARD-1//clicsbp-wold-Sakha-YARD-2//clicsbp-wold-Sakha-YARD-3"
     words "t a l v a r//a z b a r//a z b a r//o l b u o r//t i e r g e n//t e l g e h e"
@@ -6432,7 +6420,7 @@ graph [
     family_count 1
   ]
   node [
-    id 536
+    id 535
     label "COOKHOUSE"
     occurrences "clicsbp-idssegmented-azerbaijani-COOKHOUSE-1//clicsbp-idssegmented-kumyk-COOKHOUSE-1//clicsbp-idssegmented-nogai-COOKHOUSE-1//clicsbp-idssegmented-nogai-COOKHOUSE-2//clicsbp-idssegmented-nogai-COOKHOUSE-3//clicsbp-wold-Sakha-COOKHOUSE-1"
     words "m æ t b æ x//a ʃ ü j//o t a w//a j a t ü//k a z a n ü j//χ o s p o χ"
@@ -6444,7 +6432,7 @@ graph [
     family_count 1
   ]
   node [
-    id 537
+    id 536
     label "ROOM"
     occurrences "clicsbp-idssegmented-azerbaijani-ROOM-1//clicsbp-idssegmented-kumyk-ROOM-1//clicsbp-idssegmented-nogai-ROOM-1//clicsbp-idssegmented-nogai-ROOM-2//clicsbp-wold-Sakha-ROOM-1"
     words "o t a g//ü j//ü j//b œ m e//χ o s"
@@ -6456,7 +6444,7 @@ graph [
     family_count 1
   ]
   node [
-    id 538
+    id 537
     label "DOOR"
     occurrences "clicsbp-idssegmented-azerbaijani-DOOR-1//clicsbp-idssegmented-azerbaijani-DOOR-2//clicsbp-idssegmented-kumyk-DOOR-1//clicsbp-idssegmented-kumyk-DOOR-2//clicsbp-idssegmented-nogai-DOOR-1//clicsbp-idssegmented-nogai-DOOR-2//clicsbp-northeuralex-tur-DOOR-1//clicsbp-northeuralex-uzn-DOOR-1//clicsbp-northeuralex-kaz-DOOR-1//clicsbp-northeuralex-bak-DOOR-1//clicsbp-northeuralex-tat-DOOR-1//clicsbp-northeuralex-chv-DOOR-1//clicsbp-wold-Sakha-DOOR-1"
     words "g a p ɨ//d a r v a z a//e ʃ i k//q a p u l a r//k a p ɨ//e s i k//k a p ɯ//æ ʃ i k//e s ə k//i ʃ e k//i ʃ e k//a l ə k//aː n"
@@ -6468,7 +6456,7 @@ graph [
     family_count 1
   ]
   node [
-    id 539
+    id 538
     label "LOCK"
     occurrences "clicsbp-idssegmented-azerbaijani-LOCK-1//clicsbp-idssegmented-azerbaijani-LOCK-2//clicsbp-idssegmented-kumyk-LOCK-1//clicsbp-idssegmented-nogai-LOCK-1//clicsbp-northeuralex-tur-LOCK-1//clicsbp-northeuralex-uzn-LOCK-1//clicsbp-northeuralex-kaz-LOCK-1//clicsbp-northeuralex-kaz-LOCK-2//clicsbp-northeuralex-bak-LOCK-1//clicsbp-northeuralex-tat-LOCK-1//clicsbp-northeuralex-chv-LOCK-1//clicsbp-wold-Sakha-LOCK-1//clicsbp-wold-Sakha-LOCK-2"
     words "k i l i d//g ɨ f ɨ l//k i r i t//k i r t//k i l i t//q u l f//q ʉ l ə p//b e k ə t k ə ʃ//j o ð a q//j o z a k//ɕ ə r a//χ a t aː h ɨ n//k y l yː s"
@@ -6480,7 +6468,7 @@ graph [
     family_count 1
   ]
   node [
-    id 540
+    id 539
     label "LATCH"
     occurrences "clicsbp-idssegmented-azerbaijani-LATCH-1//clicsbp-idssegmented-azerbaijani-LATCH-2//clicsbp-idssegmented-kumyk-LATCH-1//clicsbp-idssegmented-kumyk-LATCH-2//clicsbp-idssegmented-nogai-LATCH-1//clicsbp-idssegmented-nogai-LATCH-2//clicsbp-wold-Sakha-LATCH-1"
     words "b a ɣ l a m a//s i j i r m æ//tʃ ü j//t o ɣ a n a q//t o k a t//j u w ɨ r t p a//χ a t aː h ɨ n"
@@ -6492,7 +6480,7 @@ graph [
     family_count 1
   ]
   node [
-    id 541
+    id 540
     label "KEY"
     occurrences "clicsbp-idssegmented-azerbaijani-KEY-1//clicsbp-idssegmented-kumyk-KEY-1//clicsbp-idssegmented-nogai-KEY-1//clicsbp-wold-Sakha-KEY-1"
     words "a tʃ a r//a tʃ ɣ ɨ tʃ//a ʃ k ɨ ʃ//k y l yː s + t ɨ l a"
@@ -6504,7 +6492,7 @@ graph [
     family_count 1
   ]
   node [
-    id 542
+    id 541
     label "WINDOW"
     occurrences "clicsbp-idssegmented-azerbaijani-WINDOW-1//clicsbp-idssegmented-kumyk-WINDOW-1//clicsbp-idssegmented-nogai-WINDOW-1//clicsbp-idssegmented-nogai-WINDOW-2//clicsbp-northeuralex-tur-WINDOW-1//clicsbp-northeuralex-uzn-WINDOW-1//clicsbp-northeuralex-kaz-WINDOW-1//clicsbp-northeuralex-bak-WINDOW-1//clicsbp-northeuralex-tat-WINDOW-1//clicsbp-northeuralex-chv-WINDOW-1//clicsbp-wold-Sakha-WINDOW-1"
     words "p æ n dʒ æ r æ//t e r e z e//ʃ a g a r a k//t e r e z e//p ɛ n dʒ ɛ ɾ ɛ//d ɛ r a z a//t e ɾ e z e//t æ ð r æ//t æ r æ z æ//tɕ y r ɛ tɕ ɛ//t y nː y k"
@@ -6516,7 +6504,7 @@ graph [
     family_count 1
   ]
   node [
-    id 543
+    id 542
     label "FLOOR"
     occurrences "clicsbp-idssegmented-azerbaijani-FLOOR-1//clicsbp-idssegmented-kumyk-FLOOR-1//clicsbp-idssegmented-nogai-FLOOR-2//clicsbp-idssegmented-nogai-FLOOR-1//clicsbp-northeuralex-tur-FLOOR-1//clicsbp-northeuralex-tur-FLOOR-2//clicsbp-northeuralex-uzn-FLOOR-1//clicsbp-northeuralex-kaz-FLOOR-1//clicsbp-northeuralex-bak-FLOOR-1//clicsbp-northeuralex-tat-FLOOR-1//clicsbp-northeuralex-chv-FLOOR-1//clicsbp-wold-Sakha-FLOOR-1"
     words "p o l + d œ ʃ æ m æ//ʒ a b a r//j e r//p o l//t a b a n//d œ ʃ ɛ m ɛ//p ɒ l//e d e n//j e n e s//i d æ n//u r a j//m u o s t a"
@@ -6528,7 +6516,7 @@ graph [
     family_count 1
   ]
   node [
-    id 544
+    id 543
     label "WALL (OF HOUSE)"
     occurrences "clicsbp-idssegmented-azerbaijani-WALLOFHOUSE-1//clicsbp-idssegmented-kumyk-WALLOFHOUSE-1//clicsbp-idssegmented-kumyk-WALLOFHOUSE-2//clicsbp-idssegmented-nogai-WALLOFHOUSE-1//clicsbp-idssegmented-nogai-WALLOFHOUSE-2//clicsbp-idssegmented-nogai-WALLOFHOUSE-3//clicsbp-wold-Sakha-WALLOFHOUSE-1//clicsbp-wold-Sakha-WALLOFHOUSE-2"
     words "d i v a r//t a m//tʃ ɨ r//t a m//i r g e//d ü g e r//i s t i e n e//e r k i n"
@@ -6540,7 +6528,7 @@ graph [
     family_count 1
   ]
   node [
-    id 545
+    id 544
     label "FIREPLACE"
     occurrences "clicsbp-idssegmented-azerbaijani-FIREPLACE-1//clicsbp-idssegmented-kumyk-FIREPLACE-1//clicsbp-idssegmented-nogai-FIREPLACE-1//clicsbp-idssegmented-nogai-FIREPLACE-2//clicsbp-wold-Sakha-FIREPLACE-1//clicsbp-wold-Sakha-FIREPLACE-2"
     words "b u x a r ɨ//o t b a ʃ//k a m i n//o t b a s//o h o χ//k œ m y l y œ k"
@@ -6552,7 +6540,7 @@ graph [
     family_count 1
   ]
   node [
-    id 546
+    id 545
     label "CHIMNEY"
     occurrences "clicsbp-idssegmented-azerbaijani-CHIMNEY-1//clicsbp-idssegmented-kumyk-CHIMNEY-1//clicsbp-idssegmented-nogai-CHIMNEY-1//clicsbp-idssegmented-nogai-CHIMNEY-2//clicsbp-idssegmented-nogai-CHIMNEY-3//clicsbp-wold-Sakha-CHIMNEY-1//clicsbp-wold-Sakha-CHIMNEY-2"
     words "b a dʒ a//t ü ŋ ü l ü k//o ʃ a k//t ü t i n + j o l ɨ//p e ʃ + k u t ɨ g ɨ//t u r b a//y œ l e s"
@@ -6564,7 +6552,7 @@ graph [
     family_count 1
   ]
   node [
-    id 547
+    id 546
     label "LADDER"
     occurrences "clicsbp-idssegmented-azerbaijani-LADDER-1//clicsbp-idssegmented-azerbaijani-LADDER-2//clicsbp-idssegmented-kumyk-LADDER-1//clicsbp-idssegmented-nogai-LADDER-1//clicsbp-idssegmented-nogai-LADDER-2//clicsbp-northeuralex-tur-LADDER-1//clicsbp-northeuralex-uzn-LADDER-1//clicsbp-northeuralex-kaz-LADDER-1//clicsbp-northeuralex-kaz-LADDER-2//clicsbp-northeuralex-bak-LADDER-1//clicsbp-northeuralex-tat-LADDER-1//clicsbp-northeuralex-chv-LADDER-1//clicsbp-wold-Sakha-LADDER-1"
     words "p i lː æ k æ n//s œ j k æ m æ + n æ r d i v a n//b a t ɣ ɨ tʃ//b a s a m a k//ʃ a p ɨ r a ʃ//m ɛ ɾ d i v ɛ n//n a r w ɒ n//s ɑ t ə//b ɑ s q ə ʃ//b a θ q ɯ s//b a s q ɤ tɕ//p u s m a//k i r i l i e s"
@@ -6576,7 +6564,7 @@ graph [
     family_count 1
   ]
   node [
-    id 548
+    id 547
     label "BED"
     occurrences "clicsbp-idssegmented-azerbaijani-BED-1//clicsbp-idssegmented-kumyk-BED-1//clicsbp-idssegmented-kumyk-BED-2//clicsbp-idssegmented-nogai-BED-1//clicsbp-northeuralex-tur-BED-1//clicsbp-northeuralex-uzn-BED-1//clicsbp-northeuralex-kaz-BED-1//clicsbp-northeuralex-bak-BED-1//clicsbp-northeuralex-tat-BED-1//clicsbp-northeuralex-tat-BED-2//clicsbp-northeuralex-chv-BED-1//clicsbp-wold-Sakha-BED-1"
     words "tʃ a r p a j ɨ//k a r a w a t//t a x t a m e k//o r ɨ n d ɨ k//j a t a k//j ɒ t ɒ q//k e ɾ e u e t//k a r au a t//j a t a k//u r ɤ n dʑ i r//k r a ʋ a tʲ//o r o n"
@@ -6588,7 +6576,7 @@ graph [
     family_count 1
   ]
   node [
-    id 549
+    id 548
     label "PILLOW"
     occurrences "clicsbp-idssegmented-azerbaijani-PILLOW-1//clicsbp-idssegmented-azerbaijani-PILLOW-2//clicsbp-idssegmented-kumyk-PILLOW-1//clicsbp-idssegmented-kumyk-PILLOW-2//clicsbp-idssegmented-nogai-PILLOW-1//clicsbp-northeuralex-tur-PILLOW-1//clicsbp-northeuralex-uzn-PILLOW-1//clicsbp-northeuralex-kaz-PILLOW-1//clicsbp-northeuralex-bak-PILLOW-1//clicsbp-northeuralex-tat-PILLOW-1//clicsbp-northeuralex-chv-PILLOW-1//clicsbp-northeuralex-chv-PILLOW-2//clicsbp-wold-Sakha-PILLOW-1"
     words "j a s t ɨ g//b a l ɨ ʃ//b o j l u q//u a s t ɨ q//j a s t ɨ k//j a s t ɯ k//j ɒ s t i q//ʒ ɑ s t ə q//m e n d æ r//m e n d æ r//ɕ ɯ t a r//m i n t ɛ r//s ɨ tː ɨ k"
@@ -6600,7 +6588,7 @@ graph [
     family_count 1
   ]
   node [
-    id 550
+    id 549
     label "BLANKET"
     occurrences "clicsbp-idssegmented-azerbaijani-BLANKET-1//clicsbp-idssegmented-azerbaijani-BLANKET-2//clicsbp-idssegmented-kumyk-BLANKET-1//clicsbp-idssegmented-nogai-BLANKET-1//clicsbp-northeuralex-tur-BLANKET-1//clicsbp-northeuralex-tur-BLANKET-2//clicsbp-northeuralex-uzn-BLANKET-1//clicsbp-northeuralex-kaz-BLANKET-1//clicsbp-northeuralex-bak-BLANKET-1//clicsbp-northeuralex-tat-BLANKET-1//clicsbp-northeuralex-chv-BLANKET-1//clicsbp-wold-Sakha-BLANKET-1"
     words "j o r ɣ a n//æ d j a l//y w u r ɣ a n//j u r k a n//œ ɾ t y//j o ɾ g a n//ɒ d j ɒ l//k ø ɾ p e//o d e j a d//j ʊ r g a n//u t i j a l//s u o r ɣ a n"
@@ -6612,7 +6600,7 @@ graph [
     family_count 1
   ]
   node [
-    id 551
+    id 550
     label "CHAIR"
     occurrences "clicsbp-idssegmented-azerbaijani-CHAIR-1//clicsbp-idssegmented-kumyk-CHAIR-1//clicsbp-idssegmented-nogai-CHAIR-1//clicsbp-northeuralex-tur-CHAIR-1//clicsbp-northeuralex-tur-CHAIR-2//clicsbp-northeuralex-uzn-CHAIR-1//clicsbp-northeuralex-kaz-CHAIR-1//clicsbp-northeuralex-bak-CHAIR-1//clicsbp-northeuralex-tat-CHAIR-1//clicsbp-northeuralex-chv-CHAIR-1//clicsbp-wold-Sakha-CHAIR-1//clicsbp-wold-Sakha-CHAIR-2"
     words "s t u l//ʃ a n ʒ a l//j e l t ɨ r g ɨ ʃ//i s k ɛ m l ɛ//s a n d a l j ɛ//o r i n d i q//o ɾ ə n d ə q//u l t ɯ r ɣ ɯ s//u t ɤ r g ɤ tɕ//p u k a n//o l o pː o s//u s t uː l"
@@ -6624,7 +6612,7 @@ graph [
     family_count 1
   ]
   node [
-    id 552
+    id 551
     label "TABLE"
     occurrences "clicsbp-idssegmented-azerbaijani-TABLE-1//clicsbp-idssegmented-azerbaijani-TABLE-2//clicsbp-idssegmented-kumyk-TABLE-1//clicsbp-idssegmented-nogai-TABLE-1//clicsbp-idssegmented-nogai-TABLE-2//clicsbp-northeuralex-tur-TABLE-1//clicsbp-northeuralex-uzn-TABLE-1//clicsbp-northeuralex-kaz-TABLE-1//clicsbp-northeuralex-bak-TABLE-1//clicsbp-northeuralex-tat-TABLE-1//clicsbp-northeuralex-chv-TABLE-1//clicsbp-wold-Sakha-TABLE-1//clicsbp-wold-Sakha-TABLE-2"
     words "s t o l//m a s a//s t o l//s t o l//s ɨ p ɨ r a//m a s a//m ɒ s a//ʊ s t e l//ø θ t æ l//œ s t æ l//s ɘ t ɛ l//o s t u o l//s a n d a l ɨ"
@@ -6636,7 +6624,7 @@ graph [
     family_count 1
   ]
   node [
-    id 553
+    id 552
     label "TORCH OR LAMP"
     occurrences "clicsbp-idssegmented-azerbaijani-TORCHORLAMP-1//clicsbp-idssegmented-azerbaijani-TORCHORLAMP-2//clicsbp-idssegmented-kumyk-TORCHORLAMP-1//clicsbp-idssegmented-kumyk-TORCHORLAMP-2//clicsbp-idssegmented-nogai-TORCHORLAMP-1//clicsbp-wold-Sakha-TORCHORLAMP-1//clicsbp-wold-Sakha-TORCHORLAMP-2"
     words "l a m p a//f æ n æ r//tʃ ɨ r a q//p a n a r//n a p + ʃ ɨ r a k//l aː m p a//b a n aː r"
@@ -6648,7 +6636,7 @@ graph [
     family_count 1
   ]
   node [
-    id 554
+    id 553
     label "SHELF"
     occurrences "clicsbp-idssegmented-azerbaijani-SHELF-1//clicsbp-idssegmented-azerbaijani-SHELF-2//clicsbp-idssegmented-kumyk-SHELF-1//clicsbp-idssegmented-nogai-SHELF-1//clicsbp-northeuralex-tur-SHELF-1//clicsbp-northeuralex-uzn-SHELF-1//clicsbp-northeuralex-kaz-SHELF-1//clicsbp-northeuralex-bak-SHELF-1//clicsbp-northeuralex-tat-SHELF-1//clicsbp-northeuralex-tat-SHELF-2//clicsbp-northeuralex-chv-SHELF-1//clicsbp-northeuralex-chv-SHELF-2//clicsbp-wold-Sakha-SHELF-1"
     words "r æ f//t a x tʃ a//t a q tʃ a//ü n d i r i k//ɾ a f//t ɒ k tʃ a//s ø ɾ e//k æ ʃ t æ//k i ʃ t æ//ʃ ʉ r l e k//ɕ y l ɘ k//s ɛ n t r ɛ//d o l b uː r"
@@ -6660,7 +6648,7 @@ graph [
     family_count 1
   ]
   node [
-    id 555
+    id 554
     label "TROUGH"
     occurrences "clicsbp-idssegmented-azerbaijani-TROUGH-1//clicsbp-idssegmented-azerbaijani-TROUGH-2//clicsbp-idssegmented-kumyk-TROUGH-1//clicsbp-idssegmented-nogai-TROUGH-1//clicsbp-idssegmented-nogai-TROUGH-2//clicsbp-wold-Sakha-TROUGH-1"
     words "n o v//n a v a l tʃ a//tʃ o r ɣ a//ʃ o r g a//o l ɨ k//χ o r uː d a"
@@ -6672,7 +6660,7 @@ graph [
     family_count 1
   ]
   node [
-    id 556
+    id 555
     label "ROOF"
     occurrences "clicsbp-idssegmented-azerbaijani-ROOF-1//clicsbp-idssegmented-kumyk-ROOF-1//clicsbp-idssegmented-nogai-ROOF-1//clicsbp-idssegmented-nogai-ROOF-2//clicsbp-northeuralex-tur-ROOF-1//clicsbp-northeuralex-tur-ROOF-2//clicsbp-northeuralex-uzn-ROOF-1//clicsbp-northeuralex-kaz-ROOF-1//clicsbp-northeuralex-bak-ROOF-1//clicsbp-northeuralex-bak-ROOF-2//clicsbp-northeuralex-tat-ROOF-1//clicsbp-northeuralex-chv-ROOF-1//clicsbp-wold-Sakha-ROOF-1//clicsbp-wold-Sakha-ROOF-2"
     words "d a m//q a l q ɨ//t œ b e//k a l k ɨ//d a m//tʃ a t ɯ//t ɒ m//ʃ ɑ t ə ɾ//t y b æ//q ɯ j ɯ q//t ʉ b æ//t ə r ə//k ɨ r ɨː s a//χ o r u o b u y a"
@@ -6684,7 +6672,7 @@ graph [
     family_count 1
   ]
   node [
-    id 557
+    id 556
     label "THATCH"
     occurrences "clicsbp-idssegmented-azerbaijani-THATCH-1//clicsbp-idssegmented-kumyk-THATCH-1//clicsbp-idssegmented-nogai-THATCH-1"
     words "k ü l æ ʃ + d a m//s a l a m + q a l q ɨ//t o b a n + t œ b e"
@@ -6696,7 +6684,7 @@ graph [
     family_count 1
   ]
   node [
-    id 558
+    id 557
     label "RIDGEPOLE"
     occurrences "clicsbp-idssegmented-azerbaijani-RIDGEPOLE-1//clicsbp-idssegmented-azerbaijani-RIDGEPOLE-2//clicsbp-idssegmented-kumyk-RIDGEPOLE-1//clicsbp-idssegmented-nogai-RIDGEPOLE-1//clicsbp-wold-Sakha-RIDGEPOLE-1"
     words "s œ k m æ//s œ k ü l m æ//tʃ a t a l//m a k a s//s i s"
@@ -6708,7 +6696,7 @@ graph [
     family_count 1
   ]
   node [
-    id 559
+    id 558
     label "RAFTER"
     occurrences "clicsbp-idssegmented-azerbaijani-RAFTER-1//clicsbp-idssegmented-azerbaijani-RAFTER-2//clicsbp-idssegmented-kumyk-RAFTER-1//clicsbp-idssegmented-kumyk-RAFTER-2//clicsbp-idssegmented-nogai-RAFTER-2//clicsbp-idssegmented-nogai-RAFTER-1//clicsbp-wold-Sakha-RAFTER-1"
     words "tʃ a t ɨ//tʃ a t m a//tʃ a t a l//a r q a l ɨ q//m a k a s//a r k a l ɨ k//χ o r u o b u y a + a t a ɣ a"
@@ -6720,7 +6708,7 @@ graph [
     family_count 1
   ]
   node [
-    id 560
+    id 559
     label "BEAM"
     occurrences "clicsbp-idssegmented-azerbaijani-BEAM-1//clicsbp-idssegmented-azerbaijani-BEAM-2//clicsbp-idssegmented-kumyk-BEAM-1//clicsbp-idssegmented-kumyk-BEAM-2//clicsbp-idssegmented-nogai-BEAM-1//clicsbp-idssegmented-nogai-BEAM-2//clicsbp-idssegmented-nogai-BEAM-3//clicsbp-wold-Sakha-BEAM-1"
     words "t i r//k œ n d æ l æ n + t i r//a r q a l ɨ q//i r a x ɨ//a r k a l ɨ k//t a r t p ɨ//s o z b a + a r k a l ɨ k//œ h y œ"
@@ -6732,7 +6720,7 @@ graph [
     family_count 1
   ]
   node [
-    id 561
+    id 560
     label "POST"
     occurrences "clicsbp-idssegmented-azerbaijani-POST-1//clicsbp-idssegmented-azerbaijani-POST-2//clicsbp-idssegmented-kumyk-POST-1//clicsbp-idssegmented-nogai-POST-1//clicsbp-idssegmented-nogai-POST-2//clicsbp-northeuralex-tur-POST-1//clicsbp-northeuralex-uzn-POST-1//clicsbp-northeuralex-kaz-POST-1//clicsbp-northeuralex-bak-POST-1//clicsbp-northeuralex-tat-POST-1//clicsbp-northeuralex-chv-POST-1//clicsbp-wold-Sakha-POST-1//clicsbp-wold-Sakha-POST-2"
     words "s ü t u n//d i r æ k//b a ɣ a n a//b a g a n a//s t o l b//tʃ u b u k//q o n ɒ q//q ɑ d ɑ//k æ r t æ//q o l g a//ʂ ɛ r t ɛ//o s t u o l b a//b a ɣ a n a"
@@ -6744,7 +6732,7 @@ graph [
     family_count 1
   ]
   node [
-    id 562
+    id 561
     label "BOARD"
     occurrences "clicsbp-idssegmented-azerbaijani-BOARD-1//clicsbp-idssegmented-kumyk-BOARD-1//clicsbp-idssegmented-nogai-BOARD-1//clicsbp-northeuralex-tur-BOARD-1//clicsbp-northeuralex-uzn-BOARD-1//clicsbp-northeuralex-kaz-BOARD-1//clicsbp-northeuralex-bak-BOARD-1//clicsbp-northeuralex-tat-BOARD-1//clicsbp-northeuralex-chv-BOARD-1//clicsbp-wold-Sakha-BOARD-1"
     words "t a x t a//t a q t a//t a k t a//t a h t a//t a χ t a//t ɑ q t ɑ//t a q t a//t a k t a//χ ə m a//χ a p t a h ɨ n"
@@ -6756,7 +6744,7 @@ graph [
     family_count 1
   ]
   node [
-    id 563
+    id 562
     label "BRICK"
     occurrences "clicsbp-idssegmented-azerbaijani-BRICK-1//clicsbp-idssegmented-kumyk-BRICK-1//clicsbp-idssegmented-nogai-BRICK-1//clicsbp-wold-Sakha-BRICK-1"
     words "k æ r p i dʒ//k e r p i tʃ//k e r b i ʃ//k i r p iː tʃː e"
@@ -6768,7 +6756,7 @@ graph [
     family_count 1
   ]
   node [
-    id 564
+    id 563
     label "FARMER"
     occurrences "clicsbp-idssegmented-azerbaijani-FARMER-1//clicsbp-idssegmented-kumyk-FARMER-1//clicsbp-idssegmented-nogai-FARMER-1//clicsbp-wold-Sakha-FARMER-1"
     words "f e r m e r//f e r m e r//f e r m e r//b aː h ɨ n a y"
@@ -6780,7 +6768,7 @@ graph [
     family_count 1
   ]
   node [
-    id 565
+    id 564
     label "FIELD"
     occurrences "clicsbp-idssegmented-azerbaijani-FIELD-1//clicsbp-idssegmented-azerbaijani-FIELD-2//clicsbp-idssegmented-kumyk-FIELD-1//clicsbp-idssegmented-nogai-FIELD-1//clicsbp-idssegmented-nogai-FIELD-2//clicsbp-idssegmented-nogai-FIELD-4//clicsbp-idssegmented-nogai-FIELD-3//clicsbp-wold-Sakha-FIELD-1"
     words "t a r l a//z æ m i//a w l a q//d a ŋ ɨ l//k ɨ r//d a l a//a w l a k//b aː h ɨ n a"
@@ -6792,7 +6780,7 @@ graph [
     family_count 1
   ]
   node [
-    id 566
+    id 565
     label "GARDEN"
     occurrences "clicsbp-idssegmented-azerbaijani-GARDEN-1//clicsbp-idssegmented-kumyk-GARDEN-1//clicsbp-idssegmented-nogai-GARDEN-1//clicsbp-wold-Sakha-GARDEN-1"
     words "b a ɣ//b a w//b a w//o ɣ u r u o t"
@@ -6804,7 +6792,7 @@ graph [
     family_count 1
   ]
   node [
-    id 567
+    id 566
     label "CULTIVATE"
     occurrences "clicsbp-idssegmented-azerbaijani-CULTIVATE-1//clicsbp-idssegmented-kumyk-CULTIVATE-1//clicsbp-idssegmented-nogai-CULTIVATE-1//clicsbp-wold-Sakha-CULTIVATE-1"
     words "j e r i + b e dʒ æ r m æ k//t o p u r a q n ɨ + i ʃ l e t m e k//j e r d i + i s l e t y w//s i r i + o ŋ o r"
@@ -6816,7 +6804,7 @@ graph [
     family_count 1
   ]
   node [
-    id 568
+    id 567
     label "FENCE"
     occurrences "clicsbp-idssegmented-azerbaijani-FENCE-1//clicsbp-idssegmented-azerbaijani-FENCE-2//clicsbp-idssegmented-kumyk-FENCE-1//clicsbp-idssegmented-nogai-FENCE-2//clicsbp-idssegmented-nogai-FENCE-1//clicsbp-northeuralex-tur-FENCE-1//clicsbp-northeuralex-uzn-FENCE-1//clicsbp-northeuralex-kaz-FENCE-1//clicsbp-northeuralex-bak-FENCE-1//clicsbp-northeuralex-tat-FENCE-1//clicsbp-northeuralex-chv-FENCE-1//clicsbp-wold-Sakha-FENCE-1"
     words "h a s a r//tʃ æ p æ r//tʃ a l//a z b a r//k a r a//tʃ i t//p a n dʒ a r a//d u ɑ l//q o j m a//q o j m a//χ y m ɛ//k y r y o"
@@ -6828,7 +6816,7 @@ graph [
     family_count 1
   ]
   node [
-    id 569
+    id 568
     label "DITCH"
     occurrences "clicsbp-idssegmented-azerbaijani-DITCH-1//clicsbp-idssegmented-azerbaijani-DITCH-2//clicsbp-idssegmented-kumyk-DITCH-1//clicsbp-idssegmented-kumyk-DITCH-2//clicsbp-idssegmented-nogai-DITCH-1//clicsbp-idssegmented-nogai-DITCH-2//clicsbp-idssegmented-nogai-DITCH-3//clicsbp-wold-Sakha-DITCH-1//clicsbp-wold-Sakha-DITCH-2"
     words "x æ n d æ k//k a n a l//t a t a w u l//o r//e n d e k//ʃ u ŋ k ɨ r//o r//χ a n aː b a//χ o r uː"
@@ -6840,7 +6828,7 @@ graph [
     family_count 1
   ]
   node [
-    id 570
+    id 569
     label "PLOUGH"
     occurrences "clicsbp-idssegmented-azerbaijani-PLOUGH-1//clicsbp-idssegmented-kumyk-PLOUGH-1//clicsbp-idssegmented-nogai-PLOUGH-1//clicsbp-idssegmented-nogai-PLOUGH-2//clicsbp-wold-Sakha-PLOUGH-1"
     words "ʃ u m l a m a g//s ü r m e k//j e r + a j d a w//s a b a n + a j d a w//χ o r u t"
@@ -6852,7 +6840,7 @@ graph [
     family_count 1
   ]
   node [
-    id 571
+    id 570
     label "FURROW"
     occurrences "clicsbp-idssegmented-azerbaijani-FURROW-1//clicsbp-idssegmented-azerbaijani-FURROW-2//clicsbp-idssegmented-kumyk-FURROW-1//clicsbp-idssegmented-kumyk-FURROW-2//clicsbp-idssegmented-nogai-FURROW-1//clicsbp-idssegmented-nogai-FURROW-2//clicsbp-idssegmented-nogai-FURROW-3//clicsbp-wold-Sakha-FURROW-1"
     words "æ k i n + j e r i//ʃ ɨ r ɨ m//s a b a n l ɨ q//p a r a n z a//s a b a n l ɨ k//b a r a z n a//a j d a l g a n + j e r//χ o r u t uː"
@@ -6864,7 +6852,7 @@ graph [
     family_count 1
   ]
   node [
-    id 572
+    id 571
     label "DIG"
     occurrences "clicsbp-idssegmented-azerbaijani-DIG-1//clicsbp-idssegmented-kumyk-DIG-1//clicsbp-idssegmented-nogai-DIG-1//clicsbp-northeuralex-tur-DIG-1//clicsbp-northeuralex-uzn-DIG-1//clicsbp-northeuralex-kaz-DIG-1//clicsbp-northeuralex-bak-DIG-1//clicsbp-northeuralex-tat-DIG-1//clicsbp-northeuralex-chv-DIG-1//clicsbp-northeuralex-chv-DIG-2//clicsbp-wold-Sakha-DIG-1//clicsbp-savelyevturkic-Karaim-DIG-1"
     words "d a m dʒ ɨ l a m a g//t a m d ɨ r m a q//k a z u w//k a z m a k//q a z i m ɒ q//ʊ ŋ g u//q a ð ɯ u//q ɑ z u//tɕ a ʋ//tɕ a k a l a//χ a s//k a z"
@@ -6876,7 +6864,7 @@ graph [
     family_count 1
   ]
   node [
-    id 573
+    id 572
     label "DRIP (EMIT LIQUID)"
     occurrences "clicsbp-idssegmented-azerbaijani-DRIPEMITLIQUID-2//clicsbp-idssegmented-azerbaijani-DRIPEMITLIQUID-1//clicsbp-idssegmented-kumyk-DRIPEMITLIQUID-1//clicsbp-idssegmented-nogai-DRIPEMITLIQUID-2//clicsbp-idssegmented-nogai-DRIPEMITLIQUID-1//clicsbp-wold-Sakha-DRIPEMITLIQUID-1"
     words "d a m dʒ ɨ l a m a g//d a m dʒ ɨ + i l æ + t œ k m æ k//t a m d ɨ r m a q//t a m u w//t a m ʃ ɨ l a p + t y s y w//t a mː a l aː"
@@ -6888,7 +6876,7 @@ graph [
     family_count 1
   ]
   node [
-    id 574
+    id 573
     label "HOE"
     occurrences "clicsbp-idssegmented-azerbaijani-HOE-1//clicsbp-idssegmented-azerbaijani-HOE-2//clicsbp-idssegmented-kumyk-HOE-1//clicsbp-idssegmented-kumyk-HOE-2//clicsbp-idssegmented-nogai-HOE-1//clicsbp-idssegmented-nogai-HOE-2//clicsbp-wold-Sakha-HOE-1"
     words "t o x a//k æ r k i//m a t e k//k a z a//m ä t i k//ʃ a p k ɨ//b a h ɨ m ɲ ɨ"
@@ -6900,7 +6888,7 @@ graph [
     family_count 1
   ]
   node [
-    id 575
+    id 574
     label "ADZE"
     occurrences "clicsbp-idssegmented-azerbaijani-ADZE-1//clicsbp-idssegmented-kumyk-ADZE-1//clicsbp-idssegmented-nogai-ADZE-1"
     words "k æ r k i//b a l t a//b a l t a"
@@ -6912,7 +6900,7 @@ graph [
     family_count 1
   ]
   node [
-    id 576
+    id 575
     label "RAKE"
     occurrences "clicsbp-idssegmented-azerbaijani-RAKE-1//clicsbp-idssegmented-azerbaijani-RAKE-2//clicsbp-idssegmented-kumyk-RAKE-1//clicsbp-idssegmented-nogai-RAKE-1//clicsbp-wold-Sakha-RAKE-1"
     words "d ɨ r m ɨ g//tʃ æ n gʲ//t ɨ r n a w u tʃ//t ɨ r n a w g ɨ ʃ//k ɨ r aː b ɨ l"
@@ -6924,7 +6912,7 @@ graph [
     family_count 1
   ]
   node [
-    id 577
+    id 576
     label "SOW SEEDS"
     occurrences "clicsbp-idssegmented-azerbaijani-SOWSEEDS-1//clicsbp-idssegmented-azerbaijani-SOWSEEDS-2//clicsbp-idssegmented-kumyk-SOWSEEDS-1//clicsbp-idssegmented-nogai-SOWSEEDS-1//clicsbp-idssegmented-nogai-SOWSEEDS-2//clicsbp-wold-Sakha-SOWSEEDS-1"
     words "s a p m æ k//æ k m æ k//tʃ a tʃ m a q//ʃ a ʃ m a k//ʃ a ʃ u w//ɨ s"
@@ -6936,7 +6924,7 @@ graph [
     family_count 1
   ]
   node [
-    id 578
+    id 577
     label "SEED"
     occurrences "clicsbp-idssegmented-azerbaijani-SEED-1//clicsbp-idssegmented-kumyk-SEED-1//clicsbp-idssegmented-nogai-SEED-1//clicsbp-northeuralex-tur-SEED-1//clicsbp-northeuralex-uzn-SEED-1//clicsbp-northeuralex-kaz-SEED-1//clicsbp-northeuralex-bak-SEED-1//clicsbp-northeuralex-tat-SEED-1//clicsbp-northeuralex-chv-SEED-1//clicsbp-wold-Sakha-SEED-1//clicsbp-savelyevturkic-Karaim-SEED-1"
     words "t o x u m//u r l u q//u r l ɨ k//ɛ k i n//æ k i n//t ʉ q ə m//o r l o q//o r l ɤ k//ʋ ə r ə//s i e m e//u r l u k"
@@ -6948,7 +6936,7 @@ graph [
     family_count 1
   ]
   node [
-    id 579
+    id 578
     label "GRAIN"
     occurrences "clicsbp-idssegmented-azerbaijani-GRAIN-1//clicsbp-idssegmented-azerbaijani-GRAIN-2//clicsbp-idssegmented-kumyk-GRAIN-2//clicsbp-idssegmented-kumyk-GRAIN-1//clicsbp-idssegmented-nogai-GRAIN-1//clicsbp-idssegmented-nogai-GRAIN-4//clicsbp-idssegmented-nogai-GRAIN-2//clicsbp-idssegmented-nogai-GRAIN-3//clicsbp-northeuralex-tur-GRAIN-1//clicsbp-northeuralex-uzn-GRAIN-1//clicsbp-northeuralex-kaz-GRAIN-1//clicsbp-northeuralex-bak-GRAIN-1//clicsbp-northeuralex-tat-GRAIN-2//clicsbp-northeuralex-tat-GRAIN-1//clicsbp-northeuralex-chv-GRAIN-1//clicsbp-northeuralex-chv-GRAIN-2//clicsbp-wold-Sakha-GRAIN-1"
     words "t o x u m//d æ n//a ʃ l ɨ q//t i r l i k//a s//a s l ɨ k//t ü j i r//b ü r t i k//t a n ɛ//z a rː a//d æ n//i g e n//o r l ɤ k//i g e n//t ɘ ʂ ɘ//p ɘ r tɕ ɘ//b u r d u k"
@@ -6960,7 +6948,7 @@ graph [
     family_count 1
   ]
   node [
-    id 580
+    id 579
     label "MOW"
     occurrences "clicsbp-idssegmented-azerbaijani-MOW-1//clicsbp-idssegmented-azerbaijani-MOW-2//clicsbp-idssegmented-kumyk-MOW-1//clicsbp-idssegmented-nogai-MOW-1//clicsbp-idssegmented-nogai-MOW-2//clicsbp-wold-Sakha-MOW-1"
     words "b i tʃ m æ k//tʃ a l m a g//o r m a q//ʃ a l u w//o r u w//o ɣ u s"
@@ -6972,7 +6960,7 @@ graph [
     family_count 1
   ]
   node [
-    id 581
+    id 580
     label "SICKLE OR SCYTHE"
     occurrences "clicsbp-idssegmented-azerbaijani-SICKLEORSCYTHE-1//clicsbp-idssegmented-azerbaijani-SICKLEORSCYTHE-2//clicsbp-idssegmented-kumyk-SICKLEORSCYTHE-1//clicsbp-idssegmented-kumyk-SICKLEORSCYTHE-2//clicsbp-idssegmented-nogai-SICKLEORSCYTHE-1//clicsbp-idssegmented-nogai-SICKLEORSCYTHE-2//clicsbp-wold-Sakha-SICKLEORSCYTHE-1"
     words "o r a g//d æ r j a z//o r a q//tʃ a l ɣ ɨ//o r a k//ʃ a l g ɨ//χ o t uː r"
@@ -6984,7 +6972,7 @@ graph [
     family_count 1
   ]
   node [
-    id 582
+    id 581
     label "THRESH"
     occurrences "clicsbp-idssegmented-azerbaijani-THRESH-1//clicsbp-idssegmented-kumyk-THRESH-1//clicsbp-idssegmented-kumyk-THRESH-2//clicsbp-idssegmented-nogai-THRESH-1//clicsbp-wold-Sakha-THRESH-1//clicsbp-wold-Sakha-THRESH-2"
     words "d œ j m æ k//a ʃ l ɨ q + b a s m a q//i nː ɨ r + b a s m a q//b a s t ɨ r u w//s ɨ s//a s t aː"
@@ -6996,7 +6984,7 @@ graph [
     family_count 1
   ]
   node [
-    id 583
+    id 582
     label "STRIKE OR BEAT"
     occurrences "clicsbp-idssegmented-azerbaijani-STRIKEORBEAT-2//clicsbp-idssegmented-azerbaijani-STRIKEORBEAT-1//clicsbp-idssegmented-kumyk-STRIKEORBEAT-1//clicsbp-idssegmented-nogai-STRIKEORBEAT-1//clicsbp-idssegmented-nogai-STRIKEORBEAT-2//clicsbp-idssegmented-nogai-STRIKEORBEAT-3//clicsbp-idssegmented-nogai-STRIKEORBEAT-4//clicsbp-wold-Sakha-STRIKEORBEAT-1//clicsbp-wold-Sakha-STRIKEORBEAT-3//clicsbp-wold-Sakha-STRIKEORBEAT-2"
     words "d œ j m æ k//v u r m a g//u r m a q//u r m a k//t œ b e l e w//u r u w//s o g u w//o ɣ u s//s ɨ s//k ɨ r b aː"
@@ -7008,7 +6996,7 @@ graph [
     family_count 1
   ]
   node [
-    id 584
+    id 583
     label "HARVEST"
     occurrences "clicsbp-idssegmented-azerbaijani-HARVEST-1//clicsbp-idssegmented-kumyk-HARVEST-1//clicsbp-idssegmented-nogai-HARVEST-1"
     words "m æ h s u l//a ʃ l ɨ q//a s l ɨ k"
@@ -7020,7 +7008,7 @@ graph [
     family_count 1
   ]
   node [
-    id 585
+    id 584
     label "WHEAT"
     occurrences "clicsbp-idssegmented-azerbaijani-WHEAT-1//clicsbp-idssegmented-kumyk-WHEAT-1//clicsbp-idssegmented-nogai-WHEAT-1//clicsbp-wold-Sakha-WHEAT-1"
     words "b u ɣ d a//b u d a j//b i j d a j//s e l i e h i n e y"
@@ -7032,7 +7020,7 @@ graph [
     family_count 1
   ]
   node [
-    id 586
+    id 585
     label "BARLEY"
     occurrences "clicsbp-idssegmented-azerbaijani-BARLEY-1//clicsbp-idssegmented-kumyk-BARLEY-1//clicsbp-idssegmented-nogai-BARLEY-1//clicsbp-wold-Sakha-BARLEY-1"
     words "a r p a//a r p a//a r p a//dʒ e h i m i e n"
@@ -7044,7 +7032,7 @@ graph [
     family_count 1
   ]
   node [
-    id 587
+    id 586
     label "MAIZE"
     occurrences "clicsbp-idssegmented-azerbaijani-MAIZE-1//clicsbp-idssegmented-kumyk-MAIZE-1//clicsbp-idssegmented-nogai-MAIZE-1//clicsbp-idssegmented-nogai-MAIZE-2//clicsbp-wold-Sakha-MAIZE-1"
     words "g a r ɣ ɨ d a l ɨ//h a b i ʒ a j//n ä r t ü k//ä ʒ i + b i j d a j//k u k u r u z a"
@@ -7056,7 +7044,7 @@ graph [
     family_count 1
   ]
   node [
-    id 588
+    id 587
     label "RICE"
     occurrences "clicsbp-idssegmented-azerbaijani-RICE-1//clicsbp-idssegmented-kumyk-RICE-1//clicsbp-idssegmented-nogai-RICE-1//clicsbp-wold-Sakha-RICE-1"
     words "d ü j ü//d ü g ü//d ü g i//i r iː s"
@@ -7068,7 +7056,7 @@ graph [
     family_count 1
   ]
   node [
-    id 589
+    id 588
     label "GRASS"
     occurrences "clicsbp-idssegmented-azerbaijani-GRASS-1//clicsbp-idssegmented-kumyk-GRASS-1//clicsbp-idssegmented-kumyk-GRASS-2//clicsbp-idssegmented-nogai-GRASS-2//clicsbp-idssegmented-nogai-GRASS-1//clicsbp-northeuralex-tur-GRASS-1//clicsbp-northeuralex-tur-GRASS-2//clicsbp-northeuralex-uzn-GRASS-1//clicsbp-northeuralex-kaz-GRASS-1//clicsbp-northeuralex-bak-GRASS-1//clicsbp-northeuralex-tat-GRASS-1//clicsbp-northeuralex-chv-GRASS-1//clicsbp-wold-Sakha-GRASS-1//clicsbp-savelyevturkic-Karaim-GRASS-1"
     words "o t//o t//x a l t a//o t//œ l e n//o t//tʃ i m//s a b z a//o t//y l æ n//ʉ l æ n//k u r ə k//o t//o t"
@@ -7080,7 +7068,7 @@ graph [
     family_count 1
   ]
   node [
-    id 590
+    id 589
     label "HAY"
     occurrences "clicsbp-idssegmented-azerbaijani-HAY-1//clicsbp-idssegmented-kumyk-HAY-1//clicsbp-idssegmented-nogai-HAY-1//clicsbp-northeuralex-tur-HAY-1//clicsbp-northeuralex-uzn-HAY-1//clicsbp-northeuralex-kaz-HAY-1//clicsbp-northeuralex-bak-HAY-1//clicsbp-northeuralex-tat-HAY-1//clicsbp-northeuralex-chv-HAY-1//clicsbp-wold-Sakha-HAY-1"
     words "g u r u + o t//b i tʃ e n//p i ʃ e n//k u ɾ u + o t//χ a ʃ a k//ʃ ø p//b e s æ n//p e tɕ æ n//u t ə//o t"
@@ -7092,7 +7080,7 @@ graph [
     family_count 1
   ]
   node [
-    id 591
+    id 590
     label "PLANT (VEGETATION)"
     occurrences "clicsbp-idssegmented-azerbaijani-PLANTVEGETATION-1//clicsbp-idssegmented-kumyk-PLANTVEGETATION-1//clicsbp-idssegmented-nogai-PLANTVEGETATION-1//clicsbp-wold-Sakha-PLANTVEGETATION-1"
     words "b i t k i//œ s ü m l ü k//œ s i m l i k//yː n eː y i"
@@ -7104,7 +7092,7 @@ graph [
     family_count 1
   ]
   node [
-    id 592
+    id 591
     label "PLANT (SOMETHING)"
     occurrences "clicsbp-idssegmented-azerbaijani-PLANTSOMETHING-1//clicsbp-idssegmented-kumyk-PLANTSOMETHING-1//clicsbp-idssegmented-nogai-PLANTSOMETHING-1//clicsbp-wold-Sakha-PLANTSOMETHING-1"
     words "j e t i ʃ d i r m æ k//œ s d ü r m e k//œ s t i r y w//yː nː e r"
@@ -7116,7 +7104,7 @@ graph [
     family_count 1
   ]
   node [
-    id 593
+    id 592
     label "ROOT"
     occurrences "clicsbp-idssegmented-azerbaijani-ROOT-1//clicsbp-idssegmented-kumyk-ROOT-1//clicsbp-idssegmented-nogai-ROOT-1//clicsbp-northeuralex-tur-ROOT-1//clicsbp-northeuralex-uzn-ROOT-2//clicsbp-northeuralex-uzn-ROOT-1//clicsbp-northeuralex-kaz-ROOT-1//clicsbp-northeuralex-bak-ROOT-1//clicsbp-northeuralex-tat-ROOT-1//clicsbp-northeuralex-chv-ROOT-1//clicsbp-wold-Sakha-ROOT-2//clicsbp-wold-Sakha-ROOT-1//clicsbp-savelyevturkic-Karaim-ROOT-1"
     words "k œ k//t a m u r//t a m ɨ r//k œ k//t ɒ m i r//t u b//t ʊ b ə ɾ//t a m ɯ r//t a m ɤ r//t ɯ m a r//t œ r y t//s i l i s//t a m u r"
@@ -7128,7 +7116,7 @@ graph [
     family_count 1
   ]
   node [
-    id 594
+    id 593
     label "BRANCH OR TWIG"
     occurrences "clicsbp-idssegmented-azerbaijani-BRANCHORTWIG-1//clicsbp-idssegmented-kumyk-BRANCHORTWIG-1//clicsbp-idssegmented-nogai-BRANCHORTWIG-1//clicsbp-wold-Sakha-BRANCHORTWIG-1//clicsbp-wold-Sakha-BRANCHORTWIG-2"
     words "b u d a g//b u t a q//b u t a k//l a b aː//m u t u k"
@@ -7140,7 +7128,7 @@ graph [
     family_count 1
   ]
   node [
-    id 595
+    id 594
     label "LEAF"
     occurrences "clicsbp-idssegmented-azerbaijani-LEAF-1//clicsbp-idssegmented-kumyk-LEAF-1//clicsbp-idssegmented-nogai-LEAF-1//clicsbp-northeuralex-tur-LEAF-1//clicsbp-northeuralex-uzn-LEAF-1//clicsbp-northeuralex-kaz-LEAF-1//clicsbp-northeuralex-bak-LEAF-1//clicsbp-northeuralex-tat-LEAF-1//clicsbp-northeuralex-chv-LEAF-1//clicsbp-wold-Sakha-LEAF-1//clicsbp-savelyevturkic-Karaim-LEAF-1"
     words "j a r p a g//u a p ɨ r a q//j a p ɨ r a k//j a p ɾ a k//b a r g//ʒ ɑ p ə ɾ ɑ q//j a p r a q//j a f r a k//ɕ u l ɕ ə//s e b i r d e χ//j a p r a q"
@@ -7152,7 +7140,7 @@ graph [
     family_count 1
   ]
   node [
-    id 596
+    id 595
     label "FLOWER"
     occurrences "clicsbp-idssegmented-azerbaijani-FLOWER-1//clicsbp-idssegmented-kumyk-FLOWER-1//clicsbp-idssegmented-nogai-FLOWER-1//clicsbp-idssegmented-nogai-FLOWER-2//clicsbp-northeuralex-tur-FLOWER-1//clicsbp-northeuralex-uzn-FLOWER-1//clicsbp-northeuralex-kaz-FLOWER-1//clicsbp-northeuralex-bak-FLOWER-1//clicsbp-northeuralex-tat-FLOWER-1//clicsbp-northeuralex-chv-FLOWER-1//clicsbp-wold-Sakha-FLOWER-1//clicsbp-savelyevturkic-Karaim-FLOWER-1"
     words "gʲ ü l//tʃ e tʃ e k//ʃ e ʃ e k e j//g ü l//tʃ i tʃ ɛ k//g u l//g ʊ l//s æ s k æ//tɕ æ tɕ k æ//tɕ ɛ tɕ ɛ k//s i b e kː i//tɕ e tɕ æ g i"
@@ -7164,7 +7152,7 @@ graph [
     family_count 1
   ]
   node [
-    id 597
+    id 596
     label "FIR"
     occurrences "clicsbp-idssegmented-azerbaijani-FIR-1//clicsbp-idssegmented-azerbaijani-FIR-2//clicsbp-idssegmented-kumyk-FIR-1//clicsbp-idssegmented-nogai-FIR-1//clicsbp-idssegmented-nogai-FIR-2//clicsbp-idssegmented-nogai-FIR-3//clicsbp-northeuralex-tur-FIR-1//clicsbp-northeuralex-tur-FIR-2//clicsbp-northeuralex-uzn-FIR-1//clicsbp-northeuralex-kaz-FIR-1//clicsbp-northeuralex-bak-FIR-1//clicsbp-northeuralex-tat-FIR-1//clicsbp-northeuralex-chv-FIR-1//clicsbp-wold-Sakha-FIR-1"
     words "k ü k n a r//a ɣ + ʃ a m + a ɣ a dʒ ɨ//t e l i n a r a t//ʃ ɨ r ʃ ɨ + m a j + k a r a g a j//p i x t a//k a r a g a i + t e r e k//tʃ a m//k œ k n a ɾ//a r tʃ a//ʃ ə ɾ ʃ ɑ//ʃ ɯ r ʃ ɯ//tɕ ɤ r ʃ ɤ//tɕ ə r ə ʂ//χ a r ɨ y a"
@@ -7176,7 +7164,7 @@ graph [
     family_count 1
   ]
   node [
-    id 598
+    id 597
     label "GRAPEVINE"
     occurrences "clicsbp-idssegmented-azerbaijani-GRAPEVINE-1//clicsbp-idssegmented-kumyk-GRAPEVINE-1//clicsbp-idssegmented-nogai-GRAPEVINE-1//clicsbp-idssegmented-nogai-GRAPEVINE-2"
     words "ü z ü m + t æ n æ k i//b o r l a//j u z i m//t a l + ʃ ɨ b ɨ g ɨ"
@@ -7188,7 +7176,7 @@ graph [
     family_count 1
   ]
   node [
-    id 599
+    id 598
     label "TOBACCO"
     occurrences "clicsbp-idssegmented-azerbaijani-TOBACCO-1//clicsbp-idssegmented-kumyk-TOBACCO-1//clicsbp-idssegmented-nogai-TOBACCO-1//clicsbp-wold-Sakha-TOBACCO-1"
     words "t ü t ü n//t a m a k ü//t ä m e k e//t a b a χ"
@@ -7200,7 +7188,7 @@ graph [
     family_count 1
   ]
   node [
-    id 600
+    id 599
     label "SMOKE (INHALE)"
     occurrences "clicsbp-idssegmented-azerbaijani-SMOKEINHALE-1//clicsbp-idssegmented-kumyk-SMOKEINHALE-1//clicsbp-idssegmented-nogai-SMOKEINHALE-1//clicsbp-wold-Sakha-SMOKEINHALE-2//clicsbp-wold-Sakha-SMOKEINHALE-1"
     words "t ü t ü n + t y s t y s ü//t a m a k ü + t ü t ü n//t ä m e k e + t ü t i n//t a r t//t a b a χ t aː"
@@ -7212,7 +7200,7 @@ graph [
     family_count 1
   ]
   node [
-    id 601
+    id 600
     label "PIPE"
     occurrences "clicsbp-idssegmented-azerbaijani-PIPE-1//clicsbp-idssegmented-kumyk-PIPE-1//clicsbp-idssegmented-nogai-PIPE-1//clicsbp-wold-Sakha-PIPE-1"
     words "b o r u//ü lː e//ü lː e//χ a m s a"
@@ -7224,7 +7212,7 @@ graph [
     family_count 1
   ]
   node [
-    id 602
+    id 601
     label "BRASS INSTRUMENT (HORN OR TRUMPET)"
     occurrences "clicsbp-idssegmented-azerbaijani-BRASSINSTRUMENTHORNORTRUMPET-1//clicsbp-idssegmented-azerbaijani-BRASSINSTRUMENTHORNORTRUMPET-2//clicsbp-idssegmented-kumyk-BRASSINSTRUMENTHORNORTRUMPET-1//clicsbp-idssegmented-nogai-BRASSINSTRUMENTHORNORTRUMPET-1//clicsbp-idssegmented-nogai-BRASSINSTRUMENTHORNORTRUMPET-2//clicsbp-idssegmented-nogai-BRASSINSTRUMENTHORNORTRUMPET-3//clicsbp-idssegmented-nogai-BRASSINSTRUMENTHORNORTRUMPET-4"
     words "b o r u//k ü n gʲ//b ɨ r ɣ ɨ//t r u b a//o ʒ a k//k o n a//d ü d i k"
@@ -7236,7 +7224,7 @@ graph [
     family_count 1
   ]
   node [
-    id 603
+    id 602
     label "TREE STUMP"
     occurrences "clicsbp-idssegmented-azerbaijani-TREESTUMP-1//clicsbp-idssegmented-kumyk-TREESTUMP-1//clicsbp-idssegmented-nogai-TREESTUMP-1//clicsbp-idssegmented-nogai-TREESTUMP-2//clicsbp-idssegmented-nogai-TREESTUMP-3//clicsbp-wold-Sakha-TREESTUMP-1//clicsbp-wold-Sakha-TREESTUMP-2"
     words "k œ t ü k//t ü p g ü tʃ//k u k u r t//t ü b i r//t e r e k + t ü p//t œ ŋ y r g e s//tʃ œ ɣ œ tʃ œ k"
@@ -7248,7 +7236,7 @@ graph [
     family_count 1
   ]
   node [
-    id 604
+    id 603
     label "TREE TRUNK"
     occurrences "clicsbp-idssegmented-azerbaijani-TREETRUNK-1//clicsbp-idssegmented-kumyk-TREETRUNK-1//clicsbp-idssegmented-kumyk-TREETRUNK-2//clicsbp-idssegmented-nogai-TREETRUNK-1//clicsbp-idssegmented-nogai-TREETRUNK-2//clicsbp-northeuralex-tur-TREETRUNK-1//clicsbp-northeuralex-uzn-TREETRUNK-1//clicsbp-northeuralex-kaz-TREETRUNK-1//clicsbp-northeuralex-kaz-TREETRUNK-2//clicsbp-northeuralex-bak-TREETRUNK-1//clicsbp-northeuralex-bak-TREETRUNK-2//clicsbp-northeuralex-tat-TREETRUNK-1//clicsbp-northeuralex-chv-TREETRUNK-1//clicsbp-wold-Sakha-TREETRUNK-2//clicsbp-wold-Sakha-TREETRUNK-1"
     words "a ɣ a dʒ ɨ n + gʲ œ v d æ s i//t e r e k n i + b o ü//b a ɣ a n a s ɨ//t e r e k + b u t a g ɨ//t e r e k t i ŋ + k e w d e s i//g œ v d ɛ//o s i m t a//s o j ɑ u//o q p ɑ n//o l o n//k ø b æ k//k æ ʉ s æ//ʋ u l ə//m a s//u m n a s"
@@ -7260,7 +7248,7 @@ graph [
     family_count 1
   ]
   node [
-    id 605
+    id 604
     label "FORKED BRANCH"
     occurrences "clicsbp-idssegmented-azerbaijani-FORKEDBRANCH-1//clicsbp-idssegmented-kumyk-FORKEDBRANCH-1//clicsbp-idssegmented-nogai-FORKEDBRANCH-1//clicsbp-wold-Sakha-FORKEDBRANCH-1"
     words "h a tʃ a + b u d a g//e k i + a j r ɨ + b u t a q//b u t a k + a j ɨ r ɨ//a tʃ aː χ"
@@ -7272,7 +7260,7 @@ graph [
     family_count 1
   ]
   node [
-    id 606
+    id 605
     label "BARK"
     occurrences "clicsbp-idssegmented-azerbaijani-BARK-1//clicsbp-idssegmented-kumyk-BARK-1//clicsbp-idssegmented-nogai-BARK-1//clicsbp-northeuralex-tur-BARK-1//clicsbp-northeuralex-uzn-BARK-1//clicsbp-northeuralex-kaz-BARK-1//clicsbp-northeuralex-bak-BARK-1//clicsbp-northeuralex-tat-BARK-1//clicsbp-northeuralex-chv-BARK-1//clicsbp-wold-Sakha-BARK-1//clicsbp-savelyevturkic-Karaim-BARK-1"
     words "g a b ɨ g//q a b u q//k a b ɨ k//k a b u k//q ɒ b i q//q ɑ b ə q//q a b ɯ q//q ɑ b ɤ k//χ u j ə r//χ a t ɨ r ɨ k//k a b u k"
@@ -7284,7 +7272,7 @@ graph [
     family_count 1
   ]
   node [
-    id 607
+    id 606
     label "SAP"
     occurrences "clicsbp-idssegmented-azerbaijani-SAP-1//clicsbp-idssegmented-kumyk-SAP-1//clicsbp-idssegmented-nogai-SAP-1//clicsbp-wold-Sakha-SAP-1"
     words "b i t k i + ʃ i r æ s i//œ s ü m l ü k l e n i + s u w u//œ s i m l i k t i ŋ + s u w ɨ//s i m e"
@@ -7296,7 +7284,7 @@ graph [
     family_count 1
   ]
   node [
-    id 608
+    id 607
     label "PALM TREE"
     occurrences "clicsbp-idssegmented-azerbaijani-PALMTREE-1//clicsbp-idssegmented-kumyk-PALMTREE-1//clicsbp-idssegmented-kumyk-PALMTREE-2//clicsbp-idssegmented-nogai-PALMTREE-1"
     words "p a l m a//p a l j m a//x u r m a + t e r e k//p a lʲ m a"
@@ -7308,7 +7296,7 @@ graph [
     family_count 1
   ]
   node [
-    id 609
+    id 608
     label "COCONUT"
     occurrences "clicsbp-idssegmented-azerbaijani-COCONUT-1//clicsbp-idssegmented-kumyk-COCONUT-1//clicsbp-idssegmented-nogai-COCONUT-1"
     words "h i n d g o z u + a ɣ a dʒ ɨ//h i n d q o z//k o k o s"
@@ -7320,7 +7308,7 @@ graph [
     family_count 1
   ]
   node [
-    id 610
+    id 609
     label "CITRUS FRUIT"
     occurrences "clicsbp-idssegmented-azerbaijani-CITRUSFRUIT-1//clicsbp-idssegmented-kumyk-CITRUSFRUIT-1//clicsbp-idssegmented-nogai-CITRUSFRUIT-1"
     words "s i t r u s + m e j v æ s i//c i t r u s + j e m i ʃ//c i t r u s + j e m i s"
@@ -7332,7 +7320,7 @@ graph [
     family_count 1
   ]
   node [
-    id 611
+    id 610
     label "BANANA TREE"
     occurrences "clicsbp-idssegmented-azerbaijani-BANANATREE-1//clicsbp-idssegmented-kumyk-BANANATREE-1//clicsbp-idssegmented-nogai-BANANATREE-1"
     words "b a n a n + a ɣ a dʒ ɨ//b a n a n + t e r e k//b a n a n + t e r e k"
@@ -7344,7 +7332,7 @@ graph [
     family_count 1
   ]
   node [
-    id 612
+    id 611
     label "SWEET POTATO"
     occurrences "clicsbp-idssegmented-azerbaijani-SWEETPOTATO-1//clicsbp-idssegmented-kumyk-SWEETPOTATO-1//clicsbp-idssegmented-nogai-SWEETPOTATO-1"
     words "b a t a t//b a t a t//b a t a t"
@@ -7356,7 +7344,7 @@ graph [
     family_count 1
   ]
   node [
-    id 613
+    id 612
     label "YAM"
     occurrences "clicsbp-idssegmented-azerbaijani-YAM-1//clicsbp-idssegmented-kumyk-YAM-1"
     words "b a t a t//b a t a t"
@@ -7368,7 +7356,7 @@ graph [
     family_count 1
   ]
   node [
-    id 614
+    id 613
     label "GOURD"
     occurrences "clicsbp-idssegmented-azerbaijani-GOURD-1//clicsbp-idssegmented-kumyk-GOURD-1//clicsbp-idssegmented-nogai-GOURD-1"
     words "g a b a g//q a b a q//k a b a k"
@@ -7380,7 +7368,7 @@ graph [
     family_count 1
   ]
   node [
-    id 615
+    id 614
     label "PUMPKIN"
     occurrences "clicsbp-idssegmented-azerbaijani-PUMPKIN-1//clicsbp-idssegmented-kumyk-PUMPKIN-1//clicsbp-idssegmented-nogai-PUMPKIN-1"
     words "g a b a g//q a b a q//k a b a k"
@@ -7392,7 +7380,7 @@ graph [
     family_count 1
   ]
   node [
-    id 616
+    id 615
     label "BAMBOO"
     occurrences "clicsbp-idssegmented-azerbaijani-BAMBOO-1//clicsbp-idssegmented-kumyk-BAMBOO-1//clicsbp-idssegmented-nogai-BAMBOO-1//clicsbp-idssegmented-nogai-BAMBOO-2"
     words "b a m b u k//b a m b u k//b a m b u k//n a r + k a m ɨ s"
@@ -7404,7 +7392,7 @@ graph [
     family_count 1
   ]
   node [
-    id 617
+    id 616
     label "SUGAR CANE"
     occurrences "clicsbp-idssegmented-azerbaijani-SUGARCANE-1//clicsbp-idssegmented-kumyk-SUGARCANE-1//clicsbp-idssegmented-nogai-SUGARCANE-1"
     words "ʃ æ k æ r + g a m ɨ ʃ ɨ//b a l q a m u ʃ//b a l g a m ɨ s"
@@ -7416,7 +7404,7 @@ graph [
     family_count 1
   ]
   node [
-    id 618
+    id 617
     label "NETTLE"
     occurrences "clicsbp-idssegmented-azerbaijani-NETTLE-1//clicsbp-idssegmented-kumyk-NETTLE-1//clicsbp-idssegmented-nogai-NETTLE-1//clicsbp-wold-Sakha-NETTLE-1//clicsbp-wold-Sakha-NETTLE-2"
     words "gʲ i dʒ i t k æ n//q ɨ tʃ ɨ t q a n//k ɨ ʃ ɨ t k ɨ n//χ a t ɨː + o t//ɨ t ɨ r ɨː k + o t"
@@ -7428,7 +7416,7 @@ graph [
     family_count 1
   ]
   node [
-    id 619
+    id 618
     label "MUSHROOM"
     occurrences "clicsbp-idssegmented-azerbaijani-MUSHROOM-1//clicsbp-idssegmented-kumyk-MUSHROOM-1//clicsbp-idssegmented-kumyk-MUSHROOM-2//clicsbp-idssegmented-nogai-MUSHROOM-1//clicsbp-northeuralex-tur-MUSHROOM-1//clicsbp-northeuralex-uzn-MUSHROOM-1//clicsbp-northeuralex-kaz-MUSHROOM-1//clicsbp-northeuralex-kaz-MUSHROOM-2//clicsbp-northeuralex-bak-MUSHROOM-1//clicsbp-northeuralex-tat-MUSHROOM-1//clicsbp-northeuralex-chv-MUSHROOM-1//clicsbp-wold-Sakha-MUSHROOM-1//clicsbp-wold-Sakha-MUSHROOM-2"
     words "gʲ œ b æ l æ k//q o l q o t u r//i t q ɨ tʃ ɨ w//ʃ a j + t a n k u l a k//m a n t a ɾ//q o z i q ɒ r i n//q o z ə q ʉ j ɾ ə q//s ɑ ŋ ə ɾ ɑ u k u l ɑ q//b æ ʃ m æ k//g œ m b æ//k ə m p a//t e lː e y//k u n aː χ"
@@ -7440,7 +7428,7 @@ graph [
     family_count 1
   ]
   node [
-    id 620
+    id 619
     label "DO OR MAKE"
     occurrences "clicsbp-idssegmented-azerbaijani-DOORMAKE-1//clicsbp-idssegmented-kumyk-DOORMAKE-1//clicsbp-idssegmented-nogai-DOORMAKE-1//clicsbp-savelyevturkic-Karaim-DOORMAKE-5//clicsbp-savelyevturkic-Karaim-DOORMAKE-1//clicsbp-savelyevturkic-Karaim-DOORMAKE-2//clicsbp-savelyevturkic-Karaim-DOORMAKE-3//clicsbp-savelyevturkic-Karaim-DOORMAKE-4"
     words "e t m æ k//e t m e k//e t y w//j a p//j a s a//e t//q ɯ l//i s l e"
@@ -7452,7 +7440,7 @@ graph [
     family_count 1
   ]
   node [
-    id 621
+    id 620
     label "WORK (LABOUR)"
     occurrences "clicsbp-idssegmented-azerbaijani-WORKLABOUR-1//clicsbp-idssegmented-kumyk-WORKLABOUR-1//clicsbp-idssegmented-nogai-WORKLABOUR-1//clicsbp-idssegmented-nogai-WORKLABOUR-2//clicsbp-northeuralex-tur-WORKLABOUR-1//clicsbp-northeuralex-tur-WORKLABOUR-2//clicsbp-northeuralex-uzn-WORKLABOUR-1//clicsbp-northeuralex-kaz-WORKLABOUR-1//clicsbp-northeuralex-bak-WORKLABOUR-1//clicsbp-northeuralex-tat-WORKLABOUR-1//clicsbp-northeuralex-tat-WORKLABOUR-2//clicsbp-northeuralex-chv-WORKLABOUR-1//clicsbp-northeuralex-chv-WORKLABOUR-2//clicsbp-wold-Sakha-WORKLABOUR-1"
     words "i ʃ//i ʃ//i s//k u lː ɨ k//i ʃ//tʃ a l ɯ ʃ m a//i ʃ//e ŋ b e k//e ʃ//ɛ ʃ//x e z m æ t//ɘ ɕ χ ɘ l//ɘ ɕ l ɛ ʋ//y l e"
@@ -7464,7 +7452,7 @@ graph [
     family_count 1
   ]
   node [
-    id 622
+    id 621
     label "BEND"
     occurrences "clicsbp-idssegmented-azerbaijani-BEND-1//clicsbp-idssegmented-azerbaijani-BEND-2//clicsbp-idssegmented-kumyk-BEND-1//clicsbp-idssegmented-kumyk-BEND-2//clicsbp-idssegmented-nogai-BEND-1//clicsbp-idssegmented-nogai-BEND-2//clicsbp-wold-Sakha-BEND-1//clicsbp-wold-Sakha-BEND-2"
     words "æ j m æ k//g a t l a m a g//b ü k m e k//q a j t a r m a q//b ü k l e w//k a j t a r u w//t o k u r u t//i e χ"
@@ -7476,7 +7464,7 @@ graph [
     family_count 1
   ]
   node [
-    id 623
+    id 622
     label "FOLD"
     occurrences "clicsbp-idssegmented-azerbaijani-FOLD-1//clicsbp-idssegmented-azerbaijani-FOLD-2//clicsbp-idssegmented-kumyk-FOLD-1//clicsbp-idssegmented-kumyk-FOLD-2//clicsbp-idssegmented-nogai-FOLD-1//clicsbp-idssegmented-nogai-FOLD-2//clicsbp-wold-Sakha-FOLD-1"
     words "tʃ e v i r m æ k//j ɨ ɣ m a g//tʃ ɨ r m a m a q//b ü k l e m e k//b ü k l e w//j ɨ j ɨ s t ɨ r ɨ p + s a l u w//b y k + t u t"
@@ -7488,7 +7476,7 @@ graph [
     family_count 1
   ]
   node [
-    id 624
+    id 623
     label "GATHER"
     occurrences "clicsbp-idssegmented-azerbaijani-GATHER-1//clicsbp-idssegmented-kumyk-GATHER-1//clicsbp-idssegmented-nogai-GATHER-1//clicsbp-idssegmented-nogai-GATHER-2//clicsbp-northeuralex-tur-GATHER-1//clicsbp-northeuralex-uzn-GATHER-1//clicsbp-northeuralex-kaz-GATHER-1//clicsbp-northeuralex-bak-GATHER-1//clicsbp-northeuralex-tat-GATHER-1//clicsbp-northeuralex-chv-GATHER-1//clicsbp-wold-Sakha-GATHER-1//clicsbp-wold-Sakha-GATHER-2"
     words "j ɨ ɣ m a g//ʒ ɨ j m a q//j ɨ j u w//j ɨ j n a w//t o p l a m a k//j i ɣ m ɒ q//ʒ ə j ʊ w//j ɯ j ɯ u//t u p l au//p u χ//χ o m u y//m u s"
@@ -7500,7 +7488,7 @@ graph [
     family_count 1
   ]
   node [
-    id 625
+    id 624
     label "PILE UP"
     occurrences "clicsbp-idssegmented-azerbaijani-PILEUP-1//clicsbp-idssegmented-azerbaijani-PILEUP-2//clicsbp-idssegmented-azerbaijani-PILEUP-3//clicsbp-idssegmented-kumyk-PILEUP-1//clicsbp-idssegmented-kumyk-PILEUP-2//clicsbp-idssegmented-kumyk-PILEUP-3//clicsbp-idssegmented-kumyk-PILEUP-4//clicsbp-idssegmented-nogai-PILEUP-1//clicsbp-idssegmented-nogai-PILEUP-2//clicsbp-idssegmented-nogai-PILEUP-3//clicsbp-wold-Sakha-PILEUP-1"
     words "j ɨ ɣ m a g//t o p l a m a g//g a l a m a g//ʒ ɨ j m a q//t o p l a m a q//t œ b e + t œ b e + e t m e k//y s t + y s t ü n e + s a l m a q//j ɨ j n a w//t œ b e + t œ b e + e t y w//y s t i + y s t i n e + s a l u w//tʃ œ m œ χ t œː"
@@ -7512,7 +7500,7 @@ graph [
     family_count 1
   ]
   node [
-    id 626
+    id 625
     label "TIE"
     occurrences "clicsbp-idssegmented-azerbaijani-TIE-1//clicsbp-idssegmented-kumyk-TIE-1//clicsbp-idssegmented-nogai-TIE-1//clicsbp-northeuralex-tur-TIE-1//clicsbp-northeuralex-uzn-TIE-1//clicsbp-northeuralex-kaz-TIE-1//clicsbp-northeuralex-kaz-TIE-2//clicsbp-northeuralex-kaz-TIE-3//clicsbp-northeuralex-kaz-TIE-4//clicsbp-northeuralex-kaz-TIE-5//clicsbp-northeuralex-kaz-TIE-6//clicsbp-northeuralex-kaz-TIE-7//clicsbp-northeuralex-kaz-TIE-8//clicsbp-northeuralex-bak-TIE-1//clicsbp-northeuralex-tat-TIE-1//clicsbp-northeuralex-chv-TIE-1//clicsbp-wold-Sakha-TIE-1//clicsbp-wold-Sakha-TIE-2//clicsbp-savelyevturkic-Karaim-TIE-1"
     words "b a ɣ l a m a g//b a j l a m a q//b a j l a w//b aː l a m a k//b ɒ ɣ l a m ɒ q//b ɑ j l ɑ n ə s t ə ɾ u//b ɑ j l ɑ p + ɑ l u//b ɑ j l ɑ s t ə ɾ u//b ɑ j l ɑ u//b ʊ w//m ɑ t ɑ u//s ɑ b ɑ q t ɑ s t ə ɾ u//ʉ ʃ t ɑ s t ə ɾ u//b æ j l æ y//b æ j l æ ʉ//ɕ ɯ χ//b aː y//k e l g i y//b a v l a"
@@ -7524,7 +7512,7 @@ graph [
     family_count 1
   ]
   node [
-    id 627
+    id 626
     label "SHUT"
     occurrences "clicsbp-idssegmented-azerbaijani-SHUT-1//clicsbp-idssegmented-azerbaijani-SHUT-2//clicsbp-idssegmented-kumyk-SHUT-1//clicsbp-idssegmented-nogai-SHUT-1//clicsbp-northeuralex-tur-SHUT-1//clicsbp-northeuralex-uzn-SHUT-1//clicsbp-northeuralex-kaz-SHUT-1//clicsbp-northeuralex-bak-SHUT-1//clicsbp-northeuralex-tat-SHUT-1//clicsbp-northeuralex-chv-SHUT-1//clicsbp-wold-Sakha-SHUT-1"
     words "b a ɣ l a m a g//œ r t m æ k//u a p m a q//j a b u w//k a p a m a k//j ɒ p m ɒ q//ʒ ɑ b u//j o m ou//j a b u//χ u p//s a p"
@@ -7536,7 +7524,7 @@ graph [
     family_count 1
   ]
   node [
-    id 628
+    id 627
     label "UNTIE"
     occurrences "clicsbp-idssegmented-azerbaijani-UNTIE-1//clicsbp-idssegmented-kumyk-UNTIE-1//clicsbp-idssegmented-nogai-UNTIE-1//clicsbp-wold-Sakha-UNTIE-1"
     words "a tʃ m a g//tʃ e tʃ m e k//ʃ e ʃ y w//s y œ r"
@@ -7548,7 +7536,7 @@ graph [
     family_count 1
   ]
   node [
-    id 629
+    id 628
     label "TURN AROUND"
     occurrences "clicsbp-idssegmented-azerbaijani-TURNAROUND-1//clicsbp-idssegmented-azerbaijani-TURNAROUND-2//clicsbp-idssegmented-kumyk-TURNAROUND-2//clicsbp-idssegmented-kumyk-TURNAROUND-1//clicsbp-idssegmented-nogai-TURNAROUND-1//clicsbp-wold-Sakha-TURNAROUND-1"
     words "a tʃ m a g//a tʃ ɨ l m a g + d œ n m æ k//tʃ e tʃ m e k//a tʃ ɨ p + u a j m a q//a ʃ ɨ n + l j u w//e r g i y"
@@ -7560,7 +7548,7 @@ graph [
     family_count 1
   ]
   node [
-    id 630
+    id 629
     label "OPEN"
     occurrences "clicsbp-idssegmented-azerbaijani-OPEN-1//clicsbp-idssegmented-kumyk-OPEN-1//clicsbp-idssegmented-nogai-OPEN-1//clicsbp-northeuralex-tur-OPEN-1//clicsbp-northeuralex-uzn-OPEN-1//clicsbp-northeuralex-kaz-OPEN-1//clicsbp-northeuralex-kaz-OPEN-2//clicsbp-northeuralex-bak-OPEN-1//clicsbp-northeuralex-tat-OPEN-1//clicsbp-northeuralex-chv-OPEN-1//clicsbp-wold-Sakha-OPEN-1//clicsbp-wold-Sakha-OPEN-2//clicsbp-savelyevturkic-Karaim-OPEN-1"
     words "a tʃ m a g//a tʃ m a q//a ʃ u w//a tʃ m a k//ɒ tʃ m ɒ q//ɑ ʃ u//ɑ ʃ ə p + q o j ʊ w//a s ɯ u//a tɕ u//u ɕ//a s//a r ɨ y//a tɕ"
@@ -7572,7 +7560,7 @@ graph [
     family_count 1
   ]
   node [
-    id 631
+    id 630
     label "CHAIN"
     occurrences "clicsbp-idssegmented-azerbaijani-CHAIN-1//clicsbp-idssegmented-kumyk-CHAIN-1//clicsbp-idssegmented-nogai-CHAIN-1//clicsbp-wold-Sakha-CHAIN-1"
     words "z æ n dʒ i r//ʃ ɨ n ʒ ɨ r//ʃ ɨ n ʒ ɨ r//s ɨ a p"
@@ -7584,7 +7572,7 @@ graph [
     family_count 1
   ]
   node [
-    id 632
+    id 631
     label "ROPE"
     occurrences "clicsbp-idssegmented-azerbaijani-ROPE-1//clicsbp-idssegmented-azerbaijani-ROPE-2//clicsbp-idssegmented-kumyk-ROPE-1//clicsbp-idssegmented-nogai-ROPE-1//clicsbp-wold-Sakha-ROPE-1//clicsbp-savelyevturkic-Karaim-ROPE-1//clicsbp-savelyevturkic-Karaim-ROPE-2"
     words "i p//k æ n d i r//j i p//j i p//b ɨ a//j i p//ø r k e n"
@@ -7596,7 +7584,7 @@ graph [
     family_count 1
   ]
   node [
-    id 633
+    id 632
     label "KNOT"
     occurrences "clicsbp-idssegmented-azerbaijani-KNOT-1//clicsbp-idssegmented-kumyk-KNOT-1//clicsbp-idssegmented-nogai-KNOT-1//clicsbp-northeuralex-tur-KNOT-1//clicsbp-northeuralex-uzn-KNOT-1//clicsbp-northeuralex-kaz-KNOT-1//clicsbp-northeuralex-bak-KNOT-1//clicsbp-northeuralex-tat-KNOT-1//clicsbp-northeuralex-chv-KNOT-1//clicsbp-wold-Sakha-KNOT-1"
     words "d ü j ü n//t ü j u n//t ü j i k//d y j y m//t u g u n//t ʊ j ə n//t ø j ø n//t œ e n//j ə l ə//t y m y k"
@@ -7608,7 +7596,7 @@ graph [
     family_count 1
   ]
   node [
-    id 634
+    id 633
     label "POUND"
     occurrences "clicsbp-idssegmented-azerbaijani-POUND-1//clicsbp-idssegmented-kumyk-POUND-2//clicsbp-idssegmented-kumyk-POUND-1//clicsbp-idssegmented-kumyk-POUND-3//clicsbp-idssegmented-nogai-POUND-1//clicsbp-idssegmented-nogai-POUND-2//clicsbp-wold-Sakha-POUND-1"
     words "j u m r u g l a + v u r m a g//t ü j m e k//j u m u r u q + b u l a n + u r m a q//q a q m a q//j u m ɨ r ɨ k + p a n + u r u w//k a g u w//s u t u r ɣ aː"
@@ -7620,7 +7608,7 @@ graph [
     family_count 1
   ]
   node [
-    id 635
+    id 634
     label "CUT"
     occurrences "clicsbp-idssegmented-azerbaijani-CUT-1//clicsbp-idssegmented-kumyk-CUT-1//clicsbp-idssegmented-nogai-CUT-1//clicsbp-northeuralex-tur-CUT-1//clicsbp-northeuralex-uzn-CUT-1//clicsbp-northeuralex-kaz-CUT-1//clicsbp-northeuralex-bak-CUT-1//clicsbp-northeuralex-tat-CUT-1//clicsbp-northeuralex-chv-CUT-1//clicsbp-wold-Sakha-CUT-1//clicsbp-savelyevturkic-Karaim-CUT-1"
     words "k æ s m æ k//g e s m e k//k e s y w//k ɛ s m ɛ k//k ɛ s m ɒ q//k e s u//q ɯ r q ɯ u//k i s ʉ//k a s//b ɨ s//k e s"
@@ -7632,7 +7620,7 @@ graph [
     family_count 1
   ]
   node [
-    id 636
+    id 635
     label "CHOP"
     occurrences "clicsbp-idssegmented-azerbaijani-CHOP-1//clicsbp-idssegmented-azerbaijani-CHOP-2//clicsbp-idssegmented-kumyk-CHOP-1//clicsbp-idssegmented-kumyk-CHOP-2//clicsbp-idssegmented-kumyk-CHOP-3//clicsbp-idssegmented-nogai-CHOP-1//clicsbp-idssegmented-nogai-CHOP-2//clicsbp-idssegmented-nogai-CHOP-3//clicsbp-wold-Sakha-CHOP-1"
     words "k æ s m æ k//tʃ a p m a g//g e s m e k//t u w r a m a q//u a r m a q//k e s y w//t u w r a w//j a r u w//χ a y ɨ t"
@@ -7644,7 +7632,7 @@ graph [
     family_count 1
   ]
   node [
-    id 637
+    id 636
     label "CARVE"
     occurrences "clicsbp-idssegmented-azerbaijani-CARVE-1//clicsbp-idssegmented-kumyk-CARVE-1//clicsbp-idssegmented-kumyk-CARVE-2//clicsbp-idssegmented-nogai-CARVE-1//clicsbp-wold-Sakha-CARVE-1"
     words "k æ s m æ k//g e s i p + a l m a q//g e s i p + e t m e k//k e s i p + a l u w//b ɨ s"
@@ -7656,7 +7644,7 @@ graph [
     family_count 1
   ]
   node [
-    id 638
+    id 637
     label "CUT DOWN"
     occurrences "clicsbp-idssegmented-azerbaijani-CUTDOWN-1//clicsbp-idssegmented-azerbaijani-CUTDOWN-2//clicsbp-idssegmented-kumyk-CUTDOWN-1//clicsbp-idssegmented-nogai-CUTDOWN-1//clicsbp-wold-Sakha-CUTDOWN-1"
     words "i x t i s a r + e t m æ k//g ɨ s a l t m a g//q ɨ s ɣ a r t m a q//k ɨ s k a r t u w//k e r t"
@@ -7668,7 +7656,7 @@ graph [
     family_count 1
   ]
   node [
-    id 639
+    id 638
     label "SPLIT"
     occurrences "clicsbp-idssegmented-azerbaijani-SPLIT-1//clicsbp-idssegmented-kumyk-SPLIT-1//clicsbp-idssegmented-nogai-SPLIT-2//clicsbp-idssegmented-nogai-SPLIT-1//clicsbp-wold-Sakha-SPLIT-1"
     words "j a r m a g//u a r m a q//u w a t u w//j a r u w//χ a y ɨ t"
@@ -7680,7 +7668,7 @@ graph [
     family_count 1
   ]
   node [
-    id 640
+    id 639
     label "SHEARS"
     occurrences "clicsbp-idssegmented-azerbaijani-SHEARS-1//clicsbp-idssegmented-kumyk-SHEARS-1//clicsbp-idssegmented-nogai-SHEARS-1//clicsbp-wold-Sakha-SHEARS-1"
     words "g a j tʃ ɨ//q a j tʃ ɨ//k o n ɨ ʃ ɨ//k ɨ p t ɨ y"
@@ -7692,7 +7680,7 @@ graph [
     family_count 1
   ]
   node [
-    id 641
+    id 640
     label "AXE"
     occurrences "clicsbp-idssegmented-azerbaijani-AXE-1//clicsbp-idssegmented-kumyk-AXE-1//clicsbp-idssegmented-nogai-AXE-1//clicsbp-wold-Sakha-AXE-1"
     words "b a l t a//b a l t a//b a l t a//s y g e"
@@ -7704,7 +7692,7 @@ graph [
     family_count 1
   ]
   node [
-    id 642
+    id 641
     label "BREAK (DESTROY OR GET DESTROYED)"
     occurrences "clicsbp-idssegmented-azerbaijani-BREAKDESTROYORGETDESTROYED-1//clicsbp-idssegmented-azerbaijani-BREAKDESTROYORGETDESTROYED-2//clicsbp-idssegmented-kumyk-BREAKDESTROYORGETDESTROYED-1//clicsbp-idssegmented-kumyk-BREAKDESTROYORGETDESTROYED-2//clicsbp-idssegmented-nogai-BREAKDESTROYORGETDESTROYED-1//clicsbp-idssegmented-nogai-BREAKDESTROYORGETDESTROYED-2//clicsbp-northeuralex-tur-BREAKDESTROYORGETDESTROYED-1//clicsbp-northeuralex-uzn-BREAKDESTROYORGETDESTROYED-1//clicsbp-northeuralex-kaz-BREAKDESTROYORGETDESTROYED-1//clicsbp-northeuralex-bak-BREAKDESTROYORGETDESTROYED-1//clicsbp-northeuralex-tat-BREAKDESTROYORGETDESTROYED-1//clicsbp-northeuralex-chv-BREAKDESTROYORGETDESTROYED-1//clicsbp-wold-Sakha-BREAKDESTROYORGETDESTROYED-1//clicsbp-wold-Sakha-BREAKDESTROYORGETDESTROYED-2"
     words "g ɨ r m a g//s ɨ n d ɨ r m a g//s ɨ n d ɨ r m a q//b u z m a q//s ɨ n d ɨ r u w//b u z u w//k ɯ ɾ m a k//s i n d i r m ɒ q//s ə n d ə ɾ u//b o ð ou//s ɤ n d ɤ r u//χ u ɕ//a l dʒ a t//y l t y r y t"
@@ -7716,7 +7704,7 @@ graph [
     family_count 1
   ]
   node [
-    id 643
+    id 642
     label "BROKEN"
     occurrences "clicsbp-idssegmented-azerbaijani-BROKEN-1//clicsbp-idssegmented-azerbaijani-BROKEN-2//clicsbp-idssegmented-kumyk-BROKEN-1//clicsbp-idssegmented-kumyk-BROKEN-2//clicsbp-idssegmented-nogai-BROKEN-1//clicsbp-idssegmented-nogai-BROKEN-2"
     words "s ɨ n d ɨ r ɨ l m ɨ ʃ//g ɨ r ɨ l m ɨ ʃ//s ɨ n ɣ a n//b u z u l ɣ a n//s ɨ n g a n//b u z ɨ l g a n"
@@ -7728,7 +7716,7 @@ graph [
     family_count 1
   ]
   node [
-    id 644
+    id 643
     label "TEAR (SHRED)"
     occurrences "clicsbp-idssegmented-azerbaijani-TEARSHRED-1//clicsbp-idssegmented-azerbaijani-TEARSHRED-2//clicsbp-idssegmented-kumyk-TEARSHRED-1//clicsbp-idssegmented-kumyk-TEARSHRED-2//clicsbp-idssegmented-nogai-TEARSHRED-1//clicsbp-idssegmented-nogai-TEARSHRED-2//clicsbp-northeuralex-tur-TEARSHRED-1//clicsbp-northeuralex-uzn-TEARSHRED-1//clicsbp-northeuralex-kaz-TEARSHRED-1//clicsbp-northeuralex-bak-TEARSHRED-1//clicsbp-northeuralex-tat-TEARSHRED-1//clicsbp-northeuralex-tat-TEARSHRED-2//clicsbp-northeuralex-chv-TEARSHRED-1//clicsbp-wold-Sakha-TEARSHRED-1//clicsbp-savelyevturkic-Karaim-TEARSHRED-1"
     words "dʒ ɨ r m a g//j ɨ r t m a g//ü z m e k//j u l q m a q//j ɨ r t u w//ü z y w//j ɯ ɾ t m a k//j i r t m ɒ q//ʒ ə ɾ t u//j ɯ r t ɯ u//œ z ʉ//e r t u//ɕ u r//χ a y a + t a r t//j ɯ r t"
@@ -7740,7 +7728,7 @@ graph [
     family_count 1
   ]
   node [
-    id 645
+    id 644
     label "PULL OFF (SKIN)"
     occurrences "clicsbp-idssegmented-azerbaijani-PULLOFFSKIN-1//clicsbp-idssegmented-kumyk-PULLOFFSKIN-1//clicsbp-idssegmented-nogai-PULLOFFSKIN-1//clicsbp-wold-Sakha-PULLOFFSKIN-1"
     words "d æ r i n i + s ɨ j ɨ r m a g//s ɨ d ɨ r m a q//t e r i + s ɨ d ɨ r u w//t i r iː t i n + s y l"
@@ -7752,7 +7740,7 @@ graph [
     family_count 1
   ]
   node [
-    id 646
+    id 645
     label "RUB"
     occurrences "clicsbp-idssegmented-azerbaijani-RUB-1//clicsbp-idssegmented-azerbaijani-RUB-2//clicsbp-idssegmented-kumyk-RUB-1//clicsbp-idssegmented-kumyk-RUB-2//clicsbp-idssegmented-nogai-RUB-1//clicsbp-idssegmented-nogai-RUB-2//clicsbp-idssegmented-nogai-RUB-3//clicsbp-northeuralex-tur-RUB-1//clicsbp-northeuralex-tur-RUB-2//clicsbp-northeuralex-uzn-RUB-1//clicsbp-northeuralex-kaz-RUB-1//clicsbp-northeuralex-bak-RUB-1//clicsbp-northeuralex-bak-RUB-2//clicsbp-northeuralex-tat-RUB-1//clicsbp-northeuralex-chv-RUB-1//clicsbp-wold-Sakha-RUB-1"
     words "p o z m a g//s i l m æ k//s i b i r m e k//i ʃ ɨ p + t a j d ɨ r m a q//s ɨ p ɨ r u w//s ü r t y w//ɨ s ɨ p + t a j d ɨ r u w//o v m a k//s y ɾ t m ɛ k//s u r k a m ɒ q//ʊ j k e u//ɯ u ɯ u//ɯ ʃ q ɯ u//ɤ ʃ q u//s ə t ə r//aː l"
@@ -7764,7 +7752,7 @@ graph [
     family_count 1
   ]
   node [
-    id 647
+    id 646
     label "STRETCH"
     occurrences "clicsbp-idssegmented-azerbaijani-STRETCH-1//clicsbp-idssegmented-azerbaijani-STRETCH-2//clicsbp-idssegmented-kumyk-STRETCH-1//clicsbp-idssegmented-nogai-STRETCH-1//clicsbp-wold-Sakha-STRETCH-1//clicsbp-wold-Sakha-STRETCH-2"
     words "d a r t m a g//u z a t m a g//t a r t m a q//t a r t u w//uː nː a r//t e n i t"
@@ -7776,7 +7764,7 @@ graph [
     family_count 1
   ]
   node [
-    id 648
+    id 647
     label "PULL"
     occurrences "clicsbp-idssegmented-azerbaijani-PULL-2//clicsbp-idssegmented-azerbaijani-PULL-1//clicsbp-idssegmented-kumyk-PULL-1//clicsbp-idssegmented-nogai-PULL-1//clicsbp-northeuralex-tur-PULL-1//clicsbp-northeuralex-uzn-PULL-1//clicsbp-northeuralex-kaz-PULL-1//clicsbp-northeuralex-bak-PULL-1//clicsbp-northeuralex-tat-PULL-1//clicsbp-northeuralex-chv-PULL-1//clicsbp-wold-Sakha-PULL-1//clicsbp-savelyevturkic-Karaim-PULL-1"
     words "d a r t m a g//tʃ æ k m æ k//t a r t m a q//t a r t u w//tʃ ɛ k m ɛ k//t ɒ r t m ɒ q//t ɑ ɾ t u//t a r t ɯ u//t a r t u//t ə s//t a r t//t a r t"
@@ -7788,7 +7776,7 @@ graph [
     family_count 1
   ]
   node [
-    id 649
+    id 648
     label "WEIGH"
     occurrences "clicsbp-idssegmented-azerbaijani-WEIGH-1//clicsbp-idssegmented-kumyk-WEIGH-1//clicsbp-idssegmented-nogai-WEIGH-1//clicsbp-wold-Sakha-WEIGH-1"
     words "tʃ æ k m æ k//tʃ e k m e k//ʃ e g y w//ɨ y aː"
@@ -7800,7 +7788,7 @@ graph [
     family_count 1
   ]
   node [
-    id 650
+    id 649
     label "SPREAD OUT"
     occurrences "clicsbp-idssegmented-azerbaijani-SPREADOUT-1//clicsbp-idssegmented-azerbaijani-SPREADOUT-2//clicsbp-idssegmented-kumyk-SPREADOUT-1//clicsbp-idssegmented-kumyk-SPREADOUT-2//clicsbp-idssegmented-nogai-SPREADOUT-1//clicsbp-idssegmented-nogai-SPREADOUT-2//clicsbp-idssegmented-nogai-SPREADOUT-3//clicsbp-northeuralex-tur-SPREADOUT-1//clicsbp-northeuralex-uzn-SPREADOUT-1//clicsbp-northeuralex-kaz-SPREADOUT-1//clicsbp-northeuralex-bak-SPREADOUT-1//clicsbp-northeuralex-tat-SPREADOUT-1//clicsbp-northeuralex-chv-SPREADOUT-1//clicsbp-wold-Sakha-SPREADOUT-1"
     words "j a j m a g//i n t i ʃ a r + e t d i r m æ k//u a j m a q//u a j ɨ l m a q//j a j u w//k e ŋ e j t u w//k e ŋ e j u w//s y ɾ m ɛ k//s u r k a m ɒ q//s ʊ j k e u//j a ɣ ɯ u//j a g u//s ɘ r//t e l g e t"
@@ -7812,7 +7800,7 @@ graph [
     family_count 1
   ]
   node [
-    id 651
+    id 650
     label "HANG UP"
     occurrences "clicsbp-idssegmented-azerbaijani-HANGUP-1//clicsbp-idssegmented-kumyk-HANGUP-1//clicsbp-idssegmented-kumyk-HANGUP-2//clicsbp-idssegmented-nogai-HANGUP-1//clicsbp-idssegmented-nogai-HANGUP-2//clicsbp-northeuralex-tur-HANGUP-1//clicsbp-northeuralex-uzn-HANGUP-1//clicsbp-northeuralex-kaz-HANGUP-1//clicsbp-northeuralex-kaz-HANGUP-2//clicsbp-northeuralex-bak-HANGUP-1//clicsbp-northeuralex-tat-HANGUP-1//clicsbp-northeuralex-chv-HANGUP-1//clicsbp-wold-Sakha-HANGUP-1"
     words "a s m a g//i l m e k//a s m a q//i l y w//k ɨ s t ɨ r u w//a s m a k//i l d i r m ɒ q//ə l u//ɑ s ə p + q o j ʊ w//e l e y//a s u//ɕ a k//ɨ y aː"
@@ -7824,7 +7812,7 @@ graph [
     family_count 1
   ]
   node [
-    id 652
+    id 651
     label "SQUEEZE"
     occurrences "clicsbp-idssegmented-azerbaijani-SQUEEZE-1//clicsbp-idssegmented-kumyk-SQUEEZE-1//clicsbp-idssegmented-nogai-SQUEEZE-1//clicsbp-wold-Sakha-SQUEEZE-1"
     words "s ɨ ɣ m a g//s ɨ q m a q//s ɨ g u w//ɨ k"
@@ -7836,7 +7824,7 @@ graph [
     family_count 1
   ]
   node [
-    id 653
+    id 652
     label "POUR"
     occurrences "clicsbp-idssegmented-azerbaijani-POUR-1//clicsbp-idssegmented-azerbaijani-POUR-2//clicsbp-idssegmented-kumyk-POUR-1//clicsbp-idssegmented-kumyk-POUR-2//clicsbp-idssegmented-nogai-POUR-1//clicsbp-idssegmented-nogai-POUR-3//clicsbp-idssegmented-nogai-POUR-2//clicsbp-northeuralex-tur-POUR-1//clicsbp-northeuralex-tur-POUR-2//clicsbp-northeuralex-uzn-POUR-1//clicsbp-northeuralex-kaz-POUR-1//clicsbp-northeuralex-bak-POUR-1//clicsbp-northeuralex-tat-POUR-1//clicsbp-northeuralex-chv-POUR-1//clicsbp-wold-Sakha-POUR-1"
     words "t œ k m æ k//t œ k ü l m æ k//t œ k m e k//q u j m a q//k u j u w//k u j u w//t œ g y w//d œ k m ɛ k//a k ɯ t m a k//q u j m ɒ q//q ʉ j ʊ w//q o j ou//q o j ʊ//t u l t a r//k u t"
@@ -7848,7 +7836,7 @@ graph [
     family_count 1
   ]
   node [
-    id 654
+    id 653
     label "WASH"
     occurrences "clicsbp-idssegmented-azerbaijani-WASH-1//clicsbp-idssegmented-kumyk-WASH-1//clicsbp-idssegmented-nogai-WASH-1//clicsbp-idssegmented-nogai-WASH-2//clicsbp-northeuralex-tur-WASH-1//clicsbp-northeuralex-uzn-WASH-1//clicsbp-northeuralex-kaz-WASH-1//clicsbp-northeuralex-bak-WASH-1//clicsbp-northeuralex-tat-WASH-1//clicsbp-northeuralex-chv-WASH-1//clicsbp-wold-Sakha-WASH-1//clicsbp-savelyevturkic-Karaim-WASH-1"
     words "j u m a g//ʒ u w m a q//j u w m a k//j u w u w//j ɯ k a m a k//j u w m ɒ q//ʒ ʊ w//j ɯ u ɯ u//j ʊ u//ɕ u//s uː y//j u v"
@@ -7860,7 +7848,7 @@ graph [
     family_count 1
   ]
   node [
-    id 655
+    id 654
     label "SWEEP"
     occurrences "clicsbp-idssegmented-azerbaijani-SWEEP-1//clicsbp-idssegmented-kumyk-SWEEP-1//clicsbp-idssegmented-nogai-SWEEP-1//clicsbp-northeuralex-tur-SWEEP-1//clicsbp-northeuralex-uzn-SWEEP-1//clicsbp-northeuralex-kaz-SWEEP-1//clicsbp-northeuralex-bak-SWEEP-1//clicsbp-northeuralex-tat-SWEEP-1//clicsbp-northeuralex-chv-SWEEP-1//clicsbp-wold-Sakha-SWEEP-1"
     words "s ü p ü r m æ k//s i b i r m e k//s ɨ p ɨ r u w//s y p y ɾ m ɛ k//tʃ o t k a l a m ɒ q//s ə p ə ɾ u//h e p e r e y//s e b e r ʉ//ʂ ə l//χ a r b aː"
@@ -7872,7 +7860,7 @@ graph [
     family_count 1
   ]
   node [
-    id 656
+    id 655
     label "BROOM"
     occurrences "clicsbp-idssegmented-azerbaijani-BROOM-1//clicsbp-idssegmented-kumyk-BROOM-1//clicsbp-idssegmented-nogai-BROOM-1//clicsbp-northeuralex-tur-BROOM-1//clicsbp-northeuralex-uzn-BROOM-1//clicsbp-northeuralex-kaz-BROOM-1//clicsbp-northeuralex-bak-BROOM-1//clicsbp-northeuralex-tat-BROOM-1//clicsbp-northeuralex-chv-BROOM-1//clicsbp-wold-Sakha-BROOM-1"
     words "s ü p ü r k æ//s i b i r t k i//s ɨ p ɨ r g ɨ ʃ//s y p y ɾ g ɛ//s u p u r g i//s ə p ə ɾ ʁ ə ʃ//h e p e r t k e//s e b e r k e//ʂ ə p ə r//m iː n ɲ i k"
@@ -7884,7 +7872,7 @@ graph [
     family_count 1
   ]
   node [
-    id 657
+    id 656
     label "TOOL"
     occurrences "clicsbp-idssegmented-azerbaijani-TOOL-1//clicsbp-idssegmented-kumyk-TOOL-1//clicsbp-idssegmented-kumyk-TOOL-2//clicsbp-idssegmented-nogai-TOOL-1//clicsbp-idssegmented-nogai-TOOL-2//clicsbp-wold-Sakha-TOOL-1"
     words "a l æ t//q u r a l//a l a t//a l a t//k u r a l//s e p"
@@ -7896,7 +7884,7 @@ graph [
     family_count 1
   ]
   node [
-    id 658
+    id 657
     label "CARPENTER"
     occurrences "clicsbp-idssegmented-azerbaijani-CARPENTER-1//clicsbp-idssegmented-kumyk-CARPENTER-1//clicsbp-idssegmented-nogai-CARPENTER-1//clicsbp-idssegmented-nogai-CARPENTER-2//clicsbp-wold-Sakha-CARPENTER-1"
     words "d ü l gʲ æ r//a ɣ a tʃ + u s t a//a g a ʃ//u s t a//m a s + uː h a"
@@ -7908,7 +7896,7 @@ graph [
     family_count 1
   ]
   node [
-    id 659
+    id 658
     label "BORE"
     occurrences "clicsbp-idssegmented-azerbaijani-BORE-1//clicsbp-idssegmented-kumyk-BORE-1//clicsbp-idssegmented-nogai-BORE-1//clicsbp-wold-Sakha-BORE-1"
     words "d e ʃ i k//t e ʃ i k//t e s i k//yː tː eː"
@@ -7920,7 +7908,7 @@ graph [
     family_count 1
   ]
   node [
-    id 660
+    id 659
     label "HOLE"
     occurrences "clicsbp-idssegmented-azerbaijani-HOLE-1//clicsbp-idssegmented-kumyk-HOLE-1//clicsbp-idssegmented-nogai-HOLE-1//clicsbp-northeuralex-tur-HOLE-1//clicsbp-northeuralex-tur-HOLE-2//clicsbp-northeuralex-uzn-HOLE-1//clicsbp-northeuralex-kaz-HOLE-1//clicsbp-northeuralex-bak-HOLE-1//clicsbp-northeuralex-tat-HOLE-1//clicsbp-northeuralex-chv-HOLE-1//clicsbp-wold-Sakha-HOLE-2//clicsbp-wold-Sakha-HOLE-1//clicsbp-wold-Sakha-HOLE-3//clicsbp-savelyevturkic-Karaim-HOLE-1"
     words "d e ʃ i k//t e ʃ i k//t e s i k//o j u k//d ɛ l i k//t ɛ ʃ i k//t e s ə k//t i ʃ e k//t i ʃ e k//ʂ ə t ə k//yː t//χ a y a ɣ a s//t e h e ɣ e s//t e ʃ i k"
@@ -7932,7 +7920,7 @@ graph [
     family_count 1
   ]
   node [
-    id 661
+    id 660
     label "HOLLOW OUT"
     occurrences "clicsbp-idssegmented-azerbaijani-HOLLOWOUT-1//clicsbp-idssegmented-azerbaijani-HOLLOWOUT-2//clicsbp-idssegmented-kumyk-HOLLOWOUT-1//clicsbp-idssegmented-nogai-HOLLOWOUT-3//clicsbp-idssegmented-nogai-HOLLOWOUT-1//clicsbp-idssegmented-nogai-HOLLOWOUT-2//clicsbp-idssegmented-nogai-HOLLOWOUT-4//clicsbp-wold-Sakha-HOLLOWOUT-1"
     words "d e ʃ m æ k//o j m a g//t e ʃ m e k//k a z u w//t e s y w//o j u w//u ŋ y w//χ a s"
@@ -7944,7 +7932,7 @@ graph [
     family_count 1
   ]
   node [
-    id 662
+    id 661
     label "SAW"
     occurrences "clicsbp-idssegmented-azerbaijani-SAW-1//clicsbp-idssegmented-azerbaijani-SAW-2//clicsbp-idssegmented-kumyk-SAW-1//clicsbp-idssegmented-nogai-SAW-1//clicsbp-wold-Sakha-SAW-1"
     words "m i ʃ a r//b ɨ tʃ g ɨ//b ɨ tʃ ɣ ɨ//p ɨ ʃ k ɨ//e r b iː"
@@ -7956,7 +7944,7 @@ graph [
     family_count 1
   ]
   node [
-    id 663
+    id 662
     label "HAMMER"
     occurrences "clicsbp-idssegmented-azerbaijani-HAMMER-1//clicsbp-idssegmented-kumyk-HAMMER-1//clicsbp-idssegmented-nogai-HAMMER-1//clicsbp-wold-Sakha-HAMMER-2//clicsbp-wold-Sakha-HAMMER-1"
     words "tʃ æ k i tʃ//tʃ œ k ü tʃ//ʃ œ k i ʃ//b a l t a//œ t y y e"
@@ -7968,7 +7956,7 @@ graph [
     family_count 1
   ]
   node [
-    id 664
+    id 663
     label "NAIL (TOOL)"
     occurrences "clicsbp-idssegmented-azerbaijani-NAILTOOL-1//clicsbp-idssegmented-azerbaijani-NAILTOOL-2//clicsbp-idssegmented-kumyk-NAILTOOL-1//clicsbp-idssegmented-kumyk-NAILTOOL-2//clicsbp-idssegmented-nogai-NAILTOOL-1//clicsbp-northeuralex-tur-NAILTOOL-1//clicsbp-northeuralex-uzn-NAILTOOL-1//clicsbp-northeuralex-kaz-NAILTOOL-1//clicsbp-northeuralex-kaz-NAILTOOL-2//clicsbp-northeuralex-bak-NAILTOOL-1//clicsbp-northeuralex-tat-NAILTOOL-1//clicsbp-northeuralex-chv-NAILTOOL-1//clicsbp-wold-Sakha-NAILTOOL-1"
     words "m i s m a r//m ɨ x//m ɨ x//tʃ j u j//m ɨ k//tʃ i v i//m i χ//m ə q//ʃ e g e//s ø j//q ɑ d a k//p ə t a//t o h o ɣ o"
@@ -7980,7 +7968,7 @@ graph [
     family_count 1
   ]
   node [
-    id 665
+    id 664
     label "GLUE"
     occurrences "clicsbp-idssegmented-azerbaijani-GLUE-1//clicsbp-idssegmented-kumyk-GLUE-1//clicsbp-idssegmented-kumyk-GLUE-2//clicsbp-idssegmented-kumyk-GLUE-3//clicsbp-idssegmented-nogai-GLUE-1//clicsbp-northeuralex-tur-GLUE-1//clicsbp-northeuralex-uzn-GLUE-1//clicsbp-northeuralex-kaz-GLUE-1//clicsbp-northeuralex-bak-GLUE-1//clicsbp-northeuralex-tat-GLUE-1//clicsbp-northeuralex-chv-GLUE-1//clicsbp-wold-Sakha-GLUE-1"
     words "j a p ɨ ʃ g a n//q a l ɨ q//tʃ ɨ r ɨ ʃ//k l e j//j e l i m//j a p ɯ ʃ t ɯ ɾ m a k//j ɒ p i ʃ t i r m ɒ q//ʒ e l ə m d e u//j æ b e ʃ t e r e y//j a b ɤ ʃ t ɤ r u//ɕ ɯ p ə ɕ t a r//s i l i m"
@@ -7992,7 +7980,7 @@ graph [
     family_count 1
   ]
   node [
-    id 666
+    id 665
     label "BLACKSMITH"
     occurrences "clicsbp-idssegmented-azerbaijani-BLACKSMITH-1//clicsbp-idssegmented-kumyk-BLACKSMITH-1//clicsbp-idssegmented-kumyk-BLACKSMITH-2//clicsbp-idssegmented-nogai-BLACKSMITH-1//clicsbp-wold-Sakha-BLACKSMITH-1"
     words "d æ m i r tʃ i//m e tʃː i//t e m i r + u s t a//t e m i r ʃ i//t i m i r + uː h a"
@@ -8004,7 +7992,7 @@ graph [
     family_count 1
   ]
   node [
-    id 667
+    id 666
     label "FORGE"
     occurrences "clicsbp-idssegmented-azerbaijani-FORGE-1//clicsbp-idssegmented-kumyk-FORGE-1//clicsbp-idssegmented-nogai-FORGE-1//clicsbp-wold-Sakha-FORGE-1"
     words "d æ m i r tʃ i x a n a//m e tʃ//t e m i r + ü j//t a p t a y"
@@ -8016,7 +8004,7 @@ graph [
     family_count 1
   ]
   node [
-    id 668
+    id 667
     label "ANVIL"
     occurrences "clicsbp-idssegmented-azerbaijani-ANVIL-1//clicsbp-idssegmented-kumyk-ANVIL-1//clicsbp-idssegmented-kumyk-ANVIL-2//clicsbp-idssegmented-nogai-ANVIL-1//clicsbp-idssegmented-nogai-ANVIL-2//clicsbp-wold-Sakha-ANVIL-1"
     words "z i n d a n//t œ ʃ//t e m i r tʃ i + t œ ʃ//s a n d a l//t a p t a w ɨ ʃ + t e m i r i//k ɨ s t ɨ k"
@@ -8028,7 +8016,7 @@ graph [
     family_count 1
   ]
   node [
-    id 669
+    id 668
     label "GOLD"
     occurrences "clicsbp-idssegmented-azerbaijani-GOLD-1//clicsbp-idssegmented-kumyk-GOLD-1//clicsbp-idssegmented-nogai-GOLD-1//clicsbp-northeuralex-tur-GOLD-1//clicsbp-northeuralex-uzn-GOLD-1//clicsbp-northeuralex-kaz-GOLD-1//clicsbp-northeuralex-bak-GOLD-1//clicsbp-northeuralex-tat-GOLD-1//clicsbp-northeuralex-chv-GOLD-1//clicsbp-wold-Sakha-GOLD-1"
     words "g ɨ z ɨ l//a l t ɨ n//a l t ɨ n//a l t ɯ n//t i lː a//ɑ l t ə n//a l t ɯ n//a l t ɤ n//ɯ l t ə n//k ɨ h ɨ l + k œ m y s"
@@ -8040,7 +8028,7 @@ graph [
     family_count 1
   ]
   node [
-    id 670
+    id 669
     label "SILVER"
     occurrences "clicsbp-idssegmented-azerbaijani-SILVER-1//clicsbp-idssegmented-kumyk-SILVER-1//clicsbp-idssegmented-nogai-SILVER-1//clicsbp-northeuralex-tur-SILVER-1//clicsbp-northeuralex-uzn-SILVER-1//clicsbp-northeuralex-kaz-SILVER-1//clicsbp-northeuralex-bak-SILVER-1//clicsbp-northeuralex-tat-SILVER-1//clicsbp-northeuralex-chv-SILVER-1//clicsbp-wold-Sakha-SILVER-1"
     words "gʲ ü m ü ʃ//g ü m ü ʃ//k ü m i s//g y m y ʃ//k u m u ʃ//k ʊ m ə s//k ø m ø ʃ//k œ m e ʃ//k ɘ m ɘ l//y r y ŋ + k œ m y s"
@@ -8052,7 +8040,7 @@ graph [
     family_count 1
   ]
   node [
-    id 671
+    id 670
     label "BRONZE OR COPPER"
     occurrences "clicsbp-idssegmented-azerbaijani-BRONZEORCOPPER-1//clicsbp-idssegmented-azerbaijani-BRONZEORCOPPER-2//clicsbp-idssegmented-kumyk-BRONZEORCOPPER-1//clicsbp-idssegmented-kumyk-BRONZEORCOPPER-2//clicsbp-idssegmented-kumyk-BRONZEORCOPPER-3//clicsbp-idssegmented-nogai-BRONZEORCOPPER-1//clicsbp-idssegmented-nogai-BRONZEORCOPPER-2"
     words "j e z//t u n dʒ//b a ɣ ɨ r//j e z + b a ɣ ɨ r//t ü m p e k//j e z//b a k i r"
@@ -8064,7 +8052,7 @@ graph [
     family_count 1
   ]
   node [
-    id 672
+    id 671
     label "IRON"
     occurrences "clicsbp-idssegmented-azerbaijani-IRON-1//clicsbp-idssegmented-kumyk-IRON-1//clicsbp-idssegmented-nogai-IRON-1//clicsbp-northeuralex-tur-IRON-1//clicsbp-northeuralex-uzn-IRON-1//clicsbp-northeuralex-kaz-IRON-1//clicsbp-northeuralex-bak-IRON-1//clicsbp-northeuralex-tat-IRON-1//clicsbp-northeuralex-chv-IRON-1//clicsbp-wold-Sakha-IRON-1"
     words "d æ m i r//t e m i r//t e m i r//d ɛ m i ɾ//t ɛ m i r//t e m ə ɾ//t i m e r//t i m e r//t i m ɘ r//t i m i r"
@@ -8076,7 +8064,7 @@ graph [
     family_count 1
   ]
   node [
-    id 673
+    id 672
     label "LEAD (CHEMICAL ELEMENT)"
     occurrences "clicsbp-idssegmented-azerbaijani-LEADCHEMICALELEMENT-1//clicsbp-idssegmented-kumyk-LEADCHEMICALELEMENT-1//clicsbp-idssegmented-nogai-LEADCHEMICALELEMENT-1//clicsbp-idssegmented-nogai-LEADCHEMICALELEMENT-2//clicsbp-wold-Sakha-LEADCHEMICALELEMENT-1"
     words "g u r ɣ u ʃ u n//q o r ɣ a ʃ ɨ n//k o r g a j//k o r g a s ɨ n//s i b i n ɲ eː s"
@@ -8088,7 +8076,7 @@ graph [
     family_count 1
   ]
   node [
-    id 674
+    id 673
     label "MOLD"
     occurrences "clicsbp-idssegmented-azerbaijani-MOLD-1//clicsbp-idssegmented-azerbaijani-MOLD-2//clicsbp-idssegmented-kumyk-MOLD-1//clicsbp-idssegmented-kumyk-MOLD-2//clicsbp-idssegmented-nogai-MOLD-1//clicsbp-idssegmented-nogai-MOLD-2//clicsbp-wold-Sakha-MOLD-1"
     words "f o r m a l a m a g//g æ l i b l æ m æ k//k e p l e m e k//k e p g e + s a l m a q//k e p l e w//k e b i n e + k e l t i r y w//o ŋ o r"
@@ -8100,7 +8088,7 @@ graph [
     family_count 1
   ]
   node [
-    id 675
+    id 674
     label "BASKET"
     occurrences "clicsbp-idssegmented-azerbaijani-BASKET-1//clicsbp-idssegmented-kumyk-BASKET-1//clicsbp-idssegmented-kumyk-BASKET-2//clicsbp-idssegmented-kumyk-BASKET-3//clicsbp-idssegmented-nogai-BASKET-1//clicsbp-wold-Sakha-BASKET-1//clicsbp-wold-Sakha-BASKET-2"
     words "s æ b æ t//z e m g i l//tʃ e t e n//k o r z i n k a//ʃ e t e n//k o r z i n a//t ɨ m t a y"
@@ -8112,7 +8100,7 @@ graph [
     family_count 1
   ]
   node [
-    id 676
+    id 675
     label "MAT"
     occurrences "clicsbp-idssegmented-azerbaijani-MAT-1//clicsbp-idssegmented-kumyk-MAT-1//clicsbp-idssegmented-nogai-MAT-1"
     words "h æ s i r//tʃ ɨ p t a//ʃ ɨ p t a"
@@ -8124,7 +8112,7 @@ graph [
     family_count 1
   ]
   node [
-    id 677
+    id 676
     label "NETBAG"
     occurrences "clicsbp-idssegmented-azerbaijani-NETBAG-1//clicsbp-idssegmented-kumyk-NETBAG-1//clicsbp-idssegmented-nogai-NETBAG-1"
     words "t o r l u + s u m k a//tʃ e l t i r l i + z e m g i l//ʃ e l t e k + d o r b a"
@@ -8136,7 +8124,7 @@ graph [
     family_count 1
   ]
   node [
-    id 678
+    id 677
     label "FAN (OBJECT)"
     occurrences "clicsbp-idssegmented-azerbaijani-FANOBJECT-1//clicsbp-idssegmented-azerbaijani-FANOBJECT-2//clicsbp-idssegmented-kumyk-FANOBJECT-1//clicsbp-idssegmented-kumyk-FANOBJECT-2//clicsbp-idssegmented-kumyk-FANOBJECT-3//clicsbp-idssegmented-nogai-FANOBJECT-1//clicsbp-idssegmented-nogai-FANOBJECT-2//clicsbp-wold-Sakha-FANOBJECT-1"
     words "j e l p i k//j e l p æ j æ n//j e l p i w ü tʃ//j e l p i w ü r//w e n t i l u a t o r//j e l p i w i ʃ//w e n t i l j a t o r//s œ r yː k e t e r"
@@ -8148,7 +8136,7 @@ graph [
     family_count 1
   ]
   node [
-    id 679
+    id 678
     label "FAN (ACTION)"
     occurrences "clicsbp-idssegmented-azerbaijani-FANACTION-1//clicsbp-idssegmented-azerbaijani-FANACTION-2//clicsbp-idssegmented-kumyk-FANACTION-1//clicsbp-idssegmented-nogai-FANACTION-1//clicsbp-idssegmented-nogai-FANACTION-2//clicsbp-idssegmented-nogai-FANACTION-3//clicsbp-wold-Sakha-FANACTION-1"
     words "t æ z æ l m æ k//s æ r i p l æ t m æ k//u a ŋ ɨ r t m a q//j a ŋ ɨ r t u w//j e l + j i b e r y w//j e l p i w i ʃ + p e n + j e l + e t y w//s a p s ɨ n"
@@ -8160,7 +8148,7 @@ graph [
     family_count 1
   ]
   node [
-    id 680
+    id 679
     label "CHISEL"
     occurrences "clicsbp-idssegmented-azerbaijani-CHISEL-1//clicsbp-idssegmented-azerbaijani-CHISEL-2//clicsbp-idssegmented-kumyk-CHISEL-1//clicsbp-idssegmented-kumyk-CHISEL-2//clicsbp-idssegmented-kumyk-CHISEL-3//clicsbp-idssegmented-nogai-CHISEL-1//clicsbp-wold-Sakha-CHISEL-1"
     words "k æ s æ r//i s k æ n æ//g e s g i tʃ//g e s e w ü tʃ//ü t ü r g ü//k e s k i ʃ//tʃ yː tʃː y"
@@ -8172,7 +8160,7 @@ graph [
     family_count 1
   ]
   node [
-    id 681
+    id 680
     label "COLOR"
     occurrences "clicsbp-idssegmented-azerbaijani-COLOR-1//clicsbp-idssegmented-kumyk-COLOR-1//clicsbp-idssegmented-kumyk-COLOR-2//clicsbp-idssegmented-nogai-COLOR-1//clicsbp-wold-Sakha-COLOR-1"
     words "r æ n gʲ//t y s//r e n k//t y s//œ ŋ"
@@ -8184,7 +8172,7 @@ graph [
     family_count 1
   ]
   node [
-    id 682
+    id 681
     label "PAINTING"
     occurrences "clicsbp-idssegmented-azerbaijani-PAINTING-1//clicsbp-idssegmented-azerbaijani-PAINTING-2//clicsbp-idssegmented-kumyk-PAINTING-1//clicsbp-idssegmented-kumyk-PAINTING-2//clicsbp-idssegmented-kumyk-PAINTING-3//clicsbp-idssegmented-nogai-PAINTING-1//clicsbp-idssegmented-nogai-PAINTING-2//clicsbp-idssegmented-nogai-PAINTING-3//clicsbp-northeuralex-tur-PAINTING-1//clicsbp-northeuralex-uzn-PAINTING-1//clicsbp-northeuralex-kaz-PAINTING-1//clicsbp-northeuralex-bak-PAINTING-1//clicsbp-northeuralex-bak-PAINTING-2//clicsbp-northeuralex-tat-PAINTING-1//clicsbp-northeuralex-tat-PAINTING-2//clicsbp-northeuralex-tat-PAINTING-3//clicsbp-northeuralex-chv-PAINTING-1//clicsbp-wold-Sakha-PAINTING-1//clicsbp-wold-Sakha-PAINTING-2"
     words "r æ n gʲ l æ m æ//b o j a m a//b o u a m a q//s ɨ r l a m a q//s u r a t + e t m e k//b o j a w//s ɨ r l a w//s y w r e t + j a s a w//ɾ ɛ s m i n i + j a p m a k//r a s m + s ɒ l m ɒ q//s u ɾ e t + s ɑ l u//h y r æ t + j a h au//r æ s e m + t ø ʃ ø r ø y//r æ s e m + j a s au//s u r æ t + j a s au//s u r æ t l æ ʉ//y k ɛ r//k ɨ r aː s k a l aː//b u t u y"
@@ -8196,7 +8184,7 @@ graph [
     family_count 1
   ]
   node [
-    id 683
+    id 682
     label "MOVE"
     occurrences "clicsbp-idssegmented-azerbaijani-MOVE-1//clicsbp-idssegmented-kumyk-MOVE-1//clicsbp-idssegmented-kumyk-MOVE-2//clicsbp-idssegmented-nogai-MOVE-1//clicsbp-idssegmented-nogai-MOVE-2//clicsbp-idssegmented-nogai-MOVE-3//clicsbp-wold-Sakha-MOVE-1"
     words "t æ r p æ n m æ k//t e r b e n m e k//j u r ü m e k//k o r a l u w//j ɨ b ɨ r d a w//j u r y w//χ a m s aː"
@@ -8208,7 +8196,7 @@ graph [
     family_count 1
   ]
   node [
-    id 684
+    id 683
     label "TURN (SOMETHING)"
     occurrences "clicsbp-idssegmented-azerbaijani-TURNSOMETHING-1//clicsbp-idssegmented-kumyk-TURNSOMETHING-1//clicsbp-idssegmented-kumyk-TURNSOMETHING-2//clicsbp-idssegmented-nogai-TURNSOMETHING-1//clicsbp-idssegmented-nogai-TURNSOMETHING-2//clicsbp-northeuralex-tur-TURNSOMETHING-1//clicsbp-northeuralex-uzn-TURNSOMETHING-1//clicsbp-northeuralex-kaz-TURNSOMETHING-1//clicsbp-northeuralex-bak-TURNSOMETHING-1//clicsbp-northeuralex-tat-TURNSOMETHING-1//clicsbp-northeuralex-chv-TURNSOMETHING-1//clicsbp-savelyevturkic-Karaim-TURNSOMETHING-1"
     words "tʃ e v r i l m æ k//b œ t œ b e n + a j l a n d ɨ r m a q//a j l a n d ɨ r m a q//a j l a n u w//a w d a r ɨ l ɨ n u w//tʃ ɛ v i ɾ m ɛ k//b u r m ɒ q//e k ə n ʃ ə + ʒ ɑ ʁ ə n + ɑ j n ɑ l d ə ɾ u//æ j l æ n d e r e y//b o r u//y p ɘ n t ɛ r//ts i v i r"
@@ -8220,7 +8208,7 @@ graph [
     family_count 1
   ]
   node [
-    id 685
+    id 684
     label "WRAP"
     occurrences "clicsbp-idssegmented-azerbaijani-WRAP-1//clicsbp-idssegmented-kumyk-WRAP-1//clicsbp-idssegmented-nogai-WRAP-1//clicsbp-northeuralex-tur-WRAP-1//clicsbp-northeuralex-uzn-WRAP-1//clicsbp-northeuralex-kaz-WRAP-1//clicsbp-northeuralex-bak-WRAP-1//clicsbp-northeuralex-tat-WRAP-1//clicsbp-northeuralex-chv-WRAP-1//clicsbp-wold-Sakha-WRAP-1"
     words "s a r ɨ m a g//tʃ ɨ r m a m a q//a j l a n u w//s a ɾ m a k//tʃ u l ɣ a m ɒ q//o ɾ ɑ u//t ø r ø y//t œ r ʉ//tɕ ɘ r k ɛ//s uː l aː"
@@ -8232,7 +8220,7 @@ graph [
     family_count 1
   ]
   node [
-    id 686
+    id 685
     label "TWIST (AROUND)"
     occurrences "clicsbp-idssegmented-azerbaijani-TWISTAROUND-2//clicsbp-idssegmented-azerbaijani-TWISTAROUND-1//clicsbp-idssegmented-kumyk-TWISTAROUND-2//clicsbp-idssegmented-kumyk-TWISTAROUND-1//clicsbp-idssegmented-nogai-TWISTAROUND-1//clicsbp-idssegmented-nogai-TWISTAROUND-2//clicsbp-wold-Sakha-TWISTAROUND-1"
     words "s a r ɨ m a g//e ʃ m æ k//tʃ ɨ r m a m a q//b u r m a q//b u r u w//o r a w//e r i y"
@@ -8244,7 +8232,7 @@ graph [
     family_count 1
   ]
   node [
-    id 687
+    id 686
     label "ROLL"
     occurrences "clicsbp-idssegmented-azerbaijani-ROLL-1//clicsbp-idssegmented-kumyk-ROLL-1//clicsbp-idssegmented-kumyk-ROLL-2//clicsbp-idssegmented-nogai-ROLL-1//clicsbp-idssegmented-nogai-ROLL-2//clicsbp-wold-Sakha-ROLL-1"
     words "f ɨ r l a n d ɨ r m a g//a j l a n d ɨ r m a q//d œ g e r e t m e k//a j l a n d ɨ r u w//t œ g e r e k + a j l a n d ɨ r u w//t œ k y n y t"
@@ -8256,7 +8244,7 @@ graph [
     family_count 1
   ]
   node [
-    id 688
+    id 687
     label "DROP (SOMETHING)"
     occurrences "clicsbp-idssegmented-azerbaijani-DROPSOMETHING-1//clicsbp-idssegmented-kumyk-DROPSOMETHING-1//clicsbp-idssegmented-kumyk-DROPSOMETHING-2//clicsbp-idssegmented-nogai-DROPSOMETHING-1//clicsbp-idssegmented-nogai-DROPSOMETHING-2//clicsbp-northeuralex-tur-DROPSOMETHING-1//clicsbp-northeuralex-uzn-DROPSOMETHING-1//clicsbp-northeuralex-kaz-DROPSOMETHING-1//clicsbp-northeuralex-kaz-DROPSOMETHING-2//clicsbp-northeuralex-bak-DROPSOMETHING-1//clicsbp-northeuralex-tat-DROPSOMETHING-1//clicsbp-northeuralex-chv-DROPSOMETHING-1//clicsbp-wold-Sakha-DROPSOMETHING-1"
     words "d a ʃ dʒ ɨ l a m a//t a m d ɨ r m a q//t a mː a q//t a m d ɨ r u w//t a m u w//d y ʃ y ɾ m ɛ k//t u ʃ i r m ɒ q//q ʉ l ɑ t ə p + ɑ l u//q o l d ɑ n + t ʊ s ə ɾ ə p + ɑ l u//t ø ʃ ø r ø p + e b æ r e y//t œ ʃ e r ʉ//y k ɛ r//t y h e r"
@@ -8268,7 +8256,7 @@ graph [
     family_count 1
   ]
   node [
-    id 689
+    id 688
     label "RISE (MOVE UPWARDS)"
     occurrences "clicsbp-idssegmented-azerbaijani-RISEMOVEUPWARDS-1//clicsbp-idssegmented-azerbaijani-RISEMOVEUPWARDS-2//clicsbp-idssegmented-kumyk-RISEMOVEUPWARDS-1//clicsbp-idssegmented-kumyk-RISEMOVEUPWARDS-2//clicsbp-idssegmented-nogai-RISEMOVEUPWARDS-1//clicsbp-idssegmented-nogai-RISEMOVEUPWARDS-2//clicsbp-northeuralex-tur-RISEMOVEUPWARDS-1//clicsbp-northeuralex-uzn-RISEMOVEUPWARDS-1//clicsbp-northeuralex-kaz-RISEMOVEUPWARDS-1//clicsbp-northeuralex-bak-RISEMOVEUPWARDS-1//clicsbp-northeuralex-tat-RISEMOVEUPWARDS-1//clicsbp-northeuralex-chv-RISEMOVEUPWARDS-1//clicsbp-wold-Sakha-RISEMOVEUPWARDS-1//clicsbp-wold-Sakha-RISEMOVEUPWARDS-2//clicsbp-wold-Sakha-RISEMOVEUPWARDS-3//clicsbp-savelyevturkic-Karaim-RISEMOVEUPWARDS-1"
     words "g a l x m a g//tʃ ɨ x m a g//g œ t e r i l m e k//œ r l e n m e k//k œ t e r i l y w//œ r l e n y w//d oː m a k//tʃ i q m ɒ q//ʃ ə ʁ u//q a l q ɯ u//tɕ ɤ g u//t u χ//t a ɣ ɨ s//t u r//ɨ t ɨ n//k e t i r i l"
@@ -8280,7 +8268,7 @@ graph [
     family_count 1
   ]
   node [
-    id 690
+    id 689
     label "GO UP (ASCEND)"
     occurrences "clicsbp-idssegmented-azerbaijani-GOUPASCEND-1//clicsbp-idssegmented-azerbaijani-GOUPASCEND-2//clicsbp-idssegmented-kumyk-GOUPASCEND-2//clicsbp-idssegmented-kumyk-GOUPASCEND-1//clicsbp-idssegmented-nogai-GOUPASCEND-1//clicsbp-idssegmented-nogai-GOUPASCEND-2//clicsbp-wold-Sakha-GOUPASCEND-1//clicsbp-wold-Sakha-GOUPASCEND-2"
     words "g a l x m a g//j u x a r ɨ + gʲ e t m æ k//g œ t e r i l m e k//œ r l e n m e k//k œ t e r i l y w//œ r l e n y w//t a ɣ ɨ s//d a b a y"
@@ -8292,7 +8280,7 @@ graph [
     family_count 1
   ]
   node [
-    id 691
+    id 690
     label "CLIMB"
     occurrences "clicsbp-idssegmented-azerbaijani-CLIMB-1//clicsbp-idssegmented-kumyk-CLIMB-2//clicsbp-idssegmented-kumyk-CLIMB-1//clicsbp-idssegmented-nogai-CLIMB-1//clicsbp-idssegmented-nogai-CLIMB-2//clicsbp-northeuralex-tur-CLIMB-1//clicsbp-northeuralex-uzn-CLIMB-1//clicsbp-northeuralex-kaz-CLIMB-1//clicsbp-northeuralex-bak-CLIMB-1//clicsbp-northeuralex-bak-CLIMB-2//clicsbp-northeuralex-tat-CLIMB-1//clicsbp-northeuralex-chv-CLIMB-1//clicsbp-wold-Sakha-CLIMB-1"
     words "g a l x m a g//œ r l e n m e k//m i n m e k//m i n y w//k œ t e r i l i n y w//t ɯ ɾ m a n m a k//j u q ɒ r i l a m ɒ q//ø ɾ m e l e p + ʃ ə ʁ u//y r m æ l æ y//y r m æ l æ p + m e n e y//ʉ r m æ l æ ʉ//u l ə χ//ɨ t ɨ n"
@@ -8304,7 +8292,7 @@ graph [
     family_count 1
   ]
   node [
-    id 692
+    id 691
     label "GO OUT"
     occurrences "clicsbp-idssegmented-azerbaijani-GOOUT-1//clicsbp-idssegmented-kumyk-GOOUT-1//clicsbp-idssegmented-nogai-GOOUT-1//clicsbp-wold-Sakha-GOOUT-1"
     words "tʃ ɨ x m a g//tʃ ɨ q m a q//ʃ ɨ g u w//t a ɣ ɨ s"
@@ -8316,7 +8304,7 @@ graph [
     family_count 1
   ]
   node [
-    id 693
+    id 692
     label "LIFT"
     occurrences "clicsbp-idssegmented-azerbaijani-LIFT-1//clicsbp-idssegmented-kumyk-LIFT-1//clicsbp-idssegmented-nogai-LIFT-1//clicsbp-northeuralex-tur-LIFT-1//clicsbp-northeuralex-uzn-LIFT-1//clicsbp-northeuralex-kaz-LIFT-2//clicsbp-northeuralex-kaz-LIFT-1//clicsbp-northeuralex-bak-LIFT-1//clicsbp-northeuralex-tat-LIFT-1//clicsbp-northeuralex-chv-LIFT-1//clicsbp-wold-Sakha-LIFT-1"
     words "g a l d ɨ r m a g//g œ t e r m e k//k œ t e r y w//j u k a ɾ ɯ + k a l d ɯ ɾ m a k//k o t a r m ɒ q//k ø t e ɾ u//ʒ o ʁ ɑ ɾ ə l ɑ t u//k y t æ r e y//k ʉ t æ r ʉ//j ə t//k œ t œ χ"
@@ -8328,7 +8316,7 @@ graph [
     family_count 1
   ]
   node [
-    id 694
+    id 693
     label "FALL"
     occurrences "clicsbp-idssegmented-azerbaijani-FALL-1//clicsbp-idssegmented-kumyk-FALL-1//clicsbp-idssegmented-kumyk-FALL-2//clicsbp-idssegmented-kumyk-FALL-3//clicsbp-idssegmented-nogai-FALL-1//clicsbp-idssegmented-nogai-FALL-2//clicsbp-northeuralex-tur-FALL-1//clicsbp-northeuralex-uzn-FALL-1//clicsbp-northeuralex-kaz-FALL-1//clicsbp-northeuralex-kaz-FALL-2//clicsbp-northeuralex-kaz-FALL-3//clicsbp-northeuralex-bak-FALL-1//clicsbp-northeuralex-tat-FALL-1//clicsbp-northeuralex-chv-FALL-1//clicsbp-northeuralex-chv-FALL-2//clicsbp-northeuralex-chv-FALL-3//clicsbp-wold-Sakha-FALL-1//clicsbp-wold-Sakha-FALL-2//clicsbp-savelyevturkic-Karaim-FALL-1//clicsbp-savelyevturkic-Karaim-FALL-2"
     words "d ü ʃ m æ k//j ɨ ɣ ɨ l m a q//a w m a q//t ü ʃ m e k//t y s y w//j ɨ g ɨ l u w//d y ʃ m ɛ k//t u ʃ m ɒ q//q ʉ l ɑ u//ʒ ə ʁ ə l u//t ø m e n d e u//j ɯ ɣ ɯ l ɯ u//e g ɤ l u//k i p//t y r + k i p//t a t ə l s a + a n//o ɣ u n//t y s//j ɯ ɣ ɯ l//tɕ y ʃ"
@@ -8340,7 +8328,7 @@ graph [
     family_count 1
   ]
   node [
-    id 695
+    id 694
     label "GO DOWN (DESCEND)"
     occurrences "clicsbp-idssegmented-azerbaijani-GODOWNDESCEND-1//clicsbp-idssegmented-azerbaijani-GODOWNDESCEND-2//clicsbp-idssegmented-kumyk-GODOWNDESCEND-1//clicsbp-idssegmented-kumyk-GODOWNDESCEND-2//clicsbp-idssegmented-nogai-GODOWNDESCEND-1//clicsbp-idssegmented-nogai-GODOWNDESCEND-2//clicsbp-wold-Sakha-GODOWNDESCEND-1"
     words "d ü ʃ m æ k//a ʃ a ɣ ɨ + gʲ e t m æ k//t ü ʃ m e k//t ü p g e + j u r ü m e k//t y s y w//t œ m e n t e + j u r y w//t y s"
@@ -8352,7 +8340,7 @@ graph [
     family_count 1
   ]
   node [
-    id 696
+    id 695
     label "THROW"
     occurrences "clicsbp-idssegmented-azerbaijani-THROW-1//clicsbp-idssegmented-azerbaijani-THROW-2//clicsbp-idssegmented-kumyk-THROW-1//clicsbp-idssegmented-kumyk-THROW-2//clicsbp-idssegmented-nogai-THROW-2//clicsbp-idssegmented-nogai-THROW-1//clicsbp-northeuralex-tur-THROW-1//clicsbp-northeuralex-uzn-THROW-1//clicsbp-northeuralex-kaz-THROW-1//clicsbp-northeuralex-bak-THROW-1//clicsbp-northeuralex-tat-THROW-1//clicsbp-northeuralex-chv-THROW-1//clicsbp-wold-Sakha-THROW-1//clicsbp-wold-Sakha-THROW-2//clicsbp-savelyevturkic-Karaim-THROW-1"
     words "a t m a g//t u lː a m a g//a t m a q//t a ʃ l a m a q//a t u w//t a s l a w//a t m a k//t a ʃ l a m ɒ q//l ɑ q t ə ɾ u//ɯ r ɣ ɯ t ɯ u//ɤ r g ɤ t u//p ə r a χ//b ɨ r a χ//t a m n aː//a t"
@@ -8364,7 +8352,7 @@ graph [
     family_count 1
   ]
   node [
-    id 697
+    id 696
     label "SHOOT"
     occurrences "clicsbp-idssegmented-azerbaijani-SHOOT-1//clicsbp-idssegmented-azerbaijani-SHOOT-2//clicsbp-idssegmented-kumyk-SHOOT-2//clicsbp-idssegmented-kumyk-SHOOT-1//clicsbp-idssegmented-kumyk-SHOOT-3//clicsbp-idssegmented-nogai-SHOOT-1//clicsbp-idssegmented-nogai-SHOOT-2//clicsbp-northeuralex-tur-SHOOT-1//clicsbp-northeuralex-uzn-SHOOT-1//clicsbp-northeuralex-kaz-SHOOT-1//clicsbp-northeuralex-bak-SHOOT-1//clicsbp-northeuralex-tat-SHOOT-1//clicsbp-northeuralex-chv-SHOOT-1//clicsbp-wold-Sakha-SHOOT-1"
     words "a t m a g//a t ɨ l m a g//u r m a q//a t m a q//a t ɨ p + u r m a q//a t u w//ʃ a n ɨ ʃ u w//a t ɛ ʃ + ɛ t m ɛ k//ɒ t m ɒ q//ɑ t u//a t ɯ u//a t u//p ɛ r//ɨ t"
@@ -8376,7 +8364,7 @@ graph [
     family_count 1
   ]
   node [
-    id 698
+    id 697
     label "CATCH"
     occurrences "clicsbp-idssegmented-azerbaijani-CATCH-1//clicsbp-idssegmented-kumyk-CATCH-1//clicsbp-idssegmented-nogai-CATCH-1//clicsbp-northeuralex-tur-CATCH-1//clicsbp-northeuralex-tur-CATCH-2//clicsbp-northeuralex-uzn-CATCH-1//clicsbp-northeuralex-kaz-CATCH-1//clicsbp-northeuralex-kaz-CATCH-2//clicsbp-northeuralex-bak-CATCH-1//clicsbp-northeuralex-tat-CATCH-1//clicsbp-northeuralex-chv-CATCH-1//clicsbp-wold-Sakha-CATCH-1"
     words "t u t m a g//t u t m a q//ɨ s l a w//t u t m a k//j a k a l a m a k//t u t m ɒ q//q ɑ ɾ m ɑ u//q ɑ ʁ ə p + ɑ l u//t o t ou//t o t u//t ɯ t//χ a p"
@@ -8388,7 +8376,7 @@ graph [
     family_count 1
   ]
   node [
-    id 699
+    id 698
     label "SEIZE"
     occurrences "clicsbp-idssegmented-azerbaijani-SEIZE-1//clicsbp-idssegmented-kumyk-SEIZE-1//clicsbp-idssegmented-kumyk-SEIZE-2//clicsbp-idssegmented-nogai-SEIZE-1//clicsbp-idssegmented-nogai-SEIZE-2//clicsbp-northeuralex-tur-SEIZE-1//clicsbp-northeuralex-tur-SEIZE-2//clicsbp-northeuralex-uzn-SEIZE-1//clicsbp-northeuralex-kaz-SEIZE-1//clicsbp-northeuralex-kaz-SEIZE-2//clicsbp-northeuralex-kaz-SEIZE-3//clicsbp-northeuralex-kaz-SEIZE-4//clicsbp-northeuralex-bak-SEIZE-1//clicsbp-northeuralex-tat-SEIZE-1//clicsbp-northeuralex-chv-SEIZE-1//clicsbp-wold-Sakha-SEIZE-1"
     words "t u t m a g//t u t m a q//q ɨ ɣ ɨ p + t u t m a q//ɨ s l a w//k a g ɨ n + ɨ s l a w//t u t m a k//j a k a l a m a k//t u t a m l a m ɒ q//b ɑ s + s ɑ l u//ʃ ɑ p + b e ɾ ə p + ʉ s t ɑ p + ɑ l u//ʃ ɑ p + b e ɾ u//ʃ ɑ p + e t e + t ʊ s u//t o t o p + a l ɯ u//ɛ l æ k t e r ʉ//t ɯ t//t u t"
@@ -8400,7 +8388,7 @@ graph [
     family_count 1
   ]
   node [
-    id 700
+    id 699
     label "HOLD"
     occurrences "clicsbp-idssegmented-azerbaijani-HOLD-1//clicsbp-idssegmented-kumyk-HOLD-1//clicsbp-idssegmented-nogai-HOLD-1//clicsbp-idssegmented-nogai-HOLD-2//clicsbp-northeuralex-tur-HOLD-1//clicsbp-northeuralex-uzn-HOLD-1//clicsbp-northeuralex-kaz-HOLD-1//clicsbp-northeuralex-kaz-HOLD-2//clicsbp-northeuralex-bak-HOLD-1//clicsbp-northeuralex-tat-HOLD-1//clicsbp-northeuralex-chv-HOLD-1//clicsbp-wold-Sakha-HOLD-1"
     words "t u t m a g//t u t m a q//t u t u w//ɨ s l a p + t u r u w//t u t m a k//t u t m ɒ q//t ʉ t u//ʉ s t ɑ u//t o t ou//t o t u//t ɯ t//t u t"
@@ -8412,7 +8400,7 @@ graph [
     family_count 1
   ]
   node [
-    id 701
+    id 700
     label "TRAP (CATCH)"
     occurrences "clicsbp-idssegmented-azerbaijani-TRAPCATCH-1//clicsbp-idssegmented-kumyk-TRAPCATCH-1//clicsbp-idssegmented-kumyk-TRAPCATCH-2//clicsbp-idssegmented-nogai-TRAPCATCH-1//clicsbp-idssegmented-nogai-TRAPCATCH-2//clicsbp-wold-Sakha-TRAPCATCH-1//clicsbp-wold-Sakha-TRAPCATCH-2//clicsbp-wold-Sakha-TRAPCATCH-3//clicsbp-wold-Sakha-TRAPCATCH-4"
     words "t u t m a g//q a p ɣ ɨ n ɣ a + t u t m a q//t u z a q ɣ a + t u t m a q//ɨ s l a w//a w l a w//χ a p k aː nː aː//tʃ aː r k aː nː aː//t u h a χ t aː//s o χ s o l oː"
@@ -8424,7 +8412,7 @@ graph [
     family_count 1
   ]
   node [
-    id 702
+    id 701
     label "SHAKE"
     occurrences "clicsbp-idssegmented-azerbaijani-SHAKE-1//clicsbp-idssegmented-azerbaijani-SHAKE-2//clicsbp-idssegmented-kumyk-SHAKE-1//clicsbp-idssegmented-nogai-SHAKE-1//clicsbp-idssegmented-nogai-SHAKE-2//clicsbp-northeuralex-tur-SHAKE-1//clicsbp-northeuralex-tur-SHAKE-2//clicsbp-northeuralex-uzn-SHAKE-1//clicsbp-northeuralex-kaz-SHAKE-1//clicsbp-northeuralex-kaz-SHAKE-2//clicsbp-northeuralex-bak-SHAKE-1//clicsbp-northeuralex-tat-SHAKE-1//clicsbp-northeuralex-chv-SHAKE-1//clicsbp-northeuralex-chv-SHAKE-2//clicsbp-wold-Sakha-SHAKE-1"
     words "s i l k æ l æ m æ k//j ɨ r ɣ a l a m a g//s i l k m e k//s i l k y w//k o z g a w//s a ɾ s m a k//tʃ a l k a m a k//tʃ a j q a m ɒ q//d ə ɾ ə l d e t u//s e l k ə l d e t u//h e l k e t e y//s e l k e t ʉ//l ə k a//s i l ɛ n t ɛ r//s a χ s ɨ y"
@@ -8436,7 +8424,7 @@ graph [
     family_count 1
   ]
   node [
-    id 703
+    id 702
     label "FLOW"
     occurrences "clicsbp-idssegmented-azerbaijani-FLOW-1//clicsbp-idssegmented-azerbaijani-FLOW-2//clicsbp-idssegmented-kumyk-FLOW-1//clicsbp-idssegmented-kumyk-FLOW-2//clicsbp-idssegmented-nogai-FLOW-2//clicsbp-idssegmented-nogai-FLOW-1//clicsbp-idssegmented-nogai-FLOW-3//clicsbp-northeuralex-tur-FLOW-1//clicsbp-northeuralex-uzn-FLOW-1//clicsbp-northeuralex-kaz-FLOW-1//clicsbp-northeuralex-bak-FLOW-1//clicsbp-northeuralex-tat-FLOW-1//clicsbp-northeuralex-chv-FLOW-1//clicsbp-wold-Sakha-FLOW-1//clicsbp-savelyevturkic-Karaim-FLOW-1"
     words "a x m a//s e l + k i m i + a x m a//t œ g ü l m e k//q u ü l m a q//a g u w//t œ g u l y w//k u j ɨ l u w//a k m a k//ɒ q m ɒ q//ɑ ʁ u//a ɣ ɯ u//a g u//j u χ//u h u n//a k"
@@ -8448,7 +8436,7 @@ graph [
     family_count 1
   ]
   node [
-    id 704
+    id 703
     label "SINK (DESCEND)"
     occurrences "clicsbp-idssegmented-azerbaijani-SINKDESCEND-1//clicsbp-idssegmented-azerbaijani-SINKDESCEND-2//clicsbp-idssegmented-kumyk-SINKDESCEND-1//clicsbp-idssegmented-kumyk-SINKDESCEND-2//clicsbp-idssegmented-nogai-SINKDESCEND-1//clicsbp-idssegmented-nogai-SINKDESCEND-2//clicsbp-idssegmented-nogai-SINKDESCEND-3//clicsbp-idssegmented-nogai-SINKDESCEND-4//clicsbp-northeuralex-tur-SINKDESCEND-1//clicsbp-northeuralex-uzn-SINKDESCEND-1//clicsbp-northeuralex-kaz-SINKDESCEND-1//clicsbp-northeuralex-bak-SINKDESCEND-1//clicsbp-northeuralex-tat-SINKDESCEND-1//clicsbp-northeuralex-chv-SINKDESCEND-1//clicsbp-wold-Sakha-SINKDESCEND-1"
     words "b a t m a g//s u j a + b a t ɨ r ɨ l m a g//b a t m a q//g œ m ü l m e k//s u w g a//b a t u w//k œ m i l y w//j u t ɨ l u w//b a t m a k//ɣ a r q + b o l m ɒ q//m ɑ l t ə ʁ u//b a t ɯ u//b a t u//p u t//t i m i r"
@@ -8460,7 +8448,7 @@ graph [
     family_count 1
   ]
   node [
-    id 705
+    id 704
     label "FLOAT"
     occurrences "clicsbp-idssegmented-azerbaijani-FLOAT-1//clicsbp-idssegmented-kumyk-FLOAT-1//clicsbp-idssegmented-nogai-FLOAT-1//clicsbp-idssegmented-nogai-FLOAT-2//clicsbp-wold-Sakha-FLOAT-1"
     words "s u j u n + ü z ü + i l æ + ü z m æ k//j u z m e k//j u z y w//j a l d a w//u h u n"
@@ -8472,7 +8460,7 @@ graph [
     family_count 1
   ]
   node [
-    id 706
+    id 705
     label "SWIM"
     occurrences "clicsbp-idssegmented-azerbaijani-SWIM-1//clicsbp-idssegmented-kumyk-SWIM-1//clicsbp-idssegmented-nogai-SWIM-1//clicsbp-northeuralex-tur-SWIM-1//clicsbp-northeuralex-uzn-SWIM-1//clicsbp-northeuralex-kaz-SWIM-1//clicsbp-northeuralex-kaz-SWIM-2//clicsbp-northeuralex-kaz-SWIM-3//clicsbp-northeuralex-bak-SWIM-1//clicsbp-northeuralex-tat-SWIM-1//clicsbp-northeuralex-chv-SWIM-1//clicsbp-wold-Sakha-SWIM-1//clicsbp-wold-Sakha-SWIM-2//clicsbp-savelyevturkic-Karaim-SWIM-1"
     words "ü z m æ k//j u z m e k//j a l d a w//j y z m ɛ k//s u z m ɒ q//ʒ ʊ z u//m ɑ l t u//q ɑ l ə q t ɑ u//j o ð ø y//j œ z ʉ//i ʂ//χ a r b aː//u h u n//j y z"
@@ -8484,7 +8472,7 @@ graph [
     family_count 1
   ]
   node [
-    id 707
+    id 706
     label "DIVE"
     occurrences "clicsbp-idssegmented-azerbaijani-DIVE-1//clicsbp-idssegmented-azerbaijani-DIVE-2//clicsbp-idssegmented-kumyk-DIVE-1//clicsbp-idssegmented-nogai-DIVE-1//clicsbp-northeuralex-tur-DIVE-1//clicsbp-northeuralex-uzn-DIVE-1//clicsbp-northeuralex-kaz-DIVE-1//clicsbp-northeuralex-bak-DIVE-1//clicsbp-northeuralex-tat-DIVE-1//clicsbp-northeuralex-chv-DIVE-1//clicsbp-wold-Sakha-DIVE-1"
     words "dʒ u mː a g//b a ʃ + v u r m a g//tʃ o m u l m a q//j u z y w//d a l m a k//tʃ uː mː ɒ q//s ʊ ŋ g u//s u m ɯ u//tɕ u m u//tɕ ə m//u m u s"
@@ -8496,7 +8484,7 @@ graph [
     family_count 1
   ]
   node [
-    id 708
+    id 707
     label "SPLASH"
     occurrences "clicsbp-idssegmented-azerbaijani-SPLASH-1//clicsbp-idssegmented-azerbaijani-SPLASH-2//clicsbp-idssegmented-kumyk-SPLASH-1//clicsbp-idssegmented-kumyk-SPLASH-2//clicsbp-idssegmented-kumyk-SPLASH-3//clicsbp-idssegmented-nogai-SPLASH-1//clicsbp-wold-Sakha-SPLASH-1//clicsbp-wold-Sakha-SPLASH-2"
     words "l æ p æ l æ n m æ k//d a l ɣ a l a n m a g//s u w + tʃ a tʃ ɨ r a t m a q//ʃ a r p ɨ lː a m a q//tʃ a l q ɨ n m a q//s u w d a + ʃ a r k ɨ l d a n + t u r u w//ɨ h ɨ a χ t a s//tʃ a l ɨ m n aː"
@@ -8508,7 +8496,7 @@ graph [
     family_count 1
   ]
   node [
-    id 709
+    id 708
     label "FLY (MOVE THROUGH AIR)"
     occurrences "clicsbp-idssegmented-azerbaijani-FLYMOVETHROUGHAIR-1//clicsbp-idssegmented-kumyk-FLYMOVETHROUGHAIR-1//clicsbp-idssegmented-nogai-FLYMOVETHROUGHAIR-1//clicsbp-northeuralex-tur-FLYMOVETHROUGHAIR-1//clicsbp-northeuralex-uzn-FLYMOVETHROUGHAIR-1//clicsbp-northeuralex-kaz-FLYMOVETHROUGHAIR-1//clicsbp-northeuralex-bak-FLYMOVETHROUGHAIR-1//clicsbp-northeuralex-tat-FLYMOVETHROUGHAIR-1//clicsbp-northeuralex-chv-FLYMOVETHROUGHAIR-1//clicsbp-wold-Sakha-FLYMOVETHROUGHAIR-1//clicsbp-savelyevturkic-Karaim-FLYMOVETHROUGHAIR-1"
     words "u tʃ m a g//u tʃ m a q//u ʃ u w//u tʃ m a k//u tʃ m ɒ q//ʉ ʃ u//o s ou//o tɕ u//ʋ ɘ ɕ//k œ t//u tɕ"
@@ -8520,7 +8508,7 @@ graph [
     family_count 1
   ]
   node [
-    id 710
+    id 709
     label "CRAWL OR CREEP"
     occurrences "clicsbp-idssegmented-azerbaijani-CRAWLORCREEP-1//clicsbp-idssegmented-kumyk-CRAWLORCREEP-1//clicsbp-idssegmented-nogai-CRAWLORCREEP-1//clicsbp-idssegmented-nogai-CRAWLORCREEP-2//clicsbp-wold-Sakha-CRAWLORCREEP-1"
     words "s ü r ü n m æ k//s ü j k e l m e k//e m e k l e w//j a l d a p + b a r u w//s ɨː l"
@@ -8532,7 +8520,7 @@ graph [
     family_count 1
   ]
   node [
-    id 711
+    id 710
     label "KNEEL"
     occurrences "clicsbp-idssegmented-azerbaijani-KNEEL-1//clicsbp-idssegmented-kumyk-KNEEL-1//clicsbp-idssegmented-nogai-KNEEL-1//clicsbp-idssegmented-nogai-KNEEL-2//clicsbp-wold-Sakha-KNEEL-1"
     words "d i z + y s t æ + d u r m a g//t o b u q ɣ a + t u r m a q//t i z g e + t u r u w//ʃ œ g y w//t o b u k t a n"
@@ -8544,7 +8532,7 @@ graph [
     family_count 1
   ]
   node [
-    id 712
+    id 711
     label "CROUCH"
     occurrences "clicsbp-idssegmented-azerbaijani-CROUCH-1//clicsbp-idssegmented-kumyk-CROUCH-1//clicsbp-idssegmented-nogai-CROUCH-1//clicsbp-wold-Sakha-CROUCH-1"
     words "o t u r m a g//tʃ o n q a j m a q//ʃ œ ŋ k e j y w//tʃ o χ tʃ o y"
@@ -8556,7 +8544,7 @@ graph [
     family_count 1
   ]
   node [
-    id 713
+    id 712
     label "SIT"
     occurrences "clicsbp-idssegmented-azerbaijani-SIT-1//clicsbp-idssegmented-azerbaijani-SIT-2//clicsbp-idssegmented-kumyk-SIT-1//clicsbp-idssegmented-nogai-SIT-1//clicsbp-northeuralex-tur-SIT-1//clicsbp-northeuralex-uzn-SIT-1//clicsbp-northeuralex-kaz-SIT-1//clicsbp-northeuralex-bak-SIT-1//clicsbp-northeuralex-tat-SIT-1//clicsbp-northeuralex-chv-SIT-1//clicsbp-wold-Sakha-SIT-1//clicsbp-savelyevturkic-Karaim-SIT-1"
     words "o t u r m a g//æ j l æ ʃ m æ k//o l t u r m a q//o l t ɨ r u w//o t u ɾ m a k//o t i r m ɒ q//o t ə ɾ u//u l t ɯ r ɯ u//u t ɤ r u//l a r//o l o r//o l t u r"
@@ -8568,7 +8556,7 @@ graph [
     family_count 1
   ]
   node [
-    id 714
+    id 713
     label "SLIP"
     occurrences "clicsbp-idssegmented-azerbaijani-SLIP-1//clicsbp-idssegmented-kumyk-SLIP-1//clicsbp-idssegmented-nogai-SLIP-1//clicsbp-idssegmented-nogai-SLIP-2//clicsbp-wold-Sakha-SLIP-1"
     words "s ü r ü ʃ m æ k//s ɨ r ɣ a l a m a q//s ɨ r g a l a w//t a j ɨ s u w//χ a l t a r ɨ y"
@@ -8580,7 +8568,7 @@ graph [
     family_count 1
   ]
   node [
-    id 715
+    id 714
     label "JUMP"
     occurrences "clicsbp-idssegmented-azerbaijani-JUMP-1//clicsbp-idssegmented-kumyk-JUMP-1//clicsbp-idssegmented-nogai-JUMP-1//clicsbp-northeuralex-tur-JUMP-1//clicsbp-northeuralex-tur-JUMP-2//clicsbp-northeuralex-uzn-JUMP-1//clicsbp-northeuralex-kaz-JUMP-1//clicsbp-northeuralex-bak-JUMP-1//clicsbp-northeuralex-tat-JUMP-1//clicsbp-northeuralex-chv-JUMP-1//clicsbp-wold-Sakha-JUMP-1//clicsbp-wold-Sakha-JUMP-2//clicsbp-savelyevturkic-Karaim-JUMP-1"
     words "h o pː a n m a g//a t ɨ l m a q//k ɨ r g u w//a t l a m a k//s ɯ tʃ ɾ a m a k//s a k r a m ɒ q//s e k ə ɾ u//h i k e r e y//s i k e r ʉ//s i k//ɨ s t a n//o y//s e k i r"
@@ -8592,7 +8580,7 @@ graph [
     family_count 1
   ]
   node [
-    id 716
+    id 715
     label "KICK"
     occurrences "clicsbp-idssegmented-azerbaijani-KICK-1//clicsbp-idssegmented-kumyk-KICK-1//clicsbp-idssegmented-nogai-KICK-1//clicsbp-northeuralex-tur-KICK-1//clicsbp-northeuralex-uzn-KICK-1//clicsbp-northeuralex-kaz-KICK-1//clicsbp-northeuralex-bak-KICK-1//clicsbp-northeuralex-bak-KICK-2//clicsbp-northeuralex-tat-KICK-1//clicsbp-northeuralex-chv-KICK-1//clicsbp-wold-Sakha-KICK-1"
     words "t æ p i k l æ m æ k//t e p m e k//t e b y w//t ɛ p m ɛ k//t ɛ p m ɒ q//t e b u//t i b e y//t i p k e l æ y//t i b ʉ//t a p//t e p"
@@ -8604,7 +8592,7 @@ graph [
     family_count 1
   ]
   node [
-    id 717
+    id 716
     label "DANCE"
     occurrences "clicsbp-idssegmented-azerbaijani-DANCE-1//clicsbp-idssegmented-kumyk-DANCE-1//clicsbp-idssegmented-nogai-DANCE-1//clicsbp-idssegmented-nogai-DANCE-2//clicsbp-northeuralex-tur-DANCE-1//clicsbp-northeuralex-tur-DANCE-2//clicsbp-northeuralex-uzn-DANCE-1//clicsbp-northeuralex-kaz-DANCE-1//clicsbp-northeuralex-bak-DANCE-1//clicsbp-northeuralex-tat-DANCE-1//clicsbp-northeuralex-chv-DANCE-1//clicsbp-wold-Sakha-DANCE-1"
     words "o j n a m a g//b i j i m e k//b i j y w//b i j u w//o j n a m a k//d a n s + ɛ t m ɛ k//r a q s + q i l m ɒ q//b ɪ j l e u//b e j e y//b i j ʊ//t a ʂ l a//y ŋ k yː l eː"
@@ -8616,7 +8604,7 @@ graph [
     family_count 1
   ]
   node [
-    id 718
+    id 717
     label "PLAY"
     occurrences "clicsbp-idssegmented-azerbaijani-PLAY-1//clicsbp-idssegmented-kumyk-PLAY-1//clicsbp-idssegmented-nogai-PLAY-1//clicsbp-northeuralex-tur-PLAY-1//clicsbp-northeuralex-uzn-PLAY-1//clicsbp-northeuralex-kaz-PLAY-1//clicsbp-northeuralex-bak-PLAY-1//clicsbp-northeuralex-tat-PLAY-1//clicsbp-northeuralex-chv-PLAY-1//clicsbp-wold-Sakha-PLAY-1//clicsbp-savelyevturkic-Karaim-PLAY-1"
     words "o j n a m a g//o j n a m a q//o j n a w//o j n a m a k//o j n a m ɒ q//o j n ɑ u//t a r t ɯ u//u j n au//ʋ ɯ l j a//oː n ɲ oː//o j n a"
@@ -8628,7 +8616,7 @@ graph [
     family_count 1
   ]
   node [
-    id 719
+    id 718
     label "WALK"
     occurrences "clicsbp-idssegmented-azerbaijani-WALK-1//clicsbp-idssegmented-azerbaijani-WALK-2//clicsbp-idssegmented-kumyk-WALK-1//clicsbp-idssegmented-nogai-WALK-1//clicsbp-northeuralex-tur-WALK-1//clicsbp-northeuralex-uzn-WALK-1//clicsbp-northeuralex-kaz-WALK-1//clicsbp-northeuralex-bak-WALK-1//clicsbp-northeuralex-tat-WALK-1//clicsbp-northeuralex-chv-WALK-1//clicsbp-wold-Sakha-WALK-1//clicsbp-savelyevturkic-Karaim-WALK-1"
     words "j e r i m æ k//gʲ e t m æ k//j u r ü m e k//j u r y w//j y ɾ y m ɛ k//j u r m ɒ q//ʒ o j ɑ u + ʒ ʊ ɾ u//j ø r ø y//dʑ æ j a ʉ l æ ʉ//u t//χ aː m p//j y r y"
@@ -8640,7 +8628,7 @@ graph [
     family_count 1
   ]
   node [
-    id 720
+    id 719
     label "GO"
     occurrences "clicsbp-idssegmented-azerbaijani-GO-1//clicsbp-idssegmented-kumyk-GO-1//clicsbp-idssegmented-nogai-GO-2//clicsbp-idssegmented-nogai-GO-1//clicsbp-northeuralex-tur-GO-1//clicsbp-northeuralex-uzn-GO-1//clicsbp-northeuralex-kaz-GO-1//clicsbp-northeuralex-bak-GO-1//clicsbp-northeuralex-tat-GO-1//clicsbp-northeuralex-chv-GO-1//clicsbp-wold-Sakha-GO-1//clicsbp-savelyevturkic-Karaim-GO-1//clicsbp-savelyevturkic-Karaim-GO-2"
     words "gʲ e t m æ k//j u r ü m e k//j u r y w//j u r i p + b a r u w//g i t m ɛ k//b ɒ r m ɒ q//b ɑ ɾ u//b a r ɯ u//j œ r ʉ//k a j//s ɨ r ɨ t//b a r//k e t"
@@ -8652,7 +8640,7 @@ graph [
     family_count 1
   ]
   node [
-    id 721
+    id 720
     label "LEAVE"
     occurrences "clicsbp-idssegmented-azerbaijani-LEAVE-1//clicsbp-idssegmented-kumyk-LEAVE-1//clicsbp-idssegmented-nogai-LEAVE-1//clicsbp-northeuralex-tur-LEAVE-1//clicsbp-northeuralex-uzn-LEAVE-1//clicsbp-northeuralex-kaz-LEAVE-1//clicsbp-northeuralex-bak-LEAVE-1//clicsbp-northeuralex-tat-LEAVE-1//clicsbp-northeuralex-chv-LEAVE-1//clicsbp-wold-Sakha-LEAVE-1"
     words "gʲ e t m æ k//g e t m e k//k e t y w//g i t m ɛ k//k ɛ t ɒ q//k e t u//k i t e y//k i t ʉ//k a j//b a r"
@@ -8664,7 +8652,7 @@ graph [
     family_count 1
   ]
   node [
-    id 722
+    id 721
     label "RUN"
     occurrences "clicsbp-idssegmented-azerbaijani-RUN-1//clicsbp-idssegmented-kumyk-RUN-1//clicsbp-idssegmented-nogai-RUN-1//clicsbp-northeuralex-tur-RUN-1//clicsbp-northeuralex-uzn-RUN-1//clicsbp-northeuralex-kaz-RUN-1//clicsbp-northeuralex-bak-RUN-1//clicsbp-northeuralex-tat-RUN-1//clicsbp-northeuralex-chv-RUN-1//clicsbp-wold-Sakha-RUN-1//clicsbp-savelyevturkic-Karaim-RUN-1//clicsbp-savelyevturkic-Karaim-RUN-2"
     words "g a tʃ m a g//tʃ a p m a q//k a ʃ u w//k o ʃ m a k//j u g u r m ɒ q//ʒ ʊ g ə ɾ u//j y g e p + j ø r ø y//j œ g e r ʉ//tɕ u p//s yː r//tɕ a p//j u v u r"
@@ -8676,7 +8664,7 @@ graph [
     family_count 1
   ]
   node [
-    id 723
+    id 722
     label "FLEE"
     occurrences "clicsbp-idssegmented-azerbaijani-FLEE-1//clicsbp-idssegmented-azerbaijani-FLEE-2//clicsbp-idssegmented-kumyk-FLEE-1//clicsbp-idssegmented-kumyk-FLEE-2//clicsbp-idssegmented-nogai-FLEE-1//clicsbp-idssegmented-nogai-FLEE-2//clicsbp-northeuralex-tur-FLEE-1//clicsbp-northeuralex-uzn-FLEE-1//clicsbp-northeuralex-kaz-FLEE-1//clicsbp-northeuralex-kaz-FLEE-2//clicsbp-northeuralex-bak-FLEE-1//clicsbp-northeuralex-tat-FLEE-1//clicsbp-northeuralex-chv-FLEE-1//clicsbp-wold-Sakha-FLEE-1"
     words "g a tʃ m a g//g a tʃ m a g a tʃ l a + x i l a s + o l u n m a//q a tʃ m a q//q a tʃ ɨ p + q u t u l m a q//k a ʃ u w//k a ʃ ɨ p + k u t ɨ l u w//k a tʃ m a k//q ɒ tʃ m ɒ q//q ɑ ʃ u//q ɑ ʃ ə p + k e t u//q a s ɯ u//a r q ɑ + b i r ʉ//t a r//k u o t"
@@ -8688,7 +8676,7 @@ graph [
     family_count 1
   ]
   node [
-    id 724
+    id 723
     label "COME"
     occurrences "clicsbp-idssegmented-azerbaijani-COME-1//clicsbp-idssegmented-kumyk-COME-1//clicsbp-idssegmented-nogai-COME-1//clicsbp-idssegmented-nogai-COME-2//clicsbp-northeuralex-tur-COME-1//clicsbp-northeuralex-uzn-COME-1//clicsbp-northeuralex-kaz-COME-1//clicsbp-northeuralex-bak-COME-1//clicsbp-northeuralex-tat-COME-1//clicsbp-northeuralex-chv-COME-1//clicsbp-wold-Sakha-COME-1//clicsbp-savelyevturkic-Karaim-COME-1"
     words "gʲ æ l m æ k//g e l m e k//k e l y w//j u w ɨ k l a w//g ɛ l m ɛ k//k ɛ l m ɒ q//ʒ e t u//k i l e y//k i l ʉ//k i l//k e l//k e l"
@@ -8700,7 +8688,7 @@ graph [
     family_count 1
   ]
   node [
-    id 725
+    id 724
     label "COME BACK"
     occurrences "clicsbp-idssegmented-azerbaijani-COMEBACK-1//clicsbp-idssegmented-kumyk-COMEBACK-1//clicsbp-idssegmented-nogai-COMEBACK-2//clicsbp-idssegmented-nogai-COMEBACK-1//clicsbp-northeuralex-tur-COMEBACK-1//clicsbp-northeuralex-uzn-COMEBACK-1//clicsbp-northeuralex-kaz-COMEBACK-1//clicsbp-northeuralex-bak-COMEBACK-1//clicsbp-northeuralex-tat-COMEBACK-1//clicsbp-northeuralex-chv-COMEBACK-1//clicsbp-northeuralex-chv-COMEBACK-2//clicsbp-wold-Sakha-COMEBACK-1"
     words "g a j ɨ t m a g//q a j t m a q//k e l y w//k a j t u w//d œ n m ɛ k//q a j t i b + k ɛ l m ɒ q//q ɑ j t u//q a j t ɯ u//k i r e + q ɑ j t u//t a ʋ r ə n//k a j a l a + k i l//t œ n y n"
@@ -8712,7 +8700,7 @@ graph [
     family_count 1
   ]
   node [
-    id 726
+    id 725
     label "DISAPPEAR"
     occurrences "clicsbp-idssegmented-azerbaijani-DISAPPEAR-1//clicsbp-idssegmented-kumyk-DISAPPEAR-1//clicsbp-idssegmented-nogai-DISAPPEAR-1//clicsbp-northeuralex-tur-DISAPPEAR-1//clicsbp-northeuralex-uzn-DISAPPEAR-1//clicsbp-northeuralex-kaz-DISAPPEAR-1//clicsbp-northeuralex-bak-DISAPPEAR-1//clicsbp-northeuralex-tat-DISAPPEAR-1//clicsbp-northeuralex-tat-DISAPPEAR-2//clicsbp-northeuralex-chv-DISAPPEAR-1//clicsbp-wold-Sakha-DISAPPEAR-1"
     words "i t m æ k//j o q + b o l m a q//j o k + b o l u w//k a j b o l m a k//j o q ɒ l m ɒ q//ʁ ɑ j ə p + b o l u//j u ɣ a l ɯ u//j ʊ g a l u//j ʊ k + b u l u//ɕ u χ a l//s y t"
@@ -8724,7 +8712,7 @@ graph [
     family_count 1
   ]
   node [
-    id 727
+    id 726
     label "FOLLOW"
     occurrences "clicsbp-idssegmented-azerbaijani-FOLLOW-1//clicsbp-idssegmented-azerbaijani-FOLLOW-2//clicsbp-idssegmented-kumyk-FOLLOW-1//clicsbp-idssegmented-kumyk-FOLLOW-2//clicsbp-idssegmented-nogai-FOLLOW-3//clicsbp-idssegmented-nogai-FOLLOW-1//clicsbp-idssegmented-nogai-FOLLOW-2//clicsbp-wold-Sakha-FOLLOW-1"
     words "i z l æ m æ k//d a l ɨ n dʒ a + gʲ e t m æ k//a r t ɨ + b u l a n + j u r ü m e k//a r t ɨ n d a n + i e r m e k//j u r y w//a r t ɨ nː a n + b a r u w//i e r y w//b a t ɨ s"
@@ -8736,7 +8724,7 @@ graph [
     family_count 1
   ]
   node [
-    id 728
+    id 727
     label "PURSUE"
     occurrences "clicsbp-idssegmented-azerbaijani-PURSUE-1//clicsbp-idssegmented-kumyk-PURSUE-1//clicsbp-idssegmented-kumyk-PURSUE-2//clicsbp-idssegmented-nogai-PURSUE-1//clicsbp-idssegmented-nogai-PURSUE-2//clicsbp-wold-Sakha-PURSUE-1"
     words "i z l æ m æ k//h ɨ z a r l a m a q//q ɨ j n a m a q//a r t ɨ nː a n + k u w ɨ n + b a r u w//k ɨ j k a w//s o y u o l aː"
@@ -8748,7 +8736,7 @@ graph [
     family_count 1
   ]
   node [
-    id 729
+    id 728
     label "ARRIVE"
     occurrences "clicsbp-idssegmented-azerbaijani-ARRIVE-1//clicsbp-idssegmented-azerbaijani-ARRIVE-2//clicsbp-idssegmented-kumyk-ARRIVE-2//clicsbp-idssegmented-kumyk-ARRIVE-1//clicsbp-idssegmented-nogai-ARRIVE-2//clicsbp-idssegmented-nogai-ARRIVE-1//clicsbp-northeuralex-tur-ARRIVE-1//clicsbp-northeuralex-uzn-ARRIVE-1//clicsbp-northeuralex-kaz-ARRIVE-1//clicsbp-northeuralex-bak-ARRIVE-1//clicsbp-northeuralex-tat-ARRIVE-1//clicsbp-northeuralex-chv-ARRIVE-1//clicsbp-wold-Sakha-ARRIVE-1"
     words "tʃ a t m a g//gʲ æ l i b + tʃ ɨ x m a g//g e l m e k//e t i ʃ m e k//k e l y w//j e t y w//v a ɾ m a k//ɛ t i b + k ɛ l m ɒ q//k e l u//k i l e y//b a r u//ɕ i t//k e l"
@@ -8760,7 +8748,7 @@ graph [
     family_count 1
   ]
   node [
-    id 730
+    id 729
     label "APPROACH"
     occurrences "clicsbp-idssegmented-azerbaijani-APPROACH-1//clicsbp-idssegmented-kumyk-APPROACH-1//clicsbp-idssegmented-nogai-APPROACH-3//clicsbp-idssegmented-nogai-APPROACH-1//clicsbp-idssegmented-nogai-APPROACH-2//clicsbp-wold-Sakha-APPROACH-1"
     words "j a x ɨ n l a ʃ m a g//j u w u q l a ʃ m a q//k e l y w//j u w ɨ k l a w//j a n a s u w//tʃ u g a h aː"
@@ -8772,7 +8760,7 @@ graph [
     family_count 1
   ]
   node [
-    id 731
+    id 730
     label "ENTER"
     occurrences "clicsbp-idssegmented-azerbaijani-ENTER-1//clicsbp-idssegmented-azerbaijani-ENTER-2//clicsbp-idssegmented-kumyk-ENTER-1//clicsbp-idssegmented-nogai-ENTER-1//clicsbp-northeuralex-tur-ENTER-1//clicsbp-northeuralex-uzn-ENTER-1//clicsbp-northeuralex-kaz-ENTER-1//clicsbp-northeuralex-bak-ENTER-1//clicsbp-northeuralex-tat-ENTER-1//clicsbp-northeuralex-chv-ENTER-1//clicsbp-wold-Sakha-ENTER-1"
     words "gʲ i r m æ k//d a x i l + o l m a g//g i r m e k//k i r y w//i tʃ ɛ ɾ i + g i ɾ m ɛ k//k i r m ɒ q//k ə ɾ u//i n e y//i n ʉ//k ɘ r//k iː r"
@@ -8784,7 +8772,7 @@ graph [
     family_count 1
   ]
   node [
-    id 732
+    id 731
     label "CARRY"
     occurrences "clicsbp-idssegmented-azerbaijani-CARRY-1//clicsbp-idssegmented-kumyk-CARRY-1//clicsbp-idssegmented-nogai-CARRY-1//clicsbp-idssegmented-nogai-CARRY-2//clicsbp-northeuralex-tur-CARRY-1//clicsbp-northeuralex-uzn-CARRY-1//clicsbp-northeuralex-kaz-CARRY-1//clicsbp-northeuralex-bak-CARRY-1//clicsbp-northeuralex-tat-CARRY-1//clicsbp-northeuralex-chv-CARRY-1//clicsbp-wold-Sakha-CARRY-1//clicsbp-savelyevturkic-Karaim-CARRY-1//clicsbp-savelyevturkic-Karaim-CARRY-2//clicsbp-savelyevturkic-Karaim-CARRY-3"
     words "a p a r m a g//e l t m e k//e l t e w//a l ɨ p + b a r u w//t a ʃ ɯ m a k//t a ʃ i m ɒ q//ɑ l ə p + ʒ ʊ ɾ u//a l ɯ p + b a r ɯ u//t a ʃ u//ɕ ɘ k l ɛ//i l t//a l ɯ p//b a r//e l t"
@@ -8796,7 +8784,7 @@ graph [
     family_count 1
   ]
   node [
-    id 733
+    id 732
     label "CARRY ON SHOULDER"
     occurrences "clicsbp-idssegmented-azerbaijani-CARRYONSHOULDER-1//clicsbp-idssegmented-azerbaijani-CARRYONSHOULDER-2//clicsbp-idssegmented-kumyk-CARRYONSHOULDER-1//clicsbp-idssegmented-kumyk-CARRYONSHOULDER-2//clicsbp-idssegmented-nogai-CARRYONSHOULDER-1//clicsbp-idssegmented-nogai-CARRYONSHOULDER-2//clicsbp-wold-Sakha-CARRYONSHOULDER-1"
     words "a p a r m a g//tʃ i j n i n d æ + a p a r m a g//e l t m e k//i n b a ʃ l a r ɨ n a + g œ t e r i p + e l t m e k//e l t e w//i j n i n e + s a l ɨ p + e l t e w//s y k"
@@ -8808,7 +8796,7 @@ graph [
     family_count 1
   ]
   node [
-    id 734
+    id 733
     label "CARRY ON HEAD"
     occurrences "clicsbp-idssegmented-azerbaijani-CARRYONHEAD-1//clicsbp-idssegmented-azerbaijani-CARRYONHEAD-2//clicsbp-idssegmented-kumyk-CARRYONHEAD-1//clicsbp-idssegmented-kumyk-CARRYONHEAD-2//clicsbp-idssegmented-nogai-CARRYONHEAD-1//clicsbp-idssegmented-nogai-CARRYONHEAD-2"
     words "a p a r m a g//b a ʃ ɨ n d a + a p a r m a g//e l t m e k//b a ʃ ɨ n d a + g œ t e r i p + e l t m e k//e l t e w//b a s ɨ n a + s a l ɨ p + e l t e w"
@@ -8820,7 +8808,7 @@ graph [
     family_count 1
   ]
   node [
-    id 735
+    id 734
     label "LEAD (GUIDE)"
     occurrences "clicsbp-idssegmented-azerbaijani-LEADGUIDE-1//clicsbp-idssegmented-kumyk-LEADGUIDE-1//clicsbp-idssegmented-kumyk-LEADGUIDE-2//clicsbp-idssegmented-nogai-LEADGUIDE-2//clicsbp-idssegmented-nogai-LEADGUIDE-1//clicsbp-northeuralex-tur-LEADGUIDE-1//clicsbp-northeuralex-tur-LEADGUIDE-2//clicsbp-northeuralex-tur-LEADGUIDE-3//clicsbp-northeuralex-tur-LEADGUIDE-4//clicsbp-northeuralex-uzn-LEADGUIDE-1//clicsbp-northeuralex-uzn-LEADGUIDE-2//clicsbp-northeuralex-kaz-LEADGUIDE-1//clicsbp-northeuralex-kaz-LEADGUIDE-2//clicsbp-northeuralex-kaz-LEADGUIDE-3//clicsbp-northeuralex-kaz-LEADGUIDE-4//clicsbp-northeuralex-bak-LEADGUIDE-1//clicsbp-northeuralex-bak-LEADGUIDE-2//clicsbp-northeuralex-bak-LEADGUIDE-3//clicsbp-northeuralex-tat-LEADGUIDE-1//clicsbp-northeuralex-tat-LEADGUIDE-2//clicsbp-northeuralex-chv-LEADGUIDE-1//clicsbp-northeuralex-chv-LEADGUIDE-2//clicsbp-northeuralex-chv-LEADGUIDE-3//clicsbp-wold-Sakha-LEADGUIDE-1"
     words "a p a r m a g//j u r ü t m e k//a l ɨ p + b a r m a q//a l ɨ p + b a r u w//j u r i t y w//g ɛ z d i ɾ m ɛ k//j o l + g œ s t ɛ ɾ m ɛ k//j œ n ɛ t m ɛ k//i d a ɾ ɛ + ɛ t m ɛ k//b ɒ ʃ l i k + b o l m ɒ q//b ɒ ʃ q a r m ɒ q//e ɾ t u//ʒ e t e k t e u//b ɑ s q ɑ ɾ u//ʒ e t e k ʃ ə l ə k + e t u//j e t æ k l æ y//j e t æ k l æ y//j e t æ k s e l e k + i t e y//j œ r t ʉ//dʑ i t æ k l æ ʉ//i l s ɛ + p ɯ r//ɕ a ʋ ə t s a + p ɯ r//t ɯ t s a + p ɯ r//s i e t"
@@ -8832,7 +8820,7 @@ graph [
     family_count 1
   ]
   node [
-    id 736
+    id 735
     label "CARRY IN HAND"
     occurrences "clicsbp-idssegmented-azerbaijani-CARRYINHAND-1//clicsbp-idssegmented-kumyk-CARRYINHAND-1//clicsbp-idssegmented-kumyk-CARRYINHAND-2//clicsbp-idssegmented-nogai-CARRYINHAND-1//clicsbp-idssegmented-nogai-CARRYINHAND-2//clicsbp-wold-Sakha-CARRYINHAND-1"
     words "æ l d æ + a p a r m a g//e l t m e k//q o lː a r ɨ n a + g œ t e r i p + e l t m e k//e l t e w//k o l ɨ n a + a l ɨ p + b a r u w//i l t"
@@ -8844,7 +8832,7 @@ graph [
     family_count 1
   ]
   node [
-    id 737
+    id 736
     label "CARRY UNDER ARM"
     occurrences "clicsbp-idssegmented-azerbaijani-CARRYUNDERARM-1//clicsbp-idssegmented-kumyk-CARRYUNDERARM-1//clicsbp-idssegmented-nogai-CARRYUNDERARM-1//clicsbp-wold-Sakha-CARRYUNDERARM-1"
     words "g o l t u ɣ u n d a + a p a r m a g//q o l t u ɣ u n a + q ɨ s d ɨ r ɨ p + e l t m e k//k o j n ɨ n a + s a l ɨ p + e l t e w//k ɨ b ɨ n"
@@ -8856,7 +8844,7 @@ graph [
     family_count 1
   ]
   node [
-    id 738
+    id 737
     label "BRING"
     occurrences "clicsbp-idssegmented-azerbaijani-BRING-1//clicsbp-idssegmented-kumyk-BRING-1//clicsbp-idssegmented-nogai-BRING-2//clicsbp-idssegmented-nogai-BRING-1//clicsbp-northeuralex-tur-BRING-1//clicsbp-northeuralex-uzn-BRING-1//clicsbp-northeuralex-kaz-BRING-1//clicsbp-northeuralex-kaz-BRING-2//clicsbp-northeuralex-bak-BRING-1//clicsbp-northeuralex-tat-BRING-1//clicsbp-northeuralex-chv-BRING-1//clicsbp-wold-Sakha-BRING-1"
     words "gʲ æ t i r m æ k//g e l t i r m e k//e l t e w//ä k e l y w//g ɛ t i ɾ m ɛ k//k ɛ l t i r m ɒ q//æ k e l u//ɑ l ə p + k e l u//k i l t e r e y//k i t e r ʉ//k y r//a ɣ a l"
@@ -8868,7 +8856,7 @@ graph [
     family_count 1
   ]
   node [
-    id 739
+    id 738
     label "SEND"
     occurrences "clicsbp-idssegmented-azerbaijani-SEND-1//clicsbp-idssegmented-kumyk-SEND-1//clicsbp-idssegmented-nogai-SEND-1//clicsbp-northeuralex-tur-SEND-1//clicsbp-northeuralex-tur-SEND-2//clicsbp-northeuralex-uzn-SEND-1//clicsbp-northeuralex-kaz-SEND-1//clicsbp-northeuralex-bak-SEND-1//clicsbp-northeuralex-tat-SEND-1//clicsbp-northeuralex-chv-SEND-1//clicsbp-wold-Sakha-SEND-1"
     words "gʲ œ n d æ r m æ k//j i b e r m e k//j i b e r y w//j o lː a m a k//g œ n d ɛ ɾ m ɛ k//j u b ɒ r m ɒ q//ʒ ə b e ɾ u//j e b æ r e y//dʑ i b æ r ʉ//j a r//ɨː t"
@@ -8880,7 +8868,7 @@ graph [
     family_count 1
   ]
   node [
-    id 740
+    id 739
     label "DRIVE"
     occurrences "clicsbp-idssegmented-azerbaijani-DRIVE-1//clicsbp-idssegmented-kumyk-DRIVE-1//clicsbp-idssegmented-nogai-DRIVE-1//clicsbp-northeuralex-tur-DRIVE-1//clicsbp-northeuralex-uzn-DRIVE-1//clicsbp-northeuralex-kaz-DRIVE-1//clicsbp-northeuralex-bak-DRIVE-1//clicsbp-northeuralex-tat-DRIVE-1//clicsbp-northeuralex-chv-DRIVE-1//clicsbp-wold-Sakha-DRIVE-1"
     words "m a ʃ ɨ n d a + gʲ e t m æ k//m a ʃ i n d e + g e t m e k//m a ʃ i n d e + b a r u w//g i t m ɛ k//h a j d a m ɒ q//b ɑ ɾ u//j ø r ø y//b a r u//p ɯ r//ɨː t"
@@ -8892,7 +8880,7 @@ graph [
     family_count 1
   ]
   node [
-    id 741
+    id 740
     label "RIDE"
     occurrences "clicsbp-idssegmented-azerbaijani-RIDE-1//clicsbp-idssegmented-kumyk-RIDE-1//clicsbp-idssegmented-kumyk-RIDE-2//clicsbp-idssegmented-nogai-RIDE-1//clicsbp-idssegmented-nogai-RIDE-2//clicsbp-wold-Sakha-RIDE-1"
     words "a t l a + gʲ e t m æ k//a t l a n m a q//a t ɣ a + m i n i p + g e t m e k//a t a + k ɨ d ɨ r u w//a t l ɨ + b a r u w//m iː n"
@@ -8904,7 +8892,7 @@ graph [
     family_count 1
   ]
   node [
-    id 742
+    id 741
     label "PUSH"
     occurrences "clicsbp-idssegmented-azerbaijani-PUSH-1//clicsbp-idssegmented-kumyk-PUSH-1//clicsbp-idssegmented-nogai-PUSH-1//clicsbp-idssegmented-nogai-PUSH-2//clicsbp-northeuralex-tur-PUSH-1//clicsbp-northeuralex-tur-PUSH-2//clicsbp-northeuralex-uzn-PUSH-1//clicsbp-northeuralex-kaz-PUSH-1//clicsbp-northeuralex-bak-PUSH-1//clicsbp-northeuralex-bak-PUSH-2//clicsbp-northeuralex-tat-PUSH-1//clicsbp-northeuralex-chv-PUSH-1//clicsbp-northeuralex-chv-PUSH-2//clicsbp-wold-Sakha-PUSH-1//clicsbp-savelyevturkic-Karaim-PUSH-1"
     words "i t æ l æ m æ k//t e b e r m e k//i j t e w//t e b e r y w//i t m ɛ k//s y ɾ m ɛ k//s u r m ɒ q//ɪ j t e ɾ u//e t e y//t ø r t ø y//q u z g a t u//t ɘ k//t ɘ r t//a s//i j t"
@@ -8916,7 +8904,7 @@ graph [
     family_count 1
   ]
   node [
-    id 743
+    id 742
     label "ROAD"
     occurrences "clicsbp-idssegmented-azerbaijani-ROAD-1//clicsbp-idssegmented-kumyk-ROAD-1//clicsbp-idssegmented-nogai-ROAD-1//clicsbp-northeuralex-tur-ROAD-1//clicsbp-northeuralex-tur-ROAD-2//clicsbp-northeuralex-uzn-ROAD-1//clicsbp-northeuralex-kaz-ROAD-1//clicsbp-northeuralex-bak-ROAD-1//clicsbp-northeuralex-tat-ROAD-1//clicsbp-northeuralex-chv-ROAD-1//clicsbp-northeuralex-chv-ROAD-2//clicsbp-wold-Sakha-ROAD-1"
     words "j o l//j o l//j o l//j o l//dʒ a dː ɛ//k o tʃ a//ʒ o l//u r a m//u r a m//ɕ y r ɛ ʋ//ɕ u l + ɕ y r ɛ n i//s u o l"
@@ -8928,7 +8916,7 @@ graph [
     family_count 1
   ]
   node [
-    id 744
+    id 743
     label "PATH"
     occurrences "clicsbp-idssegmented-azerbaijani-PATH-1//clicsbp-idssegmented-kumyk-PATH-1//clicsbp-idssegmented-nogai-PATH-1//clicsbp-northeuralex-tur-PATH-1//clicsbp-northeuralex-tur-PATH-2//clicsbp-northeuralex-uzn-PATH-1//clicsbp-northeuralex-kaz-PATH-1//clicsbp-northeuralex-bak-PATH-1//clicsbp-northeuralex-tat-PATH-1//clicsbp-northeuralex-chv-PATH-1//clicsbp-northeuralex-chv-PATH-2//clicsbp-wold-Sakha-PATH-1"
     words "dʒ ɨ ɣ ɨ r//s o q m a q//s o k p a k//p a t i k a//k ɛ tʃ i j o l u//d ɒ r ɒ dʒ k a//ʒ o l//h u q m a q//s u k m a k//j ɘ r//s u k m a k//ɨ lː ɨ k"
@@ -8940,7 +8928,7 @@ graph [
     family_count 1
   ]
   node [
-    id 745
+    id 744
     label "BRIDGE"
     occurrences "clicsbp-idssegmented-azerbaijani-BRIDGE-1//clicsbp-idssegmented-kumyk-BRIDGE-1//clicsbp-idssegmented-nogai-BRIDGE-1//clicsbp-idssegmented-nogai-BRIDGE-2//clicsbp-northeuralex-tur-BRIDGE-1//clicsbp-northeuralex-uzn-BRIDGE-1//clicsbp-northeuralex-kaz-BRIDGE-1//clicsbp-northeuralex-bak-BRIDGE-1//clicsbp-northeuralex-tat-BRIDGE-1//clicsbp-northeuralex-chv-BRIDGE-1//clicsbp-wold-Sakha-BRIDGE-1//clicsbp-wold-Sakha-BRIDGE-2"
     words "k œ r p ü//k œ p ü r//k œ p i r//k e ʃ y w//k œ p ɾ y//k o p r i k//k ø p ə ɾ//k y p e r//k ʉ p e r//k ɘ p ɛ r//m u o s t a//k y r b e"
@@ -8952,7 +8940,7 @@ graph [
     family_count 1
   ]
   node [
-    id 746
+    id 745
     label "CART"
     occurrences "clicsbp-idssegmented-azerbaijani-CART-1//clicsbp-idssegmented-azerbaijani-CART-2//clicsbp-idssegmented-kumyk-CART-1//clicsbp-idssegmented-kumyk-CART-2//clicsbp-idssegmented-nogai-CART-1//clicsbp-idssegmented-nogai-CART-2//clicsbp-wold-Sakha-CART-1"
     words "m i n i k//a r a b a//e k i p a ʒ//a r b a//a r b a//t e l e g e n//t e l i e g e"
@@ -8964,7 +8952,7 @@ graph [
     family_count 1
   ]
   node [
-    id 747
+    id 746
     label "WHEEL"
     occurrences "clicsbp-idssegmented-azerbaijani-WHEEL-1//clicsbp-idssegmented-azerbaijani-WHEEL-2//clicsbp-idssegmented-kumyk-WHEEL-1//clicsbp-idssegmented-nogai-WHEEL-1//clicsbp-wold-Sakha-WHEEL-1"
     words "t æ k æ r//tʃ a r x//d œ g e r tʃ i k//t ɨ ŋ ɨ r ʃ ɨ k//k œ l y œ h e"
@@ -8976,7 +8964,7 @@ graph [
     family_count 1
   ]
   node [
-    id 748
+    id 747
     label "YOKE"
     occurrences "clicsbp-idssegmented-azerbaijani-YOKE-1//clicsbp-idssegmented-azerbaijani-YOKE-2//clicsbp-idssegmented-kumyk-YOKE-1//clicsbp-idssegmented-nogai-YOKE-1//clicsbp-idssegmented-nogai-YOKE-2//clicsbp-idssegmented-nogai-YOKE-3//clicsbp-idssegmented-nogai-YOKE-4//clicsbp-wold-Sakha-YOKE-1"
     words "b o j u n d u r u g//z ü l m//b o ü n s a//m o j s a//a g a ʃ + k a m ɨ t//e z y w//a z a p//b u r ɣ a l dʒ ɨ"
@@ -8988,7 +8976,7 @@ graph [
     family_count 1
   ]
   node [
-    id 749
+    id 748
     label "SHIP"
     occurrences "clicsbp-idssegmented-azerbaijani-SHIP-1//clicsbp-idssegmented-kumyk-SHIP-1//clicsbp-idssegmented-nogai-SHIP-1//clicsbp-wold-Sakha-SHIP-1//clicsbp-wold-Sakha-SHIP-2"
     words "gʲ æ m i//g e m e//k e m e//χ a r aː b ɨ l//b o r o k u o t"
@@ -9000,7 +8988,7 @@ graph [
     family_count 1
   ]
   node [
-    id 750
+    id 749
     label "BOAT"
     occurrences "clicsbp-idssegmented-azerbaijani-BOAT-1//clicsbp-idssegmented-kumyk-BOAT-1//clicsbp-idssegmented-nogai-BOAT-1//clicsbp-northeuralex-tur-BOAT-1//clicsbp-northeuralex-tur-BOAT-2//clicsbp-northeuralex-uzn-BOAT-1//clicsbp-northeuralex-kaz-BOAT-1//clicsbp-northeuralex-bak-BOAT-1//clicsbp-northeuralex-tat-BOAT-1//clicsbp-northeuralex-tat-BOAT-2//clicsbp-northeuralex-chv-BOAT-1//clicsbp-wold-Sakha-BOAT-1//clicsbp-wold-Sakha-BOAT-2"
     words "g a j ɨ g//q a j ɨ q//k a j ɨ k//k a j ɯ k//s a n d a l//q a j i q//q ɑ j ə q//k æ m æ//q ɑ e k//k œ j m æ//k i m ɘ//t ɨː//o ŋ o tʃ o"
@@ -9012,7 +9000,7 @@ graph [
     family_count 1
   ]
   node [
-    id 751
+    id 750
     label "CANOE"
     occurrences "clicsbp-idssegmented-azerbaijani-CANOE-1//clicsbp-idssegmented-kumyk-CANOE-2//clicsbp-idssegmented-kumyk-CANOE-1//clicsbp-idssegmented-nogai-CANOE-2//clicsbp-idssegmented-nogai-CANOE-1"
     words "k a n o e//q a j ɨ q//k a n o e//k a j ɨ k//k a n o e"
@@ -9024,7 +9012,7 @@ graph [
     family_count 1
   ]
   node [
-    id 752
+    id 751
     label "RAFT"
     occurrences "clicsbp-idssegmented-azerbaijani-RAFT-1//clicsbp-idssegmented-azerbaijani-RAFT-2//clicsbp-idssegmented-kumyk-RAFT-1//clicsbp-idssegmented-nogai-RAFT-1//clicsbp-wold-Sakha-RAFT-1"
     words "s a l//k œ r k ü dʒ ü k//s a l//s a l//aː l"
@@ -9036,7 +9024,7 @@ graph [
     family_count 1
   ]
   node [
-    id 753
+    id 752
     label "ROW"
     occurrences "clicsbp-idssegmented-azerbaijani-ROW-1//clicsbp-idssegmented-kumyk-ROW-1//clicsbp-idssegmented-nogai-ROW-1//clicsbp-idssegmented-nogai-ROW-2//clicsbp-idssegmented-nogai-ROW-3//clicsbp-northeuralex-tur-ROW-1//clicsbp-northeuralex-uzn-ROW-1//clicsbp-northeuralex-kaz-ROW-1//clicsbp-northeuralex-bak-ROW-1//clicsbp-northeuralex-tat-ROW-1//clicsbp-northeuralex-chv-ROW-1//clicsbp-wold-Sakha-ROW-1"
     words "a v a r + tʃ æ k m æ k//k y s m e n + tʃ a l m a q//e s k e k l e w//j ɨ l o w//t ɨ r n a w//k y ɾ ɛ k + tʃ ɛ k m ɛ k//ɛ ʃ k a k + ɛ ʃ m ɒ q//e s u//i ʃ e y//i ʃ ʉ//a ʋ ə s//e r t"
@@ -9048,7 +9036,7 @@ graph [
     family_count 1
   ]
   node [
-    id 754
+    id 753
     label "RUDDER"
     occurrences "clicsbp-idssegmented-azerbaijani-RUDDER-1//clicsbp-idssegmented-kumyk-RUDDER-1//clicsbp-idssegmented-nogai-RUDDER-1//clicsbp-wold-Sakha-RUDDER-1"
     words "s ü k a n//r u l j//r u lʲ//u r uː l"
@@ -9060,7 +9048,7 @@ graph [
     family_count 1
   ]
   node [
-    id 755
+    id 754
     label "PORT"
     occurrences "clicsbp-idssegmented-azerbaijani-PORT-1//clicsbp-idssegmented-azerbaijani-PORT-2//clicsbp-idssegmented-kumyk-PORT-1//clicsbp-idssegmented-nogai-PORT-1//clicsbp-idssegmented-nogai-PORT-2//clicsbp-wold-Sakha-PORT-1"
     words "l i m a n + k œ r p ü//l i m a n//p o r t//g a w a nʲ//p o r t//p o r t"
@@ -9072,7 +9060,7 @@ graph [
     family_count 1
   ]
   node [
-    id 756
+    id 755
     label "LAND (DESCEND)"
     occurrences "clicsbp-idssegmented-azerbaijani-LANDDESCEND-1//clicsbp-idssegmented-azerbaijani-LANDDESCEND-2//clicsbp-idssegmented-kumyk-LANDDESCEND-1//clicsbp-idssegmented-kumyk-LANDDESCEND-2//clicsbp-idssegmented-nogai-LANDDESCEND-1//clicsbp-idssegmented-nogai-LANDDESCEND-2//clicsbp-wold-Sakha-LANDDESCEND-2//clicsbp-wold-Sakha-LANDDESCEND-1"
     words "j a n a ʃ d ɨ r ɨ b + b a ɣ l a m a g//j e r æ + o t u r m a g//s u w + u a ɣ a ɣ a + b a j l a m a q//j e r g e + t ü ʃ m e k//s u w + m a g a + k e l i p + t o k t a w//j e r g e + t y s y w//t y s//t i g i s"
@@ -9084,7 +9072,7 @@ graph [
     family_count 1
   ]
   node [
-    id 757
+    id 756
     label "HAVE"
     occurrences "clicsbp-idssegmented-azerbaijani-HAVE-1//clicsbp-idssegmented-kumyk-HAVE-1//clicsbp-idssegmented-nogai-HAVE-1//clicsbp-idssegmented-nogai-HAVE-2"
     words "o l m a g//j e s + b o l m a q//i e + b o l u w//œ z i n d e + b i r z a t + s a k l a w"
@@ -9096,7 +9084,7 @@ graph [
     family_count 1
   ]
   node [
-    id 758
+    id 757
     label "OWN"
     occurrences "clicsbp-idssegmented-azerbaijani-OWN-1//clicsbp-idssegmented-azerbaijani-OWN-2//clicsbp-idssegmented-kumyk-OWN-1//clicsbp-idssegmented-nogai-OWN-1//clicsbp-northeuralex-tur-OWN-1//clicsbp-northeuralex-tur-OWN-2//clicsbp-northeuralex-uzn-OWN-1//clicsbp-northeuralex-kaz-OWN-1//clicsbp-northeuralex-bak-OWN-1//clicsbp-northeuralex-tat-OWN-1//clicsbp-northeuralex-chv-OWN-1"
     words "j i j æ + o l m a g//m a l i k + o l m a g//j e s + b o l m a q//i e + b o l u w//h a i z + o l m a k//s a h i p + o l m a k//æ g a l a m ɒ q//b o l u//b i l æ y//b i l æ ʉ//t ɯ t"
@@ -9108,7 +9096,7 @@ graph [
     family_count 1
   ]
   node [
-    id 759
+    id 758
     label "TAKE"
     occurrences "clicsbp-idssegmented-azerbaijani-TAKE-1//clicsbp-idssegmented-kumyk-TAKE-1//clicsbp-idssegmented-nogai-TAKE-1//clicsbp-idssegmented-nogai-TAKE-2//clicsbp-northeuralex-tur-TAKE-1//clicsbp-northeuralex-uzn-TAKE-1//clicsbp-northeuralex-kaz-TAKE-2//clicsbp-northeuralex-kaz-TAKE-1//clicsbp-northeuralex-bak-TAKE-1//clicsbp-northeuralex-tat-TAKE-1//clicsbp-northeuralex-chv-TAKE-1//clicsbp-wold-Sakha-TAKE-1//clicsbp-savelyevturkic-Karaim-TAKE-1"
     words "a l m a g//a l m a q//a l m a k//a l u w//a l m a k//ɒ l m ɒ q//ɑ l m ɑ q//ɑ l u//a l ɯ u//a l u//i l//ɨ l//a l"
@@ -9120,7 +9108,7 @@ graph [
     family_count 1
   ]
   node [
-    id 760
+    id 759
     label "GET"
     occurrences "clicsbp-idssegmented-azerbaijani-GET-1//clicsbp-idssegmented-azerbaijani-GET-2//clicsbp-idssegmented-kumyk-GET-1//clicsbp-idssegmented-nogai-GET-1//clicsbp-northeuralex-tur-GET-1//clicsbp-northeuralex-uzn-GET-1//clicsbp-northeuralex-kaz-GET-1//clicsbp-northeuralex-bak-GET-1//clicsbp-northeuralex-tat-GET-1//clicsbp-northeuralex-chv-GET-1//clicsbp-northeuralex-chv-GET-2//clicsbp-wold-Sakha-GET-1"
     words "a l m a g//g æ b u l + e t m æ k//a l m a q//a l u w//a l m a k//ɒ l m ɒ q//ɑ l m ɑ q//a l ɯ u//a l u//i l//t u j a n//t u t"
@@ -9132,7 +9120,7 @@ graph [
     family_count 1
   ]
   node [
-    id 761
+    id 760
     label "BUY"
     occurrences "clicsbp-idssegmented-azerbaijani-BUY-2//clicsbp-idssegmented-azerbaijani-BUY-1//clicsbp-idssegmented-kumyk-BUY-1//clicsbp-idssegmented-nogai-BUY-1//clicsbp-northeuralex-tur-BUY-1//clicsbp-northeuralex-uzn-BUY-1//clicsbp-northeuralex-kaz-BUY-1//clicsbp-northeuralex-kaz-BUY-2//clicsbp-northeuralex-bak-BUY-1//clicsbp-northeuralex-tat-BUY-1//clicsbp-northeuralex-chv-BUY-1//clicsbp-northeuralex-chv-BUY-2//clicsbp-wold-Sakha-BUY-2//clicsbp-wold-Sakha-BUY-1"
     words "a l m a g//s a t ɨ n + a l m a g//s a t ɨ p + a l m a q//s a t ɨ p + a l u w//a l m a k//ɒ l m ɒ q//ɑ l u//æ p e ɾ u//h a t ɯ p + a l ɯ u//a l u//i l//t u j a n//ɨ l//a t ɨː l a s"
@@ -9144,7 +9132,7 @@ graph [
     family_count 1
   ]
   node [
-    id 762
+    id 761
     label "KEEP"
     occurrences "clicsbp-idssegmented-azerbaijani-KEEP-1//clicsbp-idssegmented-kumyk-KEEP-1//clicsbp-idssegmented-nogai-KEEP-1//clicsbp-northeuralex-tur-KEEP-1//clicsbp-northeuralex-uzn-KEEP-1//clicsbp-northeuralex-kaz-KEEP-1//clicsbp-northeuralex-bak-KEEP-1//clicsbp-northeuralex-tat-KEEP-1//clicsbp-northeuralex-chv-KEEP-1//clicsbp-wold-Sakha-KEEP-1"
     words "s a x l a m a g//s a q l a m a q//s a k l a w//s a k l a m a k//t u t m ɒ q//s ɑ q t ɑ u//h a q l au//s a k l au//u s r a//χ aː lː a r"
@@ -9156,7 +9144,7 @@ graph [
     family_count 1
   ]
   node [
-    id 763
+    id 762
     label "PRESERVE"
     occurrences "clicsbp-idssegmented-azerbaijani-PRESERVE-2//clicsbp-idssegmented-azerbaijani-PRESERVE-1//clicsbp-idssegmented-kumyk-PRESERVE-1//clicsbp-idssegmented-nogai-PRESERVE-1//clicsbp-northeuralex-tur-PRESERVE-1//clicsbp-northeuralex-uzn-PRESERVE-1//clicsbp-northeuralex-kaz-PRESERVE-1//clicsbp-northeuralex-bak-PRESERVE-1//clicsbp-northeuralex-tat-PRESERVE-1//clicsbp-northeuralex-chv-PRESERVE-1//clicsbp-wold-Sakha-PRESERVE-1//clicsbp-wold-Sakha-PRESERVE-2"
     words "s a x l a m a g//g o r u m a g//s a q l a m a q//s a k l a w//k o ɾ u m a k//s a q l a m ɒ q//s ɑ q t ɑ u//h a q l au//s a k l au//u p r a//χ a r a y//χ a r ɨ s t aː"
@@ -9168,7 +9156,7 @@ graph [
     family_count 1
   ]
   node [
-    id 764
+    id 763
     label "THING"
     occurrences "clicsbp-idssegmented-azerbaijani-THING-1//clicsbp-idssegmented-kumyk-THING-1//clicsbp-idssegmented-kumyk-THING-2//clicsbp-idssegmented-nogai-THING-1//clicsbp-northeuralex-tur-THING-1//clicsbp-northeuralex-tur-THING-2//clicsbp-northeuralex-uzn-THING-1//clicsbp-northeuralex-kaz-THING-1//clicsbp-northeuralex-bak-THING-1//clicsbp-northeuralex-bak-THING-2//clicsbp-northeuralex-tat-THING-1//clicsbp-northeuralex-chv-THING-1//clicsbp-wold-Sakha-THING-1"
     words "æ ʃ j a//z a t//m a l + m a t a ɣ//z a t//i ʃ//ʃ ɛ j//b u j u m//b ʉ j ə m//n æ m æ//æ j b e r//n æ r s æ//j a p a l a//m a l"
@@ -9180,7 +9168,7 @@ graph [
     family_count 1
   ]
   node [
-    id 765
+    id 764
     label "GIVE"
     occurrences "clicsbp-idssegmented-azerbaijani-GIVE-1//clicsbp-idssegmented-kumyk-GIVE-1//clicsbp-idssegmented-nogai-GIVE-1//clicsbp-northeuralex-tur-GIVE-1//clicsbp-northeuralex-uzn-GIVE-1//clicsbp-northeuralex-kaz-GIVE-1//clicsbp-northeuralex-bak-GIVE-1//clicsbp-northeuralex-tat-GIVE-1//clicsbp-northeuralex-chv-GIVE-1//clicsbp-wold-Sakha-GIVE-1//clicsbp-savelyevturkic-Karaim-GIVE-1"
     words "v e r m æ k//b e r m e k//b e r y w//v ɛ ɾ m ɛ k//b ɛ r m ɒ q//b e ɾ u//b i r e y//b i r ʉ//p a r//b i e r//b e r"
@@ -9192,7 +9180,7 @@ graph [
     family_count 1
   ]
   node [
-    id 766
+    id 765
     label "GIVE BACK"
     occurrences "clicsbp-idssegmented-azerbaijani-GIVEBACK-1//clicsbp-idssegmented-azerbaijani-GIVEBACK-2//clicsbp-idssegmented-kumyk-GIVEBACK-1//clicsbp-idssegmented-nogai-GIVEBACK-1//clicsbp-idssegmented-nogai-GIVEBACK-2//clicsbp-wold-Sakha-GIVEBACK-1"
     words "g a j t a r m a g//gʲ e r i + v e r m æ k//q a j t a r m a q//k a j t a r u w//k a j t a r ɨ p + b e r y w//t œ nː œ r"
@@ -9204,7 +9192,7 @@ graph [
     family_count 1
   ]
   node [
-    id 767
+    id 766
     label "RESCUE"
     occurrences "clicsbp-idssegmented-azerbaijani-RESCUE-1//clicsbp-idssegmented-azerbaijani-RESCUE-2//clicsbp-idssegmented-kumyk-RESCUE-1//clicsbp-idssegmented-nogai-RESCUE-1//clicsbp-idssegmented-nogai-RESCUE-2//clicsbp-northeuralex-tur-RESCUE-1//clicsbp-northeuralex-uzn-RESCUE-1//clicsbp-northeuralex-kaz-RESCUE-1//clicsbp-northeuralex-bak-RESCUE-1//clicsbp-northeuralex-tat-RESCUE-1//clicsbp-northeuralex-chv-RESCUE-1//clicsbp-wold-Sakha-RESCUE-1//clicsbp-wold-Sakha-RESCUE-2//clicsbp-wold-Sakha-RESCUE-3"
     words "x i l a s + e t m æ k//g u r t a r m a g//q u t ɣ a r m a q//k u t g a r m a k//k u t k a r u w//k u ɾ t a ɾ m a k//q u t q a z m ɒ q//q ʉ t q ɑ ɾ u//q o t q a r ɯ u//q o t q ɑ r u//ɕ ə l//b ɨː h aː//œ r y h y y//a b ɨ r aː"
@@ -9216,7 +9204,7 @@ graph [
     family_count 1
   ]
   node [
-    id 768
+    id 767
     label "END (OF TIME)"
     occurrences "clicsbp-idssegmented-azerbaijani-ENDOFTIME-1//clicsbp-idssegmented-azerbaijani-ENDOFTIME-2//clicsbp-idssegmented-kumyk-ENDOFTIME-1//clicsbp-idssegmented-kumyk-ENDOFTIME-2//clicsbp-idssegmented-nogai-ENDOFTIME-1//clicsbp-idssegmented-nogai-ENDOFTIME-2//clicsbp-northeuralex-tur-ENDOFTIME-1//clicsbp-northeuralex-uzn-ENDOFTIME-1//clicsbp-northeuralex-kaz-ENDOFTIME-1//clicsbp-northeuralex-kaz-ENDOFTIME-2//clicsbp-northeuralex-bak-ENDOFTIME-2//clicsbp-northeuralex-bak-ENDOFTIME-1//clicsbp-northeuralex-tat-ENDOFTIME-1//clicsbp-northeuralex-chv-ENDOFTIME-1//clicsbp-northeuralex-chv-ENDOFTIME-2//clicsbp-wold-Sakha-ENDOFTIME-1//clicsbp-wold-Sakha-ENDOFTIME-2"
     words "g u r t a r m a g//b i t i r m æ k//a x ɨ r + s a l m a q//b i t d i r m e k//k u t a r u w//ɨ z ɨ n a + j e t y w//s o n//t a m ɒ m//ɑ d ɑ//b ə t uə//a ð a q//h u ŋ//a x ɤ r//p ɘ t n i//p ɘ t m ɘ ʂ//b y t e h i k//b y t yː"
@@ -9228,7 +9216,7 @@ graph [
     family_count 1
   ]
   node [
-    id 769
+    id 768
     label "FINISH"
     occurrences "clicsbp-idssegmented-azerbaijani-FINISH-1//clicsbp-idssegmented-kumyk-FINISH-1//clicsbp-idssegmented-nogai-FINISH-2//clicsbp-idssegmented-nogai-FINISH-1//clicsbp-northeuralex-tur-FINISH-1//clicsbp-northeuralex-uzn-FINISH-1//clicsbp-northeuralex-kaz-FINISH-1//clicsbp-northeuralex-kaz-FINISH-2//clicsbp-northeuralex-kaz-FINISH-3//clicsbp-northeuralex-kaz-FINISH-4//clicsbp-northeuralex-bak-FINISH-1//clicsbp-northeuralex-bak-FINISH-2//clicsbp-northeuralex-tat-FINISH-1//clicsbp-northeuralex-tat-FINISH-2//clicsbp-northeuralex-chv-FINISH-1//clicsbp-wold-Sakha-FINISH-1"
     words "g u r t a r m a g//b i t d i r m e k//k u t a r u w//b i t i r y w//b i t i ɾ m ɛ k//b i t i r m ɒ q//b ə t ə ɾ u//ɑ d ɑ q t ɑ u//t ɑ m ɑ m d ɑ u//ɑ j ɑ q t ɑ p + ʃ ə ʁ u//b ø t ø r ø y//t a m a m l au//b e t e r ʉ//t æ m a m l au//p ɘ t ɛ r//b y t e r"
@@ -9240,7 +9228,7 @@ graph [
     family_count 1
   ]
   node [
-    id 770
+    id 769
     label "DESTROY"
     occurrences "clicsbp-idssegmented-azerbaijani-DESTROY-1//clicsbp-idssegmented-azerbaijani-DESTROY-2//clicsbp-idssegmented-kumyk-DESTROY-1//clicsbp-idssegmented-nogai-DESTROY-1//clicsbp-northeuralex-tur-DESTROY-1//clicsbp-northeuralex-tur-DESTROY-2//clicsbp-northeuralex-uzn-DESTROY-1//clicsbp-northeuralex-kaz-DESTROY-1//clicsbp-northeuralex-kaz-DESTROY-2//clicsbp-northeuralex-bak-DESTROY-1//clicsbp-northeuralex-tat-DESTROY-1//clicsbp-northeuralex-chv-DESTROY-1//clicsbp-wold-Sakha-DESTROY-1"
     words "d a ɣ ɨ t m a g//s œ k m æ k//b u z m a q//b u z u w//j ɯ k m a k//t a h ɾ i p + ɛ t m ɛ k//w a j r ɒ n + q i l m ɒ q//q ɪ j ɾ ɑ t u//t ɑ l q ɑ n d ɑ u//j e m e r e y//dʑ i m e r ʉ//i ʂ//a l dʒ a t"
@@ -9252,7 +9240,7 @@ graph [
     family_count 1
   ]
   node [
-    id 771
+    id 770
     label "DAMAGE OR INJURE"
     occurrences "clicsbp-idssegmented-azerbaijani-DAMAGEORINJURE-1//clicsbp-idssegmented-kumyk-DAMAGEORINJURE-1//clicsbp-idssegmented-nogai-DAMAGEORINJURE-1"
     words "z æ r æ r + v u r m a g//z a r a l + e t m e k//z ɨ j a + k e l t i r y w"
@@ -9264,7 +9252,7 @@ graph [
     family_count 1
   ]
   node [
-    id 772
+    id 771
     label "LOOK FOR"
     occurrences "clicsbp-idssegmented-azerbaijani-LOOKFOR-1//clicsbp-idssegmented-kumyk-LOOKFOR-1//clicsbp-idssegmented-nogai-LOOKFOR-1//clicsbp-northeuralex-tur-LOOKFOR-1//clicsbp-northeuralex-uzn-LOOKFOR-1//clicsbp-northeuralex-kaz-LOOKFOR-1//clicsbp-northeuralex-bak-LOOKFOR-1//clicsbp-northeuralex-tat-LOOKFOR-1//clicsbp-northeuralex-chv-LOOKFOR-1//clicsbp-wold-Sakha-LOOKFOR-1//clicsbp-savelyevturkic-Karaim-LOOKFOR-1//clicsbp-savelyevturkic-Karaim-LOOKFOR-2"
     words "a x t a r m a g//i z l e m e k//i z l e w//a ɾ a m a k//i z l a m ɒ q//ə z d e u//e ð l æ y//ɛ z l æ ʉ//ʂ ɯ r a//k œ r d œː//i z d e//a χ t a r"
@@ -9276,7 +9264,7 @@ graph [
     family_count 1
   ]
   node [
-    id 773
+    id 772
     label "FIND"
     occurrences "clicsbp-idssegmented-azerbaijani-FIND-1//clicsbp-idssegmented-kumyk-FIND-1//clicsbp-idssegmented-nogai-FIND-1//clicsbp-northeuralex-tur-FIND-1//clicsbp-northeuralex-uzn-FIND-1//clicsbp-northeuralex-kaz-FIND-1//clicsbp-northeuralex-bak-FIND-1//clicsbp-northeuralex-tat-FIND-1//clicsbp-northeuralex-chv-FIND-1//clicsbp-wold-Sakha-FIND-1//clicsbp-savelyevturkic-Karaim-FIND-1"
     words "t a p m a g//t a p m a q//t a b u w//b u l m a k//t ɒ p m ɒ q//t ɑ b u//t a b ɯ u//t a b u//t u p//b u l//t a p"
@@ -9288,7 +9276,7 @@ graph [
     family_count 1
   ]
   node [
-    id 774
+    id 773
     label "MISPLACE"
     occurrences "clicsbp-idssegmented-azerbaijani-MISPLACE-1//clicsbp-idssegmented-kumyk-MISPLACE-1//clicsbp-idssegmented-nogai-MISPLACE-1//clicsbp-northeuralex-tur-MISPLACE-1//clicsbp-northeuralex-tur-MISPLACE-2//clicsbp-northeuralex-uzn-MISPLACE-1//clicsbp-northeuralex-kaz-MISPLACE-1//clicsbp-northeuralex-bak-MISPLACE-1//clicsbp-northeuralex-tat-MISPLACE-1//clicsbp-northeuralex-chv-MISPLACE-1//clicsbp-wold-Sakha-MISPLACE-1"
     words "i t i r m æ k//t a s + e t m e k//j o k + e t y w//j i t i ɾ m ɛ k//k a j b ɛ t m ɛ k//j o q ɒ t m ɒ q//ʒ o ʁ ɑ l t u//j u ɣ a l t ɯ u//j ʊ g a l t u//ɕ ɘ t ɛ r//s y t e r"
@@ -9300,7 +9288,7 @@ graph [
     family_count 1
   ]
   node [
-    id 775
+    id 774
     label "LET GO OR SET FREE"
     occurrences "clicsbp-idssegmented-azerbaijani-LETGOORSETFREE-1//clicsbp-idssegmented-kumyk-LETGOORSETFREE-1//clicsbp-idssegmented-nogai-LETGOORSETFREE-1//clicsbp-wold-Sakha-LETGOORSETFREE-1"
     words "b u r a x m a g//j i b e r m e k//j i b e r y w//ɨː t"
@@ -9312,7 +9300,7 @@ graph [
     family_count 1
   ]
   node [
-    id 776
+    id 775
     label "RICH"
     occurrences "clicsbp-idssegmented-azerbaijani-RICH-1//clicsbp-idssegmented-azerbaijani-RICH-2//clicsbp-idssegmented-kumyk-RICH-1//clicsbp-idssegmented-nogai-RICH-1//clicsbp-northeuralex-tur-RICH-1//clicsbp-northeuralex-uzn-RICH-1//clicsbp-northeuralex-kaz-RICH-1//clicsbp-northeuralex-bak-RICH-1//clicsbp-northeuralex-tat-RICH-1//clicsbp-northeuralex-chv-RICH-1//clicsbp-wold-Sakha-RICH-1"
     words "v a r l ɨ//z æ n gʲ i n//b a j//b a j//z ɛ n g i n//b ɒ j//m ɑ l d ə//b a j//b a j//p u j a n//b aː y"
@@ -9324,7 +9312,7 @@ graph [
     family_count 1
   ]
   node [
-    id 777
+    id 776
     label "POOR"
     occurrences "clicsbp-idssegmented-azerbaijani-POOR-1//clicsbp-idssegmented-kumyk-POOR-1//clicsbp-idssegmented-kumyk-POOR-2//clicsbp-idssegmented-nogai-POOR-1//clicsbp-idssegmented-nogai-POOR-2//clicsbp-northeuralex-tur-POOR-1//clicsbp-northeuralex-uzn-POOR-1//clicsbp-northeuralex-kaz-POOR-1//clicsbp-northeuralex-kaz-POOR-2//clicsbp-northeuralex-bak-POOR-1//clicsbp-northeuralex-tat-POOR-1//clicsbp-northeuralex-chv-POOR-1//clicsbp-wold-Sakha-POOR-1"
     words "k a s ɨ b//u a r l i//k a s i p//j a r l ɨ//k ä r i p//f a k i ɾ//a b g ɒ r//k e d e j//d æ u l e t s ə z//f æ q i r//f æ q ɤ j r ʔ//tɕ u χ ə n//dʒ a d a ŋ ɨ"
@@ -9336,7 +9324,7 @@ graph [
     family_count 1
   ]
   node [
-    id 778
+    id 777
     label "BEGGAR"
     occurrences "clicsbp-idssegmented-azerbaijani-BEGGAR-1//clicsbp-idssegmented-azerbaijani-BEGGAR-2//clicsbp-idssegmented-kumyk-BEGGAR-3//clicsbp-idssegmented-kumyk-BEGGAR-1//clicsbp-idssegmented-kumyk-BEGGAR-2//clicsbp-idssegmented-nogai-BEGGAR-2//clicsbp-idssegmented-nogai-BEGGAR-1//clicsbp-wold-Sakha-BEGGAR-2//clicsbp-wold-Sakha-BEGGAR-1//clicsbp-wold-Sakha-BEGGAR-3"
     words "d i l æ n tʃ i//j o x s u l//k a s i p//t i l e n tʃ i//s a d a ɣ a tʃ ɨ//j a r l ɨ//t i l e n ʃ i//dʒ a d a ŋ ɨ//u m n a h ɨ t//k u m a l a n"
@@ -9348,7 +9336,7 @@ graph [
     family_count 1
   ]
   node [
-    id 779
+    id 778
     label "STINGY"
     occurrences "clicsbp-idssegmented-azerbaijani-STINGY-1//clicsbp-idssegmented-azerbaijani-STINGY-2//clicsbp-idssegmented-kumyk-STINGY-1//clicsbp-idssegmented-kumyk-STINGY-2//clicsbp-idssegmented-nogai-STINGY-1//clicsbp-northeuralex-tur-STINGY-1//clicsbp-northeuralex-uzn-STINGY-1//clicsbp-northeuralex-kaz-STINGY-1//clicsbp-northeuralex-bak-STINGY-1//clicsbp-northeuralex-tat-STINGY-1//clicsbp-northeuralex-chv-STINGY-1//clicsbp-wold-Sakha-STINGY-1"
     words "x æ s i s//s i m i dʒ//q ɨ z ɣ a n tʃ//q a r ɨ m//k ɨ z g a n ɨ ʃ//dʒ i m ɾ i//q u r u m s ɒ q//s ɑ ɾ ɑ ŋ//h a r a n//s a r a n//χ ɯ t ə//k e tʃː e g e y"
@@ -9360,7 +9348,7 @@ graph [
     family_count 1
   ]
   node [
-    id 780
+    id 779
     label "GREEDY"
     occurrences "clicsbp-idssegmented-azerbaijani-GREEDY-1//clicsbp-idssegmented-azerbaijani-GREEDY-2//clicsbp-idssegmented-kumyk-GREEDY-1//clicsbp-idssegmented-nogai-GREEDY-1//clicsbp-wold-Sakha-GREEDY-1//clicsbp-wold-Sakha-GREEDY-2//clicsbp-wold-Sakha-GREEDY-3"
     words "s i m i dʒ//t a m a h k a r//q ɨ z ɣ a n tʃ//k ɨ z g a n ʃ//k e tʃː e g e y//i ŋ s e l eː χ//ɨ m s ɨː"
@@ -9372,7 +9360,7 @@ graph [
     family_count 1
   ]
   node [
-    id 781
+    id 780
     label "LEND"
     occurrences "clicsbp-idssegmented-azerbaijani-LEND-1//clicsbp-idssegmented-kumyk-LEND-1//clicsbp-idssegmented-nogai-LEND-1//clicsbp-wold-Sakha-LEND-1//clicsbp-wold-Sakha-LEND-2"
     words "b o r dʒ + v e r m æ k//b o r tʃ ɣ a + b e r m e k//b o r ɨ ʃ k a + b e r y w//i e h eː//u l a r ɨ s"
@@ -9384,7 +9372,7 @@ graph [
     family_count 1
   ]
   node [
-    id 782
+    id 781
     label "BORROW"
     occurrences "clicsbp-idssegmented-azerbaijani-BORROW-1//clicsbp-idssegmented-kumyk-BORROW-1//clicsbp-idssegmented-nogai-BORROW-1//clicsbp-wold-Sakha-BORROW-2//clicsbp-wold-Sakha-BORROW-1"
     words "b o r dʒ + a l m a g//b o r tʃ ɣ a + a l m a q//b o r ɨ ʃ k a + a l u w//u l a r ɨ s//i e s + ɨ l"
@@ -9396,7 +9384,7 @@ graph [
     family_count 1
   ]
   node [
-    id 783
+    id 782
     label "OWE"
     occurrences "clicsbp-idssegmented-azerbaijani-OWE-1//clicsbp-idssegmented-kumyk-OWE-1//clicsbp-idssegmented-nogai-OWE-1//clicsbp-wold-Sakha-OWE-1"
     words "b o r dʒ l u + o l m a g//b o r tʃ l u//b o r ɨ ʃ l ɨ + b o l u w//i e s t eː χ"
@@ -9408,7 +9396,7 @@ graph [
     family_count 1
   ]
   node [
-    id 784
+    id 783
     label "DEBT"
     occurrences "clicsbp-idssegmented-azerbaijani-DEBT-1//clicsbp-idssegmented-kumyk-DEBT-1//clicsbp-idssegmented-nogai-DEBT-1//clicsbp-wold-Sakha-DEBT-1"
     words "b o r dʒ//b o r tʃ//b o r ɨ ʃ//i e s"
@@ -9420,7 +9408,7 @@ graph [
     family_count 1
   ]
   node [
-    id 785
+    id 784
     label "PAY"
     occurrences "clicsbp-idssegmented-azerbaijani-PAY-1//clicsbp-idssegmented-kumyk-PAY-1//clicsbp-idssegmented-nogai-PAY-1//clicsbp-northeuralex-tur-PAY-1//clicsbp-northeuralex-uzn-PAY-1//clicsbp-northeuralex-kaz-PAY-1//clicsbp-northeuralex-bak-PAY-1//clicsbp-northeuralex-tat-PAY-1//clicsbp-northeuralex-chv-PAY-1//clicsbp-wold-Sakha-PAY-1"
     words "œ d æ m æ k//t œ l e m e k//t œ l e w//œ d ɛ m ɛ k//t o l a m ɒ q//t ø l e u//t y l æ y//t ʉ l æ ʉ//t y l ɛ//t œ l œː"
@@ -9432,7 +9420,7 @@ graph [
     family_count 1
   ]
   node [
-    id 786
+    id 785
     label "BILL"
     occurrences "clicsbp-idssegmented-azerbaijani-BILL-1//clicsbp-idssegmented-azerbaijani-BILL-2//clicsbp-idssegmented-kumyk-BILL-1//clicsbp-idssegmented-kumyk-BILL-2//clicsbp-idssegmented-nogai-BILL-2//clicsbp-idssegmented-nogai-BILL-1//clicsbp-wold-Sakha-BILL-1"
     words "h e s a b//s a j//s a n a w//h i s a p//s a n//e s a p//s u o t"
@@ -9444,7 +9432,7 @@ graph [
     family_count 1
   ]
   node [
-    id 787
+    id 786
     label "TAX"
     occurrences "clicsbp-idssegmented-azerbaijani-TAX-1//clicsbp-idssegmented-kumyk-TAX-1//clicsbp-idssegmented-nogai-TAX-1//clicsbp-wold-Sakha-TAX-1"
     words "v e r gʲ i//n a l o g//n a l o g//n o l u o k"
@@ -9456,7 +9444,7 @@ graph [
     family_count 1
   ]
   node [
-    id 788
+    id 787
     label "WAGES"
     occurrences "clicsbp-idssegmented-azerbaijani-WAGES-1//clicsbp-idssegmented-kumyk-WAGES-1//clicsbp-idssegmented-kumyk-WAGES-2//clicsbp-idssegmented-nogai-WAGES-1//clicsbp-wold-Sakha-WAGES-1"
     words "æ m æ k + h a gː ɨ//a l a p a//a j l ɨ q//k ɨ j ɨ n + a k//χ a m n a s"
@@ -9468,7 +9456,7 @@ graph [
     family_count 1
   ]
   node [
-    id 789
+    id 788
     label "EARN"
     occurrences "clicsbp-idssegmented-azerbaijani-EARN-1//clicsbp-idssegmented-kumyk-EARN-1//clicsbp-idssegmented-nogai-EARN-1//clicsbp-idssegmented-nogai-EARN-2//clicsbp-wold-Sakha-EARN-1"
     words "g a z a n m a g//q a z a n m a q//i s l e p + t a b u w//k a z a n u w//œ l œ r"
@@ -9480,7 +9468,7 @@ graph [
     family_count 1
   ]
   node [
-    id 790
+    id 789
     label "SELL"
     occurrences "clicsbp-idssegmented-azerbaijani-SELL-1//clicsbp-idssegmented-kumyk-SELL-1//clicsbp-idssegmented-nogai-SELL-1//clicsbp-northeuralex-tur-SELL-1//clicsbp-northeuralex-uzn-SELL-1//clicsbp-northeuralex-kaz-SELL-1//clicsbp-northeuralex-bak-SELL-1//clicsbp-northeuralex-tat-SELL-1//clicsbp-northeuralex-chv-SELL-1//clicsbp-wold-Sakha-SELL-1"
     words "s a t m a g//s a t m a q//s a t u w//s a t m a k//s ɒ t m ɒ q//s ɑ t u//h a t ɯ u//s a t u//s u t//a t ɨː l aː"
@@ -9492,7 +9480,7 @@ graph [
     family_count 1
   ]
   node [
-    id 791
+    id 790
     label "BETRAY"
     occurrences "clicsbp-idssegmented-azerbaijani-BETRAY-2//clicsbp-idssegmented-azerbaijani-BETRAY-1//clicsbp-idssegmented-kumyk-BETRAY-1//clicsbp-idssegmented-nogai-BETRAY-2//clicsbp-idssegmented-nogai-BETRAY-1//clicsbp-wold-Sakha-BETRAY-1"
     words "s a t m a g//x æ j a n æ t + e t m æ k//s a t m a q//t a s l a w//s a t u w//t a ŋ n a r"
@@ -9504,7 +9492,7 @@ graph [
     family_count 1
   ]
   node [
-    id 792
+    id 791
     label "TRADE OR BARTER"
     occurrences "clicsbp-idssegmented-azerbaijani-TRADEORBARTER-1//clicsbp-idssegmented-azerbaijani-TRADEORBARTER-2//clicsbp-idssegmented-kumyk-TRADEORBARTER-1//clicsbp-idssegmented-kumyk-TRADEORBARTER-2//clicsbp-idssegmented-nogai-TRADEORBARTER-1//clicsbp-idssegmented-nogai-TRADEORBARTER-2//clicsbp-wold-Sakha-TRADEORBARTER-1"
     words "a l v e r//d æ j i ʃ m æ//s a t ɨ w + a l ɨ w//a l ɨ ʃ d ɨ r ɨ w//s a t u w + a l u w//a w ɨ s t ɨ r u w//a t a s t a s"
@@ -9516,7 +9504,7 @@ graph [
     family_count 1
   ]
   node [
-    id 793
+    id 792
     label "MERCHANT"
     occurrences "clicsbp-idssegmented-azerbaijani-MERCHANT-1//clicsbp-idssegmented-azerbaijani-MERCHANT-2//clicsbp-idssegmented-kumyk-MERCHANT-1//clicsbp-idssegmented-kumyk-MERCHANT-2//clicsbp-idssegmented-nogai-MERCHANT-1//clicsbp-idssegmented-nogai-MERCHANT-2//clicsbp-wold-Sakha-MERCHANT-1"
     words "t a dʒ i r//a l v e r tʃ i//k u p e c//s a t ɨ w + a l ɨ w tʃ u//k u p e c//s a t u w ʃ ɨ//a t ɨː h ɨ t"
@@ -9528,7 +9516,7 @@ graph [
     family_count 1
   ]
   node [
-    id 794
+    id 793
     label "MARKET"
     occurrences "clicsbp-idssegmented-azerbaijani-MARKET-1//clicsbp-idssegmented-kumyk-MARKET-1//clicsbp-idssegmented-nogai-MARKET-1//clicsbp-wold-Sakha-MARKET-1"
     words "b a z a r//b a z a r//b a z a r//ɨ r ɨː n a k"
@@ -9540,7 +9528,7 @@ graph [
     family_count 1
   ]
   node [
-    id 795
+    id 794
     label "STORE"
     occurrences "clicsbp-idssegmented-azerbaijani-STORE-1//clicsbp-idssegmented-azerbaijani-STORE-2//clicsbp-idssegmented-kumyk-STORE-1//clicsbp-idssegmented-nogai-STORE-1//clicsbp-wold-Sakha-STORE-1//clicsbp-wold-Sakha-STORE-2"
     words "m a ɣ a z a//d ü kː a n//t ü k e n//t ü k e n//m a ɣ a h ɨː n//l aː pː ɨ"
@@ -9552,7 +9540,7 @@ graph [
     family_count 1
   ]
   node [
-    id 796
+    id 795
     label "PRICE"
     occurrences "clicsbp-idssegmented-azerbaijani-PRICE-1//clicsbp-idssegmented-kumyk-PRICE-1//clicsbp-idssegmented-nogai-PRICE-1//clicsbp-northeuralex-tur-PRICE-1//clicsbp-northeuralex-uzn-PRICE-1//clicsbp-northeuralex-kaz-PRICE-1//clicsbp-northeuralex-kaz-PRICE-2//clicsbp-northeuralex-kaz-PRICE-3//clicsbp-northeuralex-bak-PRICE-1//clicsbp-northeuralex-tat-PRICE-1//clicsbp-northeuralex-tat-PRICE-2//clicsbp-northeuralex-chv-PRICE-1//clicsbp-wold-Sakha-PRICE-1"
     words "g i j m æ t//b a h a s ɨ//b a ʔ a//f i j a t//b a h ɒ//ɑ q ə//q ʉ n ə//n ɑ ɾ ə q//x a q//b æ j a//b æ h a//χ a k//s ɨ a n a"
@@ -9564,7 +9552,7 @@ graph [
     family_count 1
   ]
   node [
-    id 797
+    id 796
     label "EXPENSIVE"
     occurrences "clicsbp-idssegmented-azerbaijani-EXPENSIVE-1//clicsbp-idssegmented-kumyk-EXPENSIVE-1//clicsbp-idssegmented-nogai-EXPENSIVE-1//clicsbp-idssegmented-nogai-EXPENSIVE-2//clicsbp-northeuralex-tur-EXPENSIVE-1//clicsbp-northeuralex-uzn-EXPENSIVE-1//clicsbp-northeuralex-kaz-EXPENSIVE-1//clicsbp-northeuralex-bak-EXPENSIVE-1//clicsbp-northeuralex-tat-EXPENSIVE-1//clicsbp-northeuralex-chv-EXPENSIVE-1//clicsbp-wold-Sakha-EXPENSIVE-1"
     words "b a h a//b a h a//b a ʔ a//b a ʔ a l ɨ//p a h a l ɯ//q i mː a t//b ɑ ʁ ɑ l ə//q ɯ j b a t l ɯ//x a k l ɤ//χ a k l ə//ɨ a r a χ a n"
@@ -9576,7 +9564,7 @@ graph [
     family_count 1
   ]
   node [
-    id 798
+    id 797
     label "CHEAP"
     occurrences "clicsbp-idssegmented-azerbaijani-CHEAP-1//clicsbp-idssegmented-kumyk-CHEAP-1//clicsbp-idssegmented-nogai-CHEAP-1//clicsbp-northeuralex-tur-CHEAP-1//clicsbp-northeuralex-uzn-CHEAP-1//clicsbp-northeuralex-kaz-CHEAP-1//clicsbp-northeuralex-bak-CHEAP-1//clicsbp-northeuralex-tat-CHEAP-1//clicsbp-northeuralex-chv-CHEAP-1//clicsbp-wold-Sakha-CHEAP-1"
     words "u dʒ u z//u tʃ u z//k o l a j//u dʒ u z//a r z ɒ n//ɑ ɾ z ɑ n//a r z a n//a r z a n//j y n ɘ//tʃ e p tʃ e k i"
@@ -9588,7 +9576,7 @@ graph [
     family_count 1
   ]
   node [
-    id 799
+    id 798
     label "SHARE"
     occurrences "clicsbp-idssegmented-azerbaijani-SHARE-1//clicsbp-idssegmented-kumyk-SHARE-1//clicsbp-idssegmented-nogai-SHARE-1//clicsbp-idssegmented-nogai-SHARE-2//clicsbp-wold-Sakha-SHARE-1"
     words "b œ l ü ʃ d ü r m æ k//p a j l a m a q//p a j l a w//b œ l i p + b e r y w//b e r i s"
@@ -9600,7 +9588,7 @@ graph [
     family_count 1
   ]
   node [
-    id 800
+    id 799
     label "AFTER"
     occurrences "clicsbp-idssegmented-azerbaijani-AFTER-1//clicsbp-idssegmented-kumyk-AFTER-1//clicsbp-idssegmented-nogai-AFTER-1//clicsbp-wold-Sakha-AFTER-1"
     words "s o n r a//s o ŋ//s o ŋ//k e nː i tː e n"
@@ -9612,7 +9600,7 @@ graph [
     family_count 1
   ]
   node [
-    id 801
+    id 800
     label "BEHIND"
     occurrences "clicsbp-idssegmented-azerbaijani-BEHIND-1//clicsbp-idssegmented-azerbaijani-BEHIND-2//clicsbp-idssegmented-kumyk-BEHIND-2//clicsbp-idssegmented-kumyk-BEHIND-1//clicsbp-idssegmented-nogai-BEHIND-2//clicsbp-idssegmented-nogai-BEHIND-1//clicsbp-northeuralex-tur-BEHIND-1//clicsbp-northeuralex-uzn-BEHIND-1//clicsbp-northeuralex-kaz-BEHIND-1//clicsbp-northeuralex-bak-BEHIND-1//clicsbp-northeuralex-tat-BEHIND-1//clicsbp-northeuralex-chv-BEHIND-1//clicsbp-wold-Sakha-BEHIND-1"
     words "d a l ɨ n d a//a r x a s ɨ n d a//s o ŋ//a r i + u a n ɨ n d a//s o ŋ//o nː a n + s o ŋ//a ɾ k a s ɯ n d a//k ɛ t i d a//ɑ ɾ t ə n ɑ n//a r t ɯ n d a//a r tː a n//k a j r a//k e nː i g e r"
@@ -9624,7 +9612,7 @@ graph [
     family_count 1
   ]
   node [
-    id 802
+    id 801
     label "BESIDE"
     occurrences "clicsbp-idssegmented-azerbaijani-BESIDE-1//clicsbp-idssegmented-kumyk-BESIDE-1//clicsbp-idssegmented-kumyk-BESIDE-2//clicsbp-idssegmented-nogai-BESIDE-1//clicsbp-idssegmented-nogai-BESIDE-2//clicsbp-wold-Sakha-BESIDE-1//clicsbp-wold-Sakha-BESIDE-2"
     words "j a n + j a n a//u a n ɨ d a//q ɨ r ɨ j ɨ n d a//j a n ɨ n d a//k a s ɨ n d a//t a h ɨ g a r//a tː ɨ g a r"
@@ -9636,7 +9624,7 @@ graph [
     family_count 1
   ]
   node [
-    id 803
+    id 802
     label "NEAR"
     occurrences "clicsbp-idssegmented-azerbaijani-NEAR-1//clicsbp-idssegmented-azerbaijani-NEAR-2//clicsbp-idssegmented-kumyk-NEAR-1//clicsbp-idssegmented-kumyk-NEAR-2//clicsbp-idssegmented-nogai-NEAR-1//clicsbp-idssegmented-nogai-NEAR-2//clicsbp-northeuralex-tur-NEAR-1//clicsbp-northeuralex-tur-NEAR-2//clicsbp-northeuralex-uzn-NEAR-1//clicsbp-northeuralex-kaz-NEAR-1//clicsbp-northeuralex-kaz-NEAR-2//clicsbp-northeuralex-bak-NEAR-1//clicsbp-northeuralex-tat-NEAR-1//clicsbp-northeuralex-chv-NEAR-1//clicsbp-northeuralex-chv-NEAR-2//clicsbp-wold-Sakha-NEAR-1//clicsbp-savelyevturkic-Karaim-NEAR-1"
     words "j a n + j a n a//j a n a ʃ ɨ//u a n a ʃ a//q ɨ r ɨ j d a//j a n ɨ n d a//k a s ɨ n d a//j a k ɯ n//b i t i ʃ i k//j a q i n d a g i//ʒ uə q//e t e n e//j a q ɯ n//j a q ɤ n//ɕ ɯ ʋ ə χ//ɕ ɯ ʋ ə χ r i//tʃ u g a s//j a q ɯ n"
@@ -9648,7 +9636,7 @@ graph [
     family_count 1
   ]
   node [
-    id 804
+    id 803
     label "DOWN OR BELOW"
     occurrences "clicsbp-idssegmented-azerbaijani-DOWNORBELOW-1//clicsbp-idssegmented-azerbaijani-DOWNORBELOW-2//clicsbp-idssegmented-kumyk-DOWNORBELOW-1//clicsbp-idssegmented-kumyk-DOWNORBELOW-2//clicsbp-idssegmented-nogai-DOWNORBELOW-1//clicsbp-idssegmented-nogai-DOWNORBELOW-2"
     words "a ʃ a ɣ ɨ//a ʃ a ɣ ɨ + i s t i g a t æ t d æ//e n i ʃ//t ü p g e + b a ɣ ɨ p//t œ m e n//t œ m e n g e"
@@ -9660,7 +9648,7 @@ graph [
     family_count 1
   ]
   node [
-    id 805
+    id 804
     label "BEFORE"
     occurrences "clicsbp-idssegmented-azerbaijani-BEFORE-1//clicsbp-idssegmented-azerbaijani-BEFORE-2//clicsbp-idssegmented-kumyk-BEFORE-1//clicsbp-idssegmented-kumyk-BEFORE-2//clicsbp-idssegmented-nogai-BEFORE-1//clicsbp-idssegmented-nogai-BEFORE-2//clicsbp-idssegmented-nogai-BEFORE-3//clicsbp-northeuralex-tur-BEFORE-1//clicsbp-northeuralex-tur-BEFORE-2//clicsbp-northeuralex-uzn-BEFORE-1//clicsbp-northeuralex-kaz-BEFORE-1//clicsbp-northeuralex-bak-BEFORE-1//clicsbp-northeuralex-tat-BEFORE-1//clicsbp-northeuralex-chv-BEFORE-1//clicsbp-wold-Sakha-BEFORE-1"
     words "g a b a ɣ ɨ n d a//d æ k//a l d a//a l d ɨ n//a l d ɨ//a l d ɨ n//o g a + d e j i m//œ n dʒ ɛ//œ n dʒ ɛ d ɛ n//a wː a l//b ʉ ɾ ə n//e l e k//ɛ l e k//m a l t a n//i nː i n e"
@@ -9672,7 +9660,7 @@ graph [
     family_count 1
   ]
   node [
-    id 806
+    id 805
     label "IN FRONT OF"
     occurrences "clicsbp-idssegmented-azerbaijani-INFRONTOF-1//clicsbp-idssegmented-kumyk-INFRONTOF-1//clicsbp-idssegmented-nogai-INFRONTOF-1//clicsbp-northeuralex-tur-INFRONTOF-1//clicsbp-northeuralex-uzn-INFRONTOF-1//clicsbp-northeuralex-kaz-INFRONTOF-1//clicsbp-northeuralex-bak-INFRONTOF-1//clicsbp-northeuralex-tat-INFRONTOF-1//clicsbp-northeuralex-chv-INFRONTOF-1//clicsbp-wold-Sakha-INFRONTOF-1"
     words "g a r ʃ ɨ s ɨ n d a//a l d a//a l d ɨ//œ n y n d ɛ//b u r u n//ɑ l d ə//a l d ɯ n d a//a l d ɤ n n a n//u m ɘ n tɕ ɛ//i nː i g e r"
@@ -9684,7 +9672,7 @@ graph [
     family_count 1
   ]
   node [
-    id 807
+    id 806
     label "INSIDE"
     occurrences "clicsbp-idssegmented-azerbaijani-INSIDE-1//clicsbp-idssegmented-kumyk-INSIDE-1//clicsbp-idssegmented-nogai-INSIDE-1//clicsbp-wold-Sakha-INSIDE-1"
     words "i tʃ æ r i s i n d æ//i tʃ i n d e//i ʃ i n d e//i h i g e r"
@@ -9696,7 +9684,7 @@ graph [
     family_count 1
   ]
   node [
-    id 808
+    id 807
     label "OUTSIDE"
     occurrences "clicsbp-idssegmented-azerbaijani-OUTSIDE-1//clicsbp-idssegmented-kumyk-OUTSIDE-1//clicsbp-idssegmented-nogai-OUTSIDE-1//clicsbp-idssegmented-nogai-OUTSIDE-2//clicsbp-wold-Sakha-OUTSIDE-1"
     words "b a j ɨ r d a n//t ɨ ʃ d a//t ɨ s ɨ n d a//k ɨ r ɨ n d a//t a h ɨ r dʒ a"
@@ -9708,7 +9696,7 @@ graph [
     family_count 1
   ]
   node [
-    id 809
+    id 808
     label "BELOW OR UNDER"
     occurrences "clicsbp-idssegmented-azerbaijani-BELOWORUNDER-1//clicsbp-idssegmented-kumyk-BELOWORUNDER-1//clicsbp-idssegmented-nogai-BELOWORUNDER-1//clicsbp-idssegmented-nogai-BELOWORUNDER-2//clicsbp-northeuralex-tur-BELOWORUNDER-1//clicsbp-northeuralex-uzn-BELOWORUNDER-1//clicsbp-northeuralex-kaz-BELOWORUNDER-1//clicsbp-northeuralex-kaz-BELOWORUNDER-2//clicsbp-northeuralex-bak-BELOWORUNDER-1//clicsbp-northeuralex-tat-BELOWORUNDER-1//clicsbp-northeuralex-chv-BELOWORUNDER-1//clicsbp-northeuralex-chv-BELOWORUNDER-2//clicsbp-northeuralex-chv-BELOWORUNDER-3//clicsbp-northeuralex-chv-BELOWORUNDER-4//clicsbp-wold-Sakha-BELOWORUNDER-1"
     words "a l t//t ü b ü n d e//t œ m e n d e + a s t ɨ n d a//t ü b i n d e//a l t ɯ n d a//ɒ s t i d a//t ʊ p//m ɑ ŋ ə n d ɑ//a θ t ɯ n d a//a s t ɤ n d a//a j n ɛ//a j ɘ p ɛ//a j ɘ n tɕ ɛ//ɕ i t ɛ s p ɛ//a nː ɨ g a r"
@@ -9720,7 +9708,7 @@ graph [
     family_count 1
   ]
   node [
-    id 810
+    id 809
     label "UP"
     occurrences "clicsbp-idssegmented-azerbaijani-UP-1//clicsbp-idssegmented-kumyk-UP-1//clicsbp-idssegmented-nogai-UP-1//clicsbp-northeuralex-tur-UP-1//clicsbp-northeuralex-tur-UP-2//clicsbp-northeuralex-uzn-UP-1//clicsbp-northeuralex-kaz-UP-1//clicsbp-northeuralex-bak-UP-1//clicsbp-northeuralex-tat-UP-1//clicsbp-northeuralex-chv-UP-1//clicsbp-wold-Sakha-UP-1"
     words "y s t ü n d æ//y s t ü n d e//y s t i n d e//j u k a ɾ ɯ//j u k a ɾ ɯ j a//j u q ɒ r i d a//ø ɾ g e//j u ɣ a r ɯ ɣ a//œ s k æ//ɕ y l ɛ//y œ h e"
@@ -9732,7 +9720,7 @@ graph [
     family_count 1
   ]
   node [
-    id 811
+    id 810
     label "PLACE (POSITION)"
     occurrences "clicsbp-idssegmented-azerbaijani-PLACEPOSITION-1//clicsbp-idssegmented-kumyk-PLACEPOSITION-1//clicsbp-idssegmented-nogai-PLACEPOSITION-2//clicsbp-idssegmented-nogai-PLACEPOSITION-1//clicsbp-northeuralex-tur-PLACEPOSITION-1//clicsbp-northeuralex-uzn-PLACEPOSITION-1//clicsbp-northeuralex-kaz-PLACEPOSITION-1//clicsbp-northeuralex-bak-PLACEPOSITION-1//clicsbp-northeuralex-bak-PLACEPOSITION-2//clicsbp-northeuralex-bak-PLACEPOSITION-3//clicsbp-northeuralex-tat-PLACEPOSITION-1//clicsbp-northeuralex-chv-PLACEPOSITION-1//clicsbp-wold-Sakha-PLACEPOSITION-1"
     words "j e r//j e r//j e r//o r ɨ n//j ɛ ɾ//dʒ ɒ j//o ɾ ə n//j e r ð æ r//u r ɯ n d a r//e ʃ + u r ɯ n ɯ//u r ɤ n//ʋ ɯ r ə n//s i r"
@@ -9744,7 +9732,7 @@ graph [
     family_count 1
   ]
   node [
-    id 812
+    id 811
     label "PUT"
     occurrences "clicsbp-idssegmented-azerbaijani-PUT-1//clicsbp-idssegmented-kumyk-PUT-1//clicsbp-idssegmented-nogai-PUT-1//clicsbp-idssegmented-nogai-PUT-2//clicsbp-wold-Sakha-PUT-1"
     words "g o j m a g//s a l m a q//s a l m a k//s a l u w//uː r"
@@ -9756,7 +9744,7 @@ graph [
     family_count 1
   ]
   node [
-    id 813
+    id 812
     label "LAST (ENDURE)"
     occurrences "clicsbp-idssegmented-azerbaijani-LASTENDURE-2//clicsbp-idssegmented-azerbaijani-LASTENDURE-1//clicsbp-idssegmented-kumyk-LASTENDURE-1//clicsbp-idssegmented-kumyk-LASTENDURE-2//clicsbp-idssegmented-nogai-LASTENDURE-1//clicsbp-idssegmented-nogai-LASTENDURE-2"
     words "u z a n m a g//d a v a m + e t m æ k//d a w a m + e t i l m e k//u z a t ɨ l m a q//u z a k l a n u w//k e m k a l u w"
@@ -9768,7 +9756,7 @@ graph [
     family_count 1
   ]
   node [
-    id 814
+    id 813
     label "STAND"
     occurrences "clicsbp-idssegmented-azerbaijani-STAND-1//clicsbp-idssegmented-azerbaijani-STAND-2//clicsbp-idssegmented-kumyk-STAND-1//clicsbp-idssegmented-nogai-STAND-1//clicsbp-idssegmented-nogai-STAND-2//clicsbp-northeuralex-tur-STAND-1//clicsbp-northeuralex-uzn-STAND-1//clicsbp-northeuralex-kaz-STAND-1//clicsbp-northeuralex-bak-STAND-1//clicsbp-northeuralex-tat-STAND-1//clicsbp-northeuralex-chv-STAND-1//clicsbp-wold-Sakha-STAND-1//clicsbp-savelyevturkic-Karaim-STAND-1"
     words "d u r m a g//d a j a n m a g//e r e t u r m a q//t u r u w//t u r a g a l u w//d u ɾ m a k//t u r m ɒ q//t ʉ ɾ u//t o r ou//t o r u//t ə r//t u r//t u r"
@@ -9780,7 +9768,7 @@ graph [
     family_count 1
   ]
   node [
-    id 815
+    id 814
     label "REMAIN"
     occurrences "clicsbp-idssegmented-azerbaijani-REMAIN-1//clicsbp-idssegmented-kumyk-REMAIN-1//clicsbp-idssegmented-nogai-REMAIN-1//clicsbp-idssegmented-nogai-REMAIN-2//clicsbp-northeuralex-tur-REMAIN-1//clicsbp-northeuralex-uzn-REMAIN-1//clicsbp-northeuralex-kaz-REMAIN-1//clicsbp-northeuralex-bak-REMAIN-1//clicsbp-northeuralex-tat-REMAIN-1//clicsbp-northeuralex-chv-REMAIN-1//clicsbp-wold-Sakha-REMAIN-1//clicsbp-savelyevturkic-Karaim-REMAIN-1"
     words "g a l m a g//q a l m a q//j e r i n d e + k a l u w//k a l u w//k a l m a k//q ɒ l m ɒ q//q ɑ l u//q a l ɯ u//q ɑ l u//j u l//χ aː l//k a l"
@@ -9792,7 +9780,7 @@ graph [
     family_count 1
   ]
   node [
-    id 816
+    id 815
     label "REMAINS"
     occurrences "clicsbp-idssegmented-azerbaijani-REMAINS-1//clicsbp-idssegmented-kumyk-REMAINS-1//clicsbp-idssegmented-nogai-REMAINS-1//clicsbp-idssegmented-nogai-REMAINS-2//clicsbp-wold-Sakha-REMAINS-1"
     words "g a l ɨ g l a r//q a l d ɨ + q u l d u l a r//k a l d ɨ k//k a l m t ɨ k//t o b o χ"
@@ -9804,7 +9792,7 @@ graph [
     family_count 1
   ]
   node [
-    id 817
+    id 816
     label "PICK UP"
     occurrences "clicsbp-idssegmented-azerbaijani-PICKUP-1//clicsbp-idssegmented-kumyk-PICKUP-1//clicsbp-idssegmented-kumyk-PICKUP-2//clicsbp-idssegmented-nogai-PICKUP-1//clicsbp-idssegmented-nogai-PICKUP-2//clicsbp-northeuralex-tur-PICKUP-1//clicsbp-northeuralex-uzn-PICKUP-1//clicsbp-northeuralex-kaz-PICKUP-1//clicsbp-northeuralex-bak-PICKUP-1//clicsbp-northeuralex-tat-PICKUP-1//clicsbp-northeuralex-chv-PICKUP-1//clicsbp-wold-Sakha-PICKUP-1"
     words "gʲ œ t ü r m æ k//g œ t e r m e k//a l m a q//k œ t e r y w//k œ t e r i p + a l u w//k a l d ɯ ɾ m a k//k o t a r m ɒ q//k ø t e ɾ u//m e n d e r e y//k ʉ t æ r ʉ//ɕ ɘ k l ɛ//ɨ l"
@@ -9816,7 +9804,7 @@ graph [
     family_count 1
   ]
   node [
-    id 818
+    id 817
     label "JOIN"
     occurrences "clicsbp-idssegmented-azerbaijani-JOIN-1//clicsbp-idssegmented-azerbaijani-JOIN-2//clicsbp-idssegmented-kumyk-JOIN-1//clicsbp-idssegmented-kumyk-JOIN-2//clicsbp-idssegmented-nogai-JOIN-1//clicsbp-idssegmented-nogai-JOIN-2//clicsbp-northeuralex-tur-JOIN-1//clicsbp-northeuralex-uzn-JOIN-1//clicsbp-northeuralex-kaz-JOIN-1//clicsbp-northeuralex-kaz-JOIN-2//clicsbp-northeuralex-bak-JOIN-1//clicsbp-northeuralex-tat-JOIN-1//clicsbp-northeuralex-chv-JOIN-1//clicsbp-wold-Sakha-JOIN-1"
     words "b i r l æ ʃ d i r m æ k//b i r l æ ʃ m æ k//q o ʃ m a q//b i r l e ʃ m e k//k o s u w//b i r l e s t i r y w//b i ɾ l ɛ ʃ t i ɾ m ɛ k//q o ʃ m ɒ q//b ə ɾ ə k t ə ɾ u//b ə ɾ ə k t ə ɾ ə p + q o j ʊ w//b e r l æ ʃ t e r e y//b e r l æ ʃ t e r ʉ//p ɘ r l ɛ ʂ t ɛ r//χ o l b oː"
@@ -9828,7 +9816,7 @@ graph [
     family_count 1
   ]
   node [
-    id 819
+    id 818
     label "SEPARATE"
     occurrences "clicsbp-idssegmented-azerbaijani-SEPARATE-1//clicsbp-idssegmented-kumyk-SEPARATE-1//clicsbp-idssegmented-nogai-SEPARATE-1//clicsbp-idssegmented-nogai-SEPARATE-2//clicsbp-northeuralex-tur-SEPARATE-1//clicsbp-northeuralex-uzn-SEPARATE-1//clicsbp-northeuralex-kaz-SEPARATE-1//clicsbp-northeuralex-bak-SEPARATE-1//clicsbp-northeuralex-tat-SEPARATE-1//clicsbp-northeuralex-tat-SEPARATE-2//clicsbp-northeuralex-chv-SEPARATE-1//clicsbp-wold-Sakha-SEPARATE-1"
     words "a j ɨ r m a g//a j ɨ r m a q//a j ɨ r u w//b œ l y w//a j ɾ ɯ l m a k//j a kː a l a n m ɒ q//ɑ j ɾ ə l ə s u//a j ɯ r ɯ l ɯ ʃ ɯ u//a e r ɤ l u//t a ʃ l a ʃ u//u j r ə l//a r aː r"
@@ -9840,7 +9828,7 @@ graph [
     family_count 1
   ]
   node [
-    id 820
+    id 819
     label "CHOOSE"
     occurrences "clicsbp-idssegmented-azerbaijani-CHOOSE-2//clicsbp-idssegmented-azerbaijani-CHOOSE-1//clicsbp-idssegmented-kumyk-CHOOSE-1//clicsbp-idssegmented-kumyk-CHOOSE-2//clicsbp-idssegmented-nogai-CHOOSE-1//clicsbp-northeuralex-tur-CHOOSE-1//clicsbp-northeuralex-uzn-CHOOSE-1//clicsbp-northeuralex-kaz-CHOOSE-1//clicsbp-northeuralex-bak-CHOOSE-1//clicsbp-northeuralex-tat-CHOOSE-1//clicsbp-northeuralex-chv-CHOOSE-1//clicsbp-wold-Sakha-CHOOSE-1"
     words "a j ɨ r m a g//s e tʃ m æ k//s a j l a m a q//t a ŋ l a m a q//s a j l a w//s ɛ tʃ m ɛ k//s a j l a m ɒ q//t ɑ ŋ d ɑ u//h a j l a y//s a j l au//s u j l a//t a l"
@@ -9852,7 +9840,7 @@ graph [
     family_count 1
   ]
   node [
-    id 821
+    id 820
     label "DIVIDE"
     occurrences "clicsbp-idssegmented-azerbaijani-DIVIDE-1//clicsbp-idssegmented-kumyk-DIVIDE-2//clicsbp-idssegmented-kumyk-DIVIDE-1//clicsbp-idssegmented-nogai-DIVIDE-1//clicsbp-idssegmented-nogai-DIVIDE-2//clicsbp-northeuralex-tur-DIVIDE-1//clicsbp-northeuralex-tur-DIVIDE-2//clicsbp-northeuralex-uzn-DIVIDE-1//clicsbp-northeuralex-kaz-DIVIDE-1//clicsbp-northeuralex-bak-DIVIDE-1//clicsbp-northeuralex-tat-DIVIDE-1//clicsbp-northeuralex-chv-DIVIDE-1//clicsbp-northeuralex-chv-DIVIDE-2//clicsbp-wold-Sakha-DIVIDE-1"
     words "b œ l m æ k//p a j l a m a q//b œ l m e k//b œ l y w//k e s e k l e w//b œ l m ɛ k//a j ɯ ɾ m a k//b o l m ɒ q//b ø l u//b y l e y//b ʉ l ʉ//u j ə r//p a j l a//y lː e r"
@@ -9864,7 +9852,7 @@ graph [
     family_count 1
   ]
   node [
-    id 822
+    id 821
     label "COVER"
     occurrences "clicsbp-idssegmented-azerbaijani-COVER-1//clicsbp-idssegmented-kumyk-COVER-1//clicsbp-idssegmented-nogai-COVER-1//clicsbp-northeuralex-tur-COVER-1//clicsbp-northeuralex-tur-COVER-2//clicsbp-northeuralex-uzn-COVER-1//clicsbp-northeuralex-kaz-COVER-1//clicsbp-northeuralex-bak-COVER-1//clicsbp-northeuralex-tat-COVER-1//clicsbp-northeuralex-tat-COVER-2//clicsbp-northeuralex-tat-COVER-3//clicsbp-northeuralex-chv-COVER-1//clicsbp-wold-Sakha-COVER-1//clicsbp-wold-Sakha-COVER-2//clicsbp-savelyevturkic-Karaim-COVER-1"
     words "œ r t m æ k//u a p m a q//y s t i n + j a b u w//œ ɾ t m ɛ k//k a p l a m a k//b ɛ k i t m ɒ q//b ʊ ɾ k e u//q a p l au//œ r t u//q ɑ p l au//t o m a l au//ʋ i t//s a p//b y r y y//j a p"
@@ -9876,7 +9864,7 @@ graph [
     family_count 1
   ]
   node [
-    id 823
+    id 822
     label "HIDE (CONCEAL)"
     occurrences "clicsbp-idssegmented-azerbaijani-HIDECONCEAL-1//clicsbp-idssegmented-kumyk-HIDECONCEAL-1//clicsbp-idssegmented-nogai-HIDECONCEAL-1//clicsbp-idssegmented-nogai-HIDECONCEAL-2//clicsbp-northeuralex-tur-HIDECONCEAL-1//clicsbp-northeuralex-uzn-HIDECONCEAL-1//clicsbp-northeuralex-kaz-HIDECONCEAL-1//clicsbp-northeuralex-bak-HIDECONCEAL-1//clicsbp-northeuralex-tat-HIDECONCEAL-1//clicsbp-northeuralex-chv-HIDECONCEAL-1//clicsbp-wold-Sakha-HIDECONCEAL-1//clicsbp-savelyevturkic-Karaim-HIDECONCEAL-1"
     words "gʲ i z l æ t m æ k//u a ʃ ɨ r m a q//t ɨ g u w//j a s ɨ r u w//s a k l a m a k//b ɛ r k i t m ɒ q//s e z d ə ɾ m e u//j æ ʃ e r e y//j a ʃ e r ʉ//p ɯ t a r//k i s t eː//j a ʃ ɯ r"
@@ -9888,7 +9876,7 @@ graph [
     family_count 1
   ]
   node [
-    id 824
+    id 823
     label "HIGH"
     occurrences "clicsbp-idssegmented-azerbaijani-HIGH-1//clicsbp-idssegmented-azerbaijani-HIGH-2//clicsbp-idssegmented-azerbaijani-HIGH-3//clicsbp-idssegmented-kumyk-HIGH-1//clicsbp-idssegmented-nogai-HIGH-1//clicsbp-idssegmented-nogai-HIGH-2//clicsbp-northeuralex-tur-HIGH-1//clicsbp-northeuralex-uzn-HIGH-1//clicsbp-northeuralex-kaz-HIGH-1//clicsbp-northeuralex-bak-HIGH-1//clicsbp-northeuralex-tat-HIGH-1//clicsbp-northeuralex-tat-HIGH-2//clicsbp-northeuralex-chv-HIGH-1//clicsbp-wold-Sakha-HIGH-1"
     words "u dʒ a//j ü k s æ k d æ//h ü n d ü r d æ//b i j i k//b i j i k//b i j i k t e//j u k a ɾ ɯ d a//u s t i d a//ʒ o ʁ ɑ ɾ ə d ɑ//j u ɣ a r ɯ l a//œ s t æ//j ʊ g a r ɤ d a//ɕ y l t ɛ//y r d y k"
@@ -9900,7 +9888,7 @@ graph [
     family_count 1
   ]
   node [
-    id 825
+    id 824
     label "TALL"
     occurrences "clicsbp-idssegmented-azerbaijani-TALL-1//clicsbp-idssegmented-azerbaijani-TALL-2//clicsbp-idssegmented-kumyk-TALL-1//clicsbp-idssegmented-nogai-TALL-1//clicsbp-wold-Sakha-TALL-1//clicsbp-savelyevturkic-Karaim-TALL-1"
     words "u dʒ a//h ü n d ü r//b i j i k//b i j i k//y r d y k//b i j i k"
@@ -9912,7 +9900,7 @@ graph [
     family_count 1
   ]
   node [
-    id 826
+    id 825
     label "LOUD"
     occurrences "clicsbp-idssegmented-azerbaijani-LOUD-2//clicsbp-idssegmented-azerbaijani-LOUD-1//clicsbp-idssegmented-kumyk-LOUD-1//clicsbp-idssegmented-nogai-LOUD-1//clicsbp-idssegmented-nogai-LOUD-2//clicsbp-wold-Sakha-LOUD-1"
     words "u dʒ a//b æ r k//g ü tʃ l ü + a w a z l ɨ//k ü ʃ l i//t a w ɨ s l ɨ//u l a χ a n"
@@ -9924,7 +9912,7 @@ graph [
     family_count 1
   ]
   node [
-    id 827
+    id 826
     label "LOW"
     occurrences "clicsbp-idssegmented-azerbaijani-LOW-1//clicsbp-idssegmented-kumyk-LOW-1//clicsbp-idssegmented-nogai-LOW-1//clicsbp-northeuralex-tur-LOW-1//clicsbp-northeuralex-uzn-LOW-1//clicsbp-northeuralex-kaz-LOW-1//clicsbp-northeuralex-bak-LOW-1//clicsbp-northeuralex-tat-LOW-1//clicsbp-northeuralex-chv-LOW-1//clicsbp-wold-Sakha-LOW-1"
     words "a l tʃ a g//a l a ʃ a//t œ m e n//a ʃ aː ɯ d a//p a s t d a//t ø m e n d e//t y b æ n d æ//t ʉ b æ n d æ//a j a l t a//n a m ɨ h a χ"
@@ -9936,7 +9924,7 @@ graph [
     family_count 1
   ]
   node [
-    id 828
+    id 827
     label "BOTTOM"
     occurrences "clicsbp-idssegmented-azerbaijani-BOTTOM-1//clicsbp-idssegmented-kumyk-BOTTOM-1//clicsbp-idssegmented-kumyk-BOTTOM-2//clicsbp-idssegmented-nogai-BOTTOM-1//clicsbp-idssegmented-nogai-BOTTOM-2//clicsbp-idssegmented-nogai-BOTTOM-3//clicsbp-wold-Sakha-BOTTOM-1//clicsbp-wold-Sakha-BOTTOM-2//clicsbp-savelyevturkic-Karaim-BOTTOM-1"
     words "d i b//t ü p//t ü b ü//t ü p//t ü b i//a s t ɨ//t y g e χ//a l ɨ n//t y p"
@@ -9948,7 +9936,7 @@ graph [
     family_count 1
   ]
   node [
-    id 829
+    id 828
     label "END (OF SPACE)"
     occurrences "clicsbp-idssegmented-azerbaijani-ENDOFSPACE-1//clicsbp-idssegmented-azerbaijani-ENDOFSPACE-2//clicsbp-idssegmented-kumyk-ENDOFSPACE-1//clicsbp-idssegmented-kumyk-ENDOFSPACE-2//clicsbp-idssegmented-nogai-ENDOFSPACE-1//clicsbp-idssegmented-nogai-ENDOFSPACE-2//clicsbp-idssegmented-nogai-ENDOFSPACE-3//clicsbp-northeuralex-tur-ENDOFSPACE-1//clicsbp-northeuralex-uzn-ENDOFSPACE-1//clicsbp-northeuralex-kaz-ENDOFSPACE-1//clicsbp-northeuralex-kaz-ENDOFSPACE-2//clicsbp-northeuralex-bak-ENDOFSPACE-1//clicsbp-northeuralex-tat-ENDOFSPACE-1//clicsbp-northeuralex-chv-ENDOFSPACE-1//clicsbp-wold-Sakha-ENDOFSPACE-1"
     words "s o n//a x ɨ r//a x ɨ r//a r t//ɨ z ɨ//a r t ɨ//s o ŋ ɨ//u tʃ//ɒ χ i r//ɑ j ɑ q//s o ŋ ə//a ð a q//a z a k//ʋ ɘ ɕ//u h u k"
@@ -9960,7 +9948,7 @@ graph [
     family_count 1
   ]
   node [
-    id 830
+    id 829
     label "POINTED"
     occurrences "clicsbp-idssegmented-azerbaijani-POINTED-1//clicsbp-idssegmented-kumyk-POINTED-1//clicsbp-idssegmented-nogai-POINTED-1//clicsbp-northeuralex-tur-POINTED-1//clicsbp-northeuralex-uzn-POINTED-1//clicsbp-northeuralex-kaz-POINTED-1//clicsbp-northeuralex-bak-POINTED-1//clicsbp-northeuralex-tat-POINTED-1//clicsbp-northeuralex-chv-POINTED-1//clicsbp-wold-Sakha-POINTED-1"
     words "s i v r i//i t i u tʃ l u//u ʃ l ɨ//s i v ɾ i//u tʃ l i//ʊ ʃ k ə ɾ//o s l o + t y b æ l e//o tɕ l ɤ//ʂ ɘ ʋ ɘ r//u h u k t aː χ"
@@ -9972,7 +9960,7 @@ graph [
     family_count 1
   ]
   node [
-    id 831
+    id 830
     label "EDGE"
     occurrences "clicsbp-idssegmented-azerbaijani-EDGE-1//clicsbp-idssegmented-azerbaijani-EDGE-2//clicsbp-idssegmented-kumyk-EDGE-2//clicsbp-idssegmented-kumyk-EDGE-1//clicsbp-idssegmented-nogai-EDGE-1//clicsbp-idssegmented-nogai-EDGE-2//clicsbp-northeuralex-tur-EDGE-1//clicsbp-northeuralex-uzn-EDGE-1//clicsbp-northeuralex-kaz-EDGE-1//clicsbp-northeuralex-kaz-EDGE-2//clicsbp-northeuralex-bak-EDGE-1//clicsbp-northeuralex-bak-EDGE-2//clicsbp-northeuralex-tat-EDGE-1//clicsbp-northeuralex-chv-EDGE-1//clicsbp-northeuralex-chv-EDGE-2//clicsbp-wold-Sakha-EDGE-1//clicsbp-savelyevturkic-Karaim-EDGE-1//clicsbp-savelyevturkic-Karaim-EDGE-2"
     words "g ɨ r a g//k æ n a r//u a ɣ a//q ɨ r ɨ j//ʃ e t i//j a g ɨ//k ɛ n a ɾ//t i ɣ//q ə ɾ//q ə ɾ ə//q a b ɯ r ɣ a//j a n//q ɤ r ɤ j//χ a j k a tɕ a//χ ɯ s a k//k ɨ t ɨː//k ɯ r ɯ j//j a ɣ a"
@@ -9984,7 +9972,7 @@ graph [
     family_count 1
   ]
   node [
-    id 832
+    id 831
     label "SIDE"
     occurrences "clicsbp-idssegmented-azerbaijani-SIDE-1//clicsbp-idssegmented-kumyk-SIDE-1//clicsbp-idssegmented-kumyk-SIDE-2//clicsbp-idssegmented-nogai-SIDE-1//clicsbp-idssegmented-nogai-SIDE-2//clicsbp-idssegmented-nogai-SIDE-3//clicsbp-northeuralex-tur-SIDE-1//clicsbp-northeuralex-tur-SIDE-2//clicsbp-northeuralex-uzn-SIDE-1//clicsbp-northeuralex-kaz-SIDE-1//clicsbp-northeuralex-kaz-SIDE-2//clicsbp-northeuralex-bak-SIDE-1//clicsbp-northeuralex-tat-SIDE-1//clicsbp-northeuralex-chv-SIDE-1//clicsbp-northeuralex-chv-SIDE-2//clicsbp-northeuralex-chv-SIDE-3//clicsbp-wold-Sakha-SIDE-1"
     words "t æ r æ f//u a q//u a n//j a k//j a g ɨ//b e t i//j a n//t a ɾ a f//j ɒ n//ʒ ɑ q//b ʊ j ə ɾ//j a q//j a k//ɛ n//a j a k//a j ə k//œ r y t"
@@ -9996,7 +9984,7 @@ graph [
     family_count 1
   ]
   node [
-    id 833
+    id 832
     label "CENTER OR MIDDLE"
     occurrences "clicsbp-idssegmented-azerbaijani-CENTERORMIDDLE-1//clicsbp-idssegmented-azerbaijani-CENTERORMIDDLE-2//clicsbp-idssegmented-kumyk-CENTERORMIDDLE-1//clicsbp-idssegmented-nogai-CENTERORMIDDLE-1//clicsbp-idssegmented-nogai-CENTERORMIDDLE-2"
     words "o r t a//m æ r k æ z//o r t a s ɨ//o r t a s ɨ//o r t a"
@@ -10008,7 +9996,7 @@ graph [
     family_count 1
   ]
   node [
-    id 834
+    id 833
     label "RIGHT"
     occurrences "clicsbp-idssegmented-azerbaijani-RIGHT-1//clicsbp-idssegmented-kumyk-RIGHT-1//clicsbp-idssegmented-nogai-RIGHT-1//clicsbp-northeuralex-tur-RIGHT-1//clicsbp-northeuralex-uzn-RIGHT-1//clicsbp-northeuralex-kaz-RIGHT-1//clicsbp-northeuralex-bak-RIGHT-1//clicsbp-northeuralex-tat-RIGHT-1//clicsbp-northeuralex-chv-RIGHT-1//clicsbp-wold-Sakha-RIGHT-1//clicsbp-savelyevturkic-Karaim-RIGHT-1"
     words "s a ɣ//o ŋ//o ŋ//s aː//o ŋ//o ŋ//u ŋ//u ŋ//s ɯ l t ə m//u ŋ a//o n"
@@ -10020,7 +10008,7 @@ graph [
     family_count 1
   ]
   node [
-    id 835
+    id 834
     label "LEFT"
     occurrences "clicsbp-idssegmented-azerbaijani-LEFT-1//clicsbp-idssegmented-kumyk-LEFT-1//clicsbp-idssegmented-nogai-LEFT-1//clicsbp-northeuralex-tur-LEFT-1//clicsbp-northeuralex-uzn-LEFT-1//clicsbp-northeuralex-kaz-LEFT-1//clicsbp-northeuralex-kaz-LEFT-2//clicsbp-northeuralex-bak-LEFT-1//clicsbp-northeuralex-tat-LEFT-1//clicsbp-northeuralex-chv-LEFT-1//clicsbp-wold-Sakha-LEFT-1//clicsbp-savelyevturkic-Karaim-LEFT-1"
     words "s o l//s o l//s o l//s o l//s o l//s o l//s o l ʃ ə l//h u l//s u l//s u l a χ a j//χ a ŋ a s//s o n"
@@ -10032,7 +10020,7 @@ graph [
     family_count 1
   ]
   node [
-    id 836
+    id 835
     label "FAR"
     occurrences "clicsbp-idssegmented-azerbaijani-FAR-1//clicsbp-idssegmented-kumyk-FAR-1//clicsbp-idssegmented-nogai-FAR-1//clicsbp-idssegmented-nogai-FAR-2//clicsbp-northeuralex-tur-FAR-1//clicsbp-northeuralex-uzn-FAR-1//clicsbp-northeuralex-kaz-FAR-1//clicsbp-northeuralex-kaz-FAR-2//clicsbp-northeuralex-bak-FAR-1//clicsbp-northeuralex-bak-FAR-2//clicsbp-northeuralex-tat-FAR-1//clicsbp-northeuralex-chv-FAR-1//clicsbp-northeuralex-chv-FAR-2//clicsbp-wold-Sakha-FAR-1//clicsbp-savelyevturkic-Karaim-FAR-1"
     words "u z a g//j ɨ r a q//a l ɨ s t a//u z a k t a//u z a k//u z ɒ q//ɑ l ə s//ɑ l ə s t ɑ ʁ ə//a l ɯ θ//j ɯ r a q//e r a k//i n ɕ ɛ//a j a k r i//ɨ r aː χ//i r a χ"
@@ -10044,7 +10032,7 @@ graph [
     family_count 1
   ]
   node [
-    id 837
+    id 836
     label "EAST"
     occurrences "clicsbp-idssegmented-azerbaijani-EAST-1//clicsbp-idssegmented-kumyk-EAST-1//clicsbp-idssegmented-kumyk-EAST-2//clicsbp-idssegmented-nogai-EAST-1//clicsbp-northeuralex-tur-EAST-1//clicsbp-northeuralex-uzn-EAST-1//clicsbp-northeuralex-kaz-EAST-1//clicsbp-northeuralex-bak-EAST-1//clicsbp-northeuralex-tat-EAST-1//clicsbp-northeuralex-tat-EAST-2//clicsbp-northeuralex-chv-EAST-1//clicsbp-wold-Sakha-EAST-1"
     words "ʃ æ r g//g ü n t u w u ʃ//g ü n tʃ ɨ ɣ a r//k ü n t u w a r//d oː u//ʃ a r q//k ʊ n ʃ ə ʁ ə s//k ø n s ɯ ɣ ɯ ʃ//ʃ æ r ɤ k//k œ n tɕ ɤ g ɤ ʃ//χ ɘ ʋ ɛ l + t u χ ə ɕ//i l i n"
@@ -10056,7 +10044,7 @@ graph [
     family_count 1
   ]
   node [
-    id 838
+    id 837
     label "WEST"
     occurrences "clicsbp-idssegmented-azerbaijani-WEST-1//clicsbp-idssegmented-kumyk-WEST-1//clicsbp-idssegmented-kumyk-WEST-2//clicsbp-idssegmented-nogai-WEST-1//clicsbp-northeuralex-tur-WEST-1//clicsbp-northeuralex-uzn-WEST-1//clicsbp-northeuralex-kaz-WEST-1//clicsbp-northeuralex-bak-WEST-1//clicsbp-northeuralex-tat-WEST-1//clicsbp-northeuralex-chv-WEST-1//clicsbp-northeuralex-chv-WEST-2//clicsbp-wold-Sakha-WEST-1"
     words "g æ r b//g ü n b a t ɨ ʃ//g ü n b a t a r//k u ŋ b a t a r//b a t ɯ//ɣ a r b//b ɑ t ə s//k ø n b a j ɯ ʃ//k œ n b a t ɤ ʃ//a n ə ɕ//χ ɘ ʋ ɛ l + a n ə ɕ//a r ɣ aː"
@@ -10068,7 +10056,7 @@ graph [
     family_count 1
   ]
   node [
-    id 839
+    id 838
     label "NORTH"
     occurrences "clicsbp-idssegmented-azerbaijani-NORTH-1//clicsbp-idssegmented-kumyk-NORTH-1//clicsbp-idssegmented-nogai-NORTH-1//clicsbp-idssegmented-nogai-NORTH-2//clicsbp-northeuralex-tur-NORTH-1//clicsbp-northeuralex-uzn-NORTH-1//clicsbp-northeuralex-kaz-NORTH-1//clicsbp-northeuralex-kaz-NORTH-2//clicsbp-northeuralex-bak-NORTH-1//clicsbp-northeuralex-tat-NORTH-1//clicsbp-northeuralex-chv-NORTH-1//clicsbp-wold-Sakha-NORTH-1"
     words "ʃ i m a l//t e m i r q a z ɨ q//s ɨ r t//a r t + b e t//k u z ɛ j//ʃ i m ɒ l//s o l t ʊ s t ə k//t e ɾ ə s t ə k//t ø nʲ j a q//t œ n ʔ j a k//ɕ u r ɕ ɘ r//χ o t u"
@@ -10080,7 +10068,7 @@ graph [
     family_count 1
   ]
   node [
-    id 840
+    id 839
     label "SOUTH"
     occurrences "clicsbp-idssegmented-azerbaijani-SOUTH-1//clicsbp-idssegmented-kumyk-SOUTH-1//clicsbp-idssegmented-nogai-SOUTH-1//clicsbp-idssegmented-nogai-SOUTH-2//clicsbp-northeuralex-tur-SOUTH-1//clicsbp-northeuralex-uzn-SOUTH-1//clicsbp-northeuralex-kaz-SOUTH-1//clicsbp-northeuralex-bak-SOUTH-1//clicsbp-northeuralex-tat-SOUTH-1//clicsbp-northeuralex-chv-SOUTH-1//clicsbp-wold-Sakha-SOUTH-1"
     words "dʒ æ n u b//q ɨ b l a//k ɨ b l a//a l d ɨ + b e t//g y n ɛ j//dʒ a n u b//o ŋ t ʊ s t ə k//k ø nʲ j a q//k œ n ʔ j a k//k ə n t ə r//s o ɣ u r uː"
@@ -10092,7 +10080,7 @@ graph [
     family_count 1
   ]
   node [
-    id 841
+    id 840
     label "GROW"
     occurrences "clicsbp-idssegmented-azerbaijani-GROW-1//clicsbp-idssegmented-azerbaijani-GROW-2//clicsbp-idssegmented-kumyk-GROW-1//clicsbp-idssegmented-nogai-GROW-1//clicsbp-idssegmented-nogai-GROW-2//clicsbp-northeuralex-tur-GROW-1//clicsbp-northeuralex-tur-GROW-2//clicsbp-northeuralex-uzn-GROW-1//clicsbp-northeuralex-kaz-GROW-1//clicsbp-northeuralex-bak-GROW-1//clicsbp-northeuralex-tat-GROW-1//clicsbp-northeuralex-chv-GROW-1//clicsbp-wold-Sakha-GROW-1//clicsbp-savelyevturkic-Karaim-GROW-1"
     words "b œ j ü m æ k//j ü k s æ l m æ k//œ s m e k//œ s y w//ü j k e n + b o l u w//b y j y m ɛ k//g ɛ l i ʃ m ɛ k//o s m ɒ q//ø s u//y θ e y//ʉ s ʉ//y s//yː n//ø s"
@@ -10104,7 +10092,7 @@ graph [
     family_count 1
   ]
   node [
-    id 842
+    id 841
     label "MEASURE"
     occurrences "clicsbp-idssegmented-azerbaijani-MEASURE-1//clicsbp-idssegmented-kumyk-MEASURE-1//clicsbp-idssegmented-nogai-MEASURE-1//clicsbp-northeuralex-tur-MEASURE-1//clicsbp-northeuralex-uzn-MEASURE-1//clicsbp-northeuralex-kaz-MEASURE-1//clicsbp-northeuralex-bak-MEASURE-1//clicsbp-northeuralex-tat-MEASURE-1//clicsbp-northeuralex-chv-MEASURE-1//clicsbp-wold-Sakha-MEASURE-1"
     words "œ l tʃ m æ k//œ l tʃ e m e k//œ l ʃ e w//œ l tʃ m ɛ k//o l tʃ a m ɒ q//ø l ʃ e u//y l s æ y//ʉ l tɕ æ ʉ//ʋ i ɕ//k e m n eː"
@@ -10116,7 +10104,7 @@ graph [
     family_count 1
   ]
   node [
-    id 843
+    id 842
     label "FATHOM"
     occurrences "clicsbp-idssegmented-azerbaijani-FATHOM-1//clicsbp-idssegmented-kumyk-FATHOM-1//clicsbp-idssegmented-kumyk-FATHOM-2//clicsbp-idssegmented-kumyk-FATHOM-3"
     words "g a r ɨ ʃ//q a r ɨ ʃ//s ü j e m//s a ʒ ɨ n"
@@ -10128,7 +10116,7 @@ graph [
     family_count 1
   ]
   node [
-    id 844
+    id 843
     label "BIG"
     occurrences "clicsbp-idssegmented-azerbaijani-BIG-1//clicsbp-idssegmented-kumyk-BIG-1//clicsbp-idssegmented-nogai-BIG-1//clicsbp-idssegmented-nogai-BIG-2//clicsbp-northeuralex-tur-BIG-1//clicsbp-northeuralex-uzn-BIG-1//clicsbp-northeuralex-kaz-BIG-1//clicsbp-northeuralex-bak-BIG-1//clicsbp-northeuralex-tat-BIG-1//clicsbp-northeuralex-chv-BIG-1//clicsbp-wold-Sakha-BIG-1//clicsbp-wold-Sakha-BIG-2//clicsbp-savelyevturkic-Karaim-BIG-1//clicsbp-savelyevturkic-Karaim-BIG-2"
     words "b œ j ü k//u lː u//ü j k e n//k e ŋ//b y j y k//b u j u k//ɑ l p ɑ m s ɑ d ɑ j//ð u r//z u r//p ɯ s ə k//u l a χ a n//b œ d œ ŋ//u l l u//b i j i k"
@@ -10140,7 +10128,7 @@ graph [
     family_count 1
   ]
   node [
-    id 845
+    id 844
     label "SMALL"
     occurrences "clicsbp-idssegmented-azerbaijani-SMALL-1//clicsbp-idssegmented-kumyk-SMALL-1//clicsbp-idssegmented-nogai-SMALL-1//clicsbp-northeuralex-tur-SMALL-1//clicsbp-northeuralex-tur-SMALL-2//clicsbp-northeuralex-uzn-SMALL-1//clicsbp-northeuralex-kaz-SMALL-1//clicsbp-northeuralex-kaz-SMALL-2//clicsbp-northeuralex-bak-SMALL-1//clicsbp-northeuralex-tat-SMALL-1//clicsbp-northeuralex-chv-SMALL-1//clicsbp-wold-Sakha-SMALL-1//clicsbp-wold-Sakha-SMALL-2//clicsbp-wold-Sakha-SMALL-3//clicsbp-savelyevturkic-Karaim-SMALL-1"
     words "b a l a dʒ a//g i tʃː i//k i ʃ k e j//u f a k//k y tʃ y k//k i tʃ i k//k ə ʃ k e n e//q ɑ ɾ ʁ ɑ d ɑ j//b æ l æ k æ s//k e tɕ k e n æ//p ɘ tɕ ɘ k//k ɨ r a//k ɨ tʃː ɨ g ɨ y//b ɨ tʃ ɨ k aː n//k i tɕ i"
@@ -10152,7 +10140,7 @@ graph [
     family_count 1
   ]
   node [
-    id 846
+    id 845
     label "LONG"
     occurrences "clicsbp-idssegmented-azerbaijani-LONG-1//clicsbp-idssegmented-kumyk-LONG-1//clicsbp-idssegmented-nogai-LONG-1//clicsbp-northeuralex-tur-LONG-1//clicsbp-northeuralex-uzn-LONG-1//clicsbp-northeuralex-kaz-LONG-1//clicsbp-northeuralex-kaz-LONG-2//clicsbp-northeuralex-bak-LONG-1//clicsbp-northeuralex-tat-LONG-1//clicsbp-northeuralex-chv-LONG-1//clicsbp-wold-Sakha-LONG-1//clicsbp-savelyevturkic-Karaim-LONG-1"
     words "u z u n//u z u n//u z ɨ n//u z u n//u z u n//s o p ɑ q//s o ɾ ɑ j ʁ ɑ n//o ð o n//o z ɤ n//ʋ ə r ə m//u h u n//u z u n"
@@ -10164,7 +10152,7 @@ graph [
     family_count 1
   ]
   node [
-    id 847
+    id 846
     label "SHORT"
     occurrences "clicsbp-idssegmented-azerbaijani-SHORT-1//clicsbp-idssegmented-kumyk-SHORT-1//clicsbp-idssegmented-nogai-SHORT-1//clicsbp-northeuralex-tur-SHORT-1//clicsbp-northeuralex-uzn-SHORT-1//clicsbp-northeuralex-kaz-SHORT-1//clicsbp-northeuralex-bak-SHORT-1//clicsbp-northeuralex-tat-SHORT-1//clicsbp-northeuralex-chv-SHORT-1//clicsbp-wold-Sakha-SHORT-1//clicsbp-savelyevturkic-Karaim-SHORT-1"
     words "g ɨ sː a//q ɨ s ɣ a//k ɨ s k a//k ɯ s a//q i s q a//k e s p e l t e k//q ɯ θ q a//q ɤ s q ɑ//k ɘ s k ɛ//k ɨ l g a s//k ɯ s k a"
@@ -10176,7 +10164,7 @@ graph [
     family_count 1
   ]
   node [
-    id 848
+    id 847
     label "WIDE"
     occurrences "clicsbp-idssegmented-azerbaijani-WIDE-1//clicsbp-idssegmented-azerbaijani-WIDE-2//clicsbp-idssegmented-kumyk-WIDE-1//clicsbp-idssegmented-nogai-WIDE-1//clicsbp-northeuralex-tur-WIDE-1//clicsbp-northeuralex-tur-WIDE-2//clicsbp-northeuralex-uzn-WIDE-1//clicsbp-northeuralex-kaz-WIDE-1//clicsbp-northeuralex-bak-WIDE-1//clicsbp-northeuralex-tat-WIDE-1//clicsbp-northeuralex-chv-WIDE-1//clicsbp-wold-Sakha-WIDE-1//clicsbp-wold-Sakha-WIDE-2//clicsbp-savelyevturkic-Karaim-WIDE-1"
     words "e n l i//gʲ e n i ʃ//g e ŋ//k e ŋ//ɛ n l i//g ɛ n i ʃ//k ɛ ŋ//ɑ j d ə n d ə//k i ŋ//k i ŋ//s a r l a k a//k i e ŋ//k e t i t//k e n"
@@ -10188,7 +10176,7 @@ graph [
     family_count 1
   ]
   node [
-    id 849
+    id 848
     label "NARROW"
     occurrences "clicsbp-idssegmented-azerbaijani-NARROW-1//clicsbp-idssegmented-azerbaijani-NARROW-2//clicsbp-idssegmented-kumyk-NARROW-1//clicsbp-idssegmented-kumyk-NARROW-2//clicsbp-idssegmented-kumyk-NARROW-3//clicsbp-idssegmented-nogai-NARROW-1//clicsbp-northeuralex-tur-NARROW-1//clicsbp-northeuralex-uzn-NARROW-1//clicsbp-northeuralex-kaz-NARROW-1//clicsbp-northeuralex-bak-NARROW-1//clicsbp-northeuralex-tat-NARROW-1//clicsbp-northeuralex-chv-NARROW-1//clicsbp-wold-Sakha-NARROW-1//clicsbp-wold-Sakha-NARROW-2//clicsbp-savelyevturkic-Karaim-NARROW-1"
     words "d a r//e n s i z//n a z i k//t a r//i n tʃ e//t a r//d a ɾ//æ n s i z//q ə s ə q//t a r//q ɤ s ɤ k//a n s ə r//k ɨ a r a ɣ a s//s i n ɲ i g e s//t a r"
@@ -10200,7 +10188,7 @@ graph [
     family_count 1
   ]
   node [
-    id 850
+    id 849
     label "THICK"
     occurrences "clicsbp-idssegmented-azerbaijani-THICK-1//clicsbp-idssegmented-azerbaijani-THICK-2//clicsbp-idssegmented-kumyk-THICK-1//clicsbp-idssegmented-nogai-THICK-1//clicsbp-idssegmented-nogai-THICK-2//clicsbp-northeuralex-tur-THICK-1//clicsbp-northeuralex-tur-THICK-2//clicsbp-northeuralex-uzn-THICK-1//clicsbp-northeuralex-kaz-THICK-1//clicsbp-northeuralex-bak-THICK-1//clicsbp-northeuralex-tat-THICK-1//clicsbp-northeuralex-chv-THICK-1//clicsbp-wold-Sakha-THICK-1//clicsbp-savelyevturkic-Karaim-THICK-1//clicsbp-savelyevturkic-Karaim-THICK-2"
     words "j o ɣ u n//g a l ɨ n//b a z ɨ q//b a z ɨ k//d o m b a j//k a l ɯ n//i ɾ i//q a l i n//ʃ o m b ɑ l//q a l ɯ n//q ɑ l ɤ n//χ u l ə n//χ a l ɨ ŋ//k a l ɯ n//b a z ɯ q"
@@ -10212,7 +10200,7 @@ graph [
     family_count 1
   ]
   node [
-    id 851
+    id 850
     label "THIN (OF SHAPE OF OBJECT)"
     occurrences "clicsbp-idssegmented-azerbaijani-THINOFSHAPEOFOBJECT-1//clicsbp-idssegmented-kumyk-THINOFSHAPEOFOBJECT-1//clicsbp-idssegmented-kumyk-THINOFSHAPEOFOBJECT-2//clicsbp-idssegmented-nogai-THINOFSHAPEOFOBJECT-2//clicsbp-idssegmented-nogai-THINOFSHAPEOFOBJECT-1//clicsbp-northeuralex-tur-THINOFSHAPEOFOBJECT-1//clicsbp-northeuralex-uzn-THINOFSHAPEOFOBJECT-1//clicsbp-northeuralex-kaz-THINOFSHAPEOFOBJECT-1//clicsbp-northeuralex-kaz-THINOFSHAPEOFOBJECT-2//clicsbp-northeuralex-bak-THINOFSHAPEOFOBJECT-1//clicsbp-northeuralex-bak-THINOFSHAPEOFOBJECT-2//clicsbp-northeuralex-tat-THINOFSHAPEOFOBJECT-1//clicsbp-northeuralex-chv-THINOFSHAPEOFOBJECT-1//clicsbp-northeuralex-chv-THINOFSHAPEOFOBJECT-2//clicsbp-wold-Sakha-THINOFSHAPEOFOBJECT-1"
     words "n a z i k//n a z i k//i n tʃ e//a r ɨ k//j u k a//i n dʒ ɛ//i ŋ i tʃ k a//ʒ ʉ q ɑ//ʒ ə ŋ ə ʃ k e//j o q a//n æ ð e k//n e tɕ k æ//ɕ i n ɕ ɛ//ɕ y χ ɛ//tʃ a r aː s"
@@ -10224,7 +10212,7 @@ graph [
     family_count 1
   ]
   node [
-    id 852
+    id 851
     label "DEEP"
     occurrences "clicsbp-idssegmented-azerbaijani-DEEP-1//clicsbp-idssegmented-kumyk-DEEP-1//clicsbp-idssegmented-nogai-DEEP-1//clicsbp-wold-Sakha-DEEP-1//clicsbp-savelyevturkic-Karaim-DEEP-1"
     words "d æ r i n//t e r e n//t e r e ŋ//d i r i ŋ//t e r e n"
@@ -10236,7 +10224,7 @@ graph [
     family_count 1
   ]
   node [
-    id 853
+    id 852
     label "SHALLOW"
     occurrences "clicsbp-idssegmented-azerbaijani-SHALLOW-1//clicsbp-idssegmented-kumyk-SHALLOW-2//clicsbp-idssegmented-kumyk-SHALLOW-1//clicsbp-idssegmented-nogai-SHALLOW-2//clicsbp-idssegmented-nogai-SHALLOW-1//clicsbp-wold-Sakha-SHALLOW-1"
     words "x ɨ r d a//g i tʃː i//u w a q//k i ʃ k e j//u w a k//tʃ ɨ tʃ aː s"
@@ -10248,7 +10236,7 @@ graph [
     family_count 1
   ]
   node [
-    id 854
+    id 853
     label "FLAT"
     occurrences "clicsbp-idssegmented-azerbaijani-FLAT-1//clicsbp-idssegmented-azerbaijani-FLAT-2//clicsbp-idssegmented-kumyk-FLAT-1//clicsbp-idssegmented-kumyk-FLAT-2//clicsbp-idssegmented-kumyk-FLAT-3//clicsbp-idssegmented-nogai-FLAT-1//clicsbp-idssegmented-nogai-FLAT-2//clicsbp-idssegmented-nogai-FLAT-3//clicsbp-northeuralex-tur-FLAT-1//clicsbp-northeuralex-tur-FLAT-2//clicsbp-northeuralex-uzn-FLAT-1//clicsbp-northeuralex-kaz-FLAT-1//clicsbp-northeuralex-bak-FLAT-1//clicsbp-northeuralex-bak-FLAT-2//clicsbp-northeuralex-tat-FLAT-1//clicsbp-northeuralex-tat-FLAT-2//clicsbp-northeuralex-chv-FLAT-1//clicsbp-wold-Sakha-FLAT-1"
     words "j a s t ɨ//h a m a r//u a l p a q//u a p a l a q//t e g i ʃ//j a l p a k//t a k ɨ r//t e g i s//d y z//j a sː ɯ//j a l p ɒ q//ʒ ɑ l p ɑ k//j a θ ɯ//j a l p a q//j a sː ɤ//j a l p a k//l a p t a k//χ a p t a ɣ a y"
@@ -10260,7 +10248,7 @@ graph [
     family_count 1
   ]
   node [
-    id 855
+    id 854
     label "SMOOTH"
     occurrences "clicsbp-idssegmented-azerbaijani-SMOOTH-1//clicsbp-idssegmented-azerbaijani-SMOOTH-2//clicsbp-idssegmented-kumyk-SMOOTH-2//clicsbp-idssegmented-kumyk-SMOOTH-1//clicsbp-idssegmented-nogai-SMOOTH-2//clicsbp-idssegmented-nogai-SMOOTH-1//clicsbp-northeuralex-tur-SMOOTH-1//clicsbp-northeuralex-uzn-SMOOTH-1//clicsbp-northeuralex-kaz-SMOOTH-1//clicsbp-northeuralex-bak-SMOOTH-1//clicsbp-northeuralex-tat-SMOOTH-1//clicsbp-northeuralex-chv-SMOOTH-1//clicsbp-wold-Sakha-SMOOTH-2//clicsbp-wold-Sakha-SMOOTH-1//clicsbp-savelyevturkic-Karaim-SMOOTH-1"
     words "h a m a r//d ü z//t ü z//t e g i ʃ//t ü z//t e ʃ s//d y z//t ɛ k i s//t ɪ j p ə l//ʃ ɯ m a//ʃ o m a//t a k ə r//k œ n œ//d e χ s i//t y z"
@@ -10272,7 +10260,7 @@ graph [
     family_count 1
   ]
   node [
-    id 856
+    id 855
     label "STRAIGHT"
     occurrences "clicsbp-idssegmented-azerbaijani-STRAIGHT-1//clicsbp-idssegmented-kumyk-STRAIGHT-1//clicsbp-idssegmented-kumyk-STRAIGHT-2//clicsbp-idssegmented-nogai-STRAIGHT-1//clicsbp-idssegmented-nogai-STRAIGHT-2//clicsbp-idssegmented-nogai-STRAIGHT-3//clicsbp-wold-Sakha-STRAIGHT-1//clicsbp-savelyevturkic-Karaim-STRAIGHT-1"
     words "d ü z//t ü z//t u w r a//t ü z//t u w r a//t e ʃ e//k œ n œ//d o ɣ r u"
@@ -10284,7 +10272,7 @@ graph [
     family_count 1
   ]
   node [
-    id 857
+    id 856
     label "CORRECT (RIGHT)"
     occurrences "clicsbp-idssegmented-azerbaijani-CORRECTRIGHT-1//clicsbp-idssegmented-kumyk-CORRECTRIGHT-1//clicsbp-idssegmented-kumyk-CORRECTRIGHT-2//clicsbp-idssegmented-nogai-CORRECTRIGHT-1//clicsbp-idssegmented-nogai-CORRECTRIGHT-2//clicsbp-northeuralex-tur-CORRECTRIGHT-1//clicsbp-northeuralex-uzn-CORRECTRIGHT-1//clicsbp-northeuralex-kaz-CORRECTRIGHT-1//clicsbp-northeuralex-bak-CORRECTRIGHT-1//clicsbp-northeuralex-tat-CORRECTRIGHT-1//clicsbp-northeuralex-chv-CORRECTRIGHT-1//clicsbp-wold-Sakha-CORRECTRIGHT-1"
     words "d ü z//t ü z//g e r t i//d u r ɨ s//t ü z i//d oː ɾ u//r ɒ s t//d ʉ ɾ ə s//d ø r ø θ//d œ r e s//t ɘ r ɘ s//s œ p t œː χ"
@@ -10296,7 +10284,7 @@ graph [
     family_count 1
   ]
   node [
-    id 858
+    id 857
     label "CROOKED"
     occurrences "clicsbp-idssegmented-azerbaijani-CROOKED-1//clicsbp-idssegmented-kumyk-CROOKED-1//clicsbp-idssegmented-kumyk-CROOKED-2//clicsbp-idssegmented-nogai-CROOKED-1//clicsbp-wold-Sakha-CROOKED-1"
     words "æ j r i//q ɨ j ʃ ɨ q//q ɨ ŋ ɨ r//k ɨ j s ɨ k//t o k u r"
@@ -10308,7 +10296,7 @@ graph [
     family_count 1
   ]
   node [
-    id 859
+    id 858
     label "HOOK"
     occurrences "clicsbp-idssegmented-azerbaijani-HOOK-1//clicsbp-idssegmented-kumyk-HOOK-1//clicsbp-idssegmented-kumyk-HOOK-2//clicsbp-idssegmented-nogai-HOOK-1//clicsbp-idssegmented-nogai-HOOK-2//clicsbp-northeuralex-tur-HOOK-1//clicsbp-northeuralex-uzn-HOOK-1//clicsbp-northeuralex-kaz-HOOK-1//clicsbp-northeuralex-bak-HOOK-1//clicsbp-northeuralex-tat-HOOK-1//clicsbp-northeuralex-chv-HOOK-1//clicsbp-northeuralex-chv-HOOK-2//clicsbp-wold-Sakha-HOOK-1"
     words "g a r m a g//q a r m a q//i r ɣ a q//k a r m a k//ɨ r g a k//tʃ ɛ n g ɛ l//i l g a k//ə l m e k//ɯ r g a q//ɤ r g a k//j ə r χ a χ//ɕ ɛ k ɘ l//k œ χ œ"
@@ -10320,7 +10308,7 @@ graph [
     family_count 1
   ]
   node [
-    id 860
+    id 859
     label "FISHHOOK"
     occurrences "clicsbp-idssegmented-azerbaijani-FISHHOOK-1//clicsbp-idssegmented-azerbaijani-FISHHOOK-2//clicsbp-idssegmented-kumyk-FISHHOOK-1//clicsbp-idssegmented-nogai-FISHHOOK-1//clicsbp-wold-Sakha-FISHHOOK-1"
     words "g a r m a g//t i l o v//q a r m a q//b a l ɨ k + ɨ s l a j t a g a n + k a r m a k//k y œ g y"
@@ -10332,7 +10320,7 @@ graph [
     family_count 1
   ]
   node [
-    id 861
+    id 860
     label "CORNER"
     occurrences "clicsbp-idssegmented-azerbaijani-CORNER-1//clicsbp-idssegmented-azerbaijani-CORNER-2//clicsbp-idssegmented-kumyk-CORNER-1//clicsbp-idssegmented-nogai-CORNER-1//clicsbp-northeuralex-tur-CORNER-1//clicsbp-northeuralex-uzn-CORNER-1//clicsbp-northeuralex-kaz-CORNER-1//clicsbp-northeuralex-kaz-CORNER-2//clicsbp-northeuralex-bak-CORNER-1//clicsbp-northeuralex-tat-CORNER-1//clicsbp-northeuralex-chv-CORNER-1//clicsbp-wold-Sakha-CORNER-1"
     words "k ü n dʒ//b u dʒ a g//m ü j u ʃ//m ü j i s//k œ ʃ ɛ//b u r tʃ a k//q ə ɾ ə//b ʉ ɾ ə ʃ//m ø j ø ʃ//p o tɕ m a k//k ɘ t ɛ s//m u nː u k"
@@ -10344,7 +10332,7 @@ graph [
     family_count 1
   ]
   node [
-    id 862
+    id 861
     label "CROSS"
     occurrences "clicsbp-idssegmented-azerbaijani-CROSS-1//clicsbp-idssegmented-kumyk-CROSS-1//clicsbp-idssegmented-nogai-CROSS-1//clicsbp-northeuralex-tur-CROSS-1//clicsbp-northeuralex-uzn-CROSS-1//clicsbp-northeuralex-kaz-CROSS-1//clicsbp-northeuralex-bak-CROSS-1//clicsbp-northeuralex-tat-CROSS-1//clicsbp-northeuralex-tat-CROSS-2//clicsbp-northeuralex-chv-CROSS-1//clicsbp-wold-Sakha-CROSS-1"
     words "x a tʃ//x a tʃ//k r e s t//h a tʃ//χ ɒ tʃ//k ɾ e s t//t æ r e//x a tɕ//t æ r e//χ ɘ r ɛ s//k i r i e s"
@@ -10356,7 +10344,7 @@ graph [
     family_count 1
   ]
   node [
-    id 863
+    id 862
     label "SQUARE"
     occurrences "clicsbp-idssegmented-azerbaijani-SQUARE-1//clicsbp-idssegmented-azerbaijani-SQUARE-2//clicsbp-idssegmented-kumyk-SQUARE-1//clicsbp-idssegmented-kumyk-SQUARE-2//clicsbp-idssegmented-nogai-SQUARE-1//clicsbp-idssegmented-nogai-SQUARE-2//clicsbp-wold-Sakha-SQUARE-1"
     words "k v a d r a t//x a n æ//kʷ a d r a t//d œ r t g ü l//kʷ a d r a t//d œ r t k i l//t y œ r t + m u nː u k"
@@ -10368,7 +10356,7 @@ graph [
     family_count 1
   ]
   node [
-    id 864
+    id 863
     label "ROUND"
     occurrences "clicsbp-idssegmented-azerbaijani-ROUND-1//clicsbp-idssegmented-azerbaijani-ROUND-2//clicsbp-idssegmented-kumyk-ROUND-1//clicsbp-idssegmented-nogai-ROUND-1//clicsbp-idssegmented-nogai-ROUND-2//clicsbp-northeuralex-tur-ROUND-1//clicsbp-northeuralex-uzn-ROUND-1//clicsbp-northeuralex-kaz-ROUND-1//clicsbp-northeuralex-bak-ROUND-1//clicsbp-northeuralex-tat-ROUND-1//clicsbp-northeuralex-chv-ROUND-1//clicsbp-wold-Sakha-ROUND-1//clicsbp-savelyevturkic-Karaim-ROUND-1"
     words "j u m r u//gʲ i r d æ//d œ g e r e k//t œ g e r e k//d ɨ m a l a k//j u v a ɾ l a k//j u m a l ɒ q//d o m ɑ l ɑ q//t y ŋ æ r æ k//t ʉ g æ r æ k//ɕ a ʋ r a//t œ g y r y k//j u m a l a k"
@@ -10380,7 +10368,7 @@ graph [
     family_count 1
   ]
   node [
-    id 865
+    id 864
     label "CIRCLE"
     occurrences "clicsbp-idssegmented-azerbaijani-CIRCLE-1//clicsbp-idssegmented-azerbaijani-CIRCLE-2//clicsbp-idssegmented-kumyk-CIRCLE-1//clicsbp-idssegmented-kumyk-CIRCLE-2//clicsbp-idssegmented-nogai-CIRCLE-1//clicsbp-idssegmented-nogai-CIRCLE-2//clicsbp-northeuralex-tur-CIRCLE-1//clicsbp-northeuralex-uzn-CIRCLE-1//clicsbp-northeuralex-kaz-CIRCLE-1//clicsbp-northeuralex-bak-CIRCLE-1//clicsbp-northeuralex-tat-CIRCLE-1//clicsbp-northeuralex-chv-CIRCLE-1//clicsbp-northeuralex-chv-CIRCLE-2//clicsbp-wold-Sakha-CIRCLE-1"
     words "d a i r æ//h æ n d æ v æ r//d œ g e r e k//d œ g e r e k + h ɨ z//d œ g e r e k//t œ g e r e k + ɨ z//d a i ɾ ɛ//a j l a n a//ʃ e ŋ b e ɾ//t y ŋ æ r æ k//t ʉ g æ r æ k//u n k ə//ɕ a ʋ r a k ə ʂ//t œ g y r y k"
@@ -10392,7 +10380,7 @@ graph [
     family_count 1
   ]
   node [
-    id 866
+    id 865
     label "BALL"
     occurrences "clicsbp-idssegmented-azerbaijani-BALL-1//clicsbp-idssegmented-kumyk-BALL-1//clicsbp-idssegmented-kumyk-BALL-2//clicsbp-idssegmented-nogai-BALL-1//clicsbp-idssegmented-nogai-BALL-2"
     words "k ü r æ//ʃ a r//d œ g e r e k + z a t//ʃ a r//t œ g e r e k + z a t"
@@ -10404,7 +10392,7 @@ graph [
     family_count 1
   ]
   node [
-    id 867
+    id 866
     label "LINE"
     occurrences "clicsbp-idssegmented-azerbaijani-LINE-1//clicsbp-idssegmented-azerbaijani-LINE-2//clicsbp-idssegmented-kumyk-LINE-1//clicsbp-idssegmented-nogai-LINE-1//clicsbp-idssegmented-nogai-LINE-2//clicsbp-northeuralex-tur-LINE-1//clicsbp-northeuralex-tur-LINE-2//clicsbp-northeuralex-uzn-LINE-1//clicsbp-northeuralex-kaz-LINE-1//clicsbp-northeuralex-bak-LINE-1//clicsbp-northeuralex-tat-LINE-1//clicsbp-northeuralex-chv-LINE-1//clicsbp-wold-Sakha-LINE-1"
     words "x æ tː//dʒ i z gʲ i//h ɨ z//ɨ z//s ɨ z ɨ k//h a t//tʃ i z g i//l i n i j a//s ə z ə q//h ɯ ð ɯ q//s ɤ z ɤ k//j ɘ r//s u r aː h ɨ n"
@@ -10416,7 +10404,7 @@ graph [
     family_count 1
   ]
   node [
-    id 868
+    id 867
     label "SIMILAR"
     occurrences "clicsbp-idssegmented-azerbaijani-SIMILAR-1//clicsbp-idssegmented-azerbaijani-SIMILAR-2//clicsbp-idssegmented-kumyk-SIMILAR-1//clicsbp-idssegmented-nogai-SIMILAR-1//clicsbp-idssegmented-nogai-SIMILAR-2//clicsbp-wold-Sakha-SIMILAR-1"
     words "o x ʃ a r//e j n i//o ʃ a ʃ l ɨ//u s a j t a g a n//u s a g a n//m aː r ɨ nː aː"
@@ -10428,7 +10416,7 @@ graph [
     family_count 1
   ]
   node [
-    id 869
+    id 868
     label "CHANGE"
     occurrences "clicsbp-idssegmented-azerbaijani-CHANGE-1//clicsbp-idssegmented-kumyk-CHANGE-1//clicsbp-idssegmented-nogai-CHANGE-1//clicsbp-northeuralex-tur-CHANGE-1//clicsbp-northeuralex-uzn-CHANGE-1//clicsbp-northeuralex-kaz-CHANGE-1//clicsbp-northeuralex-bak-CHANGE-1//clicsbp-northeuralex-tat-CHANGE-1//clicsbp-northeuralex-chv-CHANGE-1//clicsbp-wold-Sakha-CHANGE-1//clicsbp-wold-Sakha-CHANGE-2"
     words "d æ j i ʃ m æ k//a l m a ʃ d ɨ r m a q//a w ɨ s t ɨ r u w//d ɛ j i ʃ t i ɾ m ɛ k//o z g a r t i r m ɒ q//ø z g e ɾ t u//y ð g æ r t e y//ʉ z g æ r t ʉ//u l ə ʂ t a r//u l a r ɨ y//u l a r ɨ t"
@@ -10440,7 +10428,7 @@ graph [
     family_count 1
   ]
   node [
-    id 870
+    id 869
     label "NOTHING OR ZERO"
     occurrences "clicsbp-idssegmented-azerbaijani-NOTHINGORZERO-1//clicsbp-idssegmented-kumyk-NOTHINGORZERO-1//clicsbp-idssegmented-nogai-NOTHINGORZERO-1"
     words "s ɨ f ɨ r//n o l j//n o k a t"
@@ -10452,7 +10440,7 @@ graph [
     family_count 1
   ]
   node [
-    id 871
+    id 870
     label "ONE"
     occurrences "clicsbp-idssegmented-azerbaijani-ONE-1//clicsbp-idssegmented-kumyk-ONE-1//clicsbp-idssegmented-nogai-ONE-1//clicsbp-northeuralex-tur-ONE-1//clicsbp-northeuralex-uzn-ONE-1//clicsbp-northeuralex-kaz-ONE-1//clicsbp-northeuralex-bak-ONE-1//clicsbp-northeuralex-tat-ONE-1//clicsbp-northeuralex-chv-ONE-1//clicsbp-northeuralex-chv-ONE-2//clicsbp-wold-Sakha-ONE-1//clicsbp-savelyevturkic-Karaim-ONE-1"
     words "b i r//b i r//b i r//b i ɾ//b i r//b ə ɾ//b e r//b e r//p ɘ r//p ɘ r ɛ//b iː r//b i r"
@@ -10464,7 +10452,7 @@ graph [
     family_count 1
   ]
   node [
-    id 872
+    id 871
     label "TWO"
     occurrences "clicsbp-idssegmented-azerbaijani-TWO-1//clicsbp-idssegmented-kumyk-TWO-1//clicsbp-idssegmented-nogai-TWO-1//clicsbp-northeuralex-tur-TWO-1//clicsbp-northeuralex-uzn-TWO-1//clicsbp-northeuralex-kaz-TWO-1//clicsbp-northeuralex-bak-TWO-1//clicsbp-northeuralex-bak-TWO-2//clicsbp-northeuralex-tat-TWO-1//clicsbp-northeuralex-chv-TWO-1//clicsbp-northeuralex-chv-TWO-2//clicsbp-northeuralex-chv-TWO-3//clicsbp-wold-Sakha-TWO-1//clicsbp-savelyevturkic-Karaim-TWO-1"
     words "i k i//e k i//e k i//i k i//i kː i//e k ə//i k e//i k æ y//i k e//i k//i k ɘ//i k ɘ//i kː i//e k i"
@@ -10476,7 +10464,7 @@ graph [
     family_count 1
   ]
   node [
-    id 873
+    id 872
     label "THREE"
     occurrences "clicsbp-idssegmented-azerbaijani-THREE-1//clicsbp-idssegmented-kumyk-THREE-1//clicsbp-idssegmented-nogai-THREE-1//clicsbp-northeuralex-tur-THREE-1//clicsbp-northeuralex-uzn-THREE-1//clicsbp-northeuralex-kaz-THREE-1//clicsbp-northeuralex-bak-THREE-1//clicsbp-northeuralex-tat-THREE-1//clicsbp-northeuralex-chv-THREE-1//clicsbp-northeuralex-chv-THREE-2//clicsbp-northeuralex-chv-THREE-3//clicsbp-wold-Sakha-THREE-1//clicsbp-savelyevturkic-Karaim-THREE-1"
     words "ü tʃ//ü tʃ//ü ʃ//y tʃ//u tʃ//ʊ ʃ//ø s//œ tɕ//ʋ i ɕ//ʋ i ɕ ɘ//ʋ i ɕ ɘ//y s//y tɕ"
@@ -10488,7 +10476,7 @@ graph [
     family_count 1
   ]
   node [
-    id 874
+    id 873
     label "FOUR"
     occurrences "clicsbp-idssegmented-azerbaijani-FOUR-1//clicsbp-idssegmented-kumyk-FOUR-1//clicsbp-idssegmented-nogai-FOUR-1//clicsbp-northeuralex-tur-FOUR-1//clicsbp-northeuralex-uzn-FOUR-1//clicsbp-northeuralex-kaz-FOUR-1//clicsbp-northeuralex-bak-FOUR-1//clicsbp-northeuralex-tat-FOUR-1//clicsbp-northeuralex-chv-FOUR-1//clicsbp-wold-Sakha-FOUR-1//clicsbp-savelyevturkic-Karaim-FOUR-1"
     words "d œ r d//d œ r t//d œ r t//d œ ɾ t//t o r t//t ø ɾ t//d y r t//d ʉ r t//t ə ʋ a t//t y œ r t//d ø r t"
@@ -10500,7 +10488,7 @@ graph [
     family_count 1
   ]
   node [
-    id 875
+    id 874
     label "FIVE"
     occurrences "clicsbp-idssegmented-azerbaijani-FIVE-1//clicsbp-idssegmented-kumyk-FIVE-1//clicsbp-idssegmented-nogai-FIVE-1//clicsbp-northeuralex-tur-FIVE-1//clicsbp-northeuralex-uzn-FIVE-1//clicsbp-northeuralex-kaz-FIVE-1//clicsbp-northeuralex-bak-FIVE-1//clicsbp-northeuralex-tat-FIVE-1//clicsbp-northeuralex-chv-FIVE-1//clicsbp-northeuralex-chv-FIVE-2//clicsbp-wold-Sakha-FIVE-1//clicsbp-savelyevturkic-Karaim-FIVE-1"
     words "b e ʃ//b e ʃ//b e s//b ɛ ʃ//b ɛ ʃ//b e s//b i ʃ//b i ʃ//p i l ɘ k//p i l ɘ k//b i e s//b e ʃ"
@@ -10512,7 +10500,7 @@ graph [
     family_count 1
   ]
   node [
-    id 876
+    id 875
     label "SIX"
     occurrences "clicsbp-idssegmented-azerbaijani-SIX-1//clicsbp-idssegmented-kumyk-SIX-1//clicsbp-idssegmented-nogai-SIX-1//clicsbp-northeuralex-tur-SIX-1//clicsbp-northeuralex-uzn-SIX-1//clicsbp-northeuralex-kaz-SIX-1//clicsbp-northeuralex-bak-SIX-1//clicsbp-northeuralex-tat-SIX-1//clicsbp-northeuralex-chv-SIX-1//clicsbp-northeuralex-chv-SIX-2//clicsbp-northeuralex-chv-SIX-3//clicsbp-wold-Sakha-SIX-1"
     words "a l t ɨ//a l t ɨ//a l t ɨ//a l t ɯ//ɒ l t i//ɑ l t ə//a l t ɯ//a l t ɤ//u l t//u l t ə//u l t ə//a l t a"
@@ -10524,7 +10512,7 @@ graph [
     family_count 1
   ]
   node [
-    id 877
+    id 876
     label "SEVEN"
     occurrences "clicsbp-idssegmented-azerbaijani-SEVEN-1//clicsbp-idssegmented-kumyk-SEVEN-1//clicsbp-idssegmented-nogai-SEVEN-1//clicsbp-northeuralex-tur-SEVEN-1//clicsbp-northeuralex-uzn-SEVEN-1//clicsbp-northeuralex-kaz-SEVEN-1//clicsbp-northeuralex-bak-SEVEN-1//clicsbp-northeuralex-tat-SEVEN-1//clicsbp-northeuralex-chv-SEVEN-1//clicsbp-northeuralex-chv-SEVEN-2//clicsbp-northeuralex-chv-SEVEN-3//clicsbp-wold-Sakha-SEVEN-1"
     words "j e dː i//j e t i//j e t i//j ɛ d i//ɛ tː i//ʒ e t ə//j e t e//dʑ i d e//ɕ i tɕ//ɕ i tɕ ɘ//ɕ i tɕ ɘ//s e tː e"
@@ -10536,7 +10524,7 @@ graph [
     family_count 1
   ]
   node [
-    id 878
+    id 877
     label "EIGHT"
     occurrences "clicsbp-idssegmented-azerbaijani-EIGHT-1//clicsbp-idssegmented-kumyk-EIGHT-1//clicsbp-idssegmented-nogai-EIGHT-1//clicsbp-northeuralex-tur-EIGHT-1//clicsbp-northeuralex-uzn-EIGHT-1//clicsbp-northeuralex-kaz-EIGHT-1//clicsbp-northeuralex-bak-EIGHT-1//clicsbp-northeuralex-tat-EIGHT-1//clicsbp-northeuralex-chv-EIGHT-1//clicsbp-northeuralex-chv-EIGHT-2//clicsbp-wold-Sakha-EIGHT-1"
     words "s æ kː i z//s e g i z//s e g i z//s ɛ k i z//s a kː i z//s e g ə z//h i g e ð//s i g e z//s a k ə r//s a k ə r//a ɣ ɨ s"
@@ -10548,7 +10536,7 @@ graph [
     family_count 1
   ]
   node [
-    id 879
+    id 878
     label "NINE"
     occurrences "clicsbp-idssegmented-azerbaijani-NINE-1//clicsbp-idssegmented-kumyk-NINE-1//clicsbp-idssegmented-nogai-NINE-1//clicsbp-northeuralex-tur-NINE-1//clicsbp-northeuralex-uzn-NINE-1//clicsbp-northeuralex-kaz-NINE-1//clicsbp-northeuralex-bak-NINE-1//clicsbp-northeuralex-tat-NINE-1//clicsbp-northeuralex-chv-NINE-1//clicsbp-northeuralex-chv-NINE-2//clicsbp-wold-Sakha-NINE-1"
     words "d o gː u z//t o ɣ u z//t o g ɨ z//d o k u z//t o qː i z//t o ʁ ə z//t u ɣ ɯ ð//t u g ɤ z//t ə χ ə r//t ə χ ə r//t o ɣ u s"
@@ -10560,7 +10548,7 @@ graph [
     family_count 1
   ]
   node [
-    id 880
+    id 879
     label "TEN"
     occurrences "clicsbp-idssegmented-azerbaijani-TEN-1//clicsbp-idssegmented-kumyk-TEN-1//clicsbp-idssegmented-nogai-TEN-1//clicsbp-northeuralex-tur-TEN-1//clicsbp-northeuralex-uzn-TEN-1//clicsbp-northeuralex-kaz-TEN-1//clicsbp-northeuralex-bak-TEN-1//clicsbp-northeuralex-tat-TEN-1//clicsbp-northeuralex-chv-TEN-1//clicsbp-northeuralex-chv-TEN-2//clicsbp-wold-Sakha-TEN-1"
     words "o n//o n//o n//o n//o n//o n//u n//u n//ʋ u n ə//ʋ u n ə//u o n"
@@ -10572,7 +10560,7 @@ graph [
     family_count 1
   ]
   node [
-    id 881
+    id 880
     label "ELEVEN"
     occurrences "clicsbp-idssegmented-azerbaijani-ELEVEN-1//clicsbp-idssegmented-kumyk-ELEVEN-1//clicsbp-idssegmented-nogai-ELEVEN-1//clicsbp-northeuralex-tur-ELEVEN-1//clicsbp-northeuralex-uzn-ELEVEN-1//clicsbp-northeuralex-kaz-ELEVEN-1//clicsbp-northeuralex-bak-ELEVEN-1//clicsbp-northeuralex-tat-ELEVEN-1//clicsbp-northeuralex-chv-ELEVEN-1//clicsbp-wold-Sakha-ELEVEN-1"
     words "o n + b i r//o n + b i r//o n + b i r//o n + b i ɾ//o n + b i r//o n + b ə ɾ//u n + b e r//u n b e r//ʋ u n + p ɘ r//u o n + b iː r"
@@ -10584,7 +10572,7 @@ graph [
     family_count 1
   ]
   node [
-    id 882
+    id 881
     label "TWELVE"
     occurrences "clicsbp-idssegmented-azerbaijani-TWELVE-1//clicsbp-idssegmented-kumyk-TWELVE-1//clicsbp-idssegmented-nogai-TWELVE-1//clicsbp-northeuralex-tur-TWELVE-1//clicsbp-northeuralex-uzn-TWELVE-1//clicsbp-northeuralex-kaz-TWELVE-1//clicsbp-northeuralex-bak-TWELVE-1//clicsbp-northeuralex-tat-TWELVE-1//clicsbp-northeuralex-chv-TWELVE-1//clicsbp-northeuralex-chv-TWELVE-2//clicsbp-northeuralex-chv-TWELVE-3//clicsbp-wold-Sakha-TWELVE-1"
     words "o n + i k i//o n + e k i//o n + e k i//o n + i k i//o n + i kː i//o n + e k ə//u n + i k e//u n i k e//ʋ u n + i k//ʋ u n + i k ɘ//ʋ u n + i k ɘ//u o n + i kː i"
@@ -10596,7 +10584,7 @@ graph [
     family_count 1
   ]
   node [
-    id 883
+    id 882
     label "FIFTEEN"
     occurrences "clicsbp-idssegmented-azerbaijani-FIFTEEN-1//clicsbp-idssegmented-kumyk-FIFTEEN-1//clicsbp-idssegmented-nogai-FIFTEEN-1//clicsbp-wold-Sakha-FIFTEEN-1"
     words "o n + b e ʃ//o n + b e ʃ//o n + b e s//u o n + b i e s"
@@ -10608,7 +10596,7 @@ graph [
     family_count 1
   ]
   node [
-    id 884
+    id 883
     label "TWENTY"
     occurrences "clicsbp-idssegmented-azerbaijani-TWENTY-1//clicsbp-idssegmented-kumyk-TWENTY-1//clicsbp-idssegmented-nogai-TWENTY-1//clicsbp-northeuralex-tur-TWENTY-1//clicsbp-northeuralex-uzn-TWENTY-1//clicsbp-northeuralex-kaz-TWENTY-1//clicsbp-northeuralex-bak-TWENTY-1//clicsbp-northeuralex-tat-TWENTY-1//clicsbp-northeuralex-chv-TWENTY-1//clicsbp-wold-Sakha-TWENTY-1"
     words "i j i r m i//j i g i r m a//j ɨ r m a//j i ɾ m i//j i g i r m a//ʒ ɪ j ə ɾ m ɑ//j e g e r m e//e g e r m e//ɕ i r ɘ m//s yː r b e"
@@ -10620,7 +10608,7 @@ graph [
     family_count 1
   ]
   node [
-    id 885
+    id 884
     label "HUNDRED"
     occurrences "clicsbp-idssegmented-azerbaijani-HUNDRED-1//clicsbp-idssegmented-kumyk-HUNDRED-1//clicsbp-idssegmented-nogai-HUNDRED-1//clicsbp-northeuralex-tur-HUNDRED-1//clicsbp-northeuralex-uzn-HUNDRED-1//clicsbp-northeuralex-kaz-HUNDRED-1//clicsbp-northeuralex-bak-HUNDRED-1//clicsbp-northeuralex-tat-HUNDRED-1//clicsbp-northeuralex-chv-HUNDRED-1//clicsbp-wold-Sakha-HUNDRED-1"
     words "j ü z//ü z//j u z//j y z//j u z//ʒ ʊ z//j ø ð//j œ z//ɕ ɘ r//s yː s"
@@ -10632,7 +10620,7 @@ graph [
     family_count 1
   ]
   node [
-    id 886
+    id 885
     label "THOUSAND"
     occurrences "clicsbp-idssegmented-azerbaijani-THOUSAND-1//clicsbp-idssegmented-kumyk-THOUSAND-1//clicsbp-idssegmented-nogai-THOUSAND-1//clicsbp-northeuralex-tur-THOUSAND-1//clicsbp-northeuralex-uzn-THOUSAND-1//clicsbp-northeuralex-kaz-THOUSAND-1//clicsbp-northeuralex-bak-THOUSAND-1//clicsbp-northeuralex-tat-THOUSAND-1//clicsbp-northeuralex-chv-THOUSAND-1//clicsbp-wold-Sakha-THOUSAND-1"
     words "m i n//m i ŋ//m ɨ ŋ//b i n//m i ŋ//m ə ŋ//m e ŋ//m e ŋ//p i n//t ɨ h ɨː n tʃ a"
@@ -10644,7 +10632,7 @@ graph [
     family_count 1
   ]
   node [
-    id 887
+    id 886
     label "COUNT"
     occurrences "clicsbp-idssegmented-azerbaijani-COUNT-1//clicsbp-idssegmented-azerbaijani-COUNT-2//clicsbp-idssegmented-kumyk-COUNT-1//clicsbp-idssegmented-nogai-COUNT-1//clicsbp-northeuralex-tur-COUNT-1//clicsbp-northeuralex-uzn-COUNT-1//clicsbp-northeuralex-kaz-COUNT-1//clicsbp-northeuralex-bak-COUNT-1//clicsbp-northeuralex-tat-COUNT-1//clicsbp-northeuralex-chv-COUNT-1//clicsbp-wold-Sakha-COUNT-1//clicsbp-wold-Sakha-COUNT-2//clicsbp-savelyevturkic-Karaim-COUNT-1"
     words "h e s a b l a m a g//s a j m a g//s a n a m a//s a m a w//s a j m a k//r a q a m l a m ɒ q//s ɑ n ɑ u//h a n au//s a n au//ʂ u t l a//aː χ//s u o tː aː//s a j"
@@ -10656,7 +10644,7 @@ graph [
     family_count 1
   ]
   node [
-    id 888
+    id 887
     label "THINK (BELIEVE)"
     occurrences "clicsbp-idssegmented-azerbaijani-THINKBELIEVE-2//clicsbp-idssegmented-azerbaijani-THINKBELIEVE-1//clicsbp-idssegmented-azerbaijani-THINKBELIEVE-3//clicsbp-idssegmented-kumyk-THINKBELIEVE-1//clicsbp-idssegmented-kumyk-THINKBELIEVE-2//clicsbp-idssegmented-nogai-THINKBELIEVE-1//clicsbp-idssegmented-nogai-THINKBELIEVE-2"
     words "s a j m a g//f i k i r l æ ʃ m æ k//h e s a b + e t m æ k//o j l a ʃ m a q//œ r a m a q//o j l a w//s a n a w"
@@ -10668,7 +10656,7 @@ graph [
     family_count 1
   ]
   node [
-    id 889
+    id 888
     label "ALL"
     occurrences "clicsbp-idssegmented-azerbaijani-ALL-1//clicsbp-idssegmented-kumyk-ALL-1//clicsbp-idssegmented-nogai-ALL-1//clicsbp-idssegmented-nogai-ALL-2//clicsbp-northeuralex-tur-ALL-1//clicsbp-northeuralex-tur-ALL-2//clicsbp-northeuralex-uzn-ALL-1//clicsbp-northeuralex-kaz-ALL-1//clicsbp-northeuralex-kaz-ALL-2//clicsbp-northeuralex-bak-ALL-1//clicsbp-northeuralex-tat-ALL-1//clicsbp-northeuralex-chv-ALL-1//clicsbp-northeuralex-chv-ALL-2//clicsbp-wold-Sakha-ALL-1"
     words "h a m ɨ//b a r ɨ + d a//b ä r i//b ä r i + z a t a//h ɛ p s i//h ɛ ɾ + ʃ ɛ j//h a r + n i m a//d ʊ j ə m//k ʊ lː ə//b ø t æ//h æ m m æ//p u r t ɛ//j ə l t//b a r ɨ"
@@ -10680,7 +10668,7 @@ graph [
     family_count 1
   ]
   node [
-    id 890
+    id 889
     label "MANY"
     occurrences "clicsbp-idssegmented-azerbaijani-MANY-1//clicsbp-idssegmented-azerbaijani-MANY-2//clicsbp-idssegmented-kumyk-MANY-1//clicsbp-idssegmented-nogai-MANY-1//clicsbp-idssegmented-nogai-MANY-2//clicsbp-wold-Sakha-MANY-1//clicsbp-wold-Sakha-MANY-2//clicsbp-savelyevturkic-Karaim-MANY-1"
     words "tʃ o x//a r t ɨ g//k œ p//k œ p//k ɨ j l ɨ//e l b e χ//y g y s//k ø p"
@@ -10692,7 +10680,7 @@ graph [
     family_count 1
   ]
   node [
-    id 891
+    id 890
     label "MORE"
     occurrences "clicsbp-idssegmented-azerbaijani-MORE-1//clicsbp-idssegmented-azerbaijani-MORE-2//clicsbp-idssegmented-kumyk-MORE-1//clicsbp-idssegmented-nogai-MORE-1//clicsbp-idssegmented-nogai-MORE-2"
     words "tʃ o x//a r t ɨ g//a r t ɨ q//k œ p//a r t ɨ k"
@@ -10704,7 +10692,7 @@ graph [
     family_count 1
   ]
   node [
-    id 892
+    id 891
     label "FEW"
     occurrences "clicsbp-idssegmented-azerbaijani-FEW-1//clicsbp-idssegmented-kumyk-FEW-1//clicsbp-idssegmented-nogai-FEW-1//clicsbp-idssegmented-nogai-FEW-2//clicsbp-wold-Sakha-FEW-1"
     words "a z//a z//a z//k e m//a ɣ ɨ y a χ"
@@ -10716,7 +10704,7 @@ graph [
     family_count 1
   ]
   node [
-    id 893
+    id 892
     label "ENOUGH"
     occurrences "clicsbp-idssegmented-azerbaijani-ENOUGH-1//clicsbp-idssegmented-azerbaijani-ENOUGH-2//clicsbp-idssegmented-kumyk-ENOUGH-1//clicsbp-idssegmented-nogai-ENOUGH-1//clicsbp-idssegmented-nogai-ENOUGH-2//clicsbp-wold-Sakha-ENOUGH-1"
     words "k i f a j æ t + g æ d æ r//x e j l i//t a m a n//t a m a n//b o l a j a k//s œ p"
@@ -10728,7 +10716,7 @@ graph [
     family_count 1
   ]
   node [
-    id 894
+    id 893
     label "SOME"
     occurrences "clicsbp-idssegmented-azerbaijani-SOME-1//clicsbp-idssegmented-kumyk-SOME-1//clicsbp-idssegmented-nogai-SOME-1//clicsbp-idssegmented-nogai-SOME-2//clicsbp-wold-Sakha-SOME-1//clicsbp-wold-Sakha-SOME-2"
     words "b i r + n e tʃ æ//b i r + n e tʃ e//b a r + k e ʃ e//a z ɨ n + ʃ o g ɨ n//s o r o χ//χ a s + d a ɣ a n ɯ"
@@ -10740,7 +10728,7 @@ graph [
     family_count 1
   ]
   node [
-    id 895
+    id 894
     label "CROWD"
     occurrences "clicsbp-idssegmented-azerbaijani-CROWD-1//clicsbp-idssegmented-kumyk-CROWD-1//clicsbp-idssegmented-kumyk-CROWD-2//clicsbp-idssegmented-nogai-CROWD-1//clicsbp-idssegmented-nogai-CROWD-2//clicsbp-wold-Sakha-CROWD-1"
     words "tʃ o x l u//k œ p//k œ p + k œ p//k œ p l i k//k œ p l e g e n//dʒ o n"
@@ -10752,7 +10740,7 @@ graph [
     family_count 1
   ]
   node [
-    id 896
+    id 895
     label "FULL"
     occurrences "clicsbp-idssegmented-azerbaijani-FULL-1//clicsbp-idssegmented-kumyk-FULL-1//clicsbp-idssegmented-nogai-FULL-1//clicsbp-northeuralex-tur-FULL-1//clicsbp-northeuralex-tur-FULL-2//clicsbp-northeuralex-uzn-FULL-1//clicsbp-northeuralex-kaz-FULL-1//clicsbp-northeuralex-bak-FULL-1//clicsbp-northeuralex-tat-FULL-1//clicsbp-northeuralex-chv-FULL-1//clicsbp-wold-Sakha-FULL-1//clicsbp-savelyevturkic-Karaim-FULL-1"
     words "d o l u//t o l u//t o l ɨ//d o l u//d o l m u ʃ//t o l a//t o l ə//t u l ɯ//t u l ɤ//t u l i//t o l o r u//t o l u"
@@ -10764,7 +10752,7 @@ graph [
     family_count 1
   ]
   node [
-    id 897
+    id 896
     label "PART"
     occurrences "clicsbp-idssegmented-azerbaijani-PART-1//clicsbp-idssegmented-azerbaijani-PART-2//clicsbp-idssegmented-azerbaijani-PART-3//clicsbp-idssegmented-kumyk-PART-1//clicsbp-idssegmented-kumyk-PART-2//clicsbp-idssegmented-nogai-PART-1//clicsbp-idssegmented-nogai-PART-2//clicsbp-northeuralex-tur-PART-1//clicsbp-northeuralex-uzn-PART-1//clicsbp-northeuralex-kaz-PART-1//clicsbp-northeuralex-kaz-PART-2//clicsbp-northeuralex-bak-PART-1//clicsbp-northeuralex-tat-PART-1//clicsbp-northeuralex-chv-PART-1//clicsbp-wold-Sakha-PART-1//clicsbp-wold-Sakha-PART-2"
     words "h i sː æ//g i s i m//d i l i m//p a j//g e s e k//p a j//k e s e k//k ɯ s ɯ m//b o l a k//ʊ l e s//b ø l ʃ e k//ø l ø ʃ//œ l e ʃ//p a j//i r eː t//tʃ aː s"
@@ -10776,7 +10764,7 @@ graph [
     family_count 1
   ]
   node [
-    id 898
+    id 897
     label "HALF"
     occurrences "clicsbp-idssegmented-azerbaijani-HALF-1//clicsbp-idssegmented-kumyk-HALF-1//clicsbp-idssegmented-nogai-HALF-1//clicsbp-idssegmented-nogai-HALF-2//clicsbp-northeuralex-tur-HALF-1//clicsbp-northeuralex-uzn-HALF-1//clicsbp-northeuralex-kaz-HALF-1//clicsbp-northeuralex-bak-HALF-1//clicsbp-northeuralex-tat-HALF-1//clicsbp-northeuralex-chv-HALF-1//clicsbp-wold-Sakha-HALF-1"
     words "j a r ɨ m//u a r t ɨ s ɨ//j a r t ɨ s ɨ//j a r t ɨ//j a ɾ ɯ//j a r i m//ʒ ɑ ɾ t ə//j a r t ɯ//j a r ɤ m//ɕ u r ə//a ŋ a r"
@@ -10788,7 +10776,7 @@ graph [
     family_count 1
   ]
   node [
-    id 899
+    id 898
     label "ONLY"
     occurrences "clicsbp-idssegmented-azerbaijani-ONLY-1//clicsbp-idssegmented-azerbaijani-ONLY-2//clicsbp-idssegmented-kumyk-ONLY-1//clicsbp-idssegmented-kumyk-ONLY-2//clicsbp-idssegmented-nogai-ONLY-1//clicsbp-idssegmented-nogai-ONLY-2//clicsbp-idssegmented-nogai-ONLY-3//clicsbp-northeuralex-tur-ONLY-2//clicsbp-northeuralex-tur-ONLY-1//clicsbp-northeuralex-uzn-ONLY-1//clicsbp-northeuralex-kaz-ONLY-1//clicsbp-northeuralex-bak-ONLY-1//clicsbp-northeuralex-tat-ONLY-1//clicsbp-northeuralex-chv-ONLY-1//clicsbp-wold-Sakha-ONLY-1"
     words "t æ k + j e gʲ a n æ//v a h i d//b i r//b i r g i n e + b i r//b i r//j e l g ɨ z//b i r e w//j a l n ɯ z//a n dʒ a k//j ɒ l ɣ i z//ʁ ɑ n ɑ//b a r ɯ//f æ q ɑ t ʔ//ɕ ɛ χ//s o ɣ o t o χ"
@@ -10800,7 +10788,7 @@ graph [
     family_count 1
   ]
   node [
-    id 900
+    id 899
     label "FIRST"
     occurrences "clicsbp-idssegmented-azerbaijani-FIRST-1//clicsbp-idssegmented-kumyk-FIRST-1//clicsbp-idssegmented-nogai-FIRST-1//clicsbp-northeuralex-tur-FIRST-1//clicsbp-northeuralex-tur-FIRST-2//clicsbp-northeuralex-uzn-FIRST-1//clicsbp-northeuralex-kaz-FIRST-1//clicsbp-northeuralex-bak-FIRST-1//clicsbp-northeuralex-tat-FIRST-1//clicsbp-northeuralex-chv-FIRST-1//clicsbp-wold-Sakha-FIRST-1//clicsbp-wold-Sakha-FIRST-2"
     words "b i r i n dʒ i//b i r i n tʃ i//b i r i n ʃ i//i l k//b i ɾ i n dʒ i//b i r i n tʃ i//ɑ l ʁ ɑ ʃ q ə//t æ y g e//b e r e n tɕ e//p ɘ r ɛ m ɘ ʂ//m a ŋ n a y g ɨ//b a s t a k ɨ"
@@ -10812,7 +10800,7 @@ graph [
     family_count 1
   ]
   node [
-    id 901
+    id 900
     label "LAST (FINAL)"
     occurrences "clicsbp-idssegmented-azerbaijani-LASTFINAL-1//clicsbp-idssegmented-kumyk-LASTFINAL-1//clicsbp-idssegmented-nogai-LASTFINAL-1//clicsbp-idssegmented-nogai-LASTFINAL-2//clicsbp-idssegmented-nogai-LASTFINAL-3//clicsbp-northeuralex-tur-LASTFINAL-1//clicsbp-northeuralex-tur-LASTFINAL-2//clicsbp-northeuralex-uzn-LASTFINAL-1//clicsbp-northeuralex-kaz-LASTFINAL-1//clicsbp-northeuralex-kaz-LASTFINAL-2//clicsbp-northeuralex-bak-LASTFINAL-1//clicsbp-northeuralex-tat-LASTFINAL-1//clicsbp-northeuralex-chv-LASTFINAL-1//clicsbp-wold-Sakha-LASTFINAL-1//clicsbp-wold-Sakha-LASTFINAL-2"
     words "a x ɨ r ɨ n dʒ ɨ//a x ɨ r ɨ n tʃ ɨ//ɨ z g ɨ//s o ŋ g ɨ//a r t ɨ n d a g ɨ//s o n//s o n u n dʒ u//ɒ χ i r g i//ɑ ɾ t q ə//k e j ə n g ə//h u ŋ ɣ ɯ//a x ɤ r g ɤ//j u l a ʂ k i//b y t e h i k//t i h e χ"
@@ -10824,7 +10812,7 @@ graph [
     family_count 1
   ]
   node [
-    id 902
+    id 901
     label "SECOND"
     occurrences "clicsbp-idssegmented-azerbaijani-SECOND-1//clicsbp-idssegmented-kumyk-SECOND-1//clicsbp-idssegmented-nogai-SECOND-1//clicsbp-northeuralex-tur-SECOND-1//clicsbp-northeuralex-uzn-SECOND-1//clicsbp-northeuralex-kaz-SECOND-1//clicsbp-northeuralex-bak-SECOND-1//clicsbp-northeuralex-tat-SECOND-1//clicsbp-northeuralex-chv-SECOND-1//clicsbp-wold-Sakha-SECOND-1"
     words "i k i n dʒ i//e k i n tʃ i//e k i n ʃ i//i k i n dʒ i//i kː i n tʃ i//e k ə n ʃ ə//i k e n s e//i k e n tɕ e//i k ɘ m ɘ ʂ//i kː i s"
@@ -10836,7 +10824,7 @@ graph [
     family_count 1
   ]
   node [
-    id 903
+    id 902
     label "PAIR"
     occurrences "clicsbp-idssegmented-azerbaijani-PAIR-1//clicsbp-idssegmented-kumyk-PAIR-1//clicsbp-idssegmented-kumyk-PAIR-2//clicsbp-idssegmented-nogai-PAIR-1//clicsbp-wold-Sakha-PAIR-1"
     words "dʒ ü t//ʒ u t//tʃ e r//k o s a k//p aː r a"
@@ -10848,7 +10836,7 @@ graph [
     family_count 1
   ]
   node [
-    id 904
+    id 903
     label "TWICE"
     occurrences "clicsbp-idssegmented-azerbaijani-TWICE-1//clicsbp-idssegmented-kumyk-TWICE-1//clicsbp-idssegmented-nogai-TWICE-1//clicsbp-wold-Sakha-TWICE-1//clicsbp-wold-Sakha-TWICE-2"
     words "i k i + d æ f æ//e k i + k e r e n//e k i + k e r e//i kː i + t œ g y l//i kː i t e"
@@ -10860,7 +10848,7 @@ graph [
     family_count 1
   ]
   node [
-    id 905
+    id 904
     label "THIRD"
     occurrences "clicsbp-idssegmented-azerbaijani-THIRD-1//clicsbp-idssegmented-kumyk-THIRD-1//clicsbp-idssegmented-nogai-THIRD-1//clicsbp-northeuralex-tur-THIRD-1//clicsbp-northeuralex-uzn-THIRD-1//clicsbp-northeuralex-kaz-THIRD-1//clicsbp-northeuralex-bak-THIRD-1//clicsbp-northeuralex-tat-THIRD-1//clicsbp-northeuralex-chv-THIRD-1//clicsbp-wold-Sakha-THIRD-1"
     words "ü tʃ ü n dʒ ü//ü tʃ ü n tʃ ü//ü ʃ i n ʃ i//y tʃ y n dʒ y//u tʃ i n tʃ i//ʊ ʃ ə n ʃ ə//ø s ø n s ø//œ tɕ e n tɕ e//ʋ i ɕ ɘ m ɘ ʂ//y h y s"
@@ -10872,7 +10860,7 @@ graph [
     family_count 1
   ]
   node [
-    id 906
+    id 905
     label "THREE TIMES"
     occurrences "clicsbp-idssegmented-azerbaijani-THREETIMES-1//clicsbp-idssegmented-kumyk-THREETIMES-1//clicsbp-idssegmented-nogai-THREETIMES-1//clicsbp-wold-Sakha-THREETIMES-1//clicsbp-wold-Sakha-THREETIMES-2"
     words "ü tʃ + d æ f æ//ü tʃ + k e r e n//ü ʃ + k e r e//y s + t œ g y l//y s t e"
@@ -10884,7 +10872,7 @@ graph [
     family_count 1
   ]
   node [
-    id 907
+    id 906
     label "TIME"
     occurrences "clicsbp-idssegmented-azerbaijani-TIME-1//clicsbp-idssegmented-azerbaijani-TIME-2//clicsbp-idssegmented-kumyk-TIME-1//clicsbp-idssegmented-nogai-TIME-1//clicsbp-northeuralex-tur-TIME-1//clicsbp-northeuralex-uzn-TIME-1//clicsbp-northeuralex-kaz-TIME-1//clicsbp-northeuralex-bak-TIME-1//clicsbp-northeuralex-bak-TIME-2//clicsbp-northeuralex-tat-TIME-1//clicsbp-northeuralex-chv-TIME-1//clicsbp-wold-Sakha-TIME-1//clicsbp-wold-Sakha-TIME-2"
     words "v a x t//z a m a n//z a m a n//z a m a n//z a m a n//w a q t//u ɑ q ə t//m æ l//z a m a n//z a m a n//ʋ ə χ ə t//b i r i e m e//k e m"
@@ -10896,7 +10884,7 @@ graph [
     family_count 1
   ]
   node [
-    id 908
+    id 907
     label "HOUR"
     occurrences "clicsbp-idssegmented-azerbaijani-HOUR-2//clicsbp-idssegmented-azerbaijani-HOUR-1//clicsbp-idssegmented-kumyk-HOUR-1//clicsbp-idssegmented-nogai-HOUR-1//clicsbp-wold-Sakha-HOUR-1"
     words "v a x t//s a ʔ a t//s a h a t//s ä a t//tʃ aː s"
@@ -10908,7 +10896,7 @@ graph [
     family_count 1
   ]
   node [
-    id 909
+    id 908
     label "NEW"
     occurrences "clicsbp-idssegmented-azerbaijani-NEW-1//clicsbp-idssegmented-kumyk-NEW-1//clicsbp-idssegmented-nogai-NEW-1//clicsbp-northeuralex-tur-NEW-1//clicsbp-northeuralex-uzn-NEW-1//clicsbp-northeuralex-kaz-NEW-1//clicsbp-northeuralex-bak-NEW-1//clicsbp-northeuralex-tat-NEW-1//clicsbp-northeuralex-chv-NEW-1//clicsbp-wold-Sakha-NEW-1//clicsbp-savelyevturkic-Karaim-NEW-1"
     words "t æ z æ//u a ŋ ɨ//j a ŋ ɨ//j ɛ n i//j a ŋ i//ʒ ɑ ŋ ɑ//j a ŋ ɯ//j a ŋ a//ɕ ɘ n ɘ//s a ŋ a//j a n ɣ ɯ"
@@ -10920,7 +10908,7 @@ graph [
     family_count 1
   ]
   node [
-    id 910
+    id 909
     label "YOUNG"
     occurrences "clicsbp-idssegmented-azerbaijani-YOUNG-1//clicsbp-idssegmented-kumyk-YOUNG-2//clicsbp-idssegmented-kumyk-YOUNG-1//clicsbp-idssegmented-nogai-YOUNG-1//clicsbp-northeuralex-tur-YOUNG-1//clicsbp-northeuralex-uzn-YOUNG-1//clicsbp-northeuralex-kaz-YOUNG-1//clicsbp-northeuralex-bak-YOUNG-1//clicsbp-northeuralex-tat-YOUNG-1//clicsbp-northeuralex-chv-YOUNG-1//clicsbp-northeuralex-chv-YOUNG-2//clicsbp-wold-Sakha-YOUNG-1"
     words "gʲ æ n dʒ//ʒ a h i l//u a ʃ//j e s//g ɛ n tʃ//n a w q i r ɒ n//n ɑ u ʃ ɑ//j æ ʃ//j a ʃ ʔ//j a ʂ//ɕ a m r ə k//e d e r"
@@ -10932,7 +10920,7 @@ graph [
     family_count 1
   ]
   node [
-    id 911
+    id 910
     label "OLD"
     occurrences "clicsbp-idssegmented-azerbaijani-OLD-1//clicsbp-idssegmented-azerbaijani-OLD-2//clicsbp-idssegmented-kumyk-OLD-1//clicsbp-idssegmented-nogai-OLD-1//clicsbp-idssegmented-nogai-OLD-2//clicsbp-northeuralex-tur-OLD-1//clicsbp-northeuralex-uzn-OLD-1//clicsbp-northeuralex-kaz-OLD-1//clicsbp-northeuralex-bak-OLD-1//clicsbp-northeuralex-bak-OLD-2//clicsbp-northeuralex-tat-OLD-1//clicsbp-northeuralex-chv-OLD-1//clicsbp-wold-Sakha-OLD-1//clicsbp-wold-Sakha-OLD-2"
     words "g o dʒ a//k œ h n æ//q a r t//k a r t//e s k i//ɛ s k i//æ s k i//e s k ə//i θ k e//b o r o n ɣ o//i s k e//k i ʋ ɘ//e r g e//k ɨ r dʒ a ɣ a s"
@@ -10944,7 +10932,7 @@ graph [
     family_count 1
   ]
   node [
-    id 912
+    id 911
     label "EARLY"
     occurrences "clicsbp-idssegmented-azerbaijani-EARLY-1//clicsbp-idssegmented-kumyk-EARLY-1//clicsbp-idssegmented-kumyk-EARLY-2//clicsbp-idssegmented-nogai-EARLY-1//clicsbp-idssegmented-nogai-EARLY-2//clicsbp-idssegmented-nogai-EARLY-3//clicsbp-wold-Sakha-EARLY-1"
     words "t e z//e r t e n//t e z//e r t e//e r t e r e k//t e z//e r d e"
@@ -10956,7 +10944,7 @@ graph [
     family_count 1
   ]
   node [
-    id 913
+    id 912
     label "FAST"
     occurrences "clicsbp-idssegmented-azerbaijani-FAST-2//clicsbp-idssegmented-azerbaijani-FAST-1//clicsbp-idssegmented-kumyk-FAST-2//clicsbp-idssegmented-kumyk-FAST-1//clicsbp-idssegmented-nogai-FAST-1//clicsbp-idssegmented-nogai-FAST-2//clicsbp-wold-Sakha-FAST-1"
     words "t e z//h æ r æ k æ t l i//t e z//tʃ a l t//t e z//ʃ a l t//t y r g e nː i k"
@@ -10968,7 +10956,7 @@ graph [
     family_count 1
   ]
   node [
-    id 914
+    id 913
     label "SOON"
     occurrences "clicsbp-idssegmented-azerbaijani-SOON-2//clicsbp-idssegmented-azerbaijani-SOON-1//clicsbp-idssegmented-azerbaijani-SOON-3//clicsbp-idssegmented-kumyk-SOON-1//clicsbp-idssegmented-kumyk-SOON-2//clicsbp-idssegmented-nogai-SOON-1//clicsbp-idssegmented-nogai-SOON-2//clicsbp-northeuralex-tur-SOON-1//clicsbp-northeuralex-uzn-SOON-1//clicsbp-northeuralex-kaz-SOON-1//clicsbp-northeuralex-bak-SOON-1//clicsbp-northeuralex-tat-SOON-1//clicsbp-northeuralex-chv-SOON-1//clicsbp-northeuralex-chv-SOON-2//clicsbp-wold-Sakha-SOON-1"
     words "t e z//t e z l i k l æ//dʒ æ l d//b i r a z d a n//j u w u q d a//b i r a z d a n//j u w ɨ k + a r a d a//j a k ɯ n d a//t ɒ z//t e z//t i ð ð æ n//t i z d æ n//χ a l ɛ χ//k ɘ ɕ ɛ χ//s o t o r u"
@@ -10980,7 +10968,7 @@ graph [
     family_count 1
   ]
   node [
-    id 915
+    id 914
     label "LATE"
     occurrences "clicsbp-idssegmented-azerbaijani-LATE-1//clicsbp-idssegmented-kumyk-LATE-1//clicsbp-idssegmented-nogai-LATE-1//clicsbp-wold-Sakha-LATE-1"
     words "gʲ e dʒ//g e tʃ//k e ʃ//χ o y u t"
@@ -10992,7 +10980,7 @@ graph [
     family_count 1
   ]
   node [
-    id 916
+    id 915
     label "NOW"
     occurrences "clicsbp-idssegmented-azerbaijani-NOW-1//clicsbp-idssegmented-kumyk-NOW-1//clicsbp-idssegmented-nogai-NOW-1//clicsbp-idssegmented-nogai-NOW-2//clicsbp-northeuralex-tur-NOW-1//clicsbp-northeuralex-uzn-NOW-1//clicsbp-northeuralex-kaz-NOW-1//clicsbp-northeuralex-kaz-NOW-2//clicsbp-northeuralex-bak-NOW-1//clicsbp-northeuralex-tat-NOW-1//clicsbp-northeuralex-chv-NOW-1//clicsbp-northeuralex-chv-NOW-2//clicsbp-wold-Sakha-NOW-1"
     words "i n d i//h a l i//ä l i//t e z + o k//ʃ i m d i//h ɒ z i r g i n a//e n d ə//q ɑ z ə ɾ//x æ ð e r//x æ z e r//χ a lʲ//χ a l ɘ//b i l i g i n"
@@ -11004,7 +10992,7 @@ graph [
     family_count 1
   ]
   node [
-    id 917
+    id 916
     label "IMMEDIATELY"
     occurrences "clicsbp-idssegmented-azerbaijani-IMMEDIATELY-1//clicsbp-idssegmented-azerbaijani-IMMEDIATELY-2//clicsbp-idssegmented-kumyk-IMMEDIATELY-1//clicsbp-idssegmented-kumyk-IMMEDIATELY-2//clicsbp-idssegmented-nogai-IMMEDIATELY-2//clicsbp-idssegmented-nogai-IMMEDIATELY-1//clicsbp-northeuralex-tur-IMMEDIATELY-1//clicsbp-northeuralex-uzn-IMMEDIATELY-1//clicsbp-northeuralex-kaz-IMMEDIATELY-1//clicsbp-northeuralex-bak-IMMEDIATELY-1//clicsbp-northeuralex-tat-IMMEDIATELY-1//clicsbp-northeuralex-chv-IMMEDIATELY-1//clicsbp-wold-Sakha-IMMEDIATELY-1"
     words "t e z l i k l æ//dʒ æ l d//t e z//b u s a h a t//t e z + o k//t e z + b u + s ä a t//b i ɾ d ɛ n//w a r a k a j//b ə ɾ d e n//b e r + j u l ɯ//b e r d æ n//k ɘ m ɘ r k ɛ n//s i b i l i g i n"
@@ -11016,7 +11004,7 @@ graph [
     family_count 1
   ]
   node [
-    id 918
+    id 917
     label "SLOW"
     occurrences "clicsbp-idssegmented-azerbaijani-SLOW-1//clicsbp-idssegmented-kumyk-SLOW-1//clicsbp-idssegmented-kumyk-SLOW-2//clicsbp-idssegmented-nogai-SLOW-1//clicsbp-idssegmented-nogai-SLOW-2//clicsbp-idssegmented-nogai-SLOW-3//clicsbp-wold-Sakha-SLOW-1"
     words "j a v a ʃ//a s t a//s a b u r//k e ʃ//a s t a//s a b ɨ r//b ɨ t aː nː ɨ k"
@@ -11028,7 +11016,7 @@ graph [
     family_count 1
   ]
   node [
-    id 919
+    id 918
     label "HURRY"
     occurrences "clicsbp-idssegmented-azerbaijani-HURRY-1//clicsbp-idssegmented-kumyk-HURRY-1//clicsbp-idssegmented-kumyk-HURRY-2//clicsbp-idssegmented-nogai-HURRY-1//clicsbp-idssegmented-nogai-HURRY-2//clicsbp-northeuralex-tur-HURRY-1//clicsbp-northeuralex-uzn-HURRY-1//clicsbp-northeuralex-kaz-HURRY-1//clicsbp-northeuralex-kaz-HURRY-2//clicsbp-northeuralex-bak-HURRY-1//clicsbp-northeuralex-bak-HURRY-2//clicsbp-northeuralex-tat-HURRY-1//clicsbp-northeuralex-tat-HURRY-2//clicsbp-northeuralex-chv-HURRY-1//clicsbp-northeuralex-chv-HURRY-2//clicsbp-wold-Sakha-HURRY-1//clicsbp-wold-Sakha-HURRY-2"
     words "t æ l æ s m æ k//a l ɣ a s a m a q//t e z + b o l m a q//a l g a s a w//t e z + b o l u w//a dʒ ɛ l ɛ + ɛ t m ɛ k//ʃ ɒ ʃ m ɒ q//ɑ s ə ʁ u//ʒ e d e l d e n u//a ʃ ɯ ɣ ɯ u//q a b a l a n ɯ u//a ʃ ɤ g u//q ɤ z u l au//ʋ a s k a//χ ɯ p a l a n//ɨ k s aː//t i e t e y"
@@ -11040,7 +11028,7 @@ graph [
     family_count 1
   ]
   node [
-    id 920
+    id 919
     label "BE LATE"
     occurrences "clicsbp-idssegmented-azerbaijani-BELATE-1//clicsbp-idssegmented-azerbaijani-BELATE-2//clicsbp-idssegmented-kumyk-BELATE-1//clicsbp-idssegmented-kumyk-BELATE-2//clicsbp-idssegmented-nogai-BELATE-1//clicsbp-idssegmented-nogai-BELATE-2//clicsbp-idssegmented-nogai-BELATE-3//clicsbp-wold-Sakha-BELATE-1"
     words "j a v a ʃ ɨ t m a g//j u b a t m a g//a s t a l a ʃ d ɨ r m a q//t o q t a t m a q//a s t a l a n d ɨ r u w//t a k t a t u w//k e ʃ k a l d ɨ r u w//χ o y u t aː"
@@ -11052,7 +11040,7 @@ graph [
     family_count 1
   ]
   node [
-    id 921
+    id 920
     label "BEGIN OR START"
     occurrences "clicsbp-idssegmented-azerbaijani-BEGINORSTART-1//clicsbp-idssegmented-azerbaijani-BEGINORSTART-2//clicsbp-idssegmented-kumyk-BEGINORSTART-1//clicsbp-idssegmented-kumyk-BEGINORSTART-2//clicsbp-idssegmented-kumyk-BEGINORSTART-3//clicsbp-idssegmented-nogai-BEGINORSTART-1//clicsbp-idssegmented-nogai-BEGINORSTART-2//clicsbp-idssegmented-nogai-BEGINORSTART-3"
     words "b a ʃ l a m a g//b a ʃ l a n ɣ ɨ dʒ//b a ʃ l a m a q//b a ʃ ɨ//b a ʃ l a n ɨ w u//b a s l a w//b a s ɨ//b a s l a m u w ɨ"
@@ -11064,7 +11052,7 @@ graph [
     family_count 1
   ]
   node [
-    id 922
+    id 921
     label "CEASE"
     occurrences "clicsbp-idssegmented-azerbaijani-CEASE-1//clicsbp-idssegmented-kumyk-CEASE-1//clicsbp-idssegmented-kumyk-CEASE-2//clicsbp-idssegmented-nogai-CEASE-1//clicsbp-idssegmented-nogai-CEASE-2//clicsbp-northeuralex-tur-CEASE-1//clicsbp-northeuralex-tur-CEASE-2//clicsbp-northeuralex-uzn-CEASE-1//clicsbp-northeuralex-kaz-CEASE-1//clicsbp-northeuralex-bak-CEASE-1//clicsbp-northeuralex-bak-CEASE-2//clicsbp-northeuralex-tat-CEASE-1//clicsbp-northeuralex-chv-CEASE-1//clicsbp-northeuralex-chv-CEASE-2//clicsbp-wold-Sakha-CEASE-1//clicsbp-wold-Sakha-CEASE-2"
     words "d a j a n d ɨ r m a g//b œ l m e k//t o q t a t m a q//b œ l y w//t o k t a t u w//b i t m ɛ k//s o n a + ɛ ɾ m ɛ k//b i t m ɒ q//ɑ d ɑ + b o l u//b ø t ø y//t a m a m l a n ɯ y//b e t ʉ//p ɘ t//ʋ ɘ ɕ l ɛ n//t o χ t oː//t o χ t o t"
@@ -11076,7 +11064,7 @@ graph [
     family_count 1
   ]
   node [
-    id 923
+    id 922
     label "READY"
     occurrences "clicsbp-idssegmented-azerbaijani-READY-1//clicsbp-idssegmented-kumyk-READY-1//clicsbp-idssegmented-nogai-READY-1//clicsbp-wold-Sakha-READY-1"
     words "h a z ɨ r//h a z i r//ä z i r//b e l e m"
@@ -11088,7 +11076,7 @@ graph [
     family_count 1
   ]
   node [
-    id 924
+    id 923
     label "ALWAYS"
     occurrences "clicsbp-idssegmented-azerbaijani-ALWAYS-1//clicsbp-idssegmented-azerbaijani-ALWAYS-2//clicsbp-idssegmented-kumyk-ALWAYS-1//clicsbp-idssegmented-kumyk-ALWAYS-2//clicsbp-idssegmented-nogai-ALWAYS-1//clicsbp-idssegmented-nogai-ALWAYS-2//clicsbp-northeuralex-tur-ALWAYS-1//clicsbp-northeuralex-tur-ALWAYS-2//clicsbp-northeuralex-uzn-ALWAYS-1//clicsbp-northeuralex-kaz-ALWAYS-1//clicsbp-northeuralex-bak-ALWAYS-1//clicsbp-northeuralex-tat-ALWAYS-1//clicsbp-northeuralex-chv-ALWAYS-1//clicsbp-wold-Sakha-ALWAYS-1//clicsbp-wold-Sakha-ALWAYS-2//clicsbp-wold-Sakha-ALWAYS-3"
     words "h æ m i ʃ æ//d a i m//h a m a n//d a i m//ä r + d a j ɨ m//ä r + z a m a n//d a i m a//h ɛ ɾ + z a m a n//h a r + w a q t//ø n e b o j ə//h æ r + q a s a n//h æ r q ɑ j tɕ a n//j a l a n//n aː r//k u r uː k//m e l dʒ i"
@@ -11100,7 +11088,7 @@ graph [
     family_count 1
   ]
   node [
-    id 925
+    id 924
     label "OFTEN"
     occurrences "clicsbp-idssegmented-azerbaijani-OFTEN-1//clicsbp-idssegmented-kumyk-OFTEN-3//clicsbp-idssegmented-kumyk-OFTEN-1//clicsbp-idssegmented-kumyk-OFTEN-2//clicsbp-idssegmented-nogai-OFTEN-2//clicsbp-idssegmented-nogai-OFTEN-1//clicsbp-idssegmented-nogai-OFTEN-3//clicsbp-northeuralex-tur-OFTEN-1//clicsbp-northeuralex-tur-OFTEN-2//clicsbp-northeuralex-uzn-OFTEN-1//clicsbp-northeuralex-kaz-OFTEN-1//clicsbp-northeuralex-bak-OFTEN-1//clicsbp-northeuralex-tat-OFTEN-1//clicsbp-northeuralex-chv-OFTEN-1//clicsbp-wold-Sakha-OFTEN-2//clicsbp-wold-Sakha-OFTEN-3//clicsbp-wold-Sakha-OFTEN-1"
     words "t e z + t e z//k œ p//k œ p + k e r e n//k œ p + g e z i k//k œ p//t e z + t e z//k e r e//s ɯ k + s ɯ k//tʃ o k + d ɛ f a//t ɛ z t ɛ z//ə l ʁ ɪ j//j ɯ ʃ//e ʃ//t ə t ə ʂ//n aː r//k u r uː k//m e l dʒ i"
@@ -11112,7 +11100,7 @@ graph [
     family_count 1
   ]
   node [
-    id 926
+    id 925
     label "SOMETIMES"
     occurrences "clicsbp-idssegmented-azerbaijani-SOMETIMES-1//clicsbp-idssegmented-kumyk-SOMETIMES-1//clicsbp-idssegmented-kumyk-SOMETIMES-2//clicsbp-idssegmented-nogai-SOMETIMES-1//clicsbp-idssegmented-nogai-SOMETIMES-2//clicsbp-idssegmented-nogai-SOMETIMES-3//clicsbp-northeuralex-tur-SOMETIMES-1//clicsbp-northeuralex-uzn-SOMETIMES-1//clicsbp-northeuralex-kaz-SOMETIMES-1//clicsbp-northeuralex-bak-SOMETIMES-1//clicsbp-northeuralex-tat-SOMETIMES-1//clicsbp-northeuralex-chv-SOMETIMES-1//clicsbp-wold-Sakha-SOMETIMES-1"
     words "b æ ʔ z æ n//b i r + b i r d e//z a m a n d a + b i r//a r a d a//b i r + b i r//z a m a n d a//b a z a n//ɒ n d a s ɒ n d a//k e j d e//q a j h ɯ + b e r ð æ//q ɑ j tɕ a k t a//χ ə ʂ + tɕ u χ n ɛ//a r d ɨ g a r"
@@ -11124,7 +11112,7 @@ graph [
     family_count 1
   ]
   node [
-    id 927
+    id 926
     label "FOR A LONG TIME"
     occurrences "clicsbp-idssegmented-azerbaijani-FORALONGTIME-1//clicsbp-idssegmented-kumyk-FORALONGTIME-1//clicsbp-idssegmented-nogai-FORALONGTIME-1//clicsbp-idssegmented-nogai-FORALONGTIME-2//clicsbp-northeuralex-tur-FORALONGTIME-2//clicsbp-northeuralex-tur-FORALONGTIME-1//clicsbp-northeuralex-uzn-FORALONGTIME-1//clicsbp-northeuralex-kaz-FORALONGTIME-1//clicsbp-northeuralex-bak-FORALONGTIME-1//clicsbp-northeuralex-tat-FORALONGTIME-1//clicsbp-northeuralex-chv-FORALONGTIME-1//clicsbp-wold-Sakha-FORALONGTIME-1"
     words "u z u n m ü dː æ t l i//u z a q + z a m a n l ɨ q//e r t e r e k//u z a k + z a m a n l ɨ k//u z u n//tʃ o k//u z ɒ q//ʉ z ɑ q//o ð a q//o z a k//ʋ ə r a χ//œ r"
@@ -11136,7 +11124,7 @@ graph [
     family_count 1
   ]
   node [
-    id 928
+    id 927
     label "NEVER"
     occurrences "clicsbp-idssegmented-azerbaijani-NEVER-1//clicsbp-idssegmented-kumyk-NEVER-1//clicsbp-idssegmented-kumyk-NEVER-2//clicsbp-idssegmented-nogai-NEVER-1//clicsbp-idssegmented-nogai-NEVER-2//clicsbp-northeuralex-tur-NEVER-1//clicsbp-northeuralex-tur-NEVER-2//clicsbp-northeuralex-uzn-NEVER-1//clicsbp-northeuralex-kaz-NEVER-1//clicsbp-northeuralex-bak-NEVER-1//clicsbp-northeuralex-bak-NEVER-2//clicsbp-northeuralex-tat-NEVER-1//clicsbp-northeuralex-chv-NEVER-1//clicsbp-wold-Sakha-NEVER-1"
     words "h e tʃ + v a x t//b i r + d e//b i r + z a m a n d a + d a//b i r d e//b i r + z a m a n d a//a s l a + d ɛ j i l//h i tʃ b i ɾ + z a m a n//h a r g i z//e ʃ u ɑ q ə tː ɑ//b e r + q a s a n + d a//b e r + w a q ɯ t t a + l a//h i tɕ b e r + w a q ɤ t//n i χ ə ɕ a n + t a//χ a h a n + d a"
@@ -11148,7 +11136,7 @@ graph [
     family_count 1
   ]
   node [
-    id 929
+    id 928
     label "AGAIN"
     occurrences "clicsbp-idssegmented-azerbaijani-AGAIN-1//clicsbp-idssegmented-azerbaijani-AGAIN-2//clicsbp-idssegmented-kumyk-AGAIN-1//clicsbp-idssegmented-kumyk-AGAIN-2//clicsbp-idssegmented-nogai-AGAIN-1//clicsbp-idssegmented-nogai-AGAIN-2//clicsbp-idssegmented-nogai-AGAIN-3//clicsbp-northeuralex-tur-AGAIN-1//clicsbp-northeuralex-tur-AGAIN-2//clicsbp-northeuralex-uzn-AGAIN-1//clicsbp-northeuralex-kaz-AGAIN-1//clicsbp-northeuralex-kaz-AGAIN-2//clicsbp-northeuralex-kaz-AGAIN-3//clicsbp-northeuralex-bak-AGAIN-1//clicsbp-northeuralex-tat-AGAIN-1//clicsbp-northeuralex-tat-AGAIN-2//clicsbp-northeuralex-chv-AGAIN-1//clicsbp-wold-Sakha-AGAIN-1"
     words "j e n æ//j e n i d æ n//d a ɣ ɨ + d a//u a ŋ ɨ d a n//t a g ɨ d a//j a ŋ ɨ d a n//k a j t a b a s t a n//t ɛ k ɾ a ɾ//j ɛ n i d ɛ n//j a n a//ʒ ɑ ŋ ɑ//q ɑ j t ɑ//ʒ ɑ ŋ ɑ d ɑ n//t a ɣ ɯ//j a n æ//t a g ɤ n//k a l ɛ χ//e m i e"
@@ -11160,7 +11148,7 @@ graph [
     family_count 1
   ]
   node [
-    id 930
+    id 929
     label "DAY (NOT NIGHT)"
     occurrences "clicsbp-idssegmented-azerbaijani-DAYNOTNIGHT-1//clicsbp-idssegmented-azerbaijani-DAYNOTNIGHT-2//clicsbp-idssegmented-kumyk-DAYNOTNIGHT-1//clicsbp-idssegmented-nogai-DAYNOTNIGHT-1//clicsbp-northeuralex-tur-DAYNOTNIGHT-1//clicsbp-northeuralex-uzn-DAYNOTNIGHT-1//clicsbp-northeuralex-kaz-DAYNOTNIGHT-1//clicsbp-northeuralex-bak-DAYNOTNIGHT-1//clicsbp-northeuralex-tat-DAYNOTNIGHT-1//clicsbp-northeuralex-chv-DAYNOTNIGHT-1//clicsbp-wold-Sakha-DAYNOTNIGHT-1//clicsbp-savelyevturkic-Karaim-DAYNOTNIGHT-1"
     words "gʲ ü n d ü z//gʲ ü n//g ü n//k ü n//g y n//k u n//k ʊ n//k ø n//k œ n//k u n//χ o n u k//k y n"
@@ -11172,7 +11160,7 @@ graph [
     family_count 1
   ]
   node [
-    id 931
+    id 930
     label "NIGHT"
     occurrences "clicsbp-idssegmented-azerbaijani-NIGHT-1//clicsbp-idssegmented-kumyk-NIGHT-1//clicsbp-idssegmented-nogai-NIGHT-1//clicsbp-northeuralex-tur-NIGHT-1//clicsbp-northeuralex-uzn-NIGHT-1//clicsbp-northeuralex-kaz-NIGHT-1//clicsbp-northeuralex-bak-NIGHT-1//clicsbp-northeuralex-tat-NIGHT-1//clicsbp-northeuralex-chv-NIGHT-1//clicsbp-wold-Sakha-NIGHT-1//clicsbp-savelyevturkic-Karaim-NIGHT-1"
     words "gʲ e dʒ æ//g e tʃ e//k e ʃ e//g ɛ dʒ ɛ//t u n//t ʊ n//t ø n//t œ n//k a ɕ//t yː n//k e tɕ ɛ"
@@ -11184,7 +11172,7 @@ graph [
     family_count 1
   ]
   node [
-    id 932
+    id 931
     label "DAWN"
     occurrences "clicsbp-idssegmented-azerbaijani-DAWN-1//clicsbp-idssegmented-kumyk-DAWN-1//clicsbp-idssegmented-kumyk-DAWN-2//clicsbp-idssegmented-nogai-DAWN-1//clicsbp-idssegmented-nogai-DAWN-2//clicsbp-wold-Sakha-DAWN-1"
     words "ʃ æ f æ g//t a ŋ//t a ŋ + w a q t i//t a ŋ//t a ŋ + w a k ɨ t//t ɨ ŋ"
@@ -11196,7 +11184,7 @@ graph [
     family_count 1
   ]
   node [
-    id 933
+    id 932
     label "MORNING"
     occurrences "clicsbp-idssegmented-azerbaijani-MORNING-1//clicsbp-idssegmented-kumyk-MORNING-1//clicsbp-idssegmented-nogai-MORNING-1//clicsbp-idssegmented-nogai-MORNING-2//clicsbp-northeuralex-tur-MORNING-1//clicsbp-northeuralex-uzn-MORNING-1//clicsbp-northeuralex-kaz-MORNING-1//clicsbp-northeuralex-kaz-MORNING-2//clicsbp-northeuralex-bak-MORNING-1//clicsbp-northeuralex-bak-MORNING-2//clicsbp-northeuralex-tat-MORNING-1//clicsbp-northeuralex-chv-MORNING-1//clicsbp-wold-Sakha-MORNING-1"
     words "s æ h æ r//e r t e n//e r t e n//e r t e ŋ g i + ʃ a k//s a b a h//s a b ɒ h//t ɑ ŋ//t ɑ ŋ e ɾ t e ŋ//i r t æ//i r t æ n s æ k//i r t æ//i r//s a r s ɨ a r d a"
@@ -11208,7 +11196,7 @@ graph [
     family_count 1
   ]
   node [
-    id 934
+    id 933
     label "MIDDAY"
     occurrences "clicsbp-idssegmented-azerbaijani-MIDDAY-1//clicsbp-idssegmented-kumyk-MIDDAY-1//clicsbp-idssegmented-nogai-MIDDAY-1//clicsbp-idssegmented-nogai-MIDDAY-2//clicsbp-idssegmented-nogai-MIDDAY-3//clicsbp-northeuralex-tur-MIDDAY-1//clicsbp-northeuralex-uzn-MIDDAY-1//clicsbp-northeuralex-kaz-MIDDAY-1//clicsbp-northeuralex-bak-MIDDAY-1//clicsbp-northeuralex-tat-MIDDAY-1//clicsbp-northeuralex-chv-MIDDAY-1//clicsbp-wold-Sakha-MIDDAY-1"
     words "gʲ ü n o r t a//t ü ʃ//t y s//ü j l e//k ü n + o r t a s ɨ//œ j l ɛ//k u n + t u ʃ l i k//t ɑ l t ʊ s//t ø ʃ//œ j l æ//k ə n t ə r l a//k y n + o r t o t o"
@@ -11220,7 +11208,7 @@ graph [
     family_count 1
   ]
   node [
-    id 935
+    id 934
     label "AFTERNOON"
     occurrences "clicsbp-idssegmented-azerbaijani-AFTERNOON-1//clicsbp-idssegmented-kumyk-AFTERNOON-1//clicsbp-idssegmented-nogai-AFTERNOON-1//clicsbp-wold-Sakha-AFTERNOON-1"
     words "gʲ ü n o r t a d a n + s o l r a//t ü ʃ d e n + s o ŋ//t y s t e n + s o ŋ//e b i e t + k e nː i tː e n"
@@ -11232,7 +11220,7 @@ graph [
     family_count 1
   ]
   node [
-    id 936
+    id 935
     label "EVENING"
     occurrences "clicsbp-idssegmented-azerbaijani-EVENING-1//clicsbp-idssegmented-kumyk-EVENING-1//clicsbp-idssegmented-nogai-EVENING-1//clicsbp-idssegmented-nogai-EVENING-2//clicsbp-northeuralex-tur-EVENING-1//clicsbp-northeuralex-uzn-EVENING-1//clicsbp-northeuralex-kaz-EVENING-1//clicsbp-northeuralex-bak-EVENING-1//clicsbp-northeuralex-tat-EVENING-1//clicsbp-northeuralex-chv-EVENING-1//clicsbp-wold-Sakha-EVENING-1"
     words "a x ʃ a m//a x ʃ a m//k e ʃ//k e ʃ k e//a k ʃ a m//ɒ q ʃ ɒ m//k e ʃ//k i s//k i tɕ//k a ɕ//k i e h e"
@@ -11244,7 +11232,7 @@ graph [
     family_count 1
   ]
   node [
-    id 937
+    id 936
     label "TODAY"
     occurrences "clicsbp-idssegmented-azerbaijani-TODAY-1//clicsbp-idssegmented-kumyk-TODAY-1//clicsbp-idssegmented-nogai-TODAY-1//clicsbp-northeuralex-tur-TODAY-1//clicsbp-northeuralex-uzn-TODAY-1//clicsbp-northeuralex-kaz-TODAY-1//clicsbp-northeuralex-bak-TODAY-1//clicsbp-northeuralex-tat-TODAY-1//clicsbp-northeuralex-chv-TODAY-1//clicsbp-wold-Sakha-TODAY-1"
     words "b u + gʲ ü n//b u g ü n//b ü g ü n//b u g y n//b u g u n//b ʊ g ə n//b ø g ø n//b ʉ g e n//p a j a n//b y g y n"
@@ -11256,7 +11244,7 @@ graph [
     family_count 1
   ]
   node [
-    id 938
+    id 937
     label "TOMORROW"
     occurrences "clicsbp-idssegmented-azerbaijani-TOMORROW-1//clicsbp-idssegmented-kumyk-TOMORROW-1//clicsbp-idssegmented-nogai-TOMORROW-2//clicsbp-idssegmented-nogai-TOMORROW-1//clicsbp-northeuralex-tur-TOMORROW-1//clicsbp-northeuralex-uzn-TOMORROW-1//clicsbp-northeuralex-kaz-TOMORROW-1//clicsbp-northeuralex-bak-TOMORROW-1//clicsbp-northeuralex-tat-TOMORROW-1//clicsbp-northeuralex-chv-TOMORROW-1//clicsbp-wold-Sakha-TOMORROW-1//clicsbp-savelyevturkic-Karaim-TOMORROW-1"
     words "s a b a h//t a ŋ a l a//e r t e n//t a ŋ l a//j a ɾ ɯ n//æ r t a//e ɾ t e ŋ//i r t æ g æ//i r t æ g æ//ɯ r a n//s a r s ɨ n//t a n d a"
@@ -11268,7 +11256,7 @@ graph [
     family_count 1
   ]
   node [
-    id 939
+    id 938
     label "DAY AFTER TOMORROW"
     occurrences "clicsbp-idssegmented-azerbaijani-DAYAFTERTOMORROW-1//clicsbp-idssegmented-kumyk-DAYAFTERTOMORROW-1//clicsbp-idssegmented-nogai-DAYAFTERTOMORROW-1//clicsbp-wold-Sakha-DAYAFTERTOMORROW-1"
     words "b i r i s i + gʲ ü n//b i r i s i g ü n//b i r s i g ü n//œ y yː n"
@@ -11280,7 +11268,7 @@ graph [
     family_count 1
   ]
   node [
-    id 940
+    id 939
     label "YESTERDAY"
     occurrences "clicsbp-idssegmented-azerbaijani-YESTERDAY-1//clicsbp-idssegmented-kumyk-YESTERDAY-1//clicsbp-idssegmented-nogai-YESTERDAY-1//clicsbp-northeuralex-tur-YESTERDAY-1//clicsbp-northeuralex-uzn-YESTERDAY-1//clicsbp-northeuralex-kaz-YESTERDAY-1//clicsbp-northeuralex-bak-YESTERDAY-1//clicsbp-northeuralex-tat-YESTERDAY-1//clicsbp-northeuralex-chv-YESTERDAY-1//clicsbp-wold-Sakha-YESTERDAY-1//clicsbp-savelyevturkic-Karaim-YESTERDAY-1//clicsbp-savelyevturkic-Karaim-YESTERDAY-2"
     words "d ü n æ n//t ü n e g ü n//t ü n e g ü n//d y n//k ɛ tʃ a//k e ʃ e//k i s æ//k i tɕ æ//ɘ n ɛ r//b e ɣ e h e//t y n e g y n//t y n e g y n"
@@ -11292,7 +11280,7 @@ graph [
     family_count 1
   ]
   node [
-    id 941
+    id 940
     label "DAY BEFORE YESTERDAY"
     occurrences "clicsbp-idssegmented-azerbaijani-DAYBEFOREYESTERDAY-1//clicsbp-idssegmented-kumyk-DAYBEFOREYESTERDAY-1//clicsbp-idssegmented-nogai-DAYBEFOREYESTERDAY-1//clicsbp-wold-Sakha-DAYBEFOREYESTERDAY-1"
     words "s ɨ r a ɣ a + gʲ ü n//b i r i s i g ü n//b i r s i g ü n//i lː e r eː + k y n"
@@ -11304,7 +11292,7 @@ graph [
     family_count 1
   ]
   node [
-    id 942
+    id 941
     label "CLOCK"
     occurrences "clicsbp-idssegmented-azerbaijani-CLOCK-1//clicsbp-idssegmented-kumyk-CLOCK-1//clicsbp-idssegmented-nogai-CLOCK-1//clicsbp-wold-Sakha-CLOCK-1"
     words "s a ʔ a t//s a h a t//s ä a t//tʃ a h ɨ"
@@ -11316,7 +11304,7 @@ graph [
     family_count 1
   ]
   node [
-    id 943
+    id 942
     label "WEEK"
     occurrences "clicsbp-idssegmented-azerbaijani-WEEK-1//clicsbp-idssegmented-kumyk-WEEK-1//clicsbp-idssegmented-nogai-WEEK-1//clicsbp-northeuralex-tur-WEEK-1//clicsbp-northeuralex-uzn-WEEK-1//clicsbp-northeuralex-kaz-WEEK-1//clicsbp-northeuralex-bak-WEEK-1//clicsbp-northeuralex-tat-WEEK-1//clicsbp-northeuralex-chv-WEEK-1//clicsbp-wold-Sakha-WEEK-1"
     words "h æ f t æ//ʒ u m a//j u m a//h a f t a//h a f t a//ɑ p t ɑ//a ð n a//a t n a//e r n ɛ//n e d i e l e"
@@ -11328,7 +11316,7 @@ graph [
     family_count 1
   ]
   node [
-    id 944
+    id 943
     label "SUNDAY"
     occurrences "clicsbp-idssegmented-azerbaijani-SUNDAY-1//clicsbp-idssegmented-kumyk-SUNDAY-1//clicsbp-idssegmented-nogai-SUNDAY-1//clicsbp-northeuralex-tur-SUNDAY-1//clicsbp-northeuralex-uzn-SUNDAY-1//clicsbp-northeuralex-kaz-SUNDAY-1//clicsbp-northeuralex-bak-SUNDAY-1//clicsbp-northeuralex-tat-SUNDAY-1//clicsbp-northeuralex-chv-SUNDAY-1//clicsbp-wold-Sakha-SUNDAY-1"
     words "b a z a r + gʲ ü n ü//q a t ɨ g ü n//k a t ɨ + k ü n//p a z a ɾ//j a k ʃ a n b a//ʒ e k s e m b ə//j æ k ʃ æ m b e//j a k ʃ æ m b e//ʋ ɯ r s a r n i + k u n//œ r œ b y l"
@@ -11340,7 +11328,7 @@ graph [
     family_count 1
   ]
   node [
-    id 945
+    id 944
     label "MONDAY"
     occurrences "clicsbp-idssegmented-azerbaijani-MONDAY-1//clicsbp-idssegmented-kumyk-MONDAY-1//clicsbp-idssegmented-nogai-MONDAY-1//clicsbp-northeuralex-tur-MONDAY-1//clicsbp-northeuralex-uzn-MONDAY-1//clicsbp-northeuralex-kaz-MONDAY-1//clicsbp-northeuralex-bak-MONDAY-1//clicsbp-northeuralex-tat-MONDAY-1//clicsbp-northeuralex-chv-MONDAY-1//clicsbp-wold-Sakha-MONDAY-1"
     words "b a z a r e r t æ s i//i t n i g ü n//d ü j s e m b i//p a z a ɾ t ɛ s i//d u ʃ a n b a//d ʊ j s e n b ə//d y ʃ æ m b e//d ʉ ʃ æ m b e//t u n t i + k u n//b e n i d i e n ɲ i k"
@@ -11352,7 +11340,7 @@ graph [
     family_count 1
   ]
   node [
-    id 946
+    id 945
     label "TUESDAY"
     occurrences "clicsbp-idssegmented-azerbaijani-TUESDAY-1//clicsbp-idssegmented-kumyk-TUESDAY-1//clicsbp-idssegmented-nogai-TUESDAY-1//clicsbp-northeuralex-tur-TUESDAY-1//clicsbp-northeuralex-uzn-TUESDAY-1//clicsbp-northeuralex-kaz-TUESDAY-1//clicsbp-northeuralex-bak-TUESDAY-1//clicsbp-northeuralex-tat-TUESDAY-1//clicsbp-northeuralex-chv-TUESDAY-1//clicsbp-wold-Sakha-TUESDAY-1"
     words "tʃ æ r ʃ æ n b æ + a x ʃ a m ɨ//t a l a t g ü n//s ä l i//s a l ɯ//s ɛ ʃ a n b a//s e j s e n b ə//ʃ i ʃ æ m b e//s i ʃ æ m b e//ɯ t l a r i + k u n//o p t u o r u n ɲ u k"
@@ -11364,7 +11352,7 @@ graph [
     family_count 1
   ]
   node [
-    id 947
+    id 946
     label "WEDNESDAY"
     occurrences "clicsbp-idssegmented-azerbaijani-WEDNESDAY-1//clicsbp-idssegmented-kumyk-WEDNESDAY-1//clicsbp-idssegmented-nogai-WEDNESDAY-1//clicsbp-northeuralex-tur-WEDNESDAY-1//clicsbp-northeuralex-uzn-WEDNESDAY-1//clicsbp-northeuralex-kaz-WEDNESDAY-1//clicsbp-northeuralex-bak-WEDNESDAY-1//clicsbp-northeuralex-tat-WEDNESDAY-1//clicsbp-northeuralex-chv-WEDNESDAY-1//clicsbp-wold-Sakha-WEDNESDAY-1"
     words "tʃ æ r ʃ æ n b æ//a r b a g ü n//s ä r s e m b i//tʃ a ɾ ʃ a m b a//tʃ ɒ r ʃ a n b a//s æ ɾ s e n b ə//ʃ a r ʃ a m b ɯ//tɕ æ r ʃ æ m b e//j u n + k u n//s e r e d e"
@@ -11376,7 +11364,7 @@ graph [
     family_count 1
   ]
   node [
-    id 948
+    id 947
     label "THURSDAY"
     occurrences "clicsbp-idssegmented-azerbaijani-THURSDAY-1//clicsbp-idssegmented-kumyk-THURSDAY-1//clicsbp-idssegmented-nogai-THURSDAY-1//clicsbp-idssegmented-nogai-THURSDAY-2//clicsbp-northeuralex-tur-THURSDAY-1//clicsbp-northeuralex-uzn-THURSDAY-1//clicsbp-northeuralex-kaz-THURSDAY-1//clicsbp-northeuralex-bak-THURSDAY-1//clicsbp-northeuralex-tat-THURSDAY-1//clicsbp-northeuralex-tat-THURSDAY-2//clicsbp-northeuralex-chv-THURSDAY-1//clicsbp-wold-Sakha-THURSDAY-1"
     words "dʒ ü m æ + a x ʃ a m ɨ//x a m i s g ü n//b i j s e m b i//k i ʃ i + j u m a//p ɛ ɾ ʃ ɛ m b ɛ//p a j ʃ a n b a//b e j s e n b ə//k e s a ð n a//a t n a k i tɕ//p æ n dʑ e ʃ æ m b e//k ɘ ɕ n ɛ r n i + k u n//tʃ e pː i e r"
@@ -11388,7 +11376,7 @@ graph [
     family_count 1
   ]
   node [
-    id 949
+    id 948
     label "FRIDAY"
     occurrences "clicsbp-idssegmented-azerbaijani-FRIDAY-1//clicsbp-idssegmented-kumyk-FRIDAY-1//clicsbp-idssegmented-nogai-FRIDAY-2//clicsbp-idssegmented-nogai-FRIDAY-1//clicsbp-northeuralex-tur-FRIDAY-1//clicsbp-northeuralex-uzn-FRIDAY-1//clicsbp-northeuralex-kaz-FRIDAY-1//clicsbp-northeuralex-bak-FRIDAY-1//clicsbp-northeuralex-tat-FRIDAY-1//clicsbp-northeuralex-chv-FRIDAY-1//clicsbp-wold-Sakha-FRIDAY-1"
     words "dʒ ü m æ//ʒ u m a g ü n//j u m a//u lː ɨ + j u m a//dʒ u m a//dʒ u m a//ʒ ʉ m ɑ//j o m a//dʑ o m g a//e r n ɛ + k u n//b eː t i n + s e"
@@ -11400,7 +11388,7 @@ graph [
     family_count 1
   ]
   node [
-    id 950
+    id 949
     label "SATURDAY"
     occurrences "clicsbp-idssegmented-azerbaijani-SATURDAY-1//clicsbp-idssegmented-kumyk-SATURDAY-1//clicsbp-idssegmented-nogai-SATURDAY-1//clicsbp-idssegmented-nogai-SATURDAY-2//clicsbp-northeuralex-tur-SATURDAY-1//clicsbp-northeuralex-uzn-SATURDAY-1//clicsbp-northeuralex-kaz-SATURDAY-1//clicsbp-northeuralex-bak-SATURDAY-1//clicsbp-northeuralex-tat-SATURDAY-1//clicsbp-northeuralex-chv-SATURDAY-1//clicsbp-wold-Sakha-SATURDAY-1"
     words "ʃ æ n b æ//s o ŋ u g ü n//j u m a + s o ŋ ɨ//j u m a + e r t e s i//dʒ u m a ɾ t ɛ s i//ʃ a n b a//s e n b ə//ʃ æ m b e//ʃ i m b æ//ʂ ə m a t + k u n//s u b u o t a"
@@ -11412,7 +11400,7 @@ graph [
     family_count 1
   ]
   node [
-    id 951
+    id 950
     label "YEAR"
     occurrences "clicsbp-idssegmented-azerbaijani-YEAR-1//clicsbp-idssegmented-kumyk-YEAR-1//clicsbp-idssegmented-nogai-YEAR-1//clicsbp-northeuralex-tur-YEAR-1//clicsbp-northeuralex-tur-YEAR-2//clicsbp-northeuralex-uzn-YEAR-1//clicsbp-northeuralex-kaz-YEAR-1//clicsbp-northeuralex-bak-YEAR-1//clicsbp-northeuralex-tat-YEAR-1//clicsbp-northeuralex-chv-YEAR-1//clicsbp-wold-Sakha-YEAR-1//clicsbp-wold-Sakha-YEAR-2//clicsbp-savelyevturkic-Karaim-YEAR-1"
     words "i l//j ɨ l//j ɨ l//j ɯ l//s ɛ n ɛ//j i l//ʒ ə l//j ɯ l//e l//ɕ u l t a l ə k//s ɨ l//dʒ ɨ l//j ɯ l"
@@ -11424,7 +11412,7 @@ graph [
     family_count 1
   ]
   node [
-    id 952
+    id 951
     label "WINTER"
     occurrences "clicsbp-idssegmented-azerbaijani-WINTER-1//clicsbp-idssegmented-kumyk-WINTER-1//clicsbp-idssegmented-nogai-WINTER-1//clicsbp-northeuralex-tur-WINTER-1//clicsbp-northeuralex-uzn-WINTER-1//clicsbp-northeuralex-kaz-WINTER-1//clicsbp-northeuralex-bak-WINTER-1//clicsbp-northeuralex-tat-WINTER-1//clicsbp-northeuralex-chv-WINTER-1//clicsbp-northeuralex-chv-WINTER-2//clicsbp-wold-Sakha-WINTER-1"
     words "g ɨ ʃ//q ɨ ʃ//k ɨ s//k ɯ ʃ//q i ʃ//q ə s//q ɯ ʃ//q ɤ ʃ//χ ɘ l//χ ɘ l ɛ//k ɨ h ɨ n"
@@ -11436,7 +11424,7 @@ graph [
     family_count 1
   ]
   node [
-    id 953
+    id 952
     label "SPRINGTIME"
     occurrences "clicsbp-idssegmented-azerbaijani-SPRINGTIME-1//clicsbp-idssegmented-kumyk-SPRINGTIME-1//clicsbp-idssegmented-kumyk-SPRINGTIME-2//clicsbp-idssegmented-nogai-SPRINGTIME-1//clicsbp-northeuralex-tur-SPRINGTIME-1//clicsbp-northeuralex-uzn-SPRINGTIME-1//clicsbp-northeuralex-kaz-SPRINGTIME-1//clicsbp-northeuralex-bak-SPRINGTIME-1//clicsbp-northeuralex-tat-SPRINGTIME-1//clicsbp-northeuralex-chv-SPRINGTIME-1//clicsbp-northeuralex-chv-SPRINGTIME-2//clicsbp-wold-Sakha-SPRINGTIME-1"
     words "b a h a r//u a z//u a z b a ʃ//j a z l ɨ k//i l k b a h a ɾ//b a h ɒ r//k ø k t e m//j a ð//j a z//ɕ u r//ɕ u r k u n ɛ//s aː s"
@@ -11448,7 +11436,7 @@ graph [
     family_count 1
   ]
   node [
-    id 954
+    id 953
     label "SUMMER"
     occurrences "clicsbp-idssegmented-azerbaijani-SUMMER-1//clicsbp-idssegmented-kumyk-SUMMER-1//clicsbp-idssegmented-nogai-SUMMER-1//clicsbp-northeuralex-tur-SUMMER-1//clicsbp-northeuralex-uzn-SUMMER-1//clicsbp-northeuralex-kaz-SUMMER-1//clicsbp-northeuralex-bak-SUMMER-1//clicsbp-northeuralex-tat-SUMMER-1//clicsbp-northeuralex-chv-SUMMER-1//clicsbp-northeuralex-chv-SUMMER-2//clicsbp-wold-Sakha-SUMMER-1"
     words "j a j//u a j//j a z//j a z//j ɒ z//ʒ ɑ z//j æ j//dʑ æ j//ɕ u//ɕ u l a//s a y ɨ n"
@@ -11460,7 +11448,7 @@ graph [
     family_count 1
   ]
   node [
-    id 955
+    id 954
     label "BOW"
     occurrences "clicsbp-idssegmented-azerbaijani-BOW-1//clicsbp-idssegmented-azerbaijani-BOW-2//clicsbp-idssegmented-kumyk-BOW-1//clicsbp-idssegmented-nogai-BOW-1//clicsbp-idssegmented-nogai-BOW-2//clicsbp-northeuralex-tur-BOW-1//clicsbp-northeuralex-uzn-BOW-1//clicsbp-northeuralex-kaz-BOW-1//clicsbp-northeuralex-bak-BOW-1//clicsbp-northeuralex-tat-BOW-1//clicsbp-northeuralex-chv-BOW-1//clicsbp-wold-Sakha-BOW-1"
     words "j a j//k a m a n//o q + ʒ a u a//j a j//s o g a n//j a j//j ɒ j//s ɑ ɾ ʒ ɑ//j æ j æ//dʑ æ j a//u χ ə//s aː"
@@ -11472,7 +11460,7 @@ graph [
     family_count 1
   ]
   node [
-    id 956
+    id 955
     label "AUTUMN"
     occurrences "clicsbp-idssegmented-azerbaijani-AUTUMN-1//clicsbp-idssegmented-kumyk-AUTUMN-1//clicsbp-idssegmented-nogai-AUTUMN-1//clicsbp-northeuralex-tur-AUTUMN-1//clicsbp-northeuralex-tur-AUTUMN-2//clicsbp-northeuralex-uzn-AUTUMN-1//clicsbp-northeuralex-uzn-AUTUMN-2//clicsbp-northeuralex-kaz-AUTUMN-1//clicsbp-northeuralex-bak-AUTUMN-1//clicsbp-northeuralex-tat-AUTUMN-1//clicsbp-northeuralex-chv-AUTUMN-1//clicsbp-northeuralex-chv-AUTUMN-2//clicsbp-wold-Sakha-AUTUMN-1"
     words "p a j ɨ z//g ü z//k ü z//g y z//s o n b a h a ɾ//k u z//χ a z ɒ n//k ʊ z//k ø z//k œ z//k ɘ r//k ɘ r k u n ɛ//k y h y n"
@@ -11484,7 +11472,7 @@ graph [
     family_count 1
   ]
   node [
-    id 957
+    id 956
     label "SEASON"
     occurrences "clicsbp-idssegmented-azerbaijani-SEASON-1//clicsbp-idssegmented-kumyk-SEASON-1//clicsbp-idssegmented-nogai-SEASON-1//clicsbp-wold-Sakha-SEASON-1"
     words "i l i n + f æ s i lː æ r i//j ɨ l n ɨ + w a q t i s i//j ɨ l + ʃ a g ɨ//dʒ ɨ l"
@@ -11496,7 +11484,7 @@ graph [
     family_count 1
   ]
   node [
-    id 958
+    id 957
     label "SMELL (STINK)"
     occurrences "clicsbp-idssegmented-azerbaijani-SMELLSTINK-1//clicsbp-idssegmented-kumyk-SMELLSTINK-1//clicsbp-idssegmented-nogai-SMELLSTINK-1//clicsbp-idssegmented-nogai-SMELLSTINK-2//clicsbp-wold-Sakha-SMELLSTINK-1//clicsbp-wold-Sakha-SMELLSTINK-2"
     words "g o x u m a g//i j i s + g e l m e k//i j i s + ʃ ɨ g u w//s a s u w//a ŋ ɨ l ɨ y//s ɨ tː a n"
@@ -11508,7 +11496,7 @@ graph [
     family_count 1
   ]
   node [
-    id 959
+    id 958
     label "SNIFF"
     occurrences "clicsbp-idssegmented-azerbaijani-SNIFF-1//clicsbp-idssegmented-kumyk-SNIFF-1//clicsbp-idssegmented-kumyk-SNIFF-2//clicsbp-idssegmented-kumyk-SNIFF-3//clicsbp-idssegmented-nogai-SNIFF-1//clicsbp-idssegmented-nogai-SNIFF-2//clicsbp-wold-Sakha-SNIFF-1"
     words "f ɨ s ɨ l d a m a g//p ɨ ʃ ɣ ɨ r m a q//p ɨ s ɨ lː a m a q//i j i s l e m e k//p ɨ s ɨ l d a w//i j i s k e l e w//s ɨ t ɨ r ɣ aː"
@@ -11520,7 +11508,7 @@ graph [
     family_count 1
   ]
   node [
-    id 960
+    id 959
     label "SMELL (PERCEIVE)"
     occurrences "clicsbp-idssegmented-azerbaijani-SMELLPERCEIVE-1//clicsbp-idssegmented-kumyk-SMELLPERCEIVE-1//clicsbp-idssegmented-nogai-SMELLPERCEIVE-1//clicsbp-northeuralex-tur-SMELLPERCEIVE-1//clicsbp-northeuralex-uzn-SMELLPERCEIVE-1//clicsbp-northeuralex-kaz-SMELLPERCEIVE-1//clicsbp-northeuralex-bak-SMELLPERCEIVE-1//clicsbp-northeuralex-tat-SMELLPERCEIVE-1//clicsbp-northeuralex-chv-SMELLPERCEIVE-1//clicsbp-wold-Sakha-SMELLPERCEIVE-1"
     words "i j l æ m æ k//i j i s l e m e//i j i s k e l e w//k o k u s u n u + a l m a k//i s k a m ɒ q//ɪ j ə s k e u//j e θ k æ y//i s n æ ʉ//ʂ ə r ʂ l a//s ɨ t ɨ + b i l"
@@ -11532,7 +11520,7 @@ graph [
     family_count 1
   ]
   node [
-    id 961
+    id 960
     label "FRAGRANT"
     occurrences "clicsbp-idssegmented-azerbaijani-FRAGRANT-1//clicsbp-idssegmented-azerbaijani-FRAGRANT-2//clicsbp-idssegmented-kumyk-FRAGRANT-1//clicsbp-idssegmented-kumyk-FRAGRANT-2//clicsbp-idssegmented-nogai-FRAGRANT-1//clicsbp-wold-Sakha-FRAGRANT-1//clicsbp-wold-Sakha-FRAGRANT-2"
     words "æ t i r//x o ʃ + i j//a t i r + i j i s//a r i w + i j i s//ä r y w + i j i s//y tʃ y g e y + s ɨ tː aː χ//m i n ɲ i g e s + s ɨ tː aː χ"
@@ -11544,7 +11532,7 @@ graph [
     family_count 1
   ]
   node [
-    id 962
+    id 961
     label "STINKING"
     occurrences "clicsbp-idssegmented-azerbaijani-STINKING-1//clicsbp-idssegmented-azerbaijani-STINKING-2//clicsbp-idssegmented-kumyk-STINKING-1//clicsbp-idssegmented-kumyk-STINKING-2//clicsbp-idssegmented-nogai-STINKING-1//clicsbp-idssegmented-nogai-STINKING-2//clicsbp-wold-Sakha-STINKING-1//clicsbp-wold-Sakha-STINKING-2"
     words "p i s + i j//ü f u n æ t//u a m a n + i j i s//s a s ɨ q//j a m a n + i j i s//s a s ɨ k//s ɨ t ɨ g a n//k u h a ɣ a n + s ɨ tː aː χ"
@@ -11556,7 +11544,7 @@ graph [
     family_count 1
   ]
   node [
-    id 963
+    id 962
     label "TASTE (SOMETHING)"
     occurrences "clicsbp-idssegmented-azerbaijani-TASTESOMETHING-1//clicsbp-idssegmented-kumyk-TASTESOMETHING-1//clicsbp-idssegmented-nogai-TASTESOMETHING-1//clicsbp-northeuralex-tur-TASTESOMETHING-1//clicsbp-northeuralex-tur-TASTESOMETHING-2//clicsbp-northeuralex-uzn-TASTESOMETHING-1//clicsbp-northeuralex-kaz-TASTESOMETHING-1//clicsbp-northeuralex-kaz-TASTESOMETHING-2//clicsbp-northeuralex-bak-TASTESOMETHING-1//clicsbp-northeuralex-tat-TASTESOMETHING-1//clicsbp-northeuralex-chv-TASTESOMETHING-1"
     words "d a d//t a t ɨ w//d ä m//d ɛ n ɛ m ɛ k//t a d ɯ n a + b a k m a k//t a t i b + k o r m ɒ q//t ɑ t u//d æ m + t ɑ t u//t a t ɯ u//t a t u//a s t i ʋ"
@@ -11568,7 +11556,7 @@ graph [
     family_count 1
   ]
   node [
-    id 964
+    id 963
     label "SWEET"
     occurrences "clicsbp-idssegmented-azerbaijani-SWEET-1//clicsbp-idssegmented-kumyk-SWEET-1//clicsbp-idssegmented-nogai-SWEET-1//clicsbp-northeuralex-tur-SWEET-1//clicsbp-northeuralex-tur-SWEET-2//clicsbp-northeuralex-uzn-SWEET-1//clicsbp-northeuralex-kaz-SWEET-1//clicsbp-northeuralex-bak-SWEET-1//clicsbp-northeuralex-bak-SWEET-2//clicsbp-northeuralex-tat-SWEET-1//clicsbp-northeuralex-chv-SWEET-1//clicsbp-wold-Sakha-SWEET-1//clicsbp-savelyevturkic-Karaim-SWEET-1"
     words "ʃ i r i n//t a t l i//t ä t l i//t a t l ɯ//ʃ ɛ k ɛ ɾ l i//ʃ i r i n//t æ tː ə//t j a m l e//t æ m t o m//t a t l ɤ//p ɯ l a k//m i n ɲ i g e s//t a t l ɯ"
@@ -11580,7 +11568,7 @@ graph [
     family_count 1
   ]
   node [
-    id 965
+    id 964
     label "SALTY"
     occurrences "clicsbp-idssegmented-azerbaijani-SALTY-1//clicsbp-idssegmented-kumyk-SALTY-1//clicsbp-idssegmented-nogai-SALTY-1//clicsbp-idssegmented-nogai-SALTY-2//clicsbp-wold-Sakha-SALTY-1"
     words "d u z l u//t u z l u//t u z l ɨ//a ʃ ʃ ɨ//t uː s t aː χ"
@@ -11592,7 +11580,7 @@ graph [
     family_count 1
   ]
   node [
-    id 966
+    id 965
     label "BITTER"
     occurrences "clicsbp-idssegmented-azerbaijani-BITTER-1//clicsbp-idssegmented-kumyk-BITTER-1//clicsbp-idssegmented-nogai-BITTER-1//clicsbp-northeuralex-tur-BITTER-1//clicsbp-northeuralex-uzn-BITTER-1//clicsbp-northeuralex-kaz-BITTER-1//clicsbp-northeuralex-bak-BITTER-1//clicsbp-northeuralex-tat-BITTER-1//clicsbp-northeuralex-chv-BITTER-1//clicsbp-wold-Sakha-BITTER-1//clicsbp-savelyevturkic-Karaim-BITTER-1"
     words "a dʒ ɨ//a tʃː ɨ//a ʃ ʃ ɨ//a dʒ ɯ//a tʃ tʃ i q//ɑ ɕ ə//æ s e//a tɕ ɤ//j y ɕ ɘ//a h ɨː//a tɕ tɕ ɯ"
@@ -11604,7 +11592,7 @@ graph [
     family_count 1
   ]
   node [
-    id 967
+    id 966
     label "SOUR"
     occurrences "clicsbp-idssegmented-azerbaijani-SOUR-1//clicsbp-idssegmented-kumyk-SOUR-1//clicsbp-idssegmented-nogai-SOUR-1//clicsbp-northeuralex-tur-SOUR-1//clicsbp-northeuralex-uzn-SOUR-1//clicsbp-northeuralex-kaz-SOUR-1//clicsbp-northeuralex-bak-SOUR-1//clicsbp-northeuralex-tat-SOUR-1//clicsbp-northeuralex-chv-SOUR-1//clicsbp-northeuralex-chv-SOUR-2//clicsbp-northeuralex-chv-SOUR-3//clicsbp-wold-Sakha-SOUR-1//clicsbp-savelyevturkic-Karaim-SOUR-1"
     words "t u r ʃ//t u r ʃ l u//t u r ʃ ɨ//ɛ k ʃ i//a tʃ tʃ i q//q ə ʃ q ə l//æ s e//æ tɕ e//j y ɕ ɘ//j y ɕ ɛ k//k ə ʋ a s a k//a h ɨː//k u dʑ u r"
@@ -11616,7 +11604,7 @@ graph [
     family_count 1
   ]
   node [
-    id 968
+    id 967
     label "HEAR"
     occurrences "clicsbp-idssegmented-azerbaijani-HEAR-1//clicsbp-idssegmented-kumyk-HEAR-1//clicsbp-idssegmented-nogai-HEAR-1//clicsbp-northeuralex-tur-HEAR-1//clicsbp-northeuralex-tur-HEAR-2//clicsbp-northeuralex-uzn-HEAR-1//clicsbp-northeuralex-kaz-HEAR-1//clicsbp-northeuralex-bak-HEAR-1//clicsbp-northeuralex-tat-HEAR-1//clicsbp-northeuralex-chv-HEAR-1//clicsbp-wold-Sakha-HEAR-1//clicsbp-savelyevturkic-Karaim-HEAR-1"
     words "e ʃ i t m æ k//e ʃ i t m e k//e s i t y w//d u j m a k//i ʃ i t m ɛ k//æ ʃ i t m ɒ q//e s t u//i ʃ e t e y//i ʃ e t ʉ//i l t//i h i t//e s i t"
@@ -11628,7 +11616,7 @@ graph [
     family_count 1
   ]
   node [
-    id 969
+    id 968
     label "LISTEN"
     occurrences "clicsbp-idssegmented-azerbaijani-LISTEN-1//clicsbp-idssegmented-kumyk-LISTEN-1//clicsbp-idssegmented-nogai-LISTEN-1//clicsbp-northeuralex-tur-LISTEN-1//clicsbp-northeuralex-uzn-LISTEN-1//clicsbp-northeuralex-kaz-LISTEN-1//clicsbp-northeuralex-kaz-LISTEN-2//clicsbp-northeuralex-bak-LISTEN-1//clicsbp-northeuralex-tat-LISTEN-1//clicsbp-northeuralex-chv-LISTEN-1//clicsbp-northeuralex-chv-LISTEN-2//clicsbp-wold-Sakha-LISTEN-1"
     words "g u l a g + a s m a g//t ɨ ŋ l a m a q//t ɨ ŋ l a w//d i n l ɛ m ɛ k//t i ŋ l a m ɒ q//t ə ŋ d ɑ u//q ʉ l ɑ q + q o j ʊ w//t ɯ ŋ l au//t ɤ ŋ l au//i t l ɛ//t ə n l a//i h i t"
@@ -11640,7 +11628,7 @@ graph [
     family_count 1
   ]
   node [
-    id 970
+    id 969
     label "SOUND OR NOISE"
     occurrences "clicsbp-idssegmented-azerbaijani-SOUNDORNOISE-1//clicsbp-idssegmented-kumyk-SOUNDORNOISE-1//clicsbp-idssegmented-kumyk-SOUNDORNOISE-2//clicsbp-idssegmented-nogai-SOUNDORNOISE-1//clicsbp-idssegmented-nogai-SOUNDORNOISE-2//clicsbp-idssegmented-nogai-SOUNDORNOISE-3//clicsbp-northeuralex-tur-SOUNDORNOISE-1//clicsbp-northeuralex-uzn-SOUNDORNOISE-1//clicsbp-northeuralex-kaz-SOUNDORNOISE-2//clicsbp-northeuralex-kaz-SOUNDORNOISE-1//clicsbp-northeuralex-bak-SOUNDORNOISE-1//clicsbp-northeuralex-tat-SOUNDORNOISE-1//clicsbp-northeuralex-chv-SOUNDORNOISE-1//clicsbp-wold-Sakha-SOUNDORNOISE-1"
     words "s æ s//a w a z//q a w ɣ a//a w a z//t a w ɨ s//ʃ a w + ʃ u w//s ɛ s//t ɒ w u ʃ//d ɑ uə s//d ə b ə s//t au ɯ ʃ//a w a z//s a s ə//t ɨ a s"
@@ -11652,7 +11640,7 @@ graph [
     family_count 1
   ]
   node [
-    id 971
+    id 970
     label "VOICE"
     occurrences "clicsbp-idssegmented-azerbaijani-VOICE-1//clicsbp-idssegmented-kumyk-VOICE-1//clicsbp-idssegmented-kumyk-VOICE-2//clicsbp-idssegmented-nogai-VOICE-3//clicsbp-idssegmented-nogai-VOICE-2//clicsbp-idssegmented-nogai-VOICE-1//clicsbp-northeuralex-tur-VOICE-1//clicsbp-northeuralex-uzn-VOICE-1//clicsbp-northeuralex-kaz-VOICE-1//clicsbp-northeuralex-kaz-VOICE-2//clicsbp-northeuralex-kaz-VOICE-3//clicsbp-northeuralex-bak-VOICE-1//clicsbp-northeuralex-tat-VOICE-1//clicsbp-northeuralex-chv-VOICE-1//clicsbp-wold-Sakha-VOICE-1"
     words "s æ s//a w a z//t a w u ʃ//a w a z//t a w ɨ s//s e s//s ɛ s//ɒ w ɒ z//ʊ n//æ u e n//d ɑ uə s//t au ɯ ʃ//t a w ɤ ʃ//s a s ə//s a ŋ a"
@@ -11664,7 +11652,7 @@ graph [
     family_count 1
   ]
   node [
-    id 972
+    id 971
     label "HARD"
     occurrences "clicsbp-idssegmented-azerbaijani-HARD-1//clicsbp-idssegmented-azerbaijani-HARD-2//clicsbp-idssegmented-kumyk-HARD-1//clicsbp-idssegmented-kumyk-HARD-2//clicsbp-idssegmented-nogai-HARD-1//clicsbp-idssegmented-nogai-HARD-2//clicsbp-northeuralex-tur-HARD-1//clicsbp-northeuralex-uzn-HARD-1//clicsbp-northeuralex-kaz-HARD-1//clicsbp-northeuralex-bak-HARD-1//clicsbp-northeuralex-tat-HARD-1//clicsbp-northeuralex-chv-HARD-1//clicsbp-wold-Sakha-HARD-1//clicsbp-savelyevturkic-Karaim-HARD-1"
     words "b æ r k//s æ r t//q a t ɨ//b e k + g ü tʃ l ü//k a t ɨ//a j a w s ɨ z//k a t ɯ//q a tː i q//q ɑ tː ə//q a t ɯ//q ɑ t ɤ//χ ɯ t ə//k ɨ t aː n a χ//q a t ɯ"
@@ -11676,7 +11664,7 @@ graph [
     family_count 1
   ]
   node [
-    id 973
+    id 972
     label "SILENCE"
     occurrences "clicsbp-idssegmented-azerbaijani-SILENCE-1//clicsbp-idssegmented-azerbaijani-SILENCE-2//clicsbp-idssegmented-kumyk-SILENCE-2//clicsbp-idssegmented-kumyk-SILENCE-1//clicsbp-idssegmented-kumyk-SILENCE-3//clicsbp-idssegmented-nogai-SILENCE-2//clicsbp-idssegmented-nogai-SILENCE-1//clicsbp-northeuralex-tur-SILENCE-1//clicsbp-northeuralex-uzn-SILENCE-1//clicsbp-northeuralex-kaz-SILENCE-1//clicsbp-northeuralex-bak-SILENCE-1//clicsbp-northeuralex-bak-SILENCE-2//clicsbp-northeuralex-tat-SILENCE-1//clicsbp-northeuralex-chv-SILENCE-1//clicsbp-northeuralex-chv-SILENCE-2"
     words "r a h a t//s a k i t//a s t a//s a b u r//s a j p a r//a s t a//s a b ɨ r//s a k i n l i k//t i n tʃ l i k//t ə n ə ʃ t ə q//j a l//t ɯ n ɯ s l ɯ q//t ɤ n l ɤ k//k a n ə ɕ l ə χ//l ə p k ə l ə χ"
@@ -11688,7 +11676,7 @@ graph [
     family_count 1
   ]
   node [
-    id 974
+    id 973
     label "SEE"
     occurrences "clicsbp-idssegmented-azerbaijani-SEE-1//clicsbp-idssegmented-kumyk-SEE-1//clicsbp-idssegmented-nogai-SEE-1//clicsbp-northeuralex-tur-SEE-1//clicsbp-northeuralex-uzn-SEE-1//clicsbp-northeuralex-kaz-SEE-1//clicsbp-northeuralex-bak-SEE-1//clicsbp-northeuralex-tat-SEE-1//clicsbp-northeuralex-chv-SEE-1//clicsbp-wold-Sakha-SEE-1//clicsbp-savelyevturkic-Karaim-SEE-1"
     words "gʲ œ r m æ k//g œ r m e k//k œ r y w//g œ ɾ m ɛ k//k o r m ɒ q//k ø ɾ u//k y r e y//k ʉ r ʉ//k u r//k œ r//k ø r"
@@ -11700,7 +11688,7 @@ graph [
     family_count 1
   ]
   node [
-    id 975
+    id 974
     label "LOOK"
     occurrences "clicsbp-idssegmented-azerbaijani-LOOK-1//clicsbp-idssegmented-kumyk-LOOK-1//clicsbp-idssegmented-nogai-LOOK-1//clicsbp-northeuralex-tur-LOOK-1//clicsbp-northeuralex-uzn-LOOK-1//clicsbp-northeuralex-kaz-LOOK-1//clicsbp-northeuralex-bak-LOOK-1//clicsbp-northeuralex-tat-LOOK-1//clicsbp-northeuralex-chv-LOOK-1//clicsbp-wold-Sakha-LOOK-1//clicsbp-savelyevturkic-Karaim-LOOK-1"
     words "b a x m a g//q a r a m a q//k a r a w//s ɛ j ɾ ɛ t m ɛ k//r a z m + s ɒ l m ɒ q//n ɑ z ɑ ɾ + s ɑ l u//q a r au//q ɑ r au//p ə χ s a + i l//k œ r//b a k"
@@ -11712,7 +11700,7 @@ graph [
     family_count 1
   ]
   node [
-    id 976
+    id 975
     label "SHOW"
     occurrences "clicsbp-idssegmented-azerbaijani-SHOW-1//clicsbp-idssegmented-kumyk-SHOW-1//clicsbp-idssegmented-nogai-SHOW-1//clicsbp-northeuralex-tur-SHOW-1//clicsbp-northeuralex-uzn-SHOW-1//clicsbp-northeuralex-kaz-SHOW-1//clicsbp-northeuralex-bak-SHOW-1//clicsbp-northeuralex-tat-SHOW-1//clicsbp-northeuralex-chv-SHOW-1//clicsbp-wold-Sakha-SHOW-1"
     words "gʲ œ s t æ r m æ k//g œ r s e t m e k//k œ r s e t y w//g œ s t ɛ ɾ m ɛ k//k o r s a t m ɒ q//k ø ɾ s e t u//k y r h æ t e y//k ʉ r s æ t ʉ//k ə t a r t//k œ r d œ r"
@@ -11724,7 +11712,7 @@ graph [
     family_count 1
   ]
   node [
-    id 977
+    id 976
     label "SHINE"
     occurrences "clicsbp-idssegmented-azerbaijani-SHINE-1//clicsbp-idssegmented-kumyk-SHINE-1//clicsbp-idssegmented-nogai-SHINE-1//clicsbp-idssegmented-nogai-SHINE-2//clicsbp-northeuralex-tur-SHINE-1//clicsbp-northeuralex-uzn-SHINE-1//clicsbp-northeuralex-kaz-SHINE-1//clicsbp-northeuralex-bak-SHINE-1//clicsbp-northeuralex-tat-SHINE-1//clicsbp-northeuralex-chv-SHINE-1//clicsbp-wold-Sakha-SHINE-1"
     words "i ʃ ɨ g l a n m a g//u a r ɨ q + b e r m e k//j a r ɨ k + b e r y w//j a r ɨ k + e t y w//p a ɾ l a m a k//j a r a q l a m ɒ q//ʒ ə l t ə ɾ ɑ u//j a q t ɯ r t ɯ p + t o r ou//j a k t ɤ r t u//p ə χ//s ɨ r d a t"
@@ -11736,7 +11724,7 @@ graph [
     family_count 1
   ]
   node [
-    id 978
+    id 977
     label "BRIGHT"
     occurrences "clicsbp-idssegmented-azerbaijani-BRIGHT-1//clicsbp-idssegmented-kumyk-BRIGHT-1//clicsbp-idssegmented-nogai-BRIGHT-1//clicsbp-northeuralex-tur-BRIGHT-1//clicsbp-northeuralex-uzn-BRIGHT-1//clicsbp-northeuralex-kaz-BRIGHT-1//clicsbp-northeuralex-kaz-BRIGHT-2//clicsbp-northeuralex-bak-BRIGHT-1//clicsbp-northeuralex-tat-BRIGHT-1//clicsbp-northeuralex-chv-BRIGHT-1//clicsbp-wold-Sakha-BRIGHT-1"
     words "p a r l a g//u a r ɨ q//j a r ɨ k//a j d ɯ n l ɯ k//j ɒ r u ɣ//ʒ ɑ ɾ ə q//ʒ ɑ ɾ q ə n//j a q t ɯ//j a k t ɤ//ɕ u t ə//tʃ a ɣ ɨ l χ a y"
@@ -11748,7 +11736,7 @@ graph [
     family_count 1
   ]
   node [
-    id 979
+    id 978
     label "LIGHT (COLOR)"
     occurrences "clicsbp-idssegmented-azerbaijani-LIGHTCOLOR-1//clicsbp-idssegmented-kumyk-LIGHTCOLOR-1//clicsbp-idssegmented-kumyk-LIGHTCOLOR-2//clicsbp-idssegmented-kumyk-LIGHTCOLOR-3//clicsbp-idssegmented-kumyk-LIGHTCOLOR-4//clicsbp-idssegmented-nogai-LIGHTCOLOR-1//clicsbp-idssegmented-nogai-LIGHTCOLOR-2//clicsbp-wold-Sakha-LIGHTCOLOR-1"
     words "i ʃ ɨ g l ɨ//u a r ɨ q//ʃ a w l a l ɨ//a tʃ ɨ q + t y s l ü//s ü z ü k//j a r ɨ k//a ʃ ɨ k + t y s l i//s ɨ r d ɨ k"
@@ -11760,7 +11748,7 @@ graph [
     family_count 1
   ]
   node [
-    id 980
+    id 979
     label "WHITE"
     occurrences "clicsbp-idssegmented-azerbaijani-WHITE-1//clicsbp-idssegmented-kumyk-WHITE-1//clicsbp-idssegmented-nogai-WHITE-1//clicsbp-northeuralex-tur-WHITE-1//clicsbp-northeuralex-tur-WHITE-2//clicsbp-northeuralex-uzn-WHITE-1//clicsbp-northeuralex-kaz-WHITE-1//clicsbp-northeuralex-bak-WHITE-1//clicsbp-northeuralex-tat-WHITE-1//clicsbp-northeuralex-chv-WHITE-1//clicsbp-wold-Sakha-WHITE-1//clicsbp-wold-Sakha-WHITE-2//clicsbp-savelyevturkic-Karaim-WHITE-1"
     words "a ɣ//a q//a k//a k//b ɛ j a z//ɒ q//ɑ q//a q//a k//ʂ u r ə//m a ɣ a n//y r y ŋ//a k"
@@ -11772,7 +11760,7 @@ graph [
     family_count 1
   ]
   node [
-    id 981
+    id 980
     label "BLACK"
     occurrences "clicsbp-idssegmented-azerbaijani-BLACK-1//clicsbp-idssegmented-kumyk-BLACK-1//clicsbp-idssegmented-nogai-BLACK-1//clicsbp-northeuralex-tur-BLACK-1//clicsbp-northeuralex-tur-BLACK-2//clicsbp-northeuralex-uzn-BLACK-1//clicsbp-northeuralex-kaz-BLACK-1//clicsbp-northeuralex-bak-BLACK-1//clicsbp-northeuralex-tat-BLACK-1//clicsbp-northeuralex-chv-BLACK-1//clicsbp-wold-Sakha-BLACK-1//clicsbp-savelyevturkic-Karaim-BLACK-1"
     words "g a r a//q a r a//k a r a//k a ɾ a//s i j a h//q ɒ r a//q ɑ ɾ ɑ//q a r a//q ɑ r a//χ u r a//χ a r a//k a r a"
@@ -11784,7 +11772,7 @@ graph [
     family_count 1
   ]
   node [
-    id 982
+    id 981
     label "RED"
     occurrences "clicsbp-idssegmented-azerbaijani-RED-1//clicsbp-idssegmented-kumyk-RED-1//clicsbp-idssegmented-nogai-RED-1//clicsbp-northeuralex-tur-RED-1//clicsbp-northeuralex-uzn-RED-1//clicsbp-northeuralex-kaz-RED-1//clicsbp-northeuralex-bak-RED-1//clicsbp-northeuralex-bak-RED-2//clicsbp-northeuralex-bak-RED-3//clicsbp-northeuralex-tat-RED-1//clicsbp-northeuralex-chv-RED-1//clicsbp-wold-Sakha-RED-1//clicsbp-savelyevturkic-Karaim-RED-1"
     words "g ɨ r m ɨ z ɨ//q ɨ z ɨ l//k ɨ z ɨ l//k ɯ ɾ m ɯ z ɯ//q i z i l//q ə z ə l//m a t u r//h ɯ l ɯ u//s i b æ r//q ɤ z ɤ l//χ ɘ r l ɘ//k ɨ h ɨ l//k ɯ z ɯ l"
@@ -11796,7 +11784,7 @@ graph [
     family_count 1
   ]
   node [
-    id 983
+    id 982
     label "YELLOW"
     occurrences "clicsbp-idssegmented-azerbaijani-YELLOW-1//clicsbp-idssegmented-kumyk-YELLOW-1//clicsbp-idssegmented-nogai-YELLOW-1//clicsbp-northeuralex-tur-YELLOW-1//clicsbp-northeuralex-uzn-YELLOW-1//clicsbp-northeuralex-kaz-YELLOW-1//clicsbp-northeuralex-bak-YELLOW-1//clicsbp-northeuralex-tat-YELLOW-1//clicsbp-northeuralex-chv-YELLOW-1//clicsbp-wold-Sakha-YELLOW-1//clicsbp-wold-Sakha-YELLOW-2//clicsbp-savelyevturkic-Karaim-YELLOW-1"
     words "s a r ɨ//s a r i//s a r ɨ//s a ɾ ɯ//s a r i q//s ɑ ɾ ə//h a r ɯ//s a r ɤ//s a r ə//s a h a r χ a y//a r a ɣ a s//s a r ɯ"
@@ -11808,7 +11796,7 @@ graph [
     family_count 1
   ]
   node [
-    id 984
+    id 983
     label "TOUCH"
     occurrences "clicsbp-idssegmented-azerbaijani-TOUCH-1//clicsbp-idssegmented-azerbaijani-TOUCH-2//clicsbp-idssegmented-kumyk-TOUCH-1//clicsbp-idssegmented-nogai-TOUCH-1//clicsbp-northeuralex-tur-TOUCH-1//clicsbp-northeuralex-uzn-TOUCH-1//clicsbp-northeuralex-kaz-TOUCH-1//clicsbp-northeuralex-bak-TOUCH-1//clicsbp-northeuralex-bak-TOUCH-2//clicsbp-northeuralex-tat-TOUCH-1//clicsbp-northeuralex-chv-TOUCH-1//clicsbp-wold-Sakha-TOUCH-1"
     words "d æ j m æ k//t o x u n m a g//t i j m e k//t i j y w//d o k u n m a k//t ɛ g m ɒ q//t ɪ j j ʊ w//t e j e y//q a ɣ ɯ l ɯ u//t i j ʊ//p ɛ r ɘ n//t ɨː t"
@@ -11820,7 +11808,7 @@ graph [
     family_count 1
   ]
   node [
-    id 985
+    id 984
     label "PINCH"
     occurrences "clicsbp-idssegmented-azerbaijani-PINCH-1//clicsbp-idssegmented-azerbaijani-PINCH-2//clicsbp-idssegmented-kumyk-PINCH-2//clicsbp-idssegmented-kumyk-PINCH-1//clicsbp-idssegmented-nogai-PINCH-2//clicsbp-idssegmented-nogai-PINCH-1//clicsbp-wold-Sakha-PINCH-1//clicsbp-wold-Sakha-PINCH-2"
     words "tʃ i m d i k l æ m æ k//s ɨ x m a g//q ɨ s m a q//tʃ ü m l e m e k//k ɨ s u w//ʃ ɨ m t u w//k ɨ m aː χ t aː//k ɨ m ɨ s t aː"
@@ -11832,7 +11820,7 @@ graph [
     family_count 1
   ]
   node [
-    id 986
+    id 985
     label "FEEL"
     occurrences "clicsbp-idssegmented-azerbaijani-FEEL-1//clicsbp-idssegmented-kumyk-FEEL-1//clicsbp-idssegmented-nogai-FEEL-1//clicsbp-wold-Sakha-FEEL-1"
     words "h i sː + e t m æ k//s e z m e k//s e z y w//b i l"
@@ -11844,7 +11832,7 @@ graph [
     family_count 1
   ]
   node [
-    id 987
+    id 986
     label "SOFT"
     occurrences "clicsbp-idssegmented-azerbaijani-SOFT-1//clicsbp-idssegmented-azerbaijani-SOFT-2//clicsbp-idssegmented-kumyk-SOFT-1//clicsbp-idssegmented-nogai-SOFT-1//clicsbp-northeuralex-tur-SOFT-1//clicsbp-northeuralex-uzn-SOFT-1//clicsbp-northeuralex-kaz-SOFT-1//clicsbp-northeuralex-bak-SOFT-1//clicsbp-northeuralex-tat-SOFT-1//clicsbp-northeuralex-chv-SOFT-1//clicsbp-wold-Sakha-SOFT-1//clicsbp-savelyevturkic-Karaim-SOFT-1"
     words "j u m ʃ a g//m ü l a j i m//j ɨ m ɨ ʃ a q//j u m s a k//j u m u ʃ a k//j u m ʃ ɒ q//ʒ ʉ m s ɑ q//j o m ʃ a q//j o m ʃ a k//ɕ ɛ m ɕ ɛ//s ɨ m n a ɣ a s//i m ʃ a χ"
@@ -11856,7 +11844,7 @@ graph [
     family_count 1
   ]
   node [
-    id 988
+    id 987
     label "ROUGH"
     occurrences "clicsbp-idssegmented-azerbaijani-ROUGH-1//clicsbp-idssegmented-kumyk-ROUGH-1//clicsbp-idssegmented-kumyk-ROUGH-2//clicsbp-idssegmented-nogai-ROUGH-1//clicsbp-idssegmented-nogai-ROUGH-2//clicsbp-wold-Sakha-ROUGH-1"
     words "k o b u t//i ʃ ɣ ɨ n s ɨ z//t i r i//k a t ɨ//k e l i s i z + e t i l g e n//χ a t ɨː l aː χ"
@@ -11868,7 +11856,7 @@ graph [
     family_count 1
   ]
   node [
-    id 989
+    id 988
     label "SHARP"
     occurrences "clicsbp-idssegmented-azerbaijani-SHARP-1//clicsbp-idssegmented-kumyk-SHARP-1//clicsbp-idssegmented-nogai-SHARP-1//clicsbp-idssegmented-nogai-SHARP-2//clicsbp-northeuralex-tur-SHARP-1//clicsbp-northeuralex-uzn-SHARP-1//clicsbp-northeuralex-kaz-SHARP-1//clicsbp-northeuralex-bak-SHARP-1//clicsbp-northeuralex-tat-SHARP-1//clicsbp-northeuralex-chv-SHARP-1//clicsbp-wold-Sakha-SHARP-1//clicsbp-savelyevturkic-Karaim-SHARP-1"
     words "i t i//i t i//s i s l i//œ t k i r//k ɛ s k i n//k ɛ s k i r//s ʊ j ɾ ə k//y t k e r//ʉ t k e n//ɕ i ʋ ɘ tɕ//s ɨ t ɨː//i t i"
@@ -11880,7 +11868,7 @@ graph [
     family_count 1
   ]
   node [
-    id 990
+    id 989
     label "BLUNT"
     occurrences "clicsbp-idssegmented-azerbaijani-BLUNT-1//clicsbp-idssegmented-kumyk-BLUNT-1//clicsbp-idssegmented-kumyk-BLUNT-2//clicsbp-idssegmented-kumyk-BLUNT-3//clicsbp-idssegmented-nogai-BLUNT-1//clicsbp-idssegmented-nogai-BLUNT-2//clicsbp-idssegmented-nogai-BLUNT-3//clicsbp-northeuralex-tur-BLUNT-1//clicsbp-northeuralex-uzn-BLUNT-1//clicsbp-northeuralex-kaz-BLUNT-1//clicsbp-northeuralex-kaz-BLUNT-2//clicsbp-northeuralex-bak-BLUNT-1//clicsbp-northeuralex-tat-BLUNT-1//clicsbp-northeuralex-chv-BLUNT-1//clicsbp-northeuralex-chv-BLUNT-2//clicsbp-northeuralex-chv-BLUNT-3//clicsbp-northeuralex-chv-BLUNT-4//clicsbp-wold-Sakha-BLUNT-1"
     words "k ü t//t o p a s//a ŋ l a w s u z//t o m a q//t o p a l//a ŋ l a w s ɨ z//a k m a k//k œ ɾ//t o m t ɒ q//d o ʁ ɑ l//ø t p e j t ə n//u t m æ θ//ʉ t m æ s//m ə k a//p u k l a k//t ɘ r ɘ n tɕ ɘ k//ə n k a r u s ə r//s ɨ pː a χ"
@@ -11892,7 +11880,7 @@ graph [
     family_count 1
   ]
   node [
-    id 991
+    id 990
     label "HEAVY"
     occurrences "clicsbp-idssegmented-azerbaijani-HEAVY-1//clicsbp-idssegmented-kumyk-HEAVY-1//clicsbp-idssegmented-nogai-HEAVY-1//clicsbp-northeuralex-tur-HEAVY-1//clicsbp-northeuralex-uzn-HEAVY-1//clicsbp-northeuralex-kaz-HEAVY-1//clicsbp-northeuralex-bak-HEAVY-1//clicsbp-northeuralex-tat-HEAVY-1//clicsbp-northeuralex-chv-HEAVY-1//clicsbp-wold-Sakha-HEAVY-1//clicsbp-savelyevturkic-Karaim-HEAVY-1"
     words "a ɣ ɨ r//a w u r//a w ɨ r//aː ɯ ɾ//s a l m ɒ q l i//s ɑ l m ɑ q t ə//au ɯ r//s a l m a k//j ɯ ʋ ə r//ɨ a r a χ a n//a v u r"
@@ -11904,7 +11892,7 @@ graph [
     family_count 1
   ]
   node [
-    id 992
+    id 991
     label "LIGHT (WEIGHT)"
     occurrences "clicsbp-idssegmented-azerbaijani-LIGHTWEIGHT-1//clicsbp-idssegmented-kumyk-LIGHTWEIGHT-1//clicsbp-idssegmented-nogai-LIGHTWEIGHT-1//clicsbp-wold-Sakha-LIGHTWEIGHT-1"
     words "j ü n gʲ ü l//j e ŋ i l//j e ŋ i l//tʃ e p tʃ e k i"
@@ -11916,7 +11904,7 @@ graph [
     family_count 1
   ]
   node [
-    id 993
+    id 992
     label "EASY"
     occurrences "clicsbp-idssegmented-azerbaijani-EASY-2//clicsbp-idssegmented-azerbaijani-EASY-1//clicsbp-idssegmented-kumyk-EASY-1//clicsbp-idssegmented-kumyk-EASY-2//clicsbp-idssegmented-nogai-EASY-1//clicsbp-idssegmented-nogai-EASY-2//clicsbp-wold-Sakha-EASY-1"
     words "j ü n gʲ ü l//a s a n//j e ŋ i l//t ɨ n tʃ//j e ŋ i l//t ɨ n ɨ ʃ//tʃ e p tʃ e k i"
@@ -11928,7 +11916,7 @@ graph [
     family_count 1
   ]
   node [
-    id 994
+    id 993
     label "DRY"
     occurrences "clicsbp-idssegmented-azerbaijani-DRY-1//clicsbp-idssegmented-kumyk-DRY-1//clicsbp-idssegmented-nogai-DRY-1//clicsbp-idssegmented-nogai-DRY-2//clicsbp-northeuralex-tur-DRY-1//clicsbp-northeuralex-uzn-DRY-1//clicsbp-northeuralex-kaz-DRY-1//clicsbp-northeuralex-bak-DRY-1//clicsbp-northeuralex-tat-DRY-1//clicsbp-northeuralex-chv-DRY-1//clicsbp-wold-Sakha-DRY-1//clicsbp-savelyevturkic-Karaim-DRY-1"
     words "g u r u//q u r u//k u r ɨ//k e p k e n//k u ɾ u//q u r u q//q ʉ ɾ ʁ ɑ q//k i p k æ n//q o r ɤ//t i p ɘ//k u r aː n a χ//k u r ɣ a k"
@@ -11940,7 +11928,7 @@ graph [
     family_count 1
   ]
   node [
-    id 995
+    id 994
     label "HOT"
     occurrences "clicsbp-idssegmented-azerbaijani-HOT-1//clicsbp-idssegmented-azerbaijani-HOT-2//clicsbp-idssegmented-kumyk-HOT-1//clicsbp-idssegmented-nogai-HOT-1//clicsbp-northeuralex-tur-HOT-1//clicsbp-northeuralex-uzn-HOT-1//clicsbp-northeuralex-kaz-HOT-1//clicsbp-northeuralex-bak-HOT-1//clicsbp-northeuralex-tat-HOT-1//clicsbp-northeuralex-chv-HOT-1//clicsbp-wold-Sakha-HOT-1//clicsbp-wold-Sakha-HOT-2//clicsbp-savelyevturkic-Karaim-HOT-1"
     words "i s t i//g a j n a r//i s i//i s i//k ɯ z g ɯ n//q i z i q//ə sː ə//e θ e//ɛ sː e//ʋ ɘ r i//i t iː//k u y aː s//i sː i"
@@ -11952,7 +11940,7 @@ graph [
     family_count 1
   ]
   node [
-    id 996
+    id 995
     label "WARM"
     occurrences "clicsbp-idssegmented-azerbaijani-WARM-1//clicsbp-idssegmented-azerbaijani-WARM-2//clicsbp-idssegmented-kumyk-WARM-1//clicsbp-idssegmented-nogai-WARM-1//clicsbp-northeuralex-tur-WARM-1//clicsbp-northeuralex-uzn-WARM-1//clicsbp-northeuralex-kaz-WARM-1//clicsbp-northeuralex-bak-WARM-1//clicsbp-northeuralex-tat-WARM-1//clicsbp-northeuralex-chv-WARM-1//clicsbp-wold-Sakha-WARM-1//clicsbp-wold-Sakha-WARM-2//clicsbp-savelyevturkic-Karaim-WARM-2//clicsbp-savelyevturkic-Karaim-WARM-1"
     words "i s t i//i l ɨ g//j ɨ l ɨ//j ɨ l ɨ//s ɯ dʒ a k//i sː i q//ʒ ə l ə//j ɯ l ɯ//dʑ ɤ l ɤ//ə ʂ ə//s ɨ l aː s//i tʃ i g e s//i sː i//j ɯ l ɯ"
@@ -11964,7 +11952,7 @@ graph [
     family_count 1
   ]
   node [
-    id 997
+    id 996
     label "COLD"
     occurrences "clicsbp-idssegmented-azerbaijani-COLD-1//clicsbp-idssegmented-kumyk-COLD-1//clicsbp-idssegmented-nogai-COLD-1//clicsbp-northeuralex-tur-COLD-1//clicsbp-northeuralex-uzn-COLD-1//clicsbp-northeuralex-kaz-COLD-1//clicsbp-northeuralex-bak-COLD-1//clicsbp-northeuralex-tat-COLD-1//clicsbp-northeuralex-tat-COLD-2//clicsbp-northeuralex-chv-COLD-1//clicsbp-wold-Sakha-COLD-1//clicsbp-savelyevturkic-Karaim-COLD-1"
     words "s o j u g//s u w u q//s u w ɨ k//s oː u k//s ɒ w u q//ɑ j ɑ z d ə//h ɯ u ɯ q//s u ɤ k//s a l q ɤ n//s i ʋ ɘ//t ɨ m n ɨː//s u v u k"
@@ -11976,7 +11964,7 @@ graph [
     family_count 1
   ]
   node [
-    id 998
+    id 997
     label "CLEAN"
     occurrences "clicsbp-idssegmented-azerbaijani-CLEAN-1//clicsbp-idssegmented-kumyk-CLEAN-1//clicsbp-idssegmented-nogai-CLEAN-1//clicsbp-northeuralex-tur-CLEAN-1//clicsbp-northeuralex-tur-CLEAN-2//clicsbp-northeuralex-uzn-CLEAN-1//clicsbp-northeuralex-kaz-CLEAN-1//clicsbp-northeuralex-kaz-CLEAN-2//clicsbp-northeuralex-bak-CLEAN-1//clicsbp-northeuralex-tat-CLEAN-1//clicsbp-northeuralex-tat-CLEAN-2//clicsbp-northeuralex-chv-CLEAN-1//clicsbp-wold-Sakha-CLEAN-1"
     words "t æ m i z//t a z a//t a z a//p a k//t ɛ m i z//ɒ z ɒ d a//d ɑ q s ə z//m ʉ n t ɑ z d ɑ j//t a ð a//p a k ʔ//tɕ i s t a//t a s a//ɨ r aː s"
@@ -11988,7 +11976,7 @@ graph [
     family_count 1
   ]
   node [
-    id 999
+    id 998
     label "DIRTY"
     occurrences "clicsbp-idssegmented-azerbaijani-DIRTY-1//clicsbp-idssegmented-azerbaijani-DIRTY-2//clicsbp-idssegmented-kumyk-DIRTY-1//clicsbp-idssegmented-nogai-DIRTY-1//clicsbp-idssegmented-nogai-DIRTY-2//clicsbp-northeuralex-tur-DIRTY-1//clicsbp-northeuralex-tur-DIRTY-2//clicsbp-northeuralex-uzn-DIRTY-1//clicsbp-northeuralex-kaz-DIRTY-1//clicsbp-northeuralex-kaz-DIRTY-2//clicsbp-northeuralex-kaz-DIRTY-3//clicsbp-northeuralex-bak-DIRTY-1//clicsbp-northeuralex-tat-DIRTY-2//clicsbp-northeuralex-tat-DIRTY-1//clicsbp-northeuralex-chv-DIRTY-1//clicsbp-northeuralex-chv-DIRTY-2//clicsbp-wold-Sakha-DIRTY-1//clicsbp-savelyevturkic-Karaim-DIRTY-1"
     words "tʃ i r k l i//p a l tʃ ɨ g l ɨ//n a s//n a s//k i r//p i s//k i ɾ l i//k i r//ɑ j ʁ ə z//s ɑ t p ɑ q//s ɑ t ɑ l s ɑ t ɑ l//b ɯ s r a q//p ɤ tɕ r a k//k e r l e//p ɯ l tɕ ə k l ə//ʋ a r a l a n tɕ ə k//k i r d eː χ//b ɯ l a ʃ ɯ q"
@@ -12000,7 +11988,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1000
+    id 999
     label "WRINKLED"
     occurrences "clicsbp-idssegmented-azerbaijani-WRINKLED-1//clicsbp-idssegmented-azerbaijani-WRINKLED-2//clicsbp-idssegmented-kumyk-WRINKLED-1//clicsbp-idssegmented-nogai-WRINKLED-1//clicsbp-idssegmented-nogai-WRINKLED-2//clicsbp-wold-Sakha-WRINKLED-1//clicsbp-wold-Sakha-WRINKLED-2"
     words "æ z i l m i ʃ//j ɨ ɣ ɨ l m ɨ ʃ//b ü r ü ʃ g e n//b ü k l e n g e n//u j p a l a n g a n//k u m a l a mː ɨ t//m ɨ r tʃ ɨ s t a ɣ a s"
@@ -12012,7 +12000,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1001
+    id 1000
     label "SOUL"
     occurrences "clicsbp-idssegmented-azerbaijani-SOUL-1//clicsbp-idssegmented-azerbaijani-SOUL-2//clicsbp-idssegmented-kumyk-SOUL-1//clicsbp-idssegmented-kumyk-SOUL-2//clicsbp-idssegmented-nogai-SOUL-1//clicsbp-idssegmented-nogai-SOUL-2//clicsbp-wold-Sakha-SOUL-1//clicsbp-wold-Sakha-SOUL-2"
     words "r u h//dʒ a n//ʒ a n//r u h//j a n//d e r t//k u t//s y r"
@@ -12024,7 +12012,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1002
+    id 1001
     label "SURPRISED"
     occurrences "clicsbp-idssegmented-azerbaijani-SURPRISED-1//clicsbp-idssegmented-azerbaijani-SURPRISED-2//clicsbp-idssegmented-kumyk-SURPRISED-1//clicsbp-idssegmented-kumyk-SURPRISED-2//clicsbp-idssegmented-nogai-SURPRISED-1//clicsbp-idssegmented-nogai-SURPRISED-2//clicsbp-wold-Sakha-SURPRISED-1"
     words "t æ ʔ æ dʒ ü b l æ n d i r i l m i ʃ//t æ ʔ æ dʒ b l ü + g æ r i b æ l i k//t a m a ʃ a + b o l ɣ a n//h a j r a n + b o l ɣ a n//t a m a ʃ a l ɨ//k u ʒ ɨ r ɨ + k e l g e n//s o h u y b u t"
@@ -12036,7 +12024,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1003
+    id 1002
     label "GOOD LUCK"
     occurrences "clicsbp-idssegmented-azerbaijani-GOODLUCK-1//clicsbp-idssegmented-azerbaijani-GOODLUCK-2//clicsbp-idssegmented-kumyk-GOODLUCK-1//clicsbp-idssegmented-kumyk-GOODLUCK-2//clicsbp-idssegmented-nogai-GOODLUCK-1//clicsbp-idssegmented-nogai-GOODLUCK-2//clicsbp-idssegmented-nogai-GOODLUCK-3//clicsbp-wold-Sakha-GOODLUCK-1//clicsbp-wold-Sakha-GOODLUCK-2"
     words "u ɣ u r//m ü v æ fː æ g i yː æ t//o ŋ + t ü ʃ y w//i ʃ i + j u r y w//j o l + b o l u w//k u lː ɨ k + b i t y w//o ŋ + b o l u w//s o r g u//dʒ o l"
@@ -12048,7 +12036,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1004
+    id 1003
     label "BAD LUCK"
     occurrences "clicsbp-idssegmented-azerbaijani-BADLUCK-1//clicsbp-idssegmented-kumyk-BADLUCK-1//clicsbp-idssegmented-kumyk-BADLUCK-2//clicsbp-idssegmented-nogai-BADLUCK-1//clicsbp-idssegmented-nogai-BADLUCK-2//clicsbp-northeuralex-tur-BADLUCK-1//clicsbp-northeuralex-tur-BADLUCK-2//clicsbp-northeuralex-uzn-BADLUCK-1//clicsbp-northeuralex-kaz-BADLUCK-2//clicsbp-northeuralex-kaz-BADLUCK-1//clicsbp-northeuralex-kaz-BADLUCK-3//clicsbp-northeuralex-bak-BADLUCK-1//clicsbp-northeuralex-tat-BADLUCK-1//clicsbp-northeuralex-chv-BADLUCK-1//clicsbp-northeuralex-chv-BADLUCK-2//clicsbp-wold-Sakha-BADLUCK-1"
     words "u ɣ u r s u z l u g//o ŋ + t ü ʃ m e g e n l i k//i ʃ i + j u r ü m e g e n l i k//j o l + b o l m a w//q u lː ɨ q + b i t p e w//f ɛ l aː k ɛ t//t a l i h s i z l i k//b a l ɒ//q ɑ s ə ɾ e t//p æ l e//ɑ uə ɾ t p ɑ l ə q//q a z a//b æ l a//ʂ a r//i n k ɛ k//s o r"
@@ -12060,7 +12048,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1005
+    id 1004
     label "HAPPY"
     occurrences "clicsbp-idssegmented-azerbaijani-HAPPY-1//clicsbp-idssegmented-azerbaijani-HAPPY-2//clicsbp-idssegmented-azerbaijani-HAPPY-3//clicsbp-idssegmented-kumyk-HAPPY-1//clicsbp-idssegmented-kumyk-HAPPY-2//clicsbp-idssegmented-nogai-HAPPY-1//clicsbp-idssegmented-nogai-HAPPY-2//clicsbp-idssegmented-nogai-HAPPY-3//clicsbp-wold-Sakha-HAPPY-1//clicsbp-wold-Sakha-HAPPY-2"
     words "b æ x t l i//s e v i n ɣ l i//f æ r æ h l i//n a s i p l i//ʃ a t//n æ s i p l i//ʃ a t//z a w ɨ k l ɨ//dʒ o lː oː χ//y œ r b y t"
@@ -12072,7 +12060,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1006
+    id 1005
     label "LAUGH"
     occurrences "clicsbp-idssegmented-azerbaijani-LAUGH-1//clicsbp-idssegmented-kumyk-LAUGH-1//clicsbp-idssegmented-nogai-LAUGH-1//clicsbp-northeuralex-tur-LAUGH-1//clicsbp-northeuralex-uzn-LAUGH-1//clicsbp-northeuralex-kaz-LAUGH-1//clicsbp-northeuralex-kaz-LAUGH-2//clicsbp-northeuralex-bak-LAUGH-1//clicsbp-northeuralex-tat-LAUGH-1//clicsbp-northeuralex-chv-LAUGH-1//clicsbp-northeuralex-chv-LAUGH-2//clicsbp-wold-Sakha-LAUGH-1//clicsbp-savelyevturkic-Karaim-LAUGH-1"
     words "gʲ ü l m æ k//k ü l e m e k//k ü l y w//g y l m ɛ k//k u l m ɒ q//k ʊ l u//k ʊ l ə s u//k ø l ø y//k œ l ʉ//k u l//a χ ə l t a t//k y l//k y l"
@@ -12084,7 +12072,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1007
+    id 1006
     label "SMILE"
     occurrences "clicsbp-idssegmented-azerbaijani-SMILE-1//clicsbp-idssegmented-kumyk-SMILE-1//clicsbp-idssegmented-nogai-SMILE-1//clicsbp-idssegmented-nogai-SMILE-2//clicsbp-wold-Sakha-SMILE-1"
     words "gʲ ü l ü m s æ m æ k//i r ʒ a j m a q//k ü l y w//k ü l e m s ü r e w//m i tʃ eː r d e"
@@ -12096,7 +12084,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1008
+    id 1007
     label "LOVE"
     occurrences "clicsbp-idssegmented-azerbaijani-LOVE-1//clicsbp-idssegmented-kumyk-LOVE-1//clicsbp-idssegmented-nogai-LOVE-1//clicsbp-northeuralex-tur-LOVE-1//clicsbp-northeuralex-uzn-LOVE-1//clicsbp-northeuralex-kaz-LOVE-1//clicsbp-northeuralex-bak-LOVE-1//clicsbp-northeuralex-tat-LOVE-1//clicsbp-northeuralex-tat-LOVE-2//clicsbp-northeuralex-chv-LOVE-1//clicsbp-wold-Sakha-LOVE-1"
     words "s e v m æ k//s ü j m e k//s ü j u w//s ɛ v m ɛ k//s ɛ w m ɒ q//s ʊ j ʊ w//j a r a t ɯ u//s œ j ʊ//j a r a t u//j u r a t//t a p t aː"
@@ -12108,7 +12096,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1009
+    id 1008
     label "KISS"
     occurrences "clicsbp-idssegmented-azerbaijani-KISS-1//clicsbp-idssegmented-kumyk-KISS-1//clicsbp-idssegmented-nogai-KISS-2//clicsbp-idssegmented-nogai-KISS-1//clicsbp-northeuralex-tur-KISS-1//clicsbp-northeuralex-uzn-KISS-1//clicsbp-northeuralex-kaz-KISS-1//clicsbp-northeuralex-bak-KISS-1//clicsbp-northeuralex-tat-KISS-1//clicsbp-northeuralex-chv-KISS-1//clicsbp-wold-Sakha-KISS-1//clicsbp-wold-Sakha-KISS-2"
     words "œ p m æ k//œ p m e k//s ü j u w//œ b y w//œ p m ɛ k//o p m ɒ q//s ʊ j ʊ w//y b e y//ʉ b ʉ//tɕ u p + t u//uː r aː//s ɨ lː aː"
@@ -12120,7 +12108,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1010
+    id 1009
     label "EMBRACE"
     occurrences "clicsbp-idssegmented-azerbaijani-EMBRACE-1//clicsbp-idssegmented-kumyk-EMBRACE-1//clicsbp-idssegmented-nogai-EMBRACE-1//clicsbp-wold-Sakha-EMBRACE-1"
     words "g u dʒ a g l a m a g//q u tʃ a q l a m a q//k u ʃ a k l a w//k uː s"
@@ -12132,7 +12120,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1011
+    id 1010
     label "PAIN"
     occurrences "clicsbp-idssegmented-azerbaijani-PAIN-1//clicsbp-idssegmented-kumyk-PAIN-1//clicsbp-idssegmented-nogai-PAIN-1//clicsbp-northeuralex-tur-PAIN-1//clicsbp-northeuralex-tur-PAIN-2//clicsbp-northeuralex-uzn-PAIN-1//clicsbp-northeuralex-kaz-PAIN-1//clicsbp-northeuralex-bak-PAIN-1//clicsbp-northeuralex-bak-PAIN-2//clicsbp-northeuralex-tat-PAIN-1//clicsbp-northeuralex-chv-PAIN-1//clicsbp-wold-Sakha-PAIN-1//clicsbp-wold-Sakha-PAIN-2"
     words "a ɣ r ɨ//a w u r t u w//a w ɨ r u w//aː ɾ ɯ//s a n dʒ ɯ//ɒ ɣ r i q//ɑ u ɾ u//h ɯ ð l au//æ r n e y//a w ɤ r t u//ɯ r a t u//ɨ a r ɨː//dʒ a r ɣ a"
@@ -12144,7 +12132,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1012
+    id 1011
     label "GRIEF"
     occurrences "clicsbp-idssegmented-azerbaijani-GRIEF-1//clicsbp-idssegmented-azerbaijani-GRIEF-2//clicsbp-idssegmented-kumyk-GRIEF-1//clicsbp-idssegmented-kumyk-GRIEF-2//clicsbp-idssegmented-kumyk-GRIEF-3//clicsbp-idssegmented-nogai-GRIEF-1//clicsbp-idssegmented-nogai-GRIEF-2//clicsbp-idssegmented-nogai-GRIEF-3//clicsbp-northeuralex-tur-GRIEF-1//clicsbp-northeuralex-tur-GRIEF-2//clicsbp-northeuralex-uzn-GRIEF-1//clicsbp-northeuralex-kaz-GRIEF-1//clicsbp-northeuralex-kaz-GRIEF-2//clicsbp-northeuralex-kaz-GRIEF-3//clicsbp-northeuralex-bak-GRIEF-1//clicsbp-northeuralex-tat-GRIEF-1//clicsbp-northeuralex-chv-GRIEF-1//clicsbp-wold-Sakha-GRIEF-1//clicsbp-wold-Sakha-GRIEF-2"
     words "g æ m//g y sː æ//p a ʃ m a n l ɨ q//d e r t//q a j ɣ ɨ//k a j g ɨ//a z a//a s i r e t//d ɛ ɾ t//k ɛ d ɛ ɾ//ɣ a m//ɑ z ɑ//q ɑ j ʁ ə//q ɑ s ə ɾ e t//q a j ɣ ɯ//x æ s r æ t//χ u r l ə χ//s a n aː//s a n aː r ɣ aː h ɨ n"
@@ -12156,7 +12144,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1013
+    id 1012
     label "ANXIETY"
     occurrences "clicsbp-idssegmented-azerbaijani-ANXIETY-1//clicsbp-idssegmented-azerbaijani-ANXIETY-2//clicsbp-idssegmented-kumyk-ANXIETY-1//clicsbp-idssegmented-kumyk-ANXIETY-2//clicsbp-idssegmented-nogai-ANXIETY-1//clicsbp-idssegmented-nogai-ANXIETY-2//clicsbp-wold-Sakha-ANXIETY-1//clicsbp-wold-Sakha-ANXIETY-2"
     words "t æ h l ü k æ//h æ j æ dʒ a n//r a h a ts ɨ z l ɨ q//t a l tʃ ɨ q//p a r a x a ts ɨ z l ɨ k//t ɨ n ɨ ʃ s ɨ z l a n u w//t y r y l y œ n//s y p s y l g e n"
@@ -12168,7 +12156,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1014
+    id 1013
     label "DANGER"
     occurrences "clicsbp-idssegmented-azerbaijani-DANGER-1//clicsbp-idssegmented-azerbaijani-DANGER-2//clicsbp-idssegmented-kumyk-DANGER-1//clicsbp-idssegmented-nogai-DANGER-1//clicsbp-idssegmented-nogai-DANGER-2//clicsbp-wold-Sakha-DANGER-1"
     words "t æ h l ü k æ//g o r x u//q o r q u n tʃ l u q//k a w ɨ f l ɨ k//k o r k ɨ n ɨ ʃ l ɨ//k u tː a l"
@@ -12180,7 +12168,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1015
+    id 1014
     label "REGRET"
     occurrences "clicsbp-idssegmented-azerbaijani-REGRET-1//clicsbp-idssegmented-azerbaijani-REGRET-2//clicsbp-idssegmented-kumyk-REGRET-1//clicsbp-idssegmented-nogai-REGRET-1//clicsbp-wold-Sakha-REGRET-1//clicsbp-wold-Sakha-REGRET-2"
     words "t æ ʔ æ sː ü f + e t m æ k//h e j i f s l æ n m æ k//h œ k ü n m e//œ k i n y w//k e m s i n//a h ɨ y"
@@ -12192,7 +12180,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1016
+    id 1015
     label "PITY"
     occurrences "clicsbp-idssegmented-azerbaijani-PITY-1//clicsbp-idssegmented-azerbaijani-PITY-2//clicsbp-idssegmented-kumyk-PITY-1//clicsbp-idssegmented-nogai-PITY-1//clicsbp-idssegmented-nogai-PITY-2//clicsbp-wold-Sakha-PITY-1"
     words "r æ h m//ʃ æ f g æ t//u a z ɨ q s ɨ n ɨ w//j a z ɨ k s ɨ l a n u w//j a z ɨ k + i j u w//a h ɨ n ɨː"
@@ -12204,7 +12192,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1017
+    id 1016
     label "TEAR (OF EYE)"
     occurrences "clicsbp-idssegmented-azerbaijani-TEAROFEYE-1//clicsbp-idssegmented-kumyk-TEAROFEYE-1//clicsbp-idssegmented-nogai-TEAROFEYE-1//clicsbp-northeuralex-tur-TEAROFEYE-1//clicsbp-northeuralex-uzn-TEAROFEYE-1//clicsbp-northeuralex-kaz-TEAROFEYE-1//clicsbp-northeuralex-bak-TEAROFEYE-1//clicsbp-northeuralex-tat-TEAROFEYE-1//clicsbp-northeuralex-chv-TEAROFEYE-1//clicsbp-wold-Sakha-TEAROFEYE-1"
     words "gʲ œ z + j a ʃ ɨ//g œ z u a ʃ//k œ z + j a s//g œ z j a ʃ ɯ//j ɒ ʃ//ʒ ɑ s//k y ð + i æ ʃ e//j a ʃ ʔ//k u ɕ u lʲ//χ a r a χ + uː t a"
@@ -12216,7 +12204,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1018
+    id 1017
     label "GROAN"
     occurrences "clicsbp-idssegmented-azerbaijani-GROAN-1//clicsbp-idssegmented-azerbaijani-GROAN-2//clicsbp-idssegmented-kumyk-GROAN-1//clicsbp-idssegmented-kumyk-GROAN-2//clicsbp-idssegmented-nogai-GROAN-1//clicsbp-northeuralex-tur-GROAN-1//clicsbp-northeuralex-uzn-GROAN-1//clicsbp-northeuralex-kaz-GROAN-1//clicsbp-northeuralex-kaz-GROAN-2//clicsbp-northeuralex-bak-GROAN-1//clicsbp-northeuralex-tat-GROAN-1//clicsbp-northeuralex-chv-GROAN-1//clicsbp-wold-Sakha-GROAN-1"
     words "i n i l d æ m æ k//z a r ɨ l d a m a g//a h ɨ lː a m a q//a h + u r m a q//ɨ ŋ ɨ r a n u w//i n l ɛ m ɛ k//n ɒ l a + q i l m ɒ q//ə ŋ ə ɾ s u//ə ŋ k ə l d ɑ u//u ŋ ɣ ɯ r a ʃ ɯ u//ɤ ŋ g ɤ r a ʃ u//j ɯ n ə ʂ//ɨ n tʃ ɨ k t aː"
@@ -12228,7 +12216,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1019
+    id 1018
     label "HATE"
     occurrences "clicsbp-idssegmented-azerbaijani-HATE-1//clicsbp-idssegmented-kumyk-HATE-1//clicsbp-idssegmented-kumyk-HATE-2//clicsbp-idssegmented-nogai-HATE-1//clicsbp-wold-Sakha-HATE-1"
     words "n i f r æ t + e t m æ k//œ ʒ e t l i + b o l m a q//k y s m e k + œ tʃ + b o l m a q//k œ r i p + b o l m a w//a b aː h ɨ + k œ r"
@@ -12240,7 +12228,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1020
+    id 1019
     label "ANGER"
     occurrences "clicsbp-idssegmented-azerbaijani-ANGER-1//clicsbp-idssegmented-azerbaijani-ANGER-2//clicsbp-idssegmented-azerbaijani-ANGER-3//clicsbp-idssegmented-kumyk-ANGER-1//clicsbp-idssegmented-kumyk-ANGER-2//clicsbp-idssegmented-nogai-ANGER-1//clicsbp-idssegmented-nogai-ANGER-2//clicsbp-wold-Sakha-ANGER-1"
     words "g æ z æ b//a dʒ ɨ g//h i r s//a tʃ u w//œ tʃ l ü k//a ʃ u w//a ʃ u w l ɨ k//u o r"
@@ -12252,7 +12240,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1021
+    id 1020
     label "ENVY"
     occurrences "clicsbp-idssegmented-azerbaijani-ENVY-1//clicsbp-idssegmented-azerbaijani-ENVY-2//clicsbp-idssegmented-kumyk-ENVY-1//clicsbp-idssegmented-kumyk-ENVY-2//clicsbp-idssegmented-nogai-ENVY-1//clicsbp-wold-Sakha-ENVY-1//clicsbp-wold-Sakha-ENVY-2"
     words "p a x ɨ lː ɨ g//g ɨ z g a n dʒ l ɨ g//g ü n tʃ ü l ü k//g ü n l e w//k ü n l e w//k y n yː//ɨ m s ɨː r ɨː"
@@ -12264,7 +12252,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1022
+    id 1021
     label "SHAME"
     occurrences "clicsbp-idssegmented-azerbaijani-SHAME-1//clicsbp-idssegmented-azerbaijani-SHAME-2//clicsbp-idssegmented-azerbaijani-SHAME-3//clicsbp-idssegmented-kumyk-SHAME-1//clicsbp-idssegmented-kumyk-SHAME-2//clicsbp-idssegmented-kumyk-SHAME-3//clicsbp-idssegmented-kumyk-SHAME-4//clicsbp-idssegmented-kumyk-SHAME-5//clicsbp-idssegmented-nogai-SHAME-1//clicsbp-wold-Sakha-SHAME-1"
     words "h æ j a//a b ɨ r//n a m u s//uː a l ɨ w//uː a t//u t a n ɨ w//i l ɨ q//a j ɨ p//u j a t//s aː t"
@@ -12276,7 +12264,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1023
+    id 1022
     label "PROUD"
     occurrences "clicsbp-idssegmented-azerbaijani-PROUD-1//clicsbp-idssegmented-azerbaijani-PROUD-2//clicsbp-idssegmented-kumyk-PROUD-1//clicsbp-idssegmented-nogai-PROUD-1//clicsbp-wold-Sakha-PROUD-1"
     words "m æ ɣ r u r//v ü g a r l ɨ//œ k t e m//œ k t e m//k i e n + t u t"
@@ -12288,7 +12276,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1024
+    id 1023
     label "DARE"
     occurrences "clicsbp-idssegmented-azerbaijani-DARE-1//clicsbp-idssegmented-azerbaijani-DARE-2//clicsbp-idssegmented-kumyk-DARE-1//clicsbp-idssegmented-nogai-DARE-1//clicsbp-wold-Sakha-DARE-1//clicsbp-wold-Sakha-DARE-2"
     words "g a tʃ a g//i gʲ i d//q o tʃː a q//j i g e r l i + ä d e m//e r + ɨ l//e r d i y"
@@ -12300,7 +12288,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1025
+    id 1024
     label "BRAVE"
     occurrences "clicsbp-idssegmented-azerbaijani-BRAVE-1//clicsbp-idssegmented-kumyk-BRAVE-1//clicsbp-idssegmented-nogai-BRAVE-1//clicsbp-idssegmented-nogai-BRAVE-2//clicsbp-wold-Sakha-BRAVE-1"
     words "dʒ æ s a r æ t l i//q o tʃː a q//j i g e r l i//t a ʃ a n m a s l ɨ k//χ o r s u n"
@@ -12312,7 +12300,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1026
+    id 1025
     label "FEAR (FRIGHT)"
     occurrences "clicsbp-idssegmented-azerbaijani-FEARFRIGHT-1//clicsbp-idssegmented-kumyk-FEARFRIGHT-1//clicsbp-idssegmented-nogai-FEARFRIGHT-1//clicsbp-wold-Sakha-FEARFRIGHT-1"
     words "g o r x u//q o r q u w//k o r k u w//k u tː a l"
@@ -12324,7 +12312,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1027
+    id 1026
     label "WANT"
     occurrences "clicsbp-idssegmented-azerbaijani-WANT-1//clicsbp-idssegmented-kumyk-WANT-1//clicsbp-idssegmented-kumyk-WANT-2//clicsbp-idssegmented-kumyk-WANT-3//clicsbp-idssegmented-nogai-WANT-3//clicsbp-idssegmented-nogai-WANT-1//clicsbp-idssegmented-nogai-WANT-2//clicsbp-northeuralex-tur-WANT-1//clicsbp-northeuralex-uzn-WANT-1//clicsbp-northeuralex-kaz-WANT-1//clicsbp-northeuralex-bak-WANT-1//clicsbp-northeuralex-tat-WANT-1//clicsbp-northeuralex-chv-WANT-1//clicsbp-wold-Sakha-WANT-1"
     words "a r z u//i ʃ t a h//k e p + g e l i w//s ü j u m//d e r t//m ɨ r a d//ü m i t//i s t ɛ m ɛ k//i s t a m ɒ q//q ɑ l ɑ u//t e l æ y//t e l æ ʉ//t ɛ//b a ɣ a r"
@@ -12336,7 +12324,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1028
+    id 1027
     label "HOPE"
     occurrences "clicsbp-idssegmented-azerbaijani-HOPE-1//clicsbp-idssegmented-kumyk-HOPE-1//clicsbp-idssegmented-kumyk-HOPE-2//clicsbp-idssegmented-nogai-HOPE-1"
     words "a r x a j ɨ n + o l m a g//u m u t + e t m e k//i n a n m a q//ü m i t + e t y w"
@@ -12348,7 +12336,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1029
+    id 1028
     label "FAITHFUL"
     occurrences "clicsbp-idssegmented-azerbaijani-FAITHFUL-1//clicsbp-idssegmented-azerbaijani-FAITHFUL-2//clicsbp-idssegmented-azerbaijani-FAITHFUL-3//clicsbp-idssegmented-kumyk-FAITHFUL-1//clicsbp-idssegmented-kumyk-FAITHFUL-2//clicsbp-idssegmented-nogai-FAITHFUL-1//clicsbp-idssegmented-nogai-FAITHFUL-2//clicsbp-idssegmented-nogai-FAITHFUL-3//clicsbp-idssegmented-nogai-FAITHFUL-4//clicsbp-wold-Sakha-FAITHFUL-1"
     words "s a d i g//d ü z gʲ ü n//s æ d a g æ t l i//i n a m l ɨ//g e r t i//a l a l//b e r i l g e n//s e n i m l i//d u r ɨ s//e r e lː eː χ"
@@ -12360,7 +12348,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1030
+    id 1029
     label "TRUE"
     occurrences "clicsbp-idssegmented-azerbaijani-TRUE-1//clicsbp-idssegmented-azerbaijani-TRUE-2//clicsbp-idssegmented-kumyk-TRUE-1//clicsbp-idssegmented-nogai-TRUE-3//clicsbp-idssegmented-nogai-TRUE-4//clicsbp-idssegmented-nogai-TRUE-1//clicsbp-idssegmented-nogai-TRUE-2//clicsbp-northeuralex-tur-TRUE-1//clicsbp-northeuralex-tur-TRUE-2//clicsbp-northeuralex-uzn-TRUE-1//clicsbp-northeuralex-kaz-TRUE-1//clicsbp-northeuralex-bak-TRUE-1//clicsbp-northeuralex-tat-TRUE-1//clicsbp-northeuralex-chv-TRUE-1//clicsbp-wold-Sakha-TRUE-1//clicsbp-savelyevturkic-Karaim-TRUE-1"
     words "i n d i k i//t a m//g e r t i//a l a l//s e n i m l i//s œ l e ʃ//ä l e ʃ//d oː ɾ u//g ɛ ɾ tʃ ɛ k//h a q i q i j//n ɑ ʁ ə z//d ø r ø θ//tɕ ɤ p tɕ ɤ n//tɕ ə n//dʒ i ŋ n eː χ//d o ɣ r u"
@@ -12372,7 +12360,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1031
+    id 1030
     label "LIE (MISLEAD)"
     occurrences "clicsbp-idssegmented-azerbaijani-LIEMISLEAD-1//clicsbp-idssegmented-kumyk-LIEMISLEAD-1//clicsbp-idssegmented-nogai-LIEMISLEAD-1//clicsbp-wold-Sakha-LIEMISLEAD-1"
     words "j a l a n + d a n ɨ ʃ m a g//u a l ɣ a n + a j t m a q//j e l g a n + a j t u w//s ɨ m ɨ y a l aː"
@@ -12384,7 +12372,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1032
+    id 1031
     label "DECEIT"
     occurrences "clicsbp-idssegmented-azerbaijani-DECEIT-1//clicsbp-idssegmented-kumyk-DECEIT-1//clicsbp-idssegmented-nogai-DECEIT-1//clicsbp-wold-Sakha-DECEIT-1"
     words "a l d a t m a g//a l d a t m a q//a l d a t u w//s ɨ m ɨ y a"
@@ -12396,7 +12384,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1033
+    id 1032
     label "FORGIVE"
     occurrences "clicsbp-idssegmented-azerbaijani-FORGIVE-1//clicsbp-idssegmented-kumyk-FORGIVE-1//clicsbp-idssegmented-nogai-FORGIVE-1//clicsbp-wold-Sakha-FORGIVE-1"
     words "b a ɣ ɨ ʃ l a m a g//g e tʃ m e k//k e ʃ y w//b ɨ r a s t ɨː + g ɨ n"
@@ -12408,7 +12396,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1034
+    id 1033
     label "GOOD"
     occurrences "clicsbp-idssegmented-azerbaijani-GOOD-1//clicsbp-idssegmented-kumyk-GOOD-1//clicsbp-idssegmented-kumyk-GOOD-2//clicsbp-idssegmented-nogai-GOOD-1//clicsbp-northeuralex-tur-GOOD-1//clicsbp-northeuralex-uzn-GOOD-1//clicsbp-northeuralex-kaz-GOOD-1//clicsbp-northeuralex-bak-GOOD-1//clicsbp-northeuralex-tat-GOOD-1//clicsbp-northeuralex-chv-GOOD-1//clicsbp-northeuralex-chv-GOOD-2//clicsbp-wold-Sakha-GOOD-1//clicsbp-wold-Sakha-GOOD-2//clicsbp-savelyevturkic-Karaim-GOOD-1"
     words "j a x ʃ ɨ//u a x ʃ ɨ//a r i w//j a x ʃ ɨ//i j i//s ɒ z//ʒ ɑ q s ə//j a q ʃ ɯ//j a x ʃ ɤ//a ʋ a n//l a j ə χ//y tʃ y g e y//y t y œ//j a χ ʃ ɯ"
@@ -12420,7 +12408,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1035
+    id 1034
     label "BAD"
     occurrences "clicsbp-idssegmented-azerbaijani-BAD-1//clicsbp-idssegmented-kumyk-BAD-1//clicsbp-idssegmented-nogai-BAD-1//clicsbp-northeuralex-tur-BAD-1//clicsbp-northeuralex-uzn-BAD-1//clicsbp-northeuralex-kaz-BAD-1//clicsbp-northeuralex-bak-BAD-1//clicsbp-northeuralex-bak-BAD-2//clicsbp-northeuralex-tat-BAD-1//clicsbp-northeuralex-chv-BAD-1//clicsbp-northeuralex-chv-BAD-2//clicsbp-wold-Sakha-BAD-1//clicsbp-wold-Sakha-BAD-2//clicsbp-savelyevturkic-Karaim-BAD-1"
     words "p i s//u a m a n//j a m a n//k œ t y//j ɒ m ɒ n//ʒ ɑ m ɑ n//x ø r t//a l a m a//n a tɕ a r//j a p ə χ//n a tɕ a r//k u h a ɣ a n//dʒ aː b ɨ//j a m a n"
@@ -12432,7 +12420,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1036
+    id 1035
     label "WRONG"
     occurrences "clicsbp-idssegmented-azerbaijani-WRONG-1//clicsbp-idssegmented-azerbaijani-WRONG-2//clicsbp-idssegmented-kumyk-WRONG-1//clicsbp-idssegmented-nogai-WRONG-1//clicsbp-wold-Sakha-WRONG-1"
     words "d ü z gʲ ü n + o l m a j a n//j a n l ɨ ʃ//t ü z + t ü g ü l//d u r ɨ s + t u w ɨ l//s ɨː h a"
@@ -12444,7 +12432,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1037
+    id 1036
     label "FAULT"
     occurrences "clicsbp-idssegmented-azerbaijani-FAULT-1//clicsbp-idssegmented-azerbaijani-FAULT-2//clicsbp-idssegmented-azerbaijani-FAULT-3//clicsbp-idssegmented-kumyk-FAULT-1//clicsbp-idssegmented-kumyk-FAULT-2//clicsbp-idssegmented-nogai-FAULT-1//clicsbp-northeuralex-tur-FAULT-1//clicsbp-northeuralex-tur-FAULT-2//clicsbp-northeuralex-uzn-FAULT-1//clicsbp-northeuralex-kaz-FAULT-1//clicsbp-northeuralex-bak-FAULT-1//clicsbp-northeuralex-tat-FAULT-1//clicsbp-northeuralex-chv-FAULT-1//clicsbp-wold-Sakha-FAULT-1"
     words "gʲ ü n a h//x a t a//t æ g s i r//b u z u q + i ʃ//a j ɨ p + i ʃ//j a ŋ ɨ l ɨ s//s u tʃ//k a b a h a t//a j b//ɑ j ə p t ə l ə q//ɣ æ j e p//g a e p//a j ə p//b u r u y"
@@ -12456,7 +12444,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1038
+    id 1037
     label "MISTAKE"
     occurrences "clicsbp-idssegmented-azerbaijani-MISTAKE-2//clicsbp-idssegmented-azerbaijani-MISTAKE-1//clicsbp-idssegmented-kumyk-MISTAKE-1//clicsbp-idssegmented-nogai-MISTAKE-1//clicsbp-northeuralex-tur-MISTAKE-1//clicsbp-northeuralex-tur-MISTAKE-2//clicsbp-northeuralex-uzn-MISTAKE-1//clicsbp-northeuralex-kaz-MISTAKE-1//clicsbp-northeuralex-kaz-MISTAKE-2//clicsbp-northeuralex-bak-MISTAKE-1//clicsbp-northeuralex-tat-MISTAKE-1//clicsbp-northeuralex-chv-MISTAKE-1//clicsbp-wold-Sakha-MISTAKE-1"
     words "x a t a//s æ h f//u a ŋ ɨ l ɨ ʃ//j a ŋ ɨ l ɨ s//h a t a//j a n l ɯ ʃ//χ a t ɒ//æ b e s//q ɑ t ɑ l ə q//x a t a//x a t a//j ə n ə ʂ//s ɨː h a"
@@ -12468,7 +12456,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1039
+    id 1038
     label "BLAME"
     occurrences "clicsbp-idssegmented-azerbaijani-BLAME-1//clicsbp-idssegmented-kumyk-BLAME-1//clicsbp-idssegmented-kumyk-BLAME-2//clicsbp-idssegmented-nogai-BLAME-1//clicsbp-wold-Sakha-BLAME-1"
     words "t æ g s i r l æ n d i r m æ k//a j ɨ p l a m a q//g ü n a h l a m a q//k ü n ä l e w//s e m e"
@@ -12480,7 +12468,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1040
+    id 1039
     label "PRAISE"
     occurrences "clicsbp-idssegmented-azerbaijani-PRAISE-1//clicsbp-idssegmented-kumyk-PRAISE-1//clicsbp-idssegmented-nogai-PRAISE-1//clicsbp-wold-Sakha-PRAISE-1"
     words "t æ r i f l æ m æ k//m a q t a m a q//m a k t a w//χ a y ɣ a l"
@@ -12492,7 +12480,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1041
+    id 1040
     label "BEAUTIFUL"
     occurrences "clicsbp-idssegmented-azerbaijani-BEAUTIFUL-1//clicsbp-idssegmented-azerbaijani-BEAUTIFUL-2//clicsbp-idssegmented-kumyk-BEAUTIFUL-1//clicsbp-idssegmented-kumyk-BEAUTIFUL-2//clicsbp-idssegmented-nogai-BEAUTIFUL-1//clicsbp-idssegmented-nogai-BEAUTIFUL-2//clicsbp-northeuralex-tur-BEAUTIFUL-1//clicsbp-northeuralex-uzn-BEAUTIFUL-1//clicsbp-northeuralex-kaz-BEAUTIFUL-1//clicsbp-northeuralex-bak-BEAUTIFUL-1//clicsbp-northeuralex-tat-BEAUTIFUL-1//clicsbp-northeuralex-chv-BEAUTIFUL-1//clicsbp-wold-Sakha-BEAUTIFUL-1//clicsbp-wold-Sakha-BEAUTIFUL-2"
     words "gʲ œ z æ l//g æ ʃ æ n gʲ//a r i w//g œ z e l//ɨ s p a j ɨ//j a r a s ɨ k//g y z ɛ l//g o z a l//s ʉ l u//m a t u r//g ʉ z æ l//i l ɛ m l ɘ//k ɨ r a h ɨ a b a y//k e r e"
@@ -12504,7 +12492,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1042
+    id 1041
     label "UGLY"
     occurrences "clicsbp-idssegmented-azerbaijani-UGLY-1//clicsbp-idssegmented-kumyk-UGLY-3//clicsbp-idssegmented-kumyk-UGLY-1//clicsbp-idssegmented-kumyk-UGLY-2//clicsbp-idssegmented-kumyk-UGLY-4//clicsbp-idssegmented-nogai-UGLY-1//clicsbp-idssegmented-nogai-UGLY-2//clicsbp-idssegmented-nogai-UGLY-3//clicsbp-wold-Sakha-UGLY-1"
     words "e j b æ dʒ æ r//i ʃ ɣ ɨ n s ɨ z//t u w m a + s a q a t//z a j ɨ p//b e k + e r ʃ i//e r ʃ i//s a k a t//z a j a l a n g a n//b y r e"
@@ -12516,7 +12504,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1043
+    id 1042
     label "CLEVER"
     occurrences "clicsbp-idssegmented-azerbaijani-CLEVER-1//clicsbp-idssegmented-azerbaijani-CLEVER-2//clicsbp-idssegmented-kumyk-CLEVER-1//clicsbp-idssegmented-nogai-CLEVER-1//clicsbp-northeuralex-tur-CLEVER-1//clicsbp-northeuralex-tur-CLEVER-2//clicsbp-northeuralex-uzn-CLEVER-1//clicsbp-northeuralex-kaz-CLEVER-1//clicsbp-northeuralex-kaz-CLEVER-2//clicsbp-northeuralex-bak-CLEVER-1//clicsbp-northeuralex-tat-CLEVER-1//clicsbp-northeuralex-chv-CLEVER-1//clicsbp-wold-Sakha-CLEVER-1"
     words "a ɣ ɨ lː ɨ//z æ k a l ɨ//h a q ɨ lː ɨ//a k ɨ lː ɨ//z ɛ k iː//a k ɯ lː ɯ//ɒ q i l//ʒ e t ə k//ɑ q ə l d ə//a q ɯ l l ɯ//a q ɤ l l ɤ//ə s l ə//œ y d œː χ"
@@ -12528,7 +12516,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1044
+    id 1043
     label "MIND"
     occurrences "clicsbp-idssegmented-azerbaijani-MIND-1//clicsbp-idssegmented-azerbaijani-MIND-2//clicsbp-idssegmented-kumyk-MIND-1//clicsbp-idssegmented-nogai-MIND-1//clicsbp-northeuralex-tur-MIND-1//clicsbp-northeuralex-uzn-MIND-1//clicsbp-northeuralex-kaz-MIND-1//clicsbp-northeuralex-kaz-MIND-2//clicsbp-northeuralex-bak-MIND-1//clicsbp-northeuralex-tat-MIND-1//clicsbp-northeuralex-chv-MIND-1//clicsbp-northeuralex-chv-MIND-2//clicsbp-northeuralex-chv-MIND-3//clicsbp-wold-Sakha-MIND-1"
     words "a ɣ ɨ l//d æ rː a k æ//h a q ɨ l//a k ɨ l//z ɛ k aː//a q l//ɑ q ə l//p ɑ ɾ ɑ s ɑ t//a q ɯ l//a q ɤ l//ə s//ə s t ə n//ə s χ a k ə l//œ y"
@@ -12540,7 +12528,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1045
+    id 1044
     label "THINK (REFLECT)"
     occurrences "clicsbp-idssegmented-azerbaijani-THINKREFLECT-1//clicsbp-idssegmented-kumyk-THINKREFLECT-1//clicsbp-idssegmented-nogai-THINKREFLECT-1//clicsbp-northeuralex-tur-THINKREFLECT-1//clicsbp-northeuralex-uzn-THINKREFLECT-1//clicsbp-northeuralex-kaz-THINKREFLECT-1//clicsbp-northeuralex-bak-THINKREFLECT-1//clicsbp-northeuralex-tat-THINKREFLECT-1//clicsbp-northeuralex-chv-THINKREFLECT-1//clicsbp-wold-Sakha-THINKREFLECT-1//clicsbp-wold-Sakha-THINKREFLECT-2"
     words "d ü ʃ ü n m æ k//o j l a ʃ m a q//o j l a w//d y ʃ y n m ɛ k//o j l a m ɒ q//o j l ɑ u//u j l au//u j l au//ʂ u χ ə ʂ l a//s a n aː//t o l k u y d aː"
@@ -12552,7 +12540,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1046
+    id 1045
     label "BELIEVE"
     occurrences "clicsbp-idssegmented-azerbaijani-BELIEVE-1//clicsbp-idssegmented-azerbaijani-BELIEVE-2//clicsbp-idssegmented-kumyk-BELIEVE-1//clicsbp-idssegmented-nogai-BELIEVE-1//clicsbp-northeuralex-tur-BELIEVE-1//clicsbp-northeuralex-tur-BELIEVE-2//clicsbp-northeuralex-uzn-BELIEVE-1//clicsbp-northeuralex-kaz-BELIEVE-1//clicsbp-northeuralex-kaz-BELIEVE-2//clicsbp-northeuralex-bak-BELIEVE-1//clicsbp-northeuralex-tat-BELIEVE-1//clicsbp-northeuralex-chv-BELIEVE-1//clicsbp-wold-Sakha-BELIEVE-1"
     words "i n a n m a g//j e + t i b a r + e t m æ k//i n a n m a q//ɨ n a n u w//i n a n m a k//z a nː ɛ t m ɛ k//i ʃ ɒ n m ɒ q//n ɑ n u//ɪ j l ɑ n u//ɯ ʃ a n ɯ u//i n a n u//ɘ n ɛ n//i t e ɣ e y"
@@ -12564,7 +12552,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1047
+    id 1046
     label "UNDERSTAND"
     occurrences "clicsbp-idssegmented-azerbaijani-UNDERSTAND-1//clicsbp-idssegmented-azerbaijani-UNDERSTAND-2//clicsbp-idssegmented-azerbaijani-UNDERSTAND-3//clicsbp-idssegmented-kumyk-UNDERSTAND-1//clicsbp-idssegmented-nogai-UNDERSTAND-1//clicsbp-northeuralex-tur-UNDERSTAND-1//clicsbp-northeuralex-tur-UNDERSTAND-2//clicsbp-northeuralex-uzn-UNDERSTAND-1//clicsbp-northeuralex-kaz-UNDERSTAND-1//clicsbp-northeuralex-kaz-UNDERSTAND-2//clicsbp-northeuralex-bak-UNDERSTAND-1//clicsbp-northeuralex-tat-UNDERSTAND-1//clicsbp-northeuralex-tat-UNDERSTAND-2//clicsbp-northeuralex-chv-UNDERSTAND-1//clicsbp-wold-Sakha-UNDERSTAND-1"
     words "a n l a m a g//g a n m a g//b a ʃ a + d ü ʃ m æ k//a ŋ l a m a q//a ŋ l a w//d u j m a k//a n l a m a k//a ŋ l a m ɒ q//p ɑ j ə m//t ʊ s ə n u//a ŋ l au//a ŋ l au//t œ ʃ e n ʉ//p ɘ l//œ y d œː"
@@ -12576,7 +12564,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1048
+    id 1047
     label "KNOW (SOMETHING)"
     occurrences "clicsbp-idssegmented-azerbaijani-KNOWSOMETHING-1//clicsbp-idssegmented-azerbaijani-KNOWSOMETHING-2//clicsbp-idssegmented-kumyk-KNOWSOMETHING-1//clicsbp-idssegmented-nogai-KNOWSOMETHING-1//clicsbp-northeuralex-tur-KNOWSOMETHING-1//clicsbp-northeuralex-uzn-KNOWSOMETHING-1//clicsbp-northeuralex-kaz-KNOWSOMETHING-1//clicsbp-northeuralex-bak-KNOWSOMETHING-1//clicsbp-northeuralex-tat-KNOWSOMETHING-1//clicsbp-northeuralex-chv-KNOWSOMETHING-1//clicsbp-northeuralex-chv-KNOWSOMETHING-2//clicsbp-wold-Sakha-KNOWSOMETHING-1//clicsbp-savelyevturkic-Karaim-KNOWSOMETHING-1"
     words "b i l m æ k//t a n ɨ m a g//b i l m e k//b i l y w//b i l m ɛ k//b i l m ɒ q//x ɑ b ɑ ɾ d ɑ ɾ + b o l u//b e l e y//b e l ʉ//p ɘ l//ə n k a r//b i l//b i l"
@@ -12588,7 +12576,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1049
+    id 1048
     label "LEARN"
     occurrences "clicsbp-idssegmented-azerbaijani-LEARN-1//clicsbp-idssegmented-azerbaijani-LEARN-2//clicsbp-idssegmented-kumyk-LEARN-1//clicsbp-idssegmented-kumyk-LEARN-2//clicsbp-idssegmented-nogai-LEARN-1//clicsbp-idssegmented-nogai-LEARN-2//clicsbp-northeuralex-tur-LEARN-1//clicsbp-northeuralex-uzn-LEARN-1//clicsbp-northeuralex-kaz-LEARN-1//clicsbp-northeuralex-bak-LEARN-1//clicsbp-northeuralex-tat-LEARN-1//clicsbp-northeuralex-tat-LEARN-2//clicsbp-northeuralex-chv-LEARN-1//clicsbp-wold-Sakha-LEARN-1"
     words "t a n ɨ m a g//œ j r æ n m æ k//b i l m e k//o x u m a q//b i l y w//o k u w//œ j ɾ ɛ n m ɛ k//o q i m ɒ q//o q u//ø j r æ n e y//u q u//œ j r æ n ʉ//ʋ ɘ r ɛ n//y œ r e n"
@@ -12600,7 +12588,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1050
+    id 1049
     label "ADMIT"
     occurrences "clicsbp-idssegmented-azerbaijani-ADMIT-1//clicsbp-idssegmented-azerbaijani-ADMIT-2//clicsbp-idssegmented-kumyk-ADMIT-1//clicsbp-idssegmented-nogai-ADMIT-1//clicsbp-wold-Sakha-ADMIT-1"
     words "t a n ɨ m a g//s a j ɨ l m a g//m ü k ü r + b o l m a q//a ʃ ɨ k + b o l u w//b i l i n"
@@ -12612,7 +12600,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1051
+    id 1050
     label "GUESS"
     occurrences "clicsbp-idssegmented-azerbaijani-GUESS-1//clicsbp-idssegmented-kumyk-GUESS-1//clicsbp-idssegmented-nogai-GUESS-1//clicsbp-idssegmented-nogai-GUESS-2//clicsbp-wold-Sakha-GUESS-1"
     words "gʲ ü m a n + e t m æ k//œ r a m a q//o j l a w//j o r a w//t aː y"
@@ -12624,7 +12612,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1052
+    id 1051
     label "IMITATE"
     occurrences "clicsbp-idssegmented-azerbaijani-IMITATE-1//clicsbp-idssegmented-azerbaijani-IMITATE-2//clicsbp-idssegmented-kumyk-IMITATE-1//clicsbp-wold-Sakha-IMITATE-1"
     words "o x ʃ a t m a g//b æ n z æ t m æ k//l a p + o ʃ a t m a q//y t y g y n"
@@ -12636,7 +12624,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1053
+    id 1052
     label "SEEM"
     occurrences "clicsbp-idssegmented-azerbaijani-SEEM-1//clicsbp-idssegmented-azerbaijani-SEEM-2//clicsbp-idssegmented-kumyk-SEEM-1//clicsbp-idssegmented-nogai-SEEM-1//clicsbp-northeuralex-tur-SEEM-1//clicsbp-northeuralex-uzn-SEEM-1//clicsbp-northeuralex-kaz-SEEM-1//clicsbp-northeuralex-bak-SEEM-1//clicsbp-northeuralex-bak-SEEM-2//clicsbp-northeuralex-tat-SEEM-1//clicsbp-northeuralex-chv-SEEM-1//clicsbp-wold-Sakha-SEEM-1"
     words "gʲ œ r s æ n m æ k//gʲ œ r ü n m æ k//b o l u p + g œ r ü n m e k//b o l ɨ p + k œ r i n y w//g œ ɾ y n m ɛ k//t u j i l m ɒ q//b o l ə p + k ø ɾ ə n u//k e ye k + k y r e n e y//t o j o l ou//k ʉ r e n ʉ//t u j ə n//b ɨ h ɨː l aː χ"
@@ -12648,7 +12636,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1054
+    id 1053
     label "IDEA"
     occurrences "clicsbp-idssegmented-azerbaijani-IDEA-1//clicsbp-idssegmented-azerbaijani-IDEA-2//clicsbp-idssegmented-azerbaijani-IDEA-3//clicsbp-idssegmented-kumyk-IDEA-1//clicsbp-idssegmented-kumyk-IDEA-2//clicsbp-idssegmented-kumyk-IDEA-3//clicsbp-idssegmented-kumyk-IDEA-4//clicsbp-idssegmented-kumyk-IDEA-5//clicsbp-idssegmented-nogai-IDEA-3//clicsbp-idssegmented-nogai-IDEA-1//clicsbp-idssegmented-nogai-IDEA-2//clicsbp-idssegmented-nogai-IDEA-4//clicsbp-wold-Sakha-IDEA-1"
     words "i d e j a//æ g i d æ//a n l a j ɨ ʃ//o j//p i k r u//m u r a t//a ŋ l a w//t ü ʃ ü n y w//a ŋ l a w//i d e j a//o j//t y s i n y w//s a n aː"
@@ -12660,7 +12648,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1055
+    id 1054
     label "WISE"
     occurrences "clicsbp-idssegmented-azerbaijani-WISE-1//clicsbp-idssegmented-azerbaijani-WISE-2//clicsbp-idssegmented-kumyk-WISE-1//clicsbp-idssegmented-kumyk-WISE-2//clicsbp-idssegmented-nogai-WISE-1//clicsbp-wold-Sakha-WISE-1//clicsbp-wold-Sakha-WISE-2"
     words "m ü d r i k//a l i m//t e r e n + h a q ɨ lː ɨ//u lː u + b i l i m l i//t e r e ŋ + a k ɨ lː ɨ//œ y d œː χ//m uː d a r a y"
@@ -12672,7 +12660,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1056
+    id 1055
     label "STUPID"
     occurrences "clicsbp-idssegmented-azerbaijani-STUPID-1//clicsbp-idssegmented-azerbaijani-STUPID-2//clicsbp-idssegmented-kumyk-STUPID-1//clicsbp-idssegmented-kumyk-STUPID-2//clicsbp-idssegmented-kumyk-STUPID-3//clicsbp-idssegmented-nogai-STUPID-3//clicsbp-idssegmented-nogai-STUPID-1//clicsbp-idssegmented-nogai-STUPID-2//clicsbp-northeuralex-tur-STUPID-1//clicsbp-northeuralex-uzn-STUPID-1//clicsbp-northeuralex-kaz-STUPID-1//clicsbp-northeuralex-kaz-STUPID-2//clicsbp-northeuralex-kaz-STUPID-3//clicsbp-northeuralex-bak-STUPID-1//clicsbp-northeuralex-tat-STUPID-1//clicsbp-northeuralex-chv-STUPID-1//clicsbp-wold-Sakha-STUPID-1"
     words "s a r s a g//gʲ i dʒ//h a j g e w//a w l i u a//a h m a q//a k m a k//a k ɨ l s ɨ z//a ŋ k a w//a p t a l//a q l s i z//k ø k m ɪ j//ɑ q ə m ɑ q//m ɪ j ə + ʒ o q//i θ æ r//a q ɤ l s ɤ z//u χ m a χ//a k aː r ɨ"
@@ -12684,7 +12672,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1057
+    id 1056
     label "MAD"
     occurrences "clicsbp-idssegmented-azerbaijani-MAD-1//clicsbp-idssegmented-azerbaijani-MAD-2//clicsbp-idssegmented-kumyk-MAD-1//clicsbp-idssegmented-kumyk-MAD-2//clicsbp-idssegmented-kumyk-MAD-3//clicsbp-idssegmented-kumyk-MAD-4//clicsbp-idssegmented-kumyk-MAD-5//clicsbp-idssegmented-nogai-MAD-1//clicsbp-wold-Sakha-MAD-1"
     words "d æ l i//a ɣ ɨ l s ɨ z//o j s u z//h a q ɨ l s ɨ z//d e l i//d u w a n a//t e m t e k//a k ɨ l s ɨ z//iː r eː k i"
@@ -12696,7 +12684,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1058
+    id 1057
     label "STUDY"
     occurrences "clicsbp-idssegmented-azerbaijani-STUDY-1//clicsbp-idssegmented-kumyk-STUDY-1//clicsbp-idssegmented-kumyk-STUDY-2//clicsbp-idssegmented-nogai-STUDY-1//clicsbp-idssegmented-nogai-STUDY-2//clicsbp-wold-Sakha-STUDY-1"
     words "œ j r æ n m æ k//o x u m a q//a x t a r m a q//o k u w//ü j r e n y w//y œ r e n"
@@ -12708,7 +12696,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1059
+    id 1058
     label "TEACH"
     occurrences "clicsbp-idssegmented-azerbaijani-TEACH-1//clicsbp-idssegmented-kumyk-TEACH-1//clicsbp-idssegmented-nogai-TEACH-1//clicsbp-idssegmented-nogai-TEACH-2//clicsbp-idssegmented-nogai-TEACH-3//clicsbp-northeuralex-tur-TEACH-1//clicsbp-northeuralex-tur-TEACH-2//clicsbp-northeuralex-uzn-TEACH-1//clicsbp-northeuralex-kaz-TEACH-1//clicsbp-northeuralex-bak-TEACH-1//clicsbp-northeuralex-bak-TEACH-2//clicsbp-northeuralex-tat-TEACH-1//clicsbp-northeuralex-chv-TEACH-1//clicsbp-wold-Sakha-TEACH-1"
     words "œ j r æ t m æ k//o x u t m a q//o k u w//o k ɨ t u w//ü j r e t y w//o k u t m a k//œ j ɾ ɛ t m ɛ k//o r g a t m ɒ q//o q ə t u//u q ɯ t ɯ u//ø j r æ t e y//œ j r æ t ʉ//ʋʲ o r ɛ n t//y œ r e t"
@@ -12720,7 +12708,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1060
+    id 1059
     label "PUPIL (STUDENT)"
     occurrences "clicsbp-idssegmented-azerbaijani-PUPILSTUDENT-1//clicsbp-idssegmented-kumyk-PUPILSTUDENT-1//clicsbp-idssegmented-nogai-PUPILSTUDENT-1//clicsbp-wold-Sakha-PUPILSTUDENT-1"
     words "ʃ a gʲ i r d//o x u w tʃ u//o k u w ʃ ɨ//y œ r e n eː tʃː i"
@@ -12732,7 +12720,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1061
+    id 1060
     label "TEACHER"
     occurrences "clicsbp-idssegmented-azerbaijani-TEACHER-1//clicsbp-idssegmented-kumyk-TEACHER-1//clicsbp-idssegmented-kumyk-TEACHER-2//clicsbp-idssegmented-nogai-TEACHER-1//clicsbp-northeuralex-tur-TEACHER-1//clicsbp-northeuralex-tur-TEACHER-2//clicsbp-northeuralex-uzn-TEACHER-1//clicsbp-northeuralex-kaz-TEACHER-1//clicsbp-northeuralex-bak-TEACHER-1//clicsbp-northeuralex-tat-TEACHER-1//clicsbp-northeuralex-tat-TEACHER-2//clicsbp-northeuralex-chv-TEACHER-1//clicsbp-northeuralex-chv-TEACHER-2//clicsbp-wold-Sakha-TEACHER-1//clicsbp-wold-Sakha-TEACHER-2"
     words "m ü æ lː i m//o x u t u w tʃ u//m u a lː i m//o k ɨ t u w ʃ ɨ//h o dʒ a//œ j ɾ ɛ t m ɛ n//m ua lː i m//m ʉ ʁ ɑ l ə m//u q ɯ t ɯ u s ɯ//u q ɤ t u tɕ ɤ//m œ g a l l i m//u tɕ i t ɛ lʲ//ʋ ɘ r ɛ n t ɛ k ɛ n//u tʃ uː t a l//y œ r e t eː tʃː i"
@@ -12744,7 +12732,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1062
+    id 1061
     label "SCHOOL"
     occurrences "clicsbp-idssegmented-azerbaijani-SCHOOL-1//clicsbp-idssegmented-kumyk-SCHOOL-1//clicsbp-idssegmented-kumyk-SCHOOL-2//clicsbp-idssegmented-nogai-SCHOOL-1//clicsbp-wold-Sakha-SCHOOL-1"
     words "m æ k t æ b//ʃ k o l a//m a k t a p//m e k t e b//o s k u o l a"
@@ -12756,7 +12744,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1063
+    id 1062
     label "REMEMBER"
     occurrences "clicsbp-idssegmented-azerbaijani-REMEMBER-1//clicsbp-idssegmented-kumyk-REMEMBER-1//clicsbp-idssegmented-nogai-REMEMBER-1//clicsbp-northeuralex-tur-REMEMBER-1//clicsbp-northeuralex-uzn-REMEMBER-1//clicsbp-northeuralex-kaz-REMEMBER-1//clicsbp-northeuralex-bak-REMEMBER-1//clicsbp-northeuralex-tat-REMEMBER-1//clicsbp-northeuralex-chv-REMEMBER-1//clicsbp-wold-Sakha-REMEMBER-1"
     words "j a dː a + s a x l a m a g//e s i n d e + s a q l a m a q//e s t e + s a k l a w//h a t ɯ ɾ l a m a k//æ s n i + t a n i m ɒ q//e s k e + t ʊ s ə ɾ u//x æ t e r g æ + a l ɯ u//x æ t e r l æ ʉ//a s a + i l//œ y d œː"
@@ -12768,7 +12756,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1064
+    id 1063
     label "FORGET"
     occurrences "clicsbp-idssegmented-azerbaijani-FORGET-1//clicsbp-idssegmented-kumyk-FORGET-1//clicsbp-idssegmented-nogai-FORGET-1//clicsbp-northeuralex-tur-FORGET-1//clicsbp-northeuralex-uzn-FORGET-1//clicsbp-northeuralex-kaz-FORGET-1//clicsbp-northeuralex-bak-FORGET-1//clicsbp-northeuralex-tat-FORGET-1//clicsbp-northeuralex-chv-FORGET-1//clicsbp-northeuralex-chv-FORGET-2//clicsbp-wold-Sakha-FORGET-1"
     words "u n u t m a g//u n u t m a q//m u t u w//u n u t m a k//u n u t m ɒ q//ʉ m ə t u//o n o t ou//o n ɤ t u//m a n//m a n s a + k a j//u m u n"
@@ -12780,7 +12768,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1065
+    id 1064
     label "CLEAR"
     occurrences "clicsbp-idssegmented-azerbaijani-CLEAR-1//clicsbp-idssegmented-kumyk-CLEAR-1//clicsbp-idssegmented-nogai-CLEAR-2//clicsbp-idssegmented-nogai-CLEAR-1//clicsbp-idssegmented-nogai-CLEAR-3//clicsbp-wold-Sakha-CLEAR-1//clicsbp-wold-Sakha-CLEAR-2"
     words "a j d ɨ n//a ŋ l a ʃ ɨ n a ɣ a n//t a z a//a ʃ ɨ k//a ŋ l a n ɨ s l ɨ//dʒ e ŋ k e//tʃ u o l k a y"
@@ -12792,7 +12780,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1066
+    id 1065
     label "OBSCURE"
     occurrences "clicsbp-idssegmented-azerbaijani-OBSCURE-1//clicsbp-idssegmented-kumyk-OBSCURE-1//clicsbp-idssegmented-nogai-OBSCURE-1//clicsbp-idssegmented-nogai-OBSCURE-2//clicsbp-idssegmented-nogai-OBSCURE-3//clicsbp-wold-Sakha-OBSCURE-1"
     words "a n l a ʃ ɨ l m a j a n//a ŋ l a ʃ ɨ n m a j ɣ a n//a ŋ l a w s ɨ z//a ŋ l a p + b o l m a j t a g a n//a ʃ ɨ k + b o l m a g a n//m u n aː χ"
@@ -12804,7 +12792,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1067
+    id 1066
     label "SECRET"
     occurrences "clicsbp-idssegmented-azerbaijani-SECRET-1//clicsbp-idssegmented-kumyk-SECRET-1//clicsbp-idssegmented-kumyk-SECRET-2//clicsbp-idssegmented-nogai-SECRET-1//clicsbp-idssegmented-nogai-SECRET-2//clicsbp-wold-Sakha-SECRET-1"
     words "s i rː//s ɨ r//u a ʃ ɨ r t ɣ ɨ n l ɨ q//s ɨ r//j a s ɨ r t ɨ n//k i s t e l e ŋ"
@@ -12816,7 +12804,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1068
+    id 1067
     label "CERTAIN"
     occurrences "clicsbp-idssegmented-azerbaijani-CERTAIN-1//clicsbp-idssegmented-kumyk-CERTAIN-2//clicsbp-idssegmented-kumyk-CERTAIN-1//clicsbp-idssegmented-kumyk-CERTAIN-3//clicsbp-idssegmented-kumyk-CERTAIN-4//clicsbp-idssegmented-nogai-CERTAIN-1//clicsbp-idssegmented-nogai-CERTAIN-3//clicsbp-idssegmented-nogai-CERTAIN-2//clicsbp-idssegmented-nogai-CERTAIN-4//clicsbp-wold-Sakha-CERTAIN-1"
     words "i n a n d ɨ r ɨ l m ɨ ʃ//q a t ɨ//i n a m l ɨ//t o q t a ʃ ɣ a n//a r q a j ɨ n//k a t ɨ//s e n i m l i//b e r k//ɨ n a n ɨ m l ɨ//s aː r b a ɣ a + s u o χ"
@@ -12828,7 +12816,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1069
+    id 1068
     label "EXPLAIN"
     occurrences "clicsbp-idssegmented-azerbaijani-EXPLAIN-1//clicsbp-idssegmented-azerbaijani-EXPLAIN-2//clicsbp-idssegmented-kumyk-EXPLAIN-1//clicsbp-idssegmented-nogai-EXPLAIN-1//clicsbp-wold-Sakha-EXPLAIN-1"
     words "a n l a t m a g//i z a h + e t m æ k//a ŋ l a t m a q//a ŋ l a t u w//b ɨ h aː r"
@@ -12840,7 +12828,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1070
+    id 1069
     label "INTENTION"
     occurrences "clicsbp-idssegmented-azerbaijani-INTENTION-1//clicsbp-idssegmented-azerbaijani-INTENTION-2//clicsbp-idssegmented-azerbaijani-INTENTION-3//clicsbp-idssegmented-kumyk-INTENTION-2//clicsbp-idssegmented-kumyk-INTENTION-1//clicsbp-idssegmented-nogai-INTENTION-1//clicsbp-idssegmented-nogai-INTENTION-2//clicsbp-wold-Sakha-INTENTION-1//clicsbp-wold-Sakha-INTENTION-2"
     words "n i yː æ t//m æ g s æ d//h æ d æ f//m u r a t//x ɨ u a l//m ɨ r a d//d ä m e//s ɨ a l//s o r u k"
@@ -12852,7 +12840,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1071
+    id 1070
     label "CAUSE"
     occurrences "clicsbp-idssegmented-azerbaijani-CAUSE-1//clicsbp-idssegmented-kumyk-CAUSE-1//clicsbp-idssegmented-nogai-CAUSE-1//clicsbp-wold-Sakha-CAUSE-1//clicsbp-wold-Sakha-CAUSE-2"
     words "s æ b æ b//s e b e p//s e b e p//t œ r y œ t//s ɨ l t a χ"
@@ -12864,7 +12852,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1072
+    id 1071
     label "DOUBT"
     occurrences "clicsbp-idssegmented-azerbaijani-DOUBT-1//clicsbp-idssegmented-kumyk-DOUBT-1//clicsbp-idssegmented-nogai-DOUBT-1//clicsbp-idssegmented-nogai-DOUBT-2//clicsbp-idssegmented-nogai-DOUBT-3//clicsbp-wold-Sakha-DOUBT-1//clicsbp-wold-Sakha-DOUBT-2"
     words "ʃ ü bʰ æ//ʃ e k l i k//ʃ e k l e n y w//s e n m e w//ɨ n a n m a w//m u n aː χ s ɨ y ɨː//s aː r b a χ"
@@ -12876,7 +12864,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1073
+    id 1072
     label "SUSPECT"
     occurrences "clicsbp-idssegmented-azerbaijani-SUSPECT-1//clicsbp-idssegmented-kumyk-SUSPECT-1//clicsbp-idssegmented-kumyk-SUSPECT-2//clicsbp-idssegmented-nogai-SUSPECT-2//clicsbp-idssegmented-nogai-SUSPECT-1//clicsbp-wold-Sakha-SUSPECT-1//clicsbp-wold-Sakha-SUSPECT-2"
     words "ʃ ü bʰ æ l æ n m æ k//ʃ e k l e n m e k//j o r a m a q//s a n a w//ʃ e k l e n y w//u o r b a l aː//k y t y r eː"
@@ -12888,7 +12876,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1074
+    id 1073
     label "NEED (NOUN)"
     occurrences "clicsbp-idssegmented-azerbaijani-NEEDNOUN-1//clicsbp-idssegmented-azerbaijani-NEEDNOUN-2//clicsbp-idssegmented-kumyk-NEEDNOUN-1//clicsbp-idssegmented-kumyk-NEEDNOUN-2//clicsbp-idssegmented-kumyk-NEEDNOUN-3//clicsbp-idssegmented-nogai-NEEDNOUN-1//clicsbp-idssegmented-nogai-NEEDNOUN-2//clicsbp-wold-Sakha-NEEDNOUN-1"
     words "l ü z u m//e h t i j a dʒ//t a r ɨ q l ɨ l ɨ q//g e r e k l i l i k//h a ʒ a t l ɨ l ɨ q//k e r e k l i k//a m a l s ɨ z//k ɨ h a l ɣ a"
@@ -12900,7 +12888,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1075
+    id 1074
     label "DIFFICULT"
     occurrences "clicsbp-idssegmented-azerbaijani-DIFFICULT-1//clicsbp-idssegmented-kumyk-DIFFICULT-1//clicsbp-idssegmented-nogai-DIFFICULT-1//clicsbp-idssegmented-nogai-DIFFICULT-2//clicsbp-wold-Sakha-DIFFICULT-1"
     words "tʃ æ t i n//q ɨ j ɨ n//a w ɨ r//k ɨ j ɨ n//ɨ a r a χ a n"
@@ -12912,7 +12900,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1076
+    id 1075
     label "TRY"
     occurrences "clicsbp-idssegmented-azerbaijani-TRY-1//clicsbp-idssegmented-kumyk-TRY-1//clicsbp-idssegmented-kumyk-TRY-2//clicsbp-idssegmented-kumyk-TRY-3//clicsbp-idssegmented-nogai-TRY-1//clicsbp-idssegmented-nogai-TRY-2//clicsbp-northeuralex-tur-TRY-1//clicsbp-northeuralex-uzn-TRY-1//clicsbp-northeuralex-kaz-TRY-1//clicsbp-northeuralex-bak-TRY-1//clicsbp-northeuralex-tat-TRY-1//clicsbp-northeuralex-chv-TRY-1//clicsbp-wold-Sakha-TRY-1"
     words "tʃ a l ɨ ʃ m a g//q a s t//s ɨ n a w//u r u n u p + q a r a w//ʃ a l ɨ s ɨ p k a r a w//s ɨ n a p + k a r a w//d ɛ n ɛ m ɛ k//tʃ a l i ʃ m ɒ q//t ɑ l p ə n u//t ɯ r ɯ ʃ ɯ p + q a r au//m a t a ʃ u//p i k ɛ n//a + s a t aː"
@@ -12924,7 +12912,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1077
+    id 1076
     label "MANNER"
     occurrences "clicsbp-idssegmented-azerbaijani-MANNER-1//clicsbp-idssegmented-azerbaijani-MANNER-2//clicsbp-idssegmented-kumyk-MANNER-1//clicsbp-idssegmented-kumyk-MANNER-2//clicsbp-idssegmented-nogai-MANNER-1//clicsbp-idssegmented-nogai-MANNER-2//clicsbp-wold-Sakha-MANNER-1"
     words "y s u l//g a j d a//k ü j//q a j d a//a m a l//s p o s o b//ɲ ɨ m a"
@@ -12936,7 +12924,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1078
+    id 1077
     label "CUSTOM"
     occurrences "clicsbp-idssegmented-azerbaijani-CUSTOM-2//clicsbp-idssegmented-azerbaijani-CUSTOM-1//clicsbp-idssegmented-kumyk-CUSTOM-1//clicsbp-idssegmented-nogai-CUSTOM-1//clicsbp-wold-Sakha-CUSTOM-1"
     words "g a j d a//a d æ t//a d a t//ä d e t//y g e s"
@@ -12948,7 +12936,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1079
+    id 1078
     label "AND"
     occurrences "clicsbp-idssegmented-azerbaijani-AND-1//clicsbp-idssegmented-kumyk-AND-1//clicsbp-idssegmented-nogai-AND-1//clicsbp-northeuralex-tur-AND-1//clicsbp-northeuralex-tur-AND-2//clicsbp-northeuralex-uzn-AND-1//clicsbp-northeuralex-kaz-AND-1//clicsbp-northeuralex-bak-AND-1//clicsbp-northeuralex-tat-AND-1//clicsbp-northeuralex-chv-AND-1//clicsbp-wold-Sakha-AND-1"
     words "v æ//w a//e m//v ɛ//i l ɛ//w a//t ɑ//d a//w æ//t a//u o nː a"
@@ -12960,7 +12948,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1080
+    id 1079
     label "BECAUSE"
     occurrences "clicsbp-idssegmented-azerbaijani-BECAUSE-1//clicsbp-idssegmented-azerbaijani-BECAUSE-2//clicsbp-idssegmented-kumyk-BECAUSE-1//clicsbp-idssegmented-nogai-BECAUSE-1"
     words "tʃ ü n k i//o n a + gʲ œ r æ//n e g e + t ü g ü l//n e g e + d e s e"
@@ -12972,7 +12960,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1081
+    id 1080
     label "IF"
     occurrences "clicsbp-idssegmented-azerbaijani-IF-1//clicsbp-idssegmented-kumyk-IF-1//clicsbp-idssegmented-nogai-IF-1//clicsbp-wold-Sakha-IF-1"
     words "æ gʲ æ r//e g e r//e g e r//b u o lː a r"
@@ -12984,7 +12972,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1082
+    id 1081
     label "OR"
     occurrences "clicsbp-idssegmented-azerbaijani-OR-1//clicsbp-idssegmented-azerbaijani-OR-2//clicsbp-idssegmented-azerbaijani-OR-3//clicsbp-idssegmented-kumyk-OR-1//clicsbp-idssegmented-nogai-OR-1//clicsbp-northeuralex-tur-OR-1//clicsbp-northeuralex-tur-OR-2//clicsbp-northeuralex-uzn-OR-1//clicsbp-northeuralex-kaz-OR-1//clicsbp-northeuralex-kaz-OR-2//clicsbp-northeuralex-bak-OR-1//clicsbp-northeuralex-tat-OR-1//clicsbp-northeuralex-tat-OR-2//clicsbp-northeuralex-chv-OR-1//clicsbp-wold-Sakha-OR-1//clicsbp-wold-Sakha-OR-2"
     words "j a//j a + d a//j a x u d//u a d a//j a d e//j a//j a h u t//j ɒ//æ l d e//n e m e s e//j æ k i//j a k i//j a i s æ//ɛ//d uː + d uː//e b e t e r"
@@ -12996,7 +12984,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1083
+    id 1082
     label "YES"
     occurrences "clicsbp-idssegmented-azerbaijani-YES-1//clicsbp-idssegmented-kumyk-YES-1//clicsbp-idssegmented-nogai-YES-3//clicsbp-idssegmented-nogai-YES-5//clicsbp-idssegmented-nogai-YES-4//clicsbp-idssegmented-nogai-YES-1//clicsbp-idssegmented-nogai-YES-2"
     words "b æ l i//d ü r//a g a//e m//d u r ɨ s//a ʃ e//a ʃ i"
@@ -13008,7 +12996,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1084
+    id 1083
     label "NO"
     occurrences "clicsbp-idssegmented-azerbaijani-NO-1//clicsbp-idssegmented-azerbaijani-NO-2//clicsbp-idssegmented-kumyk-NO-1//clicsbp-idssegmented-kumyk-NO-2//clicsbp-idssegmented-nogai-NO-1//clicsbp-idssegmented-nogai-NO-2//clicsbp-wold-Sakha-NO-1"
     words "x e j r//j o x//t ü g ü l//j o q//j o k//t u w ɨ l//s u o χ"
@@ -13020,7 +13008,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1085
+    id 1084
     label "HOW"
     occurrences "clicsbp-idssegmented-azerbaijani-HOW-1//clicsbp-idssegmented-kumyk-HOW-1//clicsbp-idssegmented-nogai-HOW-1//clicsbp-idssegmented-nogai-HOW-2//clicsbp-northeuralex-tur-HOW-1//clicsbp-northeuralex-uzn-HOW-1//clicsbp-northeuralex-kaz-HOW-1//clicsbp-northeuralex-bak-HOW-1//clicsbp-northeuralex-tat-HOW-1//clicsbp-northeuralex-chv-HOW-1//clicsbp-northeuralex-chv-HOW-2//clicsbp-wold-Sakha-HOW-1//clicsbp-savelyevturkic-Karaim-HOW-1"
     words "n e dʒ æ//n e tʃ i k//k a l a j//n e ʃ i k//n a s ɯ l//q a n d a j//k ɑ l ɑ j//i n i d æ j//n i tɕ e k//ɛ p l ɛ//m ɘ n l ɛ//χ a y d a χ//n e tɕ i k"
@@ -13032,7 +13020,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1086
+    id 1085
     label "HOW MANY PIECES"
     occurrences "clicsbp-idssegmented-azerbaijani-HOWMANYPIECES-1//clicsbp-idssegmented-kumyk-HOWMANYPIECES-1//clicsbp-idssegmented-nogai-HOWMANYPIECES-1//clicsbp-idssegmented-nogai-HOWMANYPIECES-2//clicsbp-wold-Sakha-HOWMANYPIECES-1//clicsbp-wold-Sakha-HOWMANYPIECES-2"
     words "n æ + g æ d æ r//n e tʃ e//n e ʃ e w//n e ʃ e//χ a s//t œ h œ"
@@ -13044,7 +13032,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1087
+    id 1086
     label "HOW MUCH"
     occurrences "clicsbp-idssegmented-azerbaijani-HOWMUCH-1//clicsbp-idssegmented-kumyk-HOWMUCH-1//clicsbp-idssegmented-nogai-HOWMUCH-2//clicsbp-idssegmented-nogai-HOWMUCH-1//clicsbp-wold-Sakha-HOWMUCH-2//clicsbp-wold-Sakha-HOWMUCH-1"
     words "n e tʃ æ//n e tʃ e//n e ʃ e w//n e ʃ e//χ a s//t œ h œ"
@@ -13056,7 +13044,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1088
+    id 1087
     label "WHAT"
     occurrences "clicsbp-idssegmented-azerbaijani-WHAT-1//clicsbp-idssegmented-kumyk-WHAT-1//clicsbp-idssegmented-nogai-WHAT-1//clicsbp-northeuralex-tur-WHAT-1//clicsbp-northeuralex-uzn-WHAT-1//clicsbp-northeuralex-kaz-WHAT-1//clicsbp-northeuralex-bak-WHAT-3//clicsbp-northeuralex-bak-WHAT-1//clicsbp-northeuralex-bak-WHAT-2//clicsbp-northeuralex-tat-WHAT-2//clicsbp-northeuralex-tat-WHAT-1//clicsbp-northeuralex-chv-WHAT-1//clicsbp-northeuralex-chv-WHAT-2//clicsbp-northeuralex-chv-WHAT-3//clicsbp-wold-Sakha-WHAT-1//clicsbp-savelyevturkic-Karaim-WHAT-1"
     words "n æ//n e//n e//n ɛ//n i m a//n e//n æ m æ//æ//n i//n æ r s æ//n i//m ɘ n//m ɘ s k ɛ r//m ɘ n + t ɛ + p u l i n//t u o χ//n e"
@@ -13068,7 +13056,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1089
+    id 1088
     label "WHEN"
     occurrences "clicsbp-idssegmented-azerbaijani-WHEN-1//clicsbp-idssegmented-azerbaijani-WHEN-2//clicsbp-idssegmented-kumyk-WHEN-1//clicsbp-idssegmented-nogai-WHEN-1//clicsbp-idssegmented-nogai-WHEN-2//clicsbp-wold-Sakha-WHEN-1//clicsbp-savelyevturkic-Karaim-WHEN-1"
     words "n æ + v a x t//h a tʃ a n//q a tʃ a n//k a ʃ a n//k a j z a m a n//χ a h a n//k a ts a n"
@@ -13080,7 +13068,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1090
+    id 1089
     label "WHERE"
     occurrences "clicsbp-idssegmented-azerbaijani-WHERE-1//clicsbp-idssegmented-azerbaijani-WHERE-2//clicsbp-idssegmented-kumyk-WHERE-1//clicsbp-idssegmented-kumyk-WHERE-2//clicsbp-idssegmented-nogai-WHERE-1//clicsbp-idssegmented-nogai-WHERE-2//clicsbp-northeuralex-tur-WHERE-1//clicsbp-northeuralex-uzn-WHERE-1//clicsbp-northeuralex-kaz-WHERE-1//clicsbp-northeuralex-kaz-WHERE-2//clicsbp-northeuralex-bak-WHERE-1//clicsbp-northeuralex-tat-WHERE-1//clicsbp-northeuralex-chv-WHERE-1//clicsbp-wold-Sakha-WHERE-1//clicsbp-savelyevturkic-Karaim-WHERE-1"
     words "h a r a d a//h a r a d a n//q a j d a//q a j d a n//k a j d a//k a j d a n//n ɛ ɾ ɛ d ɛ//q a ɛ r d a//k æ n ə//q ɑ j d ɑ//q a j ð a//q ɑ j d a//ə ɕ t a//χ a nː a//k a j d a"
@@ -13092,7 +13080,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1091
+    id 1090
     label "WHICH"
     occurrences "clicsbp-idssegmented-azerbaijani-WHICH-1//clicsbp-idssegmented-kumyk-WHICH-1//clicsbp-idssegmented-nogai-WHICH-1//clicsbp-wold-Sakha-WHICH-1//clicsbp-savelyevturkic-Karaim-WHICH-1"
     words "h a n s ɨ//n e tʃ i k//k a j d a j//χ a nː ɨ k//q a j s ɯ"
@@ -13104,7 +13092,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1092
+    id 1091
     label "WHO"
     occurrences "clicsbp-idssegmented-azerbaijani-WHO-1//clicsbp-idssegmented-kumyk-WHO-1//clicsbp-idssegmented-nogai-WHO-1//clicsbp-northeuralex-tur-WHO-1//clicsbp-northeuralex-uzn-WHO-1//clicsbp-northeuralex-kaz-WHO-1//clicsbp-northeuralex-bak-WHO-1//clicsbp-northeuralex-tat-WHO-1//clicsbp-northeuralex-chv-WHO-1//clicsbp-wold-Sakha-WHO-1//clicsbp-savelyevturkic-Karaim-WHO-1"
     words "k i m//k i m//k i m//k i m//k i m//k ə m//q e m//k e m//k a m//k i m//k i m"
@@ -13116,7 +13104,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1093
+    id 1092
     label "WHY"
     occurrences "clicsbp-idssegmented-azerbaijani-WHY-1//clicsbp-idssegmented-azerbaijani-WHY-2//clicsbp-idssegmented-kumyk-WHY-1//clicsbp-idssegmented-nogai-WHY-1//clicsbp-idssegmented-nogai-WHY-2//clicsbp-northeuralex-tur-WHY-1//clicsbp-northeuralex-uzn-WHY-1//clicsbp-northeuralex-kaz-WHY-1//clicsbp-northeuralex-bak-WHY-1//clicsbp-northeuralex-tat-WHY-1//clicsbp-northeuralex-chv-WHY-1//clicsbp-northeuralex-chv-WHY-2//clicsbp-wold-Sakha-WHY-1"
     words "n i j æ//n æ j æ + gʲ œ r æ//n e g e//n e g e//n e + ü ʃ i n//n ɛ d ɛ n//n ɛ g a//n e ʁ ə p//i n + ø s ø n//n i g æ//m a//m ɘ n ʂ ɘ n//t o ɣ o"
@@ -13128,7 +13116,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1094
+    id 1093
     label "SING"
     occurrences "clicsbp-idssegmented-azerbaijani-SING-1//clicsbp-idssegmented-azerbaijani-SING-2//clicsbp-idssegmented-kumyk-SING-1//clicsbp-idssegmented-nogai-SING-1//clicsbp-northeuralex-tur-SING-1//clicsbp-northeuralex-tur-SING-2//clicsbp-northeuralex-uzn-SING-1//clicsbp-northeuralex-kaz-SING-1//clicsbp-northeuralex-bak-SING-1//clicsbp-northeuralex-tat-SING-1//clicsbp-northeuralex-chv-SING-1//clicsbp-wold-Sakha-SING-1//clicsbp-savelyevturkic-Karaim-SING-1//clicsbp-savelyevturkic-Karaim-SING-2//clicsbp-savelyevturkic-Karaim-SING-3"
     words "o x u m a g//i f a + e t m æ k//j ɨ r l a m a q//j ɨ r l a w//s œ j l ɛ m ɛ k//ʃ a ɾ k ɯ + s œ j l ɛ m ɛ k//j a lː a + q i l m ɒ q//s ɑ j ɾ ɑ u//j ɯ r l au//dʑ ɤ r l au//j u r l a//ɨ lː aː//s a r n a//ʃ ɯ r a + o χ u//ʃ ɯ r a + o χ u"
@@ -13140,7 +13128,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1095
+    id 1094
     label "READ"
     occurrences "clicsbp-idssegmented-azerbaijani-READ-1//clicsbp-idssegmented-kumyk-READ-1//clicsbp-idssegmented-nogai-READ-1//clicsbp-northeuralex-tur-READ-1//clicsbp-northeuralex-uzn-READ-1//clicsbp-northeuralex-kaz-READ-1//clicsbp-northeuralex-bak-READ-1//clicsbp-northeuralex-tat-READ-1//clicsbp-northeuralex-chv-READ-1//clicsbp-wold-Sakha-READ-1"
     words "o x u m a g//o x u m a q//o k u w//o k u m a k//o q i m ɒ q//o q u//u q ɯ u//u q u//ʋ u l a//aː χ"
@@ -13152,7 +13140,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1096
+    id 1095
     label "SHOUT"
     occurrences "clicsbp-idssegmented-azerbaijani-SHOUT-1//clicsbp-idssegmented-azerbaijani-SHOUT-2//clicsbp-idssegmented-kumyk-SHOUT-1//clicsbp-idssegmented-nogai-SHOUT-1//clicsbp-northeuralex-tur-SHOUT-1//clicsbp-northeuralex-tur-SHOUT-2//clicsbp-northeuralex-uzn-SHOUT-1//clicsbp-northeuralex-kaz-SHOUT-1//clicsbp-northeuralex-kaz-SHOUT-2//clicsbp-northeuralex-kaz-SHOUT-3//clicsbp-northeuralex-kaz-SHOUT-4//clicsbp-northeuralex-bak-SHOUT-1//clicsbp-northeuralex-tat-SHOUT-1//clicsbp-northeuralex-chv-SHOUT-1//clicsbp-wold-Sakha-SHOUT-1"
     words "tʃ ɨ ɣ ɨ r m a g//g ɨ ʃ g ɨ r m a g//q ɨ tʃ ɨ r m a q//k ɨ ʃ k ɨ r u w//b aː ɯ ɾ m a k//h a j k ɯ ɾ m a k//q i j q i r m ɒ q//ʃ ə ŋ ʁ ə ɾ u//ɑ j ʁ ɑ j l ɑ u//b ɑ j b ɑ j l ɑ u//b ɑ ʒ ɑ l ɑ q t ɑ u//q ɯ s q ɯ r ɯ u//q ɤ tɕ q ɤ r u//k ə ʂ k ə r//χ a h ɨː t aː"
@@ -13164,7 +13152,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1097
+    id 1096
     label "WHISPER"
     occurrences "clicsbp-idssegmented-azerbaijani-WHISPER-1//clicsbp-idssegmented-kumyk-WHISPER-1//clicsbp-idssegmented-nogai-WHISPER-1//clicsbp-wold-Sakha-WHISPER-1"
     words "p ɨ tʃ ɨ l d a m a g//ʃ ɨ b ɨ ʃ l a m a q//s ɨ b ɨ r d a w//s i b i g i n e y"
@@ -13176,7 +13164,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1098
+    id 1097
     label "MUMBLE"
     occurrences "clicsbp-idssegmented-azerbaijani-MUMBLE-1//clicsbp-idssegmented-kumyk-MUMBLE-1//clicsbp-idssegmented-kumyk-MUMBLE-2//clicsbp-idssegmented-nogai-MUMBLE-1//clicsbp-idssegmented-nogai-MUMBLE-2//clicsbp-wold-Sakha-MUMBLE-1"
     words "m ɨ r t ɨ l d a m a g//m ɨ r ɨ lː a p + s œ j l e m e k//b u r n u n d a n + s œ j l e m e k//k ü b i r d e n y w//m ɨ r ɨ l d a w//b o t u g u r aː"
@@ -13188,7 +13176,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1099
+    id 1098
     label "WHISTLE"
     occurrences "clicsbp-idssegmented-azerbaijani-WHISTLE-1//clicsbp-idssegmented-kumyk-WHISTLE-1//clicsbp-idssegmented-nogai-WHISTLE-1//clicsbp-northeuralex-tur-WHISTLE-1//clicsbp-northeuralex-uzn-WHISTLE-1//clicsbp-northeuralex-kaz-WHISTLE-1//clicsbp-northeuralex-bak-WHISTLE-1//clicsbp-northeuralex-tat-WHISTLE-1//clicsbp-northeuralex-chv-WHISTLE-1//clicsbp-wold-Sakha-WHISTLE-1"
     words "f i t + tʃ a l m a g//s ɨ z ɣ ɨ r m a q//s ɨ z g ɨ r u w//d y d y k + tʃ a l m a k//χ u ʃ t a k + tʃ a l m ɒ q//ə s q ə ɾ u//h ɯ z ɣ ɯ r ɯ p + e b æ r e y//s ɤ z g ɤ r t u//ʂ ə χ ə r//i h iː r"
@@ -13200,7 +13188,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1100
+    id 1099
     label "SHRIEK"
     occurrences "clicsbp-idssegmented-azerbaijani-SHRIEK-1//clicsbp-idssegmented-kumyk-SHRIEK-1//clicsbp-idssegmented-kumyk-SHRIEK-2//clicsbp-idssegmented-nogai-SHRIEK-1//clicsbp-idssegmented-nogai-SHRIEK-2//clicsbp-idssegmented-nogai-SHRIEK-3//clicsbp-wold-Sakha-SHRIEK-1"
     words "z i n gʲ i l d æ m æ k//z u w u lː a m a q//h a n c ɨ lː a m a q//ʃ a ŋ k ɨ l d a w//ʃ ɨ ŋ ɨ r a w//k a ŋ s u w//tʃ a s k ɨ y"
@@ -13212,7 +13200,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1101
+    id 1100
     label "HOWL"
     occurrences "clicsbp-idssegmented-azerbaijani-HOWL-1//clicsbp-idssegmented-kumyk-HOWL-1//clicsbp-idssegmented-nogai-HOWL-1//clicsbp-idssegmented-nogai-HOWL-2//clicsbp-northeuralex-tur-HOWL-1//clicsbp-northeuralex-uzn-HOWL-1//clicsbp-northeuralex-kaz-HOWL-1//clicsbp-northeuralex-bak-HOWL-1//clicsbp-northeuralex-tat-HOWL-1//clicsbp-northeuralex-chv-HOWL-1//clicsbp-wold-Sakha-HOWL-1"
     words "u l a m a g//u l u m a q//u l u w//u w ɨ l d a w//u l u m a k//u w l a m ɒ q//ʉ l u//o l ou//u l au//u l a//u l u y"
@@ -13224,7 +13212,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1102
+    id 1101
     label "SPEAK"
     occurrences "clicsbp-idssegmented-azerbaijani-SPEAK-1//clicsbp-idssegmented-azerbaijani-SPEAK-2//clicsbp-idssegmented-kumyk-SPEAK-1//clicsbp-idssegmented-nogai-SPEAK-1//clicsbp-idssegmented-nogai-SPEAK-2//clicsbp-northeuralex-tur-SPEAK-1//clicsbp-northeuralex-uzn-SPEAK-1//clicsbp-northeuralex-kaz-SPEAK-1//clicsbp-northeuralex-kaz-SPEAK-2//clicsbp-northeuralex-bak-SPEAK-1//clicsbp-northeuralex-bak-SPEAK-2//clicsbp-northeuralex-tat-SPEAK-1//clicsbp-northeuralex-tat-SPEAK-2//clicsbp-northeuralex-chv-SPEAK-1//clicsbp-wold-Sakha-SPEAK-1//clicsbp-wold-Sakha-SPEAK-2"
     words "d a n ɨ ʃ m a g//s œ h b æ t + e t m æ k//s œ j l e m e//s œ j l e w//x a b a r l a s u w//k o n u ʃ m a k//s o z l a m ɒ q//d e u//ɑ j t u//æ j t e y//h ø j l æ ʃ e y//s œ j l æ ʉ//s œ j l æ ʃ ʉ//k a l a//s a ŋ a r//k e p s e t"
@@ -13236,7 +13224,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1103
+    id 1102
     label "STUTTER"
     occurrences "clicsbp-idssegmented-azerbaijani-STUTTER-1//clicsbp-idssegmented-azerbaijani-STUTTER-2//clicsbp-idssegmented-kumyk-STUTTER-1//clicsbp-idssegmented-kumyk-STUTTER-2//clicsbp-idssegmented-nogai-STUTTER-1//clicsbp-wold-Sakha-STUTTER-1//clicsbp-wold-Sakha-STUTTER-2"
     words "p æ l t æ k l æ m æ k//h ɨ tʃ g ɨ n m a g//t u t u l u p + s œ j l e m e k//m e l t e k + s œ j l e m e k//t u t l ɨ g u w//k e l e ɣ e y d eː//t a r d ɨ a l a t"
@@ -13248,7 +13236,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1104
+    id 1103
     label "SAY"
     occurrences "clicsbp-idssegmented-azerbaijani-SAY-1//clicsbp-idssegmented-kumyk-SAY-1//clicsbp-idssegmented-nogai-SAY-1//clicsbp-northeuralex-tur-SAY-2//clicsbp-northeuralex-tur-SAY-1//clicsbp-northeuralex-uzn-SAY-1//clicsbp-northeuralex-kaz-SAY-1//clicsbp-northeuralex-kaz-SAY-2//clicsbp-northeuralex-bak-SAY-1//clicsbp-northeuralex-tat-SAY-1//clicsbp-northeuralex-tat-SAY-2//clicsbp-northeuralex-chv-SAY-1//clicsbp-wold-Sakha-SAY-1//clicsbp-wold-Sakha-SAY-2//clicsbp-savelyevturkic-Karaim-SAY-1"
     words "d e m æ k//a j t m a q//a j t u w//s œ j l ɛ m ɛ k//d ɛ m ɛ k//a j t m ɒ q//d e u//ɑ j t u//æ j t e y//d i j ʊ//æ j t ʉ//t ɛ//e t//d i e//a j t"
@@ -13260,7 +13248,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1105
+    id 1104
     label "TELL"
     occurrences "clicsbp-idssegmented-azerbaijani-TELL-1//clicsbp-idssegmented-kumyk-TELL-1//clicsbp-idssegmented-kumyk-TELL-2//clicsbp-idssegmented-nogai-TELL-1//clicsbp-idssegmented-nogai-TELL-2//clicsbp-northeuralex-tur-TELL-1//clicsbp-northeuralex-tur-TELL-2//clicsbp-northeuralex-uzn-TELL-1//clicsbp-northeuralex-kaz-TELL-1//clicsbp-northeuralex-bak-TELL-1//clicsbp-northeuralex-tat-TELL-1//clicsbp-northeuralex-chv-TELL-1//clicsbp-wold-Sakha-TELL-1//clicsbp-wold-Sakha-TELL-2"
     words "æ h v a l a t + d a n ɨ ʃ m a g//x a b a r l a m a q//x a b a r + a j t m a q//x a b a r + a j t u w//x a b a r l a w//b a h s ɛ t m ɛ k//h i k aː j ɛ + ɛ t m ɛ k//a j t i b + b ɛ r m ɒ q//ɑ j t u//h ø j l æ y//s œ j l æ ʉ//k a l a s a + p a r//k e p s eː//s e h e r g eː"
@@ -13272,7 +13260,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1106
+    id 1105
     label "SPEECH"
     occurrences "clicsbp-idssegmented-azerbaijani-SPEECH-1//clicsbp-idssegmented-azerbaijani-SPEECH-2//clicsbp-idssegmented-kumyk-SPEECH-1//clicsbp-idssegmented-nogai-SPEECH-1//clicsbp-northeuralex-tur-SPEECH-1//clicsbp-northeuralex-tur-SPEECH-2//clicsbp-northeuralex-uzn-SPEECH-1//clicsbp-northeuralex-kaz-SPEECH-1//clicsbp-northeuralex-bak-SPEECH-1//clicsbp-northeuralex-tat-SPEECH-1//clicsbp-northeuralex-chv-SPEECH-1//clicsbp-wold-Sakha-SPEECH-1"
     words "n i t g//n i t g + s œ j l æ m æ k//s œ z + a j t m a q//s œ z//s œ j l ɛ v//k o n u ʃ m a//n u t q//s ø z//t e l m æ r//n o t ɤ k//s ə m a χ//t ɨ l + e t"
@@ -13284,7 +13272,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1107
+    id 1106
     label "BE SILENT"
     occurrences "clicsbp-idssegmented-azerbaijani-BESILENT-1//clicsbp-idssegmented-kumyk-BESILENT-1//clicsbp-idssegmented-nogai-BESILENT-1//clicsbp-wold-Sakha-BESILENT-1"
     words "s u s m a g//p ɨ s m a q//ü n d e m e w//tʃ uː m p u r"
@@ -13296,7 +13284,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1108
+    id 1107
     label "WORD"
     occurrences "clicsbp-idssegmented-azerbaijani-WORD-1//clicsbp-idssegmented-kumyk-WORD-1//clicsbp-idssegmented-nogai-WORD-1//clicsbp-northeuralex-tur-WORD-1//clicsbp-northeuralex-uzn-WORD-1//clicsbp-northeuralex-kaz-WORD-1//clicsbp-northeuralex-bak-WORD-1//clicsbp-northeuralex-tat-WORD-1//clicsbp-northeuralex-chv-WORD-1//clicsbp-wold-Sakha-WORD-1"
     words "s œ z//s œ z//s œ z//k ɛ l i m ɛ//s o z//s ø z//h y ð//s ʉ z//s ə m a χ//t ɨ l"
@@ -13308,7 +13296,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1109
+    id 1108
     label "NAME"
     occurrences "clicsbp-idssegmented-azerbaijani-NAME-1//clicsbp-idssegmented-azerbaijani-NAME-2//clicsbp-idssegmented-kumyk-NAME-1//clicsbp-idssegmented-nogai-NAME-1//clicsbp-northeuralex-tur-NAME-1//clicsbp-northeuralex-tur-NAME-2//clicsbp-northeuralex-uzn-NAME-1//clicsbp-northeuralex-kaz-NAME-1//clicsbp-northeuralex-kaz-NAME-2//clicsbp-northeuralex-bak-NAME-1//clicsbp-northeuralex-tat-NAME-1//clicsbp-northeuralex-chv-NAME-1//clicsbp-wold-Sakha-NAME-1//clicsbp-savelyevturkic-Karaim-NAME-1"
     words "a d//n a m//a t//a t//a d//i s i m//ɒ t//ɑ t//ɑ t ɑ u//i s e m//i s e m//j a t//aː t//a d"
@@ -13320,7 +13308,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1110
+    id 1109
     label "ASK (INQUIRE)"
     occurrences "clicsbp-idssegmented-azerbaijani-ASKINQUIRE-1//clicsbp-idssegmented-kumyk-ASKINQUIRE-1//clicsbp-idssegmented-nogai-ASKINQUIRE-1//clicsbp-northeuralex-tur-ASKINQUIRE-1//clicsbp-northeuralex-uzn-ASKINQUIRE-1//clicsbp-northeuralex-kaz-ASKINQUIRE-1//clicsbp-northeuralex-bak-ASKINQUIRE-1//clicsbp-northeuralex-tat-ASKINQUIRE-1//clicsbp-northeuralex-tat-ASKINQUIRE-2//clicsbp-northeuralex-chv-ASKINQUIRE-1//clicsbp-wold-Sakha-ASKINQUIRE-1"
     words "s o r u ʃ m a g//s o r a m a q//s o r a w + b e r y w//s o ɾ m a k//s o r a m ɒ q//s ʉ ɾ ɑ u//h o r au//s o r au//s o r a ʃ u//ɯ j t//ɨ y ɨ t"
@@ -13332,7 +13320,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1111
+    id 1110
     label "ANSWER"
     occurrences "clicsbp-idssegmented-azerbaijani-ANSWER-1//clicsbp-idssegmented-kumyk-ANSWER-1//clicsbp-idssegmented-nogai-ANSWER-1//clicsbp-wold-Sakha-ANSWER-1//clicsbp-wold-Sakha-ANSWER-2"
     words "dʒ a v a b + v e r m æ k//ʒ a w a p + b e r m e k//j a w a p + b e r y w//e pː i e tː eː//χ o r u y d aː"
@@ -13344,7 +13332,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1112
+    id 1111
     label "DENY"
     occurrences "clicsbp-idssegmented-azerbaijani-DENY-1//clicsbp-idssegmented-azerbaijani-DENY-2//clicsbp-idssegmented-kumyk-DENY-1//clicsbp-idssegmented-nogai-DENY-1//clicsbp-idssegmented-nogai-DENY-2//clicsbp-idssegmented-nogai-DENY-3//clicsbp-wold-Sakha-DENY-1"
     words "d a n m a g//i n k a r + e t m æ k//i n k a r + e t m e k//j e r a t p a w//j e m a n g a + s a n a w//m a k u l + b o l m a w//m e l dʒ e s"
@@ -13356,7 +13344,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1113
+    id 1112
     label "ASK (REQUEST)"
     occurrences "clicsbp-idssegmented-azerbaijani-ASKREQUEST-1//clicsbp-idssegmented-azerbaijani-ASKREQUEST-2//clicsbp-idssegmented-kumyk-ASKREQUEST-1//clicsbp-idssegmented-nogai-ASKREQUEST-1//clicsbp-idssegmented-nogai-ASKREQUEST-2//clicsbp-northeuralex-tur-ASKREQUEST-1//clicsbp-northeuralex-tur-ASKREQUEST-2//clicsbp-northeuralex-uzn-ASKREQUEST-1//clicsbp-northeuralex-kaz-ASKREQUEST-1//clicsbp-northeuralex-kaz-ASKREQUEST-2//clicsbp-northeuralex-bak-ASKREQUEST-1//clicsbp-northeuralex-tat-ASKREQUEST-1//clicsbp-northeuralex-chv-ASKREQUEST-1//clicsbp-wold-Sakha-ASKREQUEST-1//clicsbp-savelyevturkic-Karaim-ASKREQUEST-1"
     words "i s t æ m æ k//d i l æ m æ k//t i l e m e k//t i l e m e k//t i l e w//d i l ɛ m ɛ k//ɾ i dʒ a + ɛ t m ɛ k//i l t i m ɒ s + q i l m ɒ q//ø t ə n u//ʒ ɑ l ə n u//y t e n e y//ʉ t e n ʉ//ɯ j t//k œ r d œː//k o l"
@@ -13368,7 +13356,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1114
+    id 1113
     label "PROMISE"
     occurrences "clicsbp-idssegmented-azerbaijani-PROMISE-1//clicsbp-idssegmented-azerbaijani-PROMISE-2//clicsbp-idssegmented-kumyk-PROMISE-1//clicsbp-idssegmented-nogai-PROMISE-1//clicsbp-northeuralex-tur-PROMISE-1//clicsbp-northeuralex-uzn-PROMISE-1//clicsbp-northeuralex-kaz-PROMISE-1//clicsbp-northeuralex-bak-PROMISE-1//clicsbp-northeuralex-tat-PROMISE-1//clicsbp-northeuralex-chv-PROMISE-1//clicsbp-northeuralex-chv-PROMISE-2//clicsbp-wold-Sakha-PROMISE-1"
     words "v æ d + e t m æ k//s œ z + v e r m æ k//s œ z + b e r m e k//s œ z + b e r y w//v aː t + ɛ t m ɛ k//w a ʔ d a + b ɛ r m ɒ q//u æ d e + b e ɾ u//w æ ɣ æ ð æ + b i r e y//w æ g ʔ d æ + b i r ʉ//t u m a + p u l//s ə m a χ + p a r//t ɨ l + b i e r"
@@ -13380,7 +13368,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1115
+    id 1114
     label "REFUSE"
     occurrences "clicsbp-idssegmented-azerbaijani-REFUSE-1//clicsbp-idssegmented-azerbaijani-REFUSE-2//clicsbp-idssegmented-kumyk-REFUSE-1//clicsbp-idssegmented-kumyk-REFUSE-2//clicsbp-idssegmented-nogai-REFUSE-1//clicsbp-idssegmented-nogai-REFUSE-2//clicsbp-idssegmented-nogai-REFUSE-3//clicsbp-wold-Sakha-REFUSE-1"
     words "r æ dː + e t m æ k//i m t i n a + e t m æ k//g e r i + u r m a q//r a z i s i z + q a l m a q//a l m a w//u n a m a w//m a k u l + k œ r m e w//a kː aː s t aː"
@@ -13392,7 +13380,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1116
+    id 1115
     label "FORBID"
     occurrences "clicsbp-idssegmented-azerbaijani-FORBID-1//clicsbp-idssegmented-kumyk-FORBID-1//clicsbp-idssegmented-nogai-FORBID-1//clicsbp-idssegmented-nogai-FORBID-2//clicsbp-wold-Sakha-FORBID-1//clicsbp-wold-Sakha-FORBID-2"
     words "g a d a ɣ a n + e t m æ k//q o j r u m a q//t ɨ j u w l ɨ k + e t y w//t ɨ j u w//b o p//b u o y"
@@ -13404,7 +13392,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1117
+    id 1116
     label "SCOLD"
     occurrences "clicsbp-idssegmented-azerbaijani-SCOLD-1//clicsbp-idssegmented-azerbaijani-SCOLD-2//clicsbp-idssegmented-kumyk-SCOLD-1//clicsbp-idssegmented-nogai-SCOLD-1//clicsbp-idssegmented-nogai-SCOLD-2//clicsbp-wold-Sakha-SCOLD-1"
     words "d a n l a m a g//s œ j m æ k//u r u ʃ m a q//a k ɨ r u w//u r s u s u w//m œ χ"
@@ -13416,7 +13404,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1118
+    id 1117
     label "CALL"
     occurrences "clicsbp-idssegmented-azerbaijani-CALL-1//clicsbp-idssegmented-kumyk-CALL-1//clicsbp-idssegmented-nogai-CALL-1//clicsbp-northeuralex-tur-CALL-1//clicsbp-northeuralex-uzn-CALL-1//clicsbp-northeuralex-kaz-CALL-1//clicsbp-northeuralex-bak-CALL-1//clicsbp-northeuralex-tat-CALL-1//clicsbp-northeuralex-chv-CALL-1//clicsbp-wold-Sakha-CALL-1"
     words "tʃ a ɣ ɨ r m a g//tʃ a q ɨ r m a q//ʃ a k ɨ r u w//tʃ aː ɯ ɾ m a k//tʃ a q i r m ɒ q//ʃ ɑ q ə ɾ u//s a q ɯ r ɯ u//d æ ʃ ʉ//tɕ ɘ n//ɨ ŋ ɨ r"
@@ -13428,7 +13416,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1119
+    id 1118
     label "CALL BY NAME"
     occurrences "clicsbp-idssegmented-azerbaijani-CALLBYNAME-1//clicsbp-idssegmented-kumyk-CALLBYNAME-2//clicsbp-idssegmented-kumyk-CALLBYNAME-1//clicsbp-idssegmented-nogai-CALLBYNAME-2//clicsbp-idssegmented-nogai-CALLBYNAME-1//clicsbp-idssegmented-nogai-CALLBYNAME-3//clicsbp-northeuralex-tur-CALLBYNAME-1//clicsbp-northeuralex-uzn-CALLBYNAME-1//clicsbp-northeuralex-kaz-CALLBYNAME-1//clicsbp-northeuralex-bak-CALLBYNAME-1//clicsbp-northeuralex-bak-CALLBYNAME-2//clicsbp-northeuralex-tat-CALLBYNAME-1//clicsbp-northeuralex-chv-CALLBYNAME-1//clicsbp-northeuralex-chv-CALLBYNAME-2//clicsbp-wold-Sakha-CALLBYNAME-1"
     words "a n d l a n d ɨ r ɨ l m a g//a j t m a q//a t + t a q m a q//a j t u w//a t a w//a t + b e r y w//a d l a n d ɯ ɾ m a k//a t a m ɒ q//ɑ t ɑ u//a t au//i s e m l æ y//d i j ʊ//t ɛ//tɕ ɘ n//aː tː aː"
@@ -13440,7 +13428,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1120
+    id 1119
     label "ANNOUNCE"
     occurrences "clicsbp-idssegmented-azerbaijani-ANNOUNCE-1//clicsbp-idssegmented-azerbaijani-ANNOUNCE-2//clicsbp-idssegmented-kumyk-ANNOUNCE-1//clicsbp-idssegmented-nogai-ANNOUNCE-1//clicsbp-wold-Sakha-ANNOUNCE-1"
     words "e l a n + e t m æ k//b i l d i r m æ k//b i l d i r m e k//b i l d i r y w//b i lː e r"
@@ -13452,7 +13440,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1121
+    id 1120
     label "THREATEN"
     occurrences "clicsbp-idssegmented-azerbaijani-THREATEN-1//clicsbp-idssegmented-kumyk-THREATEN-1//clicsbp-idssegmented-nogai-THREATEN-1//clicsbp-wold-Sakha-THREATEN-1"
     words "g o r x u t m a g//q o r q u w + b e r m e k//k o r k u w + b e r y w//s aː n"
@@ -13464,7 +13452,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1122
+    id 1121
     label "BOAST"
     occurrences "clicsbp-idssegmented-azerbaijani-BOAST-1//clicsbp-idssegmented-azerbaijani-BOAST-2//clicsbp-idssegmented-kumyk-BOAST-1//clicsbp-idssegmented-nogai-BOAST-1//clicsbp-northeuralex-tur-BOAST-1//clicsbp-northeuralex-uzn-BOAST-1//clicsbp-northeuralex-kaz-BOAST-1//clicsbp-northeuralex-bak-BOAST-1//clicsbp-northeuralex-bak-BOAST-2//clicsbp-northeuralex-tat-BOAST-1//clicsbp-northeuralex-tat-BOAST-2//clicsbp-northeuralex-chv-BOAST-1//clicsbp-northeuralex-chv-BOAST-2//clicsbp-wold-Sakha-BOAST-1"
     words "l o v ɣ a l a n m a g//œ z ü n ü + t æ r i f l æ m æ k//m a q t a n m a q//m a k t a n u w//œ v y n m ɛ k//g ɛ r d a j m ɒ q//b ø s u//m a q t a n ɯ u//ʃ a p ɯ r ɯ n ɯ u//m a k t a n u//ʃ a p ɤ r ɤ n u//m u χ t a n//ʋ ɘ ɕ k ɘ n l ɛ n//k i h i r g eː"
@@ -13476,7 +13464,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1123
+    id 1122
     label "WRITE"
     occurrences "clicsbp-idssegmented-azerbaijani-WRITE-1//clicsbp-idssegmented-kumyk-WRITE-1//clicsbp-idssegmented-nogai-WRITE-1//clicsbp-northeuralex-tur-WRITE-1//clicsbp-northeuralex-uzn-WRITE-1//clicsbp-northeuralex-kaz-WRITE-1//clicsbp-northeuralex-bak-WRITE-1//clicsbp-northeuralex-tat-WRITE-1//clicsbp-northeuralex-chv-WRITE-1//clicsbp-wold-Sakha-WRITE-1"
     words "j a z m a g//u a z m a q//j a z u w//j a z m a k//j ɒ z m ɒ q//ʒ ɑ z u//j a ð ɯ u//j a z u//ɕ ɯ r//s u r u y"
@@ -13488,7 +13476,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1124
+    id 1123
     label "PAPER"
     occurrences "clicsbp-idssegmented-azerbaijani-PAPER-1//clicsbp-idssegmented-kumyk-PAPER-1//clicsbp-idssegmented-nogai-PAPER-1//clicsbp-wold-Sakha-PAPER-1"
     words "k a ɣ ɨ z//k a ɣ ɨ z//k a g ɨ t//k u m aː ɣ ɨ"
@@ -13500,7 +13488,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1125
+    id 1124
     label "PEN"
     occurrences "clicsbp-idssegmented-azerbaijani-PEN-1//clicsbp-idssegmented-kumyk-PEN-1//clicsbp-idssegmented-kumyk-PEN-2//clicsbp-idssegmented-nogai-PEN-1//clicsbp-wold-Sakha-PEN-1"
     words "g æ l æ m//r u tʃ k a//q a l a m//k a l e m//u r uː tʃ k a"
@@ -13512,7 +13500,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1126
+    id 1125
     label "BOOK"
     occurrences "clicsbp-idssegmented-azerbaijani-BOOK-1//clicsbp-idssegmented-kumyk-BOOK-1//clicsbp-idssegmented-nogai-BOOK-1//clicsbp-northeuralex-tur-BOOK-1//clicsbp-northeuralex-uzn-BOOK-1//clicsbp-northeuralex-kaz-BOOK-1//clicsbp-northeuralex-bak-BOOK-1//clicsbp-northeuralex-bak-BOOK-2//clicsbp-northeuralex-tat-BOOK-1//clicsbp-northeuralex-chv-BOOK-1//clicsbp-wold-Sakha-BOOK-1"
     words "k i t a b//k i t a p//k i t a p//k i t a p//k i t ɒ b//k ə t ɑ p//k i t a p//k e n æ g æ//k i t a p//k ɘ n ɛ k ɛ//k i n i g e"
@@ -13524,7 +13512,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1127
+    id 1126
     label "FLUTE"
     occurrences "clicsbp-idssegmented-azerbaijani-FLUTE-1//clicsbp-idssegmented-kumyk-FLUTE-1//clicsbp-idssegmented-kumyk-FLUTE-2//clicsbp-idssegmented-nogai-FLUTE-1"
     words "f l e j t a//f l e j t a//z u r n a j//z u r n a j"
@@ -13536,7 +13524,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1128
+    id 1127
     label "DRUM"
     occurrences "clicsbp-idssegmented-azerbaijani-DRUM-1//clicsbp-idssegmented-azerbaijani-DRUM-2//clicsbp-idssegmented-kumyk-DRUM-1//clicsbp-idssegmented-nogai-DRUM-1//clicsbp-wold-Sakha-DRUM-1//clicsbp-wold-Sakha-DRUM-2"
     words "b a r a b a n//t æ b i l//t e p//d ü m b i r d e k//b a r a b aː n//d y ŋ y r"
@@ -13548,7 +13536,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1129
+    id 1128
     label "RATTLE"
     occurrences "clicsbp-idssegmented-azerbaijani-RATTLE-1//clicsbp-idssegmented-azerbaijani-RATTLE-2//clicsbp-idssegmented-kumyk-RATTLE-1//clicsbp-idssegmented-kumyk-RATTLE-2//clicsbp-idssegmented-nogai-RATTLE-1//clicsbp-idssegmented-nogai-RATTLE-2"
     words "ʃ a x + ʃ a x//o j u n dʒ a g//ʒ ɨ ɣ ɨ r ʒ a q//o ü n tʃ a q//t a k ɨ l d a w ɨ k//p o g r e m u ʃ k a"
@@ -13560,7 +13548,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1130
+    id 1129
     label "NATIVE COUNTRY"
     occurrences "clicsbp-idssegmented-azerbaijani-NATIVECOUNTRY-1//clicsbp-idssegmented-kumyk-NATIVECOUNTRY-1//clicsbp-idssegmented-kumyk-NATIVECOUNTRY-2//clicsbp-idssegmented-nogai-NATIVECOUNTRY-1//clicsbp-wold-Sakha-NATIVECOUNTRY-1"
     words "d o ɣ m a + œ l k æ//a n a + ü l k e//a n a + w a t a n//t u w g a n + e l//t œ r œː b y t + d o y d u"
@@ -13572,7 +13560,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1131
+    id 1130
     label "TOWN"
     occurrences "clicsbp-idssegmented-azerbaijani-TOWN-1//clicsbp-idssegmented-kumyk-TOWN-1//clicsbp-idssegmented-nogai-TOWN-1//clicsbp-northeuralex-tur-TOWN-1//clicsbp-northeuralex-tur-TOWN-2//clicsbp-northeuralex-uzn-TOWN-1//clicsbp-northeuralex-kaz-TOWN-1//clicsbp-northeuralex-kaz-TOWN-2//clicsbp-northeuralex-bak-TOWN-1//clicsbp-northeuralex-tat-TOWN-1//clicsbp-northeuralex-chv-TOWN-1//clicsbp-wold-Sakha-TOWN-1"
     words "ʃ æ h æ r//ʃ a h a r//k a l a//k ɛ n t//ʃ ɛ h i ɾ//ʃ a h a r//q ɑ l ɑ//ʃ ɑ h ɑ ɾ//q a l a//ʃ æ h æ r//χ u l a//k u o r a t"
@@ -13584,7 +13572,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1132
+    id 1131
     label "VILLAGE"
     occurrences "clicsbp-idssegmented-azerbaijani-VILLAGE-1//clicsbp-idssegmented-kumyk-VILLAGE-1//clicsbp-idssegmented-kumyk-VILLAGE-2//clicsbp-idssegmented-nogai-VILLAGE-1//clicsbp-idssegmented-nogai-VILLAGE-2//clicsbp-northeuralex-tur-VILLAGE-1//clicsbp-northeuralex-uzn-VILLAGE-1//clicsbp-northeuralex-kaz-VILLAGE-1//clicsbp-northeuralex-bak-VILLAGE-1//clicsbp-northeuralex-tat-VILLAGE-1//clicsbp-northeuralex-chv-VILLAGE-1//clicsbp-wold-Sakha-VILLAGE-1//clicsbp-wold-Sakha-VILLAGE-2"
     words "k æ n d//j u r t//g e n t//j u r t//a w ɨ l//k œ j//ɒ w u l//ɑ uə l//au ɯ l//a w ɤ l//j a l//b œ h y œ l e k//d e r i e b i n e"
@@ -13596,7 +13584,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1133
+    id 1132
     label "BOUNDARY"
     occurrences "clicsbp-idssegmented-azerbaijani-BOUNDARY-1//clicsbp-idssegmented-azerbaijani-BOUNDARY-2//clicsbp-idssegmented-kumyk-BOUNDARY-1//clicsbp-idssegmented-nogai-BOUNDARY-1//clicsbp-idssegmented-nogai-BOUNDARY-2//clicsbp-wold-Sakha-BOUNDARY-1//clicsbp-wold-Sakha-BOUNDARY-2"
     words "s æ rʰ æ d//h ü d u d//d a z u//g r a n i c a//ʃ e t//k ɨ r a n ɨː sː a//b ɨː s"
@@ -13608,7 +13596,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1134
+    id 1133
     label "PEOPLE"
     occurrences "clicsbp-idssegmented-azerbaijani-PEOPLE-1//clicsbp-idssegmented-kumyk-PEOPLE-2//clicsbp-idssegmented-kumyk-PEOPLE-1//clicsbp-idssegmented-nogai-PEOPLE-1//clicsbp-northeuralex-tur-PEOPLE-1//clicsbp-northeuralex-tur-PEOPLE-2//clicsbp-northeuralex-uzn-PEOPLE-1//clicsbp-northeuralex-kaz-PEOPLE-1//clicsbp-northeuralex-bak-PEOPLE-1//clicsbp-northeuralex-tat-PEOPLE-1//clicsbp-northeuralex-chv-PEOPLE-1//clicsbp-wold-Sakha-PEOPLE-2//clicsbp-wold-Sakha-PEOPLE-1"
     words "x a l g//e l//x a l q//x a l k//u l u s//m i lː ɛ t//χ a l q//x ɑ l ə q//x a l q//x a l ɤ k//χ a l ə χ//dʒ o n//o m u k"
@@ -13620,7 +13608,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1135
+    id 1134
     label "CLAN"
     occurrences "clicsbp-idssegmented-azerbaijani-CLAN-1//clicsbp-idssegmented-azerbaijani-CLAN-2//clicsbp-idssegmented-kumyk-CLAN-1//clicsbp-idssegmented-nogai-CLAN-1//clicsbp-idssegmented-nogai-CLAN-2//clicsbp-idssegmented-nogai-CLAN-3//clicsbp-wold-Sakha-CLAN-1"
     words "t a j f a//g œ v i//q a w u m//t u k u m//n a c i j a//m i lː e t//uː s"
@@ -13632,7 +13620,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1136
+    id 1135
     label "CHIEFTAIN"
     occurrences "clicsbp-idssegmented-azerbaijani-CHIEFTAIN-1//clicsbp-idssegmented-azerbaijani-CHIEFTAIN-2//clicsbp-idssegmented-kumyk-CHIEFTAIN-1//clicsbp-idssegmented-kumyk-CHIEFTAIN-2//clicsbp-idssegmented-nogai-CHIEFTAIN-1//clicsbp-idssegmented-nogai-CHIEFTAIN-2//clicsbp-wold-Sakha-CHIEFTAIN-1//clicsbp-wold-Sakha-CHIEFTAIN-2"
     words "r æ h b æ r//b a ʃ tʃ ɨ//w o ʒ d j//j o l b a ʃ tʃ ɨ//w o ʒ dʲ//j o l b a s ʃ ɨ//t o y o n//b a h ɨ l ɨ k"
@@ -13644,7 +13632,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1137
+    id 1136
     label "WALKING STICK"
     occurrences "clicsbp-idssegmented-azerbaijani-WALKINGSTICK-1//clicsbp-idssegmented-azerbaijani-WALKINGSTICK-2//clicsbp-idssegmented-kumyk-WALKINGSTICK-1//clicsbp-idssegmented-nogai-WALKINGSTICK-1//clicsbp-wold-Sakha-WALKINGSTICK-1"
     words "æ s a//æ l + a ɣ a dʒ ɨ//a s a//a s a//t a y a χ"
@@ -13656,7 +13644,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1138
+    id 1137
     label "RULE"
     occurrences "clicsbp-idssegmented-azerbaijani-RULE-1//clicsbp-idssegmented-kumyk-RULE-1//clicsbp-idssegmented-kumyk-RULE-2//clicsbp-idssegmented-kumyk-RULE-3//clicsbp-idssegmented-kumyk-RULE-4//clicsbp-idssegmented-nogai-RULE-1//clicsbp-northeuralex-tur-RULE-1//clicsbp-northeuralex-uzn-RULE-1//clicsbp-northeuralex-kaz-RULE-1//clicsbp-northeuralex-bak-RULE-1//clicsbp-northeuralex-tat-RULE-1//clicsbp-northeuralex-chv-RULE-1//clicsbp-wold-Sakha-RULE-1"
     words "i d a r æ + e t m æ k//h a k i m l i k + e t m e k//j o l b a ʃ tʃ ɨ l ɨ + e t m e k//h a k i m l i k + s ü r m e k//j o l b a ʃ tʃ ɨ l ɨ + s ü r m e k//j e l b a s ʃ ɨ l ɨ k + e t y w//h aː k i m + o l m a k//æ g a l a m ɒ q//b ɪ j l e u//b i l æ y//i j a + b u l u//t ɯ t//s a l a y"
@@ -13668,7 +13656,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1139
+    id 1138
     label "DEFEND"
     occurrences "clicsbp-idssegmented-azerbaijani-DEFEND-2//clicsbp-idssegmented-azerbaijani-DEFEND-1//clicsbp-idssegmented-kumyk-DEFEND-1//clicsbp-idssegmented-nogai-DEFEND-1//clicsbp-idssegmented-nogai-DEFEND-2//clicsbp-northeuralex-tur-DEFEND-1//clicsbp-northeuralex-uzn-DEFEND-1//clicsbp-northeuralex-kaz-DEFEND-1//clicsbp-northeuralex-bak-DEFEND-1//clicsbp-northeuralex-tat-DEFEND-2//clicsbp-northeuralex-tat-DEFEND-1//clicsbp-northeuralex-chv-DEFEND-1//clicsbp-wold-Sakha-DEFEND-1"
     words "i d a r æ + e t m æ k//œ z ü n ü + g o r u m a g//d u ʃ m a n d a n + s a q l a n m a q//k o r s a l a n u w//s a k l a n u w//s a v u n m a k//j ɒ q l a m ɒ q//q o ɾ ʁ ɑ u//j a q l au//s a k l au//j a k l au//χ y t ɘ l ɛ//k œ m y s k eː"
@@ -13680,7 +13668,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1140
+    id 1139
     label "KING"
     occurrences "clicsbp-idssegmented-azerbaijani-KING-1//clicsbp-idssegmented-azerbaijani-KING-2//clicsbp-idssegmented-kumyk-KING-1//clicsbp-idssegmented-kumyk-KING-2//clicsbp-idssegmented-nogai-KING-1//clicsbp-northeuralex-tur-KING-1//clicsbp-northeuralex-uzn-KING-1//clicsbp-northeuralex-kaz-KING-1//clicsbp-northeuralex-bak-KING-1//clicsbp-northeuralex-tat-KING-1//clicsbp-northeuralex-chv-KING-1//clicsbp-wold-Sakha-KING-1"
     words "k r a l//p a d ʃ a h//k o r o l j//p a tʃ a//p a t ʃ a//k ɾ a l//q i r ɒ l//p ɑ t ʃ ɑ//k o r o lʲ//p a t ʃ a//k o r o lʲ//ɨ r aː χ t aː ɣ ɨ"
@@ -13692,7 +13680,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1141
+    id 1140
     label "MASTER"
     occurrences "clicsbp-idssegmented-azerbaijani-MASTER-1//clicsbp-idssegmented-azerbaijani-MASTER-2//clicsbp-idssegmented-kumyk-MASTER-1//clicsbp-idssegmented-kumyk-MASTER-2//clicsbp-idssegmented-kumyk-MASTER-3//clicsbp-idssegmented-nogai-MASTER-1//clicsbp-idssegmented-nogai-MASTER-2//clicsbp-wold-Sakha-MASTER-1"
     words "dʒ æ n a b//s a h i b k a r//a ɣ a//j e s i//x o ʒ a j ɨ n//i e//t œ r e//t o y o n"
@@ -13704,7 +13692,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1142
+    id 1141
     label "HOST"
     occurrences "clicsbp-idssegmented-azerbaijani-HOST-2//clicsbp-idssegmented-azerbaijani-HOST-1//clicsbp-idssegmented-kumyk-HOST-2//clicsbp-idssegmented-kumyk-HOST-1//clicsbp-idssegmented-nogai-HOST-2//clicsbp-idssegmented-nogai-HOST-1//clicsbp-wold-Sakha-HOST-1"
     words "s a h i b k a r//a ɣ a//j e s i//x a ʒ a j ɨ n//i e//i e s i//i tʃː i"
@@ -13716,7 +13704,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1143
+    id 1142
     label "SLAVE"
     occurrences "clicsbp-idssegmented-azerbaijani-SLAVE-1//clicsbp-idssegmented-azerbaijani-SLAVE-2//clicsbp-idssegmented-kumyk-SLAVE-1//clicsbp-idssegmented-nogai-SLAVE-1//clicsbp-idssegmented-nogai-SLAVE-2//clicsbp-idssegmented-nogai-SLAVE-3//clicsbp-wold-Sakha-SLAVE-1"
     words "g u l//k œ l æ//q u l//j a l ʃ ɨ//k u l//dʒ o l s u z k u l//k u l u t"
@@ -13728,7 +13716,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1144
+    id 1143
     label "SERVANT"
     occurrences "clicsbp-idssegmented-azerbaijani-SERVANT-1//clicsbp-idssegmented-kumyk-SERVANT-1//clicsbp-idssegmented-nogai-SERVANT-1//clicsbp-wold-Sakha-SERVANT-1//clicsbp-wold-Sakha-SERVANT-2"
     words "x a d i m//q u l//k u l//tʃ a ɣ a r//χ a m n a tʃː ɨ t"
@@ -13740,7 +13728,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1145
+    id 1144
     label "COMMAND"
     occurrences "clicsbp-idssegmented-azerbaijani-COMMAND-1//clicsbp-idssegmented-azerbaijani-COMMAND-2//clicsbp-idssegmented-kumyk-COMMAND-1//clicsbp-idssegmented-nogai-COMMAND-1//clicsbp-wold-Sakha-COMMAND-1"
     words "b u j u r m a g//æ m r + e t m æ k//b u j u r m a q//b u j r ɨ k + b e r y w//b i r i k eː s t eː"
@@ -13752,7 +13740,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1146
+    id 1145
     label "OBEY"
     occurrences "clicsbp-idssegmented-azerbaijani-OBEY-1//clicsbp-idssegmented-kumyk-OBEY-1//clicsbp-idssegmented-kumyk-OBEY-2//clicsbp-idssegmented-nogai-OBEY-1//clicsbp-idssegmented-nogai-OBEY-2//clicsbp-wold-Sakha-OBEY-1//clicsbp-wold-Sakha-OBEY-2"
     words "t a b e + a l m a g//t a b i + b o l m a q//b o j s ɨ n m a q//b o j s ɨ n u w//k œ n y w//i h i t//b a s + b e r i n"
@@ -13764,7 +13752,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1147
+    id 1146
     label "ALLOW OR PERMIT"
     occurrences "clicsbp-idssegmented-azerbaijani-ALLOWORPERMIT-1//clicsbp-idssegmented-kumyk-ALLOWORPERMIT-1//clicsbp-idssegmented-kumyk-ALLOWORPERMIT-2//clicsbp-idssegmented-nogai-ALLOWORPERMIT-1"
     words "i dʒ a z æ + v e r m æ k//i x t i u a r + b e r m e k//i z n u + b e r m e k//ɨ x t ɨ j a r + b e r y w"
@@ -13776,7 +13764,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1148
+    id 1147
     label "FRIEND"
     occurrences "clicsbp-idssegmented-azerbaijani-FRIEND-1//clicsbp-idssegmented-kumyk-FRIEND-1//clicsbp-idssegmented-kumyk-FRIEND-2//clicsbp-idssegmented-kumyk-FRIEND-3//clicsbp-idssegmented-nogai-FRIEND-1//clicsbp-northeuralex-tur-FRIEND-1//clicsbp-northeuralex-tur-FRIEND-2//clicsbp-northeuralex-uzn-FRIEND-1//clicsbp-northeuralex-kaz-FRIEND-1//clicsbp-northeuralex-bak-FRIEND-1//clicsbp-northeuralex-tat-FRIEND-1//clicsbp-northeuralex-chv-FRIEND-1//clicsbp-wold-Sakha-FRIEND-1//clicsbp-wold-Sakha-FRIEND-2"
     words "d o s t//j u w u q//q u r d a ʃ//j o l d a ʃ//d o s//d o s t//a ɾ k a d a ʃ//d o s t//d o s//d u θ//d u s//t u s//d o ɣ o r//a t a s"
@@ -13788,7 +13776,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1149
+    id 1148
     label "ENEMY"
     occurrences "clicsbp-idssegmented-azerbaijani-ENEMY-1//clicsbp-idssegmented-kumyk-ENEMY-1//clicsbp-idssegmented-nogai-ENEMY-1//clicsbp-northeuralex-tur-ENEMY-1//clicsbp-northeuralex-uzn-ENEMY-1//clicsbp-northeuralex-kaz-ENEMY-1//clicsbp-northeuralex-kaz-ENEMY-2//clicsbp-northeuralex-bak-ENEMY-1//clicsbp-northeuralex-tat-ENEMY-1//clicsbp-northeuralex-chv-ENEMY-1//clicsbp-wold-Sakha-ENEMY-1"
     words "d ü ʃ m æ n//d u ʃ m a n//d u ʃ p a n//d y ʃ m a n//d u ʃ m a n//ʒ ɑ u//d ʉ ʃ p ɑ n//j ɯ l a n//d o ʃ m a n//t ə ʂ m a n//œ s t œː χ"
@@ -13800,7 +13788,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1150
+    id 1149
     label "NEIGHBOUR"
     occurrences "clicsbp-idssegmented-azerbaijani-NEIGHBOUR-1//clicsbp-idssegmented-kumyk-NEIGHBOUR-1//clicsbp-idssegmented-nogai-NEIGHBOUR-1//clicsbp-idssegmented-nogai-NEIGHBOUR-2//clicsbp-wold-Sakha-NEIGHBOUR-1"
     words "g o n ʃ u//x o n ʃ u//k o ŋ ɨ s ɨ//a w ɨ l d a s//ɨ a l"
@@ -13812,7 +13800,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1151
+    id 1150
     label "STRANGER"
     occurrences "clicsbp-idssegmented-azerbaijani-STRANGER-1//clicsbp-idssegmented-azerbaijani-STRANGER-2//clicsbp-idssegmented-kumyk-STRANGER-1//clicsbp-idssegmented-kumyk-STRANGER-2//clicsbp-idssegmented-nogai-STRANGER-1//clicsbp-wold-Sakha-STRANGER-1"
     words "j a d + a d a m//t a n ɨ ʃ + o l m a j a n + a d a m//t a n ɨ ʃ + t ü g ü l + a d a m//u a t + g i ʃ i//t a n ɨ s + b o l m a g a n + ä d e m//k i m e + b i lː i b e t + k i h i"
@@ -13824,7 +13812,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1152
+    id 1151
     label "GUEST"
     occurrences "clicsbp-idssegmented-azerbaijani-GUEST-1//clicsbp-idssegmented-kumyk-GUEST-1//clicsbp-idssegmented-nogai-GUEST-1//clicsbp-northeuralex-tur-GUEST-1//clicsbp-northeuralex-tur-GUEST-2//clicsbp-northeuralex-uzn-GUEST-1//clicsbp-northeuralex-kaz-GUEST-1//clicsbp-northeuralex-kaz-GUEST-2//clicsbp-northeuralex-bak-GUEST-1//clicsbp-northeuralex-tat-GUEST-1//clicsbp-northeuralex-chv-GUEST-1//clicsbp-wold-Sakha-GUEST-1//clicsbp-wold-Sakha-GUEST-2"
     words "g o n a g//q o n a q//k o n a k//k o n u k//m i s a f i ɾ//m ɛ h m ɒ n//q o n ɑ q//m e j m ɑ n//q u n a q//q u n a k//χ ə n a//ɨ a l dʒ ɨ t//χ o n o h o"
@@ -13836,7 +13824,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1153
+    id 1152
     label "HELP"
     occurrences "clicsbp-idssegmented-azerbaijani-HELP-1//clicsbp-idssegmented-azerbaijani-HELP-2//clicsbp-idssegmented-kumyk-HELP-1//clicsbp-idssegmented-nogai-HELP-1//clicsbp-idssegmented-nogai-HELP-2//clicsbp-wold-Sakha-HELP-1"
     words "k œ m æ k//j a r d ɨ m//k œ m e k//k œ m e k//j a r d a m//k œ m œ l œ s"
@@ -13848,7 +13836,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1154
+    id 1153
     label "HINDER OR PREVENT"
     occurrences "clicsbp-idssegmented-azerbaijani-HINDERORPREVENT-1//clicsbp-idssegmented-kumyk-HINDERORPREVENT-1//clicsbp-idssegmented-kumyk-HINDERORPREVENT-2//clicsbp-idssegmented-nogai-HINDERORPREVENT-1"
     words "m a n e + a l m a g//tʃ e t i m + e t m e k//p u r ʃ a w + e t m e k//b ɨ r ʃ a w + b e r y w"
@@ -13860,7 +13848,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1155
+    id 1154
     label "QUARREL"
     occurrences "clicsbp-idssegmented-azerbaijani-QUARREL-1//clicsbp-idssegmented-azerbaijani-QUARREL-2//clicsbp-idssegmented-kumyk-QUARREL-1//clicsbp-idssegmented-nogai-QUARREL-1//clicsbp-idssegmented-nogai-QUARREL-2//clicsbp-wold-Sakha-QUARREL-1//clicsbp-wold-Sakha-QUARREL-2"
     words "d a l a ʃ m a//v u r u ʃ m a//e r i ʃ i w//u r s ɨ//b u z d ɨ r ɨ s u w//iː r s eː n//e t i h iː"
@@ -13872,7 +13860,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1156
+    id 1155
     label "MEET"
     occurrences "clicsbp-idssegmented-azerbaijani-MEET-1//clicsbp-idssegmented-kumyk-MEET-1//clicsbp-idssegmented-nogai-MEET-1//clicsbp-idssegmented-nogai-MEET-2//clicsbp-northeuralex-tur-MEET-1//clicsbp-northeuralex-tur-MEET-2//clicsbp-northeuralex-uzn-MEET-1//clicsbp-northeuralex-kaz-MEET-1//clicsbp-northeuralex-bak-MEET-1//clicsbp-northeuralex-bak-MEET-2//clicsbp-northeuralex-bak-MEET-3//clicsbp-northeuralex-tat-MEET-1//clicsbp-northeuralex-chv-MEET-1//clicsbp-wold-Sakha-MEET-1"
     words "gʲ œ r ü ʃ m æ k//j o l u q m a q//k a r s ɨ + a l u w//j o l ɨ g ɨ s u w//ɾ a s t l a m a k//i s a b ɛ t + ɛ t m ɛ k//d u tʃ ɒ r + b o l m ɒ q//k e z d e s u//t o j o y//o s r a t ɯ u//q a r ʃ ɯ l au//o tɕ r a t u//t ɘ l + p u l//k œ r s y s"
@@ -13884,7 +13872,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1157
+    id 1156
     label "PROSTITUTE"
     occurrences "clicsbp-idssegmented-azerbaijani-PROSTITUTE-1//clicsbp-idssegmented-azerbaijani-PROSTITUTE-2//clicsbp-idssegmented-kumyk-PROSTITUTE-1//clicsbp-idssegmented-kumyk-PROSTITUTE-2//clicsbp-idssegmented-kumyk-PROSTITUTE-3//clicsbp-idssegmented-nogai-PROSTITUTE-1//clicsbp-idssegmented-nogai-PROSTITUTE-2//clicsbp-wold-Sakha-PROSTITUTE-1"
     words "f a h i ʃ æ//s a t g ɨ n//q a h b a//b i u a b u r//q a n tʃ ɨ q//k a x b a//k a n ʒ ɨ k//s e l eː r tʃ e χ"
@@ -13896,7 +13884,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1158
+    id 1157
     label "FIGHT"
     occurrences "clicsbp-idssegmented-azerbaijani-FIGHT-1//clicsbp-idssegmented-azerbaijani-FIGHT-2//clicsbp-idssegmented-kumyk-FIGHT-1//clicsbp-idssegmented-kumyk-FIGHT-2//clicsbp-idssegmented-nogai-FIGHT-1//clicsbp-idssegmented-nogai-FIGHT-2//clicsbp-idssegmented-nogai-FIGHT-3//clicsbp-wold-Sakha-FIGHT-1//clicsbp-wold-Sakha-FIGHT-2//clicsbp-savelyevturkic-Karaim-FIGHT-1"
     words "s a v a ʃ m a g//v u r u ʃ m a g//u a b u ʃ m a q//d a w + e t m e k//t œ b e l e s y w//t o k a l a s u w//s o g ɨ s u w//o χ s u s//s e r iː l e s//t u t u ʃ"
@@ -13908,7 +13896,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1159
+    id 1158
     label "BATTLE"
     occurrences "clicsbp-idssegmented-azerbaijani-BATTLE-1//clicsbp-idssegmented-azerbaijani-BATTLE-2//clicsbp-idssegmented-kumyk-BATTLE-1//clicsbp-idssegmented-kumyk-BATTLE-2//clicsbp-idssegmented-kumyk-BATTLE-3//clicsbp-idssegmented-nogai-BATTLE-1//clicsbp-idssegmented-nogai-BATTLE-2//clicsbp-wold-Sakha-BATTLE-1"
     words "d œ j ü ʃ//d a v a + m y h a r i b æ//d a w//u r u ʃ//u a b u ʃ u w//s o g ɨ s//k a w g a//s e r iː"
@@ -13920,7 +13908,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1160
+    id 1159
     label "ARMY"
     occurrences "clicsbp-idssegmented-azerbaijani-ARMY-1//clicsbp-idssegmented-kumyk-ARMY-1//clicsbp-idssegmented-kumyk-ARMY-2//clicsbp-idssegmented-kumyk-ARMY-3//clicsbp-idssegmented-nogai-ARMY-1//clicsbp-wold-Sakha-ARMY-1"
     words "o r d u//a s g e r//a r m i u a//tʃ e r i w//æ s k e r//s e r iː"
@@ -13932,7 +13920,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1161
+    id 1160
     label "SOLDIER"
     occurrences "clicsbp-idssegmented-azerbaijani-SOLDIER-1//clicsbp-idssegmented-kumyk-SOLDIER-1//clicsbp-idssegmented-kumyk-SOLDIER-2//clicsbp-idssegmented-nogai-SOLDIER-1//clicsbp-wold-Sakha-SOLDIER-1"
     words "æ s gʲ æ r//s o l d a t//a s g e r tʃ i//æ s k e r ʃ i//s a lː aː t"
@@ -13944,7 +13932,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1162
+    id 1161
     label "WEAPONS"
     occurrences "clicsbp-idssegmented-azerbaijani-WEAPONS-1//clicsbp-idssegmented-azerbaijani-WEAPONS-2//clicsbp-idssegmented-kumyk-WEAPONS-1//clicsbp-idssegmented-nogai-WEAPONS-1//clicsbp-wold-Sakha-WEAPONS-1"
     words "j a r a g//s i l a h//s a w u t//s a w ɨ t//s e r iː + s e b e"
@@ -13956,7 +13944,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1163
+    id 1162
     label "CLUB"
     occurrences "clicsbp-idssegmented-azerbaijani-CLUB-1//clicsbp-idssegmented-azerbaijani-CLUB-2//clicsbp-idssegmented-kumyk-CLUB-1//clicsbp-idssegmented-nogai-CLUB-1//clicsbp-idssegmented-nogai-CLUB-2"
     words "d æ j æ n æ k//k œ t æ k//tʃ o q m a r//ʃ o k p a r//a l d a s p a n"
@@ -13968,7 +13956,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1164
+    id 1163
     label "SLING"
     occurrences "clicsbp-idssegmented-azerbaijani-SLING-1//clicsbp-idssegmented-kumyk-SLING-1//clicsbp-idssegmented-nogai-SLING-1"
     words "s a p a n d//q a z a r x ɨ//t a q i j a"
@@ -13980,7 +13968,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1165
+    id 1164
     label "SPEAR"
     occurrences "clicsbp-idssegmented-azerbaijani-SPEAR-1//clicsbp-idssegmented-azerbaijani-SPEAR-2//clicsbp-idssegmented-azerbaijani-SPEAR-3//clicsbp-idssegmented-kumyk-SPEAR-1//clicsbp-idssegmented-nogai-SPEAR-1//clicsbp-wold-Sakha-SPEAR-1"
     words "n i z æ//dʒ i d a//b æ r k + d a l a ʃ m a g//s ü ŋ ü//s ü ŋ g i//y ŋ yː"
@@ -13992,7 +13980,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1166
+    id 1165
     label "SWORD"
     occurrences "clicsbp-idssegmented-azerbaijani-SWORD-1//clicsbp-idssegmented-kumyk-SWORD-1//clicsbp-idssegmented-kumyk-SWORD-2//clicsbp-idssegmented-nogai-SWORD-1//clicsbp-wold-Sakha-SWORD-1"
     words "g ɨ l ɨ n dʒ//q ɨ l ɨ tʃ//x ɨ n ʒ a l//k ɨ l ɨ ʃ//b o l o t"
@@ -14004,7 +13992,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1167
+    id 1166
     label "CANNON OR GUN"
     occurrences "clicsbp-idssegmented-azerbaijani-CANNONORGUN-1//clicsbp-idssegmented-azerbaijani-CANNONORGUN-2//clicsbp-idssegmented-kumyk-CANNONORGUN-1//clicsbp-idssegmented-kumyk-CANNONORGUN-2//clicsbp-idssegmented-nogai-CANNONORGUN-1//clicsbp-idssegmented-nogai-CANNONORGUN-2//clicsbp-idssegmented-nogai-CANNONORGUN-3"
     words "t ü f æ n gʲ//t o p//t ü b e k//t o p//m ɨ l t ɨ k//t ü b e k//t o p"
@@ -14016,7 +14004,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1168
+    id 1167
     label "HELMET"
     occurrences "clicsbp-idssegmented-azerbaijani-HELMET-1//clicsbp-idssegmented-azerbaijani-HELMET-2//clicsbp-idssegmented-kumyk-HELMET-1//clicsbp-idssegmented-kumyk-HELMET-2//clicsbp-idssegmented-nogai-HELMET-1//clicsbp-idssegmented-nogai-HELMET-2"
     words "d æ b i l ɣ æ//d æ m i r + p a p a g//t e m i r + b œ r k//a s g e r + t a q ɨ u a//ʃ l e m//t e m i r + b œ r k"
@@ -14028,7 +14016,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1169
+    id 1168
     label "SHIELD"
     occurrences "clicsbp-idssegmented-azerbaijani-SHIELD-1//clicsbp-idssegmented-kumyk-SHIELD-1//clicsbp-idssegmented-nogai-SHIELD-1"
     words "g a l x a n//t a l q a n//t a l q a n"
@@ -14040,7 +14028,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1170
+    id 1169
     label "VICTORY"
     occurrences "clicsbp-idssegmented-azerbaijani-VICTORY-1//clicsbp-idssegmented-kumyk-VICTORY-1//clicsbp-idssegmented-nogai-VICTORY-1//clicsbp-wold-Sakha-VICTORY-1"
     words "g æ l æ b æ//y s t ü n l ü k//j e n g y w//k ɨ a y ɨː"
@@ -14052,7 +14040,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1171
+    id 1170
     label "DEFEAT"
     occurrences "clicsbp-idssegmented-azerbaijani-DEFEAT-1//clicsbp-idssegmented-kumyk-DEFEAT-1//clicsbp-idssegmented-kumyk-DEFEAT-2//clicsbp-idssegmented-nogai-DEFEAT-1//clicsbp-wold-Sakha-DEFEAT-1"
     words "m æ ɣ l u b i yː æ t//t ü p + b o l u w//u t d u r u w//j e n g i l y w//χ o tː o r uː"
@@ -14064,7 +14052,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1172
+    id 1171
     label "ATTACK"
     occurrences "clicsbp-idssegmented-azerbaijani-ATTACK-1//clicsbp-idssegmented-kumyk-ATTACK-1//clicsbp-idssegmented-nogai-ATTACK-1//clicsbp-idssegmented-nogai-ATTACK-2//clicsbp-wold-Sakha-ATTACK-1"
     words "h ü dʒ u m + e t m æ k//h u ʒ u m + e t m e k//a t a k a + e t y w//k a r s ɨ + b a r u w//a t aː k a"
@@ -14076,7 +14064,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1173
+    id 1172
     label "RETREAT"
     occurrences "clicsbp-idssegmented-azerbaijani-RETREAT-1//clicsbp-idssegmented-kumyk-RETREAT-1//clicsbp-idssegmented-nogai-RETREAT-1//clicsbp-wold-Sakha-RETREAT-1"
     words "gʲ e r i + tʃ æ k i l m æ k//a r t ɣ a + t a r t ɨ l m a q//a r t k a + t a n o w//tʃ u g u y"
@@ -14088,7 +14076,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1174
+    id 1173
     label "SURRENDER"
     occurrences "clicsbp-idssegmented-azerbaijani-SURRENDER-1//clicsbp-idssegmented-kumyk-SURRENDER-1//clicsbp-idssegmented-nogai-SURRENDER-1//clicsbp-wold-Sakha-SURRENDER-1"
     words "t æ s l i m + o l m a g//q o l ɣ a + b a r m a q//b e r i l y w//b e r e n"
@@ -14100,7 +14088,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1175
+    id 1174
     label "PRISONER"
     occurrences "clicsbp-idssegmented-azerbaijani-PRISONER-1//clicsbp-idssegmented-azerbaijani-PRISONER-2//clicsbp-idssegmented-kumyk-PRISONER-1//clicsbp-idssegmented-kumyk-PRISONER-2//clicsbp-idssegmented-nogai-PRISONER-1//clicsbp-idssegmented-nogai-PRISONER-2//clicsbp-wold-Sakha-PRISONER-1"
     words "æ s i r//d u s t a g//j e s i r//t u s n a q//j e s i r + ä d e m//k a p a l ɨ n g a n + ä d e m//b i l i e nː e y"
@@ -14112,7 +14100,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1176
+    id 1175
     label "GUARD"
     occurrences "clicsbp-idssegmented-azerbaijani-GUARD-1//clicsbp-idssegmented-azerbaijani-GUARD-2//clicsbp-idssegmented-kumyk-GUARD-1//clicsbp-idssegmented-kumyk-GUARD-2//clicsbp-idssegmented-kumyk-GUARD-3//clicsbp-idssegmented-nogai-GUARD-1//clicsbp-wold-Sakha-GUARD-1"
     words "m y h a f i z æ + d æ s t æ s i//g a r o v u l//q a r a w u l//s a q l a w tʃ u//t u r ɣ a q//k a r a w ɨ l//χ a r a b ɨ l"
@@ -14124,7 +14112,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1177
+    id 1176
     label "AMBUSH"
     occurrences "clicsbp-idssegmented-azerbaijani-AMBUSH-1//clicsbp-idssegmented-kumyk-AMBUSH-1//clicsbp-idssegmented-kumyk-AMBUSH-2//clicsbp-idssegmented-nogai-AMBUSH-1//clicsbp-wold-Sakha-AMBUSH-1"
     words "j o l u n a + p u s g u + g o j m a g//p u s ɣ u n + e t m e//a l d ɨ n + g e s i w//j o l ɨ n + k e s y w//t o h uː r"
@@ -14136,7 +14124,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1178
+    id 1177
     label "FISHERMAN"
     occurrences "clicsbp-idssegmented-azerbaijani-FISHERMAN-1//clicsbp-idssegmented-kumyk-FISHERMAN-1//clicsbp-idssegmented-nogai-FISHERMAN-1//clicsbp-wold-Sakha-FISHERMAN-1"
     words "b a l ɨ g tʃ ɨ//b a l ɨ q tʃ ɨ//b a l ɨ k ʃ ɨ//b a l ɨ k s ɨ t"
@@ -14148,7 +14136,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1179
+    id 1178
     label "FISHING LINE"
     occurrences "clicsbp-idssegmented-azerbaijani-FISHINGLINE-1//clicsbp-idssegmented-kumyk-FISHINGLINE-1//clicsbp-idssegmented-nogai-FISHINGLINE-1//clicsbp-idssegmented-nogai-FISHINGLINE-2"
     words "t i l o v + i p i//q a r m a q + j i p//o r m a n l ɨ k//k a r m a k + a g a ʃ l ɨ k + j i n"
@@ -14160,7 +14148,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1180
+    id 1179
     label "FISHNET"
     occurrences "clicsbp-idssegmented-azerbaijani-FISHNET-1//clicsbp-idssegmented-kumyk-FISHNET-2//clicsbp-idssegmented-kumyk-FISHNET-1//clicsbp-idssegmented-nogai-FISHNET-1//clicsbp-wold-Sakha-FISHNET-1"
     words "b a l ɨ g tʃ ɨ l ɨ g + t o r u//a w//t o r//j ɨ l ɨ m//i l i m"
@@ -14172,7 +14160,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1181
+    id 1180
     label "FISH TRAP"
     occurrences "clicsbp-idssegmented-azerbaijani-FISHTRAP-1//clicsbp-idssegmented-kumyk-FISHTRAP-1//clicsbp-idssegmented-nogai-FISHTRAP-1//clicsbp-idssegmented-nogai-FISHTRAP-2//clicsbp-wold-Sakha-FISHTRAP-1"
     words "b a l ɨ g + ü tʃ ü n + t æ l æ//m a nː a//b a l ɨ k a + k a p k a n//t u z a k//t uː"
@@ -14184,7 +14172,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1182
+    id 1181
     label "BAIT"
     occurrences "clicsbp-idssegmented-azerbaijani-BAIT-1//clicsbp-idssegmented-azerbaijani-BAIT-2//clicsbp-idssegmented-kumyk-BAIT-1//clicsbp-idssegmented-nogai-BAIT-1//clicsbp-idssegmented-nogai-BAIT-2//clicsbp-wold-Sakha-BAIT-1"
     words "dʒ a z i b æ//t æ l æ + j e m i//a l d a t ɣ ɨ tʃ + a ʃ//a l d a w l ɨ k//a l d a t k ɨ ʃ + a s//m e ŋ i e"
@@ -14196,7 +14184,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1183
+    id 1182
     label "HUNT"
     occurrences "clicsbp-idssegmented-azerbaijani-HUNT-1//clicsbp-idssegmented-kumyk-HUNT-1//clicsbp-idssegmented-nogai-HUNT-1//clicsbp-northeuralex-tur-HUNT-1//clicsbp-northeuralex-uzn-HUNT-1//clicsbp-northeuralex-kaz-HUNT-1//clicsbp-northeuralex-bak-HUNT-1//clicsbp-northeuralex-tat-HUNT-1//clicsbp-northeuralex-chv-HUNT-1//clicsbp-wold-Sakha-HUNT-1//clicsbp-savelyevturkic-Karaim-HUNT-1"
     words "o v tʃ u l u g + e t m æ k//h a w + e t m e k//a ŋ g a + ʃ ɨ g u w//a v l a n m a k//ɒ w + q i l m ɒ q//ɑ u l ɑ u//au l au//au l au//s u n a r a + ɕ y r ɛ//b u l t aː//a v l a"
@@ -14208,7 +14196,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1184
+    id 1183
     label "MISS (A TARGET)"
     occurrences "clicsbp-idssegmented-azerbaijani-MISSATARGET-1//clicsbp-idssegmented-kumyk-MISSATARGET-1//clicsbp-idssegmented-nogai-MISSATARGET-1//clicsbp-idssegmented-nogai-MISSATARGET-2//clicsbp-idssegmented-nogai-MISSATARGET-3//clicsbp-wold-Sakha-MISSATARGET-1"
     words "s æ h v + e t m æ k//t i j m e j + q a l m a q//t i j m e j + k e t y w//j a ŋ ɨ l ɨ s l ɨ k + e t y w//j a ŋ ɨ l u w//s ɨː s"
@@ -14220,7 +14208,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1185
+    id 1184
     label "TRAP (PITFALL)"
     occurrences "clicsbp-idssegmented-azerbaijani-TRAPPITFALL-1//clicsbp-idssegmented-azerbaijani-TRAPPITFALL-2//clicsbp-idssegmented-kumyk-TRAPPITFALL-1//clicsbp-idssegmented-kumyk-TRAPPITFALL-2//clicsbp-idssegmented-nogai-TRAPPITFALL-2//clicsbp-idssegmented-nogai-TRAPPITFALL-1//clicsbp-northeuralex-tur-TRAPPITFALL-1//clicsbp-northeuralex-uzn-TRAPPITFALL-1//clicsbp-northeuralex-kaz-TRAPPITFALL-1//clicsbp-northeuralex-kaz-TRAPPITFALL-2//clicsbp-northeuralex-bak-TRAPPITFALL-1//clicsbp-northeuralex-bak-TRAPPITFALL-2//clicsbp-northeuralex-tat-TRAPPITFALL-1//clicsbp-northeuralex-tat-TRAPPITFALL-2//clicsbp-northeuralex-chv-TRAPPITFALL-1//clicsbp-northeuralex-chv-TRAPPITFALL-2//clicsbp-wold-Sakha-TRAPPITFALL-1//clicsbp-wold-Sakha-TRAPPITFALL-2//clicsbp-wold-Sakha-TRAPPITFALL-3//clicsbp-wold-Sakha-TRAPPITFALL-4"
     words "t æ l æ//h i j l æ//t u z a q//q a p ɣ ɨ n//t u z a k//k a p k a n//t u z a k//q ɒ p q ɒ n//d ʉ z ɑ q//q ɑ q p ɑ n//t o ð a k//q a p q a n//t o z a k//q ɑ p q ɤ n//t a p ə//k a p k ə n//χ a p k aː n//tʃ aː r k aː n//t u h a χ//s o χ s o"
@@ -14232,7 +14220,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1186
+    id 1185
     label "LAW"
     occurrences "clicsbp-idssegmented-azerbaijani-LAW-1//clicsbp-idssegmented-kumyk-LAW-1//clicsbp-idssegmented-nogai-LAW-1//clicsbp-wold-Sakha-LAW-1"
     words "g a n u n//z a k o n//z a k o n//s o k u o n"
@@ -14244,7 +14232,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1187
+    id 1186
     label "ADJUDICATE"
     occurrences "clicsbp-idssegmented-azerbaijani-ADJUDICATE-1//clicsbp-idssegmented-kumyk-ADJUDICATE-1//clicsbp-idssegmented-kumyk-ADJUDICATE-2//clicsbp-idssegmented-nogai-ADJUDICATE-1//clicsbp-idssegmented-nogai-ADJUDICATE-2//clicsbp-wold-Sakha-ADJUDICATE-1"
     words "m y h a k i m æ + e t m æ k//s u d + e t m e k//t œ r e + g e s m e k//s u d + e t y w//s u d + k e s y w//uː r"
@@ -14256,7 +14244,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1188
+    id 1187
     label "JUDGMENT"
     occurrences "clicsbp-idssegmented-azerbaijani-JUDGMENT-1//clicsbp-idssegmented-kumyk-JUDGMENT-1//clicsbp-idssegmented-kumyk-JUDGMENT-2//clicsbp-idssegmented-kumyk-JUDGMENT-3//clicsbp-idssegmented-nogai-JUDGMENT-1//clicsbp-wold-Sakha-JUDGMENT-1"
     words "m y h a k i m æ n i n + h œ k m ü//s u d n u + h u k m u s u//t œ r e + g e s i w//h u k m u + e t i w//s u d t ɨ ŋ + k a r a r ɨ//uː r a χ"
@@ -14268,7 +14256,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1189
+    id 1188
     label "WITNESS"
     occurrences "clicsbp-idssegmented-azerbaijani-WITNESS-1//clicsbp-idssegmented-kumyk-WITNESS-1//clicsbp-idssegmented-nogai-WITNESS-1//clicsbp-idssegmented-nogai-WITNESS-2//clicsbp-wold-Sakha-WITNESS-1//clicsbp-wold-Sakha-WITNESS-2"
     words "ʃ a h i d//ʃ a h a t//ʃ a j ɨ t//ʃ a g a t//t u o h u//k e r e h i t"
@@ -14280,7 +14268,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1190
+    id 1189
     label "SWEAR"
     occurrences "clicsbp-idssegmented-azerbaijani-SWEAR-1//clicsbp-idssegmented-kumyk-SWEAR-1//clicsbp-idssegmented-kumyk-SWEAR-2//clicsbp-idssegmented-nogai-SWEAR-1//clicsbp-idssegmented-nogai-SWEAR-2//clicsbp-wold-Sakha-SWEAR-1"
     words "a n d + i tʃ m æ k//a n t + e t m e k//a n t + i tʃ m e k//a n t + e t y w//a n t + b e r y w//a n d a ɣ a y"
@@ -14292,7 +14280,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1191
+    id 1190
     label "OATH"
     occurrences "clicsbp-idssegmented-azerbaijani-OATH-1//clicsbp-idssegmented-kumyk-OATH-1//clicsbp-idssegmented-nogai-OATH-1//clicsbp-idssegmented-nogai-OATH-2//clicsbp-wold-Sakha-OATH-1"
     words "a n d//a n t//a n t//w a d e//a n d a ɣ a r"
@@ -14304,7 +14292,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1192
+    id 1191
     label "ACCUSE"
     occurrences "clicsbp-idssegmented-azerbaijani-ACCUSE-1//clicsbp-idssegmented-azerbaijani-ACCUSE-2//clicsbp-idssegmented-kumyk-ACCUSE-2//clicsbp-idssegmented-kumyk-ACCUSE-1//clicsbp-idssegmented-nogai-ACCUSE-1//clicsbp-wold-Sakha-ACCUSE-1"
     words "t a g s ɨ r l a n d ɨ r m a g//gʲ u n a h k a r l a n d ɨ r m a g//a j ɨ p l a m a q//g ü n a h l a m a q//k ü n ä l e w//b u r u y d aː"
@@ -14316,7 +14304,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1193
+    id 1192
     label "GUILTY"
     occurrences "clicsbp-idssegmented-azerbaijani-GUILTY-1//clicsbp-idssegmented-azerbaijani-GUILTY-2//clicsbp-idssegmented-kumyk-GUILTY-1//clicsbp-idssegmented-kumyk-GUILTY-2//clicsbp-idssegmented-nogai-GUILTY-1//clicsbp-wold-Sakha-GUILTY-1"
     words "t a g s ɨ r l ɨ//gʲ ü n a h k a r//a j ɨ p l ɨ//g ü n a h l ɨ//k ü n ä l i//b u r u y d aː χ"
@@ -14328,7 +14316,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1194
+    id 1193
     label "INNOCENT"
     occurrences "clicsbp-idssegmented-azerbaijani-INNOCENT-1//clicsbp-idssegmented-kumyk-INNOCENT-1//clicsbp-idssegmented-kumyk-INNOCENT-2//clicsbp-idssegmented-nogai-INNOCENT-1//clicsbp-wold-Sakha-INNOCENT-1"
     words "gʲ ü n a h s ɨ z//a j ɨ p s ɨ z//g ü n a h s ɨ z//k ü n ä l i + t u w ɨ l//b u r u y a + s u o χ"
@@ -14340,7 +14328,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1195
+    id 1194
     label "PUNISHMENT"
     occurrences "clicsbp-idssegmented-azerbaijani-PUNISHMENT-1//clicsbp-idssegmented-kumyk-PUNISHMENT-1//clicsbp-idssegmented-kumyk-PUNISHMENT-2//clicsbp-idssegmented-nogai-PUNISHMENT-1//clicsbp-idssegmented-nogai-PUNISHMENT-2"
     words "dʒ æ z a//ʒ a z a//t a q s ɨ r//j e z a l a w//ʃ ü ʃ k e + j o l ɨ k t ɨ r u w"
@@ -14352,7 +14340,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1196
+    id 1195
     label "PRISON"
     occurrences "clicsbp-idssegmented-azerbaijani-PRISON-1//clicsbp-idssegmented-azerbaijani-PRISON-2//clicsbp-idssegmented-kumyk-PRISON-1//clicsbp-idssegmented-nogai-PRISON-1//clicsbp-wold-Sakha-PRISON-1"
     words "d u s t a g x a n a//h æ b s x a n a//t u s n a q//t u t n a k//χ aː y ɨː"
@@ -14364,7 +14352,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1197
+    id 1196
     label "MURDER"
     occurrences "clicsbp-idssegmented-azerbaijani-MURDER-1//clicsbp-idssegmented-azerbaijani-MURDER-2//clicsbp-idssegmented-kumyk-MURDER-1//clicsbp-idssegmented-nogai-MURDER-1//clicsbp-wold-Sakha-MURDER-1"
     words "œ l d ü r m æ//œ l d ü r ü l m æ//œ l t ü r y w//œ l t i r y w//œ l œ r yː"
@@ -14376,7 +14364,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1198
+    id 1197
     label "ADULTERY"
     occurrences "clicsbp-idssegmented-azerbaijani-ADULTERY-1//clicsbp-idssegmented-kumyk-ADULTERY-1//clicsbp-idssegmented-kumyk-ADULTERY-2//clicsbp-idssegmented-nogai-ADULTERY-1//clicsbp-idssegmented-nogai-ADULTERY-2//clicsbp-wold-Sakha-ADULTERY-1"
     words "z i n a//z i n a//q a h b a l ɨ q//k a xʷ a l ɨ k//z ɨ j a//k œ r s yː"
@@ -14388,7 +14376,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1199
+    id 1198
     label "RAPE"
     occurrences "clicsbp-idssegmented-azerbaijani-RAPE-1//clicsbp-idssegmented-kumyk-RAPE-1//clicsbp-idssegmented-kumyk-RAPE-2//clicsbp-idssegmented-nogai-RAPE-1//clicsbp-idssegmented-nogai-RAPE-2//clicsbp-wold-Sakha-RAPE-1"
     words "z o r l a m a//x o r l a w//n a m u s u n a + t i j i w//z a j a l a w//k o r l a w//k yː h y l eː"
@@ -14400,7 +14388,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1200
+    id 1199
     label "STEAL"
     occurrences "clicsbp-idssegmented-azerbaijani-STEAL-1//clicsbp-idssegmented-kumyk-STEAL-1//clicsbp-idssegmented-nogai-STEAL-1//clicsbp-northeuralex-tur-STEAL-1//clicsbp-northeuralex-uzn-STEAL-1//clicsbp-northeuralex-kaz-STEAL-1//clicsbp-northeuralex-bak-STEAL-1//clicsbp-northeuralex-tat-STEAL-1//clicsbp-northeuralex-chv-STEAL-1//clicsbp-wold-Sakha-STEAL-1"
     words "o ɣ u r l a m a g//u r l a m a q//u r l a w//tʃ a l m a k//o ɣ r i l a m ɒ q//ʉ ɾ l ɑ u//u r l au//u r l au//ʋ ə r l a//u o r"
@@ -14412,7 +14400,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1201
+    id 1200
     label "THIEF"
     occurrences "clicsbp-idssegmented-azerbaijani-THIEF-1//clicsbp-idssegmented-kumyk-THIEF-1//clicsbp-idssegmented-nogai-THIEF-1//clicsbp-idssegmented-nogai-THIEF-2//clicsbp-wold-Sakha-THIEF-1"
     words "o ɣ r u//u r u tʃ u//u r//u r ʃ ɨ//u o r u y a χ"
@@ -14424,7 +14412,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1202
+    id 1201
     label "GOD"
     occurrences "clicsbp-idssegmented-azerbaijani-GOD-1//clicsbp-idssegmented-azerbaijani-GOD-2//clicsbp-idssegmented-kumyk-GOD-1//clicsbp-idssegmented-kumyk-GOD-2//clicsbp-idssegmented-kumyk-GOD-3//clicsbp-idssegmented-nogai-GOD-1//clicsbp-idssegmented-nogai-GOD-2//clicsbp-idssegmented-nogai-GOD-3"
     words "a lː a h//t a n r ɨ//a lː a h//t e ŋ i r i//x u d a j//a lː a//t a ŋ r ɨ//k u d a j"
@@ -14436,7 +14424,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1203
+    id 1202
     label "TEMPLE"
     occurrences "clicsbp-idssegmented-azerbaijani-TEMPLE-1//clicsbp-idssegmented-azerbaijani-TEMPLE-2//clicsbp-idssegmented-kumyk-TEMPLE-1//clicsbp-idssegmented-nogai-TEMPLE-1"
     words "i b a d æ t x a n a//k i l s æ//k i l i s a//k e l s e"
@@ -14448,7 +14436,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1204
+    id 1203
     label "SACRIFICE"
     occurrences "clicsbp-idssegmented-azerbaijani-SACRIFICE-1//clicsbp-idssegmented-kumyk-SACRIFICE-1//clicsbp-idssegmented-nogai-SACRIFICE-1//clicsbp-wold-Sakha-SACRIFICE-1"
     words "g u r b a n//q u r b a n//k u r m a n//s i e r t i b e"
@@ -14460,7 +14448,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1205
+    id 1204
     label "WORSHIP"
     occurrences "clicsbp-idssegmented-azerbaijani-WORSHIP-1//clicsbp-idssegmented-kumyk-WORSHIP-1//clicsbp-idssegmented-kumyk-WORSHIP-2//clicsbp-idssegmented-nogai-WORSHIP-2//clicsbp-idssegmented-nogai-WORSHIP-1//clicsbp-wold-Sakha-WORSHIP-1"
     words "s i t a j i ʃ + e t m æ k//i n a n m a q//s u ʒ d a + q ɨ l m a q//ɨ n a n u w//b a s + i j u w//y ŋ"
@@ -14472,7 +14460,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1206
+    id 1205
     label "PRAY"
     occurrences "clicsbp-idssegmented-azerbaijani-PRAY-1//clicsbp-idssegmented-azerbaijani-PRAY-2//clicsbp-idssegmented-kumyk-PRAY-1//clicsbp-idssegmented-nogai-PRAY-1//clicsbp-idssegmented-nogai-PRAY-2//clicsbp-wold-Sakha-PRAY-1"
     words "j a l v a r m a g//d u a + e t m æ k//n a m a z + q ɨ l m a q//t i l e w//n a m a z + k ɨ l u w//y ŋ"
@@ -14484,7 +14472,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1207
+    id 1206
     label "PRIEST"
     occurrences "clicsbp-idssegmented-azerbaijani-PRIEST-1//clicsbp-idssegmented-kumyk-PRIEST-1//clicsbp-idssegmented-nogai-PRIEST-1//clicsbp-wold-Sakha-PRIEST-1"
     words "k e ʃ i ʃ//k e ʃ i ʃ//k e ʃ i ʃ//a ɣ a b ɨ t"
@@ -14496,7 +14484,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1208
+    id 1207
     label "HOLY"
     occurrences "clicsbp-idssegmented-azerbaijani-HOLY-1//clicsbp-idssegmented-kumyk-HOLY-1//clicsbp-idssegmented-kumyk-HOLY-2//clicsbp-idssegmented-nogai-HOLY-1//clicsbp-wold-Sakha-HOLY-1"
     words "m ü g æ dː æ s//s ɨ j l ɨ//b e k + a u a w l u//a j l ɨ k + s ɨ j l ɨ//ɨ t ɨ k"
@@ -14508,7 +14496,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1209
+    id 1208
     label "PREACH"
     occurrences "clicsbp-idssegmented-azerbaijani-PREACH-1//clicsbp-idssegmented-kumyk-PREACH-1//clicsbp-idssegmented-kumyk-PREACH-2//clicsbp-idssegmented-nogai-PREACH-1//clicsbp-idssegmented-nogai-PREACH-2"
     words "v æ ʔ z + e t m æ k//w a ʔ z a + n a s i h a t + e t m e k//d i ŋ e + tʃ a q ɨ r m a q//n a s ɨ j x a t + e t y w//d i n g e + ʃ a k ɨ r u w"
@@ -14520,7 +14508,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1210
+    id 1209
     label "BLESS"
     occurrences "clicsbp-idssegmented-azerbaijani-BLESS-1//clicsbp-idssegmented-azerbaijani-BLESS-2//clicsbp-idssegmented-kumyk-BLESS-3//clicsbp-idssegmented-kumyk-BLESS-1//clicsbp-idssegmented-kumyk-BLESS-2//clicsbp-idssegmented-nogai-BLESS-1//clicsbp-idssegmented-nogai-BLESS-2//clicsbp-wold-Sakha-BLESS-1"
     words "x e j i r + d u a + v e r m æ k//u ɣ u r l a m a g//i z n u + b e r m e k//r a z i l i k + b e r m e k//p u r m a n + b e r m e k//r a z ɨ l ɨ k + b e r y w//j e x ʃ ɨ l ɨ k + t i l e w//a l ɣ aː"
@@ -14532,7 +14520,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1211
+    id 1210
     label "CURSE"
     occurrences "clicsbp-idssegmented-azerbaijani-CURSE-1//clicsbp-idssegmented-azerbaijani-CURSE-2//clicsbp-idssegmented-kumyk-CURSE-1//clicsbp-idssegmented-nogai-CURSE-1//clicsbp-idssegmented-nogai-CURSE-2//clicsbp-wold-Sakha-CURSE-1"
     words "l æ ʔ n æ t + e t m æ k//g a r ɣ ɨ m a g//q a r ɣ a m a q//j a m a n l ɨ k + j o r a w//k a r g a w//k ɨ r aː"
@@ -14544,7 +14532,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1212
+    id 1211
     label "ABSTAIN FROM FOOD"
     occurrences "clicsbp-idssegmented-azerbaijani-ABSTAINFROMFOOD-1//clicsbp-idssegmented-kumyk-ABSTAINFROMFOOD-1//clicsbp-idssegmented-nogai-ABSTAINFROMFOOD-1//clicsbp-wold-Sakha-ABSTAINFROMFOOD-1"
     words "o r u dʒ + t u t m a g//o r a z a + t u t m a q//o r a z a + t u t u w//k u r aː n a χ + k y nː e n"
@@ -14556,7 +14544,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1213
+    id 1212
     label "HEAVEN"
     occurrences "clicsbp-idssegmented-azerbaijani-HEAVEN-1//clicsbp-idssegmented-azerbaijani-HEAVEN-2//clicsbp-idssegmented-kumyk-HEAVEN-1//clicsbp-idssegmented-nogai-HEAVEN-1//clicsbp-idssegmented-nogai-HEAVEN-2//clicsbp-wold-Sakha-HEAVEN-1//clicsbp-wold-Sakha-HEAVEN-2"
     words "dʒ æ nː æ t//æ r ʃ//ʒ e nː e t//k œ k//j e nː e t//ɨ r a y//y œ h e + d o y d u"
@@ -14568,7 +14556,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1214
+    id 1213
     label "HELL"
     occurrences "clicsbp-idssegmented-azerbaijani-HELL-1//clicsbp-idssegmented-kumyk-HELL-1//clicsbp-idssegmented-nogai-HELL-1//clicsbp-wold-Sakha-HELL-1//clicsbp-wold-Sakha-HELL-2"
     words "dʒ æ h æ nː æ m//ʒ a h a nː e m//j a x a nː e m//aː t//a lː a r a + d o y d u"
@@ -14580,7 +14568,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1215
+    id 1214
     label "DEMON"
     occurrences "clicsbp-idssegmented-azerbaijani-DEMON-1//clicsbp-idssegmented-azerbaijani-DEMON-2//clicsbp-idssegmented-azerbaijani-DEMON-3//clicsbp-idssegmented-kumyk-DEMON-1//clicsbp-idssegmented-kumyk-DEMON-2//clicsbp-idssegmented-kumyk-DEMON-3//clicsbp-idssegmented-nogai-DEMON-1//clicsbp-idssegmented-nogai-DEMON-2//clicsbp-idssegmented-nogai-DEMON-3//clicsbp-idssegmented-nogai-DEMON-4//clicsbp-wold-Sakha-DEMON-1"
     words "ʃ e j t a n//dʒ i n//i b l i s//i b l i s//ʃ a j t a n//ʒ i n//j i n//ɨ b r ɨ s//j e l m a w ɨ z//ʃ a j t a n//a b aː h ɨ"
@@ -14592,7 +14580,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1216
+    id 1215
     label "IDOL"
     occurrences "clicsbp-idssegmented-azerbaijani-IDOL-1//clicsbp-idssegmented-kumyk-IDOL-1//clicsbp-idssegmented-kumyk-IDOL-2//clicsbp-idssegmented-nogai-IDOL-1//clicsbp-northeuralex-tur-IDOL-1//clicsbp-northeuralex-tur-IDOL-2//clicsbp-northeuralex-uzn-IDOL-1//clicsbp-northeuralex-kaz-IDOL-1//clicsbp-northeuralex-bak-IDOL-1//clicsbp-northeuralex-tat-IDOL-1//clicsbp-northeuralex-tat-IDOL-2//clicsbp-northeuralex-chv-IDOL-1"
     words "b ü t//i d o l//t a ʃ + s u r a t//t a s + s y w r e t//ʃ ɛ k i l//h ɛ j k ɛ l//ʃ a k l//t ʉ l ʁ ɑ//h ɯ n//s ɤ n//f i g u r a//k ɘ l ɛ t k ɛ"
@@ -14604,7 +14592,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1217
+    id 1216
     label "MAGIC"
     occurrences "clicsbp-idssegmented-azerbaijani-MAGIC-1//clicsbp-idssegmented-azerbaijani-MAGIC-2//clicsbp-idssegmented-kumyk-MAGIC-1//clicsbp-idssegmented-kumyk-MAGIC-2//clicsbp-idssegmented-nogai-MAGIC-1//clicsbp-idssegmented-nogai-MAGIC-2//clicsbp-idssegmented-nogai-MAGIC-3//clicsbp-wold-Sakha-MAGIC-1//clicsbp-wold-Sakha-MAGIC-2"
     words "dʒ a d u gʲ æ r l i k//s e h r b a z l ɨ g//s i h r u tʃ u l u q//x a l m a ʒ tʃ ɨ l ɨ q//s a ʔ a r l ɨ k//ä j l e l i k//s ɨ x ɨ r l ɨ k//a p//χ o m u h u n"
@@ -14616,7 +14604,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1218
+    id 1217
     label "MAGICIAN"
     occurrences "clicsbp-idssegmented-azerbaijani-MAGICIAN-1//clicsbp-idssegmented-azerbaijani-MAGICIAN-2//clicsbp-idssegmented-azerbaijani-MAGICIAN-3//clicsbp-idssegmented-kumyk-MAGICIAN-1//clicsbp-idssegmented-kumyk-MAGICIAN-2//clicsbp-idssegmented-nogai-MAGICIAN-1//clicsbp-idssegmented-nogai-MAGICIAN-2//clicsbp-idssegmented-nogai-MAGICIAN-3//clicsbp-wold-Sakha-MAGICIAN-1"
     words "dʒ a d u gʲ æ r + g a d ɨ n//dʒ a d u gʲ æ r + g a r ɨ//k a f t a r//s i g r u tʃ u + q a t ɨ n//e n e m//o b u r + k u r t k a//s a ʔ a r ʃ ɨ//ä j l e ʒ i//a p t aː χ"
@@ -14628,7 +14616,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1219
+    id 1218
     label "GHOST"
     occurrences "clicsbp-idssegmented-azerbaijani-GHOST-1//clicsbp-idssegmented-azerbaijani-GHOST-2//clicsbp-idssegmented-kumyk-GHOST-1//clicsbp-idssegmented-nogai-GHOST-1//clicsbp-wold-Sakha-GHOST-1//clicsbp-wold-Sakha-GHOST-2"
     words "x æ j a l æ t//g a r a b a s m a//s ü l d ü r//k œ r e + k œ r i n e t a g a n + z a t//s i b i e n//y œ r"
@@ -14640,7 +14628,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1220
+    id 1219
     label "LUNCH"
     occurrences "clicsbp-idssegmented-nogai-LUNCH-1//clicsbp-wold-Sakha-LUNCH-1"
     words "e k i n ʃ i + e r t e ŋ g i + a s//e b i e t"
@@ -14652,7 +14640,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1221
+    id 1220
     label "HAIR"
     occurrences "clicsbp-northeuralex-tur-HAIR-1//clicsbp-northeuralex-uzn-HAIR-1//clicsbp-northeuralex-kaz-HAIR-1//clicsbp-northeuralex-bak-HAIR-1//clicsbp-northeuralex-tat-HAIR-1//clicsbp-northeuralex-chv-HAIR-1"
     words "s a tʃ//s ɒ tʃ//q ə l//s æ s//tɕ æ tɕ//ɕ y ɕ"
@@ -14664,7 +14652,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1222
+    id 1221
     label "BELLY"
     occurrences "clicsbp-northeuralex-tur-BELLY-1//clicsbp-northeuralex-uzn-BELLY-1//clicsbp-northeuralex-kaz-BELLY-1//clicsbp-northeuralex-bak-BELLY-1//clicsbp-northeuralex-tat-BELLY-1//clicsbp-wold-Sakha-BELLY-1//clicsbp-savelyevturkic-Karaim-BELLY-1//clicsbp-savelyevturkic-Karaim-BELLY-2"
     words "k a ɾ ɯ n//q ɒ r i n//q ɑ ɾ ə n//q o r h a q//q o r s a k//i s//k u r s a χ//k a r ɯ n"
@@ -14676,7 +14664,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1223
+    id 1222
     label "FINGERNAIL OR TOENAIL"
     occurrences "clicsbp-northeuralex-tur-FINGERNAILORTOENAIL-1//clicsbp-northeuralex-uzn-FINGERNAILORTOENAIL-1//clicsbp-northeuralex-kaz-FINGERNAILORTOENAIL-1//clicsbp-northeuralex-bak-FINGERNAILORTOENAIL-1//clicsbp-northeuralex-tat-FINGERNAILORTOENAIL-1//clicsbp-northeuralex-chv-FINGERNAILORTOENAIL-1"
     words "t ɯ ɾ n a k//t i r n ɒ q//t ə ɾ n ɑ q//t ɯ r n a q//t ɤ r n a k//tɕ ɘ r n ɛ"
@@ -14688,7 +14676,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1224
+    id 1223
     label "VEIN"
     occurrences "clicsbp-northeuralex-tur-VEIN-1//clicsbp-northeuralex-uzn-VEIN-1//clicsbp-northeuralex-kaz-VEIN-1//clicsbp-northeuralex-kaz-VEIN-2//clicsbp-northeuralex-bak-VEIN-1//clicsbp-northeuralex-tat-VEIN-1//clicsbp-northeuralex-chv-VEIN-1"
     words "d a m a ɾ//q ɒ n + t ɒ m i r//k ø k t ɑ m ə ɾ//k ʊ ɾ e t ɑ m ə ɾ//t a m ɯ r//t a m ɤ r//ʋ ɛ n a"
@@ -14700,7 +14688,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1225
+    id 1224
     label "TENDON"
     occurrences "clicsbp-northeuralex-tur-TENDON-1//clicsbp-northeuralex-uzn-TENDON-1//clicsbp-northeuralex-kaz-TENDON-1//clicsbp-northeuralex-bak-TENDON-1//clicsbp-northeuralex-bak-TENDON-2//clicsbp-northeuralex-tat-TENDON-1//clicsbp-northeuralex-chv-TENDON-1//clicsbp-wold-Sakha-TENDON-1"
     words "k i ɾ i ʃ//t ɒ m i r//s ə ŋ ə ɾ//h e ŋ e r//t a r a m ɯ ʃ//s e ŋ e r//ʂ ə n ə r//i ŋ iː r"
@@ -14712,7 +14700,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1226
+    id 1225
     label "BREATH"
     occurrences "clicsbp-northeuralex-tur-BREATH-1//clicsbp-northeuralex-uzn-BREATH-1//clicsbp-northeuralex-kaz-BREATH-1//clicsbp-northeuralex-bak-BREATH-1//clicsbp-northeuralex-tat-BREATH-1//clicsbp-northeuralex-chv-BREATH-1"
     words "n ɛ f ɛ s//d a m//l e p//h u l ɯ ʃ//s u l ɤ ʃ//s ɯ ʋ l a ʋ"
@@ -14724,7 +14712,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1227
+    id 1226
     label "TASTE"
     occurrences "clicsbp-northeuralex-tur-TASTE-1//clicsbp-northeuralex-tur-TASTE-2//clicsbp-northeuralex-uzn-TASTE-1//clicsbp-northeuralex-kaz-TASTE-1//clicsbp-northeuralex-kaz-TASTE-2//clicsbp-northeuralex-kaz-TASTE-3//clicsbp-northeuralex-bak-TASTE-1//clicsbp-northeuralex-tat-TASTE-1//clicsbp-northeuralex-tat-TASTE-2//clicsbp-northeuralex-chv-TASTE-1"
     words "t a t//l ɛ zː ɛ t//t a m//d æ m//t ɑ t ə m//t ɑ l ʁ ɑ m//t æ m//t æ m//z æ w ɤ k//t ɛ χ ɘ m"
@@ -14736,7 +14724,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1228
+    id 1227
     label "SLEEP (STATE)"
     occurrences "clicsbp-northeuralex-tur-SLEEPSTATE-1//clicsbp-northeuralex-uzn-SLEEPSTATE-1//clicsbp-northeuralex-kaz-SLEEPSTATE-1//clicsbp-northeuralex-kaz-SLEEPSTATE-2//clicsbp-northeuralex-bak-SLEEPSTATE-1//clicsbp-northeuralex-tat-SLEEPSTATE-1//clicsbp-northeuralex-chv-SLEEPSTATE-1"
     words "u j k u//u j q u//ʉ j q ə//ʉ j ə q t ɑ u//j o q l au//j o q ɤ//ɯ j χ ə"
@@ -14748,7 +14736,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1229
+    id 1228
     label "DREAM"
     occurrences "clicsbp-northeuralex-tur-DREAM-1//clicsbp-northeuralex-tur-DREAM-2//clicsbp-northeuralex-uzn-DREAM-1//clicsbp-northeuralex-kaz-DREAM-1//clicsbp-northeuralex-bak-DREAM-1//clicsbp-northeuralex-tat-DREAM-1//clicsbp-northeuralex-chv-DREAM-1"
     words "d y ʃ//ɾ y j a//t u ʃ//t ʊ s//t ø ʃ//t œ ʃ//t ɘ l ɘ k"
@@ -14760,7 +14748,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1230
+    id 1229
     label "STONE"
     occurrences "clicsbp-northeuralex-tur-STONE-1//clicsbp-northeuralex-uzn-STONE-1//clicsbp-northeuralex-kaz-STONE-1//clicsbp-northeuralex-bak-STONE-1//clicsbp-northeuralex-tat-STONE-1//clicsbp-northeuralex-chv-STONE-1//clicsbp-savelyevturkic-Karaim-STONE-1"
     words "t a ʃ//t ɒ ʃ//t ɑ s//t a ʃ//t a ʃ//tɕ u l//t a ʃ"
@@ -14772,7 +14760,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1231
+    id 1230
     label "GROUND"
     occurrences "clicsbp-northeuralex-tur-GROUND-1//clicsbp-northeuralex-tur-GROUND-2//clicsbp-northeuralex-uzn-GROUND-1//clicsbp-northeuralex-kaz-GROUND-1//clicsbp-northeuralex-bak-GROUND-1//clicsbp-northeuralex-tat-GROUND-1//clicsbp-northeuralex-chv-GROUND-1"
     words "j ɛ ɾ//z ɛ m i n//t u p r ɒ q//q ə ɾ t ə s//t u p r a q//t u f r a k//t ə p r a"
@@ -14784,7 +14772,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1232
+    id 1231
     label "SPARK"
     occurrences "clicsbp-northeuralex-tur-SPARK-1//clicsbp-northeuralex-uzn-SPARK-1//clicsbp-northeuralex-kaz-SPARK-1//clicsbp-northeuralex-bak-SPARK-1//clicsbp-northeuralex-tat-SPARK-1//clicsbp-northeuralex-chv-SPARK-1"
     words "k ɯ v ɯ l dʒ ɯ m//j a l t//ʉ ʃ q ə n//o s q o n//o tɕ q ɤ n//χ ɘ m"
@@ -14796,7 +14784,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1233
+    id 1232
     label "FROST"
     occurrences "clicsbp-northeuralex-tur-FROST-1//clicsbp-northeuralex-uzn-FROST-1//clicsbp-northeuralex-kaz-FROST-1//clicsbp-northeuralex-bak-FROST-1//clicsbp-northeuralex-tat-FROST-1//clicsbp-northeuralex-tat-FROST-2//clicsbp-northeuralex-chv-FROST-1"
     words "d o n//a dʒ ɒ z//s uə q//h a l q ɯ n//s u ɤ k//s a l q ɤ n//s i ʋ ɘ"
@@ -14808,7 +14796,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1234
+    id 1233
     label "DIRT"
     occurrences "clicsbp-northeuralex-tur-DIRT-1//clicsbp-northeuralex-tur-DIRT-2//clicsbp-northeuralex-uzn-DIRT-1//clicsbp-northeuralex-kaz-DIRT-1//clicsbp-northeuralex-bak-DIRT-1//clicsbp-northeuralex-tat-DIRT-1//clicsbp-northeuralex-chv-DIRT-1"
     words "tʃ a m u ɾ//p i s l i k//g a r d//k ə ɾ//b a t q a q//p ɤ tɕ r a k//p ɯ l tɕ ə k"
@@ -14820,7 +14808,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1235
+    id 1234
     label "HILL"
     occurrences "clicsbp-northeuralex-tur-HILL-1//clicsbp-northeuralex-uzn-HILL-1//clicsbp-northeuralex-kaz-HILL-1//clicsbp-northeuralex-kaz-HILL-2//clicsbp-northeuralex-kaz-HILL-3//clicsbp-northeuralex-bak-HILL-1//clicsbp-northeuralex-tat-HILL-1//clicsbp-northeuralex-chv-HILL-1//clicsbp-northeuralex-chv-HILL-2"
     words "t ɛ p ɛ//t ɛ p a//t ø b e//b e l e s//b e l e s b e l e s//t y b æ//q ɑ l q u//s ə r t//t ɘ m ɛ s k ɛ"
@@ -14832,7 +14820,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1236
+    id 1235
     label "MOUNTAIN"
     occurrences "clicsbp-northeuralex-tur-MOUNTAIN-1//clicsbp-northeuralex-uzn-MOUNTAIN-1//clicsbp-northeuralex-kaz-MOUNTAIN-1//clicsbp-northeuralex-bak-MOUNTAIN-1//clicsbp-northeuralex-tat-MOUNTAIN-1//clicsbp-northeuralex-chv-MOUNTAIN-1"
     words "d aː//t ɒ ɣ//t ɑ u//t au//t au//t u"
@@ -14844,7 +14832,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1237
+    id 1236
     label "SPRING (OF WATER)"
     occurrences "clicsbp-northeuralex-tur-SPRINGOFWATER-1//clicsbp-northeuralex-tur-SPRINGOFWATER-2//clicsbp-northeuralex-uzn-SPRINGOFWATER-1//clicsbp-northeuralex-kaz-SPRINGOFWATER-1//clicsbp-northeuralex-bak-SPRINGOFWATER-1//clicsbp-northeuralex-tat-SPRINGOFWATER-1//clicsbp-northeuralex-chv-SPRINGOFWATER-1"
     words "p ɯ n a ɾ//k a j n a k//b u l ɒ q//q ɑ j n ɑ ɾ//ʃ i ʃ m æ//tɕ i ʃ m æ//ɕ ə l + k u ɕ"
@@ -14856,7 +14844,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1238
+    id 1237
     label "RIVER"
     occurrences "clicsbp-northeuralex-tur-RIVER-1//clicsbp-northeuralex-uzn-RIVER-1//clicsbp-northeuralex-kaz-RIVER-1//clicsbp-northeuralex-bak-RIVER-1//clicsbp-northeuralex-tat-RIVER-1//clicsbp-northeuralex-chv-RIVER-1//clicsbp-savelyevturkic-Karaim-RIVER-1"
     words "n ɛ h i ɾ//d a r j ɒ//ø z e n//j ɯ l ɣ a//d æ r ʔ j a//j u χ a n + ʂ ɯ ʋ//ø z æ n"
@@ -14868,7 +14856,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1239
+    id 1238
     label "BRANCH"
     occurrences "clicsbp-northeuralex-tur-BRANCH-1//clicsbp-northeuralex-tur-BRANCH-2//clicsbp-northeuralex-uzn-BRANCH-1//clicsbp-northeuralex-kaz-BRANCH-1//clicsbp-northeuralex-bak-BRANCH-1//clicsbp-northeuralex-tat-BRANCH-1//clicsbp-northeuralex-chv-BRANCH-1//clicsbp-savelyevturkic-Karaim-BRANCH-1"
     words "d a l//b u d a k//ʃ ɒ χ//b ʉ t ɑ q//b o t a q//b o t a k//t u r a t//b u t a k"
@@ -14880,7 +14868,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1240
+    id 1239
     label "WILLOW"
     occurrences "clicsbp-northeuralex-tur-WILLOW-1//clicsbp-northeuralex-uzn-WILLOW-1//clicsbp-northeuralex-kaz-WILLOW-1//clicsbp-northeuralex-bak-WILLOW-1//clicsbp-northeuralex-tat-WILLOW-1//clicsbp-northeuralex-chv-WILLOW-1"
     words "s œ j y t//ʃ u m//t ɑ l//t a l//t a l//χ ə ʋ a"
@@ -14892,7 +14880,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1241
+    id 1240
     label "SQUIRREL"
     occurrences "clicsbp-northeuralex-tur-SQUIRREL-1//clicsbp-northeuralex-uzn-SQUIRREL-1//clicsbp-northeuralex-kaz-SQUIRREL-1//clicsbp-northeuralex-bak-SQUIRREL-1//clicsbp-northeuralex-tat-SQUIRREL-1//clicsbp-northeuralex-chv-SQUIRREL-1//clicsbp-wold-Sakha-SQUIRREL-1"
     words "s i n dʒ a p//t i j i n//t ɪ j ə n//t e j e n//t i e n//p a k ʂ a//t iː ŋ"
@@ -14904,7 +14892,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1242
+    id 1241
     label "MOUSE"
     occurrences "clicsbp-northeuralex-tur-MOUSE-1//clicsbp-northeuralex-tur-MOUSE-2//clicsbp-northeuralex-uzn-MOUSE-1//clicsbp-northeuralex-kaz-MOUSE-1//clicsbp-northeuralex-bak-MOUSE-1//clicsbp-northeuralex-tat-MOUSE-1//clicsbp-northeuralex-chv-MOUSE-1"
     words "f a ɾ ɛ//s ɯ tʃ a n//s i tʃ q ɒ n//q ɑ p t e s e ɾ//s ɯ s q a n//t ɤ tɕ q ɑ n//ʂ ə ʂ i"
@@ -14916,7 +14904,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1243
+    id 1242
     label "ONION"
     occurrences "clicsbp-northeuralex-tur-ONION-1//clicsbp-northeuralex-uzn-ONION-1//clicsbp-northeuralex-kaz-ONION-1//clicsbp-northeuralex-bak-ONION-1//clicsbp-northeuralex-tat-ONION-1//clicsbp-northeuralex-tat-ONION-2//clicsbp-northeuralex-chv-ONION-1"
     words "s oː a n//p i j ɒ z//ʒ u ɑ//h u g a n//s u g a n//s u g a n b a ʃ//s u χ a n"
@@ -14928,7 +14916,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1244
+    id 1243
     label "COAL"
     occurrences "clicsbp-northeuralex-tur-COAL-1//clicsbp-northeuralex-uzn-COAL-1//clicsbp-northeuralex-kaz-COAL-1//clicsbp-northeuralex-bak-COAL-1//clicsbp-northeuralex-tat-COAL-1//clicsbp-northeuralex-chv-COAL-1"
     words "k œ m y ɾ//k o m i r//k ø m ə ɾ//k y m e r//k ʉ m e r//k ə m r ə k"
@@ -14940,7 +14928,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1245
+    id 1244
     label "SPIRIT"
     occurrences "clicsbp-northeuralex-tur-SPIRIT-1//clicsbp-northeuralex-uzn-SPIRIT-1//clicsbp-northeuralex-kaz-SPIRIT-1//clicsbp-northeuralex-bak-SPIRIT-1//clicsbp-northeuralex-bak-SPIRIT-2//clicsbp-northeuralex-tat-SPIRIT-1//clicsbp-northeuralex-chv-SPIRIT-1//clicsbp-northeuralex-chv-SPIRIT-2//clicsbp-northeuralex-chv-SPIRIT-3"
     words "t i n//r u h//ɾ u x//a ŋ//r u x//r u x//tɕ u n tɕ ɘ m//ɯ r u s a l//tɕ u n + χ a ʋ a l ɘ"
@@ -14952,7 +14940,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1246
+    id 1245
     label "STORY"
     occurrences "clicsbp-northeuralex-tur-STORY-1//clicsbp-northeuralex-tur-STORY-2//clicsbp-northeuralex-uzn-STORY-1//clicsbp-northeuralex-kaz-STORY-1//clicsbp-northeuralex-bak-STORY-1//clicsbp-northeuralex-tat-STORY-1//clicsbp-northeuralex-chv-STORY-1//clicsbp-northeuralex-chv-STORY-2"
     words "œ j k y//h i k aː j ɛ//r i w ɒ j a t//æ ŋ g ə m e//x i k æ j æ//x i k æ j a//a k a l a ʋ//k a l a s a + p a n i"
@@ -14964,7 +14952,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1247
+    id 1246
     label "SONG"
     occurrences "clicsbp-northeuralex-tur-SONG-1//clicsbp-northeuralex-uzn-SONG-1//clicsbp-northeuralex-kaz-SONG-1//clicsbp-northeuralex-kaz-SONG-2//clicsbp-northeuralex-kaz-SONG-3//clicsbp-northeuralex-bak-SONG-1//clicsbp-northeuralex-tat-SONG-1//clicsbp-northeuralex-chv-SONG-1//clicsbp-wold-Sakha-SONG-1"
     words "t y ɾ k y//a ʃ u l a//æ n//ʒ ə ɾ//æ n ʒ ə ɾ//j ɯ r//dʑ ɤ r//j u r ə//ɨ r ɨ a"
@@ -14976,7 +14964,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1248
+    id 1247
     label "AFFAIR"
     occurrences "clicsbp-northeuralex-tur-AFFAIR-1//clicsbp-northeuralex-tur-AFFAIR-2//clicsbp-northeuralex-uzn-AFFAIR-1//clicsbp-northeuralex-kaz-AFFAIR-1//clicsbp-northeuralex-bak-AFFAIR-1//clicsbp-northeuralex-tat-AFFAIR-1//clicsbp-northeuralex-chv-AFFAIR-1"
     words "i ʃ//h u s u s//d a χ l//ʒ ʉ m ə s//æ ʃ//ɛ ʃ//ɘ ɕ"
@@ -14988,7 +14976,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1249
+    id 1248
     label "MIDDLE"
     occurrences "clicsbp-northeuralex-tur-MIDDLE-1//clicsbp-northeuralex-tur-MIDDLE-2//clicsbp-northeuralex-uzn-MIDDLE-1//clicsbp-northeuralex-kaz-MIDDLE-1//clicsbp-northeuralex-bak-MIDDLE-1//clicsbp-northeuralex-tat-MIDDLE-1//clicsbp-northeuralex-chv-MIDDLE-1//clicsbp-wold-Sakha-MIDDLE-2//clicsbp-wold-Sakha-MIDDLE-1"
     words "o ɾ t a//m ɛ ɾ k ɛ z//o r t a//o ɾ t ɑ s ə//u r t a l ɯ q//u r t a//ʋ a r ə//k iː n//o r t o"
@@ -15000,7 +14988,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1250
+    id 1249
     label "LOAD"
     occurrences "clicsbp-northeuralex-tur-LOAD-1//clicsbp-northeuralex-uzn-LOAD-1//clicsbp-northeuralex-kaz-LOAD-1//clicsbp-northeuralex-kaz-LOAD-2//clicsbp-northeuralex-bak-LOAD-1//clicsbp-northeuralex-tat-LOAD-1//clicsbp-northeuralex-chv-LOAD-1//clicsbp-northeuralex-chv-LOAD-2"
     words "j y k//j u k//ɑ uə ɾ l ə q//ɑ uə ɾ + z ɑ t//au ɯ r l ɯ q//j œ k//s u l m a k l ə χ//j ɯ ʋ ə r + j a p a l a"
@@ -15012,7 +15000,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1251
+    id 1250
     label "STICK"
     occurrences "clicsbp-northeuralex-tur-STICK-1//clicsbp-northeuralex-tur-STICK-2//clicsbp-northeuralex-uzn-STICK-1//clicsbp-northeuralex-kaz-STICK-1//clicsbp-northeuralex-bak-STICK-1//clicsbp-northeuralex-tat-STICK-1//clicsbp-northeuralex-chv-STICK-1//clicsbp-savelyevturkic-Karaim-STICK-1"
     words "s o p a//d ɛ j n ɛ k//t a j ɒ q//s o j ə l//t a j a q//t a j a k//p a t a k//t a j a k"
@@ -15024,7 +15012,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1252
+    id 1251
     label "HOME"
     occurrences "clicsbp-northeuralex-tur-HOME-1//clicsbp-northeuralex-tur-HOME-2//clicsbp-northeuralex-uzn-HOME-1//clicsbp-northeuralex-kaz-HOME-1//clicsbp-northeuralex-kaz-HOME-2//clicsbp-northeuralex-bak-HOME-1//clicsbp-northeuralex-tat-HOME-1//clicsbp-northeuralex-tat-HOME-2//clicsbp-northeuralex-chv-HOME-1"
     words "ɛ v//j u ɾ t//m a k ɒ n//ʊ j l ə//ʃ ɑ ŋ ə ɾ ɑ q//ø j//g a i l æ//n æ s e l//k i l"
@@ -15036,7 +15024,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1253
+    id 1252
     label "BOX"
     occurrences "clicsbp-northeuralex-tur-BOX-1//clicsbp-northeuralex-uzn-BOX-1//clicsbp-northeuralex-kaz-BOX-1//clicsbp-northeuralex-bak-BOX-1//clicsbp-northeuralex-tat-BOX-1//clicsbp-northeuralex-chv-BOX-1//clicsbp-northeuralex-chv-BOX-2"
     words "s a n d ɯ k//s a n d i q//ʒ æ ʃ ə k//j æ ʃ i n k//æ r dʑ æ//ɛ ɕː ɘ k//s u n t ə χ"
@@ -15048,7 +15036,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1254
+    id 1253
     label "HANDLE"
     occurrences "clicsbp-northeuralex-tur-HANDLE-1//clicsbp-northeuralex-tur-HANDLE-2//clicsbp-northeuralex-uzn-HANDLE-1//clicsbp-northeuralex-uzn-HANDLE-2//clicsbp-northeuralex-kaz-HANDLE-1//clicsbp-northeuralex-kaz-HANDLE-2//clicsbp-northeuralex-bak-HANDLE-1//clicsbp-northeuralex-tat-HANDLE-1//clicsbp-northeuralex-chv-HANDLE-1"
     words "k u l p//t u t a m a k//s ɒ p//t u t q i tʃ//s ɑ p//t ʉ t q ɑ//t o t q a//t o t q ɑ//χ ə l ə p"
@@ -15060,7 +15048,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1255
+    id 1254
     label "BAG"
     occurrences "clicsbp-northeuralex-tur-BAG-1//clicsbp-northeuralex-uzn-BAG-1//clicsbp-northeuralex-kaz-BAG-1//clicsbp-northeuralex-bak-BAG-1//clicsbp-northeuralex-tat-BAG-1//clicsbp-northeuralex-chv-BAG-1"
     words "tʃ a n t a//k i sː a//d o ɾ b ɑ//s u m k a//b u k tɕ a//s u m k a"
@@ -15072,7 +15060,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1256
+    id 1255
     label "BUCKET"
     occurrences "clicsbp-northeuralex-tur-BUCKET-1//clicsbp-northeuralex-uzn-BUCKET-1//clicsbp-northeuralex-kaz-BUCKET-1//clicsbp-northeuralex-bak-BUCKET-1//clicsbp-northeuralex-tat-BUCKET-1//clicsbp-northeuralex-chv-BUCKET-1"
     words "k o v a//tʃ ɛ l a k//ʃ e l e k//b i ð r æ//tɕ i l æ k//ʋ i t r ɛ"
@@ -15084,7 +15072,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1257
+    id 1256
     label "POT"
     occurrences "clicsbp-northeuralex-tur-POT-1//clicsbp-northeuralex-uzn-POT-1//clicsbp-northeuralex-kaz-POT-1//clicsbp-northeuralex-bak-POT-1//clicsbp-northeuralex-tat-POT-1//clicsbp-northeuralex-chv-POT-1//clicsbp-wold-Sakha-POT-1//clicsbp-wold-Sakha-POT-2//clicsbp-wold-Sakha-POT-3//clicsbp-wold-Sakha-POT-4//clicsbp-wold-Sakha-POT-5"
     words "t ɛ n dʒ ɛ ɾ ɛ//t u w a k//k æ s t ɾ ø l//k æ s t r y l//tɕ ʉ l m æ k//k a s t r j u lʲ//k y œ s//o l g u y//tʃ u g uː n//k œ s t œ r yː l e//s o l uː r"
@@ -15096,7 +15084,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1258
+    id 1257
     label "TEA"
     occurrences "clicsbp-northeuralex-tur-TEA-1//clicsbp-northeuralex-uzn-TEA-1//clicsbp-northeuralex-kaz-TEA-1//clicsbp-northeuralex-bak-TEA-1//clicsbp-northeuralex-tat-TEA-1//clicsbp-northeuralex-chv-TEA-1//clicsbp-wold-Sakha-TEA-1"
     words "tʃ a j//tʃ ɒ j//ʃ ɑ j//s æ j//tɕ æ j//tɕ ɛ j//tʃ e y"
@@ -15108,7 +15096,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1259
+    id 1258
     label "SLEEVE"
     occurrences "clicsbp-northeuralex-tur-SLEEVE-1//clicsbp-northeuralex-tur-SLEEVE-2//clicsbp-northeuralex-uzn-SLEEVE-1//clicsbp-northeuralex-kaz-SLEEVE-1//clicsbp-northeuralex-bak-SLEEVE-1//clicsbp-northeuralex-tat-SLEEVE-1//clicsbp-northeuralex-chv-SLEEVE-1"
     words "j ɛ n//ɛ l b i s ɛ + k o l u//j ɛ ŋ//ʒ e ŋ//j e ŋ//dʑ i ŋ//ɕ a n ə"
@@ -15120,7 +15108,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1260
+    id 1259
     label "CAP"
     occurrences "clicsbp-northeuralex-tur-CAP-1//clicsbp-northeuralex-tur-CAP-2//clicsbp-northeuralex-uzn-CAP-1//clicsbp-northeuralex-kaz-CAP-1//clicsbp-northeuralex-bak-CAP-1//clicsbp-northeuralex-tat-CAP-1//clicsbp-northeuralex-chv-CAP-1"
     words "b ɛ ɾ ɛ//k a s k ɛ t//ʃ a p k a//q ɑ l p ɑ q//b y r k//b ʉ r e k//ɕ ɘ l ɘ k"
@@ -15132,7 +15120,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1261
+    id 1260
     label "STRING"
     occurrences "clicsbp-northeuralex-tur-STRING-1//clicsbp-northeuralex-tur-STRING-2//clicsbp-northeuralex-uzn-STRING-1//clicsbp-northeuralex-kaz-STRING-1//clicsbp-northeuralex-bak-STRING-1//clicsbp-northeuralex-tat-STRING-1//clicsbp-northeuralex-chv-STRING-1"
     words "i p//s i dʒ i m//b ɒ ɣ i tʃ//ʒ ə p//b au//b au//k a n t r a"
@@ -15144,7 +15132,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1262
+    id 1261
     label "STRENGTH"
     occurrences "clicsbp-northeuralex-tur-STRENGTH-1//clicsbp-northeuralex-uzn-STRENGTH-1//clicsbp-northeuralex-kaz-STRENGTH-1//clicsbp-northeuralex-kaz-STRENGTH-2//clicsbp-northeuralex-bak-STRENGTH-1//clicsbp-northeuralex-tat-STRENGTH-1//clicsbp-northeuralex-tat-STRENGTH-2//clicsbp-northeuralex-chv-STRENGTH-1//clicsbp-northeuralex-chv-STRENGTH-2"
     words "k u vː ɛ t//q u wː a t//æ l//k ʊ ʃ//k ø s//k œ tɕ//d æ r m a n//χ a l//χ ə ʋ a t"
@@ -15156,7 +15144,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1263
+    id 1262
     label "DISEASE"
     occurrences "clicsbp-northeuralex-tur-DISEASE-1//clicsbp-northeuralex-uzn-DISEASE-1//clicsbp-northeuralex-kaz-DISEASE-1//clicsbp-northeuralex-bak-DISEASE-1//clicsbp-northeuralex-bak-DISEASE-2//clicsbp-northeuralex-tat-DISEASE-1//clicsbp-northeuralex-tat-DISEASE-2//clicsbp-northeuralex-tat-DISEASE-3//clicsbp-northeuralex-chv-DISEASE-1//clicsbp-wold-Sakha-DISEASE-1"
     words "h a s t a l ɯ k//k a s a lː i k//ɑ u ɾ u//s i r//au ɯ r ɯ u//tɕ i r//x a s t a//s ɤ r x au//tɕ i r//ɨ a r ɨː"
@@ -15168,7 +15156,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1264
+    id 1263
     label "WELL"
     occurrences "clicsbp-northeuralex-tur-WELL-1//clicsbp-northeuralex-tur-WELL-2//clicsbp-northeuralex-uzn-WELL-1//clicsbp-northeuralex-kaz-WELL-1//clicsbp-northeuralex-bak-WELL-1//clicsbp-northeuralex-tat-WELL-1//clicsbp-northeuralex-chv-WELL-1//clicsbp-northeuralex-chv-WELL-2"
     words "k u j u//tʃ ɛ ʃ m ɛ//b u l ɒ q//q ʉ d ə q//q o ð o q//q o e//ɕ ə l//p u s ə"
@@ -15180,7 +15168,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1265
+    id 1264
     label "PATH OR ROAD"
     occurrences "clicsbp-northeuralex-tur-PATHORROAD-1//clicsbp-northeuralex-uzn-PATHORROAD-1//clicsbp-northeuralex-kaz-PATHORROAD-1//clicsbp-northeuralex-bak-PATHORROAD-1//clicsbp-northeuralex-tat-PATHORROAD-1//clicsbp-northeuralex-chv-PATHORROAD-1//clicsbp-northeuralex-chv-PATHORROAD-2"
     words "j o l//j o l//ʒ o l//j u l//j ʊ l//ɕ u l//ɕ u l j ɘ r"
@@ -15192,7 +15180,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1266
+    id 1265
     label "LETTER"
     occurrences "clicsbp-northeuralex-tur-LETTER-1//clicsbp-northeuralex-uzn-LETTER-1//clicsbp-northeuralex-kaz-LETTER-1//clicsbp-northeuralex-kaz-LETTER-2//clicsbp-northeuralex-bak-LETTER-1//clicsbp-northeuralex-tat-LETTER-1//clicsbp-northeuralex-chv-LETTER-1//clicsbp-wold-Sakha-LETTER-1"
     words "m ɛ k t u p//m a k t u b//x ɑ t//ʒ ɑ z u//x a t//x a t//ɕ ɯ r u//s u r u k"
@@ -15204,7 +15192,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1267
+    id 1266
     label "LIFE"
     occurrences "clicsbp-northeuralex-tur-LIFE-1//clicsbp-northeuralex-uzn-LIFE-1//clicsbp-northeuralex-kaz-LIFE-1//clicsbp-northeuralex-kaz-LIFE-2//clicsbp-northeuralex-bak-LIFE-1//clicsbp-northeuralex-tat-LIFE-1//clicsbp-northeuralex-tat-LIFE-2//clicsbp-northeuralex-tat-LIFE-3//clicsbp-northeuralex-chv-LIFE-1//clicsbp-wold-Sakha-LIFE-1"
     words "h a j a t//h a j ɒ t//ø m ə ɾ//t ə ɾ ʃ ə l ə k//j æ ʃ æ y//g o m e r//t o r m ɤ ʃ//t e r e k l e k//p u r n ə ɕ//o l o χ"
@@ -15216,7 +15204,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1268
+    id 1267
     label "DEATH"
     occurrences "clicsbp-northeuralex-tur-DEATH-1//clicsbp-northeuralex-uzn-DEATH-1//clicsbp-northeuralex-kaz-DEATH-1//clicsbp-northeuralex-bak-DEATH-1//clicsbp-northeuralex-tat-DEATH-1//clicsbp-northeuralex-chv-DEATH-1"
     words "œ l y m//o l i m//o p ɑ t//y l e m//ʉ l e m//ʋ i l ɘ m"
@@ -15228,7 +15216,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1269
+    id 1268
     label "DEITY"
     occurrences "clicsbp-northeuralex-tur-DEITY-1//clicsbp-northeuralex-uzn-DEITY-1//clicsbp-northeuralex-kaz-DEITY-1//clicsbp-northeuralex-kaz-DEITY-2//clicsbp-northeuralex-kaz-DEITY-3//clicsbp-northeuralex-kaz-DEITY-4//clicsbp-northeuralex-kaz-DEITY-5//clicsbp-northeuralex-bak-DEITY-1//clicsbp-northeuralex-bak-DEITY-2//clicsbp-northeuralex-tat-DEITY-1//clicsbp-northeuralex-tat-DEITY-2//clicsbp-northeuralex-chv-DEITY-1//clicsbp-wold-Sakha-DEITY-1//clicsbp-wold-Sakha-DEITY-2"
     words "t a n ɾ ɯ//ɒ lː ɒ h//ɑ lː ɑ//q ʉ d ɑ j//t æ ŋ ə ɾ ə//p æ ɾ u ɑ ɾ d ə g e ɾ//ʒ ɑ ɾ ɑ t q ɑ n + t æ ŋ ə ɾ ə//a l l a//x o ð a j//a l l a//x o d a j//t u r ə//t a ŋ a r a//a y ɨː"
@@ -15240,7 +15228,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1270
+    id 1269
     label "POWER"
     occurrences "clicsbp-northeuralex-tur-POWER-1//clicsbp-northeuralex-tur-POWER-2//clicsbp-northeuralex-uzn-POWER-1//clicsbp-northeuralex-kaz-POWER-1//clicsbp-northeuralex-kaz-POWER-2//clicsbp-northeuralex-bak-POWER-1//clicsbp-northeuralex-tat-POWER-1//clicsbp-northeuralex-chv-POWER-1"
     words "k u d ɾ ɛ t//i k t i d a ɾ//i q t i d ɒ r//ø k ə m e t//q o ʒ ɑ l ə q//w l a s tʲ//x a k i m i j a t//ʋ l a s tʲ"
@@ -15252,7 +15240,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1271
+    id 1270
     label "WAR"
     occurrences "clicsbp-northeuralex-tur-WAR-1//clicsbp-northeuralex-uzn-WAR-1//clicsbp-northeuralex-kaz-WAR-1//clicsbp-northeuralex-bak-WAR-1//clicsbp-northeuralex-tat-WAR-1//clicsbp-northeuralex-chv-WAR-1"
     words "s a v a ʃ//h a r b//s o ʁ ə s//h u ɣ ɯ ʃ//s u g ɤ ʃ//ʋ ə r ɕ ə"
@@ -15264,7 +15252,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1272
+    id 1271
     label "GUN"
     occurrences "clicsbp-northeuralex-tur-GUN-1//clicsbp-northeuralex-uzn-GUN-1//clicsbp-northeuralex-kaz-GUN-1//clicsbp-northeuralex-bak-GUN-1//clicsbp-northeuralex-tat-GUN-1//clicsbp-northeuralex-chv-GUN-1//clicsbp-wold-Sakha-GUN-1"
     words "t y f ɛ k//w i n t ɒ w k a//q ɑ ɾ u//m ɯ l t ɯ q//m ɤ l t ɤ k//p ə ʂ a l//s aː"
@@ -15276,7 +15264,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1273
+    id 1272
     label "GREY"
     occurrences "clicsbp-northeuralex-tur-GREY-1//clicsbp-northeuralex-uzn-GREY-1//clicsbp-northeuralex-kaz-GREY-1//clicsbp-northeuralex-bak-GREY-1//clicsbp-northeuralex-tat-GREY-1//clicsbp-northeuralex-chv-GREY-1"
     words "b o z//b o z//b o z ɑ m ə q//b u ð//s o r ɤ//k ə ʋ a k"
@@ -15288,7 +15276,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1274
+    id 1273
     label "STRONG"
     occurrences "clicsbp-northeuralex-tur-STRONG-1//clicsbp-northeuralex-tur-STRONG-2//clicsbp-northeuralex-uzn-STRONG-1//clicsbp-northeuralex-kaz-STRONG-1//clicsbp-northeuralex-bak-STRONG-1//clicsbp-northeuralex-bak-STRONG-2//clicsbp-northeuralex-tat-STRONG-1//clicsbp-northeuralex-tat-STRONG-2//clicsbp-northeuralex-chv-STRONG-1//clicsbp-wold-Sakha-STRONG-1"
     words "g y tʃ l y//k u vː ɛ t l i//q u wː a t l i//b ə l e k t ə//k ø s l ø//q e y æ t l e//n ɤ k//b a z ɤ k//ʋ i r l ɘ//k yː s t eː χ"
@@ -15300,7 +15288,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1275
+    id 1274
     label "FAT (OBESE)"
     occurrences "clicsbp-northeuralex-tur-FATOBESE-1//clicsbp-northeuralex-uzn-FATOBESE-1//clicsbp-northeuralex-kaz-FATOBESE-1//clicsbp-northeuralex-bak-FATOBESE-1//clicsbp-northeuralex-tat-FATOBESE-1//clicsbp-northeuralex-chv-FATOBESE-1//clicsbp-northeuralex-chv-FATOBESE-2"
     words "ʃ i ʃ m a n//s ɛ m i z//s e m ə z//h i m e ð//s i m e z//s a m ə r//m ə n t ə r"
@@ -15312,7 +15300,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1276
+    id 1275
     label "THIN (SLIM)"
     occurrences "clicsbp-northeuralex-tur-THINSLIM-1//clicsbp-northeuralex-uzn-THINSLIM-1//clicsbp-northeuralex-kaz-THINSLIM-1//clicsbp-northeuralex-bak-THINSLIM-1//clicsbp-northeuralex-tat-THINSLIM-1//clicsbp-northeuralex-chv-THINSLIM-1//clicsbp-northeuralex-chv-THINSLIM-2"
     words "n a ɾ i n//i ŋ i tʃ k a//ɑ ʃ ɑ ŋ//z i f a//n æ z e k//j ə r ə s//j a ʂ t a k a"
@@ -15324,7 +15312,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1277
+    id 1276
     label "EVIL"
     occurrences "clicsbp-northeuralex-tur-EVIL-1//clicsbp-northeuralex-uzn-EVIL-1//clicsbp-northeuralex-kaz-EVIL-1//clicsbp-northeuralex-kaz-EVIL-2//clicsbp-northeuralex-kaz-EVIL-3//clicsbp-northeuralex-bak-EVIL-1//clicsbp-northeuralex-tat-EVIL-1//clicsbp-northeuralex-chv-EVIL-1"
     words "k œ t y//j ɒ w u z//ø ʃ//s ʉ m//ʒ ɑ uə z//a s ɯ u l ɯ//u s a l//u s a l"
@@ -15336,7 +15324,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1278
+    id 1277
     label "DILIGENT"
     occurrences "clicsbp-northeuralex-tur-DILIGENT-1//clicsbp-northeuralex-uzn-DILIGENT-1//clicsbp-northeuralex-kaz-DILIGENT-1//clicsbp-northeuralex-bak-DILIGENT-1//clicsbp-northeuralex-tat-DILIGENT-1//clicsbp-northeuralex-tat-DILIGENT-2//clicsbp-northeuralex-chv-DILIGENT-1"
     words "tʃ a l ɯ ʃ k a n//i ʃ tʃ a n//ʉ q ə p t ə//t ɯ r ɯ ʃ//t ɤ r ɤ ʃ//t ɤ r ɤ ʃ u tɕ a n//χ a s t a r"
@@ -15348,7 +15336,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1279
+    id 1278
     label "BE HUNGRY"
     occurrences "clicsbp-northeuralex-tur-BEHUNGRY-1//clicsbp-northeuralex-uzn-BEHUNGRY-1//clicsbp-northeuralex-kaz-BEHUNGRY-1//clicsbp-northeuralex-bak-BEHUNGRY-1//clicsbp-northeuralex-tat-BEHUNGRY-1//clicsbp-northeuralex-chv-BEHUNGRY-1//clicsbp-wold-Sakha-BEHUNGRY-1"
     words "a tʃ//ɒ tʃ//ɑ ʃ//a s//a tɕ//ʋ ɯ ɕ ə//a tʃː ɨ k t aː"
@@ -15360,7 +15348,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1280
+    id 1279
     label "SAD"
     occurrences "clicsbp-northeuralex-tur-SAD-1//clicsbp-northeuralex-tur-SAD-2//clicsbp-northeuralex-uzn-SAD-1//clicsbp-northeuralex-kaz-SAD-1//clicsbp-northeuralex-bak-SAD-1//clicsbp-northeuralex-tat-SAD-1//clicsbp-northeuralex-chv-SAD-1"
     words "k ɛ d ɛ ɾ l i//y z y n t y l y//χ a f a//q ɑ p ɑ//j a m a n h ɯ u//j a m a n s u//s a l χ u l ə"
@@ -15372,7 +15360,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1281
+    id 1280
     label "BE ALIVE"
     occurrences "clicsbp-northeuralex-tur-BEALIVE-1//clicsbp-northeuralex-tur-BEALIVE-2//clicsbp-northeuralex-tur-BEALIVE-3//clicsbp-northeuralex-uzn-BEALIVE-1//clicsbp-northeuralex-uzn-BEALIVE-2//clicsbp-northeuralex-kaz-BEALIVE-1//clicsbp-northeuralex-kaz-BEALIVE-2//clicsbp-northeuralex-kaz-BEALIVE-3//clicsbp-northeuralex-kaz-BEALIVE-4//clicsbp-northeuralex-kaz-BEALIVE-5//clicsbp-northeuralex-kaz-BEALIVE-6//clicsbp-northeuralex-bak-BEALIVE-3//clicsbp-northeuralex-bak-BEALIVE-1//clicsbp-northeuralex-bak-BEALIVE-2//clicsbp-northeuralex-tat-BEALIVE-1//clicsbp-northeuralex-tat-BEALIVE-2//clicsbp-northeuralex-tat-BEALIVE-3//clicsbp-northeuralex-chv-BEALIVE-1//clicsbp-northeuralex-chv-BEALIVE-2//clicsbp-wold-Sakha-BEALIVE-1//clicsbp-savelyevturkic-Karaim-BEALIVE-1"
     words "dʒ a n l ɯ//j a ʃ a m a k//h a j a tː a + o l m a k//h a j ɒ t i j//j a ʃ a m ɒ q//t ə ɾ ə//ʒ ɑ n d ə//ʒ ɑ s ɑ u//k ʊ n e l t u//k ʊ n + k ø ɾ u//t ə ɾ ʃ ə l ə k + e t u//j æ ʃ æ y//t e r e//j æ n l e//t e r e//j a ʃ æ ʉ//g o m e r + i t ʉ//tɕ ɘ r ɘ//p u r ə n//t ɨː nː aː χ//t i r i l"
@@ -15384,7 +15372,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1282
+    id 1281
     label "OLD (AGED)"
     occurrences "clicsbp-northeuralex-tur-OLDAGED-1//clicsbp-northeuralex-uzn-OLDAGED-1//clicsbp-northeuralex-kaz-OLDAGED-1//clicsbp-northeuralex-bak-OLDAGED-1//clicsbp-northeuralex-tat-OLDAGED-1//clicsbp-northeuralex-chv-OLDAGED-1"
     words "j a ʃ l ɯ//q a r i//k e k s e//q a r t//q ɑ r t//ʋ a t ə"
@@ -15396,7 +15384,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1283
+    id 1282
     label "OTHER"
     occurrences "clicsbp-northeuralex-tur-OTHER-1//clicsbp-northeuralex-uzn-OTHER-1//clicsbp-northeuralex-kaz-OTHER-1//clicsbp-northeuralex-kaz-OTHER-2//clicsbp-northeuralex-bak-OTHER-1//clicsbp-northeuralex-tat-OTHER-1//clicsbp-northeuralex-chv-OTHER-1//clicsbp-wold-Sakha-OTHER-1//clicsbp-savelyevturkic-Karaim-OTHER-1"
     words "d i j ɛ ɾ//b ɒ ʃ q a//ø z g e//b ə l ɑ j ʁ ə//b u t æ n//b ʉ t æ n//u r ə χ//a t ɨ n//b a s k a"
@@ -15408,7 +15396,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1284
+    id 1283
     label "ALONE"
     occurrences "clicsbp-northeuralex-tur-ALONE-1//clicsbp-northeuralex-tur-ALONE-2//clicsbp-northeuralex-uzn-ALONE-1//clicsbp-northeuralex-kaz-ALONE-1//clicsbp-northeuralex-bak-ALONE-1//clicsbp-northeuralex-bak-ALONE-2//clicsbp-northeuralex-tat-ALONE-1//clicsbp-northeuralex-chv-ALONE-1//clicsbp-wold-Sakha-ALONE-1"
     words "j a l n ɯ z//t ɛ k + b a ʃ ɯ n a//o z i tʃ a//s e ɾ ə k s ə z//b e r + y ð e//j a ŋ ɣ ɯ ð//j a l g ɤ z//p ɘ tɕ ɛ n//s o ɣ o t o χ"
@@ -15420,7 +15408,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1285
+    id 1284
     label "TOGETHER"
     occurrences "clicsbp-northeuralex-tur-TOGETHER-1//clicsbp-northeuralex-tur-TOGETHER-2//clicsbp-northeuralex-uzn-TOGETHER-1//clicsbp-northeuralex-kaz-TOGETHER-1//clicsbp-northeuralex-bak-TOGETHER-1//clicsbp-northeuralex-tat-TOGETHER-1//clicsbp-northeuralex-chv-TOGETHER-1"
     words "b ɛ ɾ a b ɛ ɾ//b i ɾ l i k t ɛ//b a r ɒ b a r//b ə ɾ l e s ə p//b e r g æ//b e r g æ//p ɘ r l ɛ"
@@ -15432,7 +15420,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1286
+    id 1285
     label "THEN"
     occurrences "clicsbp-northeuralex-tur-THEN-1//clicsbp-northeuralex-uzn-THEN-1//clicsbp-northeuralex-kaz-THEN-1//clicsbp-northeuralex-kaz-THEN-2//clicsbp-northeuralex-bak-THEN-1//clicsbp-northeuralex-tat-THEN-1//clicsbp-northeuralex-chv-THEN-1"
     words "s o n ɾ a//k ɛ j i n//o n ɑ n + s o ŋ//s o n ɑ n + s o ŋ//h u ŋ ɯ n a n//a n n a r ɤ//u n t a n"
@@ -15444,7 +15432,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1287
+    id 1286
     label "AFTERWARDS"
     occurrences "clicsbp-northeuralex-tur-AFTERWARDS-1//clicsbp-northeuralex-tur-AFTERWARDS-2//clicsbp-northeuralex-uzn-AFTERWARDS-1//clicsbp-northeuralex-kaz-AFTERWARDS-1//clicsbp-northeuralex-kaz-AFTERWARDS-2//clicsbp-northeuralex-bak-AFTERWARDS-1//clicsbp-northeuralex-tat-AFTERWARDS-1//clicsbp-northeuralex-chv-AFTERWARDS-1"
     words "s o n ɾ a d a n//o n d a n + s o n ɾ a//s o ŋ r a//o n ɑ n + s o ŋ//s o n ɑ n + s o ŋ//h u ŋ ɯ n a n//d a//u n t a n"
@@ -15456,7 +15444,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1288
+    id 1287
     label "HERE"
     occurrences "clicsbp-northeuralex-tur-HERE-1//clicsbp-northeuralex-uzn-HERE-1//clicsbp-northeuralex-kaz-HERE-1//clicsbp-northeuralex-kaz-HERE-2//clicsbp-northeuralex-bak-HERE-1//clicsbp-northeuralex-tat-HERE-1//clicsbp-northeuralex-tat-HERE-2//clicsbp-northeuralex-chv-HERE-1//clicsbp-wold-Sakha-HERE-1//clicsbp-savelyevturkic-Karaim-HERE-1"
     words "b u ɾ a d a//ʃ u + ɛ r d a//b ʉ n d ɑ//o s ə n d ɑ//b ɯ n d a//m o n d a//b i r e d æ//k u n t a//m a nː a//m u n a"
@@ -15468,7 +15456,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1289
+    id 1288
     label "THERE"
     occurrences "clicsbp-northeuralex-tur-THERE-1//clicsbp-northeuralex-tur-THERE-2//clicsbp-northeuralex-uzn-THERE-1//clicsbp-northeuralex-kaz-THERE-1//clicsbp-northeuralex-bak-THERE-1//clicsbp-northeuralex-bak-THERE-2//clicsbp-northeuralex-tat-THERE-1//clicsbp-northeuralex-chv-THERE-1//clicsbp-northeuralex-chv-THERE-2//clicsbp-wold-Sakha-THERE-1//clicsbp-savelyevturkic-Karaim-THERE-1"
     words "o ɾ a d a//ʃ u ɾ a d a//a n a//ɑ n d ɑ//ʃ u n d a//t e g e n d æ//a n d a//u n t a//ɕ a ʋ ə n t a//o nː o//a n d a"
@@ -15480,7 +15468,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1290
+    id 1289
     label "DOWN"
     occurrences "clicsbp-northeuralex-tur-DOWN-1//clicsbp-northeuralex-uzn-DOWN-1//clicsbp-northeuralex-kaz-DOWN-1//clicsbp-northeuralex-kaz-DOWN-2//clicsbp-northeuralex-bak-DOWN-1//clicsbp-northeuralex-tat-DOWN-1//clicsbp-northeuralex-chv-DOWN-1//clicsbp-wold-Sakha-DOWN-1"
     words "a ʃ aː ɯ j a//t u b a ŋ a//ɑ s t ə n ɑ//t ø m e n//t y b æ n g æ//a s q ɑ//a j a l t a//a lː a r aː"
@@ -15492,7 +15480,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1291
+    id 1290
     label "NOT"
     occurrences "clicsbp-northeuralex-tur-NOT-1//clicsbp-northeuralex-tur-NOT-2//clicsbp-northeuralex-uzn-NOT-1//clicsbp-northeuralex-kaz-NOT-1//clicsbp-northeuralex-bak-NOT-1//clicsbp-northeuralex-tat-NOT-1//clicsbp-northeuralex-chv-NOT-1//clicsbp-wold-Sakha-NOT-1//clicsbp-savelyevturkic-Karaim-NOT-1"
     words "m i//d ɛ j i l//æ m a s//e m e s//t u g e l//t ʉ g e l//m a r//s u o χ//m a"
@@ -15504,7 +15492,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1292
+    id 1291
     label "VERY"
     occurrences "clicsbp-northeuralex-tur-VERY-1//clicsbp-northeuralex-tur-VERY-2//clicsbp-northeuralex-uzn-VERY-1//clicsbp-northeuralex-kaz-VERY-1//clicsbp-northeuralex-bak-VERY-1//clicsbp-northeuralex-tat-VERY-1//clicsbp-northeuralex-chv-VERY-1"
     words "p ɛ k//g a j ɛ t//a n tʃ a//o ɾ ɑ s ɑ n//i f a t//b i k//p i t ɘ"
@@ -15516,7 +15504,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1293
+    id 1292
     label "BETWEEN"
     occurrences "clicsbp-northeuralex-tur-BETWEEN-1//clicsbp-northeuralex-uzn-BETWEEN-1//clicsbp-northeuralex-kaz-BETWEEN-1//clicsbp-northeuralex-bak-BETWEEN-1//clicsbp-northeuralex-tat-BETWEEN-1//clicsbp-northeuralex-chv-BETWEEN-1"
     words "a ɾ a s ɯ n d a//ɒ r a d a//ɑ ɾ ɑ d ɑ//a r a h ɯ n d a//a r a s ɤ n d a//χ u ʂ i n tɕ ɛ"
@@ -15528,7 +15516,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1294
+    id 1293
     label "THIS"
     occurrences "clicsbp-northeuralex-tur-THIS-1//clicsbp-northeuralex-uzn-THIS-1//clicsbp-northeuralex-kaz-THIS-1//clicsbp-northeuralex-kaz-THIS-2//clicsbp-northeuralex-bak-THIS-1//clicsbp-northeuralex-bak-THIS-2//clicsbp-northeuralex-tat-THIS-1//clicsbp-northeuralex-chv-THIS-1//clicsbp-northeuralex-chv-THIS-2//clicsbp-wold-Sakha-THIS-1//clicsbp-wold-Sakha-THIS-2//clicsbp-savelyevturkic-Karaim-THIS-1"
     words "b u//o ʃ a//b ʉ//o s ə//b ɯ l//o ʃ o//b u//k u//ɕ a k//b u//i t i//b u"
@@ -15540,7 +15528,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1295
+    id 1294
     label "THAT"
     occurrences "clicsbp-northeuralex-tur-THAT-1//clicsbp-northeuralex-tur-THAT-2//clicsbp-northeuralex-uzn-THAT-1//clicsbp-northeuralex-kaz-THAT-1//clicsbp-northeuralex-bak-THAT-1//clicsbp-northeuralex-tat-THAT-1//clicsbp-northeuralex-chv-THAT-1//clicsbp-wold-Sakha-THAT-1//clicsbp-savelyevturkic-Karaim-THAT-1"
     words "o//ʃ u//n a r i g i//s o l//u l//u l//ɕ a ʋ//o l//o l"
@@ -15552,7 +15540,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1296
+    id 1295
     label "HE"
     occurrences "clicsbp-northeuralex-tur-HE-1//clicsbp-northeuralex-uzn-HE-1//clicsbp-northeuralex-kaz-HE-1//clicsbp-northeuralex-bak-HE-1//clicsbp-northeuralex-tat-HE-1//clicsbp-northeuralex-chv-HE-1//clicsbp-wold-Sakha-HE-1"
     words "o//u//o l//u l//u l//ʋ ə l//k i n i"
@@ -15564,7 +15552,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1297
+    id 1296
     label "HOW MANY"
     occurrences "clicsbp-northeuralex-tur-HOWMANY-1//clicsbp-northeuralex-tur-HOWMANY-2//clicsbp-northeuralex-uzn-HOWMANY-1//clicsbp-northeuralex-kaz-HOWMANY-1//clicsbp-northeuralex-kaz-HOWMANY-2//clicsbp-northeuralex-bak-HOWMANY-1//clicsbp-northeuralex-tat-HOWMANY-1//clicsbp-northeuralex-chv-HOWMANY-1"
     words "k a tʃ//n ɛ + k a d a ɾ//q a n tʃ a//n e ʃ e//q ɑ n ʃ ɑ//k y p m e//n i tɕ æ//m i ɕ ɛ"
@@ -15576,7 +15564,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1298
+    id 1297
     label "THIRTY"
     occurrences "clicsbp-northeuralex-tur-THIRTY-1//clicsbp-northeuralex-uzn-THIRTY-1//clicsbp-northeuralex-kaz-THIRTY-1//clicsbp-northeuralex-bak-THIRTY-1//clicsbp-northeuralex-tat-THIRTY-1//clicsbp-northeuralex-chv-THIRTY-1"
     words "o t u z//o tː i z//o t ə z//u t ɯ ð//u t ɤ z//ʋ ə t ə r"
@@ -15588,7 +15576,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1299
+    id 1298
     label "FORTY"
     occurrences "clicsbp-northeuralex-tur-FORTY-1//clicsbp-northeuralex-uzn-FORTY-1//clicsbp-northeuralex-kaz-FORTY-1//clicsbp-northeuralex-bak-FORTY-1//clicsbp-northeuralex-tat-FORTY-1//clicsbp-northeuralex-chv-FORTY-1"
     words "k ɯ ɾ k//q i r q//q ə ɾ ə q//q ɯ r q//q ɤ r ɤ k//χ ɘ r ɘ χ"
@@ -15600,7 +15588,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1300
+    id 1299
     label "FIFTY"
     occurrences "clicsbp-northeuralex-tur-FIFTY-1//clicsbp-northeuralex-uzn-FIFTY-1//clicsbp-northeuralex-kaz-FIFTY-1//clicsbp-northeuralex-bak-FIFTY-1//clicsbp-northeuralex-tat-FIFTY-1//clicsbp-northeuralex-chv-FIFTY-1"
     words "ɛ lː i//æ lː i k//e l u//i l l e//i l l e//a l ə"
@@ -15612,7 +15600,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1301
+    id 1300
     label "SIXTY"
     occurrences "clicsbp-northeuralex-tur-SIXTY-1//clicsbp-northeuralex-uzn-SIXTY-1//clicsbp-northeuralex-kaz-SIXTY-1//clicsbp-northeuralex-bak-SIXTY-1//clicsbp-northeuralex-tat-SIXTY-1//clicsbp-northeuralex-chv-SIXTY-1"
     words "a l t m ɯ ʃ//ɒ l t m i ʃ//ɑ l p ə s//a l t m ɯ ʃ//a l t m ɤ ʃ//u t m ə l"
@@ -15624,7 +15612,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1302
+    id 1301
     label "SEVENTY"
     occurrences "clicsbp-northeuralex-tur-SEVENTY-1//clicsbp-northeuralex-uzn-SEVENTY-1//clicsbp-northeuralex-kaz-SEVENTY-1//clicsbp-northeuralex-bak-SEVENTY-1//clicsbp-northeuralex-tat-SEVENTY-1//clicsbp-northeuralex-chv-SEVENTY-1"
     words "j ɛ t m i ʃ//ɛ t m i ʃ//ʒ e t p ə s//j e t m e ʃ//dʑ i t m e ʃ//ɕ i t m ɘ l"
@@ -15636,7 +15624,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1303
+    id 1302
     label "EIGHTY"
     occurrences "clicsbp-northeuralex-tur-EIGHTY-1//clicsbp-northeuralex-uzn-EIGHTY-1//clicsbp-northeuralex-kaz-EIGHTY-1//clicsbp-northeuralex-bak-EIGHTY-1//clicsbp-northeuralex-tat-EIGHTY-1//clicsbp-northeuralex-chv-EIGHTY-1//clicsbp-northeuralex-chv-EIGHTY-2"
     words "s ɛ k s ɛ n//s a k s ɒ n//s e k s e n//h i k h æ n//s i k s æ n//s a k ə r + ʋ u n ə//s a k ə r + ʋ u n ə"
@@ -15648,7 +15636,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1304
+    id 1303
     label "NINETY"
     occurrences "clicsbp-northeuralex-tur-NINETY-1//clicsbp-northeuralex-uzn-NINETY-1//clicsbp-northeuralex-kaz-NINETY-1//clicsbp-northeuralex-bak-NINETY-1//clicsbp-northeuralex-tat-NINETY-1//clicsbp-northeuralex-chv-NINETY-1//clicsbp-northeuralex-chv-NINETY-2//clicsbp-northeuralex-chv-NINETY-3"
     words "d o k s a n//t o q s ɒ n//t o q s ɑ n//t u q h a n//t u k s a n//t ə χ ə r + ʋ u n//t ə χ ə r + ʋ u n ə//t ə χ ə r + ʋ u n ə"
@@ -15660,7 +15648,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1305
+    id 1304
     label "HALT (STOP)"
     occurrences "clicsbp-northeuralex-tur-HALTSTOP-1//clicsbp-northeuralex-uzn-HALTSTOP-1//clicsbp-northeuralex-kaz-HALTSTOP-1//clicsbp-northeuralex-bak-HALTSTOP-1//clicsbp-northeuralex-tat-HALTSTOP-1//clicsbp-northeuralex-chv-HALTSTOP-1"
     words "d u ɾ m a k//t o χ t a m ɒ q//t o q t ɑ u//t u k t a l ɯ u//t u k t a l u//tɕ a r ə n"
@@ -15672,7 +15660,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1306
+    id 1305
     label "SIT DOWN"
     occurrences "clicsbp-northeuralex-tur-SITDOWN-1//clicsbp-northeuralex-uzn-SITDOWN-1//clicsbp-northeuralex-kaz-SITDOWN-1//clicsbp-northeuralex-bak-SITDOWN-1//clicsbp-northeuralex-tat-SITDOWN-1//clicsbp-northeuralex-chv-SITDOWN-1"
     words "o t u ɾ m a k//o t i r m ɒ q//o t ə ɾ u//u l t ɯ r ɯ u//u t ɤ r u//l a r"
@@ -15684,7 +15672,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1307
+    id 1306
     label "LIE (REST)"
     occurrences "clicsbp-northeuralex-tur-LIEREST-1//clicsbp-northeuralex-uzn-LIEREST-1//clicsbp-northeuralex-kaz-LIEREST-1//clicsbp-northeuralex-bak-LIEREST-1//clicsbp-northeuralex-tat-LIEREST-1//clicsbp-northeuralex-chv-LIEREST-1"
     words "j a t m a k//j ɒ t m ɒ q//ʒ ɑ t u//j a t ɯ u//j a t u//ʋ ɯ r t"
@@ -15696,7 +15684,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1308
+    id 1307
     label "BECOME"
     occurrences "clicsbp-northeuralex-tur-BECOME-1//clicsbp-northeuralex-tur-BECOME-2//clicsbp-northeuralex-uzn-BECOME-1//clicsbp-northeuralex-kaz-BECOME-1//clicsbp-northeuralex-kaz-BECOME-2//clicsbp-northeuralex-bak-BECOME-1//clicsbp-northeuralex-tat-BECOME-1//clicsbp-northeuralex-chv-BECOME-1//clicsbp-wold-Sakha-BECOME-1"
     words "o l m a k//o l u n m a k//b o l m ɒ q//b o l u//t ʊ ɾ e g e l u//b u l ɯ u//b u l u//p u l//b u o l"
@@ -15708,7 +15696,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1309
+    id 1308
     label "SET (HEAVENLY BODIES)"
     occurrences "clicsbp-northeuralex-tur-SETHEAVENLYBODIES-1//clicsbp-northeuralex-uzn-SETHEAVENLYBODIES-1//clicsbp-northeuralex-kaz-SETHEAVENLYBODIES-1//clicsbp-northeuralex-bak-SETHEAVENLYBODIES-1//clicsbp-northeuralex-tat-SETHEAVENLYBODIES-1//clicsbp-northeuralex-chv-SETHEAVENLYBODIES-1"
     words "b a t m a k//b ɒ t m ɒ q//b ɑ t ə ɾ u//b a j ɯ u//b a t u//a n s a + l a r"
@@ -15720,7 +15708,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1310
+    id 1309
     label "THUNDER (VERB)"
     occurrences "clicsbp-northeuralex-tur-THUNDERVERB-1//clicsbp-northeuralex-uzn-THUNDERVERB-1//clicsbp-northeuralex-kaz-THUNDERVERB-1//clicsbp-northeuralex-bak-THUNDERVERB-1//clicsbp-northeuralex-tat-THUNDERVERB-1//clicsbp-northeuralex-chv-THUNDERVERB-1//clicsbp-northeuralex-chv-THUNDERVERB-2"
     words "g œ k + g y ɾ l ɛ m ɛ k//g u l d u r a m ɒ q//k ʊ ɾ k ə ɾ e u//k y k r æ y//k ʉ k r æ ʉ//k ɘ m s ɘ r t ɛ t//a ʋ ə t"
@@ -15732,7 +15720,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1311
+    id 1310
     label "RAIN (RAINING)"
     occurrences "clicsbp-northeuralex-tur-RAINRAINING-1//clicsbp-northeuralex-uzn-RAINRAINING-1//clicsbp-northeuralex-kaz-RAINRAINING-1//clicsbp-northeuralex-bak-RAINRAINING-1//clicsbp-northeuralex-tat-RAINRAINING-1//clicsbp-northeuralex-chv-RAINRAINING-1"
     words "j aː m a k//j ɒ m ɣ i r + j ɒ ɣ m ɒ q//ʒ ɑʊ w//j a m ɣ ɯ r + j au a//j a w u//ɕ u m ə r + ɕ ə ʋ a tʲ"
@@ -15744,7 +15732,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1312
+    id 1311
     label "FREEZE"
     occurrences "clicsbp-northeuralex-tur-FREEZE-1//clicsbp-northeuralex-uzn-FREEZE-1//clicsbp-northeuralex-kaz-FREEZE-1//clicsbp-northeuralex-kaz-FREEZE-2//clicsbp-northeuralex-bak-FREEZE-1//clicsbp-northeuralex-tat-FREEZE-1//clicsbp-northeuralex-chv-FREEZE-1//clicsbp-wold-Sakha-FREEZE-1//clicsbp-savelyevturkic-Karaim-FREEZE-1"
     words "d o n m a k//m u z l a m ɒ q//m ʉ z d ɑ j + q ɑ t u//m ʉ z + b o p + q ɑ t u//t u ŋ ɯ y//q ɑ t u//ʂ ə n//t o ŋ//b u z l a"
@@ -15756,7 +15744,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1313
+    id 1312
     label "MELT"
     occurrences "clicsbp-northeuralex-tur-MELT-1//clicsbp-northeuralex-uzn-MELT-1//clicsbp-northeuralex-kaz-MELT-1//clicsbp-northeuralex-bak-MELT-1//clicsbp-northeuralex-tat-MELT-1//clicsbp-northeuralex-tat-MELT-2//clicsbp-northeuralex-chv-MELT-1"
     words "ɛ ɾ i m ɛ k//æ r i m ɒ q//e ɾ u//i r e y//ɛ r ʉ//ɛ r e t ʉ//i r ɘ l"
@@ -15768,7 +15756,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1314
+    id 1313
     label "DRY UP"
     occurrences "clicsbp-northeuralex-tur-DRYUP-1//clicsbp-northeuralex-uzn-DRYUP-1//clicsbp-northeuralex-kaz-DRYUP-1//clicsbp-northeuralex-bak-DRYUP-1//clicsbp-northeuralex-tat-DRYUP-1//clicsbp-northeuralex-chv-DRYUP-1"
     words "k u ɾ u m a k//q u r i m ɒ q//k u ɾ ɑ u//k i b e y//k i b ʉ//t i p"
@@ -15780,7 +15768,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1315
+    id 1314
     label "BREAK (OF ROPE)"
     occurrences "clicsbp-northeuralex-tur-BREAKOFROPE-1//clicsbp-northeuralex-uzn-BREAKOFROPE-1//clicsbp-northeuralex-kaz-BREAKOFROPE-1//clicsbp-northeuralex-bak-BREAKOFROPE-1//clicsbp-northeuralex-bak-BREAKOFROPE-2//clicsbp-northeuralex-tat-BREAKOFROPE-1//clicsbp-northeuralex-chv-BREAKOFROPE-1"
     words "j ɯ ɾ t ɯ l m a k//q a j t + q i l m ɒ q//ʒ ə ɾ t ə l u//ø ð ø y//j ɯ r t ɯ l ɯ u//œ z e l ʉ//ɕ u r ə l"
@@ -15792,7 +15780,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1316
+    id 1315
     label "INCREASE"
     occurrences "clicsbp-northeuralex-tur-INCREASE-1//clicsbp-northeuralex-tur-INCREASE-2//clicsbp-northeuralex-uzn-INCREASE-1//clicsbp-northeuralex-kaz-INCREASE-1//clicsbp-northeuralex-bak-INCREASE-1//clicsbp-northeuralex-tat-INCREASE-1//clicsbp-northeuralex-tat-INCREASE-2//clicsbp-northeuralex-tat-INCREASE-3//clicsbp-northeuralex-chv-INCREASE-1"
     words "a ɾ t m a k//tʃ oː a l m a k//u r tʃ i m ɒ q//k ø b e j ʊ w//a r t ɯ u//a r t u//k ʉ b æ j ʊ//i ʃ æ j ʊ//p ɯ s ə k l a n"
@@ -15804,7 +15792,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1317
+    id 1316
     label "SOUND (OF INSTRUMENT OR VOICE)"
     occurrences "clicsbp-northeuralex-tur-SOUNDOFINSTRUMENTORVOICE-1//clicsbp-northeuralex-uzn-SOUNDOFINSTRUMENTORVOICE-1//clicsbp-northeuralex-kaz-SOUNDOFINSTRUMENTORVOICE-1//clicsbp-northeuralex-bak-SOUNDOFINSTRUMENTORVOICE-1//clicsbp-northeuralex-tat-SOUNDOFINSTRUMENTORVOICE-1//clicsbp-northeuralex-chv-SOUNDOFINSTRUMENTORVOICE-1"
     words "t ɯ n l a m a k//j a ŋ r a m ɒ q//d ə b ə s + ʃ ə ʁ ɑ ɾ u//j a ŋ ɣ ɯ r au//i ʃ e t e l ʉ//j a n ə r a"
@@ -15816,7 +15804,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1318
+    id 1317
     label "BARKING"
     occurrences "clicsbp-northeuralex-tur-BARKING-1//clicsbp-northeuralex-uzn-BARKING-1//clicsbp-northeuralex-kaz-BARKING-1//clicsbp-northeuralex-bak-BARKING-1//clicsbp-northeuralex-tat-BARKING-1//clicsbp-northeuralex-chv-BARKING-1"
     words "h a v l a m a k//h u r m ɒ q//ʊ ɾ u//ø r ø y//œ r ʉ//ʋ ɘ r"
@@ -15828,7 +15816,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1319
+    id 1318
     label "BLOW (WITH MOUTH)"
     occurrences "clicsbp-northeuralex-tur-BLOWWITHMOUTH-1//clicsbp-northeuralex-uzn-BLOWWITHMOUTH-1//clicsbp-northeuralex-kaz-BLOWWITHMOUTH-1//clicsbp-northeuralex-bak-BLOWWITHMOUTH-1//clicsbp-northeuralex-tat-BLOWWITHMOUTH-1//clicsbp-northeuralex-chv-BLOWWITHMOUTH-1"
     words "y f l ɛ m ɛ k//p u f l a m ɒ q//ʊ ɾ u//ø r ø y//œ r ʉ//ʋ ɘ r"
@@ -15840,7 +15828,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1320
+    id 1319
     label "BREATHE"
     occurrences "clicsbp-northeuralex-tur-BREATHE-1//clicsbp-northeuralex-tur-BREATHE-2//clicsbp-northeuralex-uzn-BREATHE-1//clicsbp-northeuralex-kaz-BREATHE-1//clicsbp-northeuralex-kaz-BREATHE-2//clicsbp-northeuralex-bak-BREATHE-1//clicsbp-northeuralex-tat-BREATHE-1//clicsbp-northeuralex-chv-BREATHE-1//clicsbp-wold-Sakha-BREATHE-1//clicsbp-savelyevturkic-Karaim-BREATHE-1//clicsbp-savelyevturkic-Karaim-BREATHE-2"
     words "s o l u n m a k//n ɛ f ɛ s + a l m a k//n a f a s + tʃ i q a r m ɒ q//d e m + ɑ l u//ɑ u ɑ + ʒ ʉ t u//t ɯ n + a l ɯ y//s u l au//s ɯ ʋ l a//t ɨː n//t ɯ n//a l"
@@ -15852,7 +15840,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1321
+    id 1320
     label "RECOVER"
     occurrences "clicsbp-northeuralex-tur-RECOVER-1//clicsbp-northeuralex-uzn-RECOVER-1//clicsbp-northeuralex-kaz-RECOVER-1//clicsbp-northeuralex-bak-RECOVER-1//clicsbp-northeuralex-tat-RECOVER-1//clicsbp-northeuralex-tat-RECOVER-2//clicsbp-northeuralex-chv-RECOVER-1//clicsbp-northeuralex-chv-RECOVER-2"
     words "ʃ i f a + b u l m a k//t u z a l m ɒ q//ɑ j ə ʁ u//h au ɯ ɣ ɯ u//s a w ɤ g u//s æ l a m æ t l æ n ʉ//s ɯ ʋ a l//t y r l ɛ n"
@@ -15864,7 +15852,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1322
+    id 1321
     label "DIE"
     occurrences "clicsbp-northeuralex-tur-DIE-1//clicsbp-northeuralex-tur-DIE-2//clicsbp-northeuralex-uzn-DIE-1//clicsbp-northeuralex-kaz-DIE-1//clicsbp-northeuralex-kaz-DIE-2//clicsbp-northeuralex-kaz-DIE-3//clicsbp-northeuralex-bak-DIE-1//clicsbp-northeuralex-tat-DIE-1//clicsbp-northeuralex-tat-DIE-2//clicsbp-northeuralex-tat-DIE-3//clicsbp-northeuralex-chv-DIE-1//clicsbp-wold-Sakha-DIE-1//clicsbp-savelyevturkic-Karaim-DIE-1"
     words "œ l m ɛ k//v ɛ f a t + ɛ t m ɛ k//o l m ɒ q//ø l u//q ɑ j t ə s//ʒ ɑ n t ɑ p s ə ɾ u//y l e y//ʉ l ʉ//d œ n ʔ j a + q u j ʊ//w a f a t + b u l u//ʋ i l//œ l//ø l"
@@ -15876,7 +15864,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1323
+    id 1322
     label "STAND UP"
     occurrences "clicsbp-northeuralex-tur-STANDUP-1//clicsbp-northeuralex-tur-STANDUP-2//clicsbp-northeuralex-uzn-STANDUP-1//clicsbp-northeuralex-kaz-STANDUP-1//clicsbp-northeuralex-bak-STANDUP-1//clicsbp-northeuralex-tat-STANDUP-1//clicsbp-northeuralex-chv-STANDUP-1"
     words "k a l k m a k//a j aː a + k a l k m a k//q o p m ɒ q//t ʉ ɾ u//t o r ou//b a s u//t ə r"
@@ -15888,7 +15876,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1324
+    id 1323
     label "TUMBLE (FALL DOWN)"
     occurrences "clicsbp-northeuralex-tur-TUMBLEFALLDOWN-1//clicsbp-northeuralex-uzn-TUMBLEFALLDOWN-1//clicsbp-northeuralex-kaz-TUMBLEFALLDOWN-1//clicsbp-northeuralex-bak-TUMBLEFALLDOWN-1//clicsbp-northeuralex-tat-TUMBLEFALLDOWN-1//clicsbp-northeuralex-chv-TUMBLEFALLDOWN-1"
     words "j ɛ ɾ ɛ + d y ʃ m ɛ k//j i q i l m ɒ q//ʒ ə ʁ ə l u//q o l au//e g ɤ l u//y k"
@@ -15900,7 +15888,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1325
+    id 1324
     label "WALK (TAKE A WALK)"
     occurrences "clicsbp-northeuralex-tur-WALKTAKEAWALK-1//clicsbp-northeuralex-tur-WALKTAKEAWALK-2//clicsbp-northeuralex-uzn-WALKTAKEAWALK-1//clicsbp-northeuralex-kaz-WALKTAKEAWALK-1//clicsbp-northeuralex-bak-WALKTAKEAWALK-1//clicsbp-northeuralex-tat-WALKTAKEAWALK-1//clicsbp-northeuralex-tat-WALKTAKEAWALK-2//clicsbp-northeuralex-chv-WALKTAKEAWALK-1//clicsbp-northeuralex-chv-WALKTAKEAWALK-2"
     words "g ɛ z m ɛ k//d o l a ʃ m a k//s a j r + æ t m ɒ q//q ə d ə ɾ u//j a l + i t e p + j o r o y//j œ r ʉ//j œ r g e n ʉ//u ɕ ə l s a + ɕ y r ɛ//u t k a l a s a + ɕ y r ɛ"
@@ -15912,7 +15900,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1326
+    id 1325
     label "WAIT (FOR)"
     occurrences "clicsbp-northeuralex-tur-WAITFOR-1//clicsbp-northeuralex-uzn-WAITFOR-1//clicsbp-northeuralex-kaz-WAITFOR-1//clicsbp-northeuralex-bak-WAITFOR-1//clicsbp-northeuralex-tat-WAITFOR-1//clicsbp-northeuralex-chv-WAITFOR-1"
     words "b ɛ k l ɛ m ɛ k//p ɒ j l a m ɒ q//t o s u//k ø t ø p + t o r ou//k œ t ʉ//k ɘ t"
@@ -15924,7 +15912,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1327
+    id 1326
     label "PREPARE"
     occurrences "clicsbp-northeuralex-tur-PREPARE-1//clicsbp-northeuralex-uzn-PREPARE-1//clicsbp-northeuralex-kaz-PREPARE-1//clicsbp-northeuralex-bak-PREPARE-1//clicsbp-northeuralex-tat-PREPARE-1//clicsbp-northeuralex-chv-PREPARE-1"
     words "h a z ɯ ɾ l a m a k//h ɒ z i r l a m ɒ q//æ z ə ɾ l e u//æ ð e r l æ y//x æ z e r l æ ʉ//χ a t ɘ r l ɛ"
@@ -15936,7 +15924,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1328
+    id 1327
     label "LIKE"
     occurrences "clicsbp-northeuralex-tur-LIKE-1//clicsbp-northeuralex-uzn-LIKE-1//clicsbp-northeuralex-kaz-LIKE-1//clicsbp-northeuralex-kaz-LIKE-2//clicsbp-northeuralex-bak-LIKE-2//clicsbp-northeuralex-bak-LIKE-1//clicsbp-northeuralex-tat-LIKE-1//clicsbp-northeuralex-chv-LIKE-1//clicsbp-northeuralex-chv-LIKE-2"
     words "b ɛ j ɛ n m ɛ k//a r d ɒ q l a m ɒ q//ʒ ɑ ɾ ɑ t u//ʒ ɑ q s ə + k ø ɾ u//j a r a t ɯ u//h ø j ø y//œ n æ ʉ//k ə m ə l a//k i l ɘ ʂ t ɛ r"
@@ -15948,7 +15936,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1329
+    id 1328
     label "FEAR (BE AFRAID)"
     occurrences "clicsbp-northeuralex-tur-FEARBEAFRAID-1//clicsbp-northeuralex-uzn-FEARBEAFRAID-1//clicsbp-northeuralex-kaz-FEARBEAFRAID-1//clicsbp-northeuralex-bak-FEARBEAFRAID-1//clicsbp-northeuralex-tat-FEARBEAFRAID-1//clicsbp-northeuralex-chv-FEARBEAFRAID-1//clicsbp-savelyevturkic-Karaim-FEARBEAFRAID-1"
     words "k o ɾ k m a k//h u r k m ɒ q//s e s k e n u//q u r q ɯ u//q u r q u//ʂ i k l ɛ n//q o r q"
@@ -15960,7 +15948,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1330
+    id 1329
     label "WATCH"
     occurrences "clicsbp-northeuralex-tur-WATCH-1//clicsbp-northeuralex-uzn-WATCH-1//clicsbp-northeuralex-kaz-WATCH-1//clicsbp-northeuralex-bak-WATCH-1//clicsbp-northeuralex-bak-WATCH-2//clicsbp-northeuralex-tat-WATCH-1//clicsbp-northeuralex-tat-WATCH-2//clicsbp-northeuralex-chv-WATCH-1"
     words "b a k m a k//r a z m + q i l m ɒ q//t ɑ m ɑ ʃ ɑ l ɑ u//q a r au//t i k ʃ e r e y//q ɑ r au//k ʉ z æ t ʉ//p ə χ"
@@ -15972,7 +15960,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1331
+    id 1330
     label "DO"
     occurrences "clicsbp-northeuralex-tur-DO-1//clicsbp-northeuralex-tur-DO-2//clicsbp-northeuralex-uzn-DO-1//clicsbp-northeuralex-kaz-DO-1//clicsbp-northeuralex-kaz-DO-2//clicsbp-northeuralex-bak-DO-1//clicsbp-northeuralex-bak-DO-2//clicsbp-northeuralex-tat-DO-1//clicsbp-northeuralex-chv-DO-1//clicsbp-wold-Sakha-DO-1"
     words "ɛ t m ɛ k//j a p m a k//æ t m ɒ q//e t u//ə s t e u//j a h au//æ ʃ l æ y//i t ʉ//t u//g ɨ n"
@@ -15984,7 +15972,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1332
+    id 1331
     label "MAKE"
     occurrences "clicsbp-northeuralex-tur-MAKE-1//clicsbp-northeuralex-uzn-MAKE-1//clicsbp-northeuralex-kaz-MAKE-2//clicsbp-northeuralex-kaz-MAKE-1//clicsbp-northeuralex-kaz-MAKE-3//clicsbp-northeuralex-bak-MAKE-1//clicsbp-northeuralex-bak-MAKE-2//clicsbp-northeuralex-tat-MAKE-1//clicsbp-northeuralex-tat-MAKE-2//clicsbp-northeuralex-chv-MAKE-1//clicsbp-wold-Sakha-MAKE-1"
     words "j a p m a k//q i l m ɒ q//ʒ ɑ s ɑ u//e t u//ʒ ɑ s ɑ p + ʃ ə ʁ ɑ ɾ u//j a h au//e ʃ l æ y//j a s au//ɛ ʃ l æ ʉ//t u//o ŋ o r"
@@ -15996,7 +15984,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1333
+    id 1332
     label "BEGIN"
     occurrences "clicsbp-northeuralex-tur-BEGIN-1//clicsbp-northeuralex-uzn-BEGIN-1//clicsbp-northeuralex-kaz-BEGIN-1//clicsbp-northeuralex-bak-BEGIN-1//clicsbp-northeuralex-tat-BEGIN-1//clicsbp-northeuralex-chv-BEGIN-1//clicsbp-wold-Sakha-BEGIN-1"
     words "b a ʃ l a m a k//b ɒ ʃ l a m ɒ q//b ɑ s t ɑ u//b a ʃ l au//k e r e ʃ ʉ//p u ɕ l a//s a ɣ a l aː"
@@ -16008,7 +15996,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1334
+    id 1333
     label "REPAIR"
     occurrences "clicsbp-northeuralex-tur-REPAIR-1//clicsbp-northeuralex-tur-REPAIR-2//clicsbp-northeuralex-uzn-REPAIR-1//clicsbp-northeuralex-kaz-REPAIR-1//clicsbp-northeuralex-bak-REPAIR-1//clicsbp-northeuralex-tat-REPAIR-1//clicsbp-northeuralex-chv-REPAIR-1"
     words "o n a ɾ m a k//t a m i ɾ + ɛ t m ɛ k//t u z a t m ɒ q//o ŋ d ɑ u//t ø ð æ t e y//t œ z æ t ʉ//j u s a"
@@ -16020,7 +16008,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1335
+    id 1334
     label "BEND (SOMETHING)"
     occurrences "clicsbp-northeuralex-tur-BENDSOMETHING-1//clicsbp-northeuralex-uzn-BENDSOMETHING-1//clicsbp-northeuralex-kaz-BENDSOMETHING-1//clicsbp-northeuralex-kaz-BENDSOMETHING-2//clicsbp-northeuralex-bak-BENDSOMETHING-1//clicsbp-northeuralex-tat-BENDSOMETHING-1//clicsbp-northeuralex-chv-BENDSOMETHING-1//clicsbp-northeuralex-chv-BENDSOMETHING-2"
     words "b y k m ɛ k//b u k m ɒ q//ɪ j j ʊ w//m ɑ j ə s t ə ɾ u//b ø g ø y//b œ g ʉ//a ʋ//k u k ə r t"
@@ -16032,7 +16020,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1336
+    id 1335
     label "BREAK (CLEAVE)"
     occurrences "clicsbp-northeuralex-tur-BREAKCLEAVE-1//clicsbp-northeuralex-uzn-BREAKCLEAVE-1//clicsbp-northeuralex-kaz-BREAKCLEAVE-1//clicsbp-northeuralex-bak-BREAKCLEAVE-1//clicsbp-northeuralex-tat-BREAKCLEAVE-1//clicsbp-northeuralex-chv-BREAKCLEAVE-1//clicsbp-northeuralex-chv-BREAKCLEAVE-2//clicsbp-savelyevturkic-Karaim-BREAKCLEAVE-1"
     words "k ɯ ɾ m a k//s i n d i r m ɒ q//u ɑ t u//q ɯ j r a t ɯ u//w a t u//ʋ a t//ɕ ɘ m ɘ r//s ɯ n d ɯ r"
@@ -16044,7 +16032,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1337
+    id 1336
     label "KNOCK"
     occurrences "clicsbp-northeuralex-tur-KNOCK-1//clicsbp-northeuralex-uzn-KNOCK-1//clicsbp-northeuralex-kaz-KNOCK-1//clicsbp-northeuralex-bak-KNOCK-1//clicsbp-northeuralex-tat-KNOCK-1//clicsbp-northeuralex-tat-KNOCK-2//clicsbp-northeuralex-chv-KNOCK-1"
     words "tʃ a l m a k//d u k u r l a m ɒ q//q ɑ ʁ u//ʃ a q ɯ l d au//ʃ a q u//ʃ a q ɤ l d au//t a k a"
@@ -16056,7 +16044,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1338
+    id 1337
     label "SHARPEN (SOMETHING)"
     occurrences "clicsbp-northeuralex-tur-SHARPENSOMETHING-1//clicsbp-northeuralex-uzn-SHARPENSOMETHING-1//clicsbp-northeuralex-kaz-SHARPENSOMETHING-1//clicsbp-northeuralex-kaz-SHARPENSOMETHING-2//clicsbp-northeuralex-kaz-SHARPENSOMETHING-3//clicsbp-northeuralex-bak-SHARPENSOMETHING-1//clicsbp-northeuralex-tat-SHARPENSOMETHING-1//clicsbp-northeuralex-chv-SHARPENSOMETHING-1"
     words "b i l ɛ m ɛ k//q a j r a m ɒ q//e g e u//q ɑ j ɾ ɑ u//e g e u l e u//y t k e r l æ y//q ɑ j r au//χ ə j r a"
@@ -16068,7 +16056,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1339
+    id 1338
     label "FILL"
     occurrences "clicsbp-northeuralex-tur-FILL-1//clicsbp-northeuralex-uzn-FILL-1//clicsbp-northeuralex-kaz-FILL-1//clicsbp-northeuralex-bak-FILL-1//clicsbp-northeuralex-tat-FILL-1//clicsbp-northeuralex-chv-FILL-1"
     words "d o l d u ɾ m a k//t o l d i r m ɒ q//t o l t ə ɾ u//t u l t ɯ r ɯ u//t u t ɤ r u//t u l t a r"
@@ -16080,7 +16068,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1340
+    id 1339
     label "DONATE"
     occurrences "clicsbp-northeuralex-tur-DONATE-1//clicsbp-northeuralex-uzn-DONATE-1//clicsbp-northeuralex-kaz-DONATE-1//clicsbp-northeuralex-bak-DONATE-1//clicsbp-northeuralex-tat-DONATE-1//clicsbp-northeuralex-chv-DONATE-1"
     words "h ɛ d i j ɛ + ɛ t m ɛ k//s ɒ w ɣ a + q i l m ɒ q//t ɑ ɾ t u//b y l æ k + i t e y//b ʉ l æ k l æ ʉ//p a r n ɛ l ɛ"
@@ -16092,7 +16080,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1341
+    id 1340
     label "RAISE (BRING UP)"
     occurrences "clicsbp-northeuralex-tur-RAISEBRINGUP-1//clicsbp-northeuralex-uzn-RAISEBRINGUP-1//clicsbp-northeuralex-kaz-RAISEBRINGUP-1//clicsbp-northeuralex-bak-RAISEBRINGUP-1//clicsbp-northeuralex-tat-RAISEBRINGUP-1//clicsbp-northeuralex-chv-RAISEBRINGUP-1"
     words "j ɛ t i ʃ t i ɾ m ɛ k//o s t i r m ɒ q//b ɑ ʁ u//t æ r b i æ l e//a s r au//ʋ ɘ r ɛ n t"
@@ -16104,7 +16092,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1342
+    id 1341
     label "WIN"
     occurrences "clicsbp-northeuralex-tur-WIN-1//clicsbp-northeuralex-uzn-WIN-1//clicsbp-northeuralex-kaz-WIN-1//clicsbp-northeuralex-bak-WIN-1//clicsbp-northeuralex-tat-WIN-1//clicsbp-northeuralex-chv-WIN-1//clicsbp-northeuralex-chv-WIN-2"
     words "j ɛ n m ɛ k//ɛ ŋ m ɒ q//ʒ e ŋ u//j e ŋ e y//dʑ i ŋ ʉ//ɕ ɘ n//ɕ ɘ n t ɛ r"
@@ -16116,7 +16104,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1343
+    id 1342
     label "STING"
     occurrences "clicsbp-northeuralex-tur-STING-1//clicsbp-northeuralex-tur-STING-2//clicsbp-northeuralex-uzn-STING-1//clicsbp-northeuralex-kaz-STING-1//clicsbp-northeuralex-bak-STING-1//clicsbp-northeuralex-tat-STING-1//clicsbp-northeuralex-chv-STING-1"
     words "s o k m a k//b a t ɯ ɾ m a k//q a d a m ɒ q//ʃ ɑ n ʃ u//s æ n s e y//q ɑ d au//tɕ i k"
@@ -16128,7 +16116,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1344
+    id 1343
     label "WORK (ACTIVITY)"
     occurrences "clicsbp-northeuralex-tur-WORKACTIVITY-1//clicsbp-northeuralex-uzn-WORKACTIVITY-1//clicsbp-northeuralex-kaz-WORKACTIVITY-1//clicsbp-northeuralex-kaz-WORKACTIVITY-2//clicsbp-northeuralex-bak-WORKACTIVITY-1//clicsbp-northeuralex-tat-WORKACTIVITY-1//clicsbp-northeuralex-chv-WORKACTIVITY-1"
     words "tʃ a l ɯ ʃ m a k//i ʃ l a m ɒ q//ə s t e u//e ŋ b e k t e n u//e ʃ l æ y//ɛ ʃ l æ ʉ//ɘ ɕ l ɛ"
@@ -16140,7 +16128,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1345
+    id 1344
     label "FISHING"
     occurrences "clicsbp-northeuralex-tur-FISHING-1//clicsbp-northeuralex-uzn-FISHING-1//clicsbp-northeuralex-kaz-FISHING-1//clicsbp-northeuralex-bak-FISHING-1//clicsbp-northeuralex-tat-FISHING-1//clicsbp-northeuralex-chv-FISHING-1"
     words "b a l ɯ k + t u t m a k//b a l i q + ɒ w l a m ɒ q//b ɑ l ə k + ɑ u l ɑ u//au l au//b a l ɤ k + t o t u//p u l ə + t ɯ t"
@@ -16152,7 +16140,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1346
+    id 1345
     label "FEED"
     occurrences "clicsbp-northeuralex-tur-FEED-1//clicsbp-northeuralex-uzn-FEED-1//clicsbp-northeuralex-kaz-FEED-1//clicsbp-northeuralex-kaz-FEED-2//clicsbp-northeuralex-kaz-FEED-3//clicsbp-northeuralex-bak-FEED-1//clicsbp-northeuralex-tat-FEED-1//clicsbp-northeuralex-chv-FEED-1"
     words "b ɛ s l ɛ m ɛ k//ɛ d i r m ɒ q//ɑ s + ə ʃ k ə z u//ɑ z ə q t ɑ n d ə ɾ u//q o ɾ e k t e n d ə ɾ u//a ʃ a t ɯ u//t u j d ɤ r u//ɕ i t ɛ r"
@@ -16164,7 +16152,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1347
+    id 1346
     label "IRRIGATE"
     occurrences "clicsbp-northeuralex-tur-IRRIGATE-1//clicsbp-northeuralex-uzn-IRRIGATE-1//clicsbp-northeuralex-kaz-IRRIGATE-1//clicsbp-northeuralex-bak-IRRIGATE-1//clicsbp-northeuralex-tat-IRRIGATE-1//clicsbp-northeuralex-chv-IRRIGATE-1"
     words "s u l a m a k//ɒ q i z m ɒ q//s u ɑ ɾ u//q o j ou//s u g a r u//ʂ ə ʋ a r"
@@ -16176,7 +16164,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1348
+    id 1347
     label "RIPEN"
     occurrences "clicsbp-northeuralex-tur-RIPEN-1//clicsbp-northeuralex-uzn-RIPEN-1//clicsbp-northeuralex-kaz-RIPEN-1//clicsbp-northeuralex-bak-RIPEN-1//clicsbp-northeuralex-tat-RIPEN-1//clicsbp-northeuralex-chv-RIPEN-1"
     words "o l g u n l a ʃ m a k//q i z a r m ɒ q//ʒ e t ə l u//ø l ɣ ø r ø y//dʑ i t e ʃ ʉ//p i ɕ"
@@ -16188,7 +16176,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1349
+    id 1348
     label "FRY"
     occurrences "clicsbp-northeuralex-tur-FRY-1//clicsbp-northeuralex-uzn-FRY-1//clicsbp-northeuralex-kaz-FRY-1//clicsbp-northeuralex-bak-FRY-1//clicsbp-northeuralex-tat-FRY-1//clicsbp-northeuralex-tat-FRY-2//clicsbp-northeuralex-chv-FRY-1"
     words "k ɯ z a ɾ t m a k//q ɒ w u r m ɒ q//q uə ɾ u//q u r ɯ u//q u ɤ r u//q ɤ z d ɤ r u//ə ʂ a l a"
@@ -16200,7 +16188,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1350
+    id 1349
     label "STIR"
     occurrences "clicsbp-northeuralex-tur-STIR-1//clicsbp-northeuralex-uzn-STIR-1//clicsbp-northeuralex-kaz-STIR-1//clicsbp-northeuralex-kaz-STIR-2//clicsbp-northeuralex-bak-STIR-1//clicsbp-northeuralex-tat-STIR-1//clicsbp-northeuralex-tat-STIR-2//clicsbp-northeuralex-chv-STIR-1"
     words "k a ɾ ɯ ʃ t ɯ ɾ m a k//a t a l a m ɒ q//b ə l ʁ ɑ l ɑ u//s ɑ p ə ɾ ə l ə s t ə ɾ u//q a t n a ʃ t ɯ r ɯ u//b u t au//b o l g a t u//χ u t ə ʂ t a r"
@@ -16212,7 +16200,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1351
+    id 1350
     label "WIPE"
     occurrences "clicsbp-northeuralex-tur-WIPE-1//clicsbp-northeuralex-uzn-WIPE-1//clicsbp-northeuralex-kaz-WIPE-1//clicsbp-northeuralex-bak-WIPE-1//clicsbp-northeuralex-tat-WIPE-1//clicsbp-northeuralex-chv-WIPE-1//clicsbp-wold-Sakha-WIPE-1"
     words "s i l m ɛ k//s u r k a m ɒ q//s ʊ ɾ t u//h ø r t ø y//s œ r t ʉ//ʂ ə l//s o t"
@@ -16224,7 +16212,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1352
+    id 1351
     label "WASH (ONESELF)"
     occurrences "clicsbp-northeuralex-tur-WASHONESELF-1//clicsbp-northeuralex-uzn-WASHONESELF-1//clicsbp-northeuralex-kaz-WASHONESELF-1//clicsbp-northeuralex-bak-WASHONESELF-1//clicsbp-northeuralex-tat-WASHONESELF-1//clicsbp-northeuralex-chv-WASHONESELF-1"
     words "j ɯ k a n m a k//j u w i n m ɒ q//ʒ uə n u//j ɯ u ɯ n ɯ u//j ʊ ɤ n u//ɕ ə ʋ ə n"
@@ -16236,7 +16224,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1353
+    id 1352
     label "UNDRESS"
     occurrences "clicsbp-northeuralex-tur-UNDRESS-1//clicsbp-northeuralex-uzn-UNDRESS-1//clicsbp-northeuralex-kaz-UNDRESS-1//clicsbp-northeuralex-bak-UNDRESS-1//clicsbp-northeuralex-tat-UNDRESS-1//clicsbp-northeuralex-chv-UNDRESS-1"
     words "tʃ ɯ k a ɾ m a k//ɛ tʃ i n t i r m ɒ q//ʃ e ʃ u//s i s e y//tɕ i ʃ e n ʉ//s a l a n"
@@ -16248,7 +16236,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1354
+    id 1353
     label "COMB (VERB)"
     occurrences "clicsbp-northeuralex-tur-COMBVERB-1//clicsbp-northeuralex-uzn-COMBVERB-1//clicsbp-northeuralex-kaz-COMBVERB-1//clicsbp-northeuralex-bak-COMBVERB-1//clicsbp-northeuralex-tat-COMBVERB-1//clicsbp-northeuralex-chv-COMBVERB-1"
     words "t a ɾ a m a k//t a r a m ɒ q//t ɑ ɾ ɑ u//t a r au//t a r au//t u r a"
@@ -16260,7 +16248,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1355
+    id 1354
     label "TALK"
     occurrences "clicsbp-northeuralex-tur-TALK-1//clicsbp-northeuralex-uzn-TALK-1//clicsbp-northeuralex-kaz-TALK-1//clicsbp-northeuralex-kaz-TALK-2//clicsbp-northeuralex-kaz-TALK-3//clicsbp-northeuralex-bak-TALK-1//clicsbp-northeuralex-tat-TALK-1//clicsbp-northeuralex-chv-TALK-1//clicsbp-northeuralex-chv-TALK-2"
     words "k o n u ʃ m a k//g a p i r m ɒ q//s ø j l e u//s ø j l e s u//t ə l + q ɑ t ə s u//h ø j l æ ʃ e y//s œ j l æ ʉ//s ə m a χ l a//k a l a ɕ"
@@ -16272,7 +16260,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1356
+    id 1355
     label "DAY (24 HOURS)"
     occurrences "clicsbp-wold-Sakha-DAY24HOURS-1"
     words "k y n"
@@ -16284,7 +16272,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1357
+    id 1356
     label "WE (INCLUSIVE)"
     occurrences "clicsbp-wold-Sakha-WEINCLUSIVE-1"
     words "e n + b i h i kː i"
@@ -16296,7 +16284,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1358
+    id 1357
     label "COPPER"
     occurrences "clicsbp-wold-Sakha-COPPER-1"
     words "a l t a n"
@@ -16308,7 +16296,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1359
+    id 1358
     label "QUIET"
     occurrences "clicsbp-wold-Sakha-QUIET-1"
     words "tʃ uː m p u"
@@ -16320,7 +16308,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1360
+    id 1359
     label "BOTTLE"
     occurrences "clicsbp-wold-Sakha-BOTTLE-1"
     words "b ɨ t ɨː l k a"
@@ -16332,7 +16320,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1361
+    id 1360
     label "BE"
     occurrences "clicsbp-wold-Sakha-BE-1//clicsbp-wold-Sakha-BE-2"
     words "e//b u o l"
@@ -16344,7 +16332,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1362
+    id 1361
     label "VAGINA"
     occurrences "clicsbp-wold-Sakha-VAGINA-1"
     words "a b a s"
@@ -16356,7 +16344,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1363
+    id 1362
     label "VULVA"
     occurrences "clicsbp-wold-Sakha-VULVA-1"
     words "a b a s"
@@ -16368,7 +16356,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1364
+    id 1363
     label "ABOVE"
     occurrences "clicsbp-wold-Sakha-ABOVE-1//clicsbp-savelyevturkic-Karaim-ABOVE-1//clicsbp-savelyevturkic-Karaim-ABOVE-2"
     words "y r d y n e n//y s t//a ʃ ɯ r a"
@@ -16380,7 +16368,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1365
+    id 1364
     label "NOTHING"
     occurrences "clicsbp-wold-Sakha-NOTHING-1"
     words "t u o χ + d a + s u o χ"
@@ -16392,7 +16380,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1366
+    id 1365
     label "SCRATCH"
     occurrences "clicsbp-wold-Sakha-SCRATCH-1//clicsbp-savelyevturkic-Karaim-SCRATCH-1"
     words "t a r b aː//k a ʃ ɯ"
@@ -16404,7 +16392,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1367
+    id 1366
     label "AT"
     occurrences "clicsbp-savelyevturkic-Karaim-AT-1"
     words "d a"
@@ -16416,7 +16404,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1368
+    id 1367
     label "BURN"
     occurrences "clicsbp-savelyevturkic-Karaim-BURN-1//clicsbp-savelyevturkic-Karaim-BURN-2"
     words "j a n//k y v"
@@ -16428,7 +16416,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1369
+    id 1368
     label "BEAT"
     occurrences "clicsbp-savelyevturkic-Karaim-BEAT-1//clicsbp-savelyevturkic-Karaim-BEAT-2//clicsbp-savelyevturkic-Karaim-BEAT-3"
     words "j a n tɕ//tɕ a p//u r"
@@ -16440,7 +16428,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1370
+    id 1369
     label "IN"
     occurrences "clicsbp-savelyevturkic-Karaim-IN-1"
     words "i tɕ k e"
@@ -16452,7 +16440,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1371
+    id 1370
     label "OLD (USED)"
     occurrences "clicsbp-savelyevturkic-Karaim-OLDUSED-1"
     words "e s k i"
@@ -16464,7 +16452,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1372
+    id 1371
     label "SMELL"
     occurrences "clicsbp-savelyevturkic-Karaim-SMELL-1"
     words "s e s"
@@ -16476,7 +16464,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1373
+    id 1372
     label "SWELL"
     occurrences "clicsbp-savelyevturkic-Karaim-SWELL-1"
     words "s i s"
@@ -16488,7 +16476,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1374
+    id 1373
     label "THIN"
     occurrences "clicsbp-savelyevturkic-Karaim-THIN-1"
     words "i n tɕ k e"
@@ -16500,7 +16488,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1375
+    id 1374
     label "THINK"
     occurrences "clicsbp-savelyevturkic-Karaim-THINK-1"
     words "s a ɣ ɯ n"
@@ -16552,7 +16540,7 @@ graph [
   ]
   edge [
     source 2
-    target 811
+    target 810
     count 3
     words "j e r//j e r//s i r"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -16565,7 +16553,7 @@ graph [
   ]
   edge [
     source 2
-    target 543
+    target 542
     count 1
     words "j e r"
     varieties "clicsbp-idssegmented-nogai"
@@ -16578,7 +16566,7 @@ graph [
   ]
   edge [
     source 3
-    target 1134
+    target 1133
     count 1
     words "e l"
     varieties "clicsbp-idssegmented-kumyk"
@@ -16591,7 +16579,7 @@ graph [
   ]
   edge [
     source 4
-    target 811
+    target 810
     count 2
     words "j e r//j e r"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -16604,7 +16592,7 @@ graph [
   ]
   edge [
     source 4
-    target 543
+    target 542
     count 1
     words "j e r"
     varieties "clicsbp-idssegmented-nogai"
@@ -16617,7 +16605,7 @@ graph [
   ]
   edge [
     source 4
-    target 885
+    target 884
     count 1
     words "ɕ ɘ r"
     varieties "clicsbp-northeuralex-chv"
@@ -16682,7 +16670,7 @@ graph [
   ]
   edge [
     source 9
-    target 556
+    target 555
     count 1
     words "t œ b e"
     varieties "clicsbp-idssegmented-nogai"
@@ -16708,7 +16696,7 @@ graph [
   ]
   edge [
     source 10
-    target 255
+    target 254
     count 3
     words "b a ʃ//b a s//t œ b œ"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -16721,7 +16709,7 @@ graph [
   ]
   edge [
     source 10
-    target 257
+    target 256
     count 2
     words "tʃ e k e//ʃ e k e"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -16734,7 +16722,7 @@ graph [
   ]
   edge [
     source 10
-    target 556
+    target 555
     count 1
     words "t œ b e"
     varieties "clicsbp-idssegmented-nogai"
@@ -16773,7 +16761,7 @@ graph [
   ]
   edge [
     source 10
-    target 1213
+    target 1212
     count 1
     words "k œ k"
     varieties "clicsbp-idssegmented-nogai"
@@ -16786,7 +16774,7 @@ graph [
   ]
   edge [
     source 10
-    target 262
+    target 261
     count 1
     words "ʃ e k e"
     varieties "clicsbp-idssegmented-nogai"
@@ -16812,24 +16800,11 @@ graph [
   ]
   edge [
     source 12
-    target 427
+    target 426
     count 1
     words "t aː s"
     varieties "clicsbp-wold-Sakha"
     languages "yaku1245"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 13
-    target 856
-    count 1
-    words "t ü z"
-    varieties "clicsbp-idssegmented-kumyk"
-    languages "kumy1244"
     families "Turkic"
     variety_count 1
     language_count 1
@@ -16851,7 +16826,7 @@ graph [
   ]
   edge [
     source 13
-    target 857
+    target 854
     count 1
     words "t ü z"
     varieties "clicsbp-idssegmented-kumyk"
@@ -16864,7 +16839,20 @@ graph [
   ]
   edge [
     source 13
-    target 565
+    target 856
+    count 1
+    words "t ü z"
+    varieties "clicsbp-idssegmented-kumyk"
+    languages "kumy1244"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 13
+    target 564
     count 4
     words "a w l a q//d a ŋ ɨ l//k ɨ r//d a l a"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-idssegmented-nogai//clicsbp-idssegmented-nogai"
@@ -16890,7 +16878,7 @@ graph [
   ]
   edge [
     source 14
-    target 292
+    target 291
     count 1
     words "q o l"
     varieties "clicsbp-idssegmented-kumyk"
@@ -16903,7 +16891,7 @@ graph [
   ]
   edge [
     source 14
-    target 293
+    target 292
     count 1
     words "q o l"
     varieties "clicsbp-idssegmented-kumyk"
@@ -16916,7 +16904,7 @@ graph [
   ]
   edge [
     source 15
-    target 472
+    target 471
     count 1
     words "a r ɨː"
     varieties "clicsbp-wold-Sakha"
@@ -16929,7 +16917,7 @@ graph [
   ]
   edge [
     source 16
-    target 981
+    target 980
     count 1
     words "k a ɾ a"
     varieties "clicsbp-northeuralex-tur"
@@ -16968,7 +16956,7 @@ graph [
   ]
   edge [
     source 17
-    target 403
+    target 402
     count 1
     words "s u w"
     varieties "clicsbp-idssegmented-nogai"
@@ -16981,7 +16969,7 @@ graph [
   ]
   edge [
     source 17
-    target 831
+    target 830
     count 1
     words "k ɨ t ɨː"
     varieties "clicsbp-wold-Sakha"
@@ -16994,7 +16982,7 @@ graph [
   ]
   edge [
     source 19
-    target 403
+    target 402
     count 2
     words "s u w//s u w"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -17020,7 +17008,7 @@ graph [
   ]
   edge [
     source 25
-    target 403
+    target 402
     count 1
     words "s u w"
     varieties "clicsbp-idssegmented-nogai"
@@ -17046,7 +17034,7 @@ graph [
   ]
   edge [
     source 27
-    target 265
+    target 264
     count 1
     words "k œ z"
     varieties "clicsbp-idssegmented-nogai"
@@ -17059,7 +17047,7 @@ graph [
   ]
   edge [
     source 28
-    target 704
+    target 703
     count 1
     words "b a t m a q"
     varieties "clicsbp-idssegmented-kumyk"
@@ -17098,7 +17086,7 @@ graph [
   ]
   edge [
     source 31
-    target 604
+    target 603
     count 1
     words "m a s"
     varieties "clicsbp-wold-Sakha"
@@ -17124,7 +17112,7 @@ graph [
   ]
   edge [
     source 32
-    target 658
+    target 657
     count 1
     words "a g a ʃ"
     varieties "clicsbp-idssegmented-nogai"
@@ -17137,7 +17125,7 @@ graph [
   ]
   edge [
     source 32
-    target 562
+    target 561
     count 1
     words "t a h t a"
     varieties "clicsbp-northeuralex-tur"
@@ -17150,7 +17138,7 @@ graph [
   ]
   edge [
     source 32
-    target 604
+    target 603
     count 1
     words "m a s"
     varieties "clicsbp-wold-Sakha"
@@ -17163,7 +17151,7 @@ graph [
   ]
   edge [
     source 33
-    target 658
+    target 657
     count 1
     words "a g a ʃ"
     varieties "clicsbp-idssegmented-nogai"
@@ -17176,7 +17164,7 @@ graph [
   ]
   edge [
     source 33
-    target 604
+    target 603
     count 1
     words "m a s"
     varieties "clicsbp-wold-Sakha"
@@ -17202,7 +17190,7 @@ graph [
   ]
   edge [
     source 35
-    target 1213
+    target 1212
     count 1
     words "k œ k"
     varieties "clicsbp-idssegmented-nogai"
@@ -17228,7 +17216,7 @@ graph [
   ]
   edge [
     source 36
-    target 1213
+    target 1212
     count 1
     words "k œ k"
     varieties "clicsbp-idssegmented-nogai"
@@ -17241,7 +17229,7 @@ graph [
   ]
   edge [
     source 36
-    target 1273
+    target 1272
     count 1
     words "k ə ʋ a k"
     varieties "clicsbp-northeuralex-chv"
@@ -17254,7 +17242,7 @@ graph [
   ]
   edge [
     source 37
-    target 930
+    target 929
     count 3
     words "g ü n//k ü n//k ʊ n"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-northeuralex-kaz"
@@ -17267,7 +17255,7 @@ graph [
   ]
   edge [
     source 37
-    target 1356
+    target 1355
     count 1
     words "k y n"
     varieties "clicsbp-wold-Sakha"
@@ -17306,7 +17294,7 @@ graph [
   ]
   edge [
     source 42
-    target 1310
+    target 1309
     count 1
     words "k ʉ k r æ ʉ"
     varieties "clicsbp-northeuralex-tat"
@@ -17319,7 +17307,7 @@ graph [
   ]
   edge [
     source 46
-    target 978
+    target 977
     count 5
     words "u a r ɨ q//j a r ɨ k//j ɒ r u ɣ//j a k t ɤ//ɕ u t ə"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-northeuralex-uzn//clicsbp-northeuralex-tat//clicsbp-northeuralex-chv"
@@ -17332,7 +17320,7 @@ graph [
   ]
   edge [
     source 46
-    target 979
+    target 978
     count 3
     words "u a r ɨ q//j a r ɨ k//s ɨ r d ɨ k"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -17371,7 +17359,7 @@ graph [
   ]
   edge [
     source 48
-    target 981
+    target 980
     count 1
     words "q ɑ r a"
     varieties "clicsbp-northeuralex-tat"
@@ -17410,7 +17398,7 @@ graph [
   ]
   edge [
     source 59
-    target 589
+    target 588
     count 3
     words "o t//o t//o t"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-savelyevturkic-Karaim"
@@ -17423,7 +17411,7 @@ graph [
   ]
   edge [
     source 59
-    target 371
+    target 370
     count 1
     words "a t ɛ ʃ"
     varieties "clicsbp-northeuralex-tur"
@@ -17436,7 +17424,7 @@ graph [
   ]
   edge [
     source 62
-    target 1006
+    target 1005
     count 2
     words "k y l//k y l"
     varieties "clicsbp-wold-Sakha//clicsbp-savelyevturkic-Karaim"
@@ -17670,7 +17658,7 @@ graph [
   ]
   edge [
     source 76
-    target 910
+    target 909
     count 1
     words "ʒ a h i l"
     varieties "clicsbp-idssegmented-kumyk"
@@ -17735,7 +17723,7 @@ graph [
   ]
   edge [
     source 79
-    target 910
+    target 909
     count 1
     words "u a ʃ"
     varieties "clicsbp-idssegmented-kumyk"
@@ -17761,7 +17749,7 @@ graph [
   ]
   edge [
     source 80
-    target 910
+    target 909
     count 1
     words "u a ʃ"
     varieties "clicsbp-idssegmented-kumyk"
@@ -17774,7 +17762,7 @@ graph [
   ]
   edge [
     source 81
-    target 776
+    target 775
     count 1
     words "b a j"
     varieties "clicsbp-idssegmented-nogai"
@@ -17878,7 +17866,7 @@ graph [
   ]
   edge [
     source 91
-    target 1295
+    target 1294
     count 2
     words "u l//u l"
     varieties "clicsbp-northeuralex-bak//clicsbp-northeuralex-tat"
@@ -17891,7 +17879,7 @@ graph [
   ]
   edge [
     source 91
-    target 1296
+    target 1295
     count 2
     words "u l//u l"
     varieties "clicsbp-northeuralex-bak//clicsbp-northeuralex-tat"
@@ -17956,7 +17944,7 @@ graph [
   ]
   edge [
     source 94
-    target 1083
+    target 1082
     count 1
     words "a g a"
     varieties "clicsbp-idssegmented-nogai"
@@ -17995,7 +17983,7 @@ graph [
   ]
   edge [
     source 95
-    target 1141
+    target 1140
     count 1
     words "a ɣ a"
     varieties "clicsbp-idssegmented-kumyk"
@@ -18021,7 +18009,7 @@ graph [
   ]
   edge [
     source 95
-    target 1083
+    target 1082
     count 1
     words "a g a"
     varieties "clicsbp-idssegmented-nogai"
@@ -18190,7 +18178,7 @@ graph [
   ]
   edge [
     source 102
-    target 203
+    target 202
     count 1
     words "e h e"
     varieties "clicsbp-wold-Sakha"
@@ -18203,7 +18191,7 @@ graph [
   ]
   edge [
     source 103
-    target 911
+    target 910
     count 2
     words "q a r t//k a r t"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -18294,7 +18282,7 @@ graph [
   ]
   edge [
     source 108
-    target 1083
+    target 1082
     count 1
     words "a g a"
     varieties "clicsbp-idssegmented-nogai"
@@ -18333,7 +18321,7 @@ graph [
   ]
   edge [
     source 109
-    target 1051
+    target 1050
     count 1
     words "t aː y"
     varieties "clicsbp-wold-Sakha"
@@ -18476,7 +18464,7 @@ graph [
   ]
   edge [
     source 117
-    target 593
+    target 592
     count 1
     words "t œ r y t"
     varieties "clicsbp-wold-Sakha"
@@ -18502,7 +18490,7 @@ graph [
   ]
   edge [
     source 120
-    target 1136
+    target 1135
     count 1
     words "t o y o n"
     varieties "clicsbp-wold-Sakha"
@@ -18515,7 +18503,7 @@ graph [
   ]
   edge [
     source 120
-    target 1141
+    target 1140
     count 1
     words "t o y o n"
     varieties "clicsbp-wold-Sakha"
@@ -18580,7 +18568,7 @@ graph [
   ]
   edge [
     source 135
-    target 1252
+    target 1251
     count 1
     words "g a i l æ"
     varieties "clicsbp-northeuralex-tat"
@@ -18593,7 +18581,7 @@ graph [
   ]
   edge [
     source 135
-    target 1150
+    target 1149
     count 1
     words "ɨ a l"
     varieties "clicsbp-wold-Sakha"
@@ -18606,7 +18594,7 @@ graph [
   ]
   edge [
     source 135
-    target 895
+    target 894
     count 1
     words "dʒ o n"
     varieties "clicsbp-wold-Sakha"
@@ -18619,7 +18607,7 @@ graph [
   ]
   edge [
     source 135
-    target 1134
+    target 1133
     count 1
     words "dʒ o n"
     varieties "clicsbp-wold-Sakha"
@@ -18645,7 +18633,7 @@ graph [
   ]
   edge [
     source 139
-    target 1296
+    target 1295
     count 1
     words "k i n i"
     varieties "clicsbp-wold-Sakha"
@@ -18658,7 +18646,7 @@ graph [
   ]
   edge [
     source 139
-    target 1295
+    target 1294
     count 1
     words "o l"
     varieties "clicsbp-savelyevturkic-Karaim"
@@ -18684,7 +18672,7 @@ graph [
   ]
   edge [
     source 142
-    target 1295
+    target 1294
     count 1
     words "u l"
     varieties "clicsbp-northeuralex-tat"
@@ -18697,7 +18685,7 @@ graph [
   ]
   edge [
     source 142
-    target 1296
+    target 1295
     count 1
     words "u l"
     varieties "clicsbp-northeuralex-tat"
@@ -18723,7 +18711,7 @@ graph [
   ]
   edge [
     source 143
-    target 178
+    target 177
     count 1
     words "ʒ a n"
     varieties "clicsbp-idssegmented-kumyk"
@@ -18736,7 +18724,7 @@ graph [
   ]
   edge [
     source 143
-    target 1001
+    target 1000
     count 1
     words "ʒ a n"
     varieties "clicsbp-idssegmented-kumyk"
@@ -18749,7 +18737,7 @@ graph [
   ]
   edge [
     source 144
-    target 166
+    target 165
     count 1
     words "a t ɨː r"
     varieties "clicsbp-wold-Sakha"
@@ -18788,7 +18776,7 @@ graph [
   ]
   edge [
     source 149
-    target 675
+    target 674
     count 1
     words "ʃ e t e n"
     varieties "clicsbp-idssegmented-nogai"
@@ -18814,7 +18802,7 @@ graph [
   ]
   edge [
     source 151
-    target 580
+    target 579
     count 1
     words "o ɣ u s"
     varieties "clicsbp-wold-Sakha"
@@ -18827,7 +18815,7 @@ graph [
   ]
   edge [
     source 151
-    target 583
+    target 582
     count 1
     words "o ɣ u s"
     varieties "clicsbp-wold-Sakha"
@@ -18866,7 +18854,7 @@ graph [
   ]
   edge [
     source 155
-    target 315
+    target 314
     count 1
     words "k o j u n"
     varieties "clicsbp-northeuralex-tur"
@@ -18917,8 +18905,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 165
-    target 1109
+    source 164
+    target 1108
     count 3
     words "a t//a t//ɒ t"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-northeuralex-uzn"
@@ -18930,8 +18918,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 175
-    target 266
+    source 174
+    target 265
     count 1
     words "χ aː s"
     varieties "clicsbp-wold-Sakha"
@@ -18943,8 +18931,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 178
-    target 179
+    source 177
+    target 178
     count 1
     words "g u ʃ"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -18956,8 +18944,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 178
-    target 1001
+    source 177
+    target 1000
     count 1
     words "ʒ a n"
     varieties "clicsbp-idssegmented-kumyk"
@@ -18969,8 +18957,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 180
-    target 182
+    source 179
+    target 181
     count 2
     words "q a r a q u ʃ//k a r a g u s"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -18982,8 +18970,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 188
-    target 697
+    source 187
+    target 696
     count 1
     words "ɨ t"
     varieties "clicsbp-wold-Sakha"
@@ -18995,7 +18983,20 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 194
+    source 193
+    target 194
+    count 2
+    words "p u l//a q tʃ a"
+    varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk"
+    languages "nort2697//kumy1244"
+    families "Turkic//Turkic"
+    variety_count 2
+    language_count 2
+    family_count 1
+    cognate_count 2
+  ]
+  edge [
+    source 193
     target 195
     count 2
     words "p u l//a q tʃ a"
@@ -19008,21 +19009,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 194
-    target 196
-    count 2
-    words "p u l//a q tʃ a"
-    varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk"
-    languages "nort2697//kumy1244"
-    families "Turkic//Turkic"
-    variety_count 2
-    language_count 2
-    family_count 1
-    cognate_count 2
-  ]
-  edge [
-    source 194
-    target 606
+    source 193
+    target 605
     count 1
     words "χ a t ɨ r ɨ k"
     varieties "clicsbp-wold-Sakha"
@@ -19034,8 +19022,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 195
-    target 196
+    source 194
+    target 195
     count 3
     words "p u l//a q tʃ a//a k ʃ a"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -19047,8 +19035,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 200
-    target 201
+    source 199
+    target 200
     count 2
     words "g u r d//k u ɾ t"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-northeuralex-tur"
@@ -19060,8 +19048,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 218
-    target 1180
+    source 217
+    target 1179
     count 1
     words "a w"
     varieties "clicsbp-idssegmented-kumyk"
@@ -19073,8 +19061,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 218
-    target 534
+    source 217
+    target 533
     count 1
     words "ʃ a t ɨ r"
     varieties "clicsbp-idssegmented-nogai"
@@ -19086,8 +19074,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 219
-    target 220
+    source 218
+    target 219
     count 1
     words "a r ɨ"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -19099,8 +19087,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 224
-    target 225
+    source 223
+    target 224
     count 4
     words "a ɣ dʒ a g a n a d//s ü j r ü ʒ i b i n//ʃ i r k e j//s o k ɨ r + ʃ ɨ b ɨ n"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-idssegmented-nogai"
@@ -19112,8 +19100,8 @@ graph [
     cognate_count 4
   ]
   edge [
-    source 226
-    target 1149
+    source 225
+    target 1148
     count 1
     words "j ɯ l a n"
     varieties "clicsbp-northeuralex-bak"
@@ -19125,8 +19113,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 229
-    target 232
+    source 228
+    target 231
     count 1
     words "ʃ e g e r t k i"
     varieties "clicsbp-idssegmented-nogai"
@@ -19138,8 +19126,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 235
-    target 236
+    source 234
+    target 235
     count 4
     words "b æ d æ n//q a r q a r a//k a r k ɨ r a//e t"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -19151,8 +19139,21 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 235
-    target 453
+    source 234
+    target 452
+    count 1
+    words "e t"
+    varieties "clicsbp-wold-Sakha"
+    languages "yaku1245"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 234
+    target 1103
     count 1
     words "e t"
     varieties "clicsbp-wold-Sakha"
@@ -19165,7 +19166,20 @@ graph [
   ]
   edge [
     source 235
-    target 1104
+    target 452
+    count 1
+    words "e t"
+    varieties "clicsbp-wold-Sakha"
+    languages "yaku1245"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 235
+    target 1103
     count 1
     words "e t"
     varieties "clicsbp-wold-Sakha"
@@ -19178,33 +19192,7 @@ graph [
   ]
   edge [
     source 236
-    target 453
-    count 1
-    words "e t"
-    varieties "clicsbp-wold-Sakha"
-    languages "yaku1245"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 236
-    target 1104
-    count 1
-    words "e t"
-    varieties "clicsbp-wold-Sakha"
-    languages "yaku1245"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 237
-    target 238
+    target 237
     count 5
     words "d æ r i//t e r i//t e r i//k œ n//t i r iː"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -19216,8 +19204,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 237
-    target 486
+    source 236
+    target 485
     count 4
     words "t e r i//t e ɾ ə//t i r e//t i r e"
     varieties "clicsbp-idssegmented-nogai//clicsbp-northeuralex-kaz//clicsbp-northeuralex-bak//clicsbp-northeuralex-tat"
@@ -19229,8 +19217,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 238
-    target 486
+    source 237
+    target 485
     count 1
     words "t e r i"
     varieties "clicsbp-idssegmented-nogai"
@@ -19242,8 +19230,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 239
-    target 526
+    source 238
+    target 525
     count 2
     words "tʃ a tʃ//ʃ a ʃ"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -19255,8 +19243,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 239
-    target 398
+    source 238
+    target 397
     count 1
     words "a s"
     varieties "clicsbp-wold-Sakha"
@@ -19268,8 +19256,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 239
-    target 742
+    source 238
+    target 741
     count 1
     words "a s"
     varieties "clicsbp-wold-Sakha"
@@ -19281,8 +19269,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 239
-    target 630
+    source 238
+    target 629
     count 1
     words "a s"
     varieties "clicsbp-wold-Sakha"
@@ -19294,8 +19282,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 241
-    target 242
+    source 240
+    target 241
     count 2
     words "t ü k//t yː"
     varieties "clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -19307,8 +19295,21 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 241
-    target 484
+    source 240
+    target 483
+    count 1
+    words "t yː"
+    varieties "clicsbp-wold-Sakha"
+    languages "yaku1245"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 240
+    target 485
     count 1
     words "t yː"
     varieties "clicsbp-wold-Sakha"
@@ -19321,7 +19322,7 @@ graph [
   ]
   edge [
     source 241
-    target 486
+    target 483
     count 1
     words "t yː"
     varieties "clicsbp-wold-Sakha"
@@ -19333,8 +19334,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 242
-    target 484
+    source 241
+    target 485
     count 1
     words "t yː"
     varieties "clicsbp-wold-Sakha"
@@ -19346,21 +19347,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 242
-    target 486
-    count 1
-    words "t yː"
-    varieties "clicsbp-wold-Sakha"
-    languages "yaku1245"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 246
-    target 364
+    source 245
+    target 363
     count 2
     words "s ü j e k//s ü j e k"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -19372,8 +19360,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 247
-    target 249
+    source 246
+    target 248
     count 1
     words "k u j r ɨ k"
     varieties "clicsbp-idssegmented-nogai"
@@ -19385,8 +19373,21 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 247
-    target 326
+    source 246
+    target 325
+    count 1
+    words "k u j r ɨ k"
+    varieties "clicsbp-idssegmented-nogai"
+    languages "noga1249"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 248
+    target 325
     count 1
     words "k u j r ɨ k"
     varieties "clicsbp-idssegmented-nogai"
@@ -19399,11 +19400,11 @@ graph [
   ]
   edge [
     source 249
-    target 326
+    target 250
     count 1
-    words "k u j r ɨ k"
-    varieties "clicsbp-idssegmented-nogai"
-    languages "noga1249"
+    words "b e l"
+    varieties "clicsbp-idssegmented-azerbaijani"
+    languages "nort2697"
     families "Turkic"
     variety_count 1
     language_count 1
@@ -19411,7 +19412,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 250
+    source 249
     target 251
     count 1
     words "b e l"
@@ -19424,7 +19425,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 250
+    source 249
     target 252
     count 1
     words "b e l"
@@ -19437,21 +19438,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 250
-    target 253
-    count 1
-    words "b e l"
-    varieties "clicsbp-idssegmented-azerbaijani"
-    languages "nort2697"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 250
-    target 839
+    source 249
+    target 838
     count 1
     words "s ɨ r t"
     varieties "clicsbp-idssegmented-nogai"
@@ -19463,7 +19451,20 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 251
+    source 250
+    target 251
+    count 2
+    words "b e l//b e l"
+    varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk"
+    languages "nort2697//kumy1244"
+    families "Turkic//Turkic"
+    variety_count 2
+    language_count 2
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 250
     target 252
     count 2
     words "b e l//b e l"
@@ -19477,20 +19478,7 @@ graph [
   ]
   edge [
     source 251
-    target 253
-    count 2
-    words "b e l//b e l"
-    varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk"
-    languages "nort2697//kumy1244"
-    families "Turkic//Turkic"
-    variety_count 2
-    language_count 2
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 252
-    target 253
+    target 252
     count 7
     words "b e l//b e l//k a z g ɨ r//k ø r æ k//k œ r æ k//k ɘ r ɛ ɕ ɛ//k y r dʒ e χ"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-northeuralex-bak//clicsbp-northeuralex-tat//clicsbp-northeuralex-chv//clicsbp-wold-Sakha"
@@ -19502,7 +19490,20 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 252
+    source 251
+    target 287
+    count 1
+    words "k ü r æ k"
+    varieties "clicsbp-idssegmented-azerbaijani"
+    languages "nort2697"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 251
     target 288
     count 1
     words "k ü r æ k"
@@ -19515,7 +19516,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 252
+    source 251
     target 289
     count 1
     words "k ü r æ k"
@@ -19529,20 +19530,7 @@ graph [
   ]
   edge [
     source 252
-    target 290
-    count 1
-    words "k ü r æ k"
-    varieties "clicsbp-idssegmented-azerbaijani"
-    languages "nort2697"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 253
-    target 289
+    target 288
     count 1
     words "k y ɾ ɛ k"
     varieties "clicsbp-northeuralex-tur"
@@ -19554,8 +19542,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 255
-    target 256
+    source 254
+    target 255
     count 1
     words "b a ʃ"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -19567,8 +19555,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 256
-    target 994
+    source 255
+    target 993
     count 1
     words "k u r aː n a χ"
     varieties "clicsbp-wold-Sakha"
@@ -19580,8 +19568,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 257
-    target 262
+    source 256
+    target 261
     count 1
     words "ʃ e k e"
     varieties "clicsbp-idssegmented-nogai"
@@ -19593,8 +19581,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 260
-    target 885
+    source 259
+    target 884
     count 4
     words "j u z//j y z//j u z//j œ z"
     varieties "clicsbp-idssegmented-nogai//clicsbp-northeuralex-tur//clicsbp-northeuralex-uzn//clicsbp-northeuralex-tat"
@@ -19606,8 +19594,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 260
-    target 402
+    source 259
+    target 401
     count 1
     words "j u z"
     varieties "clicsbp-idssegmented-nogai"
@@ -19619,8 +19607,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 260
-    target 264
+    source 259
+    target 263
     count 1
     words "b e t"
     varieties "clicsbp-idssegmented-nogai"
@@ -19632,8 +19620,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 261
-    target 885
+    source 260
+    target 884
     count 1
     words "s yː s"
     varieties "clicsbp-wold-Sakha"
@@ -19645,8 +19633,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 262
-    target 263
+    source 261
+    target 262
     count 3
     words "tʃ æ n æ//tʃ ɛ n ɛ//j a n a χ"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-northeuralex-tur//clicsbp-northeuralex-chv"
@@ -19658,8 +19646,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 262
-    target 832
+    source 261
+    target 831
     count 2
     words "j a k//ʒ ɑ q"
     varieties "clicsbp-idssegmented-nogai//clicsbp-northeuralex-kaz"
@@ -19671,8 +19659,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 265
-    target 267
+    source 264
+    target 266
     count 1
     words "g œ z"
     varieties "clicsbp-idssegmented-kumyk"
@@ -19684,8 +19672,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 273
-    target 277
+    source 272
+    target 276
     count 1
     words "b u r ɨ n"
     varieties "clicsbp-idssegmented-nogai"
@@ -19697,8 +19685,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 273
-    target 806
+    source 272
+    target 805
     count 1
     words "b u r u n"
     varieties "clicsbp-northeuralex-uzn"
@@ -19710,8 +19698,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 276
-    target 286
+    source 275
+    target 285
     count 1
     words "t a m a k"
     varieties "clicsbp-northeuralex-tat"
@@ -19723,8 +19711,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 279
-    target 280
+    source 278
+    target 279
     count 10
     words "d i l//t i l//t i l//d i l//t i l//t ə l//t e l//t e l//tɕ ɘ l χ ɛ//t ɨ l"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-northeuralex-tur//clicsbp-northeuralex-uzn//clicsbp-northeuralex-kaz//clicsbp-northeuralex-bak//clicsbp-northeuralex-tat//clicsbp-northeuralex-chv//clicsbp-wold-Sakha"
@@ -19736,8 +19724,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 279
-    target 1108
+    source 278
+    target 1107
     count 1
     words "t ɨ l"
     varieties "clicsbp-wold-Sakha"
@@ -19749,8 +19737,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 280
-    target 1106
+    source 279
+    target 1105
     count 1
     words "t e l m æ r"
     varieties "clicsbp-northeuralex-bak"
@@ -19762,8 +19750,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 280
-    target 1108
+    source 279
+    target 1107
     count 1
     words "t ɨ l"
     varieties "clicsbp-wold-Sakha"
@@ -19775,8 +19763,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 281
-    target 1351
+    source 280
+    target 1350
     count 1
     words "ʂ ə l"
     varieties "clicsbp-northeuralex-chv"
@@ -19788,8 +19776,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 281
-    target 655
+    source 280
+    target 654
     count 1
     words "ʂ ə l"
     varieties "clicsbp-northeuralex-chv"
@@ -19801,8 +19789,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 283
-    target 663
+    source 282
+    target 662
     count 1
     words "b a l t a"
     varieties "clicsbp-wold-Sakha"
@@ -19814,8 +19802,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 284
-    target 286
+    source 283
+    target 285
     count 1
     words "p ɯ r"
     varieties "clicsbp-northeuralex-chv"
@@ -19827,8 +19815,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 284
-    target 740
+    source 283
+    target 739
     count 1
     words "p ɯ r"
     varieties "clicsbp-northeuralex-chv"
@@ -19840,8 +19828,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 286
-    target 740
+    source 285
+    target 739
     count 1
     words "p ɯ r"
     varieties "clicsbp-northeuralex-chv"
@@ -19853,7 +19841,20 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 288
+    source 287
+    target 288
+    count 1
+    words "k ü r æ k"
+    varieties "clicsbp-idssegmented-azerbaijani"
+    languages "nort2697"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 287
     target 289
     count 1
     words "k ü r æ k"
@@ -19867,20 +19868,7 @@ graph [
   ]
   edge [
     source 288
-    target 290
-    count 1
-    words "k ü r æ k"
-    varieties "clicsbp-idssegmented-azerbaijani"
-    languages "nort2697"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 289
-    target 290
+    target 289
     count 5
     words "k ü r æ k//a v a r//q a l a q//e s k e k//k a l a k"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-idssegmented-nogai"
@@ -19892,8 +19880,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 292
-    target 293
+    source 291
+    target 292
     count 8
     words "æ l//q o l//q o l//q u l//q u l//i l iː//k o l//b i l e k"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-northeuralex-kaz//clicsbp-northeuralex-bak//clicsbp-northeuralex-tat//clicsbp-wold-Sakha//clicsbp-savelyevturkic-Karaim//clicsbp-savelyevturkic-Karaim"
@@ -19905,8 +19893,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 292
-    target 1300
+    source 291
+    target 1299
     count 1
     words "a l ə"
     varieties "clicsbp-northeuralex-chv"
@@ -19918,8 +19906,21 @@ graph [
     cognate_count 1
   ]
   edge [
+    source 291
+    target 1112
+    count 1
+    words "k o l"
+    varieties "clicsbp-savelyevturkic-Karaim"
+    languages "kara1464"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
     source 292
-    target 1113
+    target 1112
     count 1
     words "k o l"
     varieties "clicsbp-savelyevturkic-Karaim"
@@ -19931,21 +19932,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 293
-    target 1113
-    count 1
-    words "k o l"
-    varieties "clicsbp-savelyevturkic-Karaim"
-    languages "kara1464"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 298
-    target 299
+    source 297
+    target 298
     count 7
     words "b a r m a g//b a r m a q//b a r m a k//b a r m a q//b a r m a k//p y r n ɛ//t a r b a χ"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-northeuralex-bak//clicsbp-northeuralex-tat//clicsbp-northeuralex-chv//clicsbp-wold-Sakha"
@@ -19957,7 +19945,33 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 299
+    source 298
+    target 300
+    count 1
+    words "t ə ɾ n ɑ q"
+    varieties "clicsbp-northeuralex-kaz"
+    languages "kaza1248"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 298
+    target 1222
+    count 1
+    words "t ə ɾ n ɑ q"
+    varieties "clicsbp-northeuralex-kaz"
+    languages "kaza1248"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 298
     target 301
     count 1
     words "t ə ɾ n ɑ q"
@@ -19970,34 +19984,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 299
-    target 1223
-    count 1
-    words "t ə ɾ n ɑ q"
-    varieties "clicsbp-northeuralex-kaz"
-    languages "kaza1248"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 299
-    target 302
-    count 1
-    words "t ə ɾ n ɑ q"
-    varieties "clicsbp-northeuralex-kaz"
-    languages "kaza1248"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 301
-    target 302
+    source 300
+    target 301
     count 7
     words "t ɨ r n a q//t i r n ɒ q//t ə ɾ n ɑ q//t ɯ r n a q//t ɤ r n a k//tɕ ɘ r n ɛ//t ɨ ŋ ɨ r a χ"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-northeuralex-uzn//clicsbp-northeuralex-kaz//clicsbp-northeuralex-bak//clicsbp-northeuralex-tat//clicsbp-northeuralex-chv//clicsbp-wold-Sakha"
@@ -20009,8 +19997,21 @@ graph [
     cognate_count 1
   ]
   edge [
+    source 300
+    target 1222
+    count 5
+    words "t i r n ɒ q//t ə ɾ n ɑ q//t ɯ r n a q//t ɤ r n a k//tɕ ɘ r n ɛ"
+    varieties "clicsbp-northeuralex-uzn//clicsbp-northeuralex-kaz//clicsbp-northeuralex-bak//clicsbp-northeuralex-tat//clicsbp-northeuralex-chv"
+    languages "nort2690//kaza1248//bash1264//tata1255//chuv1255"
+    families "Turkic//Turkic//Turkic//Turkic//Turkic"
+    variety_count 5
+    language_count 5
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
     source 301
-    target 1223
+    target 1222
     count 5
     words "t i r n ɒ q//t ə ɾ n ɑ q//t ɯ r n a q//t ɤ r n a k//tɕ ɘ r n ɛ"
     varieties "clicsbp-northeuralex-uzn//clicsbp-northeuralex-kaz//clicsbp-northeuralex-bak//clicsbp-northeuralex-tat//clicsbp-northeuralex-chv"
@@ -20023,19 +20024,19 @@ graph [
   ]
   edge [
     source 302
-    target 1223
-    count 5
-    words "t i r n ɒ q//t ə ɾ n ɑ q//t ɯ r n a q//t ɤ r n a k//tɕ ɘ r n ɛ"
-    varieties "clicsbp-northeuralex-uzn//clicsbp-northeuralex-kaz//clicsbp-northeuralex-bak//clicsbp-northeuralex-tat//clicsbp-northeuralex-chv"
-    languages "nort2690//kaza1248//bash1264//tata1255//chuv1255"
-    families "Turkic//Turkic//Turkic//Turkic//Turkic"
-    variety_count 5
-    language_count 5
+    target 426
+    count 2
+    words "a u a q//a j a k"
+    varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
+    languages "kumy1244//noga1249"
+    families "Turkic//Turkic"
+    variety_count 2
+    language_count 2
     family_count 1
     cognate_count 1
   ]
   edge [
-    source 303
+    source 302
     target 427
     count 2
     words "a u a q//a j a k"
@@ -20048,21 +20049,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 303
-    target 428
-    count 2
-    words "a u a q//a j a k"
-    varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
-    languages "kumy1244//noga1249"
-    families "Turkic//Turkic"
-    variety_count 2
-    language_count 2
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 303
-    target 308
+    source 302
+    target 307
     count 3
     words "ɒ j ɒ q//a t a χ//a j a k"
     varieties "clicsbp-northeuralex-uzn//clicsbp-wold-Sakha//clicsbp-savelyevturkic-Karaim"
@@ -20074,8 +20062,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 303
-    target 829
+    source 302
+    target 828
     count 1
     words "ɑ j ɑ q"
     varieties "clicsbp-northeuralex-kaz"
@@ -20087,8 +20075,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 304
-    target 305
+    source 303
+    target 304
     count 3
     words "b u d//b u t//s a n"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -20100,8 +20088,21 @@ graph [
     cognate_count 2
   ]
   edge [
+    source 303
+    target 785
+    count 1
+    words "s a n"
+    varieties "clicsbp-idssegmented-nogai"
+    languages "noga1249"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
     source 304
-    target 786
+    target 785
     count 1
     words "s a n"
     varieties "clicsbp-idssegmented-nogai"
@@ -20113,21 +20114,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 305
-    target 786
-    count 1
-    words "s a n"
-    varieties "clicsbp-idssegmented-nogai"
-    languages "noga1249"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 307
-    target 855
+    source 306
+    target 854
     count 1
     words "t y z"
     varieties "clicsbp-savelyevturkic-Karaim"
@@ -20139,8 +20127,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 311
-    target 867
+    source 310
+    target 866
     count 3
     words "h ɨ z//ɨ z//j ɘ r"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-northeuralex-chv"
@@ -20152,8 +20140,21 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 311
-    target 744
+    source 310
+    target 743
+    count 1
+    words "j ɘ r"
+    varieties "clicsbp-northeuralex-chv"
+    languages "chuv1255"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 310
+    target 332
     count 1
     words "j ɘ r"
     varieties "clicsbp-northeuralex-chv"
@@ -20166,20 +20167,7 @@ graph [
   ]
   edge [
     source 311
-    target 333
-    count 1
-    words "j ɘ r"
-    varieties "clicsbp-northeuralex-chv"
-    languages "chuv1255"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 312
-    target 313
+    target 312
     count 2
     words "q a n a t//k a n a t"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -20191,8 +20179,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 313
-    target 484
+    source 312
+    target 483
     count 1
     words "j o n"
     varieties "clicsbp-northeuralex-tat"
@@ -20204,8 +20192,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 313
-    target 742
+    source 312
+    target 741
     count 1
     words "t ɘ k"
     varieties "clicsbp-northeuralex-chv"
@@ -20217,8 +20205,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 313
-    target 493
+    source 312
+    target 492
     count 1
     words "t i k"
     varieties "clicsbp-savelyevturkic-Karaim"
@@ -20230,8 +20218,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 315
-    target 316
+    source 314
+    target 315
     count 1
     words "e m ʃ e k"
     varieties "clicsbp-idssegmented-nogai"
@@ -20243,8 +20231,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 315
-    target 317
+    source 314
+    target 316
     count 1
     words "e m iː y"
     varieties "clicsbp-wold-Sakha"
@@ -20256,8 +20244,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 318
-    target 1249
+    source 317
+    target 1248
     count 1
     words "k iː n"
     varieties "clicsbp-wold-Sakha"
@@ -20269,8 +20257,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 328
-    target 329
+    source 327
+    target 328
     count 1
     words "k o t a k"
     varieties "clicsbp-idssegmented-nogai"
@@ -20282,8 +20270,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 328
-    target 477
+    source 327
+    target 476
     count 1
     words "s ɨ m ɨː t"
     varieties "clicsbp-wold-Sakha"
@@ -20295,8 +20283,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 332
-    target 333
+    source 331
+    target 332
     count 1
     words "h ɨ tʃ g ɨ r m a g"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -20308,8 +20296,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 333
-    target 867
+    source 332
+    target 866
     count 1
     words "j ɘ r"
     varieties "clicsbp-northeuralex-chv"
@@ -20321,8 +20309,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 333
-    target 744
+    source 332
+    target 743
     count 1
     words "j ɘ r"
     varieties "clicsbp-northeuralex-chv"
@@ -20334,8 +20322,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 340
-    target 954
+    source 339
+    target 953
     count 1
     words "ɕ u l a"
     varieties "clicsbp-northeuralex-chv"
@@ -20347,8 +20335,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 342
-    target 343
+    source 341
+    target 342
     count 1
     words "j a t m a g"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -20360,8 +20348,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 342
-    target 1228
+    source 341
+    target 1227
     count 2
     words "ʉ j ə q t ɑ u//j o q l au"
     varieties "clicsbp-northeuralex-kaz//clicsbp-northeuralex-bak"
@@ -20373,8 +20361,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 343
-    target 813
+    source 342
+    target 812
     count 1
     words "u z a n m a g"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -20386,8 +20374,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 351
-    target 352
+    source 350
+    target 351
     count 1
     words "æ s m æ k"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -20399,8 +20387,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 353
-    target 1352
+    source 352
+    target 1351
     count 1
     words "j ɯ k a n m a k"
     varieties "clicsbp-northeuralex-tur"
@@ -20412,8 +20400,21 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 354
-    target 674
+    source 353
+    target 673
+    count 1
+    words "o ŋ o r"
+    varieties "clicsbp-wold-Sakha"
+    languages "yaku1245"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 353
+    target 1331
     count 1
     words "o ŋ o r"
     varieties "clicsbp-wold-Sakha"
@@ -20426,11 +20427,11 @@ graph [
   ]
   edge [
     source 354
-    target 1332
+    target 695
     count 1
-    words "o ŋ o r"
-    varieties "clicsbp-wold-Sakha"
-    languages "yaku1245"
+    words "a t u w"
+    varieties "clicsbp-idssegmented-nogai"
+    languages "noga1249"
     families "Turkic"
     variety_count 1
     language_count 1
@@ -20438,7 +20439,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 355
+    source 354
     target 696
     count 1
     words "a t u w"
@@ -20451,21 +20452,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 355
-    target 697
-    count 1
-    words "a t u w"
-    varieties "clicsbp-idssegmented-nogai"
-    languages "noga1249"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 355
-    target 689
+    source 354
+    target 688
     count 1
     words "d oː m a k"
     varieties "clicsbp-northeuralex-tur"
@@ -20477,8 +20465,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 356
-    target 991
+    source 355
+    target 990
     count 2
     words "a w u r//ɨ a r a χ a n"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-wold-Sakha"
@@ -20490,8 +20478,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 356
-    target 487
+    source 355
+    target 486
     count 1
     words "χ a t"
     varieties "clicsbp-wold-Sakha"
@@ -20503,8 +20491,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 356
-    target 797
+    source 355
+    target 796
     count 1
     words "ɨ a r a χ a n"
     varieties "clicsbp-wold-Sakha"
@@ -20516,8 +20504,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 356
-    target 1075
+    source 355
+    target 1074
     count 1
     words "ɨ a r a χ a n"
     varieties "clicsbp-wold-Sakha"
@@ -20529,8 +20517,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 358
-    target 359
+    source 357
+    target 358
     count 4
     words "j a ʃ a m a g//u a ʃ a m a q//j a ʃ a m a k//j a ʃ a w"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-idssegmented-nogai"
@@ -20542,8 +20530,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 358
-    target 369
+    source 357
+    target 368
     count 1
     words "s a w"
     varieties "clicsbp-idssegmented-kumyk"
@@ -20555,8 +20543,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 359
-    target 713
+    source 358
+    target 712
     count 2
     words "o t u ɾ m a k//o l o r"
     varieties "clicsbp-northeuralex-tur//clicsbp-wold-Sakha"
@@ -20568,8 +20556,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 359
-    target 1306
+    source 358
+    target 1305
     count 1
     words "o t u ɾ m a k"
     varieties "clicsbp-northeuralex-tur"
@@ -20581,8 +20569,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 359
-    target 1267
+    source 358
+    target 1266
     count 1
     words "j æ ʃ æ y"
     varieties "clicsbp-northeuralex-bak"
@@ -20594,8 +20582,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 359
-    target 1281
+    source 358
+    target 1280
     count 2
     words "j æ ʃ æ y//j a ʃ æ ʉ"
     varieties "clicsbp-northeuralex-bak//clicsbp-northeuralex-tat"
@@ -20607,8 +20595,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 360
-    target 364
+    source 359
+    target 363
     count 1
     words "œ l ü"
     varieties "clicsbp-idssegmented-kumyk"
@@ -20620,8 +20608,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 362
-    target 363
+    source 361
+    target 362
     count 1
     words "œ l d ü r m æ k"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -20633,8 +20621,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 362
-    target 1197
+    source 361
+    target 1196
     count 1
     words "œ l t i r y w"
     varieties "clicsbp-idssegmented-nogai"
@@ -20646,8 +20634,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 362
-    target 789
+    source 361
+    target 788
     count 1
     words "œ l œ r"
     varieties "clicsbp-wold-Sakha"
@@ -20659,8 +20647,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 363
-    target 639
+    source 362
+    target 638
     count 1
     words "j a r m a g"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -20672,8 +20660,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 367
-    target 826
+    source 366
+    target 825
     count 1
     words "k ü ʃ l i"
     varieties "clicsbp-idssegmented-nogai"
@@ -20685,8 +20673,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 368
-    target 851
+    source 367
+    target 850
     count 1
     words "a r ɨ k"
     varieties "clicsbp-idssegmented-nogai"
@@ -20698,8 +20686,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 369
-    target 1262
+    source 368
+    target 1261
     count 1
     words "χ a l"
     varieties "clicsbp-northeuralex-chv"
@@ -20711,8 +20699,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 370
-    target 1011
+    source 369
+    target 1010
     count 1
     words "a w ɨ r u w"
     varieties "clicsbp-idssegmented-nogai"
@@ -20724,8 +20712,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 370
-    target 1263
+    source 369
+    target 1262
     count 2
     words "au ɯ r ɯ u//s ɤ r x au"
     varieties "clicsbp-northeuralex-bak//clicsbp-northeuralex-tat"
@@ -20737,7 +20725,20 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 371
+    source 370
+    target 697
+    count 1
+    words "t u t m a q"
+    varieties "clicsbp-idssegmented-kumyk"
+    languages "kumy1244"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 370
     target 698
     count 1
     words "t u t m a q"
@@ -20750,7 +20751,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 371
+    source 370
     target 699
     count 1
     words "t u t m a q"
@@ -20764,20 +20765,7 @@ graph [
   ]
   edge [
     source 371
-    target 700
-    count 1
-    words "t u t m a q"
-    varieties "clicsbp-idssegmented-kumyk"
-    languages "kumy1244"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 372
-    target 1201
+    target 1200
     count 1
     words "u r"
     varieties "clicsbp-idssegmented-nogai"
@@ -20789,8 +20777,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 375
-    target 1011
+    source 374
+    target 1010
     count 1
     words "a w u r t u w"
     varieties "clicsbp-idssegmented-kumyk"
@@ -20802,8 +20790,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 376
-    target 379
+    source 375
+    target 378
     count 1
     words "k u t u r g u y a"
     varieties "clicsbp-wold-Sakha"
@@ -20815,8 +20803,21 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 384
-    target 1079
+    source 383
+    target 1078
+    count 1
+    words "e m"
+    varieties "clicsbp-idssegmented-nogai"
+    languages "noga1249"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 383
+    target 1082
     count 1
     words "e m"
     varieties "clicsbp-idssegmented-nogai"
@@ -20829,20 +20830,7 @@ graph [
   ]
   edge [
     source 384
-    target 1083
-    count 1
-    words "e m"
-    varieties "clicsbp-idssegmented-nogai"
-    languages "noga1249"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 385
-    target 703
+    target 702
     count 1
     words "a g u w"
     varieties "clicsbp-idssegmented-nogai"
@@ -20854,8 +20842,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 390
-    target 391
+    source 389
+    target 390
     count 3
     words "a x s a m a g//a q s a q l a m a q//a k s a k l a m a k"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -20867,8 +20855,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 394
-    target 990
+    source 393
+    target 989
     count 1
     words "k œ ɾ"
     varieties "clicsbp-northeuralex-tur"
@@ -20880,8 +20868,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 397
-    target 398
+    source 396
+    target 397
     count 1
     words "j e m æ k"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -20893,8 +20881,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 397
-    target 399
+    source 396
+    target 398
     count 4
     words "j e m æ k//j ɛ m ɛ k//a ʃ au//a ʃ au"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-northeuralex-tur//clicsbp-northeuralex-bak//clicsbp-northeuralex-tat"
@@ -20906,8 +20894,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 398
-    target 399
+    source 397
+    target 398
     count 3
     words "j e m æ k//a ʃ//ɑ s"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-northeuralex-kaz"
@@ -20919,8 +20907,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 398
-    target 458
+    source 397
+    target 457
     count 1
     words "j e m i s"
     varieties "clicsbp-idssegmented-nogai"
@@ -20932,8 +20920,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 398
-    target 579
+    source 397
+    target 578
     count 1
     words "a s"
     varieties "clicsbp-idssegmented-nogai"
@@ -20945,8 +20933,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 398
-    target 742
+    source 397
+    target 741
     count 1
     words "a s"
     varieties "clicsbp-wold-Sakha"
@@ -20958,8 +20946,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 398
-    target 630
+    source 397
+    target 629
     count 1
     words "a s"
     varieties "clicsbp-wold-Sakha"
@@ -20971,8 +20959,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 400
-    target 404
+    source 399
+    target 403
     count 3
     words "b i ʃ g e n//p i s k e n//b u s p u t"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -20984,7 +20972,20 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 401
+    source 400
+    target 401
+    count 1
+    words "j a ʃ"
+    varieties "clicsbp-idssegmented-azerbaijani"
+    languages "nort2697"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 400
     target 402
     count 1
     words "j a ʃ"
@@ -20997,21 +20998,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 401
-    target 403
-    count 1
-    words "j a ʃ"
-    varieties "clicsbp-idssegmented-azerbaijani"
-    languages "nort2697"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 401
-    target 405
+    source 400
+    target 404
     count 5
     words "tʃ i j//b i ʃ m e g e n//i ʃ i j//p i s p e g e n//s iː k e y"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -21023,8 +21011,8 @@ graph [
     cognate_count 4
   ]
   edge [
-    source 401
-    target 1281
+    source 400
+    target 1280
     count 1
     words "tɕ ɘ r ɘ"
     varieties "clicsbp-northeuralex-chv"
@@ -21036,8 +21024,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 402
-    target 403
+    source 401
+    target 402
     count 2
     words "j a ʃ//j a ʃ"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-northeuralex-tur"
@@ -21049,8 +21037,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 402
-    target 885
+    source 401
+    target 884
     count 1
     words "j u z"
     varieties "clicsbp-idssegmented-nogai"
@@ -21062,8 +21050,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 402
-    target 907
+    source 401
+    target 906
     count 1
     words "z a m a n"
     varieties "clicsbp-idssegmented-nogai"
@@ -21075,8 +21063,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 402
-    target 951
+    source 401
+    target 950
     count 1
     words "j ɨ l"
     varieties "clicsbp-idssegmented-nogai"
@@ -21088,8 +21076,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 402
-    target 1017
+    source 401
+    target 1016
     count 3
     words "j ɒ ʃ//ʒ ɑ s//j a ʃ ʔ"
     varieties "clicsbp-northeuralex-uzn//clicsbp-northeuralex-kaz//clicsbp-northeuralex-tat"
@@ -21101,8 +21089,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 402
-    target 910
+    source 401
+    target 909
     count 2
     words "j æ ʃ//j a ʃ ʔ"
     varieties "clicsbp-northeuralex-bak//clicsbp-northeuralex-tat"
@@ -21114,8 +21102,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 402
-    target 953
+    source 401
+    target 952
     count 1
     words "s aː s"
     varieties "clicsbp-wold-Sakha"
@@ -21127,8 +21115,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 403
-    target 407
+    source 402
+    target 406
     count 1
     words "s ɨ t ɨ y b ɨ t"
     varieties "clicsbp-wold-Sakha"
@@ -21140,8 +21128,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 405
-    target 406
+    source 404
+    target 405
     count 3
     words "j a ʃ ɨ l//u a ʃ ɨ l//j a s ɨ l"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -21153,8 +21141,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 408
-    target 1248
+    source 407
+    target 1247
     count 1
     words "ɘ ɕ"
     varieties "clicsbp-northeuralex-chv"
@@ -21166,8 +21154,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 408
-    target 1222
+    source 407
+    target 1221
     count 1
     words "i s"
     varieties "clicsbp-wold-Sakha"
@@ -21179,8 +21167,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 409
-    target 410
+    source 408
+    target 409
     count 3
     words "a dʒ l ɨ g//a tʃ l ɨ q//a ʃ l ɨ k"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -21192,8 +21180,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 416
-    target 417
+    source 415
+    target 416
     count 5
     words "b i ʃ i r m æ k//b i ʃ i r m e k//b e ʃ e r e y//p ɘ ɕ ɛ r//b u h a r"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-northeuralex-bak//clicsbp-northeuralex-chv//clicsbp-wold-Sakha"
@@ -21205,8 +21193,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 416
-    target 418
+    source 415
+    target 417
     count 2
     words "q a j n a t m a q//k a j n a t u w"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -21218,8 +21206,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 416
-    target 1327
+    source 415
+    target 1326
     count 1
     words "h a z ɯ ɾ l a m a k"
     varieties "clicsbp-northeuralex-tur"
@@ -21231,8 +21219,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 417
-    target 420
+    source 416
+    target 419
     count 1
     words "p i s i r y w"
     varieties "clicsbp-idssegmented-nogai"
@@ -21244,8 +21232,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 417
-    target 627
+    source 416
+    target 626
     count 1
     words "j ɒ p m ɒ q"
     varieties "clicsbp-northeuralex-uzn"
@@ -21257,8 +21245,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 420
-    target 421
+    source 419
+    target 420
     count 3
     words "o dʒ a g//p e tʃ//o h o χ"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-wold-Sakha"
@@ -21270,8 +21258,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 420
-    target 545
+    source 419
+    target 544
     count 1
     words "o h o χ"
     varieties "clicsbp-wold-Sakha"
@@ -21283,8 +21271,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 421
-    target 545
+    source 420
+    target 544
     count 2
     words "o t b a ʃ//o h o χ"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-wold-Sakha"
@@ -21296,8 +21284,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 422
-    target 424
+    source 421
+    target 423
     count 2
     words "q a z a n//k a z a n"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -21309,8 +21297,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 425
-    target 426
+    source 424
+    target 425
     count 4
     words "n i m tʃ æ//b o ʃ g a b//b o ʃ ɣ a p//t a b a k"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -21322,8 +21310,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 427
-    target 428
+    source 426
+    target 427
     count 3
     words "k a s a//a u a q//a j a k"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -21335,7 +21323,20 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 427
+    source 426
+    target 613
+    count 1
+    words "k a b a k"
+    varieties "clicsbp-idssegmented-nogai"
+    languages "noga1249"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 426
     target 614
     count 1
     words "k a b a k"
@@ -21348,21 +21349,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 427
-    target 615
-    count 1
-    words "k a b a k"
-    varieties "clicsbp-idssegmented-nogai"
-    languages "noga1249"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 432
-    target 433
+    source 431
+    target 432
     count 5
     words "b ɨ tʃ a g//b i tʃ a q//b e k i//p ɨ ʃ a k//b ɨ h a χ"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -21374,10 +21362,23 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 432
-    target 527
+    source 431
+    target 526
     count 1
     words "b i r iː pː e"
+    varieties "clicsbp-wold-Sakha"
+    languages "yaku1245"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 435
+    target 436
+    count 1
+    words "tʃ e y d eː"
     varieties "clicsbp-wold-Sakha"
     languages "yaku1245"
     families "Turkic"
@@ -21390,7 +21391,33 @@ graph [
     source 436
     target 437
     count 1
-    words "tʃ e y d eː"
+    words "ʃ a m"
+    varieties "clicsbp-idssegmented-azerbaijani"
+    languages "nort2697"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 436
+    target 438
+    count 1
+    words "ʃ a m"
+    varieties "clicsbp-idssegmented-azerbaijani"
+    languages "nort2697"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 436
+    target 1219
+    count 1
+    words "e b i e t"
     varieties "clicsbp-wold-Sakha"
     languages "yaku1245"
     families "Turkic"
@@ -21413,47 +21440,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 437
-    target 439
-    count 1
-    words "ʃ a m"
-    varieties "clicsbp-idssegmented-azerbaijani"
-    languages "nort2697"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 437
-    target 1220
-    count 1
-    words "e b i e t"
-    varieties "clicsbp-wold-Sakha"
-    languages "yaku1245"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
     source 438
-    target 439
-    count 1
-    words "ʃ a m"
-    varieties "clicsbp-idssegmented-azerbaijani"
-    languages "nort2697"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 439
-    target 597
+    target 596
     count 1
     words "tʃ a m"
     varieties "clicsbp-northeuralex-tur"
@@ -21465,8 +21453,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 439
-    target 442
+    source 438
+    target 441
     count 1
     words "χ ɯ r"
     varieties "clicsbp-northeuralex-chv"
@@ -21478,8 +21466,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 440
-    target 442
+    source 439
+    target 441
     count 1
     words "t a z a l a w"
     varieties "clicsbp-idssegmented-nogai"
@@ -21491,8 +21479,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 442
-    target 646
+    source 441
+    target 645
     count 1
     words "aː l"
     varieties "clicsbp-wold-Sakha"
@@ -21504,8 +21492,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 442
-    target 752
+    source 441
+    target 751
     count 1
     words "aː l"
     varieties "clicsbp-wold-Sakha"
@@ -21517,7 +21505,20 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 446
+    source 445
+    target 447
+    count 1
+    words "b a s m a q"
+    varieties "clicsbp-idssegmented-kumyk"
+    languages "kumy1244"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 445
     target 448
     count 1
     words "b a s m a q"
@@ -21531,20 +21532,7 @@ graph [
   ]
   edge [
     source 446
-    target 449
-    count 1
-    words "b a s m a q"
-    varieties "clicsbp-idssegmented-kumyk"
-    languages "kumy1244"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 447
-    target 579
+    target 578
     count 1
     words "b u r d u k"
     varieties "clicsbp-wold-Sakha"
@@ -21556,8 +21544,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 448
-    target 449
+    source 447
+    target 448
     count 3
     words "æ z m æ k//b a s m a q//b a s u w"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -21569,8 +21557,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 448
-    target 634
+    source 447
+    target 633
     count 1
     words "t ü j m e k"
     varieties "clicsbp-idssegmented-kumyk"
@@ -21582,8 +21570,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 448
-    target 652
+    source 447
+    target 651
     count 1
     words "s ɨ g u w"
     varieties "clicsbp-idssegmented-nogai"
@@ -21595,8 +21583,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 448
-    target 639
+    source 447
+    target 638
     count 1
     words "u w a t u w"
     varieties "clicsbp-idssegmented-nogai"
@@ -21608,8 +21596,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 448
-    target 600
+    source 447
+    target 599
     count 1
     words "t a r t"
     varieties "clicsbp-wold-Sakha"
@@ -21621,8 +21609,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 448
-    target 648
+    source 447
+    target 647
     count 2
     words "t a r t//t a r t"
     varieties "clicsbp-wold-Sakha//clicsbp-savelyevturkic-Karaim"
@@ -21634,8 +21622,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 449
-    target 985
+    source 448
+    target 984
     count 2
     words "q ɨ s m a q//k ɨ s u w"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -21647,8 +21635,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 453
-    target 1104
+    source 452
+    target 1103
     count 1
     words "e t"
     varieties "clicsbp-wold-Sakha"
@@ -21660,8 +21648,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 453
-    target 620
+    source 452
+    target 619
     count 1
     words "e t"
     varieties "clicsbp-savelyevturkic-Karaim"
@@ -21673,8 +21661,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 454
-    target 741
+    source 453
+    target 740
     count 1
     words "m iː n"
     varieties "clicsbp-wold-Sakha"
@@ -21686,8 +21674,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 460
-    target 474
+    source 459
+    target 473
     count 1
     words "ʃ a g ɨ r"
     varieties "clicsbp-idssegmented-nogai"
@@ -21699,8 +21687,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 461
-    target 598
+    source 460
+    target 597
     count 1
     words "j u z i m"
     varieties "clicsbp-idssegmented-nogai"
@@ -21712,8 +21700,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 463
-    target 464
+    source 462
+    target 463
     count 5
     words "j aː//m ɒ j//m ɑ j//m a j//ɕ u"
     varieties "clicsbp-northeuralex-tur//clicsbp-northeuralex-uzn//clicsbp-northeuralex-kaz//clicsbp-northeuralex-tat//clicsbp-northeuralex-chv"
@@ -21725,8 +21713,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 463
-    target 472
+    source 462
+    target 471
     count 3
     words "m ɑ j//m a j//ɕ u"
     varieties "clicsbp-northeuralex-kaz//clicsbp-northeuralex-tat//clicsbp-northeuralex-chv"
@@ -21738,8 +21726,21 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 463
-    target 954
+    source 462
+    target 953
+    count 1
+    words "ɕ u"
+    varieties "clicsbp-northeuralex-chv"
+    languages "chuv1255"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 462
+    target 653
     count 1
     words "ɕ u"
     varieties "clicsbp-northeuralex-chv"
@@ -21752,20 +21753,7 @@ graph [
   ]
   edge [
     source 463
-    target 654
-    count 1
-    words "ɕ u"
-    varieties "clicsbp-northeuralex-chv"
-    languages "chuv1255"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 464
-    target 528
+    target 527
     count 1
     words "m a j"
     varieties "clicsbp-idssegmented-kumyk"
@@ -21777,8 +21765,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 464
-    target 472
+    source 463
+    target 471
     count 4
     words "m ɑ j//m a j//m a j//ɕ u"
     varieties "clicsbp-northeuralex-kaz//clicsbp-northeuralex-bak//clicsbp-northeuralex-tat//clicsbp-northeuralex-chv"
@@ -21790,8 +21778,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 464
-    target 954
+    source 463
+    target 953
     count 1
     words "ɕ u"
     varieties "clicsbp-northeuralex-chv"
@@ -21803,8 +21791,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 464
-    target 654
+    source 463
+    target 653
     count 1
     words "ɕ u"
     varieties "clicsbp-northeuralex-chv"
@@ -21816,8 +21804,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 466
-    target 467
+    source 465
+    target 466
     count 2
     words "b u r ɨ ʃ//ʃ i b ʒ i j"
     varieties "clicsbp-idssegmented-nogai//clicsbp-idssegmented-nogai"
@@ -21829,8 +21817,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 470
-    target 660
+    source 469
+    target 659
     count 1
     words "yː t"
     varieties "clicsbp-wold-Sakha"
@@ -21842,8 +21830,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 472
-    target 954
+    source 471
+    target 953
     count 1
     words "ɕ u"
     varieties "clicsbp-northeuralex-chv"
@@ -21855,8 +21843,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 472
-    target 654
+    source 471
+    target 653
     count 1
     words "ɕ u"
     varieties "clicsbp-northeuralex-chv"
@@ -21868,8 +21856,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 480
-    target 482
+    source 479
+    target 481
     count 1
     words "t a ŋ a s"
     varieties "clicsbp-wold-Sakha"
@@ -21881,8 +21869,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 482
-    target 483
+    source 481
+    target 482
     count 1
     words "p a r tʃ a"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -21894,8 +21882,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 484
-    target 486
+    source 483
+    target 485
     count 2
     words "ɕ ə m//t yː"
     varieties "clicsbp-northeuralex-chv//clicsbp-wold-Sakha"
@@ -21907,8 +21895,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 487
-    target 491
+    source 486
+    target 490
     count 2
     words "s o q m a q//œ r"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-wold-Sakha"
@@ -21920,8 +21908,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 487
-    target 744
+    source 486
+    target 743
     count 1
     words "s o q m a q"
     varieties "clicsbp-idssegmented-kumyk"
@@ -21933,8 +21921,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 487
-    target 927
+    source 486
+    target 926
     count 1
     words "œ r"
     varieties "clicsbp-wold-Sakha"
@@ -21946,8 +21934,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 488
-    target 489
+    source 487
+    target 488
     count 1
     words "o x"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -21959,8 +21947,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 490
-    target 491
+    source 489
+    target 490
     count 1
     words "h œ r m æ k"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -21972,8 +21960,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 491
-    target 744
+    source 490
+    target 743
     count 1
     words "s o q m a q"
     varieties "clicsbp-idssegmented-kumyk"
@@ -21985,8 +21973,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 491
-    target 493
+    source 490
+    target 492
     count 1
     words "t i g y w"
     varieties "clicsbp-idssegmented-nogai"
@@ -21998,8 +21986,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 491
-    target 583
+    source 490
+    target 582
     count 1
     words "s o g u w"
     varieties "clicsbp-idssegmented-nogai"
@@ -22011,8 +21999,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 491
-    target 927
+    source 490
+    target 926
     count 1
     words "œ r"
     varieties "clicsbp-wold-Sakha"
@@ -22024,8 +22012,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 493
-    target 494
+    source 492
+    target 493
     count 1
     words "t i k m æ k"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -22037,8 +22025,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 494
-    target 1236
+    source 493
+    target 1235
     count 1
     words "t u"
     varieties "clicsbp-northeuralex-chv"
@@ -22050,7 +22038,20 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 494
+    source 493
+    target 1330
+    count 1
+    words "t u"
+    varieties "clicsbp-northeuralex-chv"
+    languages "chuv1255"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 493
     target 1331
     count 1
     words "t u"
@@ -22063,12 +22064,12 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 494
-    target 1332
+    source 493
+    target 698
     count 1
-    words "t u"
-    varieties "clicsbp-northeuralex-chv"
-    languages "chuv1255"
+    words "t u t"
+    varieties "clicsbp-wold-Sakha"
+    languages "yaku1245"
     families "Turkic"
     variety_count 1
     language_count 1
@@ -22076,7 +22077,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 494
+    source 493
     target 699
     count 1
     words "t u t"
@@ -22089,8 +22090,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 494
-    target 700
+    source 493
+    target 759
     count 1
     words "t u t"
     varieties "clicsbp-wold-Sakha"
@@ -22102,21 +22103,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 494
-    target 760
-    count 1
-    words "t u t"
-    varieties "clicsbp-wold-Sakha"
-    languages "yaku1245"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 496
-    target 632
+    source 495
+    target 631
     count 1
     words "j i p"
     varieties "clicsbp-idssegmented-nogai"
@@ -22128,8 +22116,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 496
-    target 1261
+    source 495
+    target 1260
     count 1
     words "ʒ ə p"
     varieties "clicsbp-northeuralex-kaz"
@@ -22141,8 +22129,21 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 496
-    target 627
+    source 495
+    target 626
+    count 1
+    words "s a p"
+    varieties "clicsbp-wold-Sakha"
+    languages "yaku1245"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 495
+    target 821
     count 1
     words "s a p"
     varieties "clicsbp-wold-Sakha"
@@ -22155,20 +22156,7 @@ graph [
   ]
   edge [
     source 496
-    target 822
-    count 1
-    words "s a p"
-    varieties "clicsbp-wold-Sakha"
-    languages "yaku1245"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 497
-    target 498
+    target 497
     count 4
     words "b o j a//b o u a w//s ɨ r//b u j au"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-northeuralex-bak"
@@ -22180,8 +22168,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 497
-    target 1067
+    source 496
+    target 1066
     count 1
     words "s ɨ r"
     varieties "clicsbp-idssegmented-nogai"
@@ -22193,8 +22181,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 497
-    target 682
+    source 496
+    target 681
     count 1
     words "k ɨ r aː s k a l aː"
     varieties "clicsbp-wold-Sakha"
@@ -22206,8 +22194,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 498
-    target 681
+    source 497
+    target 680
     count 1
     words "r æ n gʲ"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -22219,8 +22207,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 498
-    target 1067
+    source 497
+    target 1066
     count 2
     words "s ɨ r//s ɨ r"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -22232,8 +22220,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 499
-    target 501
+    source 498
+    target 500
     count 2
     words "k œ j l e k//ɨ r b aː χ ɨ"
     varieties "clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -22245,8 +22233,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 502
-    target 831
+    source 501
+    target 830
     count 1
     words "u a ɣ a"
     varieties "clicsbp-idssegmented-kumyk"
@@ -22258,8 +22246,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 503
-    target 504
+    source 502
+    target 503
     count 1
     words "j u b k a"
     varieties "clicsbp-idssegmented-nogai"
@@ -22271,8 +22259,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 518
-    target 519
+    source 517
+    target 518
     count 3
     words "m o j ʃ a k//χ o r u o ŋ k a//o ɣ u r u o"
     varieties "clicsbp-idssegmented-nogai//clicsbp-wold-Sakha//clicsbp-wold-Sakha"
@@ -22284,8 +22272,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 521
-    target 522
+    source 520
+    target 521
     count 1
     words "b ɨ l aː t"
     varieties "clicsbp-wold-Sakha"
@@ -22297,8 +22285,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 524
-    target 525
+    source 523
+    target 524
     count 3
     words "d a r a g//t a r a q//b a s t a r a k"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -22310,8 +22298,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 524
-    target 1354
+    source 523
+    target 1353
     count 1
     words "t u r a"
     varieties "clicsbp-northeuralex-chv"
@@ -22323,8 +22311,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 530
-    target 531
+    source 529
+    target 530
     count 1
     words "a j n a"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -22336,8 +22324,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 532
-    target 537
+    source 531
+    target 536
     count 2
     words "ü j//ü j"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -22349,8 +22337,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 532
-    target 1252
+    source 531
+    target 1251
     count 2
     words "ɛ v//ø j"
     varieties "clicsbp-northeuralex-tur//clicsbp-northeuralex-bak"
@@ -22362,8 +22350,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 535
-    target 568
+    source 534
+    target 567
     count 1
     words "a z b a r"
     varieties "clicsbp-idssegmented-nogai"
@@ -22375,8 +22363,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 539
-    target 540
+    source 538
+    target 539
     count 1
     words "χ a t aː h ɨ n"
     varieties "clicsbp-wold-Sakha"
@@ -22388,8 +22376,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 543
-    target 811
+    source 542
+    target 810
     count 1
     words "j e r"
     varieties "clicsbp-idssegmented-nogai"
@@ -22401,8 +22389,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 543
-    target 745
+    source 542
+    target 744
     count 1
     words "m u o s t a"
     varieties "clicsbp-wold-Sakha"
@@ -22414,8 +22402,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 556
-    target 1235
+    source 555
+    target 1234
     count 1
     words "t y b æ"
     varieties "clicsbp-northeuralex-bak"
@@ -22427,8 +22415,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 558
-    target 559
+    source 557
+    target 558
     count 2
     words "tʃ a t a l//m a k a s"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -22440,8 +22428,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 559
-    target 560
+    source 558
+    target 559
     count 2
     words "a r q a l ɨ q//a r k a l ɨ k"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -22453,8 +22441,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 568
-    target 981
+    source 567
+    target 980
     count 1
     words "k a r a"
     varieties "clicsbp-idssegmented-nogai"
@@ -22466,8 +22454,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 572
-    target 573
+    source 571
+    target 572
     count 2
     words "d a m dʒ ɨ l a m a g//t a m d ɨ r m a q"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk"
@@ -22479,8 +22467,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 572
-    target 688
+    source 571
+    target 687
     count 1
     words "t a m d ɨ r m a q"
     varieties "clicsbp-idssegmented-kumyk"
@@ -22492,8 +22480,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 572
-    target 661
+    source 571
+    target 660
     count 2
     words "k a z u w//χ a s"
     varieties "clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -22505,7 +22493,20 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 572
+    source 571
+    target 1085
+    count 1
+    words "χ a s"
+    varieties "clicsbp-wold-Sakha"
+    languages "yaku1245"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 571
     target 1086
     count 1
     words "χ a s"
@@ -22519,20 +22520,7 @@ graph [
   ]
   edge [
     source 572
-    target 1087
-    count 1
-    words "χ a s"
-    varieties "clicsbp-wold-Sakha"
-    languages "yaku1245"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 573
-    target 688
+    target 687
     count 2
     words "t a m d ɨ r m a q//t a m u w"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -22544,8 +22532,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 574
-    target 575
+    source 573
+    target 574
     count 1
     words "k æ r k i"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -22557,8 +22545,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 575
-    target 641
+    source 574
+    target 640
     count 2
     words "b a l t a//b a l t a"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -22570,8 +22558,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 578
-    target 579
+    source 577
+    target 578
     count 2
     words "t o x u m//o r l ɤ k"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-northeuralex-tat"
@@ -22583,8 +22571,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 579
-    target 584
+    source 578
+    target 583
     count 2
     words "a ʃ l ɨ q//a s l ɨ k"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -22596,8 +22584,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 580
-    target 583
+    source 579
+    target 582
     count 1
     words "o ɣ u s"
     varieties "clicsbp-wold-Sakha"
@@ -22609,8 +22597,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 582
-    target 583
+    source 581
+    target 582
     count 2
     words "d œ j m æ k//s ɨ s"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-wold-Sakha"
@@ -22622,8 +22610,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 583
-    target 697
+    source 582
+    target 696
     count 1
     words "u r m a q"
     varieties "clicsbp-idssegmented-kumyk"
@@ -22635,8 +22623,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 589
-    target 590
+    source 588
+    target 589
     count 1
     words "o t"
     varieties "clicsbp-wold-Sakha"
@@ -22648,8 +22636,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 593
-    target 1225
+    source 592
+    target 1224
     count 1
     words "t ɒ m i r"
     varieties "clicsbp-northeuralex-uzn"
@@ -22661,8 +22649,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 593
-    target 1224
+    source 592
+    target 1223
     count 2
     words "t a m ɯ r//t a m ɤ r"
     varieties "clicsbp-northeuralex-bak//clicsbp-northeuralex-tat"
@@ -22674,8 +22662,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 600
-    target 648
+    source 599
+    target 647
     count 1
     words "t a r t"
     varieties "clicsbp-wold-Sakha"
@@ -22687,8 +22675,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 601
-    target 602
+    source 600
+    target 601
     count 1
     words "b o r u"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -22700,8 +22688,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 612
-    target 613
+    source 611
+    target 612
     count 2
     words "b a t a t//b a t a t"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk"
@@ -22713,8 +22701,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 614
-    target 615
+    source 613
+    target 614
     count 3
     words "g a b a g//q a b a q//k a b a k"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -22726,8 +22714,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 620
-    target 822
+    source 619
+    target 821
     count 1
     words "j a p"
     varieties "clicsbp-savelyevturkic-Karaim"
@@ -22739,8 +22727,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 621
-    target 1248
+    source 620
+    target 1247
     count 2
     words "i ʃ//ɛ ʃ"
     varieties "clicsbp-northeuralex-tur//clicsbp-northeuralex-tat"
@@ -22752,8 +22740,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 621
-    target 764
+    source 620
+    target 763
     count 1
     words "i ʃ"
     varieties "clicsbp-northeuralex-tur"
@@ -22765,8 +22753,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 622
-    target 766
+    source 621
+    target 765
     count 2
     words "q a j t a r m a q//k a j t a r u w"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -22778,8 +22766,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 622
-    target 623
+    source 621
+    target 622
     count 1
     words "b ü k l e w"
     varieties "clicsbp-idssegmented-nogai"
@@ -22791,7 +22779,20 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 623
+    source 622
+    target 623
+    count 1
+    words "j ɨ ɣ m a g"
+    varieties "clicsbp-idssegmented-azerbaijani"
+    languages "nort2697"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 622
     target 624
     count 1
     words "j ɨ ɣ m a g"
@@ -22804,12 +22805,12 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 623
-    target 625
+    source 622
+    target 684
     count 1
-    words "j ɨ ɣ m a g"
-    varieties "clicsbp-idssegmented-azerbaijani"
-    languages "nort2697"
+    words "tʃ ɨ r m a m a q"
+    varieties "clicsbp-idssegmented-kumyk"
+    languages "kumy1244"
     families "Turkic"
     variety_count 1
     language_count 1
@@ -22817,7 +22818,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 623
+    source 622
     target 685
     count 1
     words "tʃ ɨ r m a m a q"
@@ -22831,20 +22832,7 @@ graph [
   ]
   edge [
     source 623
-    target 686
-    count 1
-    words "tʃ ɨ r m a m a q"
-    varieties "clicsbp-idssegmented-kumyk"
-    languages "kumy1244"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 624
-    target 625
+    target 624
     count 3
     words "j ɨ ɣ m a g//ʒ ɨ j m a q//j ɨ j n a w"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -22856,8 +22844,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 626
-    target 627
+    source 625
+    target 626
     count 1
     words "b a ɣ l a m a g"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -22869,8 +22857,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 626
-    target 776
+    source 625
+    target 775
     count 1
     words "b aː y"
     varieties "clicsbp-wold-Sakha"
@@ -22882,8 +22870,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 627
-    target 822
+    source 626
+    target 821
     count 3
     words "œ r t m æ k//u a p m a q//s a p"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-wold-Sakha"
@@ -22895,8 +22883,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 628
-    target 629
+    source 627
+    target 628
     count 2
     words "a tʃ m a g//tʃ e tʃ m e k"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk"
@@ -22908,8 +22896,21 @@ graph [
     cognate_count 1
   ]
   edge [
+    source 627
+    target 629
+    count 1
+    words "a tʃ m a g"
+    varieties "clicsbp-idssegmented-azerbaijani"
+    languages "nort2697"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
     source 628
-    target 630
+    target 629
     count 1
     words "a tʃ m a g"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -22922,20 +22923,7 @@ graph [
   ]
   edge [
     source 629
-    target 630
-    count 1
-    words "a tʃ m a g"
-    varieties "clicsbp-idssegmented-azerbaijani"
-    languages "nort2697"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 630
-    target 1020
+    target 1019
     count 1
     words "a ʃ u w"
     varieties "clicsbp-idssegmented-nogai"
@@ -22947,8 +22935,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 630
-    target 742
+    source 629
+    target 741
     count 1
     words "a s"
     varieties "clicsbp-wold-Sakha"
@@ -22960,8 +22948,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 635
-    target 636
+    source 634
+    target 635
     count 3
     words "k æ s m æ k//g e s m e k//k e s y w"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -22973,8 +22961,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 635
-    target 637
+    source 634
+    target 636
     count 2
     words "k æ s m æ k//b ɨ s"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-wold-Sakha"
@@ -22986,8 +22974,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 636
-    target 637
+    source 635
+    target 636
     count 1
     words "k æ s m æ k"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -22999,8 +22987,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 636
-    target 639
+    source 635
+    target 638
     count 3
     words "u a r m a q//j a r u w//χ a y ɨ t"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -23012,8 +23000,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 642
-    target 770
+    source 641
+    target 769
     count 3
     words "b u z m a q//b u z u w//a l dʒ a t"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -23025,8 +23013,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 642
-    target 1336
+    source 641
+    target 1335
     count 2
     words "k ɯ ɾ m a k//s i n d i r m ɒ q"
     varieties "clicsbp-northeuralex-tur//clicsbp-northeuralex-uzn"
@@ -23038,8 +23026,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 644
-    target 953
+    source 643
+    target 952
     count 1
     words "ɕ u r"
     varieties "clicsbp-northeuralex-chv"
@@ -23051,8 +23039,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 646
-    target 655
+    source 645
+    target 654
     count 2
     words "s i b i r m e k//s ɨ p ɨ r u w"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -23064,8 +23052,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 646
-    target 650
+    source 645
+    target 649
     count 1
     words "s u r k a m ɒ q"
     varieties "clicsbp-northeuralex-uzn"
@@ -23077,8 +23065,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 646
-    target 1351
+    source 645
+    target 1350
     count 1
     words "s u r k a m ɒ q"
     varieties "clicsbp-northeuralex-uzn"
@@ -23090,8 +23078,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 646
-    target 752
+    source 645
+    target 751
     count 1
     words "aː l"
     varieties "clicsbp-wold-Sakha"
@@ -23103,8 +23091,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 647
-    target 648
+    source 646
+    target 647
     count 3
     words "d a r t m a g//t a r t m a q//t a r t u w"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -23116,8 +23104,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 648
-    target 649
+    source 647
+    target 648
     count 1
     words "tʃ æ k m æ k"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -23129,8 +23117,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 648
-    target 1340
+    source 647
+    target 1339
     count 1
     words "t ɑ ɾ t u"
     varieties "clicsbp-northeuralex-kaz"
@@ -23142,8 +23130,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 648
-    target 718
+    source 647
+    target 717
     count 1
     words "t a r t ɯ u"
     varieties "clicsbp-northeuralex-bak"
@@ -23155,8 +23143,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 649
-    target 651
+    source 648
+    target 650
     count 1
     words "ɨ y aː"
     varieties "clicsbp-wold-Sakha"
@@ -23168,8 +23156,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 650
-    target 742
+    source 649
+    target 741
     count 1
     words "s y ɾ m ɛ k"
     varieties "clicsbp-northeuralex-tur"
@@ -23181,8 +23169,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 650
-    target 1351
+    source 649
+    target 1350
     count 1
     words "s u r k a m ɒ q"
     varieties "clicsbp-northeuralex-uzn"
@@ -23194,8 +23182,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 651
-    target 1294
+    source 650
+    target 1293
     count 1
     words "ɕ a k"
     varieties "clicsbp-northeuralex-chv"
@@ -23207,8 +23195,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 653
-    target 1347
+    source 652
+    target 1346
     count 1
     words "q o j ou"
     varieties "clicsbp-northeuralex-bak"
@@ -23220,8 +23208,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 653
-    target 1339
+    source 652
+    target 1338
     count 1
     words "t u l t a r"
     varieties "clicsbp-northeuralex-chv"
@@ -23233,8 +23221,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 653
-    target 1001
+    source 652
+    target 1000
     count 1
     words "k u t"
     varieties "clicsbp-wold-Sakha"
@@ -23246,8 +23234,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 654
-    target 954
+    source 653
+    target 953
     count 1
     words "ɕ u"
     varieties "clicsbp-northeuralex-chv"
@@ -23259,8 +23247,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 655
-    target 1351
+    source 654
+    target 1350
     count 1
     words "ʂ ə l"
     varieties "clicsbp-northeuralex-chv"
@@ -23272,8 +23260,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 655
-    target 706
+    source 654
+    target 705
     count 1
     words "χ a r b aː"
     varieties "clicsbp-wold-Sakha"
@@ -23285,8 +23273,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 659
-    target 660
+    source 658
+    target 659
     count 3
     words "d e ʃ i k//t e ʃ i k//t e s i k"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -23298,7 +23286,20 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 661
+    source 660
+    target 1085
+    count 1
+    words "χ a s"
+    varieties "clicsbp-wold-Sakha"
+    languages "yaku1245"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 660
     target 1086
     count 1
     words "χ a s"
@@ -23311,21 +23312,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 661
-    target 1087
-    count 1
-    words "χ a s"
-    varieties "clicsbp-wold-Sakha"
-    languages "yaku1245"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 672
-    target 704
+    source 671
+    target 703
     count 1
     words "t i m i r"
     varieties "clicsbp-wold-Sakha"
@@ -23337,8 +23325,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 674
-    target 1332
+    source 673
+    target 1331
     count 1
     words "o ŋ o r"
     varieties "clicsbp-wold-Sakha"
@@ -23350,8 +23338,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 681
-    target 934
+    source 680
+    target 933
     count 1
     words "t y s"
     varieties "clicsbp-idssegmented-nogai"
@@ -23363,8 +23351,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 682
-    target 688
+    source 681
+    target 687
     count 1
     words "y k ɛ r"
     varieties "clicsbp-northeuralex-chv"
@@ -23376,7 +23364,20 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 683
+    source 682
+    target 718
+    count 2
+    words "j u r ü m e k//j u r y w"
+    varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
+    languages "kumy1244//noga1249"
+    families "Turkic//Turkic"
+    variety_count 2
+    language_count 2
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 682
     target 719
     count 2
     words "j u r ü m e k//j u r y w"
@@ -23389,21 +23390,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 683
-    target 720
-    count 2
-    words "j u r ü m e k//j u r y w"
-    varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
-    languages "kumy1244//noga1249"
-    families "Turkic//Turkic"
-    variety_count 2
-    language_count 2
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 683
-    target 727
+    source 682
+    target 726
     count 1
     words "j u r y w"
     varieties "clicsbp-idssegmented-nogai"
@@ -23415,8 +23403,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 684
-    target 687
+    source 683
+    target 686
     count 1
     words "a j l a n d ɨ r m a q"
     varieties "clicsbp-idssegmented-kumyk"
@@ -23428,8 +23416,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 684
-    target 685
+    source 683
+    target 684
     count 1
     words "a j l a n u w"
     varieties "clicsbp-idssegmented-nogai"
@@ -23441,8 +23429,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 685
-    target 686
+    source 684
+    target 685
     count 2
     words "s a r ɨ m a g//tʃ ɨ r m a m a q"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk"
@@ -23454,8 +23442,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 689
-    target 690
+    source 688
+    target 689
     count 6
     words "g a l x m a g//g œ t e r i l m e k//œ r l e n m e k//k œ t e r i l y w//œ r l e n y w//t a ɣ ɨ s"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -23467,8 +23455,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 689
-    target 691
+    source 688
+    target 690
     count 3
     words "g a l x m a g//œ r l e n m e k//ɨ t ɨ n"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-wold-Sakha"
@@ -23480,8 +23468,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 689
-    target 692
+    source 688
+    target 691
     count 2
     words "tʃ ɨ x m a g//t a ɣ ɨ s"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-wold-Sakha"
@@ -23493,8 +23481,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 689
-    target 814
+    source 688
+    target 813
     count 1
     words "t u r"
     varieties "clicsbp-wold-Sakha"
@@ -23506,8 +23494,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 690
-    target 691
+    source 689
+    target 690
     count 2
     words "g a l x m a g//œ r l e n m e k"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk"
@@ -23519,8 +23507,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 690
-    target 692
+    source 689
+    target 691
     count 1
     words "t a ɣ ɨ s"
     varieties "clicsbp-wold-Sakha"
@@ -23532,8 +23520,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 693
-    target 817
+    source 692
+    target 816
     count 5
     words "g œ t e r m e k//k œ t e r y w//k o t a r m ɒ q//k ø t e ɾ u//k ʉ t æ r ʉ"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-northeuralex-uzn//clicsbp-northeuralex-kaz//clicsbp-northeuralex-tat"
@@ -23545,8 +23533,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 694
-    target 695
+    source 693
+    target 694
     count 4
     words "d ü ʃ m æ k//t ü ʃ m e k//t y s y w//t y s"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -23558,8 +23546,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 694
-    target 1324
+    source 693
+    target 1323
     count 2
     words "ʒ ə ʁ ə l u//e g ɤ l u"
     varieties "clicsbp-northeuralex-kaz//clicsbp-northeuralex-tat"
@@ -23571,8 +23559,21 @@ graph [
     cognate_count 1
   ]
   edge [
+    source 693
+    target 755
+    count 1
+    words "t y s"
+    varieties "clicsbp-wold-Sakha"
+    languages "yaku1245"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
     source 694
-    target 756
+    target 755
     count 1
     words "t y s"
     varieties "clicsbp-wold-Sakha"
@@ -23585,20 +23586,7 @@ graph [
   ]
   edge [
     source 695
-    target 756
-    count 1
-    words "t y s"
-    varieties "clicsbp-wold-Sakha"
-    languages "yaku1245"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 696
-    target 697
+    target 696
     count 3
     words "a t m a g//a t m a q//a t u w"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -23610,8 +23598,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 696
-    target 791
+    source 695
+    target 790
     count 1
     words "t a s l a w"
     varieties "clicsbp-idssegmented-nogai"
@@ -23623,8 +23611,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 698
-    target 699
+    source 697
+    target 698
     count 6
     words "t u t m a g//t u t m a q//ɨ s l a w//t u t m a k//j a k a l a m a k//t ɯ t"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-northeuralex-tur//clicsbp-northeuralex-tur//clicsbp-northeuralex-chv"
@@ -23636,8 +23624,8 @@ graph [
     cognate_count 4
   ]
   edge [
-    source 698
-    target 700
+    source 697
+    target 699
     count 7
     words "t u t m a g//t u t m a q//t u t m a k//t u t m ɒ q//t o t ou//t o t u//t ɯ t"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-northeuralex-tur//clicsbp-northeuralex-uzn//clicsbp-northeuralex-bak//clicsbp-northeuralex-tat//clicsbp-northeuralex-chv"
@@ -23649,8 +23637,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 698
-    target 701
+    source 697
+    target 700
     count 2
     words "t u t m a g//ɨ s l a w"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-nogai"
@@ -23662,8 +23650,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 698
-    target 762
+    source 697
+    target 761
     count 1
     words "t u t m ɒ q"
     varieties "clicsbp-northeuralex-uzn"
@@ -23675,8 +23663,21 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 698
-    target 758
+    source 697
+    target 757
+    count 1
+    words "t ɯ t"
+    varieties "clicsbp-northeuralex-chv"
+    languages "chuv1255"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 697
+    target 1137
     count 1
     words "t ɯ t"
     varieties "clicsbp-northeuralex-chv"
@@ -23689,20 +23690,7 @@ graph [
   ]
   edge [
     source 698
-    target 1138
-    count 1
-    words "t ɯ t"
-    varieties "clicsbp-northeuralex-chv"
-    languages "chuv1255"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 699
-    target 700
+    target 699
     count 5
     words "t u t m a g//t u t m a q//t u t m a k//t ɯ t//t u t"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-northeuralex-tur//clicsbp-northeuralex-chv//clicsbp-wold-Sakha"
@@ -23714,8 +23702,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 699
-    target 701
+    source 698
+    target 700
     count 2
     words "t u t m a g//ɨ s l a w"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-nogai"
@@ -23727,8 +23715,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 699
-    target 758
+    source 698
+    target 757
     count 1
     words "t ɯ t"
     varieties "clicsbp-northeuralex-chv"
@@ -23740,8 +23728,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 699
-    target 1138
+    source 698
+    target 1137
     count 1
     words "t ɯ t"
     varieties "clicsbp-northeuralex-chv"
@@ -23753,8 +23741,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 699
-    target 760
+    source 698
+    target 759
     count 1
     words "t u t"
     varieties "clicsbp-wold-Sakha"
@@ -23766,8 +23754,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 700
-    target 701
+    source 699
+    target 700
     count 1
     words "t u t m a g"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -23779,8 +23767,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 700
-    target 762
+    source 699
+    target 761
     count 1
     words "t u t m ɒ q"
     varieties "clicsbp-northeuralex-uzn"
@@ -23792,8 +23780,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 700
-    target 758
+    source 699
+    target 757
     count 1
     words "t ɯ t"
     varieties "clicsbp-northeuralex-chv"
@@ -23805,8 +23793,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 700
-    target 1138
+    source 699
+    target 1137
     count 1
     words "t ɯ t"
     varieties "clicsbp-northeuralex-chv"
@@ -23818,8 +23806,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 700
-    target 760
+    source 699
+    target 759
     count 1
     words "t u t"
     varieties "clicsbp-wold-Sakha"
@@ -23831,7 +23819,20 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 703
+    source 702
+    target 704
+    count 1
+    words "u h u n"
+    varieties "clicsbp-wold-Sakha"
+    languages "yaku1245"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 702
     target 705
     count 1
     words "u h u n"
@@ -23844,8 +23845,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 703
-    target 706
+    source 702
+    target 845
     count 1
     words "u h u n"
     varieties "clicsbp-wold-Sakha"
@@ -23857,21 +23858,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 703
-    target 846
-    count 1
-    words "u h u n"
-    varieties "clicsbp-wold-Sakha"
-    languages "yaku1245"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 703
-    target 980
+    source 702
+    target 979
     count 1
     words "a k"
     varieties "clicsbp-savelyevturkic-Karaim"
@@ -23883,8 +23871,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 704
-    target 1309
+    source 703
+    target 1308
     count 2
     words "b a t m a k//b a t u"
     varieties "clicsbp-northeuralex-tur//clicsbp-northeuralex-tat"
@@ -23896,8 +23884,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 705
-    target 706
+    source 704
+    target 705
     count 3
     words "j u z m e k//j a l d a w//u h u n"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -23909,8 +23897,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 705
-    target 707
+    source 704
+    target 706
     count 1
     words "j u z y w"
     varieties "clicsbp-idssegmented-nogai"
@@ -23922,8 +23910,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 705
-    target 846
+    source 704
+    target 845
     count 1
     words "u h u n"
     varieties "clicsbp-wold-Sakha"
@@ -23935,8 +23923,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 706
-    target 770
+    source 705
+    target 769
     count 1
     words "i ʂ"
     varieties "clicsbp-northeuralex-chv"
@@ -23948,8 +23936,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 706
-    target 846
+    source 705
+    target 845
     count 1
     words "u h u n"
     varieties "clicsbp-wold-Sakha"
@@ -23961,8 +23949,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 709
-    target 829
+    source 708
+    target 828
     count 1
     words "ʋ ɘ ɕ"
     varieties "clicsbp-northeuralex-chv"
@@ -23974,8 +23962,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 712
-    target 713
+    source 711
+    target 712
     count 1
     words "o t u r m a g"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -23987,8 +23975,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 713
-    target 1306
+    source 712
+    target 1305
     count 6
     words "o t u ɾ m a k//o t i r m ɒ q//o t ə ɾ u//u l t ɯ r ɯ u//u t ɤ r u//l a r"
     varieties "clicsbp-northeuralex-tur//clicsbp-northeuralex-uzn//clicsbp-northeuralex-kaz//clicsbp-northeuralex-bak//clicsbp-northeuralex-tat//clicsbp-northeuralex-chv"
@@ -24000,8 +23988,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 717
-    target 718
+    source 716
+    target 717
     count 2
     words "o j n a m a g//o j n a m a k"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-northeuralex-tur"
@@ -24013,8 +24001,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 717
-    target 1138
+    source 716
+    target 1137
     count 1
     words "b ɪ j l e u"
     varieties "clicsbp-northeuralex-kaz"
@@ -24026,8 +24014,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 719
-    target 720
+    source 718
+    target 719
     count 3
     words "gʲ e t m æ k//j u r ü m e k//j u r y w"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -24039,8 +24027,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 719
-    target 721
+    source 718
+    target 720
     count 1
     words "gʲ e t m æ k"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -24052,8 +24040,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 719
-    target 727
+    source 718
+    target 726
     count 1
     words "j u r y w"
     varieties "clicsbp-idssegmented-nogai"
@@ -24065,8 +24053,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 719
-    target 740
+    source 718
+    target 739
     count 1
     words "j ø r ø y"
     varieties "clicsbp-northeuralex-bak"
@@ -24078,8 +24066,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 720
-    target 721
+    source 719
+    target 720
     count 3
     words "gʲ e t m æ k//g i t m ɛ k//k a j"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-northeuralex-tur//clicsbp-northeuralex-chv"
@@ -24091,8 +24079,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 720
-    target 727
+    source 719
+    target 726
     count 1
     words "j u r y w"
     varieties "clicsbp-idssegmented-nogai"
@@ -24104,8 +24092,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 720
-    target 740
+    source 719
+    target 739
     count 2
     words "g i t m ɛ k//b ɑ ɾ u"
     varieties "clicsbp-northeuralex-tur//clicsbp-northeuralex-kaz"
@@ -24117,8 +24105,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 720
-    target 1325
+    source 719
+    target 1324
     count 1
     words "j œ r ʉ"
     varieties "clicsbp-northeuralex-tat"
@@ -24130,8 +24118,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 720
-    target 732
+    source 719
+    target 731
     count 1
     words "b a r"
     varieties "clicsbp-savelyevturkic-Karaim"
@@ -24143,8 +24131,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 721
-    target 740
+    source 720
+    target 739
     count 1
     words "g i t m ɛ k"
     varieties "clicsbp-northeuralex-tur"
@@ -24156,8 +24144,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 722
-    target 723
+    source 721
+    target 722
     count 2
     words "g a tʃ m a g//k a ʃ u w"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-nogai"
@@ -24169,8 +24157,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 722
-    target 1369
+    source 721
+    target 1368
     count 1
     words "tɕ a p"
     varieties "clicsbp-savelyevturkic-Karaim"
@@ -24182,8 +24170,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 724
-    target 729
+    source 723
+    target 728
     count 4
     words "g e l m e k//k e l y w//k i l e y//k e l"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-northeuralex-bak//clicsbp-wold-Sakha"
@@ -24195,8 +24183,47 @@ graph [
     cognate_count 1
   ]
   edge [
+    source 723
+    target 724
+    count 1
+    words "k e l y w"
+    varieties "clicsbp-idssegmented-nogai"
+    languages "noga1249"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 723
+    target 729
+    count 2
+    words "k e l y w//j u w ɨ k l a w"
+    varieties "clicsbp-idssegmented-nogai//clicsbp-idssegmented-nogai"
+    languages "noga1249//noga1249"
+    families "Turkic//Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 2
+  ]
+  edge [
+    source 723
+    target 1251
+    count 1
+    words "k i l"
+    varieties "clicsbp-northeuralex-chv"
+    languages "chuv1255"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
     source 724
-    target 725
+    target 728
     count 1
     words "k e l y w"
     varieties "clicsbp-idssegmented-nogai"
@@ -24209,32 +24236,6 @@ graph [
   ]
   edge [
     source 724
-    target 730
-    count 2
-    words "k e l y w//j u w ɨ k l a w"
-    varieties "clicsbp-idssegmented-nogai//clicsbp-idssegmented-nogai"
-    languages "noga1249//noga1249"
-    families "Turkic//Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 2
-  ]
-  edge [
-    source 724
-    target 1252
-    count 1
-    words "k i l"
-    varieties "clicsbp-northeuralex-chv"
-    languages "chuv1255"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 725
     target 729
     count 1
     words "k e l y w"
@@ -24247,21 +24248,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 725
-    target 730
-    count 1
-    words "k e l y w"
-    varieties "clicsbp-idssegmented-nogai"
-    languages "noga1249"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 727
-    target 728
+    source 726
+    target 727
     count 1
     words "i z l æ m æ k"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -24273,8 +24261,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 729
-    target 730
+    source 728
+    target 729
     count 1
     words "k e l y w"
     varieties "clicsbp-idssegmented-nogai"
@@ -24286,8 +24274,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 729
-    target 740
+    source 728
+    target 739
     count 1
     words "b a r u"
     varieties "clicsbp-northeuralex-tat"
@@ -24299,10 +24287,88 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 731
-    target 956
+    source 730
+    target 955
     count 1
     words "k ɘ r"
+    varieties "clicsbp-northeuralex-chv"
+    languages "chuv1255"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 731
+    target 732
+    count 3
+    words "a p a r m a g//e l t m e k//e l t e w"
+    varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
+    languages "nort2697//kumy1244//noga1249"
+    families "Turkic//Turkic//Turkic"
+    variety_count 3
+    language_count 3
+    family_count 1
+    cognate_count 2
+  ]
+  edge [
+    source 731
+    target 733
+    count 3
+    words "a p a r m a g//e l t m e k//e l t e w"
+    varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
+    languages "nort2697//kumy1244//noga1249"
+    families "Turkic//Turkic//Turkic"
+    variety_count 3
+    language_count 3
+    family_count 1
+    cognate_count 2
+  ]
+  edge [
+    source 731
+    target 734
+    count 2
+    words "a p a r m a g//a l ɨ p + b a r u w"
+    varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-nogai"
+    languages "nort2697//noga1249"
+    families "Turkic//Turkic"
+    variety_count 2
+    language_count 2
+    family_count 1
+    cognate_count 2
+  ]
+  edge [
+    source 731
+    target 735
+    count 3
+    words "e l t m e k//e l t e w//i l t"
+    varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
+    languages "kumy1244//noga1249//yaku1245"
+    families "Turkic//Turkic//Turkic"
+    variety_count 3
+    language_count 3
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 731
+    target 737
+    count 1
+    words "e l t e w"
+    varieties "clicsbp-idssegmented-nogai"
+    languages "noga1249"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 731
+    target 816
+    count 1
+    words "ɕ ɘ k l ɛ"
     varieties "clicsbp-northeuralex-chv"
     languages "chuv1255"
     families "Turkic"
@@ -24327,49 +24393,10 @@ graph [
   edge [
     source 732
     target 734
-    count 3
-    words "a p a r m a g//e l t m e k//e l t e w"
-    varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
-    languages "nort2697//kumy1244//noga1249"
-    families "Turkic//Turkic//Turkic"
-    variety_count 3
-    language_count 3
-    family_count 1
-    cognate_count 2
-  ]
-  edge [
-    source 732
-    target 735
-    count 2
-    words "a p a r m a g//a l ɨ p + b a r u w"
-    varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-nogai"
-    languages "nort2697//noga1249"
-    families "Turkic//Turkic"
-    variety_count 2
-    language_count 2
-    family_count 1
-    cognate_count 2
-  ]
-  edge [
-    source 732
-    target 736
-    count 3
-    words "e l t m e k//e l t e w//i l t"
-    varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
-    languages "kumy1244//noga1249//yaku1245"
-    families "Turkic//Turkic//Turkic"
-    variety_count 3
-    language_count 3
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 732
-    target 738
     count 1
-    words "e l t e w"
-    varieties "clicsbp-idssegmented-nogai"
-    languages "noga1249"
+    words "a p a r m a g"
+    varieties "clicsbp-idssegmented-azerbaijani"
+    languages "nort2697"
     families "Turkic"
     variety_count 1
     language_count 1
@@ -24378,11 +24405,24 @@ graph [
   ]
   edge [
     source 732
-    target 817
+    target 735
+    count 2
+    words "e l t m e k//e l t e w"
+    varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
+    languages "kumy1244//noga1249"
+    families "Turkic//Turkic"
+    variety_count 2
+    language_count 2
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 732
+    target 737
     count 1
-    words "ɕ ɘ k l ɛ"
-    varieties "clicsbp-northeuralex-chv"
-    languages "chuv1255"
+    words "e l t e w"
+    varieties "clicsbp-idssegmented-nogai"
+    languages "noga1249"
     families "Turkic"
     variety_count 1
     language_count 1
@@ -24392,19 +24432,6 @@ graph [
   edge [
     source 733
     target 734
-    count 3
-    words "a p a r m a g//e l t m e k//e l t e w"
-    varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
-    languages "nort2697//kumy1244//noga1249"
-    families "Turkic//Turkic//Turkic"
-    variety_count 3
-    language_count 3
-    family_count 1
-    cognate_count 2
-  ]
-  edge [
-    source 733
-    target 735
     count 1
     words "a p a r m a g"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -24417,7 +24444,7 @@ graph [
   ]
   edge [
     source 733
-    target 736
+    target 735
     count 2
     words "e l t m e k//e l t e w"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -24430,7 +24457,7 @@ graph [
   ]
   edge [
     source 733
-    target 738
+    target 737
     count 1
     words "e l t e w"
     varieties "clicsbp-idssegmented-nogai"
@@ -24442,34 +24469,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 734
-    target 735
-    count 1
-    words "a p a r m a g"
-    varieties "clicsbp-idssegmented-azerbaijani"
-    languages "nort2697"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 734
-    target 736
-    count 2
-    words "e l t m e k//e l t e w"
-    varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
-    languages "kumy1244//noga1249"
-    families "Turkic//Turkic"
-    variety_count 2
-    language_count 2
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 734
-    target 738
+    source 735
+    target 737
     count 1
     words "e l t e w"
     varieties "clicsbp-idssegmented-nogai"
@@ -24481,21 +24482,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 736
-    target 738
-    count 1
-    words "e l t e w"
-    varieties "clicsbp-idssegmented-nogai"
-    languages "noga1249"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 739
-    target 775
+    source 738
+    target 774
     count 3
     words "j i b e r m e k//j i b e r y w//ɨː t"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -24507,8 +24495,21 @@ graph [
     cognate_count 2
   ]
   edge [
+    source 738
+    target 739
+    count 1
+    words "ɨː t"
+    varieties "clicsbp-wold-Sakha"
+    languages "yaku1245"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
     source 739
-    target 740
+    target 774
     count 1
     words "ɨː t"
     varieties "clicsbp-wold-Sakha"
@@ -24520,21 +24521,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 740
-    target 775
-    count 1
-    words "ɨː t"
-    varieties "clicsbp-wold-Sakha"
-    languages "yaku1245"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 743
-    target 1265
+    source 742
+    target 1264
     count 2
     words "j o l//ʒ o l"
     varieties "clicsbp-northeuralex-tur//clicsbp-northeuralex-kaz"
@@ -24546,8 +24534,21 @@ graph [
     cognate_count 1
   ]
   edge [
+    source 742
+    target 743
+    count 1
+    words "ʒ o l"
+    varieties "clicsbp-northeuralex-kaz"
+    languages "kaza1248"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
     source 743
-    target 744
+    target 1264
     count 1
     words "ʒ o l"
     varieties "clicsbp-northeuralex-kaz"
@@ -24559,21 +24560,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 744
-    target 1265
-    count 1
-    words "ʒ o l"
-    varieties "clicsbp-northeuralex-kaz"
-    languages "kaza1248"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 744
-    target 867
+    source 743
+    target 866
     count 1
     words "j ɘ r"
     varieties "clicsbp-northeuralex-chv"
@@ -24585,8 +24573,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 745
-    target 1033
+    source 744
+    target 1032
     count 1
     words "k e ʃ y w"
     varieties "clicsbp-idssegmented-nogai"
@@ -24598,8 +24586,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 750
-    target 751
+    source 749
+    target 750
     count 2
     words "q a j ɨ q//k a j ɨ k"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -24611,8 +24599,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 757
-    target 758
+    source 756
+    target 757
     count 2
     words "j e s + b o l m a q//i e + b o l u w"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -24624,8 +24612,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 758
-    target 1138
+    source 757
+    target 1137
     count 3
     words "æ g a l a m ɒ q//b i l æ y//t ɯ t"
     varieties "clicsbp-northeuralex-uzn//clicsbp-northeuralex-bak//clicsbp-northeuralex-chv"
@@ -24637,8 +24625,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 758
-    target 1308
+    source 757
+    target 1307
     count 1
     words "b o l u"
     varieties "clicsbp-northeuralex-kaz"
@@ -24650,8 +24638,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 759
-    target 760
+    source 758
+    target 759
     count 9
     words "a l m a g//a l m a q//a l u w//a l m a k//ɒ l m ɒ q//ɑ l m ɑ q//a l ɯ u//a l u//i l"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-northeuralex-tur//clicsbp-northeuralex-uzn//clicsbp-northeuralex-kaz//clicsbp-northeuralex-bak//clicsbp-northeuralex-tat//clicsbp-northeuralex-chv"
@@ -24663,8 +24651,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 759
-    target 761
+    source 758
+    target 760
     count 7
     words "a l m a g//a l m a k//ɒ l m ɒ q//ɑ l u//a l u//i l//ɨ l"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-northeuralex-tur//clicsbp-northeuralex-uzn//clicsbp-northeuralex-kaz//clicsbp-northeuralex-tat//clicsbp-northeuralex-chv//clicsbp-wold-Sakha"
@@ -24676,8 +24664,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 759
-    target 817
+    source 758
+    target 816
     count 2
     words "a l m a q//ɨ l"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-wold-Sakha"
@@ -24689,8 +24677,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 759
-    target 1320
+    source 758
+    target 1319
     count 1
     words "a l"
     varieties "clicsbp-savelyevturkic-Karaim"
@@ -24702,8 +24690,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 760
-    target 761
+    source 759
+    target 760
     count 6
     words "a l m a g//a l m a k//ɒ l m ɒ q//a l u//i l//t u j a n"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-northeuralex-tur//clicsbp-northeuralex-uzn//clicsbp-northeuralex-tat//clicsbp-northeuralex-chv//clicsbp-northeuralex-chv"
@@ -24715,8 +24703,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 760
-    target 817
+    source 759
+    target 816
     count 1
     words "a l m a q"
     varieties "clicsbp-idssegmented-kumyk"
@@ -24728,8 +24716,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 761
-    target 817
+    source 760
+    target 816
     count 1
     words "ɨ l"
     varieties "clicsbp-wold-Sakha"
@@ -24741,8 +24729,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 762
-    target 763
+    source 761
+    target 762
     count 6
     words "s a x l a m a g//s a q l a m a q//s a k l a w//s ɑ q t ɑ u//h a q l au//s a k l au"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-northeuralex-kaz//clicsbp-northeuralex-bak//clicsbp-northeuralex-tat"
@@ -24754,8 +24742,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 762
-    target 823
+    source 761
+    target 822
     count 1
     words "s a k l a m a k"
     varieties "clicsbp-northeuralex-tur"
@@ -24767,8 +24755,21 @@ graph [
     cognate_count 1
   ]
   edge [
+    source 761
+    target 1138
+    count 1
+    words "s a k l au"
+    varieties "clicsbp-northeuralex-tat"
+    languages "tata1255"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
     source 762
-    target 1139
+    target 1138
     count 1
     words "s a k l au"
     varieties "clicsbp-northeuralex-tat"
@@ -24781,20 +24782,7 @@ graph [
   ]
   edge [
     source 763
-    target 1139
-    count 1
-    words "s a k l au"
-    varieties "clicsbp-northeuralex-tat"
-    languages "tata1255"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 764
-    target 1248
+    target 1247
     count 1
     words "i ʃ"
     varieties "clicsbp-northeuralex-tur"
@@ -24806,8 +24794,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 764
-    target 1088
+    source 763
+    target 1087
     count 2
     words "n æ m æ//n æ r s æ"
     varieties "clicsbp-northeuralex-bak//clicsbp-northeuralex-tat"
@@ -24819,7 +24807,20 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 767
+    source 766
+    target 767
+    count 1
+    words "g u r t a r m a g"
+    varieties "clicsbp-idssegmented-azerbaijani"
+    languages "nort2697"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 766
     target 768
     count 1
     words "g u r t a r m a g"
@@ -24832,21 +24833,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 767
-    target 769
-    count 1
-    words "g u r t a r m a g"
-    varieties "clicsbp-idssegmented-azerbaijani"
-    languages "nort2697"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 767
-    target 1264
+    source 766
+    target 1263
     count 1
     words "ɕ ə l"
     varieties "clicsbp-northeuralex-chv"
@@ -24858,8 +24846,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 768
-    target 769
+    source 767
+    target 768
     count 3
     words "g u r t a r m a g//b i t d i r m e k//k u t a r u w"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -24871,8 +24859,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 768
-    target 901
+    source 767
+    target 900
     count 2
     words "s o n//b y t e h i k"
     varieties "clicsbp-northeuralex-tur//clicsbp-wold-Sakha"
@@ -24884,8 +24872,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 768
-    target 829
+    source 767
+    target 828
     count 1
     words "a ð a q"
     varieties "clicsbp-northeuralex-bak"
@@ -24897,8 +24885,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 772
-    target 1113
+    source 771
+    target 1112
     count 1
     words "k œ r d œː"
     varieties "clicsbp-wold-Sakha"
@@ -24910,8 +24898,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 777
-    target 778
+    source 776
+    target 777
     count 3
     words "k a s i p//j a r l ɨ//dʒ a d a ŋ ɨ"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -24923,8 +24911,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 779
-    target 780
+    source 778
+    target 779
     count 3
     words "s i m i dʒ//q ɨ z ɣ a n tʃ//k e tʃː e g e y"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-wold-Sakha"
@@ -24936,8 +24924,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 779
-    target 972
+    source 778
+    target 971
     count 1
     words "χ ɯ t ə"
     varieties "clicsbp-northeuralex-chv"
@@ -24949,8 +24937,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 781
-    target 782
+    source 780
+    target 781
     count 1
     words "u l a r ɨ s"
     varieties "clicsbp-wold-Sakha"
@@ -24962,8 +24950,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 790
-    target 791
+    source 789
+    target 790
     count 3
     words "s a t m a g//s a t m a q//s a t u w"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -24975,8 +24963,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 792
-    target 869
+    source 791
+    target 868
     count 1
     words "a w ɨ s t ɨ r u w"
     varieties "clicsbp-idssegmented-nogai"
@@ -24988,8 +24976,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 796
-    target 797
+    source 795
+    target 796
     count 1
     words "b a ʔ a"
     varieties "clicsbp-idssegmented-nogai"
@@ -25001,10 +24989,36 @@ graph [
     cognate_count 1
   ]
   edge [
+    source 796
+    target 990
+    count 1
+    words "ɨ a r a χ a n"
+    varieties "clicsbp-wold-Sakha"
+    languages "yaku1245"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 796
+    target 1074
+    count 1
+    words "ɨ a r a χ a n"
+    varieties "clicsbp-wold-Sakha"
+    languages "yaku1245"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
     source 797
     target 991
     count 1
-    words "ɨ a r a χ a n"
+    words "tʃ e p tʃ e k i"
     varieties "clicsbp-wold-Sakha"
     languages "yaku1245"
     families "Turkic"
@@ -25015,19 +25029,6 @@ graph [
   ]
   edge [
     source 797
-    target 1075
-    count 1
-    words "ɨ a r a χ a n"
-    varieties "clicsbp-wold-Sakha"
-    languages "yaku1245"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 798
     target 992
     count 1
     words "tʃ e p tʃ e k i"
@@ -25041,20 +25042,7 @@ graph [
   ]
   edge [
     source 798
-    target 993
-    count 1
-    words "tʃ e p tʃ e k i"
-    varieties "clicsbp-wold-Sakha"
-    languages "yaku1245"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 799
-    target 821
+    target 820
     count 1
     words "p a j l a m a q"
     varieties "clicsbp-idssegmented-kumyk"
@@ -25066,8 +25054,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 800
-    target 801
+    source 799
+    target 800
     count 2
     words "s o ŋ//s o ŋ"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -25079,8 +25067,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 802
-    target 803
+    source 801
+    target 802
     count 3
     words "j a n + j a n a//j a n ɨ n d a//k a s ɨ n d a"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-nogai//clicsbp-idssegmented-nogai"
@@ -25092,8 +25080,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 804
-    target 827
+    source 803
+    target 826
     count 1
     words "t œ m e n"
     varieties "clicsbp-idssegmented-nogai"
@@ -25105,8 +25093,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 805
-    target 806
+    source 804
+    target 805
     count 2
     words "a l d a//a l d ɨ"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -25118,8 +25106,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 811
-    target 1231
+    source 810
+    target 1230
     count 1
     words "j ɛ ɾ"
     varieties "clicsbp-northeuralex-tur"
@@ -25131,8 +25119,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 812
-    target 1187
+    source 811
+    target 1186
     count 1
     words "uː r"
     varieties "clicsbp-wold-Sakha"
@@ -25144,8 +25132,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 814
-    target 1305
+    source 813
+    target 1304
     count 1
     words "d u ɾ m a k"
     varieties "clicsbp-northeuralex-tur"
@@ -25157,8 +25145,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 814
-    target 1323
+    source 813
+    target 1322
     count 3
     words "t ʉ ɾ u//t o r ou//t ə r"
     varieties "clicsbp-northeuralex-kaz//clicsbp-northeuralex-bak//clicsbp-northeuralex-chv"
@@ -25170,8 +25158,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 819
-    target 820
+    source 818
+    target 819
     count 1
     words "a j ɨ r m a g"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -25183,8 +25171,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 819
-    target 821
+    source 818
+    target 820
     count 1
     words "b œ l y w"
     varieties "clicsbp-idssegmented-nogai"
@@ -25196,8 +25184,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 819
-    target 922
+    source 818
+    target 921
     count 1
     words "b œ l y w"
     varieties "clicsbp-idssegmented-nogai"
@@ -25209,8 +25197,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 821
-    target 922
+    source 820
+    target 921
     count 2
     words "b œ l m e k//b œ l y w"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -25222,8 +25210,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 821
-    target 1308
+    source 820
+    target 1307
     count 1
     words "b o l m ɒ q"
     varieties "clicsbp-northeuralex-uzn"
@@ -25235,8 +25223,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 824
-    target 825
+    source 823
+    target 824
     count 4
     words "u dʒ a//b i j i k//b i j i k//y r d y k"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -25248,8 +25236,21 @@ graph [
     cognate_count 2
   ]
   edge [
+    source 823
+    target 825
+    count 1
+    words "u dʒ a"
+    varieties "clicsbp-idssegmented-azerbaijani"
+    languages "nort2697"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
     source 824
-    target 826
+    target 825
     count 1
     words "u dʒ a"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -25261,21 +25262,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 825
-    target 826
-    count 1
-    words "u dʒ a"
-    varieties "clicsbp-idssegmented-azerbaijani"
-    languages "nort2697"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 825
-    target 844
+    source 824
+    target 843
     count 1
     words "b i j i k"
     varieties "clicsbp-savelyevturkic-Karaim"
@@ -25287,8 +25275,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 826
-    target 972
+    source 825
+    target 971
     count 1
     words "b æ r k"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -25300,8 +25288,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 826
-    target 844
+    source 825
+    target 843
     count 1
     words "u l a χ a n"
     varieties "clicsbp-wold-Sakha"
@@ -25313,8 +25301,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 827
-    target 1290
+    source 826
+    target 1289
     count 1
     words "a j a l t a"
     varieties "clicsbp-northeuralex-chv"
@@ -25326,8 +25314,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 831
-    target 832
+    source 830
+    target 831
     count 1
     words "j a g ɨ"
     varieties "clicsbp-idssegmented-nogai"
@@ -25339,8 +25327,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 831
-    target 861
+    source 830
+    target 860
     count 1
     words "q ə ɾ ə"
     varieties "clicsbp-northeuralex-kaz"
@@ -25352,8 +25340,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 835
-    target 1295
+    source 834
+    target 1294
     count 1
     words "s o l"
     varieties "clicsbp-northeuralex-kaz"
@@ -25365,8 +25353,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 836
-    target 927
+    source 835
+    target 926
     count 1
     words "u z ɒ q"
     varieties "clicsbp-northeuralex-uzn"
@@ -25378,8 +25366,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 842
-    target 873
+    source 841
+    target 872
     count 1
     words "ʋ i ɕ"
     varieties "clicsbp-northeuralex-chv"
@@ -25391,8 +25379,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 844
-    target 848
+    source 843
+    target 847
     count 1
     words "k e ŋ"
     varieties "clicsbp-idssegmented-nogai"
@@ -25404,8 +25392,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 845
-    target 853
+    source 844
+    target 852
     count 2
     words "g i tʃː i//k i ʃ k e j"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -25417,8 +25405,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 846
-    target 927
+    source 845
+    target 926
     count 1
     words "u z u n"
     varieties "clicsbp-northeuralex-tur"
@@ -25430,8 +25418,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 849
-    target 851
+    source 848
+    target 850
     count 2
     words "n a z i k//i n tʃ e"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-kumyk"
@@ -25443,8 +25431,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 851
-    target 1276
+    source 850
+    target 1275
     count 1
     words "i ŋ i tʃ k a"
     varieties "clicsbp-northeuralex-uzn"
@@ -25456,8 +25444,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 854
-    target 855
+    source 853
+    target 854
     count 3
     words "h a m a r//t e g i ʃ//d y z"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-northeuralex-tur"
@@ -25469,8 +25457,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 855
-    target 856
+    source 854
+    target 855
     count 4
     words "d ü z//t ü z//t ü z//k œ n œ"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -25482,8 +25470,21 @@ graph [
     cognate_count 2
   ]
   edge [
+    source 854
+    target 856
+    count 2
+    words "d ü z//t ü z"
+    varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk"
+    languages "nort2697//kumy1244"
+    families "Turkic//Turkic"
+    variety_count 2
+    language_count 2
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
     source 855
-    target 857
+    target 856
     count 2
     words "d ü z//t ü z"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk"
@@ -25495,21 +25496,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 856
-    target 857
-    count 2
-    words "d ü z//t ü z"
-    varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk"
-    languages "nort2697//kumy1244"
-    families "Turkic//Turkic"
-    variety_count 2
-    language_count 2
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 856
-    target 1030
+    source 855
+    target 1029
     count 1
     words "d o ɣ r u"
     varieties "clicsbp-savelyevturkic-Karaim"
@@ -25521,8 +25509,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 857
-    target 1029
+    source 856
+    target 1028
     count 2
     words "g e r t i//d u r ɨ s"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -25534,8 +25522,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 857
-    target 1030
+    source 856
+    target 1029
     count 3
     words "g e r t i//d oː ɾ u//d ø r ø θ"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-northeuralex-tur//clicsbp-northeuralex-bak"
@@ -25547,8 +25535,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 857
-    target 1083
+    source 856
+    target 1082
     count 1
     words "d u r ɨ s"
     varieties "clicsbp-idssegmented-nogai"
@@ -25560,8 +25548,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 859
-    target 860
+    source 858
+    target 859
     count 2
     words "g a r m a g//q a r m a q"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk"
@@ -25573,8 +25561,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 864
-    target 865
+    source 863
+    target 864
     count 4
     words "d œ g e r e k//t y ŋ æ r æ k//t ʉ g æ r æ k//t œ g y r y k"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-northeuralex-bak//clicsbp-northeuralex-tat//clicsbp-wold-Sakha"
@@ -25586,8 +25574,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 871
-    target 899
+    source 870
+    target 898
     count 2
     words "b i r//b i r"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -25599,8 +25587,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 887
-    target 888
+    source 886
+    target 887
     count 1
     words "s a j m a g"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -25612,8 +25600,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 887
-    target 1095
+    source 886
+    target 1094
     count 1
     words "aː χ"
     varieties "clicsbp-wold-Sakha"
@@ -25625,8 +25613,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 888
-    target 1045
+    source 887
+    target 1044
     count 2
     words "o j l a ʃ m a q//o j l a w"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -25638,8 +25626,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 888
-    target 1051
+    source 887
+    target 1050
     count 2
     words "œ r a m a q//o j l a w"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -25651,8 +25639,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 888
-    target 1073
+    source 887
+    target 1072
     count 1
     words "s a n a w"
     varieties "clicsbp-idssegmented-nogai"
@@ -25664,8 +25652,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 890
-    target 891
+    source 889
+    target 890
     count 3
     words "tʃ o x//a r t ɨ g//k œ p"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-nogai"
@@ -25677,8 +25665,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 890
-    target 895
+    source 889
+    target 894
     count 1
     words "k œ p"
     varieties "clicsbp-idssegmented-kumyk"
@@ -25690,8 +25678,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 890
-    target 925
+    source 889
+    target 924
     count 2
     words "k œ p//k œ p"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -25703,8 +25691,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 891
-    target 925
+    source 890
+    target 924
     count 1
     words "k œ p"
     varieties "clicsbp-idssegmented-nogai"
@@ -25716,8 +25704,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 895
-    target 925
+    source 894
+    target 924
     count 1
     words "k œ p"
     varieties "clicsbp-idssegmented-kumyk"
@@ -25729,8 +25717,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 895
-    target 1134
+    source 894
+    target 1133
     count 1
     words "dʒ o n"
     varieties "clicsbp-wold-Sakha"
@@ -25742,8 +25730,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 897
-    target 908
+    source 896
+    target 907
     count 1
     words "tʃ aː s"
     varieties "clicsbp-wold-Sakha"
@@ -25755,8 +25743,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 899
-    target 1284
+    source 898
+    target 1283
     count 2
     words "j a l n ɯ z//s o ɣ o t o χ"
     varieties "clicsbp-northeuralex-tur//clicsbp-wold-Sakha"
@@ -25768,8 +25756,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 907
-    target 908
+    source 906
+    target 907
     count 1
     words "v a x t"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -25781,8 +25769,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 908
-    target 942
+    source 907
+    target 941
     count 3
     words "s a ʔ a t//s a h a t//s ä a t"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -25794,8 +25782,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 909
-    target 929
+    source 908
+    target 928
     count 1
     words "ʒ ɑ ŋ ɑ"
     varieties "clicsbp-northeuralex-kaz"
@@ -25807,8 +25795,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 909
-    target 971
+    source 908
+    target 970
     count 1
     words "s a ŋ a"
     varieties "clicsbp-wold-Sakha"
@@ -25820,8 +25808,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 910
-    target 1017
+    source 909
+    target 1016
     count 1
     words "j a ʃ ʔ"
     varieties "clicsbp-northeuralex-tat"
@@ -25833,8 +25821,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 912
-    target 913
+    source 911
+    target 912
     count 3
     words "t e z//t e z//t e z"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -25846,8 +25834,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 912
-    target 914
+    source 911
+    target 913
     count 1
     words "t e z"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -25859,8 +25847,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 912
-    target 933
+    source 911
+    target 932
     count 1
     words "e r t e n"
     varieties "clicsbp-idssegmented-kumyk"
@@ -25872,8 +25860,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 912
-    target 917
+    source 911
+    target 916
     count 1
     words "t e z"
     varieties "clicsbp-idssegmented-kumyk"
@@ -25885,8 +25873,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 912
-    target 927
+    source 911
+    target 926
     count 1
     words "e r t e r e k"
     varieties "clicsbp-idssegmented-nogai"
@@ -25898,8 +25886,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 913
-    target 914
+    source 912
+    target 913
     count 1
     words "t e z"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -25911,8 +25899,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 913
-    target 917
+    source 912
+    target 916
     count 1
     words "t e z"
     varieties "clicsbp-idssegmented-kumyk"
@@ -25924,8 +25912,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 914
-    target 917
+    source 913
+    target 916
     count 2
     words "t e z l i k l æ//dʒ æ l d"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-azerbaijani"
@@ -25937,34 +25925,34 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 915
-    target 918
-    count 1
-    words "k e ʃ"
-    varieties "clicsbp-idssegmented-nogai"
-    languages "noga1249"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 915
-    target 936
-    count 1
-    words "k e ʃ"
-    varieties "clicsbp-idssegmented-nogai"
-    languages "noga1249"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 916
+    source 914
     target 917
+    count 1
+    words "k e ʃ"
+    varieties "clicsbp-idssegmented-nogai"
+    languages "noga1249"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 914
+    target 935
+    count 1
+    words "k e ʃ"
+    varieties "clicsbp-idssegmented-nogai"
+    languages "noga1249"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 915
+    target 916
     count 1
     words "t e z + o k"
     varieties "clicsbp-idssegmented-nogai"
@@ -25976,8 +25964,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 918
-    target 973
+    source 917
+    target 972
     count 4
     words "a s t a//s a b u r//a s t a//s a b ɨ r"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-idssegmented-nogai"
@@ -25989,8 +25977,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 918
-    target 936
+    source 917
+    target 935
     count 1
     words "k e ʃ"
     varieties "clicsbp-idssegmented-nogai"
@@ -26002,8 +25990,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 920
-    target 922
+    source 919
+    target 921
     count 1
     words "t o q t a t m a q"
     varieties "clicsbp-idssegmented-kumyk"
@@ -26015,8 +26003,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 924
-    target 925
+    source 923
+    target 924
     count 3
     words "n aː r//k u r uː k//m e l dʒ i"
     varieties "clicsbp-wold-Sakha//clicsbp-wold-Sakha//clicsbp-wold-Sakha"
@@ -26028,8 +26016,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 931
-    target 936
+    source 930
+    target 935
     count 1
     words "k a ɕ"
     varieties "clicsbp-northeuralex-chv"
@@ -26041,8 +26029,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 933
-    target 938
+    source 932
+    target 937
     count 1
     words "e r t e n"
     varieties "clicsbp-idssegmented-nogai"
@@ -26054,8 +26042,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 934
-    target 1229
+    source 933
+    target 1228
     count 1
     words "t ø ʃ"
     varieties "clicsbp-northeuralex-bak"
@@ -26067,8 +26055,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 939
-    target 941
+    source 938
+    target 940
     count 2
     words "b i r i s i g ü n//b i r s i g ü n"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -26080,8 +26068,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 943
-    target 949
+    source 942
+    target 948
     count 1
     words "j u m a"
     varieties "clicsbp-idssegmented-nogai"
@@ -26093,8 +26081,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 951
-    target 957
+    source 950
+    target 956
     count 1
     words "dʒ ɨ l"
     varieties "clicsbp-wold-Sakha"
@@ -26106,8 +26094,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 954
-    target 955
+    source 953
+    target 954
     count 1
     words "j a j"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -26119,8 +26107,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 955
-    target 1272
+    source 954
+    target 1271
     count 1
     words "s aː"
     varieties "clicsbp-wold-Sakha"
@@ -26132,8 +26120,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 959
-    target 960
+    source 958
+    target 959
     count 1
     words "i j i s k e l e w"
     varieties "clicsbp-idssegmented-nogai"
@@ -26145,8 +26133,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 963
-    target 1076
+    source 962
+    target 1075
     count 1
     words "d ɛ n ɛ m ɛ k"
     varieties "clicsbp-northeuralex-tur"
@@ -26158,8 +26146,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 965
-    target 966
+    source 964
+    target 965
     count 1
     words "a ʃ ʃ ɨ"
     varieties "clicsbp-idssegmented-nogai"
@@ -26171,8 +26159,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 966
-    target 967
+    source 965
+    target 966
     count 4
     words "a tʃ tʃ i q//æ s e//j y ɕ ɘ//a h ɨː"
     varieties "clicsbp-northeuralex-uzn//clicsbp-northeuralex-bak//clicsbp-northeuralex-chv//clicsbp-wold-Sakha"
@@ -26184,8 +26172,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 968
-    target 1047
+    source 967
+    target 1046
     count 1
     words "d u j m a k"
     varieties "clicsbp-northeuralex-tur"
@@ -26197,8 +26185,21 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 968
-    target 969
+    source 967
+    target 968
+    count 1
+    words "i h i t"
+    varieties "clicsbp-wold-Sakha"
+    languages "yaku1245"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 967
+    target 1145
     count 1
     words "i h i t"
     varieties "clicsbp-wold-Sakha"
@@ -26211,7 +26212,7 @@ graph [
   ]
   edge [
     source 968
-    target 1146
+    target 1145
     count 1
     words "i h i t"
     varieties "clicsbp-wold-Sakha"
@@ -26224,20 +26225,7 @@ graph [
   ]
   edge [
     source 969
-    target 1146
-    count 1
-    words "i h i t"
-    varieties "clicsbp-wold-Sakha"
-    languages "yaku1245"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 970
-    target 971
+    target 970
     count 8
     words "s æ s//a w a z//a w a z//t a w ɨ s//s ɛ s//d ɑ uə s//t au ɯ ʃ//s a s ə"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-idssegmented-nogai//clicsbp-northeuralex-tur//clicsbp-northeuralex-kaz//clicsbp-northeuralex-bak//clicsbp-northeuralex-chv"
@@ -26249,8 +26237,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 972
-    target 1068
+    source 971
+    target 1067
     count 2
     words "q a t ɨ//k a t ɨ"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -26262,8 +26250,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 972
-    target 988
+    source 971
+    target 987
     count 1
     words "k a t ɨ"
     varieties "clicsbp-idssegmented-nogai"
@@ -26275,8 +26263,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 974
-    target 975
+    source 973
+    target 974
     count 1
     words "k œ r"
     varieties "clicsbp-wold-Sakha"
@@ -26288,8 +26276,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 975
-    target 1330
+    source 974
+    target 1329
     count 2
     words "q a r au//q ɑ r au"
     varieties "clicsbp-northeuralex-bak//clicsbp-northeuralex-tat"
@@ -26301,8 +26289,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 977
-    target 1330
+    source 976
+    target 1329
     count 1
     words "p ə χ"
     varieties "clicsbp-northeuralex-chv"
@@ -26314,8 +26302,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 978
-    target 979
+    source 977
+    target 978
     count 2
     words "u a r ɨ q//j a r ɨ k"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -26327,8 +26315,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 982
-    target 1041
+    source 981
+    target 1040
     count 1
     words "m a t u r"
     varieties "clicsbp-northeuralex-bak"
@@ -26340,8 +26328,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 986
-    target 1048
+    source 985
+    target 1047
     count 1
     words "b i l"
     varieties "clicsbp-wold-Sakha"
@@ -26353,8 +26341,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 988
-    target 1042
+    source 987
+    target 1041
     count 1
     words "i ʃ ɣ ɨ n s ɨ z"
     varieties "clicsbp-idssegmented-kumyk"
@@ -26366,8 +26354,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 988
-    target 1068
+    source 987
+    target 1067
     count 1
     words "k a t ɨ"
     varieties "clicsbp-idssegmented-nogai"
@@ -26379,8 +26367,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 990
-    target 1066
+    source 989
+    target 1065
     count 1
     words "a ŋ l a w s ɨ z"
     varieties "clicsbp-idssegmented-nogai"
@@ -26392,8 +26380,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 990
-    target 1056
+    source 989
+    target 1055
     count 1
     words "a k m a k"
     varieties "clicsbp-idssegmented-nogai"
@@ -26405,8 +26393,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 991
-    target 1075
+    source 990
+    target 1074
     count 2
     words "a w ɨ r//ɨ a r a χ a n"
     varieties "clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -26418,8 +26406,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 992
-    target 993
+    source 991
+    target 992
     count 4
     words "j ü n gʲ ü l//j e ŋ i l//j e ŋ i l//tʃ e p tʃ e k i"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -26431,8 +26419,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 995
-    target 996
+    source 994
+    target 995
     count 2
     words "i s t i//i sː i"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-savelyevturkic-Karaim"
@@ -26444,8 +26432,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 997
-    target 1233
+    source 996
+    target 1232
     count 3
     words "s u ɤ k//s a l q ɤ n//s i ʋ ɘ"
     varieties "clicsbp-northeuralex-tat//clicsbp-northeuralex-tat//clicsbp-northeuralex-chv"
@@ -26457,8 +26445,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 998
-    target 1065
+    source 997
+    target 1064
     count 1
     words "t a z a"
     varieties "clicsbp-idssegmented-nogai"
@@ -26470,8 +26458,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 999
-    target 1234
+    source 998
+    target 1233
     count 1
     words "p ɤ tɕ r a k"
     varieties "clicsbp-northeuralex-tat"
@@ -26483,8 +26471,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1001
-    target 1027
+    source 1000
+    target 1026
     count 1
     words "d e r t"
     varieties "clicsbp-idssegmented-nogai"
@@ -26496,8 +26484,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1004
-    target 1012
+    source 1003
+    target 1011
     count 1
     words "q ɑ s ə ɾ e t"
     varieties "clicsbp-northeuralex-kaz"
@@ -26509,8 +26497,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1006
-    target 1007
+    source 1005
+    target 1006
     count 1
     words "k ü l y w"
     varieties "clicsbp-idssegmented-nogai"
@@ -26522,8 +26510,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1008
-    target 1009
+    source 1007
+    target 1008
     count 2
     words "s ü j u w//s ʊ j ʊ w"
     varieties "clicsbp-idssegmented-nogai//clicsbp-northeuralex-kaz"
@@ -26535,8 +26523,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1008
-    target 1328
+    source 1007
+    target 1327
     count 1
     words "j a r a t ɯ u"
     varieties "clicsbp-northeuralex-bak"
@@ -26548,8 +26536,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1011
-    target 1263
+    source 1010
+    target 1262
     count 2
     words "ɑ u ɾ u//ɨ a r ɨː"
     varieties "clicsbp-northeuralex-kaz//clicsbp-wold-Sakha"
@@ -26561,8 +26549,21 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1012
-    target 1045
+    source 1011
+    target 1044
+    count 1
+    words "s a n aː"
+    varieties "clicsbp-wold-Sakha"
+    languages "yaku1245"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 1011
+    target 1053
     count 1
     words "s a n aː"
     varieties "clicsbp-wold-Sakha"
@@ -26575,20 +26576,7 @@ graph [
   ]
   edge [
     source 1012
-    target 1054
-    count 1
-    words "s a n aː"
-    varieties "clicsbp-wold-Sakha"
-    languages "yaku1245"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 1013
-    target 1014
+    target 1013
     count 1
     words "t æ h l ü k æ"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -26600,8 +26588,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1014
-    target 1026
+    source 1013
+    target 1025
     count 2
     words "g o r x u//k u tː a l"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-wold-Sakha"
@@ -26613,8 +26601,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 1020
-    target 1200
+    source 1019
+    target 1199
     count 1
     words "u o r"
     varieties "clicsbp-wold-Sakha"
@@ -26626,8 +26614,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1024
-    target 1025
+    source 1023
+    target 1024
     count 1
     words "q o tʃː a q"
     varieties "clicsbp-idssegmented-kumyk"
@@ -26639,8 +26627,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1027
-    target 1070
+    source 1026
+    target 1069
     count 1
     words "m ɨ r a d"
     varieties "clicsbp-idssegmented-nogai"
@@ -26652,8 +26640,21 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1027
-    target 1104
+    source 1026
+    target 1103
+    count 1
+    words "t ɛ"
+    varieties "clicsbp-northeuralex-chv"
+    languages "chuv1255"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 1026
+    target 1118
     count 1
     words "t ɛ"
     varieties "clicsbp-northeuralex-chv"
@@ -26666,11 +26667,11 @@ graph [
   ]
   edge [
     source 1027
-    target 1119
+    target 1045
     count 1
-    words "t ɛ"
-    varieties "clicsbp-northeuralex-chv"
-    languages "chuv1255"
+    words "i n a n m a q"
+    varieties "clicsbp-idssegmented-kumyk"
+    languages "kumy1244"
     families "Turkic"
     variety_count 1
     language_count 1
@@ -26678,8 +26679,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1028
-    target 1046
+    source 1027
+    target 1204
     count 1
     words "i n a n m a q"
     varieties "clicsbp-idssegmented-kumyk"
@@ -26692,20 +26693,7 @@ graph [
   ]
   edge [
     source 1028
-    target 1205
-    count 1
-    words "i n a n m a q"
-    varieties "clicsbp-idssegmented-kumyk"
-    languages "kumy1244"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 1029
-    target 1068
+    target 1067
     count 2
     words "i n a m l ɨ//s e n i m l i"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -26717,8 +26705,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1029
-    target 1030
+    source 1028
+    target 1029
     count 3
     words "g e r t i//a l a l//s e n i m l i"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-idssegmented-nogai"
@@ -26730,8 +26718,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 1029
-    target 1083
+    source 1028
+    target 1082
     count 1
     words "d u r ɨ s"
     varieties "clicsbp-idssegmented-nogai"
@@ -26743,8 +26731,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1030
-    target 1068
+    source 1029
+    target 1067
     count 1
     words "s e n i m l i"
     varieties "clicsbp-idssegmented-nogai"
@@ -26756,8 +26744,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1034
-    target 1041
+    source 1033
+    target 1040
     count 1
     words "a r i w"
     varieties "clicsbp-idssegmented-kumyk"
@@ -26769,8 +26757,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1035
-    target 1277
+    source 1034
+    target 1276
     count 1
     words "k œ t y"
     varieties "clicsbp-northeuralex-tur"
@@ -26782,8 +26770,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1036
-    target 1038
+    source 1035
+    target 1037
     count 1
     words "s ɨː h a"
     varieties "clicsbp-wold-Sakha"
@@ -26795,8 +26783,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1037
-    target 1038
+    source 1036
+    target 1037
     count 2
     words "x a t a//j a ŋ ɨ l ɨ s"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-nogai"
@@ -26808,8 +26796,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 1039
-    target 1192
+    source 1038
+    target 1191
     count 3
     words "a j ɨ p l a m a q//g ü n a h l a m a q//k ü n ä l e w"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -26821,8 +26809,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1043
-    target 1055
+    source 1042
+    target 1054
     count 1
     words "œ y d œː χ"
     varieties "clicsbp-wold-Sakha"
@@ -26834,8 +26822,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1045
-    target 1051
+    source 1044
+    target 1050
     count 1
     words "o j l a w"
     varieties "clicsbp-idssegmented-nogai"
@@ -26847,8 +26835,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1045
-    target 1054
+    source 1044
+    target 1053
     count 1
     words "s a n aː"
     varieties "clicsbp-wold-Sakha"
@@ -26860,8 +26848,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1046
-    target 1205
+    source 1045
+    target 1204
     count 2
     words "i n a n m a q//ɨ n a n u w"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -26873,8 +26861,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1047
-    target 1054
+    source 1046
+    target 1053
     count 1
     words "a ŋ l a w"
     varieties "clicsbp-idssegmented-nogai"
@@ -26886,8 +26874,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1047
-    target 1048
+    source 1046
+    target 1047
     count 1
     words "p ɘ l"
     varieties "clicsbp-northeuralex-chv"
@@ -26899,8 +26887,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1047
-    target 1063
+    source 1046
+    target 1062
     count 1
     words "œ y d œː"
     varieties "clicsbp-wold-Sakha"
@@ -26912,8 +26900,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1048
-    target 1049
+    source 1047
+    target 1048
     count 3
     words "t a n ɨ m a g//b i l m e k//b i l y w"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -26925,8 +26913,21 @@ graph [
     cognate_count 2
   ]
   edge [
+    source 1047
+    target 1049
+    count 1
+    words "t a n ɨ m a g"
+    varieties "clicsbp-idssegmented-azerbaijani"
+    languages "nort2697"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
     source 1048
-    target 1050
+    target 1049
     count 1
     words "t a n ɨ m a g"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -26938,21 +26939,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1049
-    target 1050
-    count 1
-    words "t a n ɨ m a g"
-    varieties "clicsbp-idssegmented-azerbaijani"
-    languages "nort2697"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 1049
-    target 1058
+    source 1048
+    target 1057
     count 4
     words "œ j r æ n m æ k//o x u m a q//o k u w//y œ r e n"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha"
@@ -26964,8 +26952,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 1049
-    target 1095
+    source 1048
+    target 1094
     count 5
     words "o x u m a q//o k u w//o q i m ɒ q//o q u//u q u"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-northeuralex-uzn//clicsbp-northeuralex-kaz//clicsbp-northeuralex-tat"
@@ -26977,8 +26965,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 1049
-    target 1059
+    source 1048
+    target 1058
     count 1
     words "o k u w"
     varieties "clicsbp-idssegmented-nogai"
@@ -26990,8 +26978,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1054
-    target 1070
+    source 1053
+    target 1069
     count 1
     words "m u r a t"
     varieties "clicsbp-idssegmented-kumyk"
@@ -27003,8 +26991,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1056
-    target 1057
+    source 1055
+    target 1056
     count 1
     words "a k ɨ l s ɨ z"
     varieties "clicsbp-idssegmented-nogai"
@@ -27016,8 +27004,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1058
-    target 1095
+    source 1057
+    target 1094
     count 2
     words "o x u m a q//o k u w"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -27029,8 +27017,21 @@ graph [
     cognate_count 2
   ]
   edge [
+    source 1057
+    target 1058
+    count 1
+    words "o k u w"
+    varieties "clicsbp-idssegmented-nogai"
+    languages "noga1249"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
     source 1058
-    target 1059
+    target 1094
     count 1
     words "o k u w"
     varieties "clicsbp-idssegmented-nogai"
@@ -27042,21 +27043,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1059
-    target 1095
-    count 1
-    words "o k u w"
-    varieties "clicsbp-idssegmented-nogai"
-    languages "noga1249"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 1072
-    target 1073
+    source 1071
+    target 1072
     count 1
     words "ʃ e k l e n y w"
     varieties "clicsbp-idssegmented-nogai"
@@ -27068,8 +27056,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1077
-    target 1078
+    source 1076
+    target 1077
     count 1
     words "g a j d a"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -27081,8 +27069,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1077
-    target 1090
+    source 1076
+    target 1089
     count 1
     words "q a j d a"
     varieties "clicsbp-idssegmented-kumyk"
@@ -27094,8 +27082,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1079
-    target 1083
+    source 1078
+    target 1082
     count 1
     words "e m"
     varieties "clicsbp-idssegmented-nogai"
@@ -27107,8 +27095,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1084
-    target 1291
+    source 1083
+    target 1290
     count 1
     words "s u o χ"
     varieties "clicsbp-wold-Sakha"
@@ -27120,8 +27108,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1085
-    target 1091
+    source 1084
+    target 1090
     count 1
     words "n e tʃ i k"
     varieties "clicsbp-idssegmented-kumyk"
@@ -27133,8 +27121,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1086
-    target 1087
+    source 1085
+    target 1086
     count 5
     words "n e tʃ e//n e ʃ e w//n e ʃ e//χ a s//t œ h œ"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-idssegmented-nogai//clicsbp-wold-Sakha//clicsbp-wold-Sakha"
@@ -27146,8 +27134,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 1094
-    target 1095
+    source 1093
+    target 1094
     count 1
     words "o x u m a g"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -27159,8 +27147,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1094
-    target 1104
+    source 1093
+    target 1103
     count 1
     words "s œ j l ɛ m ɛ k"
     varieties "clicsbp-northeuralex-tur"
@@ -27172,8 +27160,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1102
-    target 1355
+    source 1101
+    target 1354
     count 3
     words "k o n u ʃ m a k//h ø j l æ ʃ e y//s œ j l æ ʉ"
     varieties "clicsbp-northeuralex-tur//clicsbp-northeuralex-bak//clicsbp-northeuralex-tat"
@@ -27185,8 +27173,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 1102
-    target 1104
+    source 1101
+    target 1103
     count 3
     words "d e u//ɑ j t u//æ j t e y"
     varieties "clicsbp-northeuralex-kaz//clicsbp-northeuralex-kaz//clicsbp-northeuralex-bak"
@@ -27198,8 +27186,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 1102
-    target 1105
+    source 1101
+    target 1104
     count 2
     words "ɑ j t u//s œ j l æ ʉ"
     varieties "clicsbp-northeuralex-kaz//clicsbp-northeuralex-tat"
@@ -27211,8 +27199,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 1104
-    target 1119
+    source 1103
+    target 1118
     count 4
     words "a j t m a q//a j t u w//d i j ʊ//t ɛ"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai//clicsbp-northeuralex-tat//clicsbp-northeuralex-chv"
@@ -27224,8 +27212,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 1104
-    target 1105
+    source 1103
+    target 1104
     count 1
     words "ɑ j t u"
     varieties "clicsbp-northeuralex-kaz"
@@ -27237,8 +27225,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1105
-    target 1355
+    source 1104
+    target 1354
     count 1
     words "s œ j l æ ʉ"
     varieties "clicsbp-northeuralex-tat"
@@ -27250,8 +27238,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1106
-    target 1108
+    source 1105
+    target 1107
     count 3
     words "s œ z//s ø z//s ə m a χ"
     varieties "clicsbp-idssegmented-nogai//clicsbp-northeuralex-kaz//clicsbp-northeuralex-chv"
@@ -27263,8 +27251,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 1109
-    target 1119
+    source 1108
+    target 1118
     count 1
     words "ɑ t ɑ u"
     varieties "clicsbp-northeuralex-kaz"
@@ -27276,8 +27264,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1109
-    target 1214
+    source 1108
+    target 1213
     count 1
     words "aː t"
     varieties "clicsbp-wold-Sakha"
@@ -27289,8 +27277,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1110
-    target 1113
+    source 1109
+    target 1112
     count 1
     words "ɯ j t"
     varieties "clicsbp-northeuralex-chv"
@@ -27302,8 +27290,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1113
-    target 1206
+    source 1112
+    target 1205
     count 1
     words "t i l e w"
     varieties "clicsbp-idssegmented-nogai"
@@ -27315,8 +27303,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1118
-    target 1119
+    source 1117
+    target 1118
     count 1
     words "tɕ ɘ n"
     varieties "clicsbp-northeuralex-chv"
@@ -27328,8 +27316,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1123
-    target 1266
+    source 1122
+    target 1265
     count 1
     words "ʒ ɑ z u"
     varieties "clicsbp-northeuralex-kaz"
@@ -27341,8 +27329,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1136
-    target 1141
+    source 1135
+    target 1140
     count 1
     words "t o y o n"
     varieties "clicsbp-wold-Sakha"
@@ -27354,8 +27342,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1138
-    target 1139
+    source 1137
+    target 1138
     count 1
     words "i d a r æ + e t m æ k"
     varieties "clicsbp-idssegmented-azerbaijani"
@@ -27367,8 +27355,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1141
-    target 1142
+    source 1140
+    target 1141
     count 3
     words "s a h i b k a r//j e s i//i e"
     varieties "clicsbp-idssegmented-azerbaijani//clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -27380,8 +27368,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 1143
-    target 1144
+    source 1142
+    target 1143
     count 2
     words "q u l//k u l"
     varieties "clicsbp-idssegmented-kumyk//clicsbp-idssegmented-nogai"
@@ -27393,8 +27381,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1147
-    target 1210
+    source 1146
+    target 1209
     count 1
     words "i z n u + b e r m e k"
     varieties "clicsbp-idssegmented-kumyk"
@@ -27406,8 +27394,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1159
-    target 1160
+    source 1158
+    target 1159
     count 1
     words "s e r iː"
     varieties "clicsbp-wold-Sakha"
@@ -27419,8 +27407,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1175
-    target 1196
+    source 1174
+    target 1195
     count 1
     words "t u s n a q"
     varieties "clicsbp-idssegmented-kumyk"
@@ -27432,8 +27420,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1181
-    target 1185
+    source 1180
+    target 1184
     count 1
     words "t u z a k"
     varieties "clicsbp-idssegmented-nogai"
@@ -27445,8 +27433,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1183
-    target 1345
+    source 1182
+    target 1344
     count 1
     words "au l au"
     varieties "clicsbp-northeuralex-bak"
@@ -27458,8 +27446,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1200
-    target 1337
+    source 1199
+    target 1336
     count 1
     words "tʃ a l m a k"
     varieties "clicsbp-northeuralex-tur"
@@ -27471,8 +27459,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1205
-    target 1206
+    source 1204
+    target 1205
     count 1
     words "y ŋ"
     varieties "clicsbp-wold-Sakha"
@@ -27484,7 +27472,20 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1236
+    source 1235
+    target 1330
+    count 1
+    words "t u"
+    varieties "clicsbp-northeuralex-chv"
+    languages "chuv1255"
+    families "Turkic"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 1235
     target 1331
     count 1
     words "t u"
@@ -27498,20 +27499,7 @@ graph [
   ]
   edge [
     source 1236
-    target 1332
-    count 1
-    words "t u"
-    varieties "clicsbp-northeuralex-chv"
-    languages "chuv1255"
-    families "Turkic"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 1237
-    target 1264
+    target 1263
     count 1
     words "b u l ɒ q"
     varieties "clicsbp-northeuralex-uzn"
@@ -27523,8 +27511,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1267
-    target 1281
+    source 1266
+    target 1280
     count 1
     words "j æ ʃ æ y"
     varieties "clicsbp-northeuralex-bak"
@@ -27536,8 +27524,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1281
-    target 1332
+    source 1280
+    target 1331
     count 1
     words "ʒ ɑ s ɑ u"
     varieties "clicsbp-northeuralex-kaz"
@@ -27549,8 +27537,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1286
-    target 1287
+    source 1285
+    target 1286
     count 4
     words "o n ɑ n + s o ŋ//s o n ɑ n + s o ŋ//h u ŋ ɯ n a n//u n t a n"
     varieties "clicsbp-northeuralex-kaz//clicsbp-northeuralex-kaz//clicsbp-northeuralex-bak//clicsbp-northeuralex-chv"
@@ -27562,8 +27550,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 1295
-    target 1296
+    source 1294
+    target 1295
     count 3
     words "o//u l//u l"
     varieties "clicsbp-northeuralex-tur//clicsbp-northeuralex-bak//clicsbp-northeuralex-tat"
@@ -27575,8 +27563,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 1308
-    target 1361
+    source 1307
+    target 1360
     count 1
     words "b u o l"
     varieties "clicsbp-wold-Sakha"
@@ -27588,8 +27576,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1318
-    target 1319
+    source 1317
+    target 1318
     count 4
     words "ʊ ɾ u//ø r ø y//œ r ʉ//ʋ ɘ r"
     varieties "clicsbp-northeuralex-kaz//clicsbp-northeuralex-bak//clicsbp-northeuralex-tat//clicsbp-northeuralex-chv"
@@ -27601,8 +27589,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 1331
-    target 1332
+    source 1330
+    target 1331
     count 4
     words "j a p m a k//e t u//j a h au//t u"
     varieties "clicsbp-northeuralex-tur//clicsbp-northeuralex-kaz//clicsbp-northeuralex-bak//clicsbp-northeuralex-chv"
@@ -27614,8 +27602,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 1331
-    target 1344
+    source 1330
+    target 1343
     count 1
     words "ə s t e u"
     varieties "clicsbp-northeuralex-kaz"
@@ -27627,8 +27615,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1332
-    target 1344
+    source 1331
+    target 1343
     count 2
     words "e ʃ l æ y//ɛ ʃ l æ ʉ"
     varieties "clicsbp-northeuralex-bak//clicsbp-northeuralex-tat"
@@ -27640,8 +27628,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1362
-    target 1363
+    source 1361
+    target 1362
     count 1
     words "a b a s"
     varieties "clicsbp-wold-Sakha"

@@ -4189,6 +4189,18 @@ graph [
   ]
   node [
     id 349
+    label "SLOTH"
+    occurrences "clicsbp-huntergatherer-52-SLOTH-1//clicsbp-huntergatherer-57-SLOTH-1//clicsbp-huntergatherer-405-SLOTH-1"
+    words "ts iː k a b o//z a l o r e + m a k a t i//h a u"
+    varieties "clicsbp-huntergatherer-52//clicsbp-huntergatherer-57//clicsbp-huntergatherer-405"
+    languages "bani1255//pare1272//araw1276"
+    families "Arawakan//Arawakan//Arawakan"
+    language_count 3
+    variety_count 3
+    family_count 1
+  ]
+  node [
+    id 350
     label "SNAIL"
     occurrences "clicsbp-huntergatherer-52-SNAIL-1//clicsbp-huntergatherer-57-SNAIL-1//clicsbp-idssegmented-ignaciano-SNAIL-1//clicsbp-idssegmented-mashcopiro-SNAIL-1//clicsbp-idssegmented-wapishana-SNAIL-1//clicsbp-idssegmented-waura-SNAIL-1//clicsbp-idssegmented-waura-SNAIL-2//clicsbp-idssegmented-waura-SNAIL-3//clicsbp-idssegmented-yavitero-SNAIL-1"
     words "k e r a tː o//w a l o//k i j a//ʃ i ʃ r i k a p i//u w a ɨ//i tʲ u w i//w a l u//ɨ t ɨ ʒ u//k a r a k o lʲ u"
@@ -4200,7 +4212,7 @@ graph [
     family_count 1
   ]
   node [
-    id 350
+    id 351
     label "SQUIRREL"
     occurrences "clicsbp-huntergatherer-52-SQUIRREL-1//clicsbp-huntergatherer-57-SQUIRREL-1//clicsbp-huntergatherer-405-SQUIRREL-1"
     words "m a d e rː i//k a ts e k e r e k e//k a r i o"
@@ -4212,7 +4224,7 @@ graph [
     family_count 1
   ]
   node [
-    id 351
+    id 352
     label "STINGRAY"
     occurrences "clicsbp-huntergatherer-52-STINGRAY-1//clicsbp-huntergatherer-405-STINGRAY-1//clicsbp-idssegmented-goajiro-STINGRAY-1//clicsbp-idssegmented-wapishana-STINGRAY-1//clicsbp-idssegmented-waura-STINGRAY-1//clicsbp-idssegmented-waura-STINGRAY-2//clicsbp-idssegmented-yavitero-STINGRAY-1"
     words "ɲ a m a r o//d o b o r i//a t ʃ a//ˀd j ɨː ˀb ɨ r ɨ//i j a p u//k a + p a l a + k a//j a h i w e"
@@ -4224,7 +4236,7 @@ graph [
     family_count 1
   ]
   node [
-    id 352
+    id 353
     label "TICK"
     occurrences "clicsbp-huntergatherer-52-TICK-1//clicsbp-huntergatherer-57-TICK-1//clicsbp-huntergatherer-405-TICK-1"
     words "k o o p a l i//k o h e r e//t u r i t u r i"
@@ -4236,7 +4248,7 @@ graph [
     family_count 1
   ]
   node [
-    id 353
+    id 354
     label "VULTURE"
     occurrences "clicsbp-huntergatherer-52-VULTURE-1//clicsbp-huntergatherer-57-VULTURE-1//clicsbp-huntergatherer-405-VULTURE-1//clicsbp-idssegmented-goajiro-VULTURE-1//clicsbp-idssegmented-mashcopiro-VULTURE-1//clicsbp-idssegmented-wapishana-VULTURE-1//clicsbp-idssegmented-waura-VULTURE-1//clicsbp-idssegmented-waura-VULTURE-2"
     words "w a a d z o l i//o l o h o//a n w a n a//s a m u lʲ u//m a j + lʲ ɨ//w a tʰ u//a w a ʒ a t a l u//w e h ɨ ʒ a"
@@ -4248,7 +4260,7 @@ graph [
     family_count 1
   ]
   node [
-    id 354
+    id 355
     label "WASP"
     occurrences "clicsbp-huntergatherer-52-WASP-1//clicsbp-huntergatherer-57-WASP-1//clicsbp-huntergatherer-405-WASP-1//clicsbp-idssegmented-ignaciano-WASP-1//clicsbp-idssegmented-mashcopiro-WASP-1//clicsbp-idssegmented-trinitario-WASP-1//clicsbp-idssegmented-wapishana-WASP-1//clicsbp-idssegmented-waura-WASP-1//clicsbp-idssegmented-yavitero-WASP-1"
     words "a i n i//t o m o h o r e//m a k o r i o//h a n e//s a n ɨ//h a n e//tʃʰ i m i kʰ i ʔ i//a t a + p ɨ ʒ a//a n i"
@@ -4260,7 +4272,7 @@ graph [
     family_count 1
   ]
   node [
-    id 355
+    id 356
     label "BASKET"
     occurrences "clicsbp-huntergatherer-52-BASKET-1//clicsbp-huntergatherer-52-BASKET-2//clicsbp-huntergatherer-57-BASKET-1//clicsbp-huntergatherer-405-BASKET-1//clicsbp-huntergatherer-405-BASKET-2//clicsbp-idssegmented-ignaciano-BASKET-1//clicsbp-idssegmented-mashcopiro-BASKET-1//clicsbp-idssegmented-trinitario-BASKET-1//clicsbp-idssegmented-wapishana-BASKET-1//clicsbp-idssegmented-waura-BASKET-1//clicsbp-idssegmented-waura-BASKET-2"
     words "k a a m e//k a a m e//k o h o//k e k e//w a j a lʰ i//s a j e//k o x i + t a//m o ʔ o//d a ʐ u w a n//m a j a + k u//j a t a l u"
@@ -4272,7 +4284,7 @@ graph [
     family_count 1
   ]
   node [
-    id 356
+    id 357
     label "BEAD"
     occurrences "clicsbp-huntergatherer-52-BEAD-1//clicsbp-huntergatherer-57-BEAD-1//clicsbp-idssegmented-ignaciano-BEAD-1//clicsbp-idssegmented-mashcopiro-BEAD-1//clicsbp-idssegmented-wapishana-BEAD-1//clicsbp-idssegmented-waura-BEAD-1"
     words "m a l o j o//h a l i j o l o t i//t a ʔ i//t ɨ w ɨ t ɨ//kʰ a ʃ u r u//j u l a t ɨ ʒ u"
@@ -4284,7 +4296,7 @@ graph [
     family_count 1
   ]
   node [
-    id 357
+    id 358
     label "BOTTLE"
     occurrences "clicsbp-huntergatherer-52-BOTTLE-1//clicsbp-huntergatherer-57-BOTTLE-1//clicsbp-huntergatherer-405-BOTTLE-1"
     words "g a r a a pʰ a//b a l a x o k o//b o t o l i"
@@ -4296,7 +4308,7 @@ graph [
     family_count 1
   ]
   node [
-    id 358
+    id 359
     label "BROOM"
     occurrences "clicsbp-huntergatherer-52-BROOM-1//clicsbp-huntergatherer-57-BROOM-1//clicsbp-idssegmented-goajiro-BROOM-1//clicsbp-idssegmented-ignaciano-BROOM-1//clicsbp-idssegmented-trinitario-BROOM-1//clicsbp-idssegmented-trinitario-BROOM-2//clicsbp-idssegmented-wapishana-BROOM-1//clicsbp-idssegmented-waura-BROOM-1//clicsbp-idssegmented-yavitero-BROOM-1"
     words "p i tsʰ i o p a tː i//h i ts a k a l a t i//t e + p i t a h i a//p i r a k i//p i r o ɣ i//p r o ɣ i//pʰ a r a ɨ + r i ˀb a i//w a i tʃ u//k a h a + m i a l̥ʲ i"
@@ -4308,7 +4320,7 @@ graph [
     family_count 1
   ]
   node [
-    id 359
+    id 360
     label "CHICKEN"
     occurrences "clicsbp-huntergatherer-52-CHICKEN-1//clicsbp-huntergatherer-57-CHICKEN-1//clicsbp-huntergatherer-405-CHICKEN-1//clicsbp-idssegmented-goajiro-CHICKEN-1//clicsbp-idssegmented-mashcopiro-CHICKEN-1//clicsbp-idssegmented-trinitario-CHICKEN-1//clicsbp-idssegmented-wapishana-CHICKEN-1//clicsbp-idssegmented-yavitero-CHICKEN-1"
     words "k a l a k a//t a k oi r a//k a lʰ i n a//k a lʲ iː n a + tʃ o n//h a tʲ a w r i p a//w r a j u//kʰ ɨ r ɨ kʰ ɨ//k u a m e + s a n i"
@@ -4320,7 +4332,7 @@ graph [
     family_count 1
   ]
   node [
-    id 360
+    id 361
     label "DEITY"
     occurrences "clicsbp-huntergatherer-52-DEITY-1//clicsbp-huntergatherer-57-DEITY-1//clicsbp-huntergatherer-405-DEITY-1"
     words "i ɲ a p i rː i k u l i//e n o r e//g + h a r l i w a n l i"
@@ -4332,7 +4344,7 @@ graph [
     family_count 1
   ]
   node [
-    id 361
+    id 362
     label "FAN (OBJECT)"
     occurrences "clicsbp-huntergatherer-52-FANOBJECT-1//clicsbp-huntergatherer-57-FANOBJECT-1//clicsbp-huntergatherer-405-FANOBJECT-1//clicsbp-idssegmented-goajiro-FANOBJECT-1//clicsbp-idssegmented-ignaciano-FANOBJECT-1//clicsbp-idssegmented-mashcopiro-FANOBJECT-1//clicsbp-idssegmented-trinitario-FANOBJECT-1//clicsbp-idssegmented-trinitario-FANOBJECT-2//clicsbp-idssegmented-wapishana-FANOBJECT-1//clicsbp-idssegmented-waura-FANOBJECT-1//clicsbp-idssegmented-yavitero-FANOBJECT-1"
     words "k a d oi ts i p a//k o w a e//w a d j n//t a + w a w a h i a//p e w e//h e p n o + p i//p e w e r a//p e w e//a w a r i ˀb a i//w a w a i//m a h u i t a"
@@ -4344,7 +4356,7 @@ graph [
     family_count 1
   ]
   node [
-    id 362
+    id 363
     label "FISHING LINE"
     occurrences "clicsbp-huntergatherer-52-FISHINGLINE-1//clicsbp-idssegmented-trinitario-FISHINGLINE-1//clicsbp-idssegmented-wapishana-FISHINGLINE-1//clicsbp-idssegmented-waura-FISHINGLINE-1"
     words "iː ts a a kʰ aː//e n r i p i//kʰ uˀ b a u w ɨ + ʐ ɨ n aː//n i j a p i"
@@ -4356,7 +4368,7 @@ graph [
     family_count 1
   ]
   node [
-    id 363
+    id 364
     label "FISH TRAP"
     occurrences "clicsbp-huntergatherer-52-FISHTRAP-1//clicsbp-huntergatherer-57-FISHTRAP-1//clicsbp-huntergatherer-405-FISHTRAP-1//clicsbp-idssegmented-wapishana-FISHTRAP-1//clicsbp-idssegmented-waura-FISHTRAP-1//clicsbp-idssegmented-waura-FISHTRAP-2//clicsbp-idssegmented-waura-FISHTRAP-3//clicsbp-idssegmented-yavitero-FISHTRAP-1"
     words "oː p i ts i//k o h o//t a n b o//d a r u kʰ u//m u t u//a t a p ĩ j ã//k u l u t u//k a k u lʲ i"
@@ -4368,7 +4380,7 @@ graph [
     family_count 1
   ]
   node [
-    id 364
+    id 365
     label "FLUTE"
     occurrences "clicsbp-huntergatherer-52-FLUTE-1//clicsbp-huntergatherer-57-FLUTE-1//clicsbp-huntergatherer-405-FLUTE-1//clicsbp-idssegmented-goajiro-FLUTE-1//clicsbp-idssegmented-goajiro-FLUTE-2//clicsbp-idssegmented-goajiro-FLUTE-3//clicsbp-idssegmented-ignaciano-FLUTE-1//clicsbp-idssegmented-trinitario-FLUTE-1//clicsbp-idssegmented-wapishana-FLUTE-1//clicsbp-idssegmented-waura-FLUTE-1//clicsbp-idssegmented-waura-FLUTE-2//clicsbp-idssegmented-waura-FLUTE-3//clicsbp-idssegmented-yavitero-FLUTE-1"
     words "j a p o l o t o//j a m a k a//b e j o kʰ a//t o t o h i//m a s i//s a w a w a//s i w i w i r e//sʷ i w r e//kʰ u w ɨ d a//w a t a n a//k u l u t a//k a w ɨ k a//j a h u lʲ u lʲ u"
@@ -4380,7 +4392,7 @@ graph [
     family_count 1
   ]
   node [
-    id 365
+    id 366
     label "GRAVE"
     occurrences "clicsbp-huntergatherer-52-GRAVE-1//clicsbp-huntergatherer-57-GRAVE-1//clicsbp-idssegmented-ignaciano-GRAVE-1//clicsbp-idssegmented-mashcopiro-GRAVE-1//clicsbp-idssegmented-trinitario-GRAVE-1//clicsbp-idssegmented-trinitario-GRAVE-2//clicsbp-idssegmented-wapishana-GRAVE-1//clicsbp-idssegmented-waura-GRAVE-1//clicsbp-idssegmented-yavitero-GRAVE-1"
     words "i r i r i//e x a w a t j a k a l a//e k a r i//j o m lʲ e//e k o r i//e k o r o s i//ˀb a r a n a i//w a k a p ɨ//h i h i t a + k a d e"
@@ -4392,7 +4404,7 @@ graph [
     family_count 1
   ]
   node [
-    id 366
+    id 367
     label "GUN"
     occurrences "clicsbp-huntergatherer-52-GUN-1//clicsbp-huntergatherer-57-GUN-1//clicsbp-huntergatherer-405-GUN-1"
     words "m o k a w a//k o r e n a s e//a r a k a b o s a"
@@ -4404,7 +4416,7 @@ graph [
     family_count 1
   ]
   node [
-    id 367
+    id 368
     label "HAT"
     occurrences "clicsbp-huntergatherer-52-HAT-1//clicsbp-huntergatherer-57-HAT-1//clicsbp-huntergatherer-405-HAT-1"
     words "ts a p e w a//b a j a h o k o//s i + a d o"
@@ -4416,7 +4428,7 @@ graph [
     family_count 1
   ]
   node [
-    id 368
+    id 369
     label "HONEY"
     occurrences "clicsbp-huntergatherer-52-HONEY-1//clicsbp-huntergatherer-57-HONEY-1//clicsbp-huntergatherer-405-HONEY-1//clicsbp-idssegmented-goajiro-HONEY-1//clicsbp-idssegmented-ignaciano-HONEY-1//clicsbp-idssegmented-mashcopiro-HONEY-1//clicsbp-idssegmented-mashcopiro-HONEY-2//clicsbp-idssegmented-trinitario-HONEY-1//clicsbp-idssegmented-wapishana-HONEY-1//clicsbp-idssegmented-waura-HONEY-1//clicsbp-idssegmented-yavitero-HONEY-1"
     words "d o n i//m a h a//m a b a//m a p a//m a p a + m a//p o p n i x i rʰ a//w r o lʲ + h a//m o p o + m o//m a ˀb a//m a p a//i h a + m a h a"
@@ -4428,7 +4440,7 @@ graph [
     family_count 1
   ]
   node [
-    id 369
+    id 370
     label "HUNT"
     occurrences "clicsbp-huntergatherer-52-HUNT-1//clicsbp-huntergatherer-57-HUNT-1//clicsbp-huntergatherer-405-HUNT-1//clicsbp-idssegmented-goajiro-HUNT-1//clicsbp-idssegmented-ignaciano-HUNT-1//clicsbp-idssegmented-trinitario-HUNT-1//clicsbp-idssegmented-wapishana-HUNT-1//clicsbp-idssegmented-wapishana-HUNT-2//clicsbp-idssegmented-yavitero-HUNT-1"
     words "w i n i t a//z a n e kʷ a t i//j o kʰ a n//o lʲ o h oː//p a i r i r i k a//k a s e k o//tʰ i w aː pʰ a + n//w aː tʰ a pʰ a + n//w i n a h a t a"
@@ -4440,7 +4452,7 @@ graph [
     family_count 1
   ]
   node [
-    id 370
+    id 371
     label "LOINCLOTH"
     occurrences "clicsbp-huntergatherer-52-LOINCLOTH-1"
     words "k o e j o"
@@ -4452,7 +4464,7 @@ graph [
     family_count 1
   ]
   node [
-    id 371
+    id 372
     label "MORTAR"
     occurrences "clicsbp-huntergatherer-52-MORTAR-1//clicsbp-huntergatherer-57-MORTAR-1//clicsbp-huntergatherer-405-MORTAR-1//clicsbp-idssegmented-goajiro-MORTAR-1//clicsbp-idssegmented-ignaciano-MORTAR-1//clicsbp-idssegmented-wapishana-MORTAR-1//clicsbp-idssegmented-waura-MORTAR-1"
     words "aː n a d a//n o t x i//h a t o//i p a + t a + m o lʲ o + h i a//t i j u w a r e k a//a kʰ u//a n a"
@@ -4464,7 +4476,7 @@ graph [
     family_count 1
   ]
   node [
-    id 372
+    id 373
     label "FENCE"
     occurrences "clicsbp-huntergatherer-52-FENCE-1//clicsbp-idssegmented-goajiro-FENCE-1//clicsbp-idssegmented-ignaciano-FENCE-2//clicsbp-idssegmented-ignaciano-FENCE-1//clicsbp-idssegmented-trinitario-FENCE-1//clicsbp-idssegmented-wapishana-FENCE-1//clicsbp-idssegmented-waura-FENCE-1//clicsbp-idssegmented-yavitero-FENCE-1//clicsbp-idssegmented-yavitero-FENCE-2"
     words "k o r a a r a//k u lʲ a lʲ a//j u tʃ a m a//n a r e + tʃ e//j u tʃ m o//kʰ u r a r a//a ʒ a + t a p i//k u r a r a//k u l a lʲ a"
@@ -4476,7 +4488,7 @@ graph [
     family_count 1
   ]
   node [
-    id 373
+    id 374
     label "PESTLE"
     occurrences "clicsbp-huntergatherer-52-PESTLE-1//clicsbp-huntergatherer-57-PESTLE-1//clicsbp-huntergatherer-405-PESTLE-1//clicsbp-idssegmented-goajiro-PESTLE-1//clicsbp-idssegmented-mashcopiro-PESTLE-1//clicsbp-idssegmented-wapishana-PESTLE-1//clicsbp-idssegmented-waura-PESTLE-1//clicsbp-idssegmented-yavitero-PESTLE-1"
     words "t o tʰ i o k o//n a ts e//h a k o + r e tʰ i//i p e rⁿ a//h i t ɨ s tʃ i//d a ɨ r i ˀb a i//a n a + t ɨ//w i y a l̥ʲ i"
@@ -4488,7 +4500,7 @@ graph [
     family_count 1
   ]
   node [
-    id 374
+    id 375
     label "PLATE"
     occurrences "clicsbp-huntergatherer-52-PLATE-1//clicsbp-huntergatherer-57-PLATE-1//clicsbp-huntergatherer-405-PLATE-1//clicsbp-idssegmented-ignaciano-PLATE-1//clicsbp-idssegmented-trinitario-PLATE-1//clicsbp-idssegmented-trinitario-PLATE-2//clicsbp-idssegmented-wapishana-PLATE-1//clicsbp-idssegmented-waura-PLATE-1//clicsbp-idssegmented-waura-PLATE-2//clicsbp-idssegmented-yavitero-PLATE-1"
     words "p a r a t o//b a l a t w a h e//k a r o b o//k u r u h a//k uː h o//k r u h o//pʰ a r a pʰ i//m a k u l a + t ã i//p a r a t u//h a l a t u"
@@ -4500,7 +4512,7 @@ graph [
     family_count 1
   ]
   node [
-    id 375
+    id 376
     label "POT"
     occurrences "clicsbp-huntergatherer-52-POT-1//clicsbp-huntergatherer-57-POT-1//clicsbp-huntergatherer-405-POT-1"
     words "ts i p a l a a p i//t i n i h a l i t i//d o a d a"
@@ -4512,7 +4524,7 @@ graph [
     family_count 1
   ]
   node [
-    id 376
+    id 377
     label "SKIRT"
     occurrences "clicsbp-huntergatherer-52-SKIRT-1//clicsbp-idssegmented-ignaciano-SKIRT-1//clicsbp-idssegmented-trinitario-SKIRT-1//clicsbp-idssegmented-waura-SKIRT-1//clicsbp-idssegmented-yavitero-SKIRT-1"
     words "tsʰ aː j a//p u j e r a//p a ʔ e//p i s i//n a w a"
@@ -4524,7 +4536,7 @@ graph [
     family_count 1
   ]
   node [
-    id 377
+    id 378
     label "SOLDIER"
     occurrences "clicsbp-huntergatherer-52-SOLDIER-1//clicsbp-huntergatherer-57-SOLDIER-1//clicsbp-huntergatherer-405-SOLDIER-1//clicsbp-idssegmented-wapishana-SOLDIER-1//clicsbp-idssegmented-waura-SOLDIER-1//clicsbp-idssegmented-yavitero-SOLDIER-1"
     words "ts o r a a r a//s o r a r e//s o l d a r o//s u l d j aː//s i t a t u//tʃ u r u d a w a"
@@ -4536,7 +4548,7 @@ graph [
     family_count 1
   ]
   node [
-    id 378
+    id 379
     label "THATCH OR ROOF"
     occurrences "clicsbp-huntergatherer-52-THATCHORROOF-1//clicsbp-huntergatherer-57-THATCHORROOF-1//clicsbp-huntergatherer-405-THATCHORROOF-1"
     words "tː i ɲ a//k a l a n a//a d o"
@@ -4548,7 +4560,7 @@ graph [
     family_count 1
   ]
   node [
-    id 379
+    id 380
     label "BEESWAX"
     occurrences "clicsbp-huntergatherer-52-BEESWAX-1//clicsbp-huntergatherer-405-BEESWAX-1//clicsbp-idssegmented-goajiro-BEESWAX-1//clicsbp-idssegmented-ignaciano-BEESWAX-1//clicsbp-idssegmented-trinitario-BEESWAX-1//clicsbp-idssegmented-wapishana-BEESWAX-1//clicsbp-idssegmented-waura-BEESWAX-1//clicsbp-idssegmented-yavitero-BEESWAX-1"
     words "h i n a k o + l i k o m a pʰ e//p i m i tː i k a//m a p a + s e//m a p a + h i//m o pʰ u i//m a ˀb a i ˀb a//i j a p i//m a h a + tʃ i a"
@@ -4560,7 +4572,7 @@ graph [
     family_count 1
   ]
   node [
-    id 380
+    id 381
     label "CLOTHES"
     occurrences "clicsbp-huntergatherer-52-CLOTHES-1//clicsbp-huntergatherer-57-CLOTHES-1//clicsbp-huntergatherer-405-CLOTHES-1//clicsbp-idssegmented-goajiro-CLOTHES-1//clicsbp-idssegmented-ignaciano-CLOTHES-1//clicsbp-idssegmented-mashcopiro-CLOTHES-1//clicsbp-idssegmented-trinitario-CLOTHES-1//clicsbp-idssegmented-trinitario-CLOTHES-2//clicsbp-idssegmented-wapishana-CLOTHES-1//clicsbp-idssegmented-waura-CLOTHES-1//clicsbp-idssegmented-yavitero-CLOTHES-1"
     words "n a a n i//i m i t i//b o k o lʰ o//t a + ʃ eː i n//m u i r i ʔ a//m k a//m u iː ʔ o//j eː r u w o//kʰ a m i tʃʰ a + n//n a i//n a w a"
@@ -4572,7 +4584,7 @@ graph [
     family_count 1
   ]
   node [
-    id 381
+    id 382
     label "ABOVE"
     occurrences "clicsbp-huntergatherer-57-ABOVE-1//clicsbp-huntergatherer-405-ABOVE-1"
     words "h e n o//a d i"
@@ -4584,7 +4596,7 @@ graph [
     family_count 1
   ]
   node [
-    id 382
+    id 383
     label "DREAMING OR DREAM"
     occurrences "clicsbp-huntergatherer-57-DREAMINGORDREAM-1"
     words "k a i j i h i n i"
@@ -4596,7 +4608,7 @@ graph [
     family_count 1
   ]
   node [
-    id 383
+    id 384
     label "AGAIN"
     occurrences "clicsbp-huntergatherer-57-AGAIN-1//clicsbp-huntergatherer-405-AGAIN-1//clicsbp-idssegmented-goajiro-AGAIN-1//clicsbp-idssegmented-ignaciano-AGAIN-1//clicsbp-idssegmented-trinitario-AGAIN-1//clicsbp-idssegmented-wapishana-AGAIN-1//clicsbp-idssegmented-waura-AGAIN-2//clicsbp-idssegmented-waura-AGAIN-1//clicsbp-idssegmented-yavitero-AGAIN-1"
     words "h i t i j a//b a//h ɨ + tʃ i k u aː j a//a p a h e//a p e tʃʷ o//kʰ u ʃ a n//ɨ n a m a//m a//h a tʃ i n u w a"
@@ -4608,7 +4620,7 @@ graph [
     family_count 1
   ]
   node [
-    id 384
+    id 385
     label "GROUNDNUT (PEANUT)"
     occurrences "clicsbp-huntergatherer-57-GROUNDNUTPEANUT-1"
     words "k o l i k e"
@@ -4620,7 +4632,7 @@ graph [
     family_count 1
   ]
   node [
-    id 385
+    id 386
     label "CENTIPEDE"
     occurrences "clicsbp-huntergatherer-57-CENTIPEDE-1//clicsbp-huntergatherer-405-CENTIPEDE-1//clicsbp-idssegmented-goajiro-CENTIPEDE-1//clicsbp-idssegmented-ignaciano-CENTIPEDE-1//clicsbp-idssegmented-mashcopiro-CENTIPEDE-1//clicsbp-idssegmented-trinitario-CENTIPEDE-1//clicsbp-idssegmented-wapishana-CENTIPEDE-1//clicsbp-idssegmented-waura-CENTIPEDE-1"
     words "w a l a t a t a//b a i a b o//h a s i p a//t a i ɲ e + w a r e k e//p o n r o//t nʲ o s o p i//pʰ i ʃ i ˀb a ʔ i//u w i + ɨ + p a l a t ã"
@@ -4632,7 +4644,7 @@ graph [
     family_count 1
   ]
   node [
-    id 386
+    id 387
     label "MACHETE"
     occurrences "clicsbp-huntergatherer-57-MACHETE-1//clicsbp-huntergatherer-405-MACHETE-1"
     words "k e ts e + k a l o h o r e//k a s i p a r a"
@@ -4644,7 +4656,7 @@ graph [
     family_count 1
   ]
   node [
-    id 387
+    id 388
     label "PAPER"
     occurrences "clicsbp-huntergatherer-57-PAPER-1//clicsbp-huntergatherer-405-PAPER-1//clicsbp-idssegmented-goajiro-PAPER-1//clicsbp-idssegmented-ignaciano-PAPER-1//clicsbp-idssegmented-mashcopiro-PAPER-1//clicsbp-idssegmented-trinitario-PAPER-1//clicsbp-idssegmented-wapishana-PAPER-1//clicsbp-idssegmented-waura-PAPER-1//clicsbp-idssegmented-waura-PAPER-2//clicsbp-idssegmented-yavitero-PAPER-1"
     words "a n i t i//k a r t a//k a rⁿ a lʲ o u t a//a h u m e r u k a//k i r ɨ k a//ʔʲʰ u m e r u k o//kʰ a r i tʰ a//a t a + p a n a//ɨ n u p a + k i + tʃ a k u//h a h e l a"
@@ -4656,7 +4668,7 @@ graph [
     family_count 1
   ]
   node [
-    id 388
+    id 389
     label "SUGAR CANE"
     occurrences "clicsbp-huntergatherer-57-SUGARCANE-1//clicsbp-huntergatherer-405-SUGARCANE-1//clicsbp-idssegmented-goajiro-SUGARCANE-1//clicsbp-idssegmented-ignaciano-SUGARCANE-1//clicsbp-idssegmented-mashcopiro-SUGARCANE-1//clicsbp-idssegmented-trinitario-SUGARCANE-1//clicsbp-idssegmented-trinitario-SUGARCANE-2//clicsbp-idssegmented-wapishana-SUGARCANE-1//clicsbp-idssegmented-waura-SUGARCANE-1//clicsbp-idssegmented-yavitero-SUGARCANE-1"
     words "a s o k a//s i k a lʰ o//k a ɲ e rⁿ u ʃ i//a k u t e n a//p o tʃʷ a k s ɨ r ɨ//e k t e n r a h i//ʔ k u t e n o//kʰ a i w a r a//k a n a w ĩ j a//m i n d e lʲ e"
@@ -4668,7 +4680,7 @@ graph [
     family_count 1
   ]
   node [
-    id 389
+    id 390
     label "SHOE"
     occurrences "clicsbp-huntergatherer-57-SHOE-1//clicsbp-huntergatherer-405-SHOE-1//clicsbp-idssegmented-wapishana-SHOE-1//clicsbp-idssegmented-yavitero-SHOE-1"
     words "i k i j i t i n i//k o tʰ i k e//d a ʐ a kʰ i d i//tʃ a h a t u"
@@ -4680,7 +4692,7 @@ graph [
     family_count 1
   ]
   node [
-    id 390
+    id 391
     label "SONG"
     occurrences "clicsbp-huntergatherer-57-SONG-1//clicsbp-huntergatherer-405-SONG-1"
     words "i m a m a k a//j e n i"
@@ -4692,7 +4704,7 @@ graph [
     family_count 1
   ]
   node [
-    id 391
+    id 392
     label "WE (EXCLUSIVE)"
     occurrences "clicsbp-huntergatherer-405-WEEXCLUSIVE-1//clicsbp-idssegmented-wapishana-WEEXCLUSIVE-1//clicsbp-idssegmented-waura-WEEXCLUSIVE-1"
     words "w e//w a ɨ n a u//a i + tʃ u"
@@ -4704,7 +4716,7 @@ graph [
     family_count 1
   ]
   node [
-    id 392
+    id 393
     label "HORSE"
     occurrences "clicsbp-huntergatherer-405-HORSE-1//clicsbp-idssegmented-goajiro-HORSE-1//clicsbp-idssegmented-ignaciano-HORSE-1//clicsbp-idssegmented-trinitario-HORSE-1//clicsbp-idssegmented-wapishana-HORSE-1//clicsbp-idssegmented-waura-HORSE-1//clicsbp-idssegmented-yavitero-HORSE-1"
     words "k o a d o a + k o tʰ i r o//a m a//k a w a j u//kʷ o j u//kʰ a w a r u//t e m e + k u m a//k a w a j u"
@@ -4716,7 +4728,7 @@ graph [
     family_count 1
   ]
   node [
-    id 393
+    id 394
     label "INSECT"
     occurrences "clicsbp-huntergatherer-405-INSECT-1//clicsbp-idssegmented-goajiro-INSECT-1//clicsbp-idssegmented-waura-INSECT-1"
     words "m a j o r e n//w ɨ tʃ iː//j a k a w a k a"
@@ -4728,7 +4740,7 @@ graph [
     family_count 1
   ]
   node [
-    id 394
+    id 395
     label "FIREPLACE"
     occurrences "clicsbp-huntergatherer-405-FIREPLACE-1//clicsbp-idssegmented-goajiro-FIREPLACE-1//clicsbp-idssegmented-mashcopiro-FIREPLACE-1//clicsbp-idssegmented-mashcopiro-FIREPLACE-2//clicsbp-idssegmented-trinitario-FIREPLACE-1//clicsbp-idssegmented-wapishana-FIREPLACE-1//clicsbp-idssegmented-waura-FIREPLACE-1"
     words "i k i h i + s i kʷ a//t ɨ lʲ i k i + rⁿ uː//p a w a//tʃ i tʃ p a w a//w k u tʃ k o j o//tʰ i kʰ a ʐ i + w iː ʐ i//i tʃ e i + j ẽ p e"
@@ -4740,7 +4752,7 @@ graph [
     family_count 1
   ]
   node [
-    id 395
+    id 396
     label "PIPE"
     occurrences "clicsbp-huntergatherer-405-PIPE-1//clicsbp-idssegmented-mashcopiro-PIPE-1"
     words "p a i p a//k a ʃ i m p o"
@@ -4752,7 +4764,7 @@ graph [
     family_count 1
   ]
   node [
-    id 396
+    id 397
     label "SCHOOL"
     occurrences "clicsbp-huntergatherer-405-SCHOOL-1//clicsbp-idssegmented-goajiro-SCHOOL-1//clicsbp-idssegmented-yavitero-SCHOOL-1"
     words "m a lʰ i kʰ o t o a + s i k o a//e + k i rⁿ a + h ɨ lʲ e//k a n a i n t a + k a d e + m a l̥ʲ i k u j u"
@@ -4764,7 +4776,7 @@ graph [
     family_count 1
   ]
   node [
-    id 397
+    id 398
     label "LAND"
     occurrences "clicsbp-idssegmented-goajiro-LAND-1//clicsbp-idssegmented-ignaciano-LAND-2//clicsbp-idssegmented-ignaciano-LAND-1//clicsbp-idssegmented-mashcopiro-LAND-1//clicsbp-idssegmented-trinitario-LAND-1//clicsbp-idssegmented-wapishana-LAND-1//clicsbp-idssegmented-waura-LAND-1//clicsbp-idssegmented-yavitero-LAND-1"
     words "mː a//a p a k e ʔ e//m a t e h i//tʃ i x i//ʔ p o ɣ ʔ e//a m a ʐ a ˀd a//k e h ɨ + t ɨ//k a h a tʃ i"
@@ -4776,7 +4788,7 @@ graph [
     family_count 1
   ]
   node [
-    id 398
+    id 399
     label "COUNTRY"
     occurrences "clicsbp-idssegmented-goajiro-COUNTRY-1//clicsbp-idssegmented-ignaciano-COUNTRY-1//clicsbp-idssegmented-ignaciano-COUNTRY-2//clicsbp-idssegmented-wapishana-COUNTRY-1//clicsbp-idssegmented-waura-COUNTRY-1"
     words "mː a//a w a p a i r u//a w a s a//w iː ʐ a i//k e h ɨ + t ɨ"
@@ -4788,7 +4800,7 @@ graph [
     family_count 1
   ]
   node [
-    id 399
+    id 400
     label "MUD"
     occurrences "clicsbp-idssegmented-goajiro-MUD-1//clicsbp-idssegmented-ignaciano-MUD-1//clicsbp-idssegmented-mashcopiro-MUD-1//clicsbp-idssegmented-mashcopiro-MUD-2//clicsbp-idssegmented-trinitario-MUD-1//clicsbp-idssegmented-wapishana-MUD-1//clicsbp-idssegmented-waura-MUD-1//clicsbp-idssegmented-yavitero-MUD-1"
     words "p oː t ʃ i//t i u r a h i//k a x p a//x p a//tʲ u r a h i//ˀd a r i//k a p u tʃ e tʃ e k e k i//j a i n i"
@@ -4800,7 +4812,7 @@ graph [
     family_count 1
   ]
   node [
-    id 400
+    id 401
     label "CLAY"
     occurrences "clicsbp-idssegmented-goajiro-CLAY-1//clicsbp-idssegmented-ignaciano-CLAY-1//clicsbp-idssegmented-mashcopiro-CLAY-1//clicsbp-idssegmented-mashcopiro-CLAY-2//clicsbp-idssegmented-trinitario-CLAY-1//clicsbp-idssegmented-wapishana-CLAY-1//clicsbp-idssegmented-waura-CLAY-1//clicsbp-idssegmented-waura-CLAY-2//clicsbp-idssegmented-yavitero-CLAY-1"
     words "p oː t ʃ i//t i u r a h i//t a w n a//t a ʃ i//tʲ u r a h i//kʰ ɨˀ b a i//k a m a l u//t ɨ p e p e//j a i n i"
@@ -4812,7 +4824,7 @@ graph [
     family_count 1
   ]
   node [
-    id 401
+    id 402
     label "PLAIN"
     occurrences "clicsbp-idssegmented-goajiro-PLAIN-1//clicsbp-idssegmented-ignaciano-PLAIN-1//clicsbp-idssegmented-trinitario-PLAIN-1//clicsbp-idssegmented-wapishana-PLAIN-1//clicsbp-idssegmented-yavitero-PLAIN-1"
     words "p a t a h a t ʃ iː//w a m a ʔ i//w o m ʔ i//ˀb a r a ʐ i//m a t e h u lʲ i"
@@ -4824,7 +4836,7 @@ graph [
     family_count 1
   ]
   node [
-    id 402
+    id 403
     label "SHORE"
     occurrences "clicsbp-idssegmented-goajiro-SHORE-1//clicsbp-idssegmented-ignaciano-SHORE-1//clicsbp-idssegmented-mashcopiro-SHORE-1//clicsbp-idssegmented-trinitario-SHORE-1//clicsbp-idssegmented-wapishana-SHORE-1//clicsbp-idssegmented-waura-SHORE-1"
     words "p a lʲ aː + i m a//a p a tʃ a r a//w a k a n ɨ//t a tʃ o tʃ o k u//w ɨ n ɨ d a n u m//w a k u + p e n u"
@@ -4836,7 +4848,7 @@ graph [
     family_count 1
   ]
   node [
-    id 403
+    id 404
     label "CAVE"
     occurrences "clicsbp-idssegmented-goajiro-CAVE-1//clicsbp-idssegmented-ignaciano-CAVE-1//clicsbp-idssegmented-mashcopiro-CAVE-1//clicsbp-idssegmented-mashcopiro-CAVE-2//clicsbp-idssegmented-trinitario-CAVE-1//clicsbp-idssegmented-wapishana-CAVE-1//clicsbp-idssegmented-waura-CAVE-1//clicsbp-idssegmented-yavitero-CAVE-1"
     words "k o + ʔ u + ʃ iː//t a p e n a//m a h k a//k a p n a//p e n o//ɨ n a//t ɨ p a + k a n a//h a n i l̥ʲ i"
@@ -4848,7 +4860,7 @@ graph [
     family_count 1
   ]
   node [
-    id 404
+    id 405
     label "FOAM"
     occurrences "clicsbp-idssegmented-goajiro-FOAM-1//clicsbp-idssegmented-ignaciano-FOAM-1//clicsbp-idssegmented-mashcopiro-FOAM-1//clicsbp-idssegmented-trinitario-FOAM-1//clicsbp-idssegmented-wapishana-FOAM-1//clicsbp-idssegmented-waura-FOAM-1//clicsbp-idssegmented-yavitero-FOAM-1"
     words "h ɨ + t o lʲ o + i n//t a r i s a s a//s o lʲ i//t a r i sː o h i//ˀb u ʐ u w a n//h e p e//k a w i"
@@ -4860,7 +4872,7 @@ graph [
     family_count 1
   ]
   node [
-    id 405
+    id 406
     label "WAVE"
     occurrences "clicsbp-idssegmented-goajiro-WAVE-1//clicsbp-idssegmented-ignaciano-WAVE-1//clicsbp-idssegmented-mashcopiro-WAVE-1//clicsbp-idssegmented-trinitario-WAVE-1//clicsbp-idssegmented-wapishana-WAVE-1//clicsbp-idssegmented-waura-WAVE-1//clicsbp-idssegmented-yavitero-WAVE-1"
     words "h ɨ + ʃ i + p a lʲ aː//t e p a k u k a//ʃ p ɨ rʰ a//t a p k uː ʔ o//w ɨ n ɨ + pʰ a r a n//h u k u l a//s i l u lʲ i t a m i"
@@ -4872,7 +4884,7 @@ graph [
     family_count 1
   ]
   node [
-    id 406
+    id 407
     label "FLOWING BODY OF WATER"
     occurrences "clicsbp-idssegmented-goajiro-FLOWINGBODYOFWATER-1//clicsbp-idssegmented-ignaciano-FLOWINGBODYOFWATER-1//clicsbp-idssegmented-mashcopiro-FLOWINGBODYOFWATER-1//clicsbp-idssegmented-mashcopiro-FLOWINGBODYOFWATER-2//clicsbp-idssegmented-trinitario-FLOWINGBODYOFWATER-1//clicsbp-idssegmented-wapishana-FLOWINGBODYOFWATER-1//clicsbp-idssegmented-waura-FLOWINGBODYOFWATER-1//clicsbp-idssegmented-yavitero-FLOWINGBODYOFWATER-1"
     words "w ɨ i n + p a lʲ a + t ɨ + s ɨ//k a h a k u r e//w e n ɨ//h a pʰ a//kʰ o k r e//w a ʔ u ʐ i//w e n e//w e n i"
@@ -4884,7 +4896,7 @@ graph [
     family_count 1
   ]
   node [
-    id 407
+    id 408
     label "SPRING OR WELL"
     occurrences "clicsbp-idssegmented-goajiro-SPRINGORWELL-1//clicsbp-idssegmented-ignaciano-SPRINGORWELL-1//clicsbp-idssegmented-ignaciano-SPRINGORWELL-2//clicsbp-idssegmented-trinitario-SPRINGORWELL-1//clicsbp-idssegmented-wapishana-SPRINGORWELL-1//clicsbp-idssegmented-yavitero-SPRINGORWELL-1"
     words "i ʃ i//s e k a k u//e k e//s k o k u//m u w a ʔ ɨ n//p o s o"
@@ -4896,7 +4908,7 @@ graph [
     family_count 1
   ]
   node [
-    id 408
+    id 409
     label "FOREST"
     occurrences "clicsbp-idssegmented-goajiro-FOREST-1//clicsbp-idssegmented-ignaciano-FOREST-1//clicsbp-idssegmented-mashcopiro-FOREST-1//clicsbp-idssegmented-trinitario-FOREST-1//clicsbp-idssegmented-wapishana-FOREST-1//clicsbp-idssegmented-waura-FOREST-1//clicsbp-idssegmented-yavitero-FOREST-1"
     words "m o h uː i//s i m e n a//h o ʃ a//s m e n o//kʰ a n u kʰ u//u k u w ĩ//a w a tʃ i"
@@ -4908,7 +4920,7 @@ graph [
     family_count 1
   ]
   node [
-    id 409
+    id 410
     label "PASTURE"
     occurrences "clicsbp-idssegmented-goajiro-PASTURE-1//clicsbp-idssegmented-wapishana-PASTURE-1//clicsbp-idssegmented-waura-PASTURE-1//clicsbp-idssegmented-yavitero-PASTURE-1"
     words "m o h uː i//ĩ + a r u w a pʰ a + kʰ i ʐ//a t a + k a h ɨ + t a k u//j e w a lʲ i"
@@ -4920,7 +4932,7 @@ graph [
     family_count 1
   ]
   node [
-    id 410
+    id 411
     label "PLANT (VEGETATION)"
     occurrences "clicsbp-idssegmented-goajiro-PLANTVEGETATION-1//clicsbp-idssegmented-ignaciano-PLANTVEGETATION-1//clicsbp-idssegmented-mashcopiro-PLANTVEGETATION-1//clicsbp-idssegmented-trinitario-PLANTVEGETATION-1//clicsbp-idssegmented-trinitario-PLANTVEGETATION-2//clicsbp-idssegmented-wapishana-PLANTVEGETATION-1"
     words "m o h uː i//e t a h u e k u//h i t a + k a//s u k r e//s k u r e k o//pʰ a u + r i ˀb a i"
@@ -4932,7 +4944,7 @@ graph [
     family_count 1
   ]
   node [
-    id 411
+    id 412
     label "WOOD"
     occurrences "clicsbp-idssegmented-goajiro-WOOD-1//clicsbp-idssegmented-ignaciano-WOOD-1//clicsbp-idssegmented-mashcopiro-WOOD-2//clicsbp-idssegmented-mashcopiro-WOOD-1//clicsbp-idssegmented-trinitario-WOOD-1//clicsbp-idssegmented-trinitario-WOOD-2//clicsbp-idssegmented-wapishana-WOOD-1//clicsbp-idssegmented-waura-WOOD-1//clicsbp-idssegmented-yavitero-WOOD-1"
     words "w u n u ʔ u//j u k u k i//m ɨ n a//h a h + m ɨ n a//w k u ɣ i//j k u ɣ i//a tʰ a m ɨ n ɨ//a t a//a t a"
@@ -4944,7 +4956,7 @@ graph [
     family_count 1
   ]
   node [
-    id 412
+    id 413
     label "MEDICINE"
     occurrences "clicsbp-idssegmented-goajiro-MEDICINE-1//clicsbp-idssegmented-ignaciano-MEDICINE-1//clicsbp-idssegmented-ignaciano-MEDICINE-2//clicsbp-idssegmented-mashcopiro-MEDICINE-1//clicsbp-idssegmented-mashcopiro-MEDICINE-2//clicsbp-idssegmented-trinitario-MEDICINE-1//clicsbp-idssegmented-trinitario-MEDICINE-2//clicsbp-idssegmented-wapishana-MEDICINE-1//clicsbp-idssegmented-waura-MEDICINE-1//clicsbp-idssegmented-yavitero-MEDICINE-1"
     words "w u n u ʔ u//i p u r u h i//i p u r u h i//p i n i//p i n r ɨ//i p r u h i//ʔ p uː h i//kʰ a s a r a i//tʲ a n a l a//h i n a h a + l̥ʲ i"
@@ -4956,7 +4968,7 @@ graph [
     family_count 1
   ]
   node [
-    id 413
+    id 414
     label "POISON"
     occurrences "clicsbp-idssegmented-goajiro-POISON-1//clicsbp-idssegmented-ignaciano-POISON-1//clicsbp-idssegmented-trinitario-POISON-1//clicsbp-idssegmented-trinitario-POISON-2//clicsbp-idssegmented-wapishana-POISON-1//clicsbp-idssegmented-waura-POISON-1//clicsbp-idssegmented-waura-POISON-2//clicsbp-idssegmented-yavitero-POISON-1"
     words "w u n u ʔ u//t a m a t i//ʔ m o t i//m o t i + w o//m a u w a kʰ a + kʰ i n a i//j u k u w a//a + j u k u w a + t a//w i j u a lʲ i"
@@ -4968,7 +4980,7 @@ graph [
     family_count 1
   ]
   node [
-    id 414
+    id 415
     label "STONE OR ROCK"
     occurrences "clicsbp-idssegmented-goajiro-STONEORROCK-1//clicsbp-idssegmented-ignaciano-STONEORROCK-1//clicsbp-idssegmented-ignaciano-STONEORROCK-2//clicsbp-idssegmented-mashcopiro-STONEORROCK-1//clicsbp-idssegmented-trinitario-STONEORROCK-1//clicsbp-idssegmented-trinitario-STONEORROCK-2//clicsbp-idssegmented-wapishana-STONEORROCK-1//clicsbp-idssegmented-waura-STONEORROCK-1//clicsbp-idssegmented-yavitero-STONEORROCK-1"
     words "i p a//m a r i//m a r i + h a ʔ i//s o t lʲ ɨ//m a r i//m a r i + h a ʔ i//kʰ ɨˀ b a//t ɨ p a//s i h a"
@@ -4980,7 +4992,7 @@ graph [
     family_count 1
   ]
   node [
-    id 415
+    id 416
     label "MONTH"
     occurrences "clicsbp-idssegmented-goajiro-MONTH-1//clicsbp-idssegmented-ignaciano-MONTH-1//clicsbp-idssegmented-mashcopiro-MONTH-1//clicsbp-idssegmented-trinitario-MONTH-2//clicsbp-idssegmented-trinitario-MONTH-1//clicsbp-idssegmented-wapishana-MONTH-1//clicsbp-idssegmented-waura-MONTH-1//clicsbp-idssegmented-yavitero-MONTH-1"
     words "k a ʃ i//k a h e//k s ɨ + r ɨ//k o h e//k o h e + r a//kʰ a ɨ ʐ ɨ//k e ʒ ɨ//k e lʲ i"
@@ -4992,7 +5004,7 @@ graph [
     family_count 1
   ]
   node [
-    id 416
+    id 417
     label "BOLT (OF LIGHTNING)"
     occurrences "clicsbp-idssegmented-goajiro-BOLTOFLIGHTNING-1//clicsbp-idssegmented-ignaciano-BOLTOFLIGHTNING-1//clicsbp-idssegmented-trinitario-BOLTOFLIGHTNING-1//clicsbp-idssegmented-wapishana-BOLTOFLIGHTNING-1//clicsbp-idssegmented-waura-BOLTOFLIGHTNING-1//clicsbp-idssegmented-yavitero-BOLTOFLIGHTNING-1"
     words "h a + ʔ a p ɨ lʲ a + ʔ ɨ + h u j a//e m a r e r e//e tʃ tʃ a r a k o//tʰ u r u w a n a r ɨ + pʰ i ʐ u w a + n//j a m i r u k a//i j e + e n u"
@@ -5004,7 +5016,7 @@ graph [
     family_count 1
   ]
   node [
-    id 417
+    id 418
     label "LIGHT (RADIATION)"
     occurrences "clicsbp-idssegmented-goajiro-LIGHTRADIATION-1//clicsbp-idssegmented-ignaciano-LIGHTRADIATION-1//clicsbp-idssegmented-ignaciano-LIGHTRADIATION-2//clicsbp-idssegmented-mashcopiro-LIGHTRADIATION-1//clicsbp-idssegmented-trinitario-LIGHTRADIATION-1//clicsbp-idssegmented-trinitario-LIGHTRADIATION-2//clicsbp-idssegmented-wapishana-LIGHTRADIATION-1//clicsbp-idssegmented-waura-LIGHTRADIATION-1//clicsbp-idssegmented-yavitero-LIGHTRADIATION-1"
     words "h ɨ + w a rⁿ a lʲ a//m i k a u tʃ a//t i h a r a ʔ i//p o + k a m lʲ a + lʲ ɨ//m e tʃ a//m i k ʔ u//kʰ a nˀ d a + ʔ u//m u w ĩ//k a m u n a h a + l i"
@@ -5016,7 +5028,7 @@ graph [
     family_count 1
   ]
   node [
-    id 418
+    id 419
     label "DARKNESS"
     occurrences "clicsbp-idssegmented-goajiro-DARKNESS-1//clicsbp-idssegmented-ignaciano-DARKNESS-1//clicsbp-idssegmented-mashcopiro-DARKNESS-1//clicsbp-idssegmented-mashcopiro-DARKNESS-2//clicsbp-idssegmented-trinitario-DARKNESS-1//clicsbp-idssegmented-trinitario-DARKNESS-2//clicsbp-idssegmented-wapishana-DARKNESS-1//clicsbp-idssegmented-waura-DARKNESS-1//clicsbp-idssegmented-yavitero-DARKNESS-1"
     words "p u j uː ʃ i//t i m a p i k u//j a tʃʰ e//j a tʃ n e w lʲ ɨ//m o p k u//t a m o p k u w o//m a r ɨ tʰ a + ʔ u//m u t ɨ ɣ a + k i + j a//m a l̥ e t e + h i"
@@ -5028,7 +5040,7 @@ graph [
     family_count 1
   ]
   node [
-    id 419
+    id 420
     label "SHADE"
     occurrences "clicsbp-idssegmented-goajiro-SHADE-1//clicsbp-idssegmented-goajiro-SHADE-2//clicsbp-idssegmented-ignaciano-SHADE-1//clicsbp-idssegmented-mashcopiro-SHADE-1//clicsbp-idssegmented-mashcopiro-SHADE-2//clicsbp-idssegmented-trinitario-SHADE-1//clicsbp-idssegmented-wapishana-SHADE-1//clicsbp-idssegmented-waura-SHADE-1//clicsbp-idssegmented-waura-SHADE-2//clicsbp-idssegmented-yavitero-SHADE-1"
     words "h a m ɨ j o u ʃ i//h ɨ + j o lʲ u h a//a w i tʃ a//m a j a w lʲ ɨ//tʃ i k lʲ e//t k a w i//ˀd i kʰ i n//j a k u l a//m a l a t a//n e k a m i"
@@ -5040,7 +5052,7 @@ graph [
     family_count 1
   ]
   node [
-    id 420
+    id 421
     label "DEW"
     occurrences "clicsbp-idssegmented-goajiro-DEW-1//clicsbp-idssegmented-ignaciano-DEW-1//clicsbp-idssegmented-mashcopiro-DEW-1//clicsbp-idssegmented-trinitario-DEW-1//clicsbp-idssegmented-wapishana-DEW-1//clicsbp-idssegmented-waura-DEW-1//clicsbp-idssegmented-yavitero-DEW-1"
     words "h oː h o t ʃ i//i j a r u//j a ts ɨ n ɨ//ʔ j o r u//ˀb a ʃ i ʐ u//j a s i u k a//s e r e n u"
@@ -5052,7 +5064,7 @@ graph [
     family_count 1
   ]
   node [
-    id 421
+    id 422
     label "YEAR"
     occurrences "clicsbp-idssegmented-goajiro-YEAR-1//clicsbp-idssegmented-ignaciano-YEAR-1//clicsbp-idssegmented-ignaciano-YEAR-2//clicsbp-idssegmented-mashcopiro-YEAR-1//clicsbp-idssegmented-trinitario-YEAR-1//clicsbp-idssegmented-wapishana-YEAR-1//clicsbp-idssegmented-waura-YEAR-1//clicsbp-idssegmented-yavitero-YEAR-1"
     words "h u j a//a ɲ u//a ɲ u p a//w a lʲ a p ɨ//a nʲ u//w ɨ n ɨ//k a m ɨ + k a//k a m u l̥ʲ i a lʲ i"
@@ -5064,7 +5076,7 @@ graph [
     family_count 1
   ]
   node [
-    id 422
+    id 423
     label "FLAME"
     occurrences "clicsbp-idssegmented-goajiro-FLAME-1//clicsbp-idssegmented-mashcopiro-FLAME-1//clicsbp-idssegmented-trinitario-FLAME-1//clicsbp-idssegmented-wapishana-FLAME-1"
     words "h ɨ + tʃ u w a + lʲ a//k a t m e r o lʲ ɨ//n e n e + j u k u//tʰ i kʰ a ʐ + m a uˀ d a + pʰ a + n"
@@ -5076,7 +5088,7 @@ graph [
     family_count 1
   ]
   node [
-    id 423
+    id 424
     label "EMBERS"
     occurrences "clicsbp-idssegmented-goajiro-EMBERS-1//clicsbp-idssegmented-ignaciano-EMBERS-1//clicsbp-idssegmented-mashcopiro-EMBERS-1//clicsbp-idssegmented-mashcopiro-EMBERS-2//clicsbp-idssegmented-trinitario-EMBERS-1//clicsbp-idssegmented-wapishana-EMBERS-1//clicsbp-idssegmented-yavitero-EMBERS-1"
     words "s i k + e m e tʃ a//e m a n i k i//tʃ i tʃ + m e r o//m e r o//t a m o n i//tʰ i kʰ a ʐ i + tʰ i r i ʐ i//k a l̥ʲ i + h u lʲ i s i"
@@ -5088,7 +5100,7 @@ graph [
     family_count 1
   ]
   node [
-    id 424
+    id 425
     label "BURN (SOMETHING)"
     occurrences "clicsbp-idssegmented-goajiro-BURNSOMETHING-1//clicsbp-idssegmented-ignaciano-BURNSOMETHING-1//clicsbp-idssegmented-ignaciano-BURNSOMETHING-2//clicsbp-idssegmented-mashcopiro-BURNSOMETHING-1//clicsbp-idssegmented-mashcopiro-BURNSOMETHING-2//clicsbp-idssegmented-trinitario-BURNSOMETHING-1//clicsbp-idssegmented-trinitario-BURNSOMETHING-2//clicsbp-idssegmented-wapishana-BURNSOMETHING-1//clicsbp-idssegmented-waura-BURNSOMETHING-1//clicsbp-idssegmented-yavitero-BURNSOMETHING-1"
     words "a + ʔ a + h a + a//k a m u r u k a//i h u + tʃ a//h a p k a h a//h a lʲʰ a//n i k o//j u s t a k o//kʰ a ʔ a uˀ d a + n//u s i tʲ a + t a//k a h a"
@@ -5100,7 +5112,7 @@ graph [
     family_count 1
   ]
   node [
-    id 425
+    id 426
     label "BURNING"
     occurrences "clicsbp-idssegmented-goajiro-BURNING-1//clicsbp-idssegmented-ignaciano-BURNING-1//clicsbp-idssegmented-trinitario-BURNING-1//clicsbp-idssegmented-wapishana-BURNING-1//clicsbp-idssegmented-waura-BURNING-1//clicsbp-idssegmented-yavitero-BURNING-1"
     words "h o + t o + o//m u r u//r iː k o//kʰ a ʔ a w a + n//u s i tʲ a//h u k u a"
@@ -5112,7 +5124,7 @@ graph [
     family_count 1
   ]
   node [
-    id 426
+    id 427
     label "LIGHT (IGNITE)"
     occurrences "clicsbp-idssegmented-goajiro-LIGHTIGNITE-1//clicsbp-idssegmented-ignaciano-LIGHTIGNITE-1//clicsbp-idssegmented-ignaciano-LIGHTIGNITE-2//clicsbp-idssegmented-mashcopiro-LIGHTIGNITE-1//clicsbp-idssegmented-mashcopiro-LIGHTIGNITE-2//clicsbp-idssegmented-trinitario-LIGHTIGNITE-1//clicsbp-idssegmented-wapishana-LIGHTIGNITE-1//clicsbp-idssegmented-waura-LIGHTIGNITE-1//clicsbp-idssegmented-yavitero-LIGHTIGNITE-1"
     words "a + tʃ u w a + h aː + aː//a p a h u a k a//k a m u r u a k a//tʲ i r i k a//tʲ i r n a//p o h k o//m a uˀ d a + kʰ i ˀd a + n//t ɨ ʒ a k a//j u t e t a"
@@ -5124,7 +5136,7 @@ graph [
     family_count 1
   ]
   node [
-    id 427
+    id 428
     label "MALE (OF PERSON)"
     occurrences "clicsbp-idssegmented-goajiro-MALEOFPERSON-1//clicsbp-idssegmented-ignaciano-MALEOFPERSON-1//clicsbp-idssegmented-trinitario-MALEOFPERSON-1//clicsbp-idssegmented-wapishana-MALEOFPERSON-1//clicsbp-idssegmented-waura-MALEOFPERSON-1//clicsbp-idssegmented-yavitero-MALEOFPERSON-1"
     words "t oː lʲ o//a h a i r a//ʔʰ i r o//ˀd a u n a i u r a//ʒ ɨ//j u w i + n a h a"
@@ -5136,7 +5148,7 @@ graph [
     family_count 1
   ]
   node [
-    id 428
+    id 429
     label "MALE (OF ANIMAL)"
     occurrences "clicsbp-idssegmented-goajiro-MALEOFANIMAL-1//clicsbp-idssegmented-wapishana-MALEOFANIMAL-1"
     words "t oː lʲ o//kʰ a ʐ u tʰ i"
@@ -5148,7 +5160,7 @@ graph [
     family_count 1
   ]
   node [
-    id 429
+    id 430
     label "FEMALE (OF PERSON)"
     occurrences "clicsbp-idssegmented-goajiro-FEMALEOFPERSON-1//clicsbp-idssegmented-ignaciano-FEMALEOFPERSON-1//clicsbp-idssegmented-wapishana-FEMALEOFPERSON-1//clicsbp-idssegmented-waura-FEMALEOFPERSON-1//clicsbp-idssegmented-waura-FEMALEOFPERSON-2//clicsbp-idssegmented-waura-FEMALEOFPERSON-3//clicsbp-idssegmented-yavitero-FEMALEOFPERSON-1"
     words "h i e rⁿ ɨ//e s e n a//ʐ ɨ n a//n e ʒ u//l u//ʒ u//j u w i + s i"
@@ -5160,7 +5172,7 @@ graph [
     family_count 1
   ]
   node [
-    id 430
+    id 431
     label "FEMALE (OF ANIMAL)"
     occurrences "clicsbp-idssegmented-goajiro-FEMALEOFANIMAL-1//clicsbp-idssegmented-wapishana-FEMALEOFANIMAL-1"
     words "h i e rⁿ ɨ//ʐ ɨ n a"
@@ -5172,7 +5184,7 @@ graph [
     family_count 1
   ]
   node [
-    id 431
+    id 432
     label "BOY"
     occurrences "clicsbp-idssegmented-goajiro-BOY-1//clicsbp-idssegmented-ignaciano-BOY-1//clicsbp-idssegmented-mashcopiro-BOY-1//clicsbp-idssegmented-wapishana-BOY-1//clicsbp-idssegmented-waura-BOY-1//clicsbp-idssegmented-yavitero-BOY-1"
     words "t e p i tʃ i//a m a p e r u//h e xʰ a//ˀd a u n a i u r a//e n ɨ ʒ a + t ã i//m a l̥ʲ i a n i"
@@ -5184,7 +5196,7 @@ graph [
     family_count 1
   ]
   node [
-    id 432
+    id 433
     label "GIRL"
     occurrences "clicsbp-idssegmented-goajiro-GIRL-1//clicsbp-idssegmented-ignaciano-GIRL-1//clicsbp-idssegmented-wapishana-GIRL-1//clicsbp-idssegmented-wapishana-GIRL-2//clicsbp-idssegmented-waura-GIRL-1"
     words "t e p i tʃ i//a m a p e r u//ʐ ɨ n a//ʐ ɨ n//t ɨ + n e ʒ u + t ã i"
@@ -5196,7 +5208,7 @@ graph [
     family_count 1
   ]
   node [
-    id 433
+    id 434
     label "YOUNG MAN"
     occurrences "clicsbp-idssegmented-goajiro-YOUNGMAN-1//clicsbp-idssegmented-ignaciano-YOUNGMAN-1//clicsbp-idssegmented-ignaciano-YOUNGMAN-2//clicsbp-idssegmented-mashcopiro-YOUNGMAN-1//clicsbp-idssegmented-trinitario-YOUNGMAN-1//clicsbp-idssegmented-wapishana-YOUNGMAN-1//clicsbp-idssegmented-waura-YOUNGMAN-1//clicsbp-idssegmented-yavitero-YOUNGMAN-1"
     words "h i m a ʔ a i//a m a p e r u//ʃ u i m a//m a k lʲ ɨ x i//ʔ r e t o n a//tʰ u m i n a r ɨ//j a m u k u + t ɨ + p a//m a l̥ʲ i a n i"
@@ -5208,7 +5220,7 @@ graph [
     family_count 1
   ]
   node [
-    id 434
+    id 435
     label "YOUNG WOMAN"
     occurrences "clicsbp-idssegmented-goajiro-YOUNGWOMAN-1//clicsbp-idssegmented-ignaciano-YOUNGWOMAN-1//clicsbp-idssegmented-ignaciano-YOUNGWOMAN-2//clicsbp-idssegmented-mashcopiro-YOUNGWOMAN-1//clicsbp-idssegmented-mashcopiro-YOUNGWOMAN-2//clicsbp-idssegmented-trinitario-YOUNGWOMAN-1//clicsbp-idssegmented-wapishana-YOUNGWOMAN-1//clicsbp-idssegmented-waura-YOUNGWOMAN-1"
     words "m a h a j ɨ lʲ ɨ//a m a p e r u//ʃ i p u//mʰ a n ɨ r ɨ t o//m k a p j a lʲ o//ʔ tʃ e n o//m a w ɨ s a//j a m u k u + t ɨ + p a + l u"
@@ -5220,7 +5232,7 @@ graph [
     family_count 1
   ]
   node [
-    id 435
+    id 436
     label "MARRY"
     occurrences "clicsbp-idssegmented-goajiro-MARRY-1//clicsbp-idssegmented-ignaciano-MARRY-1//clicsbp-idssegmented-ignaciano-MARRY-2//clicsbp-idssegmented-mashcopiro-MARRY-1//clicsbp-idssegmented-trinitario-MARRY-1//clicsbp-idssegmented-wapishana-MARRY-1//clicsbp-idssegmented-waura-MARRY-1//clicsbp-idssegmented-yavitero-MARRY-1"
     words "k a + ʔʷ a j uː + s e + e//k a p a r a p e//i t a u tʃ a w a//k a ʃ i m j o t a//i t u tʃʷ o//m a ʐ i ˀd a + n//k e + m e ʒ ɨ//k a tʃ a"
@@ -5232,7 +5244,7 @@ graph [
     family_count 1
   ]
   node [
-    id 436
+    id 437
     label "PATERNAL UNCLE (FATHER'S BROTHER)"
     occurrences "clicsbp-idssegmented-goajiro-PATERNALUNCLEFATHERSBROTHER-1//clicsbp-idssegmented-wapishana-PATERNALUNCLEFATHERSBROTHER-1//clicsbp-idssegmented-waura-PATERNALUNCLEFATHERSBROTHER-2//clicsbp-idssegmented-waura-PATERNALUNCLEFATHERSBROTHER-1"
     words "t a + ʃ i//pʰ aː pʰ a i//ʒ ɨ//p a p a"
@@ -5244,7 +5256,7 @@ graph [
     family_count 1
   ]
   node [
-    id 437
+    id 438
     label "PATERNAL AUNT (FATHER'S SISTER)"
     occurrences "clicsbp-idssegmented-goajiro-PATERNALAUNTFATHERSSISTER-1//clicsbp-idssegmented-wapishana-PATERNALAUNTFATHERSSISTER-1//clicsbp-idssegmented-waura-PATERNALAUNTFATHERSSISTER-1"
     words "t e + i//w a ʔ a n ɨː//a k ɨ"
@@ -5256,7 +5268,7 @@ graph [
     family_count 1
   ]
   node [
-    id 438
+    id 439
     label "MARRIED MAN"
     occurrences "clicsbp-idssegmented-goajiro-MARRIEDMAN-1//clicsbp-idssegmented-wapishana-MARRIEDMAN-1//clicsbp-idssegmented-waura-MARRIEDMAN-1//clicsbp-idssegmented-yavitero-MARRIEDMAN-1"
     words "k a + ʔʷ a j uː + s e + ʃ i//m a ʐ i ˀd a + ʔ u//k a + n u + k i + j a//k a + h i l̥ʲ u + d a lʲ u"
@@ -5268,7 +5280,7 @@ graph [
     family_count 1
   ]
   node [
-    id 439
+    id 440
     label "MARRIED WOMAN"
     occurrences "clicsbp-idssegmented-goajiro-MARRIEDWOMAN-1//clicsbp-idssegmented-wapishana-MARRIEDWOMAN-1//clicsbp-idssegmented-waura-MARRIEDWOMAN-1//clicsbp-idssegmented-yavitero-MARRIEDWOMAN-1"
     words "k a + ʔʷ a j uː + s e + s ɨ//m a ʐ i ˀd a i + ˀb a//k e + m e ʒ ɨ + k i + j a + l u//k a + t a n i + d a lʲ u"
@@ -5280,7 +5292,7 @@ graph [
     family_count 1
   ]
   node [
-    id 440
+    id 441
     label "SON"
     occurrences "clicsbp-idssegmented-goajiro-SON-1//clicsbp-idssegmented-ignaciano-SON-1//clicsbp-idssegmented-ignaciano-SON-2//clicsbp-idssegmented-mashcopiro-SON-1//clicsbp-idssegmented-mashcopiro-SON-2//clicsbp-idssegmented-trinitario-SON-1//clicsbp-idssegmented-wapishana-SON-1//clicsbp-idssegmented-waura-SON-1//clicsbp-idssegmented-yavitero-SON-1"
     words "t a + tʃ o n//e m a + tʃ i tʃ a//e ɲ i + tʃ i tʃ a//t ɨ r ɨ//h i t ɨ r ɨ//tʃ i tʃ a//ˀd a n i//t ã i//t a i n + t a n i"
@@ -5292,7 +5304,7 @@ graph [
     family_count 1
   ]
   node [
-    id 441
+    id 442
     label "DAUGHTER"
     occurrences "clicsbp-idssegmented-goajiro-DAUGHTER-1//clicsbp-idssegmented-ignaciano-DAUGHTER-1//clicsbp-idssegmented-mashcopiro-DAUGHTER-1//clicsbp-idssegmented-mashcopiro-DAUGHTER-2//clicsbp-idssegmented-trinitario-DAUGHTER-1//clicsbp-idssegmented-wapishana-DAUGHTER-1//clicsbp-idssegmented-waura-DAUGHTER-1//clicsbp-idssegmented-yavitero-DAUGHTER-1"
     words "t a + tʃ o n//e s u + tʃ i tʃ a//ʃ i tʃ o//n ʃ i tʃ o//tʃ i tʃ a//ˀd a n i + ˀb a//i tʃ u + p a + l u//t a n i m i"
@@ -5304,7 +5316,7 @@ graph [
     family_count 1
   ]
   node [
-    id 442
+    id 443
     label "CHILD (DESCENDANT)"
     occurrences "clicsbp-idssegmented-goajiro-CHILDDESCENDANT-1//clicsbp-idssegmented-wapishana-CHILDDESCENDANT-1//clicsbp-idssegmented-waura-CHILDDESCENDANT-1"
     words "t a + tʃ o n//ˀd a n i//t ã i + j ã u"
@@ -5316,7 +5328,7 @@ graph [
     family_count 1
   ]
   node [
-    id 443
+    id 444
     label "NEPHEW"
     occurrences "clicsbp-idssegmented-goajiro-NEPHEW-1//clicsbp-idssegmented-ignaciano-NEPHEW-1//clicsbp-idssegmented-ignaciano-NEPHEW-2//clicsbp-idssegmented-mashcopiro-NEPHEW-1//clicsbp-idssegmented-trinitario-NEPHEW-1//clicsbp-idssegmented-wapishana-NEPHEW-1//clicsbp-idssegmented-waura-NEPHEW-1//clicsbp-idssegmented-waura-NEPHEW-2//clicsbp-idssegmented-yavitero-NEPHEW-1"
     words "t a + tʃ o n//tʃ e h i//a n e w a//p a lʲ i k lʲ e r ɨ//tʃ e r a//tʃʰ a u n a i//t a m i//ɨ w a//t a n i h i n a lʲ i"
@@ -5328,7 +5340,7 @@ graph [
     family_count 1
   ]
   node [
-    id 444
+    id 445
     label "NIECE"
     occurrences "clicsbp-idssegmented-goajiro-NIECE-1//clicsbp-idssegmented-ignaciano-NIECE-1//clicsbp-idssegmented-ignaciano-NIECE-2//clicsbp-idssegmented-mashcopiro-NIECE-1//clicsbp-idssegmented-trinitario-NIECE-1//clicsbp-idssegmented-wapishana-NIECE-1//clicsbp-idssegmented-waura-NIECE-1//clicsbp-idssegmented-yavitero-NIECE-1"
     words "t a + tʃ o n//tʃ e h i//a n e w a//p a lʲ i k lʲ e r o//tʃ e h i//ˀd a n i kʰ a ʔ a ʐ uː//t a m i + tʃ ũ w ĩ//t a n i h i n a lʲ i"
@@ -5340,7 +5352,7 @@ graph [
     family_count 1
   ]
   node [
-    id 445
+    id 446
     label "BROTHER"
     occurrences "clicsbp-idssegmented-goajiro-BROTHER-1//clicsbp-idssegmented-ignaciano-BROTHER-1//clicsbp-idssegmented-trinitario-BROTHER-1//clicsbp-idssegmented-wapishana-BROTHER-1//clicsbp-idssegmented-wapishana-BROTHER-2//clicsbp-idssegmented-waura-BROTHER-1//clicsbp-idssegmented-yavitero-BROTHER-1"
     words "t a + w a lʲ a//p a r a p e//a t i//i n a w ɨ ʐ a//a ʐ ɨ//t u + k a k a//i tʃ i + n a h a"
@@ -5352,7 +5364,7 @@ graph [
     family_count 1
   ]
   node [
-    id 446
+    id 447
     label "SISTER"
     occurrences "clicsbp-idssegmented-goajiro-SISTER-1//clicsbp-idssegmented-ignaciano-SISTER-1//clicsbp-idssegmented-trinitario-SISTER-1//clicsbp-idssegmented-wapishana-SISTER-1//clicsbp-idssegmented-wapishana-SISTER-2//clicsbp-idssegmented-waura-SISTER-1//clicsbp-idssegmented-yavitero-SISTER-1"
     words "t a + w a lʲ a//p a r a p e//a t i//ˀd a ˀd a kʰ uː//i n a u ʐ u//t u + k a k a + l u//l̥ʲ i n i a + n a h a"
@@ -5364,7 +5376,7 @@ graph [
     family_count 1
   ]
   node [
-    id 447
+    id 448
     label "SIBLING"
     occurrences "clicsbp-idssegmented-goajiro-SIBLING-1//clicsbp-idssegmented-ignaciano-SIBLING-1//clicsbp-idssegmented-mashcopiro-SIBLING-1//clicsbp-idssegmented-waura-SIBLING-1//clicsbp-idssegmented-yavitero-SIBLING-1"
     words "t a + w a lʲ a//p a r a p e//j e hʷ a k a t a//p a + w a//d e d e"
@@ -5376,7 +5388,7 @@ graph [
     family_count 1
   ]
   node [
-    id 448
+    id 449
     label "COUSIN"
     occurrences "clicsbp-idssegmented-goajiro-COUSIN-1//clicsbp-idssegmented-ignaciano-COUSIN-1//clicsbp-idssegmented-mashcopiro-COUSIN-1//clicsbp-idssegmented-wapishana-COUSIN-1//clicsbp-idssegmented-waura-COUSIN-1//clicsbp-idssegmented-yavitero-COUSIN-1//clicsbp-idssegmented-yavitero-COUSIN-2"
     words "t a + w a lʲ a//tʃ e h i//h a n ɨ r ɨ//i r i ˀb a n//t a n u l e//p r i m a//p r i m u"
@@ -5388,7 +5400,7 @@ graph [
     family_count 1
   ]
   node [
-    id 449
+    id 450
     label "OLDER BROTHER"
     occurrences "clicsbp-idssegmented-goajiro-OLDERBROTHER-1//clicsbp-idssegmented-ignaciano-OLDERBROTHER-1//clicsbp-idssegmented-trinitario-OLDERBROTHER-1//clicsbp-idssegmented-trinitario-OLDERBROTHER-2//clicsbp-idssegmented-wapishana-OLDERBROTHER-1//clicsbp-idssegmented-waura-OLDERBROTHER-1"
     words "t a + p a j a//n a e tʃ a w i m u r i//p o r a p e//e tʃ o w i//tʰ ɨː n i ʐ//t a p ɨ + ʒ ɨ"
@@ -5400,7 +5412,7 @@ graph [
     family_count 1
   ]
   node [
-    id 450
+    id 451
     label "OLDER SISTER"
     occurrences "clicsbp-idssegmented-goajiro-OLDERSISTER-1//clicsbp-idssegmented-ignaciano-OLDERSISTER-1//clicsbp-idssegmented-ignaciano-OLDERSISTER-2//clicsbp-idssegmented-trinitario-OLDERSISTER-1//clicsbp-idssegmented-trinitario-OLDERSISTER-2//clicsbp-idssegmented-wapishana-OLDERSISTER-1//clicsbp-idssegmented-waura-OLDERSISTER-1"
     words "t a + p a j a//e t i r a//t i r a//p o r a p e//e tʃ o w i//m a s u kʰ u n i ˀd i//t a p ɨ + ʒ u"
@@ -5412,7 +5424,7 @@ graph [
     family_count 1
   ]
   node [
-    id 451
+    id 452
     label "YOUNGER BROTHER"
     occurrences "clicsbp-idssegmented-goajiro-YOUNGERBROTHER-1//clicsbp-idssegmented-ignaciano-YOUNGERBROTHER-1//clicsbp-idssegmented-mashcopiro-YOUNGERBROTHER-1//clicsbp-idssegmented-trinitario-YOUNGERBROTHER-1//clicsbp-idssegmented-wapishana-YOUNGERBROTHER-1//clicsbp-idssegmented-waura-YOUNGERBROTHER-1"
     words "t e + m ɨ lʲ i a//n a t i m u r i//h e p ɨ + r ɨ//a t i//ˀd a w i ʔ i tʃʰ a n//s e + ʒ ɨ"
@@ -5424,7 +5436,7 @@ graph [
     family_count 1
   ]
   node [
-    id 452
+    id 453
     label "YOUNGER SISTER"
     occurrences "clicsbp-idssegmented-goajiro-YOUNGERSISTER-1//clicsbp-idssegmented-ignaciano-YOUNGERSISTER-1//clicsbp-idssegmented-ignaciano-YOUNGERSISTER-2//clicsbp-idssegmented-trinitario-YOUNGERSISTER-1//clicsbp-idssegmented-wapishana-YOUNGERSISTER-1//clicsbp-idssegmented-waura-YOUNGERSISTER-1"
     words "t a + ʃ u n uː//a t i//a t i//a t i//ˀd a w i ʔ i tʃʰ a n//s e + ʒ u"
@@ -5436,7 +5448,7 @@ graph [
     family_count 1
   ]
   node [
-    id 453
+    id 454
     label "TWINS"
     occurrences "clicsbp-idssegmented-goajiro-TWINS-1//clicsbp-idssegmented-ignaciano-TWINS-1//clicsbp-idssegmented-mashcopiro-TWINS-1//clicsbp-idssegmented-mashcopiro-TWINS-2//clicsbp-idssegmented-trinitario-TWINS-1//clicsbp-idssegmented-wapishana-TWINS-1//clicsbp-idssegmented-waura-TWINS-1"
     words "s a n k e j uː//tʃ a m e//h e p i r i t ɨ//h e p i r ɨ t ɨ//tʃ o h o//ʃ a m a n + n a u//k a + n a k a + k i"
@@ -5448,7 +5460,7 @@ graph [
     family_count 1
   ]
   node [
-    id 454
+    id 455
     label "GRANDFATHER"
     occurrences "clicsbp-idssegmented-goajiro-GRANDFATHER-1//clicsbp-idssegmented-ignaciano-GRANDFATHER-1//clicsbp-idssegmented-ignaciano-GRANDFATHER-2//clicsbp-idssegmented-mashcopiro-GRANDFATHER-1//clicsbp-idssegmented-trinitario-GRANDFATHER-1//clicsbp-idssegmented-wapishana-GRANDFATHER-1//clicsbp-idssegmented-waura-GRANDFATHER-1//clicsbp-idssegmented-yavitero-GRANDFATHER-1"
     words "t a + t uː ʃ i//a tʃ u k a//a tʃ u//h a tʲ i + r ɨ//o tʃ k o//ˀd u kʰ u ʐ ɨː//a t u//t u s i m i"
@@ -5460,7 +5472,7 @@ graph [
     family_count 1
   ]
   node [
-    id 455
+    id 456
     label "GRANDMOTHER"
     occurrences "clicsbp-idssegmented-goajiro-GRANDMOTHER-1//clicsbp-idssegmented-ignaciano-GRANDMOTHER-1//clicsbp-idssegmented-ignaciano-GRANDMOTHER-2//clicsbp-idssegmented-mashcopiro-GRANDMOTHER-1//clicsbp-idssegmented-trinitario-GRANDMOTHER-1//clicsbp-idssegmented-wapishana-GRANDMOTHER-1//clicsbp-idssegmented-waura-GRANDMOTHER-1//clicsbp-idssegmented-yavitero-GRANDMOTHER-1"
     words "t o u ʃ u//tʃ e tʃ e//a tʃ e//h a + x i + r o//o tʃ e//kʰ u ʔ u kʰ uː//a tʃ i//s i j u m i"
@@ -5472,7 +5484,7 @@ graph [
     family_count 1
   ]
   node [
-    id 456
+    id 457
     label "GRANDSON"
     occurrences "clicsbp-idssegmented-goajiro-GRANDSON-1//clicsbp-idssegmented-ignaciano-GRANDSON-1//clicsbp-idssegmented-mashcopiro-GRANDSON-1//clicsbp-idssegmented-trinitario-GRANDSON-1//clicsbp-idssegmented-wapishana-GRANDSON-1//clicsbp-idssegmented-waura-GRANDSON-1"
     words "t a + lʲ ɨ i n//a m a r i//m e k a h j i//a m r i//tʰ a kʰ a n//w ɨ + h ɨ"
@@ -5484,7 +5496,7 @@ graph [
     family_count 1
   ]
   node [
-    id 457
+    id 458
     label "GRANDDAUGHTER"
     occurrences "clicsbp-idssegmented-goajiro-GRANDDAUGHTER-1//clicsbp-idssegmented-ignaciano-GRANDDAUGHTER-1//clicsbp-idssegmented-mashcopiro-GRANDDAUGHTER-1//clicsbp-idssegmented-trinitario-GRANDDAUGHTER-1//clicsbp-idssegmented-wapishana-GRANDDAUGHTER-1//clicsbp-idssegmented-waura-GRANDDAUGHTER-1"
     words "t a + lʲ ɨ i n//a m a r i//m e k a h j i//a m r i//tʰ a kʰ a n//w ɨ + t u"
@@ -5496,7 +5508,7 @@ graph [
     family_count 1
   ]
   node [
-    id 458
+    id 459
     label "MATERNAL UNCLE (MOTHER'S BROTHER)"
     occurrences "clicsbp-idssegmented-goajiro-MATERNALUNCLEMOTHERSBROTHER-1//clicsbp-idssegmented-wapishana-MATERNALUNCLEMOTHERSBROTHER-1//clicsbp-idssegmented-waura-MATERNALUNCLEMOTHERSBROTHER-1"
     words "t a + lʲ a ɨ lʲ a//tʰ aː tʰ a i//u w a"
@@ -5508,7 +5520,7 @@ graph [
     family_count 1
   ]
   node [
-    id 459
+    id 460
     label "MATERNAL AUNT (MOTHER'S SISTER)"
     occurrences "clicsbp-idssegmented-goajiro-MATERNALAUNTMOTHERSSISTER-1//clicsbp-idssegmented-wapishana-MATERNALAUNTMOTHERSSISTER-1//clicsbp-idssegmented-waura-MATERNALAUNTMOTHERSSISTER-1//clicsbp-idssegmented-waura-MATERNALAUNTMOTHERSSISTER-2"
     words "t a + a ʔ i rⁿ ɨ//m aː m a i//m a m a//ɨ n u"
@@ -5520,7 +5532,7 @@ graph [
     family_count 1
   ]
   node [
-    id 460
+    id 461
     label "DESCENDANTS"
     occurrences "clicsbp-idssegmented-goajiro-DESCENDANTS-1//clicsbp-idssegmented-ignaciano-DESCENDANTS-1//clicsbp-idssegmented-wapishana-DESCENDANTS-1//clicsbp-idssegmented-waura-DESCENDANTS-1"
     words "t a + tʃ o n + n i//a m a r i e k e n e//tʰ a kʰ a n iː + n a u//w ɨ + h ɨ + n a u"
@@ -5532,7 +5544,7 @@ graph [
     family_count 1
   ]
   node [
-    id 461
+    id 462
     label "FATHER-IN-LAW (OF MAN)"
     occurrences "clicsbp-idssegmented-goajiro-FATHERINLAWOFMAN-1//clicsbp-idssegmented-ignaciano-FATHERINLAWOFMAN-1//clicsbp-idssegmented-mashcopiro-FATHERINLAWOFMAN-1//clicsbp-idssegmented-trinitario-FATHERINLAWOFMAN-1//clicsbp-idssegmented-wapishana-FATHERINLAWOFMAN-1//clicsbp-idssegmented-waura-FATHERINLAWOFMAN-1//clicsbp-idssegmented-yavitero-FATHERINLAWOFMAN-1"
     words "t a + ʃ i m i a//i m a tʃ u k a//h i m a tʲ i r ɨ//i m tʃ u k o//i m a ˀd a kʰ u ʐ//m a t u//m a t u s i"
@@ -5544,7 +5556,7 @@ graph [
     family_count 1
   ]
   node [
-    id 462
+    id 463
     label "SON-IN-LAW (OF MAN)"
     occurrences "clicsbp-idssegmented-goajiro-SONINLAWOFMAN-1//clicsbp-idssegmented-ignaciano-SONINLAWOFMAN-1//clicsbp-idssegmented-ignaciano-SONINLAWOFMAN-2//clicsbp-idssegmented-mashcopiro-SONINLAWOFMAN-1//clicsbp-idssegmented-trinitario-SONINLAWOFMAN-1//clicsbp-idssegmented-trinitario-SONINLAWOFMAN-2//clicsbp-idssegmented-wapishana-SONINLAWOFMAN-1//clicsbp-idssegmented-waura-SONINLAWOFMAN-1//clicsbp-idssegmented-yavitero-SONINLAWOFMAN-1"
     words "t a + ʃ i m i a//tʃ i n a//tʃ i n a + r e//m e k a n ɨ r ɨ//tʃ i n a//tʃ n a r e//ˀd i n i ʐ ɨ//ĩ j ẽ//j a n i h i"
@@ -5556,7 +5568,7 @@ graph [
     family_count 1
   ]
   node [
-    id 463
+    id 464
     label "FATHER-IN-LAW (OF WOMAN)"
     occurrences "clicsbp-idssegmented-goajiro-FATHERINLAWOFWOMAN-1//clicsbp-idssegmented-ignaciano-FATHERINLAWOFWOMAN-1//clicsbp-idssegmented-wapishana-FATHERINLAWOFWOMAN-1//clicsbp-idssegmented-waura-FATHERINLAWOFWOMAN-1//clicsbp-idssegmented-yavitero-FATHERINLAWOFWOMAN-1"
     words "t a + ɨ i//i m a tʃ u k a//i m a ˀd a kʰ u ʐ//m a t u//m a t u s i"
@@ -5568,7 +5580,7 @@ graph [
     family_count 1
   ]
   node [
-    id 464
+    id 465
     label "MOTHER-IN-LAW (OF MAN)"
     occurrences "clicsbp-idssegmented-goajiro-MOTHERINLAWOFMAN-1//clicsbp-idssegmented-ignaciano-MOTHERINLAWOFMAN-1//clicsbp-idssegmented-mashcopiro-MOTHERINLAWOFMAN-1//clicsbp-idssegmented-trinitario-MOTHERINLAWOFMAN-1//clicsbp-idssegmented-wapishana-MOTHERINLAWOFMAN-1//clicsbp-idssegmented-waura-MOTHERINLAWOFMAN-1//clicsbp-idssegmented-yavitero-MOTHERINLAWOFMAN-1"
     words "t e + m e ʃ u//i m a s e//h i m a x i r o//i m s e//i m a ɨ ʐ u//m a t ɨ//m a s i u"
@@ -5580,7 +5592,7 @@ graph [
     family_count 1
   ]
   node [
-    id 465
+    id 466
     label "MOTHER-IN-LAW (OF WOMAN)"
     occurrences "clicsbp-idssegmented-goajiro-MOTHERINLAWOFWOMAN-1//clicsbp-idssegmented-ignaciano-MOTHERINLAWOFWOMAN-1//clicsbp-idssegmented-wapishana-MOTHERINLAWOFWOMAN-1//clicsbp-idssegmented-waura-MOTHERINLAWOFWOMAN-1//clicsbp-idssegmented-yavitero-MOTHERINLAWOFWOMAN-1"
     words "t a + ɨ lʲ ɨ//i m a s e//i m a ɨ ʐ u//m a t ɨ//m a s i u"
@@ -5592,7 +5604,7 @@ graph [
     family_count 1
   ]
   node [
-    id 466
+    id 467
     label "DAUGHTER-IN-LAW (OF MAN)"
     occurrences "clicsbp-idssegmented-goajiro-DAUGHTERINLAWOFMAN-1//clicsbp-idssegmented-ignaciano-DAUGHTERINLAWOFMAN-1//clicsbp-idssegmented-ignaciano-DAUGHTERINLAWOFMAN-2//clicsbp-idssegmented-mashcopiro-DAUGHTERINLAWOFMAN-1//clicsbp-idssegmented-trinitario-DAUGHTERINLAWOFMAN-1//clicsbp-idssegmented-wapishana-DAUGHTERINLAWOFMAN-1//clicsbp-idssegmented-waura-DAUGHTERINLAWOFMAN-1//clicsbp-idssegmented-yavitero-DAUGHTERINLAWOFMAN-1"
     words "t a + ɨ lʲ ɨ//tʃ i n e n a k a//tʃ i n e n a//m e k a n ɨ n r o//tʃ i n e n o//ˀd i n i ʐ u//ĩ tʃ u w i//j a n i h i + l̥ʲ u"
@@ -5604,7 +5616,7 @@ graph [
     family_count 1
   ]
   node [
-    id 467
+    id 468
     label "DAUGHTER-IN-LAW (OF WOMAN)"
     occurrences "clicsbp-idssegmented-goajiro-DAUGHTERINLAWOFWOMAN-1//clicsbp-idssegmented-ignaciano-DAUGHTERINLAWOFWOMAN-1//clicsbp-idssegmented-ignaciano-DAUGHTERINLAWOFWOMAN-2//clicsbp-idssegmented-wapishana-DAUGHTERINLAWOFWOMAN-1//clicsbp-idssegmented-waura-DAUGHTERINLAWOFWOMAN-1"
     words "t a + ɨ lʲ ɨ//tʃ i n e n a k a//tʃ i n e n a//ˀd i n i ʐ u//ĩ tʃ u w i"
@@ -5616,7 +5628,7 @@ graph [
     family_count 1
   ]
   node [
-    id 468
+    id 469
     label "SON-IN-LAW (OF WOMAN)"
     occurrences "clicsbp-idssegmented-goajiro-SONINLAWOFWOMAN-1//clicsbp-idssegmented-ignaciano-SONINLAWOFWOMAN-1//clicsbp-idssegmented-ignaciano-SONINLAWOFWOMAN-2//clicsbp-idssegmented-wapishana-SONINLAWOFWOMAN-1//clicsbp-idssegmented-waura-SONINLAWOFWOMAN-1"
     words "t a + i ʃ i//tʃ i n a//tʃ i n a + r e//ˀd i n i ʐ ɨ//ĩ j ẽ"
@@ -5628,7 +5640,7 @@ graph [
     family_count 1
   ]
   node [
-    id 469
+    id 470
     label "STEPFATHER"
     occurrences "clicsbp-idssegmented-goajiro-STEPFATHER-1//clicsbp-idssegmented-ignaciano-STEPFATHER-1//clicsbp-idssegmented-trinitario-STEPFATHER-1//clicsbp-idssegmented-wapishana-STEPFATHER-1//clicsbp-idssegmented-waura-STEPFATHER-1"
     words "t a + ʃ i + j aː + ʃ i//i j a ʔ a r u w a//t a t a + r a ʔ o//ˀd a r ɨ u r a//e ʒ ɨ + m ɨ n a"
@@ -5640,7 +5652,7 @@ graph [
     family_count 1
   ]
   node [
-    id 470
+    id 471
     label "STEPMOTHER"
     occurrences "clicsbp-idssegmented-goajiro-STEPMOTHER-1//clicsbp-idssegmented-ignaciano-STEPMOTHER-1//clicsbp-idssegmented-trinitario-STEPMOTHER-1//clicsbp-idssegmented-wapishana-STEPMOTHER-1//clicsbp-idssegmented-waura-STEPMOTHER-1"
     words "t e + i + j aː + s ɨ//e n a ʔ a r u w a//m e m e + r e ʔ o//ˀd a r u + w a ˀb a//ɨ n u + m ɨ n a"
@@ -5652,7 +5664,7 @@ graph [
     family_count 1
   ]
   node [
-    id 471
+    id 472
     label "STEPSON"
     occurrences "clicsbp-idssegmented-goajiro-STEPSON-1//clicsbp-idssegmented-mashcopiro-STEPSON-1//clicsbp-idssegmented-wapishana-STEPSON-1//clicsbp-idssegmented-waura-STEPSON-1//clicsbp-idssegmented-yavitero-STEPSON-1"
     words "t a + tʃ o n + j aː + ʃ i//k o s tʃ e k j e h r e r ɨ//ˀd a n i u r a//t ã i + m ɨ n a//t a w i n a k u lʲ e"
@@ -5664,7 +5676,7 @@ graph [
     family_count 1
   ]
   node [
-    id 472
+    id 473
     label "STEPDAUGHTER"
     occurrences "clicsbp-idssegmented-goajiro-STEPDAUGHTER-1//clicsbp-idssegmented-mashcopiro-STEPDAUGHTER-1//clicsbp-idssegmented-wapishana-STEPDAUGHTER-1//clicsbp-idssegmented-waura-STEPDAUGHTER-1"
     words "t a + tʃ o n + j aː + s ɨ//k o s tʃ e k j e h r e r ɨ//ˀd a n i + a ˀb a//i tʃ u + p a + l u + m ɨ n a"
@@ -5676,7 +5688,7 @@ graph [
     family_count 1
   ]
   node [
-    id 473
+    id 474
     label "ORPHAN"
     occurrences "clicsbp-idssegmented-goajiro-ORPHAN-1//clicsbp-idssegmented-ignaciano-ORPHAN-1//clicsbp-idssegmented-trinitario-ORPHAN-1//clicsbp-idssegmented-wapishana-ORPHAN-1//clicsbp-idssegmented-waura-ORPHAN-1"
     words "m oː ʔ u t + ʃ i//w a tʃ a//w a tʃ a//m a + ɨˀ d a n i + w a i//p a l a w a"
@@ -5688,7 +5700,7 @@ graph [
     family_count 1
   ]
   node [
-    id 474
+    id 475
     label "RELATIVES"
     occurrences "clicsbp-idssegmented-goajiro-RELATIVES-1//clicsbp-idssegmented-ignaciano-RELATIVES-1//clicsbp-idssegmented-trinitario-RELATIVES-1//clicsbp-idssegmented-wapishana-RELATIVES-1//clicsbp-idssegmented-waura-RELATIVES-1//clicsbp-idssegmented-yavitero-RELATIVES-1"
     words "k a s a + t a + n a i n//h a n e a n a//h a ɲ o n o//i r i ˀb a n + n a u//p e n e + ʒ ɨ//h a l̥ʲ u h e m i"
@@ -5700,7 +5712,7 @@ graph [
     family_count 1
   ]
   node [
-    id 475
+    id 476
     label "ANIMAL"
     occurrences "clicsbp-idssegmented-goajiro-ANIMAL-1//clicsbp-idssegmented-ignaciano-ANIMAL-1//clicsbp-idssegmented-mashcopiro-ANIMAL-1//clicsbp-idssegmented-mashcopiro-ANIMAL-2//clicsbp-idssegmented-trinitario-ANIMAL-1//clicsbp-idssegmented-wapishana-ANIMAL-1//clicsbp-idssegmented-waura-ANIMAL-1//clicsbp-idssegmented-yavitero-ANIMAL-1"
     words "m ɨ rⁿ ɨ lʲ ɨ//s a r a r e//p r a//p ɨ r a//s o r a r e//ɨ ʐ a i//a p a p a t a i + m ɨ n a//n i l̥ʲ i"
@@ -5712,7 +5724,7 @@ graph [
     family_count 1
   ]
   node [
-    id 476
+    id 477
     label "LIVESTOCK"
     occurrences "clicsbp-idssegmented-goajiro-LIVESTOCK-1//clicsbp-idssegmented-wapishana-LIVESTOCK-1//clicsbp-idssegmented-waura-LIVESTOCK-1"
     words "m ɨ rⁿ ɨ lʲ ɨ//ɨ ʐ a i + n a u//p ɨ ʒ a + p ɨ h ɨ"
@@ -5724,7 +5736,7 @@ graph [
     family_count 1
   ]
   node [
-    id 477
+    id 478
     label "HERDSMAN"
     occurrences "clicsbp-idssegmented-goajiro-HERDSMAN-1//clicsbp-idssegmented-wapishana-HERDSMAN-1"
     words "m e k eː rⁿ ɨ//pʰ a kʰ i ʐ u"
@@ -5736,7 +5748,7 @@ graph [
     family_count 1
   ]
   node [
-    id 478
+    id 479
     label "CATTLE"
     occurrences "clicsbp-idssegmented-goajiro-CATTLE-1//clicsbp-idssegmented-wapishana-CATTLE-1//clicsbp-idssegmented-waura-CATTLE-1//clicsbp-idssegmented-yavitero-CATTLE-1"
     words "p aː ʔ a//tʰ a pʰ i ʔ i ʐ a + n a u//t e m e + k u m a//b a k a"
@@ -5748,7 +5760,7 @@ graph [
     family_count 1
   ]
   node [
-    id 479
+    id 480
     label "BULL"
     occurrences "clicsbp-idssegmented-goajiro-BULL-1//clicsbp-idssegmented-wapishana-BULL-1//clicsbp-idssegmented-yavitero-BULL-1//clicsbp-idssegmented-yavitero-BULL-2"
     words "p aː ʔ a + t oː lʲ o//kʰ a ʐ u tʰ i//t o r o//t u r u"
@@ -5760,7 +5772,7 @@ graph [
     family_count 1
   ]
   node [
-    id 480
+    id 481
     label "COW"
     occurrences "clicsbp-idssegmented-goajiro-COW-1//clicsbp-idssegmented-ignaciano-COW-1//clicsbp-idssegmented-trinitario-COW-1//clicsbp-idssegmented-wapishana-COW-1//clicsbp-idssegmented-wapishana-COW-2//clicsbp-idssegmented-yavitero-COW-1"
     words "p aː ʔ a + h i e rⁿ ɨ//w a k a//w a k a//tʰ a pʰ i ʔ i ʐ a + ˀb a//tʰ a pʰ i ʔ i ʐ//b a k a"
@@ -5772,7 +5784,7 @@ graph [
     family_count 1
   ]
   node [
-    id 481
+    id 482
     label "CALF"
     occurrences "clicsbp-idssegmented-goajiro-CALF-1//clicsbp-idssegmented-ignaciano-CALF-1//clicsbp-idssegmented-wapishana-CALF-1//clicsbp-idssegmented-yavitero-CALF-1"
     words "p aː ʔ a + tʃ o n//tʃ i k e r u//tʰ a pʰ i ʔ i ʐ a + ˀd a n i//b a k a + s a n i"
@@ -5784,7 +5796,7 @@ graph [
     family_count 1
   ]
   node [
-    id 482
+    id 483
     label "SHEEP"
     occurrences "clicsbp-idssegmented-goajiro-SHEEP-1//clicsbp-idssegmented-trinitario-SHEEP-1//clicsbp-idssegmented-wapishana-SHEEP-1//clicsbp-idssegmented-waura-SHEEP-1"
     words "a nː eː rⁿ ɨ//ʔʷ e s a//kʰ a ʐ i n i ʐ u//a l ã"
@@ -5796,7 +5808,7 @@ graph [
     family_count 1
   ]
   node [
-    id 483
+    id 484
     label "RAM"
     occurrences "clicsbp-idssegmented-goajiro-RAM-1//clicsbp-idssegmented-wapishana-RAM-1"
     words "a nː eː rⁿ ɨ + t oː lʲ o//kʰ a ʐ u tʰ i"
@@ -5808,7 +5820,7 @@ graph [
     family_count 1
   ]
   node [
-    id 484
+    id 485
     label "EWE"
     occurrences "clicsbp-idssegmented-goajiro-EWE-1//clicsbp-idssegmented-wapishana-EWE-1"
     words "a nː eː rⁿ ɨ + h i e rⁿ ɨ//kʰ a ʐ i n i ʐ u + w a ˀb a"
@@ -5820,7 +5832,7 @@ graph [
     family_count 1
   ]
   node [
-    id 485
+    id 486
     label "LAMB"
     occurrences "clicsbp-idssegmented-goajiro-LAMB-1//clicsbp-idssegmented-wapishana-LAMB-1"
     words "a nː eː t + tʃ o n//kʰ a ʐ i n i ʐ u d a n i"
@@ -5832,7 +5844,7 @@ graph [
     family_count 1
   ]
   node [
-    id 486
+    id 487
     label "SOW (FEMALE PIG)"
     occurrences "clicsbp-idssegmented-goajiro-SOWFEMALEPIG-1//clicsbp-idssegmented-wapishana-SOWFEMALEPIG-1"
     words "p ɨː lʲ ɨ k ɨ + h i e rⁿ ɨ//kʰ uː ʃ i + a ˀb a"
@@ -5844,7 +5856,7 @@ graph [
     family_count 1
   ]
   node [
-    id 487
+    id 488
     label "PIG"
     occurrences "clicsbp-idssegmented-goajiro-PIG-1//clicsbp-idssegmented-ignaciano-PIG-1//clicsbp-idssegmented-trinitario-PIG-1//clicsbp-idssegmented-wapishana-PIG-1//clicsbp-idssegmented-waura-PIG-1//clicsbp-idssegmented-yavitero-PIG-1"
     words "p ɨː lʲ ɨ k ɨ + t oː lʲ o//k u tʃ i//s m o r u//kʰ uː ʃ i//a u t u + k u m a//k u tʃ i"
@@ -5856,7 +5868,7 @@ graph [
     family_count 1
   ]
   node [
-    id 488
+    id 489
     label "GOAT"
     occurrences "clicsbp-idssegmented-goajiro-GOAT-1"
     words "k aː ʔ u lʲ a + h i e rⁿ ɨ"
@@ -5868,7 +5880,7 @@ graph [
     family_count 1
   ]
   node [
-    id 489
+    id 490
     label "MALE GOAT"
     occurrences "clicsbp-idssegmented-goajiro-MALEGOAT-1//clicsbp-idssegmented-wapishana-MALEGOAT-1"
     words "k aː ʔ u lʲ a + t oː lʲ o//kʰ a ʐ u tʰ i"
@@ -5877,18 +5889,6 @@ graph [
     families "Arawakan//Arawakan"
     language_count 2
     variety_count 2
-    family_count 1
-  ]
-  node [
-    id 490
-    label "KID"
-    occurrences "clicsbp-idssegmented-goajiro-KID-1"
-    words "k aː ʔ u lʲ a + tʃ o n"
-    varieties "clicsbp-idssegmented-goajiro"
-    languages "wayu1243"
-    families "Arawakan"
-    language_count 1
-    variety_count 1
     family_count 1
   ]
   node [
@@ -15654,7 +15654,7 @@ graph [
   ]
   edge [
     source 28
-    target 376
+    target 377
     count 1
     words "p a ʔ e"
     varieties "clicsbp-idssegmented-trinitario"
@@ -15823,7 +15823,7 @@ graph [
   ]
   edge [
     source 39
-    target 427
+    target 428
     count 2
     words "a h a i r a//ˀd a u n a i u r a"
     varieties "clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-wapishana"
@@ -15836,7 +15836,7 @@ graph [
   ]
   edge [
     source 39
-    target 431
+    target 432
     count 1
     words "ˀd a u n a i u r a"
     varieties "clicsbp-idssegmented-wapishana"
@@ -15849,7 +15849,7 @@ graph [
   ]
   edge [
     source 41
-    target 429
+    target 430
     count 2
     words "e s e n a//ʐ ɨ n a"
     varieties "clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-wapishana"
@@ -15862,7 +15862,7 @@ graph [
   ]
   edge [
     source 41
-    target 432
+    target 433
     count 1
     words "ʐ ɨ n a"
     varieties "clicsbp-idssegmented-wapishana"
@@ -15875,7 +15875,7 @@ graph [
   ]
   edge [
     source 41
-    target 430
+    target 431
     count 1
     words "ʐ ɨ n a"
     varieties "clicsbp-idssegmented-wapishana"
@@ -15901,7 +15901,7 @@ graph [
   ]
   edge [
     source 45
-    target 436
+    target 437
     count 3
     words "t a + ʃ i//ʒ ɨ//p a p a"
     varieties "clicsbp-idssegmented-goajiro//clicsbp-idssegmented-waura//clicsbp-idssegmented-waura"
@@ -15927,7 +15927,7 @@ graph [
   ]
   edge [
     source 45
-    target 427
+    target 428
     count 1
     words "ʒ ɨ"
     varieties "clicsbp-idssegmented-waura"
@@ -15953,7 +15953,7 @@ graph [
   ]
   edge [
     source 46
-    target 437
+    target 438
     count 1
     words "t e + i"
     varieties "clicsbp-idssegmented-goajiro"
@@ -15966,7 +15966,7 @@ graph [
   ]
   edge [
     source 46
-    target 459
+    target 460
     count 2
     words "m a m a//ɨ n u"
     varieties "clicsbp-idssegmented-waura//clicsbp-idssegmented-waura"
@@ -16057,7 +16057,7 @@ graph [
   ]
   edge [
     source 50
-    target 421
+    target 422
     count 1
     words "w ɨ n ɨ"
     varieties "clicsbp-idssegmented-wapishana"
@@ -16083,7 +16083,7 @@ graph [
   ]
   edge [
     source 50
-    target 406
+    target 407
     count 1
     words "w e n i"
     varieties "clicsbp-idssegmented-yavitero"
@@ -16096,7 +16096,7 @@ graph [
   ]
   edge [
     source 53
-    target 406
+    target 407
     count 1
     words "w e n ɨ"
     varieties "clicsbp-idssegmented-mashcopiro"
@@ -16161,7 +16161,7 @@ graph [
   ]
   edge [
     source 59
-    target 423
+    target 424
     count 2
     words "e m a n i k i//tʰ i kʰ a ʐ i + tʰ i r i ʐ i"
     varieties "clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-wapishana"
@@ -16252,7 +16252,7 @@ graph [
   ]
   edge [
     source 63
-    target 416
+    target 417
     count 1
     words "i j e + e n u"
     varieties "clicsbp-idssegmented-yavitero"
@@ -16278,7 +16278,7 @@ graph [
   ]
   edge [
     source 64
-    target 421
+    target 422
     count 2
     words "h u j a//w ɨ n ɨ"
     varieties "clicsbp-idssegmented-goajiro//clicsbp-idssegmented-wapishana"
@@ -16382,7 +16382,7 @@ graph [
   ]
   edge [
     source 67
-    target 415
+    target 416
     count 6
     words "k a ʃ i//k a h e//k s ɨ + r ɨ//k o h e//k e ʒ ɨ//k e lʲ i"
     varieties "clicsbp-idssegmented-goajiro//clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-mashcopiro//clicsbp-idssegmented-trinitario//clicsbp-idssegmented-waura//clicsbp-idssegmented-yavitero"
@@ -16408,7 +16408,7 @@ graph [
   ]
   edge [
     source 69
-    target 417
+    target 418
     count 1
     words "p o + k a m lʲ a + lʲ ɨ"
     varieties "clicsbp-idssegmented-mashcopiro"
@@ -16447,7 +16447,7 @@ graph [
   ]
   edge [
     source 70
-    target 418
+    target 419
     count 1
     words "m a r ɨ tʰ a + ʔ u"
     varieties "clicsbp-idssegmented-wapishana"
@@ -16473,7 +16473,7 @@ graph [
   ]
   edge [
     source 71
-    target 416
+    target 417
     count 3
     words "e m a r e r e//tʰ u r u w a n a r ɨ + pʰ i ʐ u w a + n//j a m i r u k a"
     varieties "clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-wapishana//clicsbp-idssegmented-waura"
@@ -16525,7 +16525,7 @@ graph [
   ]
   edge [
     source 73
-    target 397
+    target 398
     count 2
     words "a p a k e ʔ e//k e h ɨ + t ɨ"
     varieties "clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-waura"
@@ -16577,7 +16577,7 @@ graph [
   ]
   edge [
     source 73
-    target 398
+    target 399
     count 1
     words "k e h ɨ + t ɨ"
     varieties "clicsbp-idssegmented-waura"
@@ -16590,7 +16590,7 @@ graph [
   ]
   edge [
     source 76
-    target 403
+    target 404
     count 1
     words "p e n o"
     varieties "clicsbp-idssegmented-trinitario"
@@ -16759,7 +16759,7 @@ graph [
   ]
   edge [
     source 84
-    target 398
+    target 399
     count 2
     words "a w a s a//w iː ʐ a i"
     varieties "clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-wapishana"
@@ -17097,7 +17097,7 @@ graph [
   ]
   edge [
     source 108
-    target 475
+    target 476
     count 1
     words "n i l̥ʲ i"
     varieties "clicsbp-idssegmented-yavitero"
@@ -17110,7 +17110,7 @@ graph [
   ]
   edge [
     source 112
-    target 359
+    target 360
     count 1
     words "w r a j u"
     varieties "clicsbp-idssegmented-trinitario"
@@ -17149,7 +17149,7 @@ graph [
   ]
   edge [
     source 114
-    target 368
+    target 369
     count 1
     words "m a p a"
     varieties "clicsbp-idssegmented-goajiro"
@@ -17253,7 +17253,7 @@ graph [
   ]
   edge [
     source 125
-    target 411
+    target 412
     count 15
     words "j u k u k i//j u k u k i//m ɨ n a//h a h + m ɨ n a//h a h + m ɨ n a//w k u ɣ i//w k u ɣ i//j k u ɣ i//j k u ɣ i//a tʰ a m ɨ n ɨ//a tʰ a m ɨ n ɨ//a t a//a t a//a t a//a t a"
     varieties "clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-mashcopiro//clicsbp-idssegmented-mashcopiro//clicsbp-idssegmented-mashcopiro//clicsbp-idssegmented-trinitario//clicsbp-idssegmented-trinitario//clicsbp-idssegmented-trinitario//clicsbp-idssegmented-trinitario//clicsbp-idssegmented-wapishana//clicsbp-idssegmented-wapishana//clicsbp-idssegmented-waura//clicsbp-idssegmented-waura//clicsbp-idssegmented-yavitero//clicsbp-idssegmented-yavitero"
@@ -17292,7 +17292,7 @@ graph [
   ]
   edge [
     source 127
-    target 387
+    target 388
     count 1
     words "a t a + p a n a"
     varieties "clicsbp-idssegmented-waura"
@@ -17396,7 +17396,7 @@ graph [
   ]
   edge [
     source 133
-    target 409
+    target 410
     count 1
     words "j e w a lʲ i"
     varieties "clicsbp-idssegmented-yavitero"
@@ -17578,7 +17578,7 @@ graph [
   ]
   edge [
     source 159
-    target 391
+    target 392
     count 2
     words "w a ɨ n a u//a i + tʃ u"
     varieties "clicsbp-idssegmented-wapishana//clicsbp-idssegmented-waura"
@@ -17708,7 +17708,7 @@ graph [
   ]
   edge [
     source 163
-    target 440
+    target 441
     count 1
     words "t ã i"
     varieties "clicsbp-idssegmented-waura"
@@ -17734,7 +17734,7 @@ graph [
   ]
   edge [
     source 164
-    target 356
+    target 357
     count 1
     words "t a ʔ i"
     varieties "clicsbp-idssegmented-ignaciano"
@@ -18228,7 +18228,7 @@ graph [
   ]
   edge [
     source 191
-    target 424
+    target 425
     count 1
     words "n i k o"
     varieties "clicsbp-idssegmented-trinitario"
@@ -18254,7 +18254,7 @@ graph [
   ]
   edge [
     source 192
-    target 424
+    target 425
     count 1
     words "n i k o"
     varieties "clicsbp-idssegmented-trinitario"
@@ -18501,7 +18501,7 @@ graph [
   ]
   edge [
     source 201
-    target 369
+    target 370
     count 1
     words "p a i r i r i k a"
     varieties "clicsbp-idssegmented-ignaciano"
@@ -18709,7 +18709,7 @@ graph [
   ]
   edge [
     source 210
-    target 387
+    target 388
     count 1
     words "a t a + p a n a"
     varieties "clicsbp-idssegmented-waura"
@@ -18852,7 +18852,7 @@ graph [
   ]
   edge [
     source 224
-    target 420
+    target 421
     count 2
     words "i j a r u//ʔ j o r u"
     varieties "clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-trinitario"
@@ -19450,7 +19450,7 @@ graph [
   ]
   edge [
     source 302
-    target 382
+    target 383
     count 1
     words "k a i j i h i n i"
     varieties "clicsbp-huntergatherer-57"
@@ -19567,7 +19567,7 @@ graph [
   ]
   edge [
     source 331
-    target 414
+    target 415
     count 1
     words "m a r i"
     varieties "clicsbp-idssegmented-ignaciano"
@@ -19580,7 +19580,7 @@ graph [
   ]
   edge [
     source 331
-    target 403
+    target 404
     count 1
     words "m a h k a"
     varieties "clicsbp-idssegmented-mashcopiro"
@@ -19619,7 +19619,7 @@ graph [
   ]
   edge [
     source 334
-    target 391
+    target 392
     count 3
     words "w e//w a ɨ n a u//a i + tʃ u"
     varieties "clicsbp-huntergatherer-405//clicsbp-idssegmented-wapishana//clicsbp-idssegmented-waura"
@@ -19644,7 +19644,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 353
+    source 354
     target 1181
     count 1
     words "w a tʰ u"
@@ -19657,8 +19657,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 355
-    target 363
+    source 356
+    target 364
     count 1
     words "k o h o"
     varieties "clicsbp-huntergatherer-57"
@@ -19670,7 +19670,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 356
+    source 357
     target 643
     count 1
     words "t a ʔ i"
@@ -19683,7 +19683,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 356
+    source 357
     target 642
     count 1
     words "kʰ a ʃ u r u"
@@ -19696,7 +19696,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 359
+    source 360
     target 496
     count 1
     words "kʰ ɨ r ɨ kʰ ɨ"
@@ -19709,7 +19709,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 359
+    source 360
     target 497
     count 1
     words "kʰ ɨ r ɨ kʰ ɨ"
@@ -19722,7 +19722,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 365
+    source 366
     target 822
     count 1
     words "w a k a p ɨ"
@@ -19735,7 +19735,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 368
+    source 369
     target 508
     count 1
     words "m a p a"
@@ -19748,7 +19748,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 371
+    source 372
     target 620
     count 1
     words "t i j u w a r e k a"
@@ -19761,7 +19761,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 372
+    source 373
     target 651
     count 2
     words "j u tʃ a m a//j u tʃ m o"
@@ -19774,7 +19774,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 374
+    source 375
     target 607
     count 2
     words "k u r u h a//m a k u l a + t ã i"
@@ -19787,7 +19787,7 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 376
+    source 377
     target 1255
     count 1
     words "p i s i"
@@ -19800,8 +19800,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 376
-    target 380
+    source 377
+    target 381
     count 1
     words "n a w a"
     varieties "clicsbp-idssegmented-yavitero"
@@ -19813,7 +19813,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 376
+    source 377
     target 1084
     count 1
     words "n a w a"
@@ -19826,7 +19826,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 380
+    source 381
     target 1054
     count 1
     words "kʰ a m i tʃʰ a + n"
@@ -19839,7 +19839,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 380
+    source 381
     target 1056
     count 1
     words "n a i"
@@ -19852,7 +19852,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 380
+    source 381
     target 1084
     count 1
     words "n a w a"
@@ -19865,7 +19865,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 383
+    source 384
     target 841
     count 1
     words "ɨ n a m a"
@@ -19878,7 +19878,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 387
+    source 388
     target 1233
     count 2
     words "kʰ a r i tʰ a//h a h e l a"
@@ -19891,7 +19891,7 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 389
+    source 390
     target 1192
     count 1
     words "d a ʐ a kʰ i d i"
@@ -19904,8 +19904,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 392
-    target 478
+    source 393
+    target 479
     count 1
     words "t e m e + k u m a"
     varieties "clicsbp-idssegmented-waura"
@@ -19917,7 +19917,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 393
+    source 394
     target 496
     count 1
     words "w ɨ tʃ iː"
@@ -19930,7 +19930,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 393
+    source 394
     target 758
     count 1
     words "j a k a w a k a"
@@ -19943,8 +19943,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 397
-    target 398
+    source 398
+    target 399
     count 2
     words "mː a//k e h ɨ + t ɨ"
     varieties "clicsbp-idssegmented-goajiro//clicsbp-idssegmented-waura"
@@ -19956,7 +19956,7 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 397
+    source 398
     target 1020
     count 3
     words "a p a k e ʔ e//ʔ p o ɣ ʔ e//a m a ʐ a ˀd a"
@@ -19969,7 +19969,7 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 397
+    source 398
     target 650
     count 1
     words "a p a k e ʔ e"
@@ -19982,7 +19982,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 397
+    source 398
     target 789
     count 1
     words "ʔ p o ɣ ʔ e"
@@ -19995,25 +19995,12 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 397
+    source 398
     target 1178
     count 1
     words "a m a ʐ a ˀd a"
     varieties "clicsbp-idssegmented-wapishana"
     languages "wapi1253"
-    families "Arawakan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 397
-    target 1132
-    count 1
-    words "k e h ɨ + t ɨ"
-    varieties "clicsbp-idssegmented-waura"
-    languages "waur1244"
     families "Arawakan"
     variety_count 1
     language_count 1
@@ -20035,7 +20022,20 @@ graph [
   ]
   edge [
     source 399
-    target 400
+    target 1132
+    count 1
+    words "k e h ɨ + t ɨ"
+    varieties "clicsbp-idssegmented-waura"
+    languages "waur1244"
+    families "Arawakan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 400
+    target 401
     count 4
     words "p oː t ʃ i//t i u r a h i//tʲ u r a h i//j a i n i"
     varieties "clicsbp-idssegmented-goajiro//clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-trinitario//clicsbp-idssegmented-yavitero"
@@ -20045,19 +20045,6 @@ graph [
     language_count 4
     family_count 1
     cognate_count 3
-  ]
-  edge [
-    source 399
-    target 651
-    count 1
-    words "j a i n i"
-    varieties "clicsbp-idssegmented-yavitero"
-    languages "yavi1244"
-    families "Arawakan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
   ]
   edge [
     source 400
@@ -20073,7 +20060,20 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 404
+    source 401
+    target 651
+    count 1
+    words "j a i n i"
+    varieties "clicsbp-idssegmented-yavitero"
+    languages "yavi1244"
+    families "Arawakan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 405
     target 905
     count 1
     words "k a w i"
@@ -20086,7 +20086,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 405
+    source 406
     target 1133
     count 1
     words "s i l u lʲ i t a m i"
@@ -20099,32 +20099,6 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 408
-    target 409
-    count 1
-    words "m o h uː i"
-    varieties "clicsbp-idssegmented-goajiro"
-    languages "wayu1243"
-    families "Arawakan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 408
-    target 410
-    count 1
-    words "m o h uː i"
-    varieties "clicsbp-idssegmented-goajiro"
-    languages "wayu1243"
-    families "Arawakan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
     source 409
     target 410
     count 1
@@ -20139,6 +20113,32 @@ graph [
   ]
   edge [
     source 409
+    target 411
+    count 1
+    words "m o h uː i"
+    varieties "clicsbp-idssegmented-goajiro"
+    languages "wayu1243"
+    families "Arawakan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 410
+    target 411
+    count 1
+    words "m o h uː i"
+    varieties "clicsbp-idssegmented-goajiro"
+    languages "wayu1243"
+    families "Arawakan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 410
     target 1266
     count 1
     words "j e w a lʲ i"
@@ -20151,32 +20151,6 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 411
-    target 412
-    count 1
-    words "w u n u ʔ u"
-    varieties "clicsbp-idssegmented-goajiro"
-    languages "wayu1243"
-    families "Arawakan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 411
-    target 413
-    count 1
-    words "w u n u ʔ u"
-    varieties "clicsbp-idssegmented-goajiro"
-    languages "wayu1243"
-    families "Arawakan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
     source 412
     target 413
     count 1
@@ -20191,6 +20165,32 @@ graph [
   ]
   edge [
     source 412
+    target 414
+    count 1
+    words "w u n u ʔ u"
+    varieties "clicsbp-idssegmented-goajiro"
+    languages "wayu1243"
+    families "Arawakan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 413
+    target 414
+    count 1
+    words "w u n u ʔ u"
+    varieties "clicsbp-idssegmented-goajiro"
+    languages "wayu1243"
+    families "Arawakan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 413
     target 1182
     count 1
     words "kʰ a s a r a i"
@@ -20203,7 +20203,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 417
+    source 418
     target 1023
     count 1
     words "t i h a r a ʔ i"
@@ -20216,7 +20216,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 417
+    source 418
     target 884
     count 1
     words "m u w ĩ"
@@ -20229,7 +20229,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 417
+    source 418
     target 885
     count 1
     words "m u w ĩ"
@@ -20242,7 +20242,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 421
+    source 422
     target 848
     count 1
     words "k a m ɨ + k a"
@@ -20255,7 +20255,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 421
+    source 422
     target 870
     count 1
     words "k a m u l̥ʲ i a lʲ i"
@@ -20268,7 +20268,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 423
+    source 424
     target 1060
     count 1
     words "k a l̥ʲ i + h u lʲ i s i"
@@ -20281,7 +20281,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 424
+    source 425
     target 692
     count 1
     words "k a h a"
@@ -20294,8 +20294,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 427
-    target 428
+    source 428
+    target 429
     count 1
     words "t oː lʲ o"
     varieties "clicsbp-idssegmented-goajiro"
@@ -20307,8 +20307,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 427
-    target 431
+    source 428
+    target 432
     count 1
     words "ˀd a u n a i u r a"
     varieties "clicsbp-idssegmented-wapishana"
@@ -20320,8 +20320,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 427
-    target 436
+    source 428
+    target 437
     count 1
     words "ʒ ɨ"
     varieties "clicsbp-idssegmented-waura"
@@ -20333,7 +20333,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 427
+    source 428
     target 951
     count 1
     words "ʒ ɨ"
@@ -20346,8 +20346,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 428
-    target 479
+    source 429
+    target 480
     count 1
     words "kʰ a ʐ u tʰ i"
     varieties "clicsbp-idssegmented-wapishana"
@@ -20359,8 +20359,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 428
-    target 483
+    source 429
+    target 484
     count 1
     words "kʰ a ʐ u tʰ i"
     varieties "clicsbp-idssegmented-wapishana"
@@ -20372,8 +20372,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 428
-    target 489
+    source 429
+    target 490
     count 1
     words "kʰ a ʐ u tʰ i"
     varieties "clicsbp-idssegmented-wapishana"
@@ -20385,7 +20385,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 428
+    source 429
     target 491
     count 1
     words "kʰ a ʐ u tʰ i"
@@ -20398,8 +20398,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 429
-    target 430
+    source 430
+    target 431
     count 2
     words "h i e rⁿ ɨ//ʐ ɨ n a"
     varieties "clicsbp-idssegmented-goajiro//clicsbp-idssegmented-wapishana"
@@ -20411,21 +20411,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 429
-    target 432
-    count 1
-    words "ʐ ɨ n a"
-    varieties "clicsbp-idssegmented-wapishana"
-    languages "wapi1253"
-    families "Arawakan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
     source 430
-    target 432
+    target 433
     count 1
     words "ʐ ɨ n a"
     varieties "clicsbp-idssegmented-wapishana"
@@ -20438,7 +20425,20 @@ graph [
   ]
   edge [
     source 431
-    target 432
+    target 433
+    count 1
+    words "ʐ ɨ n a"
+    varieties "clicsbp-idssegmented-wapishana"
+    languages "wapi1253"
+    families "Arawakan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 432
+    target 433
     count 2
     words "t e p i tʃ i//a m a p e r u"
     varieties "clicsbp-idssegmented-goajiro//clicsbp-idssegmented-ignaciano"
@@ -20450,8 +20450,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 431
-    target 433
+    source 432
+    target 434
     count 2
     words "a m a p e r u//m a l̥ʲ i a n i"
     varieties "clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-yavitero"
@@ -20463,47 +20463,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 431
-    target 434
-    count 1
-    words "a m a p e r u"
-    varieties "clicsbp-idssegmented-ignaciano"
-    languages "igna1246"
-    families "Arawakan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 431
-    target 849
-    count 1
-    words "a m a p e r u"
-    varieties "clicsbp-idssegmented-ignaciano"
-    languages "igna1246"
-    families "Arawakan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
     source 432
-    target 433
-    count 1
-    words "a m a p e r u"
-    varieties "clicsbp-idssegmented-ignaciano"
-    languages "igna1246"
-    families "Arawakan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 432
-    target 434
+    target 435
     count 1
     words "a m a p e r u"
     varieties "clicsbp-idssegmented-ignaciano"
@@ -20530,6 +20491,19 @@ graph [
   edge [
     source 433
     target 434
+    count 1
+    words "a m a p e r u"
+    varieties "clicsbp-idssegmented-ignaciano"
+    languages "igna1246"
+    families "Arawakan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 433
+    target 435
     count 1
     words "a m a p e r u"
     varieties "clicsbp-idssegmented-ignaciano"
@@ -20555,6 +20529,19 @@ graph [
   ]
   edge [
     source 434
+    target 435
+    count 1
+    words "a m a p e r u"
+    varieties "clicsbp-idssegmented-ignaciano"
+    languages "igna1246"
+    families "Arawakan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 434
     target 849
     count 1
     words "a m a p e r u"
@@ -20568,6 +20555,19 @@ graph [
   ]
   edge [
     source 435
+    target 849
+    count 1
+    words "a m a p e r u"
+    varieties "clicsbp-idssegmented-ignaciano"
+    languages "igna1246"
+    families "Arawakan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 436
     target 1026
     count 1
     words "m a ʐ i ˀd a + n"
@@ -20580,7 +20580,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 436
+    source 437
     target 951
     count 1
     words "ʒ ɨ"
@@ -20593,8 +20593,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 440
-    target 441
+    source 441
+    target 442
     count 2
     words "t a + tʃ o n//tʃ i tʃ a"
     varieties "clicsbp-idssegmented-goajiro//clicsbp-idssegmented-trinitario"
@@ -20606,8 +20606,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 440
-    target 442
+    source 441
+    target 443
     count 2
     words "t a + tʃ o n//ˀd a n i"
     varieties "clicsbp-idssegmented-goajiro//clicsbp-idssegmented-wapishana"
@@ -20619,60 +20619,21 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 440
-    target 443
-    count 1
-    words "t a + tʃ o n"
-    varieties "clicsbp-idssegmented-goajiro"
-    languages "wayu1243"
-    families "Arawakan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 440
-    target 444
-    count 1
-    words "t a + tʃ o n"
-    varieties "clicsbp-idssegmented-goajiro"
-    languages "wayu1243"
-    families "Arawakan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 441
-    target 442
-    count 1
-    words "t a + tʃ o n"
-    varieties "clicsbp-idssegmented-goajiro"
-    languages "wayu1243"
-    families "Arawakan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 441
-    target 443
-    count 1
-    words "t a + tʃ o n"
-    varieties "clicsbp-idssegmented-goajiro"
-    languages "wayu1243"
-    families "Arawakan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
     source 441
     target 444
+    count 1
+    words "t a + tʃ o n"
+    varieties "clicsbp-idssegmented-goajiro"
+    languages "wayu1243"
+    families "Arawakan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 441
+    target 445
     count 1
     words "t a + tʃ o n"
     varieties "clicsbp-idssegmented-goajiro"
@@ -20699,6 +20660,19 @@ graph [
   edge [
     source 442
     target 444
+    count 1
+    words "t a + tʃ o n"
+    varieties "clicsbp-idssegmented-goajiro"
+    languages "wayu1243"
+    families "Arawakan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 442
+    target 445
     count 1
     words "t a + tʃ o n"
     varieties "clicsbp-idssegmented-goajiro"
@@ -20712,6 +20686,32 @@ graph [
   edge [
     source 443
     target 444
+    count 1
+    words "t a + tʃ o n"
+    varieties "clicsbp-idssegmented-goajiro"
+    languages "wayu1243"
+    families "Arawakan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 443
+    target 445
+    count 1
+    words "t a + tʃ o n"
+    varieties "clicsbp-idssegmented-goajiro"
+    languages "wayu1243"
+    families "Arawakan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 444
+    target 445
     count 4
     words "t a + tʃ o n//tʃ e h i//a n e w a//t a n i h i n a lʲ i"
     varieties "clicsbp-idssegmented-goajiro//clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-yavitero"
@@ -20723,21 +20723,8 @@ graph [
     cognate_count 4
   ]
   edge [
-    source 443
-    target 448
-    count 1
-    words "tʃ e h i"
-    varieties "clicsbp-idssegmented-ignaciano"
-    languages "igna1246"
-    families "Arawakan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
     source 444
-    target 448
+    target 449
     count 1
     words "tʃ e h i"
     varieties "clicsbp-idssegmented-ignaciano"
@@ -20750,7 +20737,20 @@ graph [
   ]
   edge [
     source 445
-    target 446
+    target 449
+    count 1
+    words "tʃ e h i"
+    varieties "clicsbp-idssegmented-ignaciano"
+    languages "igna1246"
+    families "Arawakan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 446
+    target 447
     count 3
     words "t a + w a lʲ a//p a r a p e//a t i"
     varieties "clicsbp-idssegmented-goajiro//clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-trinitario"
@@ -20762,8 +20762,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 445
-    target 447
+    source 446
+    target 448
     count 2
     words "t a + w a lʲ a//p a r a p e"
     varieties "clicsbp-idssegmented-goajiro//clicsbp-idssegmented-ignaciano"
@@ -20775,8 +20775,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 445
-    target 448
+    source 446
+    target 449
     count 1
     words "t a + w a lʲ a"
     varieties "clicsbp-idssegmented-goajiro"
@@ -20788,20 +20788,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 445
-    target 451
-    count 1
-    words "a t i"
-    varieties "clicsbp-idssegmented-trinitario"
-    languages "trin1274"
-    families "Arawakan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 445
+    source 446
     target 452
     count 1
     words "a t i"
@@ -20815,46 +20802,7 @@ graph [
   ]
   edge [
     source 446
-    target 447
-    count 2
-    words "t a + w a lʲ a//p a r a p e"
-    varieties "clicsbp-idssegmented-goajiro//clicsbp-idssegmented-ignaciano"
-    languages "wayu1243//igna1246"
-    families "Arawakan//Arawakan"
-    variety_count 2
-    language_count 2
-    family_count 1
-    cognate_count 2
-  ]
-  edge [
-    source 446
-    target 448
-    count 1
-    words "t a + w a lʲ a"
-    varieties "clicsbp-idssegmented-goajiro"
-    languages "wayu1243"
-    families "Arawakan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 446
-    target 451
-    count 1
-    words "a t i"
-    varieties "clicsbp-idssegmented-trinitario"
-    languages "trin1274"
-    families "Arawakan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 446
-    target 452
+    target 453
     count 1
     words "a t i"
     varieties "clicsbp-idssegmented-trinitario"
@@ -20868,6 +20816,19 @@ graph [
   edge [
     source 447
     target 448
+    count 2
+    words "t a + w a lʲ a//p a r a p e"
+    varieties "clicsbp-idssegmented-goajiro//clicsbp-idssegmented-ignaciano"
+    languages "wayu1243//igna1246"
+    families "Arawakan//Arawakan"
+    variety_count 2
+    language_count 2
+    family_count 1
+    cognate_count 2
+  ]
+  edge [
+    source 447
+    target 449
     count 1
     words "t a + w a lʲ a"
     varieties "clicsbp-idssegmented-goajiro"
@@ -20879,7 +20840,46 @@ graph [
     cognate_count 1
   ]
   edge [
+    source 447
+    target 452
+    count 1
+    words "a t i"
+    varieties "clicsbp-idssegmented-trinitario"
+    languages "trin1274"
+    families "Arawakan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 447
+    target 453
+    count 1
+    words "a t i"
+    varieties "clicsbp-idssegmented-trinitario"
+    languages "trin1274"
+    families "Arawakan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
     source 448
+    target 449
+    count 1
+    words "t a + w a lʲ a"
+    varieties "clicsbp-idssegmented-goajiro"
+    languages "wayu1243"
+    families "Arawakan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 449
     target 1118
     count 1
     words "i r i ˀb a n"
@@ -20892,8 +20892,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 449
-    target 450
+    source 450
+    target 451
     count 3
     words "t a + p a j a//p o r a p e//e tʃ o w i"
     varieties "clicsbp-idssegmented-goajiro//clicsbp-idssegmented-trinitario//clicsbp-idssegmented-trinitario"
@@ -20905,8 +20905,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 451
-    target 452
+    source 452
+    target 453
     count 2
     words "a t i//ˀd a w i ʔ i tʃʰ a n"
     varieties "clicsbp-idssegmented-trinitario//clicsbp-idssegmented-wapishana"
@@ -20918,8 +20918,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 456
-    target 457
+    source 457
+    target 458
     count 5
     words "t a + lʲ ɨ i n//a m a r i//m e k a h j i//a m r i//tʰ a kʰ a n"
     varieties "clicsbp-idssegmented-goajiro//clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-mashcopiro//clicsbp-idssegmented-trinitario//clicsbp-idssegmented-wapishana"
@@ -20931,8 +20931,8 @@ graph [
     cognate_count 4
   ]
   edge [
-    source 461
-    target 462
+    source 462
+    target 463
     count 1
     words "t a + ʃ i m i a"
     varieties "clicsbp-idssegmented-goajiro"
@@ -20944,8 +20944,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 461
-    target 463
+    source 462
+    target 464
     count 4
     words "i m a tʃ u k a//i m a ˀd a kʰ u ʐ//m a t u//m a t u s i"
     varieties "clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-wapishana//clicsbp-idssegmented-waura//clicsbp-idssegmented-yavitero"
@@ -20957,8 +20957,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 462
-    target 468
+    source 463
+    target 469
     count 4
     words "tʃ i n a//tʃ i n a + r e//ˀd i n i ʐ ɨ//ĩ j ẽ"
     varieties "clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-wapishana//clicsbp-idssegmented-waura"
@@ -20970,8 +20970,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 464
-    target 465
+    source 465
+    target 466
     count 4
     words "i m a s e//i m a ɨ ʐ u//m a t ɨ//m a s i u"
     varieties "clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-wapishana//clicsbp-idssegmented-waura//clicsbp-idssegmented-yavitero"
@@ -20983,20 +20983,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 465
-    target 466
-    count 1
-    words "t a + ɨ lʲ ɨ"
-    varieties "clicsbp-idssegmented-goajiro"
-    languages "wayu1243"
-    families "Arawakan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 465
+    source 466
     target 467
     count 1
     words "t a + ɨ lʲ ɨ"
@@ -21010,7 +20997,20 @@ graph [
   ]
   edge [
     source 466
-    target 467
+    target 468
+    count 1
+    words "t a + ɨ lʲ ɨ"
+    varieties "clicsbp-idssegmented-goajiro"
+    languages "wayu1243"
+    families "Arawakan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 467
+    target 468
     count 5
     words "t a + ɨ lʲ ɨ//tʃ i n e n a k a//tʃ i n e n a//ˀd i n i ʐ u//ĩ tʃ u w i"
     varieties "clicsbp-idssegmented-goajiro//clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-wapishana//clicsbp-idssegmented-waura"
@@ -21022,8 +21022,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 471
-    target 472
+    source 472
+    target 473
     count 1
     words "k o s tʃ e k j e h r e r ɨ"
     varieties "clicsbp-idssegmented-mashcopiro"
@@ -21035,7 +21035,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 473
+    source 474
     target 1100
     count 1
     words "p a l a w a"
@@ -21048,7 +21048,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 474
+    source 475
     target 1033
     count 3
     words "h a ɲ o n o//i r i ˀb a n + n a u//h a l̥ʲ u h e m i"
@@ -21061,7 +21061,7 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 474
+    source 475
     target 990
     count 1
     words "h a l̥ʲ u h e m i"
@@ -21074,8 +21074,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 475
-    target 476
+    source 476
+    target 477
     count 1
     words "m ɨ rⁿ ɨ lʲ ɨ"
     varieties "clicsbp-idssegmented-goajiro"
@@ -21087,8 +21087,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 478
-    target 480
+    source 479
+    target 481
     count 1
     words "b a k a"
     varieties "clicsbp-idssegmented-yavitero"
@@ -21100,8 +21100,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 479
-    target 483
+    source 480
+    target 484
     count 1
     words "kʰ a ʐ u tʰ i"
     varieties "clicsbp-idssegmented-wapishana"
@@ -21113,8 +21113,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 479
-    target 489
+    source 480
+    target 490
     count 1
     words "kʰ a ʐ u tʰ i"
     varieties "clicsbp-idssegmented-wapishana"
@@ -21126,7 +21126,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 479
+    source 480
     target 491
     count 1
     words "kʰ a ʐ u tʰ i"
@@ -21139,7 +21139,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 482
+    source 483
     target 1156
     count 1
     words "a l ã"
@@ -21152,8 +21152,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 483
-    target 489
+    source 484
+    target 490
     count 1
     words "kʰ a ʐ u tʰ i"
     varieties "clicsbp-idssegmented-wapishana"
@@ -21165,7 +21165,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 483
+    source 484
     target 491
     count 1
     words "kʰ a ʐ u tʰ i"
@@ -21178,7 +21178,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 487
+    source 488
     target 495
     count 1
     words "a u t u + k u m a"
@@ -21191,7 +21191,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 489
+    source 490
     target 491
     count 1
     words "kʰ a ʐ u tʰ i"

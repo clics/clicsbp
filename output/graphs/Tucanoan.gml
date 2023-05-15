@@ -4153,6 +4153,18 @@ graph [
   ]
   node [
     id 346
+    label "SLOTH"
+    occurrences "clicsbp-huntergatherer-147-SLOTH-1"
+    words "b a d o b ɨ + a g o"
+    varieties "clicsbp-huntergatherer-147"
+    languages "orej1242"
+    families "Tucanoan"
+    language_count 1
+    variety_count 1
+    family_count 1
+  ]
+  node [
+    id 347
     label "SNAIL"
     occurrences "clicsbp-huntergatherer-147-SNAIL-1//clicsbp-idssegmented-siona-SNAIL-1//clicsbp-idssegmented-tuyuca-SNAIL-1"
     words "a + a g o//tʃ u tˀ u//s ɨ ɨ̃"
@@ -4164,7 +4176,7 @@ graph [
     family_count 1
   ]
   node [
-    id 347
+    id 348
     label "SQUIRREL"
     occurrences "clicsbp-huntergatherer-147-SQUIRREL-1"
     words "s ɨ s ɨ ts o + a g o"
@@ -4176,7 +4188,7 @@ graph [
     family_count 1
   ]
   node [
-    id 348
+    id 349
     label "TICK"
     occurrences "clicsbp-huntergatherer-147-TICK-1"
     words "ts o d e + a g o"
@@ -4188,7 +4200,7 @@ graph [
     family_count 1
   ]
   node [
-    id 349
+    id 350
     label "VULTURE"
     occurrences "clicsbp-huntergatherer-147-VULTURE-1//clicsbp-idssegmented-siona-VULTURE-1//clicsbp-idssegmented-siona-VULTURE-2//clicsbp-idssegmented-tuyuca-VULTURE-1"
     words "p ɨ p ɨ d ɨ + a g u ɨ//pˀ ɨ ʔ pˀ ɨ tˀ i//kˀ a o//j u k a"
@@ -4200,7 +4212,7 @@ graph [
     family_count 1
   ]
   node [
-    id 350
+    id 351
     label "WASP"
     occurrences "clicsbp-huntergatherer-147-WASP-1//clicsbp-idssegmented-siona-WASP-2//clicsbp-idssegmented-siona-WASP-1//clicsbp-idssegmented-siona-WASP-3//clicsbp-idssegmented-tuyuca-WASP-1//clicsbp-idssegmented-tuyuca-WASP-2"
     words "u t i + a g u ɨ//w i//u t i//h a m u + u t i//u t i a w ɨ//u t i a"
@@ -4212,7 +4224,7 @@ graph [
     family_count 1
   ]
   node [
-    id 351
+    id 352
     label "BASKET"
     occurrences "clicsbp-huntergatherer-147-BASKET-1//clicsbp-huntergatherer-147-BASKET-2//clicsbp-idssegmented-siona-BASKET-1//clicsbp-idssegmented-siona-BASKET-2//clicsbp-idssegmented-tuyuca-BASKET-1"
     words "d o d u//d o d u + j a//pˀ ã ʔ k a pˀ ɨ//h ɨ ʔ ɨ//p i i"
@@ -4224,7 +4236,7 @@ graph [
     family_count 1
   ]
   node [
-    id 352
+    id 353
     label "BOTTLE"
     occurrences "clicsbp-huntergatherer-147-BOTTLE-1"
     words "j a ts u t a d a + j a"
@@ -4236,7 +4248,7 @@ graph [
     family_count 1
   ]
   node [
-    id 353
+    id 354
     label "BROOM"
     occurrences "clicsbp-huntergatherer-147-BROOM-1//clicsbp-idssegmented-siona-BROOM-1//clicsbp-idssegmented-tuyuca-BROOM-1"
     words "s a j i b ɨ + j a//j u a + s i pˀ o//h o a + r i + b o k a"
@@ -4248,7 +4260,7 @@ graph [
     family_count 1
   ]
   node [
-    id 354
+    id 355
     label "CHICKEN"
     occurrences "clicsbp-huntergatherer-147-CHICKEN-1//clicsbp-idssegmented-siona-CHICKEN-1//clicsbp-idssegmented-siona-CHICKEN-2//clicsbp-idssegmented-tuyuca-CHICKEN-1"
     words "ts u d a + a g o//k u tˀ a//pˀ ɨ ʔʰ e + k u tˀ a//k ã r ẽ k ẽ"
@@ -4260,7 +4272,7 @@ graph [
     family_count 1
   ]
   node [
-    id 355
+    id 356
     label "DREAMING OR DREAM"
     occurrences "clicsbp-huntergatherer-147-DREAMINGORDREAM-1"
     words "u a + b ɨ o + ts a n i + n i a s e + j a"
@@ -4272,7 +4284,7 @@ graph [
     family_count 1
   ]
   node [
-    id 356
+    id 357
     label "FISH TRAP"
     occurrences "clicsbp-huntergatherer-147-FISHTRAP-1//clicsbp-idssegmented-tuyuca-FISHTRAP-1"
     words "b a i + t a ɲ u + t u d i + x a//a r u k a"
@@ -4284,7 +4296,7 @@ graph [
     family_count 1
   ]
   node [
-    id 357
+    id 358
     label "FLUTE"
     occurrences "clicsbp-huntergatherer-147-FLUTE-1//clicsbp-idssegmented-siona-FLUTE-1//clicsbp-idssegmented-tuyuca-FLUTE-1"
     words "j u i b ɨ + j a//pˀ a ʔ pˀ a tˀ o//t õː + r õ + r i + w ɨ"
@@ -4296,7 +4308,7 @@ graph [
     family_count 1
   ]
   node [
-    id 358
+    id 359
     label "GRAVE"
     occurrences "clicsbp-huntergatherer-147-GRAVE-1//clicsbp-idssegmented-siona-GRAVE-1//clicsbp-idssegmented-siona-GRAVE-2//clicsbp-idssegmented-tuyuca-GRAVE-1"
     words "t a i + d a d i + j a//t ã + j i h a//t ã + kˀ o h e//b ã s ã + k o p e"
@@ -4308,7 +4320,7 @@ graph [
     family_count 1
   ]
   node [
-    id 359
+    id 360
     label "GUN"
     occurrences "clicsbp-huntergatherer-147-GUN-1"
     words "j a s u + j a"
@@ -4320,7 +4332,7 @@ graph [
     family_count 1
   ]
   node [
-    id 360
+    id 361
     label "HAT"
     occurrences "clicsbp-huntergatherer-147-HAT-1"
     words "m a d o + j a"
@@ -4332,7 +4344,7 @@ graph [
     family_count 1
   ]
   node [
-    id 361
+    id 362
     label "HONEY"
     occurrences "clicsbp-huntergatherer-147-HONEY-1//clicsbp-idssegmented-siona-HONEY-1//clicsbp-idssegmented-siona-HONEY-2//clicsbp-idssegmented-tuyuca-HONEY-1"
     words "o a + d a ts a + j a//pˀ a j a//o ʔ a + pˀ a j a//b ũ b ĩ ã + o k o"
@@ -4344,7 +4356,7 @@ graph [
     family_count 1
   ]
   node [
-    id 362
+    id 363
     label "HUNT"
     occurrences "clicsbp-huntergatherer-147-HUNT-1//clicsbp-idssegmented-tuyuca-HUNT-1"
     words "b a i//w a i k ɨ + r a + s ĩ ã"
@@ -4356,7 +4368,7 @@ graph [
     family_count 1
   ]
   node [
-    id 363
+    id 364
     label "MACHETE"
     occurrences "clicsbp-huntergatherer-147-MACHETE-1"
     words "q u i u d ɨ + j a"
@@ -4368,7 +4380,7 @@ graph [
     family_count 1
   ]
   node [
-    id 364
+    id 365
     label "MORTAR"
     occurrences "clicsbp-huntergatherer-147-MORTAR-1//clicsbp-idssegmented-tuyuca-MORTAR-1"
     words "t o u//d o k a + r i + g a"
@@ -4380,7 +4392,7 @@ graph [
     family_count 1
   ]
   node [
-    id 365
+    id 366
     label "FENCE"
     occurrences "clicsbp-huntergatherer-147-FENCE-1//clicsbp-idssegmented-siona-FENCE-1//clicsbp-idssegmented-tuyuca-FENCE-1"
     words "ɨ a j i g o + j a//t u ʔ a w ɨ//s ã d ĩ + r õ"
@@ -4392,7 +4404,7 @@ graph [
     family_count 1
   ]
   node [
-    id 366
+    id 367
     label "PAPER"
     occurrences "clicsbp-huntergatherer-147-PAPER-1//clicsbp-idssegmented-siona-PAPER-1//clicsbp-idssegmented-siona-PAPER-2//clicsbp-idssegmented-tuyuca-PAPER-1"
     words "t o j a + j a o + j a//u t i//u t i + h a ʔ o//p a p e r a"
@@ -4404,7 +4416,7 @@ graph [
     family_count 1
   ]
   node [
-    id 367
+    id 368
     label "PESTLE"
     occurrences "clicsbp-huntergatherer-147-PESTLE-1//clicsbp-idssegmented-siona-PESTLE-1//clicsbp-idssegmented-tuyuca-PESTLE-1"
     words "t o u + b a t i + j a//t o a pˀ ɨ//d o k a + r i + g ɨ"
@@ -4416,7 +4428,7 @@ graph [
     family_count 1
   ]
   node [
-    id 368
+    id 369
     label "PLATE"
     occurrences "clicsbp-huntergatherer-147-PLATE-1//clicsbp-idssegmented-tuyuca-PLATE-1"
     words "t o t o + d e o + j a//s i d a"
@@ -4428,7 +4440,7 @@ graph [
     family_count 1
   ]
   node [
-    id 369
+    id 370
     label "POT"
     occurrences "clicsbp-huntergatherer-147-POT-1"
     words "ts u a ts o d o + j a"
@@ -4440,7 +4452,7 @@ graph [
     family_count 1
   ]
   node [
-    id 370
+    id 371
     label "SCHOOL"
     occurrences "clicsbp-huntergatherer-147-SCHOOL-1//clicsbp-idssegmented-siona-SCHOOL-1//clicsbp-idssegmented-tuyuca-SCHOOL-1"
     words "t o j a + q u ɨ a + u e + j a//u t i + j e ʔ j e tˀ u//b u e + r i + w i"
@@ -4452,7 +4464,7 @@ graph [
     family_count 1
   ]
   node [
-    id 371
+    id 372
     label "SHOE"
     occurrences "clicsbp-huntergatherer-147-SHOE-1//clicsbp-idssegmented-siona-SHOE-1//clicsbp-idssegmented-siona-SHOE-2//clicsbp-idssegmented-tuyuca-SHOE-1"
     words "ɨ o j o + j a//k o tˀ o//kˀ ɨ õ + k o tˀ o w ɨ//s a p a t u"
@@ -4464,7 +4476,7 @@ graph [
     family_count 1
   ]
   node [
-    id 372
+    id 373
     label "SKIRT"
     occurrences "clicsbp-huntergatherer-147-SKIRT-1//clicsbp-idssegmented-tuyuca-SKIRT-1"
     words "q u ɨ o t o + j a//s a j a"
@@ -4476,7 +4488,7 @@ graph [
     family_count 1
   ]
   node [
-    id 373
+    id 374
     label "SONG"
     occurrences "clicsbp-huntergatherer-147-SONG-1"
     words "u j a + d a i + j a"
@@ -4488,7 +4500,7 @@ graph [
     family_count 1
   ]
   node [
-    id 374
+    id 375
     label "SUGAR CANE"
     occurrences "clicsbp-huntergatherer-147-SUGARCANE-1//clicsbp-idssegmented-siona-SUGARCANE-1//clicsbp-idssegmented-tuyuca-SUGARCANE-1"
     words "j o ts o + j a//sˀ ɨ ʔ sˀ ɨ//k ã d ɨ"
@@ -4500,7 +4512,7 @@ graph [
     family_count 1
   ]
   node [
-    id 375
+    id 376
     label "THATCH OR ROOF"
     occurrences "clicsbp-huntergatherer-147-THATCHORROOF-1"
     words "e d i + ɲ i + j a"
@@ -4512,7 +4524,7 @@ graph [
     family_count 1
   ]
   node [
-    id 376
+    id 377
     label "CLOTHES"
     occurrences "clicsbp-huntergatherer-147-CLOTHES-1//clicsbp-idssegmented-siona-CLOTHES-1//clicsbp-idssegmented-siona-CLOTHES-2//clicsbp-idssegmented-tuyuca-CLOTHES-1"
     words "t o + j a//k ã//h u ʔ i + k ã//s u t i"
@@ -4524,7 +4536,7 @@ graph [
     family_count 1
   ]
   node [
-    id 377
+    id 378
     label "LAND"
     occurrences "clicsbp-idssegmented-siona-LAND-1//clicsbp-idssegmented-siona-LAND-2//clicsbp-idssegmented-tuyuca-LAND-1"
     words "j i h a//j a ʔ o//j e p a"
@@ -4536,7 +4548,7 @@ graph [
     family_count 1
   ]
   node [
-    id 378
+    id 379
     label "FLOOR"
     occurrences "clicsbp-idssegmented-siona-FLOOR-1//clicsbp-idssegmented-tuyuca-FLOOR-1"
     words "j a ʔ o//j e p a"
@@ -4548,7 +4560,7 @@ graph [
     family_count 1
   ]
   node [
-    id 379
+    id 380
     label "CLAY"
     occurrences "clicsbp-idssegmented-siona-CLAY-2//clicsbp-idssegmented-siona-CLAY-1//clicsbp-idssegmented-siona-CLAY-3//clicsbp-idssegmented-tuyuca-CLAY-1"
     words "j a ʔ o//pˀ a n a//s o t o//d i i"
@@ -4560,7 +4572,7 @@ graph [
     family_count 1
   ]
   node [
-    id 380
+    id 381
     label "MUD"
     occurrences "clicsbp-idssegmented-siona-MUD-1//clicsbp-idssegmented-siona-MUD-2//clicsbp-idssegmented-tuyuca-MUD-1"
     words "pˀ a n a + h i//p a n a + h i//d i t a + w ĩ t ã + r e"
@@ -4572,7 +4584,7 @@ graph [
     family_count 1
   ]
   node [
-    id 381
+    id 382
     label "PRECIPICE"
     occurrences "clicsbp-idssegmented-siona-PRECIPICE-1//clicsbp-idssegmented-siona-PRECIPICE-2//clicsbp-idssegmented-tuyuca-PRECIPICE-1"
     words "t ɨ ʔ t ɨ pˀ a//t ã ʔ t ɨ pˀ o//t ɨ d ɨ"
@@ -4584,7 +4596,7 @@ graph [
     family_count 1
   ]
   node [
-    id 382
+    id 383
     label "PLAIN"
     occurrences "clicsbp-idssegmented-siona-PLAIN-1"
     words "t a j a"
@@ -4596,7 +4608,7 @@ graph [
     family_count 1
   ]
   node [
-    id 383
+    id 384
     label "PASTURE"
     occurrences "clicsbp-idssegmented-siona-PASTURE-1//clicsbp-idssegmented-tuyuca-PASTURE-1"
     words "t a j a//k ã p ũ"
@@ -4608,7 +4620,7 @@ graph [
     family_count 1
   ]
   node [
-    id 384
+    id 385
     label "SHORE"
     occurrences "clicsbp-idssegmented-siona-SHORE-1//clicsbp-idssegmented-siona-SHORE-2"
     words "m e h a pˀ ɨ//m e h a kˀ u"
@@ -4620,7 +4632,7 @@ graph [
     family_count 1
   ]
   node [
-    id 385
+    id 386
     label "FOAM"
     occurrences "clicsbp-idssegmented-siona-FOAM-1//clicsbp-idssegmented-tuyuca-FOAM-1"
     words "tʃ i tˀ i//s o b o"
@@ -4632,7 +4644,7 @@ graph [
     family_count 1
   ]
   node [
-    id 386
+    id 387
     label "WAVE"
     occurrences "clicsbp-idssegmented-siona-WAVE-1"
     words "t ɨ ʔ a"
@@ -4644,7 +4656,7 @@ graph [
     family_count 1
   ]
   node [
-    id 387
+    id 388
     label "FLOWING BODY OF WATER"
     occurrences "clicsbp-idssegmented-siona-FLOWINGBODYOFWATER-1//clicsbp-idssegmented-siona-FLOWINGBODYOFWATER-2//clicsbp-idssegmented-tuyuca-FLOWINGBODYOFWATER-1"
     words "sˀ i a + j a//s a o pˀ o//d i a"
@@ -4656,7 +4668,7 @@ graph [
     family_count 1
   ]
   node [
-    id 388
+    id 389
     label "WHIRLPOOL"
     occurrences "clicsbp-idssegmented-siona-WHIRLPOOL-1//clicsbp-idssegmented-siona-WHIRLPOOL-2//clicsbp-idssegmented-tuyuca-WHIRLPOOL-1"
     words "a j a r a//k ɨ w i tˀ a//o d e + r i + k o p e"
@@ -4668,7 +4680,7 @@ graph [
     family_count 1
   ]
   node [
-    id 389
+    id 390
     label "SPRING OR WELL"
     occurrences "clicsbp-idssegmented-siona-SPRINGORWELL-1//clicsbp-idssegmented-siona-SPRINGORWELL-2//clicsbp-idssegmented-tuyuca-SPRINGORWELL-1"
     words "j o tˀ o pˀ ɨ//s ã ʔ kˀ a//d i a + p o t e"
@@ -4680,7 +4692,7 @@ graph [
     family_count 1
   ]
   node [
-    id 390
+    id 391
     label "DOUGH"
     occurrences "clicsbp-idssegmented-siona-DOUGH-2//clicsbp-idssegmented-siona-DOUGH-1"
     words "j o tˀ o pˀ ɨ//kˀ a tˀ pˀ ɨ"
@@ -4692,7 +4704,7 @@ graph [
     family_count 1
   ]
   node [
-    id 391
+    id 392
     label "DITCH"
     occurrences "clicsbp-idssegmented-siona-DITCH-1"
     words "j o tˀ o pˀ ɨ"
@@ -4704,7 +4716,7 @@ graph [
     family_count 1
   ]
   node [
-    id 392
+    id 393
     label "FOREST"
     occurrences "clicsbp-idssegmented-siona-FOREST-1//clicsbp-idssegmented-siona-FOREST-2//clicsbp-idssegmented-tuyuca-FOREST-1"
     words "a i tˀ u//m ã k a//b ã k ã d ɨ k ɨ"
@@ -4716,7 +4728,7 @@ graph [
     family_count 1
   ]
   node [
-    id 393
+    id 394
     label "WOOD"
     occurrences "clicsbp-idssegmented-siona-WOOD-1//clicsbp-idssegmented-siona-WOOD-2//clicsbp-idssegmented-tuyuca-WOOD-1"
     words "w ã s o//t ɨ k a//j u k ɨ"
@@ -4728,7 +4740,7 @@ graph [
     family_count 1
   ]
   node [
-    id 394
+    id 395
     label "RAFTER"
     occurrences "clicsbp-idssegmented-siona-RAFTER-1//clicsbp-idssegmented-siona-RAFTER-2//clicsbp-idssegmented-siona-RAFTER-3//clicsbp-idssegmented-tuyuca-RAFTER-1"
     words "w ã s o//t ã t a//t e õ + t ɨ k a//t ẽ d ĩ"
@@ -4740,7 +4752,7 @@ graph [
     family_count 1
   ]
   node [
-    id 395
+    id 396
     label "BEAM"
     occurrences "clicsbp-idssegmented-siona-BEAM-1//clicsbp-idssegmented-siona-BEAM-2//clicsbp-idssegmented-tuyuca-BEAM-1"
     words "w ã s o//t ã t a//t ẽ d ĩ"
@@ -4752,7 +4764,7 @@ graph [
     family_count 1
   ]
   node [
-    id 396
+    id 397
     label "POST"
     occurrences "clicsbp-idssegmented-siona-POST-1//clicsbp-idssegmented-siona-POST-2//clicsbp-idssegmented-tuyuca-POST-1"
     words "w ã s o//t u//b o t a"
@@ -4764,7 +4776,7 @@ graph [
     family_count 1
   ]
   node [
-    id 397
+    id 398
     label "STONE OR ROCK"
     occurrences "clicsbp-idssegmented-siona-STONEORROCK-1//clicsbp-idssegmented-tuyuca-STONEORROCK-1"
     words "kˀ a t a//ɨ t ã"
@@ -4776,7 +4788,7 @@ graph [
     family_count 1
   ]
   node [
-    id 398
+    id 399
     label "EARTHQUAKE"
     occurrences "clicsbp-idssegmented-siona-EARTHQUAKE-1//clicsbp-idssegmented-tuyuca-EARTHQUAKE-1"
     words "j ũ ʔ kʷ e + h i//d i t a + j ũ b ĩ"
@@ -4788,7 +4800,7 @@ graph [
     family_count 1
   ]
   node [
-    id 399
+    id 400
     label "LIGHT (RADIATION)"
     occurrences "clicsbp-idssegmented-siona-LIGHTRADIATION-1//clicsbp-idssegmented-siona-LIGHTRADIATION-2//clicsbp-idssegmented-tuyuca-LIGHTRADIATION-1//clicsbp-idssegmented-tuyuca-LIGHTRADIATION-2"
     words "kˀ o s i h i//m i a h i//s ĩ ã b o e + k o + r e//s ĩ ã w o + k o + r e"
@@ -4800,7 +4812,7 @@ graph [
     family_count 1
   ]
   node [
-    id 400
+    id 401
     label "DARKNESS"
     occurrences "clicsbp-idssegmented-siona-DARKNESS-1//clicsbp-idssegmented-siona-DARKNESS-2//clicsbp-idssegmented-siona-DARKNESS-3//clicsbp-idssegmented-tuyuca-DARKNESS-1"
     words "sˀ i//sˀ i h e p ɨ//sˀ i h e i tˀ ɨ//d ã ĩ + t ĩ ã + r e"
@@ -4812,7 +4824,7 @@ graph [
     family_count 1
   ]
   node [
-    id 401
+    id 402
     label "SHADE"
     occurrences "clicsbp-idssegmented-siona-SHADE-1//clicsbp-idssegmented-tuyuca-SHADE-1"
     words "w e ʔ e kˀ ɨ//b ũ ĩ p ũ + k ã b õ t a + r o"
@@ -4824,7 +4836,7 @@ graph [
     family_count 1
   ]
   node [
-    id 402
+    id 403
     label "AIR"
     occurrences "clicsbp-idssegmented-siona-AIR-1//clicsbp-idssegmented-tuyuca-AIR-1//clicsbp-idssegmented-tuyuca-AIR-2"
     words "t u t u//õ b ẽ//ũ b ẽ"
@@ -4836,7 +4848,7 @@ graph [
     family_count 1
   ]
   node [
-    id 403
+    id 404
     label "CANDLE"
     occurrences "clicsbp-idssegmented-siona-CANDLE-1//clicsbp-idssegmented-tuyuca-CANDLE-1//clicsbp-idssegmented-tuyuca-CANDLE-2"
     words "t o a//s ĩ ã b o e + k o + r i + g ɨ//s ĩ ã w o + k o + r i + g ɨ"
@@ -4848,7 +4860,7 @@ graph [
     family_count 1
   ]
   node [
-    id 404
+    id 405
     label "EMBERS"
     occurrences "clicsbp-idssegmented-siona-EMBERS-1//clicsbp-idssegmented-tuyuca-EMBERS-1"
     words "n e o//d ĩ t ĩ + a s i y a + r e"
@@ -4860,7 +4872,7 @@ graph [
     family_count 1
   ]
   node [
-    id 405
+    id 406
     label "BURN (SOMETHING)"
     occurrences "clicsbp-idssegmented-siona-BURNSOMETHING-1//clicsbp-idssegmented-siona-BURNSOMETHING-2//clicsbp-idssegmented-siona-BURNSOMETHING-3//clicsbp-idssegmented-tuyuca-BURNSOMETHING-1"
     words "ɨ o h i//s ɨ õ h i//sˀ ɨ õ h i//s o e"
@@ -4872,7 +4884,7 @@ graph [
     family_count 1
   ]
   node [
-    id 406
+    id 407
     label "LIGHT (IGNITE)"
     occurrences "clicsbp-idssegmented-siona-LIGHTIGNITE-2//clicsbp-idssegmented-siona-LIGHTIGNITE-1//clicsbp-idssegmented-tuyuca-LIGHTIGNITE-1"
     words "s ɨ õ h i//s ɨ ĩ + h i//d i o"
@@ -4884,7 +4896,7 @@ graph [
     family_count 1
   ]
   node [
-    id 407
+    id 408
     label "BURNING"
     occurrences "clicsbp-idssegmented-siona-BURNING-1//clicsbp-idssegmented-siona-BURNING-2//clicsbp-idssegmented-tuyuca-BURNING-1"
     words "ʔ u + h i//sˀ ɨ ĩ + h i//h ɨ ɨ̃"
@@ -4896,7 +4908,7 @@ graph [
     family_count 1
   ]
   node [
-    id 408
+    id 409
     label "EXTINGUISH"
     occurrences "clicsbp-idssegmented-siona-EXTINGUISH-1//clicsbp-idssegmented-siona-EXTINGUISH-2//clicsbp-idssegmented-tuyuca-EXTINGUISH-1"
     words "j a j a + h i//j a j o + h i//j oː"
@@ -4908,7 +4920,7 @@ graph [
     family_count 1
   ]
   node [
-    id 409
+    id 410
     label "MATCH"
     occurrences "clicsbp-idssegmented-siona-MATCH-1//clicsbp-idssegmented-tuyuca-MATCH-1"
     words "t o a + s ɨ õ + t ɨ k a//p a r i t u"
@@ -4920,7 +4932,7 @@ graph [
     family_count 1
   ]
   node [
-    id 410
+    id 411
     label "MALE (OF PERSON)"
     occurrences "clicsbp-idssegmented-siona-MALEOFPERSON-1//clicsbp-idssegmented-tuyuca-MALEOFPERSON-1"
     words "kˀ ɨ//ɨ b ɨ"
@@ -4932,7 +4944,7 @@ graph [
     family_count 1
   ]
   node [
-    id 411
+    id 412
     label "FEMALE (OF PERSON)"
     occurrences "clicsbp-idssegmented-siona-FEMALEOFPERSON-1//clicsbp-idssegmented-tuyuca-FEMALEOFPERSON-1"
     words "kˀ o//d ũ b ĩ õ"
@@ -4944,7 +4956,7 @@ graph [
     family_count 1
   ]
   node [
-    id 412
+    id 413
     label "BOY"
     occurrences "clicsbp-idssegmented-siona-BOY-1//clicsbp-idssegmented-siona-BOY-2//clicsbp-idssegmented-tuyuca-BOY-1"
     words "m a m a//sˀ ĩ + w a ʔ kˀ ɨ//w ĩ b ã + g ɨ"
@@ -4956,7 +4968,7 @@ graph [
     family_count 1
   ]
   node [
-    id 413
+    id 414
     label "YOUNG MAN"
     occurrences "clicsbp-idssegmented-siona-YOUNGMAN-1//clicsbp-idssegmented-tuyuca-YOUNGMAN-1"
     words "pˀ õ s ɨ + kˀ ɨ//b ã b ɨ"
@@ -4968,7 +4980,7 @@ graph [
     family_count 1
   ]
   node [
-    id 414
+    id 415
     label "GIRL"
     occurrences "clicsbp-idssegmented-siona-GIRL-1//clicsbp-idssegmented-tuyuca-GIRL-1"
     words "tˀ o m i + sˀ ĩ + w a ʔ kˀ o//w ĩ b ã + g õ"
@@ -4980,7 +4992,7 @@ graph [
     family_count 1
   ]
   node [
-    id 415
+    id 416
     label "YOUNG WOMAN"
     occurrences "clicsbp-idssegmented-siona-YOUNGWOMAN-1//clicsbp-idssegmented-tuyuca-YOUNGWOMAN-1"
     words "tˀ õ m i + sˀ ĩ kˀ o//b ã b õ"
@@ -4992,7 +5004,7 @@ graph [
     family_count 1
   ]
   node [
-    id 416
+    id 417
     label "SON"
     occurrences "clicsbp-idssegmented-siona-SON-1//clicsbp-idssegmented-siona-SON-2//clicsbp-idssegmented-tuyuca-SON-1"
     words "m a m i//sˀ ĩ//b ã k ɨ"
@@ -5004,7 +5016,7 @@ graph [
     family_count 1
   ]
   node [
-    id 417
+    id 418
     label "DAUGHTER"
     occurrences "clicsbp-idssegmented-siona-DAUGHTER-1//clicsbp-idssegmented-tuyuca-DAUGHTER-1"
     words "m a m i//b ã k õ"
@@ -5016,7 +5028,7 @@ graph [
     family_count 1
   ]
   node [
-    id 418
+    id 419
     label "MARRY"
     occurrences "clicsbp-idssegmented-siona-MARRY-1//clicsbp-idssegmented-tuyuca-MARRY-1"
     words "w e h a + h i//w ã b õ + s i a"
@@ -5028,7 +5040,7 @@ graph [
     family_count 1
   ]
   node [
-    id 419
+    id 420
     label "CHILD (DESCENDANT)"
     occurrences "clicsbp-idssegmented-siona-CHILDDESCENDANT-1//clicsbp-idssegmented-tuyuca-CHILDDESCENDANT-1"
     words "sˀ ĩ k o ʔ a//p õ d ã"
@@ -5040,7 +5052,7 @@ graph [
     family_count 1
   ]
   node [
-    id 420
+    id 421
     label "OLDER BROTHER"
     occurrences "clicsbp-idssegmented-siona-OLDERBROTHER-1//clicsbp-idssegmented-siona-OLDERBROTHER-2//clicsbp-idssegmented-tuyuca-OLDERBROTHER-1"
     words "h a ʔ j ɨ//m a ʔ j ɨ//s õ w ɨ"
@@ -5052,7 +5064,7 @@ graph [
     family_count 1
   ]
   node [
-    id 421
+    id 422
     label "YOUNGER BROTHER"
     occurrences "clicsbp-idssegmented-siona-YOUNGERBROTHER-1//clicsbp-idssegmented-tuyuca-YOUNGERBROTHER-1"
     words "j o ʔʰ e + kˀ ɨ//b a i"
@@ -5064,7 +5076,7 @@ graph [
     family_count 1
   ]
   node [
-    id 422
+    id 423
     label "OLDER SISTER"
     occurrences "clicsbp-idssegmented-siona-OLDERSISTER-1//clicsbp-idssegmented-siona-OLDERSISTER-2//clicsbp-idssegmented-tuyuca-OLDERSISTER-1"
     words "h a ʔ j o//m a ʔ j o//s õ w õ"
@@ -5076,7 +5088,7 @@ graph [
     family_count 1
   ]
   node [
-    id 423
+    id 424
     label "YOUNGER SISTER"
     occurrences "clicsbp-idssegmented-siona-YOUNGERSISTER-1//clicsbp-idssegmented-tuyuca-YOUNGERSISTER-1"
     words "j o ʔʰ e + kˀ o//b a j i o"
@@ -5088,7 +5100,7 @@ graph [
     family_count 1
   ]
   node [
-    id 424
+    id 425
     label "GRANDFATHER"
     occurrences "clicsbp-idssegmented-siona-GRANDFATHER-1//clicsbp-idssegmented-siona-GRANDFATHER-2//clicsbp-idssegmented-tuyuca-GRANDFATHER-1"
     words "kʷˀ e + kˀ ɨ//a w e r o//j ẽ k ɨ"
@@ -5100,7 +5112,7 @@ graph [
     family_count 1
   ]
   node [
-    id 425
+    id 426
     label "GRANDMOTHER"
     occurrences "clicsbp-idssegmented-siona-GRANDMOTHER-1//clicsbp-idssegmented-tuyuca-GRANDMOTHER-1"
     words "kʷˀ e + kˀ o + a w e r a//j ẽ k õ"
@@ -5112,7 +5124,7 @@ graph [
     family_count 1
   ]
   node [
-    id 426
+    id 427
     label "GRANDSON"
     occurrences "clicsbp-idssegmented-siona-GRANDSON-1//clicsbp-idssegmented-tuyuca-GRANDSON-1"
     words "n a h e + kˀ ɨ//p ã r ã b ĩ"
@@ -5124,7 +5136,7 @@ graph [
     family_count 1
   ]
   node [
-    id 427
+    id 428
     label "GRANDDAUGHTER"
     occurrences "clicsbp-idssegmented-siona-GRANDDAUGHTER-1//clicsbp-idssegmented-tuyuca-GRANDDAUGHTER-1"
     words "n a h e + kˀ o//p ã r ã b ẽ õ"
@@ -5136,7 +5148,7 @@ graph [
     family_count 1
   ]
   node [
-    id 428
+    id 429
     label "UNCLE"
     occurrences "clicsbp-idssegmented-siona-UNCLE-1//clicsbp-idssegmented-siona-UNCLE-2"
     words "h õ t a + kˀ ɨ//kʷˀ ã + kˀ ɨ"
@@ -5148,7 +5160,7 @@ graph [
     family_count 1
   ]
   node [
-    id 429
+    id 430
     label "PATERNAL UNCLE (FATHER'S BROTHER)"
     occurrences "clicsbp-idssegmented-siona-PATERNALUNCLEFATHERSBROTHER-1//clicsbp-idssegmented-siona-PATERNALUNCLEFATHERSBROTHER-2//clicsbp-idssegmented-tuyuca-PATERNALUNCLEFATHERSBROTHER-1"
     words "i tˀ a + p ɨ ʔ k a + kˀ ɨ//i tˀ a + t a i t a//b ɨ g ɨ"
@@ -5160,7 +5172,7 @@ graph [
     family_count 1
   ]
   node [
-    id 430
+    id 431
     label "AUNT"
     occurrences "clicsbp-idssegmented-siona-AUNT-1"
     words "p ɨ ʔ k o"
@@ -5172,7 +5184,7 @@ graph [
     family_count 1
   ]
   node [
-    id 431
+    id 432
     label "MATERNAL AUNT (MOTHER'S SISTER)"
     occurrences "clicsbp-idssegmented-siona-MATERNALAUNTMOTHERSSISTER-1//clicsbp-idssegmented-siona-MATERNALAUNTMOTHERSSISTER-2//clicsbp-idssegmented-tuyuca-MATERNALAUNTMOTHERSSISTER-1"
     words "i tˀ a + p ɨ ʔ k a + kˀ o//i tˀ a + m a m a//b ɨ g o"
@@ -5184,7 +5196,7 @@ graph [
     family_count 1
   ]
   node [
-    id 432
+    id 433
     label "NEPHEW"
     occurrences "clicsbp-idssegmented-siona-NEPHEW-1//clicsbp-idssegmented-siona-NEPHEW-2//clicsbp-idssegmented-tuyuca-NEPHEW-1//clicsbp-idssegmented-tuyuca-NEPHEW-2"
     words "w a u//w i ʔ j a + kˀ ɨ//s õ w ɨ + b ã k ɨ//s õ w õ + b ã k ɨ"
@@ -5196,7 +5208,7 @@ graph [
     family_count 1
   ]
   node [
-    id 433
+    id 434
     label "NIECE"
     occurrences "clicsbp-idssegmented-siona-NIECE-1//clicsbp-idssegmented-siona-NIECE-2//clicsbp-idssegmented-tuyuca-NIECE-1//clicsbp-idssegmented-tuyuca-NIECE-2"
     words "w a u//w i ʔ j a + kˀ o//s õ w ɨ + b ã k õ//s õ w õ + b ã k õ"
@@ -5208,7 +5220,7 @@ graph [
     family_count 1
   ]
   node [
-    id 434
+    id 435
     label "COUSIN"
     occurrences "clicsbp-idssegmented-siona-COUSIN-1//clicsbp-idssegmented-siona-COUSIN-2//clicsbp-idssegmented-tuyuca-COUSIN-1//clicsbp-idssegmented-tuyuca-COUSIN-2"
     words "w i ʔ j a + kˀ ɨ//w i ʔ j a + kˀ o//t ẽ y ɨ//t ẽ y õ"
@@ -5220,7 +5232,7 @@ graph [
     family_count 1
   ]
   node [
-    id 435
+    id 436
     label "ANCESTORS"
     occurrences "clicsbp-idssegmented-siona-ANCESTORS-1//clicsbp-idssegmented-tuyuca-ANCESTORS-1"
     words "i tˀ a + pˀ a ĩ//j ẽ k ɨ + s ɨ b ɨ ã"
@@ -5232,7 +5244,7 @@ graph [
     family_count 1
   ]
   node [
-    id 436
+    id 437
     label "DESCENDANTS"
     occurrences "clicsbp-idssegmented-siona-DESCENDANTS-1//clicsbp-idssegmented-tuyuca-DESCENDANTS-1"
     words "sˀ ĩ + t u ʔ u//d ĩ ĩ + d ɨ d ɨ s e + r a"
@@ -5244,7 +5256,7 @@ graph [
     family_count 1
   ]
   node [
-    id 437
+    id 438
     label "STEPFATHER"
     occurrences "clicsbp-idssegmented-siona-STEPFATHER-1//clicsbp-idssegmented-tuyuca-STEPFATHER-1"
     words "s o ʔ o + t a i t a//p a k o + b ã d ɨ"
@@ -5256,7 +5268,7 @@ graph [
     family_count 1
   ]
   node [
-    id 438
+    id 439
     label "STEPMOTHER"
     occurrences "clicsbp-idssegmented-siona-STEPMOTHER-1//clicsbp-idssegmented-tuyuca-STEPMOTHER-1"
     words "s o ʔ o + m a m a//p a k ɨ + d ɨ b õ"
@@ -5268,7 +5280,7 @@ graph [
     family_count 1
   ]
   node [
-    id 439
+    id 440
     label "ORPHAN"
     occurrences "clicsbp-idssegmented-siona-ORPHAN-1//clicsbp-idssegmented-tuyuca-ORPHAN-1//clicsbp-idssegmented-tuyuca-ORPHAN-2"
     words "j ɨ w i h i//p a k ɨ + b ã d ĩ + g ɨ//p a k o + b ã d ĩ + g ɨ"
@@ -5280,7 +5292,7 @@ graph [
     family_count 1
   ]
   node [
-    id 440
+    id 441
     label "WIDOW"
     occurrences "clicsbp-idssegmented-siona-WIDOW-1//clicsbp-idssegmented-tuyuca-WIDOW-1"
     words "w a ʔʰ e + kˀ o//w a p e w i + o"
@@ -5292,7 +5304,7 @@ graph [
     family_count 1
   ]
   node [
-    id 441
+    id 442
     label "WIDOWER"
     occurrences "clicsbp-idssegmented-siona-WIDOWER-1//clicsbp-idssegmented-tuyuca-WIDOWER-1"
     words "w a ʔʰ e + kˀ ɨ//w a p e w i"
@@ -5304,7 +5316,7 @@ graph [
     family_count 1
   ]
   node [
-    id 442
+    id 443
     label "ANIMAL"
     occurrences "clicsbp-idssegmented-siona-ANIMAL-1//clicsbp-idssegmented-siona-ANIMAL-2//clicsbp-idssegmented-tuyuca-ANIMAL-1"
     words "w a ʔ + n ã//w a ʔ i//w a i k ɨ"
@@ -5316,7 +5328,7 @@ graph [
     family_count 1
   ]
   node [
-    id 443
+    id 444
     label "FLESH"
     occurrences "clicsbp-idssegmented-siona-FLESH-1//clicsbp-idssegmented-tuyuca-FLESH-1"
     words "w a ʔ i//d iː + r o"
@@ -5328,7 +5340,7 @@ graph [
     family_count 1
   ]
   node [
-    id 444
+    id 445
     label "MEAT"
     occurrences "clicsbp-idssegmented-siona-MEAT-1//clicsbp-idssegmented-tuyuca-MEAT-1"
     words "w a ʔ i//d iː + r o"
@@ -5340,7 +5352,7 @@ graph [
     family_count 1
   ]
   node [
-    id 445
+    id 446
     label "LIVESTOCK"
     occurrences "clicsbp-idssegmented-siona-LIVESTOCK-1"
     words "w a k a"
@@ -5352,7 +5364,7 @@ graph [
     family_count 1
   ]
   node [
-    id 446
+    id 447
     label "CATTLE"
     occurrences "clicsbp-idssegmented-siona-CATTLE-1//clicsbp-idssegmented-tuyuca-CATTLE-1"
     words "w a k a//w e k ɨ"
@@ -5364,7 +5376,7 @@ graph [
     family_count 1
   ]
   node [
-    id 447
+    id 448
     label "COW"
     occurrences "clicsbp-idssegmented-siona-COW-1"
     words "w a k a"
@@ -5376,7 +5388,7 @@ graph [
     family_count 1
   ]
   node [
-    id 448
+    id 449
     label "SHEEP"
     occurrences "clicsbp-idssegmented-siona-SHEEP-1"
     words "o v e h a"
@@ -5388,7 +5400,7 @@ graph [
     family_count 1
   ]
   node [
-    id 449
+    id 450
     label "PIG"
     occurrences "clicsbp-idssegmented-siona-PIG-1//clicsbp-idssegmented-tuyuca-PIG-1"
     words "k u tʃ i//j e s e"
@@ -5400,7 +5412,7 @@ graph [
     family_count 1
   ]
   node [
-    id 450
+    id 451
     label "GOAT"
     occurrences "clicsbp-idssegmented-siona-GOAT-1"
     words "tʃ i v o"
@@ -5412,7 +5424,7 @@ graph [
     family_count 1
   ]
   node [
-    id 451
+    id 452
     label "FOWL"
     occurrences "clicsbp-idssegmented-siona-FOWL-1//clicsbp-idssegmented-tuyuca-FOWL-1"
     words "ʔ ã k a//b ĩ d ĩ + b ã k ɨ"
@@ -5424,7 +5436,7 @@ graph [
     family_count 1
   ]
   node [
-    id 452
+    id 453
     label "ROOSTER"
     occurrences "clicsbp-idssegmented-siona-ROOSTER-1//clicsbp-idssegmented-tuyuca-ROOSTER-1"
     words "k u tˀ a//k ã r ẽ k ẽ"
@@ -5436,7 +5448,7 @@ graph [
     family_count 1
   ]
   node [
-    id 453
+    id 454
     label "NEST"
     occurrences "clicsbp-idssegmented-siona-NEST-1//clicsbp-idssegmented-siona-NEST-2//clicsbp-idssegmented-tuyuca-NEST-1"
     words "sˀ i a tˀ o//tˀ o ʔ tˀ o tˀ o//b ĩ d ĩ + b ã k ɨ + s u t i + r o"
@@ -5448,7 +5460,7 @@ graph [
     family_count 1
   ]
   node [
-    id 454
+    id 455
     label "HERON"
     occurrences "clicsbp-idssegmented-siona-HERON-1//clicsbp-idssegmented-siona-HERON-2//clicsbp-idssegmented-tuyuca-HERON-1"
     words "kʷ ɨ tˀ ɨ//h e ʔʷ a//j e e"
@@ -5460,7 +5472,7 @@ graph [
     family_count 1
   ]
   node [
-    id 455
+    id 456
     label "RABBIT"
     occurrences "clicsbp-idssegmented-siona-RABBIT-1"
     words "k u k i"
@@ -5472,7 +5484,7 @@ graph [
     family_count 1
   ]
   node [
-    id 456
+    id 457
     label "SCALE"
     occurrences "clicsbp-idssegmented-siona-SCALE-1//clicsbp-idssegmented-tuyuca-SCALE-1"
     words "s o ʔ k o//d ɨ t ɨ r õ"
@@ -5484,7 +5496,7 @@ graph [
     family_count 1
   ]
   node [
-    id 457
+    id 458
     label "COIN"
     occurrences "clicsbp-idssegmented-siona-COIN-1//clicsbp-idssegmented-siona-COIN-2//clicsbp-idssegmented-tuyuca-COIN-1"
     words "s o ʔ k o//k u r i + s o ʔ k o + w a//d ĩ y e r u + k i"
@@ -5496,7 +5508,7 @@ graph [
     family_count 1
   ]
   node [
-    id 458
+    id 459
     label "SHELL"
     occurrences "clicsbp-idssegmented-siona-SHELL-1//clicsbp-idssegmented-siona-SHELL-2//clicsbp-idssegmented-tuyuca-SHELL-1"
     words "kˀ a ʔ n i//sˀ a ʔ ã k o//k o r o"
@@ -5508,7 +5520,7 @@ graph [
     family_count 1
   ]
   node [
-    id 459
+    id 460
     label "BODY"
     occurrences "clicsbp-idssegmented-siona-BODY-1//clicsbp-idssegmented-siona-BODY-2//clicsbp-idssegmented-siona-BODY-3//clicsbp-idssegmented-tuyuca-BODY-1"
     words "kˀ a ʔ n i//t o ʔ k o w ɨ//sˀ ɨ kʷˀ ɨ//õ p ɨː"
@@ -5520,7 +5532,7 @@ graph [
     family_count 1
   ]
   node [
-    id 460
+    id 461
     label "CORPSE"
     occurrences "clicsbp-idssegmented-siona-CORPSE-1//clicsbp-idssegmented-tuyuca-CORPSE-1"
     words "kˀ a ʔ n i//d i a + r i + g ɨ"
@@ -5532,7 +5544,7 @@ graph [
     family_count 1
   ]
   node [
-    id 461
+    id 462
     label "LEATHER"
     occurrences "clicsbp-idssegmented-siona-LEATHER-1//clicsbp-idssegmented-tuyuca-LEATHER-1"
     words "kˀ a ʔ n i//k a s e + r o"
@@ -5544,7 +5556,7 @@ graph [
     family_count 1
   ]
   node [
-    id 462
+    id 463
     label "STINGRAY"
     occurrences "clicsbp-idssegmented-siona-STINGRAY-1//clicsbp-idssegmented-tuyuca-STINGRAY-1"
     words "h a n a m e//ã y ã + k a s e + r o"
@@ -5556,7 +5568,7 @@ graph [
     family_count 1
   ]
   node [
-    id 463
+    id 464
     label "WOLF"
     occurrences "clicsbp-idssegmented-siona-WOLF-1"
     words "j a i"
@@ -5568,7 +5580,7 @@ graph [
     family_count 1
   ]
   node [
-    id 464
+    id 465
     label "LION"
     occurrences "clicsbp-idssegmented-siona-LION-1//clicsbp-idssegmented-siona-LION-2//clicsbp-idssegmented-siona-LION-3"
     words "j a i//m a + j a i//e m u + j a i"
@@ -5580,7 +5592,7 @@ graph [
     family_count 1
   ]
   node [
-    id 465
+    id 466
     label "MAGICIAN"
     occurrences "clicsbp-idssegmented-siona-MAGICIAN-1//clicsbp-idssegmented-tuyuca-MAGICIAN-1"
     words "j a i//j a i"
@@ -5592,7 +5604,7 @@ graph [
     family_count 1
   ]
   node [
-    id 466
+    id 467
     label "FOX"
     occurrences "clicsbp-idssegmented-siona-FOX-1"
     words "k o pˀ e"
@@ -5604,7 +5616,7 @@ graph [
     family_count 1
   ]
   node [
-    id 467
+    id 468
     label "MONKEY"
     occurrences "clicsbp-idssegmented-siona-MONKEY-1//clicsbp-idssegmented-tuyuca-MONKEY-1"
     words "n ã s o//a k e"
@@ -5616,7 +5628,7 @@ graph [
     family_count 1
   ]
   node [
-    id 468
+    id 469
     label "GRAIN"
     occurrences "clicsbp-idssegmented-siona-GRAIN-1"
     words "sˀ ĩ ʔ kˀ a"
@@ -5628,7 +5640,7 @@ graph [
     family_count 1
   ]
   node [
-    id 469
+    id 470
     label "BEESWAX"
     occurrences "clicsbp-idssegmented-siona-BEESWAX-1//clicsbp-idssegmented-tuyuca-BEESWAX-1"
     words "m ã h ã//b ũ b ĩ ã + k ɨ t a"
@@ -5640,7 +5652,7 @@ graph [
     family_count 1
   ]
   node [
-    id 470
+    id 471
     label "BEEHIVE"
     occurrences "clicsbp-idssegmented-siona-BEEHIVE-1//clicsbp-idssegmented-tuyuca-BEEHIVE-1"
     words "m a h a + kʷˀ ɨ//b ũ b ĩ ã + t u t i"
@@ -5652,7 +5664,7 @@ graph [
     family_count 1
   ]
   node [
-    id 471
+    id 472
     label "SANDFLY"
     occurrences "clicsbp-idssegmented-siona-SANDFLY-1//clicsbp-idssegmented-tuyuca-SANDFLY-1//clicsbp-idssegmented-tuyuca-SANDFLY-2"
     words "m ĩ ʔ ã//w ĩ j ã w ɨ//w ĩ y ã"
@@ -5664,7 +5676,7 @@ graph [
     family_count 1
   ]
   node [
-    id 472
+    id 473
     label "BUTTERFLY"
     occurrences "clicsbp-idssegmented-siona-BUTTERFLY-1//clicsbp-idssegmented-siona-BUTTERFLY-2//clicsbp-idssegmented-tuyuca-BUTTERFLY-1"
     words "m u m u tˀ o//p a u tˀ a//b õ b õ r õ"
@@ -5676,7 +5688,7 @@ graph [
     family_count 1
   ]
   node [
-    id 473
+    id 474
     label "FROG"
     occurrences "clicsbp-idssegmented-siona-FROG-1//clicsbp-idssegmented-siona-FROG-2//clicsbp-idssegmented-tuyuca-FROG-1"
     words "h o h o//j a i + h o h o//õ b ãː"
@@ -5688,7 +5700,7 @@ graph [
     family_count 1
   ]
   node [
-    id 474
+    id 475
     label "LIZARD"
     occurrences "clicsbp-idssegmented-siona-LIZARD-1//clicsbp-idssegmented-tuyuca-LIZARD-1"
     words "t o ʔ tˀ o//j u a s õ"
@@ -5700,7 +5712,7 @@ graph [
     family_count 1
   ]
   node [
-    id 475
+    id 476
     label "CROCODILE"
     occurrences "clicsbp-idssegmented-siona-CROCODILE-1//clicsbp-idssegmented-tuyuca-CROCODILE-1"
     words "pˀ ɨ ʔ ɨ//ɨ s o"
@@ -5712,7 +5724,7 @@ graph [
     family_count 1
   ]
   node [
-    id 476
+    id 477
     label "BLOOD VESSEL"
     occurrences "clicsbp-idssegmented-siona-BLOODVESSEL-1//clicsbp-idssegmented-siona-BLOODVESSEL-2//clicsbp-idssegmented-tuyuca-BLOODVESSEL-1"
     words "s i t a m e//sˀ i e + s i t a m e//w aː + d a"
@@ -5724,7 +5736,7 @@ graph [
     family_count 1
   ]
   node [
-    id 477
+    id 478
     label "RIB"
     occurrences "clicsbp-idssegmented-siona-RIB-1//clicsbp-idssegmented-tuyuca-RIB-1"
     words "k o tˀ i pˀ a//w a r u"
@@ -5736,7 +5748,7 @@ graph [
     family_count 1
   ]
   node [
-    id 478
+    id 479
     label "OUTSIDE"
     occurrences "clicsbp-idssegmented-siona-OUTSIDE-2//clicsbp-idssegmented-siona-OUTSIDE-1"
     words "kˀ ɨ tˀ ɨ pˀ ɨ//w e ʔ s e"
@@ -5748,7 +5760,7 @@ graph [
     family_count 1
   ]
   node [
-    id 479
+    id 480
     label "SKULL"
     occurrences "clicsbp-idssegmented-siona-SKULL-1//clicsbp-idssegmented-tuyuca-SKULL-1"
     words "s ĩ h o//d u p u a + k o r o"
@@ -5760,7 +5772,7 @@ graph [
     family_count 1
   ]
   node [
-    id 480
+    id 481
     label "BRAIN"
     occurrences "clicsbp-idssegmented-siona-BRAIN-1//clicsbp-idssegmented-tuyuca-BRAIN-1"
     words "h o pˀ ɨ//k a i"
@@ -5772,7 +5784,7 @@ graph [
     family_count 1
   ]
   node [
-    id 481
+    id 482
     label "FACE"
     occurrences "clicsbp-idssegmented-siona-FACE-1//clicsbp-idssegmented-tuyuca-FACE-1"
     words "sˀ i a//d i a p o a"
@@ -5784,7 +5796,7 @@ graph [
     family_count 1
   ]
   node [
-    id 482
+    id 483
     label "JAW"
     occurrences "clicsbp-idssegmented-siona-JAW-1//clicsbp-idssegmented-tuyuca-JAW-1"
     words "j u t i kˀ u//ɨ s e + w ɨ"
@@ -5796,7 +5808,7 @@ graph [
     family_count 1
   ]
   node [
-    id 483
+    id 484
     label "CHEEK"
     occurrences "clicsbp-idssegmented-siona-CHEEK-1//clicsbp-idssegmented-tuyuca-CHEEK-1"
     words "w a j o//w a s o p u + r o"
@@ -5808,7 +5820,7 @@ graph [
     family_count 1
   ]
   node [
-    id 484
+    id 485
     label "EYEBROW"
     occurrences "clicsbp-idssegmented-siona-EYEBROW-1//clicsbp-idssegmented-siona-EYEBROW-2//clicsbp-idssegmented-tuyuca-EYEBROW-1"
     words "ʔ ɨ o//j ã k o + ɨ o//k a p e + w ẽ + r ĩ"
@@ -5820,7 +5832,7 @@ graph [
     family_count 1
   ]
   node [
-    id 485
+    id 486
     label "EYELASH"
     occurrences "clicsbp-idssegmented-siona-EYELASH-1//clicsbp-idssegmented-tuyuca-EYELASH-1"
     words "j ã k o + ʔ ɨ o//k a p e + p o a"
@@ -5832,7 +5844,7 @@ graph [
     family_count 1
   ]
   node [
-    id 486
+    id 487
     label "EARWAX"
     occurrences "clicsbp-idssegmented-siona-EARWAX-1"
     words "kˀ ã h o + kʷˀ ɨ t a"
@@ -5844,7 +5856,7 @@ graph [
     family_count 1
   ]
   node [
-    id 487
+    id 488
     label "BEAK"
     occurrences "clicsbp-idssegmented-siona-BEAK-2//clicsbp-idssegmented-siona-BEAK-1//clicsbp-idssegmented-tuyuca-BEAK-1"
     words "ũ kʷ e pˀ ɨ//k o tˀ o w ɨ//ẽ k ẽ ã"
@@ -5856,7 +5868,7 @@ graph [
     family_count 1
   ]
   node [
-    id 488
+    id 489
     label "NOSTRIL"
     occurrences "clicsbp-idssegmented-siona-NOSTRIL-1//clicsbp-idssegmented-tuyuca-NOSTRIL-1"
     words "s ɨ w e//ẽ k ẽ + k o p e"
@@ -5868,7 +5880,7 @@ graph [
     family_count 1
   ]
   node [
-    id 489
+    id 490
     label "NASAL MUCUS (SNOT)"
     occurrences "clicsbp-idssegmented-siona-NASALMUCUSSNOT-1//clicsbp-idssegmented-siona-NASALMUCUSSNOT-2//clicsbp-idssegmented-tuyuca-NASALMUCUSSNOT-1"
     words "ẽ s o//s ã pˀ ɨ//ẽ y õ"
@@ -5880,7 +5892,7 @@ graph [
     family_count 1
   ]
   node [
-    id 490
+    id 491
     label "WORD"
     occurrences "clicsbp-idssegmented-siona-WORD-3//clicsbp-idssegmented-siona-WORD-1//clicsbp-idssegmented-siona-WORD-2"
     words "j i ʔ o//k o k a//tˀ a s õ"
@@ -5892,7 +5904,7 @@ graph [
     family_count 1
   ]
   node [
-    id 491
+    id 492
     label "MOLAR TOOTH"
     occurrences "clicsbp-idssegmented-siona-MOLARTOOTH-1//clicsbp-idssegmented-tuyuca-MOLARTOOTH-1"
     words "kˀ ũ h i//u p i"
@@ -5904,7 +5916,7 @@ graph [
     family_count 1
   ]
   node [
-    id 492
+    id 493
     label "FORKED BRANCH"
     occurrences "clicsbp-idssegmented-siona-FORKEDBRANCH-1//clicsbp-idssegmented-tuyuca-FORKEDBRANCH-1"
     words "k o ʔ tˀ e tˀ a//s ẽ d ẽ + r õ"
@@ -5916,7 +5928,7 @@ graph [
     family_count 1
   ]
   node [
-    id 493
+    id 494
     label "PALM OF HAND"
     occurrences "clicsbp-idssegmented-siona-PALMOFHAND-1//clicsbp-idssegmented-tuyuca-PALMOFHAND-1"
     words "ʔ a pˀ ɨ//w ã b õ + k u t i + r o"
@@ -5928,7 +5940,7 @@ graph [
     family_count 1
   ]
   node [
-    id 494
+    id 495
     label "CLAW"
     occurrences "clicsbp-idssegmented-siona-CLAW-1//clicsbp-idssegmented-siona-CLAW-2//clicsbp-idssegmented-tuyuca-CLAW-1"
     words "k o + w ɨ//k o//w ã b õ + s e + r o"
@@ -5940,7 +5952,7 @@ graph [
     family_count 1
   ]
   node [
-    id 495
+    id 496
     label "BUTTOCKS"
     occurrences "clicsbp-idssegmented-siona-BUTTOCKS-1//clicsbp-idssegmented-siona-BUTTOCKS-2//clicsbp-idssegmented-tuyuca-BUTTOCKS-1"
     words "kˀ ɨ s o//kˀ ɨ s o w a//s iː g a"
@@ -5952,7 +5964,7 @@ graph [
     family_count 1
   ]
   node [
-    id 496
+    id 497
     label "HEEL"
     occurrences "clicsbp-idssegmented-siona-HEEL-1//clicsbp-idssegmented-tuyuca-HEEL-1"
     words "kˀ ɨ õ + s ɨ tˀ i + s e i w ɨ//d ɨ p o s i a"
@@ -5964,7 +5976,7 @@ graph [
     family_count 1
   ]
   node [
-    id 497
+    id 498
     label "BRANCH OR TWIG"
     occurrences "clicsbp-idssegmented-siona-BRANCHORTWIG-1//clicsbp-idssegmented-siona-BRANCHORTWIG-2//clicsbp-idssegmented-tuyuca-BRANCHORTWIG-1"
     words "k a pˀ ɨ//s ũ k i + k a pˀ ɨ//d ɨ p ɨ"
@@ -5976,7 +5988,7 @@ graph [
     family_count 1
   ]
   node [
-    id 498
+    id 499
     label "NIPPLE"
     occurrences "clicsbp-idssegmented-siona-NIPPLE-1//clicsbp-idssegmented-tuyuca-NIPPLE-1"
     words "o h e w ɨ//õ p ẽ ã + j ã k õ"
@@ -5988,7 +6000,7 @@ graph [
     family_count 1
   ]
   node [
-    id 499
+    id 500
     label "SOUL"
     occurrences "clicsbp-idssegmented-siona-SOUL-1//clicsbp-idssegmented-siona-SOUL-2//clicsbp-idssegmented-siona-SOUL-3//clicsbp-idssegmented-tuyuca-SOUL-1"
     words "a w ɨ//tˀ e k o j o//w a t i//j e e r i p ũ d ã"
@@ -6000,7 +6012,7 @@ graph [
     family_count 1
   ]
   node [
-    id 500
+    id 501
     label "WAIST"
     occurrences "clicsbp-idssegmented-siona-WAIST-1//clicsbp-idssegmented-siona-WAIST-2"
     words "kˀ ɨ t a tˀ o//s ɨ tˀ i + s e i w ɨ"
@@ -6012,7 +6024,7 @@ graph [
     family_count 1
   ]
   node [
-    id 501
+    id 502
     label "HIP"
     occurrences "clicsbp-idssegmented-siona-HIP-1//clicsbp-idssegmented-tuyuca-HIP-1"
     words "s ɨ tˀ i + s e i w ɨ//s iː g a"
@@ -6024,7 +6036,7 @@ graph [
     family_count 1
   ]
   node [
-    id 502
+    id 503
     label "TESTICLES"
     occurrences "clicsbp-idssegmented-siona-TESTICLES-1//clicsbp-idssegmented-tuyuca-TESTICLES-1"
     words "kˀ a h e pˀ ɨ//w a p e + r i + b u t u"
@@ -6036,7 +6048,7 @@ graph [
     family_count 1
   ]
   node [
-    id 503
+    id 504
     label "BREATH OR BREATHE"
     occurrences "clicsbp-idssegmented-siona-BREATHORBREATHE-1//clicsbp-idssegmented-tuyuca-BREATHORBREATHE-1"
     words "j i ʔ e + h i//j e e + r i + s ã"
@@ -6048,7 +6060,7 @@ graph [
     family_count 1
   ]
   node [
-    id 504
+    id 505
     label "COUGH"
     occurrences "clicsbp-idssegmented-siona-COUGH-1//clicsbp-idssegmented-siona-COUGH-2//clicsbp-idssegmented-tuyuca-COUGH-1"
     words "k o ʔ k o//k o ʔ k o + h i//s a t i"
@@ -6060,7 +6072,7 @@ graph [
     family_count 1
   ]
   node [
-    id 505
+    id 506
     label "SNEEZE"
     occurrences "clicsbp-idssegmented-siona-SNEEZE-1//clicsbp-idssegmented-tuyuca-SNEEZE-1"
     words "w ẽ s i + h i//ã s ĩ ã"
@@ -6072,7 +6084,7 @@ graph [
     family_count 1
   ]
   node [
-    id 506
+    id 507
     label "SWEAT (PERSPIRE)"
     occurrences "clicsbp-idssegmented-siona-SWEATPERSPIRE-1//clicsbp-idssegmented-tuyuca-SWEATPERSPIRE-1"
     words "h a ʔ s u + j a h i + h i//a s o t i"
@@ -6084,7 +6096,7 @@ graph [
     family_count 1
   ]
   node [
-    id 507
+    id 508
     label "LICK"
     occurrences "clicsbp-idssegmented-siona-LICK-1//clicsbp-idssegmented-tuyuca-LICK-1"
     words "n e ʔ n e + h i//d ẽ d ĩ"
@@ -6096,7 +6108,7 @@ graph [
     family_count 1
   ]
   node [
-    id 508
+    id 509
     label "SNORE"
     occurrences "clicsbp-idssegmented-siona-SNORE-1//clicsbp-idssegmented-siona-SNORE-2//clicsbp-idssegmented-tuyuca-SNORE-1"
     words "t ɨ n ɨ + h i//t ɨ tˀ ɨ + h i//ũ d ĩ"
@@ -6108,7 +6120,7 @@ graph [
     family_count 1
   ]
   node [
-    id 509
+    id 510
     label "WAKE UP"
     occurrences "clicsbp-idssegmented-siona-WAKEUP-1//clicsbp-idssegmented-siona-WAKEUP-2//clicsbp-idssegmented-tuyuca-WAKEUP-1"
     words "s ɨ t o + h i//s ɨ t a + h i//w ã k ã"
@@ -6120,7 +6132,7 @@ graph [
     family_count 1
   ]
   node [
-    id 510
+    id 511
     label "PISS"
     occurrences "clicsbp-idssegmented-siona-PISS-1//clicsbp-idssegmented-tuyuca-PISS-1"
     words "kˀ o + n ẽ + h i//k õ d ẽ"
@@ -6132,7 +6144,7 @@ graph [
     family_count 1
   ]
   node [
-    id 511
+    id 512
     label "SHIT (DEFECATE)"
     occurrences "clicsbp-idssegmented-siona-SHITDEFECATE-1//clicsbp-idssegmented-siona-SHITDEFECATE-2//clicsbp-idssegmented-tuyuca-SHITDEFECATE-1"
     words "kˀ ɨ n a + h i//kˀ ɨ t a + kˀ ɨ n a + h i//k ɨ d ã"
@@ -6144,7 +6156,7 @@ graph [
     family_count 1
   ]
   node [
-    id 512
+    id 513
     label "SHIVER"
     occurrences "clicsbp-idssegmented-siona-SHIVER-1//clicsbp-idssegmented-tuyuca-SHIVER-1"
     words "t õ ʔ t o h i//j ã p õ p ĩ"
@@ -6156,7 +6168,7 @@ graph [
     family_count 1
   ]
   node [
-    id 513
+    id 514
     label "SHAKE"
     occurrences "clicsbp-idssegmented-siona-SHAKE-3//clicsbp-idssegmented-siona-SHAKE-1//clicsbp-idssegmented-siona-SHAKE-2//clicsbp-idssegmented-tuyuca-SHAKE-1"
     words "t õ ʔ t o h i//kʷ ẽ ʔ k o h i//j a ʔ kˀ o h i//p aː + b a t e"
@@ -6168,7 +6180,7 @@ graph [
     family_count 1
   ]
   node [
-    id 514
+    id 515
     label "BATHE"
     occurrences "clicsbp-idssegmented-siona-BATHE-1//clicsbp-idssegmented-tuyuca-BATHE-1"
     words "a pˀ u + h i//k u s a"
@@ -6180,7 +6192,7 @@ graph [
     family_count 1
   ]
   node [
-    id 515
+    id 516
     label "BEGET"
     occurrences "clicsbp-idssegmented-siona-BEGET-1//clicsbp-idssegmented-siona-BEGET-2//clicsbp-idssegmented-tuyuca-BEGET-1"
     words "sˀ ĩ + k u ʔ e h i//h o h o h e i h i//p õ d ã + k ɨ t i"
@@ -6192,7 +6204,7 @@ graph [
     family_count 1
   ]
   node [
-    id 516
+    id 517
     label "PREGNANT"
     occurrences "clicsbp-idssegmented-siona-PREGNANT-1//clicsbp-idssegmented-tuyuca-PREGNANT-1"
     words "sˀ ĩ pˀ ɨ//d ĩː + p a k o"
@@ -6204,7 +6216,7 @@ graph [
     family_count 1
   ]
   node [
-    id 517
+    id 518
     label "CONCEIVE"
     occurrences "clicsbp-idssegmented-siona-CONCEIVE-1//clicsbp-idssegmented-tuyuca-CONCEIVE-1"
     words "sˀ ĩ + n ɨ k a kˀ o//d ĩː + p a k o + d ĩ ĩ + d ɨ k ã"
@@ -6216,7 +6228,7 @@ graph [
     family_count 1
   ]
   node [
-    id 518
+    id 519
     label "BE ALIVE OR LIFE"
     occurrences "clicsbp-idssegmented-siona-BEALIVEORLIFE-1//clicsbp-idssegmented-siona-BEALIVEORLIFE-2//clicsbp-idssegmented-tuyuca-BEALIVEORLIFE-1"
     words "pˀ a ʔ i h i//w a h ɨ h i//d ĩ ĩ"
@@ -6228,7 +6240,7 @@ graph [
     family_count 1
   ]
   node [
-    id 519
+    id 520
     label "SICK"
     occurrences "clicsbp-idssegmented-siona-SICK-1//clicsbp-idssegmented-siona-SICK-2//clicsbp-idssegmented-tuyuca-SICK-1"
     words "h u ʔ ĩ + h i//tˀ a j o + h i//d i a + r e"
@@ -6240,7 +6252,7 @@ graph [
     family_count 1
   ]
   node [
-    id 520
+    id 521
     label "DROWNED"
     occurrences "clicsbp-idssegmented-siona-DROWNED-1//clicsbp-idssegmented-siona-DROWNED-2//clicsbp-idssegmented-tuyuca-DROWNED-1"
     words "tˀ u k a h i//kʷˀ e ã h i//d u a"
@@ -6252,7 +6264,7 @@ graph [
     family_count 1
   ]
   node [
-    id 521
+    id 522
     label "FIGHT"
     occurrences "clicsbp-idssegmented-siona-FIGHT-1//clicsbp-idssegmented-tuyuca-FIGHT-1"
     words "w a h i//k ã b ẽ + r ĩ + k ẽ"
@@ -6264,7 +6276,7 @@ graph [
     family_count 1
   ]
   node [
-    id 522
+    id 523
     label "BURY"
     occurrences "clicsbp-idssegmented-siona-BURY-1//clicsbp-idssegmented-tuyuca-BURY-1"
     words "t ã + h i//j a a"
@@ -6276,7 +6288,7 @@ graph [
     family_count 1
   ]
   node [
-    id 523
+    id 524
     label "MIGHTY OR POWERFUL OR STRONG"
     occurrences "clicsbp-idssegmented-siona-MIGHTYORPOWERFULORSTRONG-1//clicsbp-idssegmented-siona-MIGHTYORPOWERFULORSTRONG-2//clicsbp-idssegmented-tuyuca-MIGHTYORPOWERFULORSTRONG-1"
     words "h ɨ h a + h i//ɨ h a h i//t u t u a"
@@ -6288,7 +6300,7 @@ graph [
     family_count 1
   ]
   node [
-    id 524
+    id 525
     label "WEAK"
     occurrences "clicsbp-idssegmented-siona-WEAK-1//clicsbp-idssegmented-tuyuca-WEAK-1"
     words "p ã ʔ p o + h i//t u t u + e"
@@ -6300,7 +6312,7 @@ graph [
     family_count 1
   ]
   node [
-    id 525
+    id 526
     label "FEVER"
     occurrences "clicsbp-idssegmented-siona-FEVER-1//clicsbp-idssegmented-tuyuca-FEVER-1"
     words "h a j o h i//w i o + r e"
@@ -6312,7 +6324,7 @@ graph [
     family_count 1
   ]
   node [
-    id 526
+    id 527
     label "WOUND"
     occurrences "clicsbp-idssegmented-siona-WOUND-1//clicsbp-idssegmented-siona-WOUND-2//clicsbp-idssegmented-tuyuca-WOUND-1"
     words "k a ʔ m i//k ã ʔ m i//k ã b ĩ + r õ"
@@ -6324,7 +6336,7 @@ graph [
     family_count 1
   ]
   node [
-    id 527
+    id 528
     label "SWELLING"
     occurrences "clicsbp-idssegmented-siona-SWELLING-1//clicsbp-idssegmented-siona-SWELLING-2//clicsbp-idssegmented-tuyuca-SWELLING-1"
     words "h a ʔʰ u + h i//m e h i//b i p i + r e"
@@ -6336,7 +6348,7 @@ graph [
     family_count 1
   ]
   node [
-    id 528
+    id 529
     label "DAMAGE OR INJURE"
     occurrences "clicsbp-idssegmented-siona-DAMAGEORINJURE-1//clicsbp-idssegmented-tuyuca-DAMAGEORINJURE-1"
     words "h a ʔʰ u + h i//j ã y õ"
@@ -6348,7 +6360,7 @@ graph [
     family_count 1
   ]
   node [
-    id 529
+    id 530
     label "ITCH"
     occurrences "clicsbp-idssegmented-siona-ITCH-1//clicsbp-idssegmented-tuyuca-ITCH-1"
     words "w ã k i + h i//w ã k ĩ + r e"
@@ -6360,7 +6372,7 @@ graph [
     family_count 1
   ]
   node [
-    id 530
+    id 531
     label "BLISTER"
     occurrences "clicsbp-idssegmented-siona-BLISTER-1//clicsbp-idssegmented-tuyuca-BLISTER-1"
     words "pˀ ɨ pˀ ɨ + h i//p uː + w o r o a + r e"
@@ -6372,7 +6384,7 @@ graph [
     family_count 1
   ]
   node [
-    id 531
+    id 532
     label "BOIL (OF SKIN)"
     occurrences "clicsbp-idssegmented-siona-BOILOFSKIN-1//clicsbp-idssegmented-tuyuca-BOILOFSKIN-1"
     words "s õ s o//b i p i + r i + g a"
@@ -6384,7 +6396,7 @@ graph [
     family_count 1
   ]
   node [
-    id 532
+    id 533
     label "CURE"
     occurrences "clicsbp-idssegmented-siona-CURE-1//clicsbp-idssegmented-tuyuca-CURE-1"
     words "w a tʃ o + h i//d ẽ t õ"
@@ -6396,7 +6408,7 @@ graph [
     family_count 1
   ]
   node [
-    id 533
+    id 534
     label "MEDICINE"
     occurrences "clicsbp-idssegmented-siona-MEDICINE-1//clicsbp-idssegmented-siona-MEDICINE-2//clicsbp-idssegmented-tuyuca-MEDICINE-1"
     words "ʔ ɨ k o//w ã k ɨ//ɨ k o"
@@ -6408,7 +6420,7 @@ graph [
     family_count 1
   ]
   node [
-    id 534
+    id 535
     label "POISON"
     occurrences "clicsbp-idssegmented-siona-POISON-1//clicsbp-idssegmented-tuyuca-POISON-1"
     words "e o//d ĩ b ã"
@@ -6420,7 +6432,7 @@ graph [
     family_count 1
   ]
   node [
-    id 535
+    id 536
     label "TIRED"
     occurrences "clicsbp-idssegmented-siona-TIRED-1//clicsbp-idssegmented-siona-TIRED-2//clicsbp-idssegmented-tuyuca-TIRED-1"
     words "kʷˀ a h a h i//j a ʔʰ a h i//p aː s ɨ t i"
@@ -6432,7 +6444,7 @@ graph [
     family_count 1
   ]
   node [
-    id 536
+    id 537
     label "REST"
     occurrences "clicsbp-idssegmented-siona-REST-1//clicsbp-idssegmented-tuyuca-REST-1"
     words "w e h i//j e e + r i + s ã"
@@ -6444,7 +6456,7 @@ graph [
     family_count 1
   ]
   node [
-    id 537
+    id 538
     label "LAZY"
     occurrences "clicsbp-idssegmented-siona-LAZY-1//clicsbp-idssegmented-tuyuca-LAZY-1"
     words "h ã ʔʰ i + h i//d a d e"
@@ -6456,7 +6468,7 @@ graph [
     family_count 1
   ]
   node [
-    id 538
+    id 539
     label "BALD"
     occurrences "clicsbp-idssegmented-siona-BALD-1//clicsbp-idssegmented-siona-BALD-2//clicsbp-idssegmented-tuyuca-BALD-1"
     words "m i t u + s i ʔ k ɨ//m i t u + h i//d u p u + w a t e a"
@@ -6468,7 +6480,7 @@ graph [
     family_count 1
   ]
   node [
-    id 539
+    id 540
     label "LAME"
     occurrences "clicsbp-idssegmented-siona-LAME-1//clicsbp-idssegmented-siona-LAME-2//clicsbp-idssegmented-tuyuca-LAME-1"
     words "tˀ o ʔ o + h i//k a ʔʰ a//j u r i r o"
@@ -6480,7 +6492,7 @@ graph [
     family_count 1
   ]
   node [
-    id 540
+    id 541
     label "MUTE"
     occurrences "clicsbp-idssegmented-siona-MUTE-1//clicsbp-idssegmented-tuyuca-MUTE-1"
     words "j i ʔ o + m a ʔ t ɨ pˀ ɨ//w e d e s e + e + g ɨ"
@@ -6492,7 +6504,7 @@ graph [
     family_count 1
   ]
   node [
-    id 541
+    id 542
     label "BLIND"
     occurrences "clicsbp-idssegmented-siona-BLIND-1//clicsbp-idssegmented-tuyuca-BLIND-1"
     words "j a k o + ɨ j a m a ʔ i h i//ĩ y ã + ẽ + g ɨ"
@@ -6504,7 +6516,7 @@ graph [
     family_count 1
   ]
   node [
-    id 542
+    id 543
     label "DRUNK"
     occurrences "clicsbp-idssegmented-siona-DRUNK-1//clicsbp-idssegmented-tuyuca-DRUNK-1"
     words "kʷˀ e pˀ o + h i//k ũ b ũ + g ɨ"
@@ -6516,7 +6528,7 @@ graph [
     family_count 1
   ]
   node [
-    id 543
+    id 544
     label "NAKED"
     occurrences "clicsbp-idssegmented-siona-NAKED-1//clicsbp-idssegmented-tuyuca-NAKED-1"
     words "k ã + pˀ e o w ɨ//s u t i + b ã d ĩ + g ɨ"
@@ -6528,7 +6540,7 @@ graph [
     family_count 1
   ]
   node [
-    id 544
+    id 545
     label "FOOD"
     occurrences "clicsbp-idssegmented-siona-FOOD-1//clicsbp-idssegmented-tuyuca-FOOD-1"
     words "ʔ ã õ//j aː + r e"
@@ -6540,7 +6552,7 @@ graph [
     family_count 1
   ]
   node [
-    id 545
+    id 546
     label "COOKED"
     occurrences "clicsbp-idssegmented-siona-COOKED-1//clicsbp-idssegmented-tuyuca-COOKED-1"
     words "kʷ a ʔ k u + s i//d o a + r e"
@@ -6552,7 +6564,7 @@ graph [
     family_count 1
   ]
   node [
-    id 546
+    id 547
     label "RAW"
     occurrences "clicsbp-idssegmented-siona-RAW-1//clicsbp-idssegmented-tuyuca-RAW-1"
     words "w a h ɨ//k a t i + r e"
@@ -6564,7 +6576,7 @@ graph [
     family_count 1
   ]
   node [
-    id 547
+    id 548
     label "UNRIPE"
     occurrences "clicsbp-idssegmented-siona-UNRIPE-1//clicsbp-idssegmented-tuyuca-UNRIPE-1"
     words "w a h ɨ//s ɨ b ẽ + r e"
@@ -6576,7 +6588,7 @@ graph [
     family_count 1
   ]
   node [
-    id 548
+    id 549
     label "HUNGER"
     occurrences "clicsbp-idssegmented-siona-HUNGER-1//clicsbp-idssegmented-tuyuca-HUNGER-1"
     words "ʔ ã õ + kˀ u ʔ a + h i//h ɨ a b o a"
@@ -6588,7 +6600,7 @@ graph [
     family_count 1
   ]
   node [
-    id 549
+    id 550
     label "THIRST"
     occurrences "clicsbp-idssegmented-siona-THIRST-1//clicsbp-idssegmented-tuyuca-THIRST-1"
     words "ʔ o k o + ʔ ɨ a h i//w ɨ o"
@@ -6600,7 +6612,7 @@ graph [
     family_count 1
   ]
   node [
-    id 550
+    id 551
     label "SWALLOW"
     occurrences "clicsbp-idssegmented-siona-SWALLOW-1//clicsbp-idssegmented-tuyuca-SWALLOW-1"
     words "tˀ ɨ õ + h i//u j u"
@@ -6612,7 +6624,7 @@ graph [
     family_count 1
   ]
   node [
-    id 551
+    id 552
     label "BOIL (OF LIQUID)"
     occurrences "clicsbp-idssegmented-siona-BOILOFLIQUID-1//clicsbp-idssegmented-tuyuca-BOILOFLIQUID-1"
     words "kʷ a ʔ k u + h i//w ɨ g a"
@@ -6624,7 +6636,7 @@ graph [
     family_count 1
   ]
   node [
-    id 552
+    id 553
     label "ROAST OR FRY"
     occurrences "clicsbp-idssegmented-siona-ROASTORFRY-1//clicsbp-idssegmented-siona-ROASTORFRY-2//clicsbp-idssegmented-tuyuca-ROASTORFRY-1"
     words "s ɨ o kˀ o//kˀ a ʔ t o h i//k ãː r ĩ õ"
@@ -6636,7 +6648,7 @@ graph [
     family_count 1
   ]
   node [
-    id 553
+    id 554
     label "BAKE"
     occurrences "clicsbp-idssegmented-siona-BAKE-1"
     words "pˀ o h i"
@@ -6648,7 +6660,7 @@ graph [
     family_count 1
   ]
   node [
-    id 554
+    id 555
     label "KETTLE"
     occurrences "clicsbp-idssegmented-siona-KETTLE-1//clicsbp-idssegmented-siona-KETTLE-2//clicsbp-idssegmented-tuyuca-KETTLE-1"
     words "s o t o + tˀ o//kˀ ɨ n a + tˀ o//k õ b ẽ + r ɨ"
@@ -6660,7 +6672,7 @@ graph [
     family_count 1
   ]
   node [
-    id 555
+    id 556
     label "PAN"
     occurrences "clicsbp-idssegmented-siona-PAN-1//clicsbp-idssegmented-tuyuca-PAN-1"
     words "s o t o + t ɨ ʔ k i//s o t ɨ + k ɨ + r ɨ"
@@ -6672,7 +6684,7 @@ graph [
     family_count 1
   ]
   node [
-    id 556
+    id 557
     label "DISH"
     occurrences "clicsbp-idssegmented-siona-DISH-1//clicsbp-idssegmented-siona-DISH-2//clicsbp-idssegmented-tuyuca-DISH-1"
     words "tˀ e ʔ a//kʷˀ ɨ n a + tˀ e ʔ a w a//b a p a"
@@ -6684,7 +6696,7 @@ graph [
     family_count 1
   ]
   node [
-    id 557
+    id 558
     label "CUP"
     occurrences "clicsbp-idssegmented-siona-CUP-1//clicsbp-idssegmented-siona-CUP-2//clicsbp-idssegmented-tuyuca-CUP-1"
     words "tˀ o ʔ tˀ o//ũ k u + tˀ o ʔ tˀ o w ɨ//b a p a"
@@ -6696,7 +6708,7 @@ graph [
     family_count 1
   ]
   node [
-    id 558
+    id 559
     label "KNIFE (FOR EATING)"
     occurrences "clicsbp-idssegmented-siona-KNIFEFOREATING-1//clicsbp-idssegmented-tuyuca-KNIFEFOREATING-1"
     words "k u tʃ i j o//w i d e + r i + p ĩ"
@@ -6708,7 +6720,7 @@ graph [
     family_count 1
   ]
   node [
-    id 559
+    id 560
     label "BREAKFAST"
     occurrences "clicsbp-idssegmented-siona-BREAKFAST-1//clicsbp-idssegmented-tuyuca-BREAKFAST-1"
     words "tˀ e s a j u n o//j a a + w ã k ã + r e"
@@ -6720,7 +6732,7 @@ graph [
     family_count 1
   ]
   node [
-    id 560
+    id 561
     label "PEEL"
     occurrences "clicsbp-idssegmented-siona-PEEL-1//clicsbp-idssegmented-siona-PEEL-2//clicsbp-idssegmented-tuyuca-PEEL-1"
     words "k o ʔ tˀ a + h i//s u ʔ j e h i//p ã d ẽ"
@@ -6732,7 +6744,7 @@ graph [
     family_count 1
   ]
   node [
-    id 561
+    id 562
     label "SCRAPE"
     occurrences "clicsbp-idssegmented-siona-SCRAPE-1//clicsbp-idssegmented-siona-SCRAPE-2//clicsbp-idssegmented-tuyuca-SCRAPE-1"
     words "w a ʔʷ ɨ h i//s ĩ ʔ s o h i//w ɨ a"
@@ -6744,7 +6756,7 @@ graph [
     family_count 1
   ]
   node [
-    id 562
+    id 563
     label "MIX"
     occurrences "clicsbp-idssegmented-siona-MIX-1//clicsbp-idssegmented-siona-MIX-2//clicsbp-idssegmented-siona-MIX-3//clicsbp-idssegmented-tuyuca-MIX-1"
     words "k ã ʔ k e h i//h a ʔ m e h i//s a ʔ p i kˀ o//w ɨ o"
@@ -6756,7 +6768,7 @@ graph [
     family_count 1
   ]
   node [
-    id 563
+    id 564
     label "BREAD"
     occurrences "clicsbp-idssegmented-siona-BREAD-1//clicsbp-idssegmented-siona-BREAD-2//clicsbp-idssegmented-siona-BREAD-3//clicsbp-idssegmented-tuyuca-BREAD-1"
     words "p ã pˀ ɨ//h o ʔʰ o + a õ//ʔ ã õ kˀ a//w ɨ a b e"
@@ -6768,7 +6780,7 @@ graph [
     family_count 1
   ]
   node [
-    id 564
+    id 565
     label "GRIND"
     occurrences "clicsbp-idssegmented-siona-GRIND-1//clicsbp-idssegmented-siona-GRIND-2//clicsbp-idssegmented-siona-GRIND-3//clicsbp-idssegmented-tuyuca-GRIND-1"
     words "t a ĩ h i//p a õ h i//k ɨ õ h i//d o k a"
@@ -6780,7 +6792,7 @@ graph [
     family_count 1
   ]
   node [
-    id 565
+    id 566
     label "POUND"
     occurrences "clicsbp-idssegmented-siona-POUND-1//clicsbp-idssegmented-siona-POUND-2//clicsbp-idssegmented-tuyuca-POUND-1"
     words "p a õ h i//p u h i//p aː + b ɨ t õ"
@@ -6792,7 +6804,7 @@ graph [
     family_count 1
   ]
   node [
-    id 566
+    id 567
     label "MILL"
     occurrences "clicsbp-idssegmented-siona-MILL-1//clicsbp-idssegmented-tuyuca-MILL-1"
     words "t o a tˀ o//w ã j ĩ ã + r õ"
@@ -6804,7 +6816,7 @@ graph [
     family_count 1
   ]
   node [
-    id 567
+    id 568
     label "SOUP"
     occurrences "clicsbp-idssegmented-siona-SOUP-1//clicsbp-idssegmented-tuyuca-SOUP-1"
     words "kˀ o + w ɨ//w a i k ɨ + o k o"
@@ -6816,7 +6828,7 @@ graph [
     family_count 1
   ]
   node [
-    id 568
+    id 569
     label "BEAN"
     occurrences "clicsbp-idssegmented-siona-BEAN-1//clicsbp-idssegmented-tuyuca-BEAN-1"
     words "pˀ u tˀ u t u//p i r i h o r i"
@@ -6828,7 +6840,7 @@ graph [
     family_count 1
   ]
   node [
-    id 569
+    id 570
     label "BUNCH"
     occurrences "clicsbp-idssegmented-siona-BUNCH-1//clicsbp-idssegmented-tuyuca-BUNCH-1"
     words "o kˀ u//t õ"
@@ -6840,7 +6852,7 @@ graph [
     family_count 1
   ]
   node [
-    id 570
+    id 571
     label "NUT"
     occurrences "clicsbp-idssegmented-siona-NUT-1"
     words "s o n i"
@@ -6852,7 +6864,7 @@ graph [
     family_count 1
   ]
   node [
-    id 571
+    id 572
     label "OIL (ORGANIC SUBSTANCE)"
     occurrences "clicsbp-idssegmented-siona-OILORGANICSUBSTANCE-1//clicsbp-idssegmented-tuyuca-OILORGANICSUBSTANCE-1"
     words "m a h a//ɨ s e"
@@ -6864,7 +6876,7 @@ graph [
     family_count 1
   ]
   node [
-    id 572
+    id 573
     label "SWEET"
     occurrences "clicsbp-idssegmented-siona-SWEET-1//clicsbp-idssegmented-tuyuca-SWEET-1"
     words "pˀ a j a//i p i t i"
@@ -6876,7 +6888,7 @@ graph [
     family_count 1
   ]
   node [
-    id 573
+    id 574
     label "BEVERAGE"
     occurrences "clicsbp-idssegmented-siona-BEVERAGE-1//clicsbp-idssegmented-siona-BEVERAGE-2//clicsbp-idssegmented-tuyuca-BEVERAGE-1"
     words "kˀ o n o//ĩ s i + kˀ o n o//s ĩ d ĩ + r e"
@@ -6888,7 +6900,7 @@ graph [
     family_count 1
   ]
   node [
-    id 574
+    id 575
     label "BEER"
     occurrences "clicsbp-idssegmented-siona-BEER-1//clicsbp-idssegmented-siona-BEER-2//clicsbp-idssegmented-tuyuca-BEER-1"
     words "ã d u tʃ u//h o ʔ tʃ a//p e j u r u"
@@ -6900,7 +6912,7 @@ graph [
     family_count 1
   ]
   node [
-    id 575
+    id 576
     label "ALCOHOL (FERMENTED DRINK)"
     occurrences "clicsbp-idssegmented-siona-ALCOHOLFERMENTEDDRINK-1//clicsbp-idssegmented-siona-ALCOHOLFERMENTEDDRINK-2//clicsbp-idssegmented-tuyuca-ALCOHOLFERMENTEDDRINK-1"
     words "h o ʔ tʃ a//ã tˀ u tʃ u//p e j u r u"
@@ -6912,7 +6924,7 @@ graph [
     family_count 1
   ]
   node [
-    id 576
+    id 577
     label "CLOTH"
     occurrences "clicsbp-idssegmented-siona-CLOTH-1//clicsbp-idssegmented-tuyuca-CLOTH-1"
     words "k ã//s u t i + r o + p ĩ"
@@ -6924,7 +6936,7 @@ graph [
     family_count 1
   ]
   node [
-    id 577
+    id 578
     label "NEEDLE (FOR SEWING)"
     occurrences "clicsbp-idssegmented-siona-NEEDLEFORSEWING-1//clicsbp-idssegmented-siona-NEEDLEFORSEWING-2//clicsbp-idssegmented-tuyuca-NEEDLEFORSEWING-1"
     words "m i u + n a ʔ k a//kˀ ɨ n a + m i u//a w i"
@@ -6936,7 +6948,7 @@ graph [
     family_count 1
   ]
   node [
-    id 578
+    id 579
     label "THREAD"
     occurrences "clicsbp-idssegmented-siona-THREAD-1//clicsbp-idssegmented-tuyuca-THREAD-1"
     words "j ɨ i m e//j u t a"
@@ -6948,7 +6960,7 @@ graph [
     family_count 1
   ]
   node [
-    id 579
+    id 580
     label "DYE"
     occurrences "clicsbp-idssegmented-siona-DYE-1//clicsbp-idssegmented-tuyuca-DYE-1"
     words "h e ʔ n e h i//j ĩː b ĩ + õ"
@@ -6960,7 +6972,7 @@ graph [
     family_count 1
   ]
   node [
-    id 580
+    id 581
     label "DRESS"
     occurrences "clicsbp-idssegmented-siona-DRESS-1//clicsbp-idssegmented-tuyuca-DRESS-1"
     words "k ã w ɨ//s u t i + r o"
@@ -6972,7 +6984,7 @@ graph [
     family_count 1
   ]
   node [
-    id 581
+    id 582
     label "SHIRT"
     occurrences "clicsbp-idssegmented-siona-SHIRT-1//clicsbp-idssegmented-tuyuca-SHIRT-1"
     words "ɨ t ɨ + s a tˀ a + k ã//k a b ĩ s a"
@@ -6984,7 +6996,7 @@ graph [
     family_count 1
   ]
   node [
-    id 582
+    id 583
     label "TROUSERS"
     occurrences "clicsbp-idssegmented-siona-TROUSERS-1//clicsbp-idssegmented-tuyuca-TROUSERS-1"
     words "j u k a s e ʔ ẽ//s i r u r a"
@@ -6996,7 +7008,7 @@ graph [
     family_count 1
   ]
   node [
-    id 583
+    id 584
     label "HEADGEAR"
     occurrences "clicsbp-idssegmented-siona-HEADGEAR-1//clicsbp-idssegmented-tuyuca-HEADGEAR-1"
     words "t u i tˀ o//s a p e a"
@@ -7008,7 +7020,7 @@ graph [
     family_count 1
   ]
   node [
-    id 584
+    id 585
     label "BELT"
     occurrences "clicsbp-idssegmented-siona-BELT-1//clicsbp-idssegmented-tuyuca-BELT-1"
     words "t ɨ ĩ m e//s i t u r ũ + d a"
@@ -7020,7 +7032,7 @@ graph [
     family_count 1
   ]
   node [
-    id 585
+    id 586
     label "ORNAMENT"
     occurrences "clicsbp-idssegmented-siona-ORNAMENT-1//clicsbp-idssegmented-tuyuca-ORNAMENT-1"
     words "m a + s a ɨ w a//b ã b õ + r ẽ"
@@ -7032,7 +7044,7 @@ graph [
     family_count 1
   ]
   node [
-    id 586
+    id 587
     label "BEAD"
     occurrences "clicsbp-idssegmented-siona-BEAD-1//clicsbp-idssegmented-tuyuca-BEAD-1"
     words "j i ʔ j o//j ã k ẽ"
@@ -7044,7 +7056,7 @@ graph [
     family_count 1
   ]
   node [
-    id 587
+    id 588
     label "EARRING"
     occurrences "clicsbp-idssegmented-siona-EARRING-1//clicsbp-idssegmented-tuyuca-EARRING-1"
     words "kˀ ã h o + kˀ a ʔʷ a//k ã b õ p e r o + j o s a + r e"
@@ -7056,7 +7068,7 @@ graph [
     family_count 1
   ]
   node [
-    id 588
+    id 589
     label "HEADBAND OR HEADDRESS"
     occurrences "clicsbp-idssegmented-siona-HEADBANDORHEADDRESS-1//clicsbp-idssegmented-siona-HEADBANDORHEADDRESS-2//clicsbp-idssegmented-tuyuca-HEADBANDORHEADDRESS-1"
     words "m a pˀ ɨ//m a r o//p e s a + r e"
@@ -7068,7 +7080,7 @@ graph [
     family_count 1
   ]
   node [
-    id 589
+    id 590
     label "COMB"
     occurrences "clicsbp-idssegmented-siona-COMB-1//clicsbp-idssegmented-tuyuca-COMB-1"
     words "j e ʔ a + h i//k i i + r o"
@@ -7080,7 +7092,7 @@ graph [
     family_count 1
   ]
   node [
-    id 590
+    id 591
     label "SOAP"
     occurrences "clicsbp-idssegmented-siona-SOAP-1//clicsbp-idssegmented-tuyuca-SOAP-1"
     words "h a pˀ õ//s a b o"
@@ -7092,7 +7104,7 @@ graph [
     family_count 1
   ]
   node [
-    id 591
+    id 592
     label "MIRROR"
     occurrences "clicsbp-idssegmented-siona-MIRROR-1//clicsbp-idssegmented-tuyuca-MIRROR-1"
     words "ɨ j a + tˀ e ʔ a w a//ẽ j õ + r õ"
@@ -7104,7 +7116,7 @@ graph [
     family_count 1
   ]
   node [
-    id 592
+    id 593
     label "PLACE (POSITION)"
     occurrences "clicsbp-idssegmented-siona-PLACEPOSITION-2//clicsbp-idssegmented-siona-PLACEPOSITION-1//clicsbp-idssegmented-tuyuca-PLACEPOSITION-1"
     words "k ɨ ʔ tˀ o//h o pˀ o//r o"
@@ -7116,7 +7128,7 @@ graph [
     family_count 1
   ]
   node [
-    id 593
+    id 594
     label "YARD"
     occurrences "clicsbp-idssegmented-siona-YARD-1//clicsbp-idssegmented-siona-YARD-2"
     words "w ɨ ʔ e + j i h a//w ɨ ʔ e + t õ t o"
@@ -7128,7 +7140,7 @@ graph [
     family_count 1
   ]
   node [
-    id 594
+    id 595
     label "ROOM"
     occurrences "clicsbp-idssegmented-siona-ROOM-1//clicsbp-idssegmented-tuyuca-ROOM-1"
     words "s o n o//s a w i"
@@ -7140,7 +7152,7 @@ graph [
     family_count 1
   ]
   node [
-    id 595
+    id 596
     label "LOCK"
     occurrences "clicsbp-idssegmented-siona-LOCK-1"
     words "kˀ o kˀ o tˀ o pˀ ɨ"
@@ -7152,7 +7164,7 @@ graph [
     family_count 1
   ]
   node [
-    id 596
+    id 597
     label "FIREPLACE"
     occurrences "clicsbp-idssegmented-siona-FIREPLACE-1//clicsbp-idssegmented-siona-FIREPLACE-2//clicsbp-idssegmented-tuyuca-FIREPLACE-1"
     words "t o a pˀ o//a õ + kʷ a ʔ k u pˀ ɨ//p e k a + b ẽ"
@@ -7164,7 +7176,7 @@ graph [
     family_count 1
   ]
   node [
-    id 597
+    id 598
     label "PILLOW"
     occurrences "clicsbp-idssegmented-siona-PILLOW-1//clicsbp-idssegmented-siona-PILLOW-2"
     words "t ɨ o pˀ ɨ//s ĩ h o + t ɨ o pˀ ɨ"
@@ -7176,7 +7188,7 @@ graph [
     family_count 1
   ]
   node [
-    id 598
+    id 599
     label "BLANKET"
     occurrences "clicsbp-idssegmented-siona-BLANKET-1//clicsbp-idssegmented-tuyuca-BLANKET-1"
     words "k a m a//k õ b ã + j o s a + r o"
@@ -7188,7 +7200,7 @@ graph [
     family_count 1
   ]
   node [
-    id 599
+    id 600
     label "CHAIR"
     occurrences "clicsbp-idssegmented-siona-CHAIR-1//clicsbp-idssegmented-siona-CHAIR-2//clicsbp-idssegmented-tuyuca-CHAIR-1"
     words "j u ʔ i + s e i w ɨ//j u t i + s e i w ɨ//d u i + r o"
@@ -7200,7 +7212,7 @@ graph [
     family_count 1
   ]
   node [
-    id 600
+    id 601
     label "TABLE"
     occurrences "clicsbp-idssegmented-siona-TABLE-1//clicsbp-idssegmented-tuyuca-TABLE-1"
     words "m e s a//b ẽ s a"
@@ -7212,7 +7224,7 @@ graph [
     family_count 1
   ]
   node [
-    id 601
+    id 602
     label "TORCH OR LAMP"
     occurrences "clicsbp-idssegmented-siona-TORCHORLAMP-1//clicsbp-idssegmented-tuyuca-TORCHORLAMP-1//clicsbp-idssegmented-tuyuca-TORCHORLAMP-2"
     words "m a h a w ɨ//s ĩ ã b o e + k o + r i + g a//s ĩ ã w o + k o + r i + g a"
@@ -7224,7 +7236,7 @@ graph [
     family_count 1
   ]
   node [
-    id 602
+    id 603
     label "TROUGH"
     occurrences "clicsbp-idssegmented-siona-TROUGH-1"
     words "j o ʔ k o w ɨ"
@@ -7236,7 +7248,7 @@ graph [
     family_count 1
   ]
   node [
-    id 603
+    id 604
     label "RIDGEPOLE"
     occurrences "clicsbp-idssegmented-siona-RIDGEPOLE-1//clicsbp-idssegmented-tuyuca-RIDGEPOLE-1"
     words "m i ʔ tʃ i j o//w iː + k õ ã"
@@ -7248,7 +7260,7 @@ graph [
     family_count 1
   ]
   node [
-    id 604
+    id 605
     label "BRICK"
     occurrences "clicsbp-idssegmented-siona-BRICK-1"
     words "t õ t o"
@@ -7260,7 +7272,7 @@ graph [
     family_count 1
   ]
   node [
-    id 605
+    id 606
     label "GARDEN"
     occurrences "clicsbp-idssegmented-siona-GARDEN-1//clicsbp-idssegmented-siona-GARDEN-2//clicsbp-idssegmented-siona-GARDEN-3//clicsbp-idssegmented-tuyuca-GARDEN-1"
     words "sˀ i o//a õ + sˀ i o//k ɨ i w ɨ//w e s e"
@@ -7272,7 +7284,7 @@ graph [
     family_count 1
   ]
   node [
-    id 606
+    id 607
     label "CULTIVATE"
     occurrences "clicsbp-idssegmented-siona-CULTIVATE-1//clicsbp-idssegmented-siona-CULTIVATE-2//clicsbp-idssegmented-siona-CULTIVATE-3//clicsbp-idssegmented-tuyuca-CULTIVATE-1"
     words "i tˀ o h i//e o h i//t ẽ ʔ t o h i//o t e"
@@ -7284,7 +7296,7 @@ graph [
     family_count 1
   ]
   node [
-    id 607
+    id 608
     label "PLOUGH"
     occurrences "clicsbp-idssegmented-siona-PLOUGH-1//clicsbp-idssegmented-siona-PLOUGH-2"
     words "m o ʔ kˀ a h i//m u ʔ kˀ a h i"
@@ -7296,7 +7308,7 @@ graph [
     family_count 1
   ]
   node [
-    id 608
+    id 609
     label "SOW SEEDS"
     occurrences "clicsbp-idssegmented-siona-SOWSEEDS-1//clicsbp-idssegmented-tuyuca-SOWSEEDS-1"
     words "t ã h i//w ẽː + b a t e"
@@ -7308,7 +7320,7 @@ graph [
     family_count 1
   ]
   node [
-    id 609
+    id 610
     label "PLANT (SOMETHING)"
     occurrences "clicsbp-idssegmented-siona-PLANTSOMETHING-1//clicsbp-idssegmented-tuyuca-PLANTSOMETHING-1"
     words "t ã h i//o t e"
@@ -7320,7 +7332,7 @@ graph [
     family_count 1
   ]
   node [
-    id 610
+    id 611
     label "DROP (SOMETHING)"
     occurrences "clicsbp-idssegmented-siona-DROPSOMETHING-1//clicsbp-idssegmented-siona-DROPSOMETHING-2//clicsbp-idssegmented-tuyuca-DROPSOMETHING-1"
     words "t ã h i//j a k o + h i//j ã ã + k o + d i + a"
@@ -7332,7 +7344,7 @@ graph [
     family_count 1
   ]
   node [
-    id 611
+    id 612
     label "MOW"
     occurrences "clicsbp-idssegmented-siona-MOW-1"
     words "t ɨ a h i"
@@ -7344,7 +7356,7 @@ graph [
     family_count 1
   ]
   node [
-    id 612
+    id 613
     label "RICE"
     occurrences "clicsbp-idssegmented-siona-RICE-1//clicsbp-idssegmented-tuyuca-RICE-1"
     words "a r o s o//a r u s u"
@@ -7356,7 +7368,7 @@ graph [
     family_count 1
   ]
   node [
-    id 613
+    id 614
     label "GRAPEVINE"
     occurrences "clicsbp-idssegmented-siona-GRAPEVINE-1//clicsbp-idssegmented-siona-GRAPEVINE-2//clicsbp-idssegmented-tuyuca-GRAPEVINE-1"
     words "pˀ i s i//pˀ i s i + m e//b ĩ s ĩ"
@@ -7368,7 +7380,7 @@ graph [
     family_count 1
   ]
   node [
-    id 614
+    id 615
     label "SMOKE (INHALE)"
     occurrences "clicsbp-idssegmented-siona-SMOKEINHALE-1//clicsbp-idssegmented-tuyuca-SMOKEINHALE-1"
     words "p ũ ʔ p u h i//h u u"
@@ -7380,7 +7392,7 @@ graph [
     family_count 1
   ]
   node [
-    id 615
+    id 616
     label "TREE TRUNK"
     occurrences "clicsbp-idssegmented-siona-TREETRUNK-1//clicsbp-idssegmented-siona-TREETRUNK-2//clicsbp-idssegmented-tuyuca-TREETRUNK-2//clicsbp-idssegmented-tuyuca-TREETRUNK-1"
     words "k u m u kˀ u//h ũ ʔ k a//j u k ɨ//k ũ b ũ"
@@ -7392,7 +7404,7 @@ graph [
     family_count 1
   ]
   node [
-    id 616
+    id 617
     label "PALM TREE"
     occurrences "clicsbp-idssegmented-siona-PALMTREE-1//clicsbp-idssegmented-tuyuca-PALMTREE-1"
     words "p ã ʔ p a//w õ"
@@ -7404,7 +7416,7 @@ graph [
     family_count 1
   ]
   node [
-    id 617
+    id 618
     label "BANANA TREE"
     occurrences "clicsbp-idssegmented-siona-BANANATREE-1//clicsbp-idssegmented-tuyuca-BANANATREE-1"
     words "o w a//h o o + w õ"
@@ -7416,7 +7428,7 @@ graph [
     family_count 1
   ]
   node [
-    id 618
+    id 619
     label "BAMBOO"
     occurrences "clicsbp-idssegmented-siona-BAMBOO-1"
     words "w ẽ k a"
@@ -7428,7 +7440,7 @@ graph [
     family_count 1
   ]
   node [
-    id 619
+    id 620
     label "NETTLE"
     occurrences "clicsbp-idssegmented-siona-NETTLE-1//clicsbp-idssegmented-tuyuca-NETTLE-1"
     words "s u s i//p o t a"
@@ -7440,7 +7452,7 @@ graph [
     family_count 1
   ]
   node [
-    id 620
+    id 621
     label "MUSHROOM"
     occurrences "clicsbp-idssegmented-siona-MUSHROOM-1//clicsbp-idssegmented-tuyuca-MUSHROOM-1"
     words "t ɨ t i//d i t i"
@@ -7452,7 +7464,7 @@ graph [
     family_count 1
   ]
   node [
-    id 621
+    id 622
     label "DO OR MAKE"
     occurrences "clicsbp-idssegmented-siona-DOORMAKE-1//clicsbp-idssegmented-tuyuca-DOORMAKE-1"
     words "j o ʔ o + h i//t i i"
@@ -7464,7 +7476,7 @@ graph [
     family_count 1
   ]
   node [
-    id 622
+    id 623
     label "WORK (LABOUR)"
     occurrences "clicsbp-idssegmented-siona-WORKLABOUR-1//clicsbp-idssegmented-tuyuca-WORKLABOUR-1"
     words "j o ʔ o//p a d e"
@@ -7476,7 +7488,7 @@ graph [
     family_count 1
   ]
   node [
-    id 623
+    id 624
     label "FOLD"
     occurrences "clicsbp-idssegmented-siona-FOLD-1//clicsbp-idssegmented-siona-FOLD-2//clicsbp-idssegmented-siona-FOLD-3//clicsbp-idssegmented-tuyuca-FOLD-1"
     words "p e o h i//k e tˀ o h i//j e tˀ a h i//t uː + p e"
@@ -7488,7 +7500,7 @@ graph [
     family_count 1
   ]
   node [
-    id 624
+    id 625
     label "UNTIE"
     occurrences "clicsbp-idssegmented-siona-UNTIE-1//clicsbp-idssegmented-siona-UNTIE-2//clicsbp-idssegmented-siona-UNTIE-3//clicsbp-idssegmented-tuyuca-UNTIE-1"
     words "t i ʔʰ e h i//h o ʔ tʃ i h i//t i h o h i//h õ ã"
@@ -7500,7 +7512,7 @@ graph [
     family_count 1
   ]
   node [
-    id 625
+    id 626
     label "LET GO OR SET FREE"
     occurrences "clicsbp-idssegmented-siona-LETGOORSETFREE-1//clicsbp-idssegmented-siona-LETGOORSETFREE-3//clicsbp-idssegmented-siona-LETGOORSETFREE-2//clicsbp-idssegmented-tuyuca-LETGOORSETFREE-1"
     words "t i ʔʰ e h i//h o ʔ tʃ i h i//t i h o h i//w i o + d ẽ + k o"
@@ -7512,7 +7524,7 @@ graph [
     family_count 1
   ]
   node [
-    id 626
+    id 627
     label "CHAIN"
     occurrences "clicsbp-idssegmented-siona-CHAIN-1"
     words "kˀ ɨ n a m e"
@@ -7524,7 +7536,7 @@ graph [
     family_count 1
   ]
   node [
-    id 627
+    id 628
     label "STRIKE OR BEAT"
     occurrences "clicsbp-idssegmented-siona-STRIKEORBEAT-1//clicsbp-idssegmented-siona-STRIKEORBEAT-2//clicsbp-idssegmented-siona-STRIKEORBEAT-3//clicsbp-idssegmented-tuyuca-STRIKEORBEAT-1"
     words "h ɨ ʔ k a h i//h ẽ ʔʰ u h i//kʷ e h i//p aː"
@@ -7536,7 +7548,7 @@ graph [
     family_count 1
   ]
   node [
-    id 628
+    id 629
     label "HATE"
     occurrences "clicsbp-idssegmented-siona-HATE-3//clicsbp-idssegmented-siona-HATE-1//clicsbp-idssegmented-siona-HATE-2//clicsbp-idssegmented-tuyuca-HATE-1"
     words "kʷ e h i//ɨ j ɨ h i//pˀ a ĩ + ɨ j ɨ h i//ĩ y ã + t u t i"
@@ -7548,7 +7560,7 @@ graph [
     family_count 1
   ]
   node [
-    id 629
+    id 630
     label "CUT DOWN"
     occurrences "clicsbp-idssegmented-siona-CUTDOWN-1//clicsbp-idssegmented-siona-CUTDOWN-2//clicsbp-idssegmented-siona-CUTDOWN-3//clicsbp-idssegmented-tuyuca-CUTDOWN-1"
     words "kʷ e//t ɨ ʔ j e h i//j a u h i//k i t i"
@@ -7560,7 +7572,7 @@ graph [
     family_count 1
   ]
   node [
-    id 630
+    id 631
     label "CHOP"
     occurrences "clicsbp-idssegmented-siona-CHOP-1//clicsbp-idssegmented-siona-CHOP-2//clicsbp-idssegmented-tuyuca-CHOP-1"
     words "t ẽ ʔ t o//h u ʔʰ e h i//p aː + w e + s ã"
@@ -7572,7 +7584,7 @@ graph [
     family_count 1
   ]
   node [
-    id 631
+    id 632
     label "ADZE"
     occurrences "clicsbp-idssegmented-siona-ADZE-1//clicsbp-idssegmented-tuyuca-ADZE-1"
     words "e o + m a k a//s i j o + g a"
@@ -7584,7 +7596,7 @@ graph [
     family_count 1
   ]
   node [
-    id 632
+    id 633
     label "BREAK (DESTROY OR GET DESTROYED)"
     occurrences "clicsbp-idssegmented-siona-BREAKDESTROYORGETDESTROYED-1//clicsbp-idssegmented-siona-BREAKDESTROYORGETDESTROYED-2//clicsbp-idssegmented-siona-BREAKDESTROYORGETDESTROYED-3//clicsbp-idssegmented-tuyuca-BREAKDESTROYORGETDESTROYED-1"
     words "h ɨ j o h i//h ɨ ʔ j e h i//t ɨ t e h i//p aː + w a"
@@ -7596,7 +7608,7 @@ graph [
     family_count 1
   ]
   node [
-    id 633
+    id 634
     label "DIVIDE"
     occurrences "clicsbp-idssegmented-siona-DIVIDE-1//clicsbp-idssegmented-siona-DIVIDE-2//clicsbp-idssegmented-tuyuca-DIVIDE-1"
     words "h o i h i//h o tʃ a h i//d ɨ k a b a t o"
@@ -7608,7 +7620,7 @@ graph [
     family_count 1
   ]
   node [
-    id 634
+    id 635
     label "TEAR (SHRED)"
     occurrences "clicsbp-idssegmented-siona-TEARSHRED-1//clicsbp-idssegmented-tuyuca-TEARSHRED-1"
     words "j e ʔ tˀ e h i//j i g a"
@@ -7620,7 +7632,7 @@ graph [
     family_count 1
   ]
   node [
-    id 635
+    id 636
     label "STRETCH"
     occurrences "clicsbp-idssegmented-siona-STRETCH-1//clicsbp-idssegmented-siona-STRETCH-2//clicsbp-idssegmented-tuyuca-STRETCH-1"
     words "t ẽ ʔ t e h i//m i ʔ n a h i//w eː + e s o"
@@ -7632,7 +7644,7 @@ graph [
     family_count 1
   ]
   node [
-    id 636
+    id 637
     label "SHOOT"
     occurrences "clicsbp-idssegmented-siona-SHOOT-2//clicsbp-idssegmented-siona-SHOOT-1//clicsbp-idssegmented-tuyuca-SHOOT-1"
     words "h u i h i//h ɨ o h i//p e k a + s ã"
@@ -7644,7 +7656,7 @@ graph [
     family_count 1
   ]
   node [
-    id 637
+    id 638
     label "SPREAD OUT"
     occurrences "clicsbp-idssegmented-siona-SPREADOUT-1//clicsbp-idssegmented-siona-SPREADOUT-2//clicsbp-idssegmented-tuyuca-SPREADOUT-1"
     words "j u ʔ j u h i//h a j u h i//s ẽ õ"
@@ -7656,7 +7668,7 @@ graph [
     family_count 1
   ]
   node [
-    id 638
+    id 639
     label "SPLASH"
     occurrences "clicsbp-idssegmented-siona-SPLASH-2//clicsbp-idssegmented-siona-SPLASH-1//clicsbp-idssegmented-tuyuca-SPLASH-1"
     words "j u ʔ j u h i//tʃ a ʔ k a h i//b u p u + b a t e"
@@ -7668,7 +7680,7 @@ graph [
     family_count 1
   ]
   node [
-    id 639
+    id 640
     label "POUR"
     occurrences "clicsbp-idssegmented-siona-POUR-1//clicsbp-idssegmented-siona-POUR-2//clicsbp-idssegmented-tuyuca-POUR-1"
     words "h a j u h i//k e o h i//p i o"
@@ -7680,7 +7692,7 @@ graph [
     family_count 1
   ]
   node [
-    id 640
+    id 641
     label "HANG UP"
     occurrences "clicsbp-idssegmented-siona-HANGUP-1//clicsbp-idssegmented-siona-HANGUP-2//clicsbp-idssegmented-tuyuca-HANGUP-1"
     words "tˀ e + h i//tˀ e o h i//j oː"
@@ -7692,7 +7704,7 @@ graph [
     family_count 1
   ]
   node [
-    id 641
+    id 642
     label "PRESS"
     occurrences "clicsbp-idssegmented-siona-PRESS-1//clicsbp-idssegmented-siona-PRESS-2//clicsbp-idssegmented-tuyuca-PRESS-1"
     words "n a ʔ n e h i//n a n o h i//t uː + d i y o"
@@ -7704,7 +7716,7 @@ graph [
     family_count 1
   ]
   node [
-    id 642
+    id 643
     label "TOUCH"
     occurrences "clicsbp-idssegmented-siona-TOUCH-2//clicsbp-idssegmented-siona-TOUCH-1//clicsbp-idssegmented-siona-TOUCH-3//clicsbp-idssegmented-tuyuca-TOUCH-1"
     words "n a n o h i//w a i h i//p a ʔ tˀ o h i//p a d e y ã"
@@ -7716,7 +7728,7 @@ graph [
     family_count 1
   ]
   node [
-    id 643
+    id 644
     label "DRIP (EMIT LIQUID)"
     occurrences "clicsbp-idssegmented-siona-DRIPEMITLIQUID-3//clicsbp-idssegmented-siona-DRIPEMITLIQUID-1//clicsbp-idssegmented-siona-DRIPEMITLIQUID-2//clicsbp-idssegmented-tuyuca-DRIPEMITLIQUID-1"
     words "kˀ e õ h i//s i ʔ a h i//sˀ ĩ kˀ a + h i//t a b i"
@@ -7728,7 +7740,7 @@ graph [
     family_count 1
   ]
   node [
-    id 644
+    id 645
     label "SWEEP"
     occurrences "clicsbp-idssegmented-siona-SWEEP-1//clicsbp-idssegmented-tuyuca-SWEEP-1"
     words "j u a h i//h o a"
@@ -7740,7 +7752,7 @@ graph [
     family_count 1
   ]
   node [
-    id 645
+    id 646
     label "TOOL"
     occurrences "clicsbp-idssegmented-siona-TOOL-1"
     words "s a ʔ k a w ɨ"
@@ -7752,7 +7764,7 @@ graph [
     family_count 1
   ]
   node [
-    id 646
+    id 647
     label "BORE"
     occurrences "clicsbp-idssegmented-siona-BORE-1//clicsbp-idssegmented-siona-BORE-2//clicsbp-idssegmented-siona-BORE-3//clicsbp-idssegmented-tuyuca-BORE-1"
     words "t o ʔ t e h i//t o t a h i//h ɨ o h i//k o p e + t i i"
@@ -7764,7 +7776,7 @@ graph [
     family_count 1
   ]
   node [
-    id 647
+    id 648
     label "NAIL (TOOL)"
     occurrences "clicsbp-idssegmented-siona-NAILTOOL-1//clicsbp-idssegmented-siona-NAILTOOL-2//clicsbp-idssegmented-tuyuca-NAILTOOL-1"
     words "k ẽ h i//kˀ ɨ n a + k e n + m a k a//p e r e g u"
@@ -7776,7 +7788,7 @@ graph [
     family_count 1
   ]
   node [
-    id 648
+    id 649
     label "GOLD"
     occurrences "clicsbp-idssegmented-siona-GOLD-1//clicsbp-idssegmented-tuyuca-GOLD-1"
     words "sˀ o a + k u tˀ i//o r o"
@@ -7788,7 +7800,7 @@ graph [
     family_count 1
   ]
   node [
-    id 649
+    id 650
     label "SILVER"
     occurrences "clicsbp-idssegmented-siona-SILVER-1"
     words "k u tˀ i"
@@ -7800,7 +7812,7 @@ graph [
     family_count 1
   ]
   node [
-    id 650
+    id 651
     label "MONEY"
     occurrences "clicsbp-idssegmented-siona-MONEY-1//clicsbp-idssegmented-tuyuca-MONEY-1"
     words "k u tˀ i//d ĩ y e r u"
@@ -7812,7 +7824,7 @@ graph [
     family_count 1
   ]
   node [
-    id 651
+    id 652
     label "BRIGHT"
     occurrences "clicsbp-idssegmented-siona-BRIGHT-1//clicsbp-idssegmented-siona-BRIGHT-2//clicsbp-idssegmented-tuyuca-BRIGHT-1"
     words "k u tˀ i//kˀ o ʔ s i h e i + h i//a s i y a + r e"
@@ -7824,7 +7836,7 @@ graph [
     family_count 1
   ]
   node [
-    id 652
+    id 653
     label "GLASS"
     occurrences "clicsbp-idssegmented-siona-GLASS-1//clicsbp-idssegmented-tuyuca-GLASS-1"
     words "kˀ ɨ n a//b i d r u"
@@ -7836,7 +7848,7 @@ graph [
     family_count 1
   ]
   node [
-    id 653
+    id 654
     label "BRAID (VERB) OR WEAVE (BASKET)"
     occurrences "clicsbp-idssegmented-siona-BRAIDVERBORWEAVEBASKET-1//clicsbp-idssegmented-tuyuca-BRAIDVERBORWEAVEBASKET-1"
     words "t ɨ õ h i//s u a"
@@ -7848,7 +7860,7 @@ graph [
     family_count 1
   ]
   node [
-    id 654
+    id 655
     label "FAN (OBJECT)"
     occurrences "clicsbp-idssegmented-siona-FANOBJECT-1//clicsbp-idssegmented-tuyuca-FANOBJECT-1"
     words "pˀ a pˀ o + j o//j ũ k ã + p e r o"
@@ -7860,7 +7872,7 @@ graph [
     family_count 1
   ]
   node [
-    id 655
+    id 656
     label "FAN (ACTION)"
     occurrences "clicsbp-idssegmented-siona-FANACTION-1//clicsbp-idssegmented-siona-FANACTION-2//clicsbp-idssegmented-tuyuca-FANACTION-1"
     words "pˀ ã pˀ o + h i//t u t u + h i//p aː + p u"
@@ -7872,7 +7884,7 @@ graph [
     family_count 1
   ]
   node [
-    id 656
+    id 657
     label "PAINTING"
     occurrences "clicsbp-idssegmented-siona-PAINTING-1//clicsbp-idssegmented-siona-PAINTING-2"
     words "t ɨ n o h i//h e ʔ n a h i"
@@ -7884,7 +7896,7 @@ graph [
     family_count 1
   ]
   node [
-    id 657
+    id 658
     label "CLEAN"
     occurrences "clicsbp-idssegmented-siona-CLEAN-2//clicsbp-idssegmented-siona-CLEAN-1//clicsbp-idssegmented-siona-CLEAN-3//clicsbp-idssegmented-tuyuca-CLEAN-1"
     words "t ɨ n o h i//pˀ i h o h i//t ẽ t o h i//h ũ ĩ r ĩ + b ã + d ĩ"
@@ -7896,7 +7908,7 @@ graph [
     family_count 1
   ]
   node [
-    id 658
+    id 659
     label "TURN (SOMETHING)"
     occurrences "clicsbp-idssegmented-siona-TURNSOMETHING-1//clicsbp-idssegmented-siona-TURNSOMETHING-2//clicsbp-idssegmented-tuyuca-TURNSOMETHING-1"
     words "t ɨ ʔ k e pˀ o//t ɨ õ h e i j e//k ã b ẽ + j ũ b ũ"
@@ -7908,7 +7920,7 @@ graph [
     family_count 1
   ]
   node [
-    id 659
+    id 660
     label "TURN AROUND"
     occurrences "clicsbp-idssegmented-siona-TURNAROUND-1//clicsbp-idssegmented-tuyuca-TURNAROUND-1"
     words "pˀ o n ɨ h e i + h i//s o d e a"
@@ -7920,7 +7932,7 @@ graph [
     family_count 1
   ]
   node [
-    id 660
+    id 661
     label "WRAP"
     occurrences "clicsbp-idssegmented-siona-WRAP-1//clicsbp-idssegmented-siona-WRAP-2//clicsbp-idssegmented-siona-WRAP-3//clicsbp-idssegmented-tuyuca-WRAP-1"
     words "kˀ a n o h i//kˀ a ʔ n e h i//t u n a h i//k õ b ã"
@@ -7932,7 +7944,7 @@ graph [
     family_count 1
   ]
   node [
-    id 661
+    id 662
     label "TWIST (AROUND)"
     occurrences "clicsbp-idssegmented-siona-TWISTAROUND-1//clicsbp-idssegmented-tuyuca-TWISTAROUND-1"
     words "t e õ h e i h i//w ã j ĩ ã"
@@ -7944,7 +7956,7 @@ graph [
     family_count 1
   ]
   node [
-    id 662
+    id 663
     label "CROOKED"
     occurrences "clicsbp-idssegmented-siona-CROOKED-1//clicsbp-idssegmented-tuyuca-CROOKED-1"
     words "t e õ h e i h i//k õ b ẽ + r õ"
@@ -7956,7 +7968,7 @@ graph [
     family_count 1
   ]
   node [
-    id 663
+    id 664
     label "RISE (MOVE UPWARDS)"
     occurrences "clicsbp-idssegmented-siona-RISEMOVEUPWARDS-1//clicsbp-idssegmented-tuyuca-RISEMOVEUPWARDS-1"
     words "w ɨ + i//b ɨ ã"
@@ -7968,7 +7980,7 @@ graph [
     family_count 1
   ]
   node [
-    id 664
+    id 665
     label "LIFT"
     occurrences "clicsbp-idssegmented-siona-LIFT-1//clicsbp-idssegmented-siona-LIFT-2//clicsbp-idssegmented-tuyuca-LIFT-1"
     words "w ɨ a h i//m ɨ o h i//d ẽː + b ɨ õ + k o"
@@ -7980,7 +7992,7 @@ graph [
     family_count 1
   ]
   node [
-    id 665
+    id 666
     label "CATCH"
     occurrences "clicsbp-idssegmented-siona-CATCH-1//clicsbp-idssegmented-tuyuca-CATCH-1"
     words "sˀ e ã h i//b o k a + j ẽ"
@@ -7992,7 +8004,7 @@ graph [
     family_count 1
   ]
   node [
-    id 666
+    id 667
     label "FLOAT"
     occurrences "clicsbp-idssegmented-siona-FLOAT-1//clicsbp-idssegmented-siona-FLOAT-2//clicsbp-idssegmented-tuyuca-FLOAT-1"
     words "w a w o + h i//w a w a + h i//p a s a"
@@ -8004,7 +8016,7 @@ graph [
     family_count 1
   ]
   node [
-    id 667
+    id 668
     label "JUMP"
     occurrences "clicsbp-idssegmented-siona-JUMP-1//clicsbp-idssegmented-siona-JUMP-2//clicsbp-idssegmented-tuyuca-JUMP-1"
     words "tʃ a ʔ k a h i//tʃ a h i//b u p u"
@@ -8016,7 +8028,7 @@ graph [
     family_count 1
   ]
   node [
-    id 668
+    id 669
     label "CRAWL OR CREEP"
     occurrences "clicsbp-idssegmented-siona-CRAWLORCREEP-1//clicsbp-idssegmented-siona-CRAWLORCREEP-2//clicsbp-idssegmented-tuyuca-CRAWLORCREEP-1"
     words "kˀ o tˀ o + h i//tˀ ɨ t ɨ + h i//p a i"
@@ -8028,7 +8040,7 @@ graph [
     family_count 1
   ]
   node [
-    id 669
+    id 670
     label "KNEEL"
     occurrences "clicsbp-idssegmented-siona-KNEEL-1//clicsbp-idssegmented-siona-KNEEL-2//clicsbp-idssegmented-tuyuca-KNEEL-1"
     words "kˀ u kˀ u r i h i//tˀ ɨ ã h i//h e a + k ũ b ũ"
@@ -8040,7 +8052,7 @@ graph [
     family_count 1
   ]
   node [
-    id 670
+    id 671
     label "SLIP"
     occurrences "clicsbp-idssegmented-siona-SLIP-1//clicsbp-idssegmented-siona-SLIP-2//clicsbp-idssegmented-tuyuca-SLIP-1"
     words "kˀ a ʔ i h i//kˀ a ʔ ĩ h i//k ɨ t a + s ĩ d ã"
@@ -8052,7 +8064,7 @@ graph [
     family_count 1
   ]
   node [
-    id 671
+    id 672
     label "KICK"
     occurrences "clicsbp-idssegmented-siona-KICK-1//clicsbp-idssegmented-tuyuca-KICK-1"
     words "t ĩ t o h i//w ẽː + p a"
@@ -8064,7 +8076,7 @@ graph [
     family_count 1
   ]
   node [
-    id 672
+    id 673
     label "DANCE"
     occurrences "clicsbp-idssegmented-siona-DANCE-1//clicsbp-idssegmented-tuyuca-DANCE-1"
     words "b a i r a h i//b a s a"
@@ -8076,7 +8088,7 @@ graph [
     family_count 1
   ]
   node [
-    id 673
+    id 674
     label "RUN"
     occurrences "clicsbp-idssegmented-siona-RUN-1//clicsbp-idssegmented-tuyuca-RUN-1"
     words "w ɨ ʔʷ ɨ + h i//k ɨ t ɨ"
@@ -8088,7 +8100,7 @@ graph [
     family_count 1
   ]
   node [
-    id 674
+    id 675
     label "GO"
     occurrences "clicsbp-idssegmented-siona-GO-1//clicsbp-idssegmented-tuyuca-GO-1"
     words "s a + i + h i//w aː"
@@ -8100,7 +8112,7 @@ graph [
     family_count 1
   ]
   node [
-    id 675
+    id 676
     label "GO UP (ASCEND)"
     occurrences "clicsbp-idssegmented-siona-GOUPASCEND-1//clicsbp-idssegmented-siona-GOUPASCEND-2//clicsbp-idssegmented-tuyuca-GOUPASCEND-1"
     words "m ɨ i h i//m ɨ a h i//b ɨ ã"
@@ -8112,7 +8124,7 @@ graph [
     family_count 1
   ]
   node [
-    id 676
+    id 677
     label "GO DOWN (DESCEND)"
     occurrences "clicsbp-idssegmented-siona-GODOWNDESCEND-1//clicsbp-idssegmented-siona-GODOWNDESCEND-2//clicsbp-idssegmented-siona-GODOWNDESCEND-3//clicsbp-idssegmented-tuyuca-GODOWNDESCEND-1"
     words "kˀ a + h e//kˀ a + tʃ o h i//w e a h i//d i i"
@@ -8124,7 +8136,7 @@ graph [
     family_count 1
   ]
   node [
-    id 677
+    id 678
     label "GO OUT"
     occurrences "clicsbp-idssegmented-siona-GOOUT-1//clicsbp-idssegmented-tuyuca-GOOUT-1"
     words "e t a h i//w i t i"
@@ -8136,7 +8148,7 @@ graph [
     family_count 1
   ]
   node [
-    id 678
+    id 679
     label "RETREAT"
     occurrences "clicsbp-idssegmented-siona-RETREAT-1//clicsbp-idssegmented-tuyuca-RETREAT-1"
     words "e t a h i//d uː + d i"
@@ -8148,7 +8160,7 @@ graph [
     family_count 1
   ]
   node [
-    id 679
+    id 680
     label "COME BACK"
     occurrences "clicsbp-idssegmented-siona-COMEBACK-1//clicsbp-idssegmented-tuyuca-COMEBACK-1"
     words "kˀ o ʔ i h i//p ɨ t ɨ a"
@@ -8160,7 +8172,7 @@ graph [
     family_count 1
   ]
   node [
-    id 680
+    id 681
     label "LEAVE"
     occurrences "clicsbp-idssegmented-siona-LEAVE-1//clicsbp-idssegmented-tuyuca-LEAVE-1"
     words "h o ʔ k a + h i//w aː"
@@ -8172,7 +8184,7 @@ graph [
     family_count 1
   ]
   node [
-    id 681
+    id 682
     label "DISAPPEAR"
     occurrences "clicsbp-idssegmented-siona-DISAPPEAR-1//clicsbp-idssegmented-tuyuca-DISAPPEAR-1"
     words "w e s ɨ h i//d i t i"
@@ -8184,7 +8196,7 @@ graph [
     family_count 1
   ]
   node [
-    id 682
+    id 683
     label "FLEE"
     occurrences "clicsbp-idssegmented-siona-FLEE-1//clicsbp-idssegmented-tuyuca-FLEE-1//clicsbp-idssegmented-tuyuca-FLEE-2"
     words "kˀ a t i h i//d u t i//k u i + w a"
@@ -8196,7 +8208,7 @@ graph [
     family_count 1
   ]
   node [
-    id 683
+    id 684
     label "FOLLOW"
     occurrences "clicsbp-idssegmented-siona-FOLLOW-1//clicsbp-idssegmented-siona-FOLLOW-2//clicsbp-idssegmented-tuyuca-FOLLOW-1"
     words "pˀ e ʔ t e h i//t u i h i//d ɨ d ɨ"
@@ -8208,7 +8220,7 @@ graph [
     family_count 1
   ]
   node [
-    id 684
+    id 685
     label "PURSUE"
     occurrences "clicsbp-idssegmented-siona-PURSUE-2//clicsbp-idssegmented-siona-PURSUE-1//clicsbp-idssegmented-tuyuca-PURSUE-1"
     words "t u i h i//pˀ i ʔ tˀ a h i//d ɨ d ɨ + s e"
@@ -8220,7 +8232,7 @@ graph [
     family_count 1
   ]
   node [
-    id 685
+    id 686
     label "ARRIVE"
     occurrences "clicsbp-idssegmented-siona-ARRIVE-2//clicsbp-idssegmented-siona-ARRIVE-1//clicsbp-idssegmented-tuyuca-ARRIVE-1"
     words "t u i h i//t ĩ ʔ ã + h i//h e a"
@@ -8232,7 +8244,7 @@ graph [
     family_count 1
   ]
   node [
-    id 686
+    id 687
     label "APPROACH"
     occurrences "clicsbp-idssegmented-siona-APPROACH-1//clicsbp-idssegmented-siona-APPROACH-2//clicsbp-idssegmented-tuyuca-APPROACH-1"
     words "kʷ e õ h i//kˀ a n a h i//h e a + a t i"
@@ -8244,7 +8256,7 @@ graph [
     family_count 1
   ]
   node [
-    id 687
+    id 688
     label "ENTER"
     occurrences "clicsbp-idssegmented-siona-ENTER-1//clicsbp-idssegmented-siona-ENTER-2//clicsbp-idssegmented-tuyuca-ENTER-1"
     words "k a k a + h i//h e h i//s ã ã"
@@ -8256,7 +8268,7 @@ graph [
     family_count 1
   ]
   node [
-    id 688
+    id 689
     label "CARRY"
     occurrences "clicsbp-idssegmented-siona-CARRY-1//clicsbp-idssegmented-siona-CARRY-2//clicsbp-idssegmented-siona-CARRY-3//clicsbp-idssegmented-tuyuca-CARRY-1"
     words "tˀ ɨ ʔ tˀ ɨ//w e ʔ//kʷ a ĩ h i//d ẽː + w a"
@@ -8268,7 +8280,7 @@ graph [
     family_count 1
   ]
   node [
-    id 689
+    id 690
     label "CARRY ON SHOULDER"
     occurrences "clicsbp-idssegmented-siona-CARRYONSHOULDER-1//clicsbp-idssegmented-tuyuca-CARRYONSHOULDER-1"
     words "j e h i//a p a + w a"
@@ -8280,7 +8292,7 @@ graph [
     family_count 1
   ]
   node [
-    id 690
+    id 691
     label "BRING"
     occurrences "clicsbp-idssegmented-siona-BRING-1//clicsbp-idssegmented-tuyuca-BRING-1"
     words "tˀ a + h i//d ẽː + a t i"
@@ -8292,7 +8304,7 @@ graph [
     family_count 1
   ]
   node [
-    id 691
+    id 692
     label "SEND"
     occurrences "clicsbp-idssegmented-siona-SEND-1//clicsbp-idssegmented-siona-SEND-2//clicsbp-idssegmented-siona-SEND-3//clicsbp-idssegmented-tuyuca-SEND-1"
     words "s a o + h i//tˀ a o + h i//kˀ ã s e h i//t i k o + k o"
@@ -8304,7 +8316,7 @@ graph [
     family_count 1
   ]
   node [
-    id 692
+    id 693
     label "LEAD (GUIDE)"
     occurrences "clicsbp-idssegmented-siona-LEADGUIDE-1//clicsbp-idssegmented-tuyuca-LEADGUIDE-1"
     words "t a j o h i//b ãː + ẽ y õ"
@@ -8316,7 +8328,7 @@ graph [
     family_count 1
   ]
   node [
-    id 693
+    id 694
     label "WHEEL"
     occurrences "clicsbp-idssegmented-siona-WHEEL-1//clicsbp-idssegmented-tuyuca-WHEEL-1"
     words "kˀ a ʔʷ a//b e t o"
@@ -8328,7 +8340,7 @@ graph [
     family_count 1
   ]
   node [
-    id 694
+    id 695
     label "CIRCLE"
     occurrences "clicsbp-idssegmented-siona-CIRCLE-1//clicsbp-idssegmented-tuyuca-CIRCLE-1"
     words "kˀ a ʔʷ a//b e t o"
@@ -8340,7 +8352,7 @@ graph [
     family_count 1
   ]
   node [
-    id 695
+    id 696
     label "RAFT"
     occurrences "clicsbp-idssegmented-siona-RAFT-1"
     words "b a s a"
@@ -8352,7 +8364,7 @@ graph [
     family_count 1
   ]
   node [
-    id 696
+    id 697
     label "OAR"
     occurrences "clicsbp-idssegmented-siona-OAR-1"
     words "j o + w a ʔ t i"
@@ -8364,7 +8376,7 @@ graph [
     family_count 1
   ]
   node [
-    id 697
+    id 698
     label "ROW"
     occurrences "clicsbp-idssegmented-siona-ROW-1//clicsbp-idssegmented-tuyuca-ROW-1"
     words "tˀ o ʔ a h i//w a a"
@@ -8376,7 +8388,7 @@ graph [
     family_count 1
   ]
   node [
-    id 698
+    id 699
     label "PORT"
     occurrences "clicsbp-idssegmented-siona-PORT-1//clicsbp-idssegmented-tuyuca-PORT-1"
     words "j o + s a ʔ tˀ o//p e t a"
@@ -8388,7 +8400,7 @@ graph [
     family_count 1
   ]
   node [
-    id 699
+    id 700
     label "HAVE"
     occurrences "clicsbp-idssegmented-siona-HAVE-1//clicsbp-idssegmented-tuyuca-HAVE-1"
     words "pˀ a + h i//k ɨ t i"
@@ -8400,7 +8412,7 @@ graph [
     family_count 1
   ]
   node [
-    id 700
+    id 701
     label "OWN"
     occurrences "clicsbp-idssegmented-siona-OWN-1//clicsbp-idssegmented-tuyuca-OWN-1"
     words "pˀ a h i//k ɨ o"
@@ -8412,7 +8424,7 @@ graph [
     family_count 1
   ]
   node [
-    id 701
+    id 702
     label "TAKE"
     occurrences "clicsbp-idssegmented-siona-TAKE-1//clicsbp-idssegmented-tuyuca-TAKE-1"
     words "s a + j ɨ//d ẽː"
@@ -8424,7 +8436,7 @@ graph [
     family_count 1
   ]
   node [
-    id 702
+    id 703
     label "SEIZE"
     occurrences "clicsbp-idssegmented-siona-SEIZE-1//clicsbp-idssegmented-tuyuca-SEIZE-1"
     words "sˀ ẽ ã j ĩ//j ẽ ẽ"
@@ -8436,7 +8448,7 @@ graph [
     family_count 1
   ]
   node [
-    id 703
+    id 704
     label "GET"
     occurrences "clicsbp-idssegmented-siona-GET-1"
     words "ĩ h i"
@@ -8448,7 +8460,7 @@ graph [
     family_count 1
   ]
   node [
-    id 704
+    id 705
     label "KEEP"
     occurrences "clicsbp-idssegmented-siona-KEEP-1//clicsbp-idssegmented-tuyuca-KEEP-1"
     words "tˀ e ʔʷ a h i//ĩ y ã + d õ"
@@ -8460,7 +8472,7 @@ graph [
     family_count 1
   ]
   node [
-    id 705
+    id 706
     label "THING"
     occurrences "clicsbp-idssegmented-siona-THING-1//clicsbp-idssegmented-siona-THING-2//clicsbp-idssegmented-tuyuca-THING-1"
     words "m ã ʔ k a//m a ʔ k a r ɨ//a p e + j e + d õ"
@@ -8472,7 +8484,7 @@ graph [
     family_count 1
   ]
   node [
-    id 706
+    id 707
     label "GIVE BACK"
     occurrences "clicsbp-idssegmented-siona-GIVEBACK-1//clicsbp-idssegmented-tuyuca-GIVEBACK-1"
     words "kˀ o ʔ j a h i//w i y a"
@@ -8484,7 +8496,7 @@ graph [
     family_count 1
   ]
   node [
-    id 707
+    id 708
     label "DESTROY"
     occurrences "clicsbp-idssegmented-siona-DESTROY-1"
     words "w e s o h i"
@@ -8496,7 +8508,7 @@ graph [
     family_count 1
   ]
   node [
-    id 708
+    id 709
     label "MISPLACE"
     occurrences "clicsbp-idssegmented-siona-MISPLACE-1//clicsbp-idssegmented-tuyuca-MISPLACE-1"
     words "w e s o h i//d i t i"
@@ -8508,7 +8520,7 @@ graph [
     family_count 1
   ]
   node [
-    id 709
+    id 710
     label "LOOK FOR"
     occurrences "clicsbp-idssegmented-siona-LOOKFOR-1//clicsbp-idssegmented-tuyuca-LOOKFOR-1"
     words "k u ʔ e h i//ã b ãː"
@@ -8520,7 +8532,7 @@ graph [
     family_count 1
   ]
   node [
-    id 710
+    id 711
     label "FIND"
     occurrences "clicsbp-idssegmented-siona-FIND-1//clicsbp-idssegmented-tuyuca-FIND-1"
     words "t ĩ h a h i//b ɨ a"
@@ -8532,7 +8544,7 @@ graph [
     family_count 1
   ]
   node [
-    id 711
+    id 712
     label "MEET"
     occurrences "clicsbp-idssegmented-siona-MEET-1//clicsbp-idssegmented-siona-MEET-2//clicsbp-idssegmented-tuyuca-MEET-1"
     words "t ĩ h a h i//n ɨ k a h i//b o k a"
@@ -8544,7 +8556,7 @@ graph [
     family_count 1
   ]
   node [
-    id 712
+    id 713
     label "POOR"
     occurrences "clicsbp-idssegmented-siona-POOR-1//clicsbp-idssegmented-tuyuca-POOR-1"
     words "tʃ a o//a p e + j e + b ã d ĩ + g ɨ"
@@ -8556,7 +8568,7 @@ graph [
     family_count 1
   ]
   node [
-    id 713
+    id 714
     label "BEGGAR"
     occurrences "clicsbp-idssegmented-siona-BEGGAR-1"
     words "s ẽ h i"
@@ -8568,7 +8580,7 @@ graph [
     family_count 1
   ]
   node [
-    id 714
+    id 715
     label "ASK (INQUIRE)"
     occurrences "clicsbp-idssegmented-siona-ASKINQUIRE-1//clicsbp-idssegmented-tuyuca-ASKINQUIRE-1"
     words "s ẽ h i//s ã ĩ y ã"
@@ -8580,7 +8592,7 @@ graph [
     family_count 1
   ]
   node [
-    id 715
+    id 716
     label "ASK (REQUEST)"
     occurrences "clicsbp-idssegmented-siona-ASKREQUEST-1//clicsbp-idssegmented-tuyuca-ASKREQUEST-1"
     words "s ẽ h i//s ã ĩ"
@@ -8592,7 +8604,7 @@ graph [
     family_count 1
   ]
   node [
-    id 716
+    id 717
     label "LEND"
     occurrences "clicsbp-idssegmented-siona-LEND-1//clicsbp-idssegmented-tuyuca-LEND-1"
     words "ĩ s i h i//w a s o"
@@ -8604,7 +8616,7 @@ graph [
     family_count 1
   ]
   node [
-    id 717
+    id 718
     label "OWE"
     occurrences "clicsbp-idssegmented-siona-OWE-1//clicsbp-idssegmented-siona-OWE-2//clicsbp-idssegmented-tuyuca-OWE-1"
     words "d e b e h i//tˀ e w e + h i//w a p a + b õ"
@@ -8616,7 +8628,7 @@ graph [
     family_count 1
   ]
   node [
-    id 718
+    id 719
     label "PAY"
     occurrences "clicsbp-idssegmented-siona-PAY-1//clicsbp-idssegmented-tuyuca-PAY-1"
     words "tˀ o ʔ i h i//w a p a + t i"
@@ -8628,7 +8640,7 @@ graph [
     family_count 1
   ]
   node [
-    id 719
+    id 720
     label "BILL"
     occurrences "clicsbp-idssegmented-siona-BILL-1//clicsbp-idssegmented-tuyuca-BILL-1"
     words "tˀ o ʔ i//w a p a"
@@ -8640,7 +8652,7 @@ graph [
     family_count 1
   ]
   node [
-    id 720
+    id 721
     label "EARN"
     occurrences "clicsbp-idssegmented-siona-EARN-1//clicsbp-idssegmented-siona-EARN-2//clicsbp-idssegmented-tuyuca-EARN-1"
     words "t a ʔ j e h i//kˀ a n a + h i//w a p a + t a"
@@ -8652,7 +8664,7 @@ graph [
     family_count 1
   ]
   node [
-    id 721
+    id 722
     label "BUY"
     occurrences "clicsbp-idssegmented-siona-BUY-1//clicsbp-idssegmented-tuyuca-BUY-1"
     words "k o + h i//s ã ĩ"
@@ -8664,7 +8676,7 @@ graph [
     family_count 1
   ]
   node [
-    id 722
+    id 723
     label "SELL"
     occurrences "clicsbp-idssegmented-siona-SELL-1//clicsbp-idssegmented-tuyuca-SELL-1"
     words "pˀ ẽ d i e h i//d u a"
@@ -8676,7 +8688,7 @@ graph [
     family_count 1
   ]
   node [
-    id 723
+    id 724
     label "SHARE"
     occurrences "clicsbp-idssegmented-siona-SHARE-1//clicsbp-idssegmented-siona-SHARE-2//clicsbp-idssegmented-tuyuca-SHARE-1"
     words "w a ʔʷ o h i//w o ʔʷ e h i//b a t o"
@@ -8688,7 +8700,7 @@ graph [
     family_count 1
   ]
   node [
-    id 724
+    id 725
     label "AFTER"
     occurrences "clicsbp-idssegmented-siona-AFTER-1//clicsbp-idssegmented-tuyuca-AFTER-1"
     words "h ɨ ʔ t e//s i r o"
@@ -8700,7 +8712,7 @@ graph [
     family_count 1
   ]
   node [
-    id 725
+    id 726
     label "BEHIND"
     occurrences "clicsbp-idssegmented-siona-BEHIND-1//clicsbp-idssegmented-tuyuca-BEHIND-1"
     words "j o ʔʰ e h i//s i r o"
@@ -8712,7 +8724,7 @@ graph [
     family_count 1
   ]
   node [
-    id 726
+    id 727
     label "DOWN OR BELOW"
     occurrences "clicsbp-idssegmented-siona-DOWNORBELOW-1//clicsbp-idssegmented-tuyuca-DOWNORBELOW-1"
     words "s ɨ tˀ i pˀ ɨ//d o k a"
@@ -8724,7 +8736,7 @@ graph [
     family_count 1
   ]
   node [
-    id 727
+    id 728
     label "BEFORE"
     occurrences "clicsbp-idssegmented-siona-BEFORE-1//clicsbp-idssegmented-siona-BEFORE-2//clicsbp-idssegmented-tuyuca-BEFORE-1"
     words "tˀ u tˀ u//h a ʔ ã tˀ ɨ//s ɨ g e r o"
@@ -8736,7 +8748,7 @@ graph [
     family_count 1
   ]
   node [
-    id 728
+    id 729
     label "DEEP"
     occurrences "clicsbp-idssegmented-siona-DEEP-3//clicsbp-idssegmented-siona-DEEP-1//clicsbp-idssegmented-siona-DEEP-2//clicsbp-idssegmented-tuyuca-DEEP-1"
     words "tˀ u tˀ u//tˀ ɨ k o h i//tˀ u ʔ i h i//ɨ k ɨ ã"
@@ -8748,7 +8760,7 @@ graph [
     family_count 1
   ]
   node [
-    id 729
+    id 730
     label "IN FRONT OF"
     occurrences "clicsbp-idssegmented-siona-INFRONTOF-1//clicsbp-idssegmented-siona-INFRONTOF-2//clicsbp-idssegmented-tuyuca-INFRONTOF-1"
     words "h e ʔ e j a//t ɨ ʔʷ i//d i a b ã k ɨ"
@@ -8760,7 +8772,7 @@ graph [
     family_count 1
   ]
   node [
-    id 730
+    id 731
     label "HOLE"
     occurrences "clicsbp-idssegmented-siona-HOLE-2//clicsbp-idssegmented-siona-HOLE-1//clicsbp-idssegmented-tuyuca-HOLE-1"
     words "j a k a w ɨ//kˀ o h e//k o p e"
@@ -8772,7 +8784,7 @@ graph [
     family_count 1
   ]
   node [
-    id 731
+    id 732
     label "HIGH"
     occurrences "clicsbp-idssegmented-siona-HIGH-2//clicsbp-idssegmented-siona-HIGH-1//clicsbp-idssegmented-tuyuca-HIGH-1"
     words "ɨ m ɨ h e ʔ ẽ//ʔ ɨ m ɨ + h i//ɨ b ɨ ã"
@@ -8784,7 +8796,7 @@ graph [
     family_count 1
   ]
   node [
-    id 732
+    id 733
     label "CENTER OR MIDDLE"
     occurrences "clicsbp-idssegmented-siona-CENTERORMIDDLE-1//clicsbp-idssegmented-tuyuca-CENTERORMIDDLE-1"
     words "h o pˀ o//d e k o"
@@ -8796,7 +8808,7 @@ graph [
     family_count 1
   ]
   node [
-    id 733
+    id 734
     label "HALF"
     occurrences "clicsbp-idssegmented-siona-HALF-1//clicsbp-idssegmented-tuyuca-HALF-1"
     words "h o pˀ o//d e k o"
@@ -8808,7 +8820,7 @@ graph [
     family_count 1
   ]
   node [
-    id 734
+    id 735
     label "REMAIN"
     occurrences "clicsbp-idssegmented-siona-REMAIN-1//clicsbp-idssegmented-tuyuca-REMAIN-1"
     words "pˀ ɨ a h i//p ɨ t ɨ a"
@@ -8820,7 +8832,7 @@ graph [
     family_count 1
   ]
   node [
-    id 735
+    id 736
     label "GATHER"
     occurrences "clicsbp-idssegmented-siona-GATHER-1//clicsbp-idssegmented-siona-GATHER-2//clicsbp-idssegmented-siona-GATHER-3//clicsbp-idssegmented-tuyuca-GATHER-1"
     words "j ɨ ʔ k//tʃ i a h i//sˀ i ũ h i//s e e"
@@ -8832,7 +8844,7 @@ graph [
     family_count 1
   ]
   node [
-    id 736
+    id 737
     label "PILE UP"
     occurrences "clicsbp-idssegmented-siona-PILEUP-1//clicsbp-idssegmented-siona-PILEUP-2//clicsbp-idssegmented-siona-PILEUP-3//clicsbp-idssegmented-tuyuca-PILEUP-1"
     words "pˀ ɨ j o + h i//p ɨ ʔ p ɨ + h i//p ɨ//s eː + d ẽ + õ + k ũ"
@@ -8844,7 +8856,7 @@ graph [
     family_count 1
   ]
   node [
-    id 737
+    id 738
     label "JOIN"
     occurrences "clicsbp-idssegmented-siona-JOIN-1//clicsbp-idssegmented-siona-JOIN-2//clicsbp-idssegmented-tuyuca-JOIN-1"
     words "t e ʔ e//s ɨ ʔ a h i//d o o"
@@ -8856,7 +8868,7 @@ graph [
     family_count 1
   ]
   node [
-    id 738
+    id 739
     label "SOME"
     occurrences "clicsbp-idssegmented-siona-SOME-3//clicsbp-idssegmented-siona-SOME-1//clicsbp-idssegmented-siona-SOME-2//clicsbp-idssegmented-tuyuca-SOME-1//clicsbp-idssegmented-tuyuca-SOME-2"
     words "t e ʔ e//t e ʔ e kʷ a//t e ʔ e n a//s ĩ k ẽ//s ĩ k ã j ẽ"
@@ -8868,7 +8880,7 @@ graph [
     family_count 1
   ]
   node [
-    id 739
+    id 740
     label "POINTED"
     occurrences "clicsbp-idssegmented-siona-POINTED-1//clicsbp-idssegmented-tuyuca-POINTED-1"
     words "s ɨ ʔ a h i//w i r o"
@@ -8880,7 +8892,7 @@ graph [
     family_count 1
   ]
   node [
-    id 740
+    id 741
     label "SEPARATE"
     occurrences "clicsbp-idssegmented-siona-SEPARATE-1//clicsbp-idssegmented-siona-SEPARATE-2"
     words "k ɨ j o + h i//k ɨ j ɨ + h i"
@@ -8892,7 +8904,7 @@ graph [
     family_count 1
   ]
   node [
-    id 741
+    id 742
     label "OPEN"
     occurrences "clicsbp-idssegmented-siona-OPEN-1//clicsbp-idssegmented-siona-OPEN-2//clicsbp-idssegmented-tuyuca-OPEN-1"
     words "ã k o h i//j a ʔ o h i//p õː"
@@ -8904,7 +8916,7 @@ graph [
     family_count 1
   ]
   node [
-    id 742
+    id 743
     label "SHUT"
     occurrences "clicsbp-idssegmented-siona-SHUT-1//clicsbp-idssegmented-siona-SHUT-2//clicsbp-idssegmented-tuyuca-SHUT-1"
     words "t ɨ k a h i//t a ʔ p i h i//b i a"
@@ -8916,7 +8928,7 @@ graph [
     family_count 1
   ]
   node [
-    id 743
+    id 744
     label "COVER"
     occurrences "clicsbp-idssegmented-siona-COVER-3//clicsbp-idssegmented-siona-COVER-1//clicsbp-idssegmented-siona-COVER-2//clicsbp-idssegmented-tuyuca-COVER-1"
     words "t a ʔ p i h i//n a ʔ o h i//p ɨ ʔ p ɨ h i//b ɨ a t o"
@@ -8928,7 +8940,7 @@ graph [
     family_count 1
   ]
   node [
-    id 744
+    id 745
     label "HIDE (CONCEAL)"
     occurrences "clicsbp-idssegmented-siona-HIDECONCEAL-1//clicsbp-idssegmented-siona-HIDECONCEAL-2//clicsbp-idssegmented-tuyuca-HIDECONCEAL-1"
     words "j a w e + h i//kˀ a t i + h i//j a j i o"
@@ -8940,7 +8952,7 @@ graph [
     family_count 1
   ]
   node [
-    id 745
+    id 746
     label "TOP"
     occurrences "clicsbp-idssegmented-siona-TOP-1//clicsbp-idssegmented-tuyuca-TOP-1"
     words "n a ʔ m i//s o t o a"
@@ -8952,7 +8964,7 @@ graph [
     family_count 1
   ]
   node [
-    id 746
+    id 747
     label "BOTTOM"
     occurrences "clicsbp-idssegmented-siona-BOTTOM-1//clicsbp-idssegmented-siona-BOTTOM-2//clicsbp-idssegmented-tuyuca-BOTTOM-1"
     words "kʷˀ ɨ tˀ ɨ pˀ ɨ//j o kˀ u + kʷˀ ɨ tˀ ɨ pˀ ɨ//k u t i + r o"
@@ -8964,7 +8976,7 @@ graph [
     family_count 1
   ]
   node [
-    id 747
+    id 748
     label "EDGE"
     occurrences "clicsbp-idssegmented-siona-EDGE-1//clicsbp-idssegmented-siona-EDGE-2//clicsbp-idssegmented-tuyuca-EDGE-1"
     words "j ɨ tˀ u w a//k a tˀ a h e i s i tˀ u//j a p a"
@@ -8976,7 +8988,7 @@ graph [
     family_count 1
   ]
   node [
-    id 748
+    id 749
     label "SIDE"
     occurrences "clicsbp-idssegmented-siona-SIDE-1//clicsbp-idssegmented-tuyuca-SIDE-1"
     words "j o kˀ u + p a ɨ w a//w e s a"
@@ -8988,7 +9000,7 @@ graph [
     family_count 1
   ]
   node [
-    id 749
+    id 750
     label "MEASURE"
     occurrences "clicsbp-idssegmented-siona-MEASURE-1//clicsbp-idssegmented-tuyuca-MEASURE-1"
     words "kʷ ẽ kʷ e h i//k e o"
@@ -9000,7 +9012,7 @@ graph [
     family_count 1
   ]
   node [
-    id 750
+    id 751
     label "THIN (OF SHAPE OF OBJECT)"
     occurrences "clicsbp-idssegmented-siona-THINOFSHAPEOFOBJECT-1//clicsbp-idssegmented-tuyuca-THINOFSHAPEOFOBJECT-1"
     words "pˀ e ã h i//e s e b ẽ d ĩ"
@@ -9012,7 +9024,7 @@ graph [
     family_count 1
   ]
   node [
-    id 751
+    id 752
     label "FLAT"
     occurrences "clicsbp-idssegmented-siona-FLAT-1//clicsbp-idssegmented-siona-FLAT-2//clicsbp-idssegmented-tuyuca-FLAT-1"
     words "a t i//p e p e pˀ ɨ//b a p a"
@@ -9024,7 +9036,7 @@ graph [
     family_count 1
   ]
   node [
-    id 752
+    id 753
     label "HARD"
     occurrences "clicsbp-idssegmented-siona-HARD-1//clicsbp-idssegmented-tuyuca-HARD-1"
     words "h ɨ h a//b a y i"
@@ -9036,7 +9048,7 @@ graph [
     family_count 1
   ]
   node [
-    id 753
+    id 754
     label "CROSS"
     occurrences "clicsbp-idssegmented-siona-CROSS-1//clicsbp-idssegmented-siona-CROSS-2//clicsbp-idssegmented-tuyuca-CROSS-1"
     words "k r u s u//h e ʔ ẽ h i//t ẽ r õ"
@@ -9048,7 +9060,7 @@ graph [
     family_count 1
   ]
   node [
-    id 754
+    id 755
     label "CHANGE"
     occurrences "clicsbp-idssegmented-siona-CHANGE-1//clicsbp-idssegmented-siona-CHANGE-2//clicsbp-idssegmented-siona-CHANGE-3//clicsbp-idssegmented-tuyuca-CHANGE-1"
     words "s a j o h i//s a ʔ j e h i//tˀ u ĩ h i//w a s o"
@@ -9060,7 +9072,7 @@ graph [
     family_count 1
   ]
   node [
-    id 755
+    id 756
     label "NOTHING OR ZERO"
     occurrences "clicsbp-idssegmented-siona-NOTHINGORZERO-1"
     words "pˀ e o + j e"
@@ -9072,7 +9084,7 @@ graph [
     family_count 1
   ]
   node [
-    id 756
+    id 757
     label "EIGHT"
     occurrences "clicsbp-idssegmented-siona-EIGHT-1//clicsbp-idssegmented-tuyuca-EIGHT-1"
     words "o tʃ o//s i k a + b õ + p e t i + a p e + b õ + p ẽ d ĩ + p e a + r e + i t i a + g a"
@@ -9084,7 +9096,7 @@ graph [
     family_count 1
   ]
   node [
-    id 757
+    id 758
     label "TWENTY"
     occurrences "clicsbp-idssegmented-siona-TWENTY-1//clicsbp-idssegmented-tuyuca-TWENTY-1"
     words "pˀ e ĩ t e//p ɨ a + b õ + p e t i + p ɨ a + d ɨ p o + p e t i + r e"
@@ -9096,7 +9108,7 @@ graph [
     family_count 1
   ]
   node [
-    id 758
+    id 759
     label "THOUSAND"
     occurrences "clicsbp-idssegmented-siona-THOUSAND-1"
     words "m i l"
@@ -9108,7 +9120,7 @@ graph [
     family_count 1
   ]
   node [
-    id 759
+    id 760
     label "MORE"
     occurrences "clicsbp-idssegmented-siona-MORE-1//clicsbp-idssegmented-tuyuca-MORE-1"
     words "k ɨ ʔ tˀ ɨ//d ẽ b õ + r õ"
@@ -9120,7 +9132,7 @@ graph [
     family_count 1
   ]
   node [
-    id 760
+    id 761
     label "PART"
     occurrences "clicsbp-idssegmented-siona-PART-1//clicsbp-idssegmented-siona-PART-2//clicsbp-idssegmented-siona-PART-3"
     words "kˀ ã//kˀ a ʔ tˀ a//p ɨ ʔʰ e"
@@ -9132,7 +9144,7 @@ graph [
     family_count 1
   ]
   node [
-    id 761
+    id 762
     label "ONLY"
     occurrences "clicsbp-idssegmented-siona-ONLY-1//clicsbp-idssegmented-siona-ONLY-2//clicsbp-idssegmented-siona-ONLY-3//clicsbp-idssegmented-tuyuca-ONLY-1//clicsbp-idssegmented-tuyuca-ONLY-2//clicsbp-idssegmented-tuyuca-ONLY-3"
     words "kˀ a j a h i//tˀ o//s e ʔ kˀ a//d i k ɨ//d i k ɨ//d i g ɨ"
@@ -9144,7 +9156,7 @@ graph [
     family_count 1
   ]
   node [
-    id 762
+    id 763
     label "AGAIN"
     occurrences "clicsbp-idssegmented-siona-AGAIN-1//clicsbp-idssegmented-tuyuca-AGAIN-1"
     words "s e ʔ e//s ũ k ã"
@@ -9156,7 +9168,7 @@ graph [
     family_count 1
   ]
   node [
-    id 763
+    id 764
     label "LATE"
     occurrences "clicsbp-idssegmented-siona-LATE-1//clicsbp-idssegmented-siona-LATE-2//clicsbp-idssegmented-tuyuca-LATE-1"
     words "n ã ʔ ĩ//n a ʔ i t o//s i r o + p ɨ"
@@ -9168,7 +9180,7 @@ graph [
     family_count 1
   ]
   node [
-    id 764
+    id 765
     label "AFTERNOON"
     occurrences "clicsbp-idssegmented-siona-AFTERNOON-1//clicsbp-idssegmented-tuyuca-AFTERNOON-1"
     words "n a ʔ i t o//k o e + r i + t o + s i r o"
@@ -9180,7 +9192,7 @@ graph [
     family_count 1
   ]
   node [
-    id 765
+    id 766
     label "NOW"
     occurrences "clicsbp-idssegmented-siona-NOW-1//clicsbp-idssegmented-siona-NOW-2//clicsbp-idssegmented-tuyuca-NOW-1"
     words "j u a//j u tˀ e//b ẽ k ã t i + g ã"
@@ -9192,7 +9204,7 @@ graph [
     family_count 1
   ]
   node [
-    id 766
+    id 767
     label "TODAY"
     occurrences "clicsbp-idssegmented-siona-TODAY-1//clicsbp-idssegmented-tuyuca-TODAY-1"
     words "j u tˀ e//b ẽ k ɨ ã"
@@ -9204,7 +9216,7 @@ graph [
     family_count 1
   ]
   node [
-    id 767
+    id 768
     label "IMMEDIATELY"
     occurrences "clicsbp-idssegmented-siona-IMMEDIATELY-1//clicsbp-idssegmented-tuyuca-IMMEDIATELY-1"
     words "j u tˀ e tˀ a ʔ r ɨ//b ãː t a"
@@ -9216,7 +9228,7 @@ graph [
     family_count 1
   ]
   node [
-    id 768
+    id 769
     label "FAST"
     occurrences "clicsbp-idssegmented-siona-FAST-1//clicsbp-idssegmented-siona-FAST-2//clicsbp-idssegmented-tuyuca-FAST-1"
     words "pˀ e s a//k e + w a ʔ kˀ ɨ//b o y e r o"
@@ -9228,7 +9240,7 @@ graph [
     family_count 1
   ]
   node [
-    id 769
+    id 770
     label "SLOW"
     occurrences "clicsbp-idssegmented-siona-SLOW-1//clicsbp-idssegmented-tuyuca-SLOW-1"
     words "pˀ o h o tˀ a ʔ tˀ ɨ//p e a + r e + b ẽ d ã"
@@ -9240,7 +9252,7 @@ graph [
     family_count 1
   ]
   node [
-    id 770
+    id 771
     label "BE LATE"
     occurrences "clicsbp-idssegmented-siona-BELATE-1//clicsbp-idssegmented-tuyuca-BELATE-1"
     words "n a ʔ i h i//p e a"
@@ -9252,7 +9264,7 @@ graph [
     family_count 1
   ]
   node [
-    id 771
+    id 772
     label "BEGIN OR START"
     occurrences "clicsbp-idssegmented-siona-BEGINORSTART-1//clicsbp-idssegmented-tuyuca-BEGINORSTART-1"
     words "pˀ i ʔ tˀ a//d ɨ k ã"
@@ -9264,7 +9276,7 @@ graph [
     family_count 1
   ]
   node [
-    id 772
+    id 773
     label "FINISH"
     occurrences "clicsbp-idssegmented-siona-FINISH-1//clicsbp-idssegmented-siona-FINISH-2//clicsbp-idssegmented-tuyuca-FINISH-1"
     words "t ɨ h i//k a tˀ a h e i h i//p e o + t i"
@@ -9276,7 +9288,7 @@ graph [
     family_count 1
   ]
   node [
-    id 773
+    id 774
     label "CEASE"
     occurrences "clicsbp-idssegmented-siona-CEASE-1//clicsbp-idssegmented-tuyuca-CEASE-1"
     words "n ɨ k a h e i h i//d u u"
@@ -9288,7 +9300,7 @@ graph [
     family_count 1
   ]
   node [
-    id 774
+    id 775
     label "FOR A LONG TIME"
     occurrences "clicsbp-idssegmented-siona-FORALONGTIME-1//clicsbp-idssegmented-tuyuca-FORALONGTIME-1"
     words "sˀ o e//j o a + r i"
@@ -9300,7 +9312,7 @@ graph [
     family_count 1
   ]
   node [
-    id 775
+    id 776
     label "DAWN"
     occurrences "clicsbp-idssegmented-siona-DAWN-1//clicsbp-idssegmented-tuyuca-DAWN-1"
     words "j ã t a + h i//b o e + b ɨ ã + t i + r i"
@@ -9312,7 +9324,7 @@ graph [
     family_count 1
   ]
   node [
-    id 776
+    id 777
     label "MORNING"
     occurrences "clicsbp-idssegmented-siona-MORNING-1//clicsbp-idssegmented-tuyuca-MORNING-1"
     words "m i a t o//b o e + r i"
@@ -9324,7 +9336,7 @@ graph [
     family_count 1
   ]
   node [
-    id 777
+    id 778
     label "TOMORROW"
     occurrences "clicsbp-idssegmented-siona-TOMORROW-1//clicsbp-idssegmented-tuyuca-TOMORROW-1"
     words "u m u kˀ u s e//j ã b ĩ + g ã"
@@ -9336,7 +9348,7 @@ graph [
     family_count 1
   ]
   node [
-    id 778
+    id 779
     label "YESTERDAY"
     occurrences "clicsbp-idssegmented-siona-YESTERDAY-1//clicsbp-idssegmented-tuyuca-YESTERDAY-1"
     words "n a ʔ i t ɨ//j ã b ĩ + k a"
@@ -9348,7 +9360,7 @@ graph [
     family_count 1
   ]
   node [
-    id 779
+    id 780
     label "SUNDAY"
     occurrences "clicsbp-idssegmented-siona-SUNDAY-1//clicsbp-idssegmented-tuyuca-SUNDAY-1"
     words "tˀ o m ĩ kˀ o//j e e r i s ã + r i + b ɨ r e k o"
@@ -9360,7 +9372,7 @@ graph [
     family_count 1
   ]
   node [
-    id 780
+    id 781
     label "MONDAY"
     occurrences "clicsbp-idssegmented-siona-MONDAY-1//clicsbp-idssegmented-tuyuca-MONDAY-1"
     words "l u n e//p a d e + d ɨ k ã + r i + b ɨ r e k o"
@@ -9372,7 +9384,7 @@ graph [
     family_count 1
   ]
   node [
-    id 781
+    id 782
     label "THURSDAY"
     occurrences "clicsbp-idssegmented-siona-THURSDAY-1"
     words "h u e v a"
@@ -9384,7 +9396,7 @@ graph [
     family_count 1
   ]
   node [
-    id 782
+    id 783
     label "FRIDAY"
     occurrences "clicsbp-idssegmented-siona-FRIDAY-1"
     words "v i e r n e"
@@ -9396,7 +9408,7 @@ graph [
     family_count 1
   ]
   node [
-    id 783
+    id 784
     label "MONTH"
     occurrences "clicsbp-idssegmented-siona-MONTH-1//clicsbp-idssegmented-tuyuca-MONTH-1"
     words "j a j a kˀ ɨ//b ũ ĩ p ũ"
@@ -9408,7 +9420,7 @@ graph [
     family_count 1
   ]
   node [
-    id 784
+    id 785
     label "YEAR"
     occurrences "clicsbp-idssegmented-siona-YEAR-1//clicsbp-idssegmented-tuyuca-YEAR-1"
     words "t ɨ k a w ɨ//k ɨ b ã"
@@ -9420,7 +9432,7 @@ graph [
     family_count 1
   ]
   node [
-    id 785
+    id 786
     label "SEASON"
     occurrences "clicsbp-idssegmented-siona-SEASON-1//clicsbp-idssegmented-tuyuca-SEASON-1"
     words "t ɨ k a w ɨ//t o"
@@ -9432,7 +9444,7 @@ graph [
     family_count 1
   ]
   node [
-    id 786
+    id 787
     label "WINTER"
     occurrences "clicsbp-idssegmented-siona-WINTER-1//clicsbp-idssegmented-siona-WINTER-2//clicsbp-idssegmented-tuyuca-WINTER-1"
     words "o k o tˀ ɨ//s ɨ s ɨ tˀ ɨ//p uː + r i + r o"
@@ -9444,7 +9456,7 @@ graph [
     family_count 1
   ]
   node [
-    id 787
+    id 788
     label "SUMMER"
     occurrences "clicsbp-idssegmented-siona-SUMMER-1//clicsbp-idssegmented-tuyuca-SUMMER-1"
     words "ɨ s ɨ tˀ ɨ//k ɨ b ã"
@@ -9456,7 +9468,7 @@ graph [
     family_count 1
   ]
   node [
-    id 788
+    id 789
     label "SMELL (STINK)"
     occurrences "clicsbp-idssegmented-siona-SMELLSTINK-1//clicsbp-idssegmented-tuyuca-SMELLSTINK-1"
     words "j i ʔ e h i//s u s u"
@@ -9468,7 +9480,7 @@ graph [
     family_count 1
   ]
   node [
-    id 789
+    id 790
     label "FRAGRANT"
     occurrences "clicsbp-idssegmented-siona-FRAGRANT-1//clicsbp-idssegmented-tuyuca-FRAGRANT-1"
     words "m a ʔ j a//s i t i a + ã y ũ"
@@ -9480,7 +9492,7 @@ graph [
     family_count 1
   ]
   node [
-    id 790
+    id 791
     label "STINKING"
     occurrences "clicsbp-idssegmented-siona-STINKING-1//clicsbp-idssegmented-tuyuca-STINKING-1"
     words "sˀ i e + e m u//ɨ d ĩ"
@@ -9492,7 +9504,7 @@ graph [
     family_count 1
   ]
   node [
-    id 791
+    id 792
     label "BITTER"
     occurrences "clicsbp-idssegmented-siona-BITTER-1//clicsbp-idssegmented-tuyuca-BITTER-1"
     words "s ɨ h e + h i//s ɨ g ẽ"
@@ -9504,7 +9516,7 @@ graph [
     family_count 1
   ]
   node [
-    id 792
+    id 793
     label "LISTEN"
     occurrences "clicsbp-idssegmented-siona-LISTEN-1//clicsbp-idssegmented-siona-LISTEN-2//clicsbp-idssegmented-tuyuca-LISTEN-1"
     words "a tʃ a h i//p o ʔ p e h i//t ɨ o"
@@ -9516,7 +9528,7 @@ graph [
     family_count 1
   ]
   node [
-    id 793
+    id 794
     label "SOUND OR NOISE"
     occurrences "clicsbp-idssegmented-siona-SOUNDORNOISE-1//clicsbp-idssegmented-tuyuca-SOUNDORNOISE-1"
     words "a tʃ o h i//b ɨ s ɨ"
@@ -9528,7 +9540,7 @@ graph [
     family_count 1
   ]
   node [
-    id 794
+    id 795
     label "LOOK"
     occurrences "clicsbp-idssegmented-siona-LOOK-1//clicsbp-idssegmented-tuyuca-LOOK-1"
     words "ɨ j a h i//ĩ y ã"
@@ -9540,7 +9552,7 @@ graph [
     family_count 1
   ]
   node [
-    id 795
+    id 796
     label "UNDERSTAND"
     occurrences "clicsbp-idssegmented-siona-UNDERSTAND-1//clicsbp-idssegmented-siona-UNDERSTAND-2//clicsbp-idssegmented-tuyuca-UNDERSTAND-1"
     words "ɨ j a h i//m a s i h i//t ɨ o + b ã s ĩ"
@@ -9552,7 +9564,7 @@ graph [
     family_count 1
   ]
   node [
-    id 796
+    id 797
     label "SHOW"
     occurrences "clicsbp-idssegmented-siona-SHOW-1//clicsbp-idssegmented-tuyuca-SHOW-1"
     words "ɨ j o h i//ẽ y õ"
@@ -9564,7 +9576,7 @@ graph [
     family_count 1
   ]
   node [
-    id 797
+    id 798
     label "SEEM"
     occurrences "clicsbp-idssegmented-siona-SEEM-1//clicsbp-idssegmented-siona-SEEM-2//clicsbp-idssegmented-tuyuca-SEEM-1"
     words "ɨ j o h i//w a n o h i//b i i"
@@ -9576,7 +9588,7 @@ graph [
     family_count 1
   ]
   node [
-    id 798
+    id 799
     label "SHINE"
     occurrences "clicsbp-idssegmented-siona-SHINE-1//clicsbp-idssegmented-siona-SHINE-2//clicsbp-idssegmented-siona-SHINE-3//clicsbp-idssegmented-tuyuca-SHINE-1"
     words "ɨ s ɨ h i//h ɨ ʔʰ e h i//m a ʔ j o h i//a s i y a"
@@ -9588,7 +9600,7 @@ graph [
     family_count 1
   ]
   node [
-    id 799
+    id 800
     label "PUNISHMENT"
     occurrences "clicsbp-idssegmented-siona-PUNISHMENT-2//clicsbp-idssegmented-siona-PUNISHMENT-1//clicsbp-idssegmented-tuyuca-PUNISHMENT-1"
     words "w a i h i//s ĩ ʔ s e h i//j ã y ã + r o + t iː + r e"
@@ -9600,7 +9612,7 @@ graph [
     family_count 1
   ]
   node [
-    id 800
+    id 801
     label "FEEL"
     occurrences "clicsbp-idssegmented-siona-FEEL-1//clicsbp-idssegmented-tuyuca-FEEL-1"
     words "w a n o h i//t ɨ g e j ã"
@@ -9612,7 +9624,7 @@ graph [
     family_count 1
   ]
   node [
-    id 801
+    id 802
     label "SOFT"
     occurrences "clicsbp-idssegmented-siona-SOFT-1//clicsbp-idssegmented-siona-SOFT-2//clicsbp-idssegmented-tuyuca-SOFT-1"
     words "h ã ʔʰ i h i//m e ʔ n a h e i h i//a b a"
@@ -9624,7 +9636,7 @@ graph [
     family_count 1
   ]
   node [
-    id 802
+    id 803
     label "LIGHT (WEIGHT)"
     occurrences "clicsbp-idssegmented-siona-LIGHTWEIGHT-1//clicsbp-idssegmented-tuyuca-LIGHTWEIGHT-1"
     words "w ɨ i h e i h i//d ɨ + k ɨ + ẽ"
@@ -9636,7 +9648,7 @@ graph [
     family_count 1
   ]
   node [
-    id 803
+    id 804
     label "WARM"
     occurrences "clicsbp-idssegmented-siona-WARM-1//clicsbp-idssegmented-tuyuca-WARM-1"
     words "kʷˀ ɨ o h e i h i//a s i + b u s u"
@@ -9648,7 +9660,7 @@ graph [
     family_count 1
   ]
   node [
-    id 804
+    id 805
     label "WRINKLED"
     occurrences "clicsbp-idssegmented-siona-WRINKLED-1//clicsbp-idssegmented-tuyuca-WRINKLED-1"
     words "sˀ ɨ n ɨ + h i//s ɨ s ɨ r õ"
@@ -9660,7 +9672,7 @@ graph [
     family_count 1
   ]
   node [
-    id 805
+    id 806
     label "DEMON"
     occurrences "clicsbp-idssegmented-siona-DEMON-1//clicsbp-idssegmented-siona-DEMON-2//clicsbp-idssegmented-siona-DEMON-3//clicsbp-idssegmented-tuyuca-DEMON-1"
     words "w a t i//k u k u//h o j o//w ã t ĩ"
@@ -9672,7 +9684,7 @@ graph [
     family_count 1
   ]
   node [
-    id 806
+    id 807
     label "GHOST"
     occurrences "clicsbp-idssegmented-siona-GHOST-1//clicsbp-idssegmented-tuyuca-GHOST-1"
     words "w a t i//w ã t ĩ"
@@ -9684,7 +9696,7 @@ graph [
     family_count 1
   ]
   node [
-    id 807
+    id 808
     label "SURPRISED"
     occurrences "clicsbp-idssegmented-siona-SURPRISED-1//clicsbp-idssegmented-tuyuca-SURPRISED-1"
     words "k u k u//ɨ k ɨ a"
@@ -9696,7 +9708,7 @@ graph [
     family_count 1
   ]
   node [
-    id 808
+    id 809
     label "FEAR (FRIGHT)"
     occurrences "clicsbp-idssegmented-siona-FEARFRIGHT-1//clicsbp-idssegmented-tuyuca-FEARFRIGHT-1"
     words "k u k u//k u i"
@@ -9708,7 +9720,7 @@ graph [
     family_count 1
   ]
   node [
-    id 809
+    id 810
     label "HAPPY"
     occurrences "clicsbp-idssegmented-siona-HAPPY-1//clicsbp-idssegmented-tuyuca-HAPPY-1"
     words "pˀ o h o + h i//ɨ s e d ĩ"
@@ -9720,7 +9732,7 @@ graph [
     family_count 1
   ]
   node [
-    id 810
+    id 811
     label "PLAY"
     occurrences "clicsbp-idssegmented-siona-PLAY-1//clicsbp-idssegmented-tuyuca-PLAY-1"
     words "w e tˀ e + j o ʔ o h i//a p e"
@@ -9732,7 +9744,7 @@ graph [
     family_count 1
   ]
   node [
-    id 811
+    id 812
     label "LOVE"
     occurrences "clicsbp-idssegmented-siona-LOVE-1//clicsbp-idssegmented-tuyuca-LOVE-1"
     words "j ɨ h i//b ã ĩ"
@@ -9744,7 +9756,7 @@ graph [
     family_count 1
   ]
   node [
-    id 812
+    id 813
     label "KISS"
     occurrences "clicsbp-idssegmented-siona-KISS-1//clicsbp-idssegmented-tuyuca-KISS-1"
     words "m u tʃ a + h i//ũ p ũ"
@@ -9756,7 +9768,7 @@ graph [
     family_count 1
   ]
   node [
-    id 813
+    id 814
     label "EMBRACE"
     occurrences "clicsbp-idssegmented-siona-EMBRACE-1//clicsbp-idssegmented-tuyuca-EMBRACE-1"
     words "s ũ ʔ k a h i//p aː + b ɨ a"
@@ -9768,7 +9780,7 @@ graph [
     family_count 1
   ]
   node [
-    id 814
+    id 815
     label "PAIN"
     occurrences "clicsbp-idssegmented-siona-PAIN-1//clicsbp-idssegmented-siona-PAIN-2//clicsbp-idssegmented-tuyuca-PAIN-1"
     words "h a ʔ s i + h i//o i + h i//p ũ d ĩ"
@@ -9780,7 +9792,7 @@ graph [
     family_count 1
   ]
   node [
-    id 815
+    id 816
     label "SHAME"
     occurrences "clicsbp-idssegmented-siona-SHAME-1//clicsbp-idssegmented-tuyuca-SHAME-1"
     words "w a h i + j a h i//b o b o"
@@ -9792,7 +9804,7 @@ graph [
     family_count 1
   ]
   node [
-    id 816
+    id 817
     label "WANT"
     occurrences "clicsbp-idssegmented-siona-WANT-1//clicsbp-idssegmented-siona-WANT-2//clicsbp-idssegmented-siona-WANT-3//clicsbp-idssegmented-tuyuca-WANT-1"
     words "j ɨ//pˀ a ʔ i//pˀ a ʔ ɨ//b o o"
@@ -9804,7 +9816,7 @@ graph [
     family_count 1
   ]
   node [
-    id 817
+    id 818
     label "CHOOSE"
     occurrences "clicsbp-idssegmented-siona-CHOOSE-1//clicsbp-idssegmented-tuyuca-CHOOSE-1"
     words "h i a ʔ n o h i//b e s e"
@@ -9816,7 +9828,7 @@ graph [
     family_count 1
   ]
   node [
-    id 818
+    id 819
     label "LIE (MISLEAD)"
     occurrences "clicsbp-idssegmented-siona-LIEMISLEAD-1//clicsbp-idssegmented-tuyuca-LIEMISLEAD-1"
     words "k o k e h i//h ĩ ĩ + d i t o"
@@ -9828,7 +9840,7 @@ graph [
     family_count 1
   ]
   node [
-    id 819
+    id 820
     label "DECEIT"
     occurrences "clicsbp-idssegmented-siona-DECEIT-1//clicsbp-idssegmented-tuyuca-DECEIT-1"
     words "k o k e + h i//t iː + d i t o"
@@ -9840,7 +9852,7 @@ graph [
     family_count 1
   ]
   node [
-    id 820
+    id 821
     label "FAULT"
     occurrences "clicsbp-idssegmented-siona-FAULT-1"
     words "h u tʃ a"
@@ -9852,7 +9864,7 @@ graph [
     family_count 1
   ]
   node [
-    id 821
+    id 822
     label "BEAUTIFUL"
     occurrences "clicsbp-idssegmented-siona-BEAUTIFUL-1//clicsbp-idssegmented-tuyuca-BEAUTIFUL-1"
     words "tˀ e ʔ o w ɨ//ã y ũ"
@@ -9864,7 +9876,7 @@ graph [
     family_count 1
   ]
   node [
-    id 822
+    id 823
     label "UGLY"
     occurrences "clicsbp-idssegmented-siona-UGLY-1//clicsbp-idssegmented-tuyuca-UGLY-1"
     words "s i ʔ s i + h i//d o k o"
@@ -9876,7 +9888,7 @@ graph [
     family_count 1
   ]
   node [
-    id 823
+    id 824
     label "THINK (REFLECT)"
     occurrences "clicsbp-idssegmented-siona-THINKREFLECT-1//clicsbp-idssegmented-tuyuca-THINKREFLECT-1"
     words "tˀ o ʔ t a//w ã k ũ"
@@ -9888,7 +9900,7 @@ graph [
     family_count 1
   ]
   node [
-    id 824
+    id 825
     label "THINK (BELIEVE)"
     occurrences "clicsbp-idssegmented-siona-THINKBELIEVE-1//clicsbp-idssegmented-tuyuca-THINKBELIEVE-1"
     words "tˀ o ʔ t a h i//w ã k ũ"
@@ -9900,7 +9912,7 @@ graph [
     family_count 1
   ]
   node [
-    id 825
+    id 826
     label "LEARN"
     occurrences "clicsbp-idssegmented-siona-LEARN-1//clicsbp-idssegmented-tuyuca-LEARN-1"
     words "j e ʔ j e h i//b u e"
@@ -9912,7 +9924,7 @@ graph [
     family_count 1
   ]
   node [
-    id 826
+    id 827
     label "STUDY"
     occurrences "clicsbp-idssegmented-siona-STUDY-1//clicsbp-idssegmented-tuyuca-STUDY-1"
     words "u t i + j e ʔ j e h i//b u e"
@@ -9924,7 +9936,7 @@ graph [
     family_count 1
   ]
   node [
-    id 827
+    id 828
     label "TEACH"
     occurrences "clicsbp-idssegmented-siona-TEACH-1//clicsbp-idssegmented-tuyuca-TEACH-1"
     words "j e ʔ j o h i//b u e"
@@ -9936,7 +9948,7 @@ graph [
     family_count 1
   ]
   node [
-    id 828
+    id 829
     label "FORGET"
     occurrences "clicsbp-idssegmented-siona-FORGET-1//clicsbp-idssegmented-tuyuca-FORGET-1"
     words "w a n ɨ + j e h i//a k a b o"
@@ -9948,7 +9960,7 @@ graph [
     family_count 1
   ]
   node [
-    id 829
+    id 830
     label "SECRET"
     occurrences "clicsbp-idssegmented-siona-SECRET-1//clicsbp-idssegmented-tuyuca-SECRET-1"
     words "j a w e tˀ a ʔ tˀ ɨ//j a j i o + r e"
@@ -9960,7 +9972,7 @@ graph [
     family_count 1
   ]
   node [
-    id 830
+    id 831
     label "CERTAIN"
     occurrences "clicsbp-idssegmented-siona-CERTAIN-1//clicsbp-idssegmented-tuyuca-CERTAIN-1"
     words "tˀ ɨ õ h i//d ĩː + r õ + r ã"
@@ -9972,7 +9984,7 @@ graph [
     family_count 1
   ]
   node [
-    id 831
+    id 832
     label "CAUSE"
     occurrences "clicsbp-idssegmented-siona-CAUSE-1//clicsbp-idssegmented-tuyuca-CAUSE-1"
     words "kʷˀ e s e h i//o"
@@ -9984,7 +9996,7 @@ graph [
     family_count 1
   ]
   node [
-    id 832
+    id 833
     label "YES"
     occurrences "clicsbp-idssegmented-siona-YES-1//clicsbp-idssegmented-siona-YES-2//clicsbp-idssegmented-siona-YES-3"
     words "h a ɨ ʔ ɨ//h a tˀ o//ɨ h ɨ ʔ ɨ"
@@ -9996,7 +10008,7 @@ graph [
     family_count 1
   ]
   node [
-    id 833
+    id 834
     label "WHICH"
     occurrences "clicsbp-idssegmented-siona-WHICH-1//clicsbp-idssegmented-tuyuca-WHICH-1"
     words "h a tˀ o//d ĩ ĩ"
@@ -10008,7 +10020,7 @@ graph [
     family_count 1
   ]
   node [
-    id 834
+    id 835
     label "NO"
     occurrences "clicsbp-idssegmented-siona-NO-1"
     words "pˀ ã h i"
@@ -10020,7 +10032,7 @@ graph [
     family_count 1
   ]
   node [
-    id 835
+    id 836
     label "HOW MUCH"
     occurrences "clicsbp-idssegmented-siona-HOWMUCH-1//clicsbp-idssegmented-tuyuca-HOWMUCH-1"
     words "k e h e i//d õ k ẽ"
@@ -10032,7 +10044,7 @@ graph [
     family_count 1
   ]
   node [
-    id 836
+    id 837
     label "SHOUT"
     occurrences "clicsbp-idssegmented-siona-SHOUT-1//clicsbp-idssegmented-tuyuca-SHOUT-1"
     words "kʷ i h i//a k a r i b i"
@@ -10044,7 +10056,7 @@ graph [
     family_count 1
   ]
   node [
-    id 837
+    id 838
     label "WHISTLE"
     occurrences "clicsbp-idssegmented-siona-WHISTLE-1//clicsbp-idssegmented-siona-WHISTLE-2//clicsbp-idssegmented-tuyuca-WHISTLE-1"
     words "h u i a h i//h u i o h i//w ĩ b õ"
@@ -10056,7 +10068,7 @@ graph [
     family_count 1
   ]
   node [
-    id 838
+    id 839
     label "SPEAK"
     occurrences "clicsbp-idssegmented-siona-SPEAK-1//clicsbp-idssegmented-siona-SPEAK-2//clicsbp-idssegmented-siona-SPEAK-3//clicsbp-idssegmented-tuyuca-SPEAK-1"
     words "k ɨ a//k o k a//k a + h i//w e d e s e"
@@ -10068,7 +10080,7 @@ graph [
     family_count 1
   ]
   node [
-    id 839
+    id 840
     label "SPEECH"
     occurrences "clicsbp-idssegmented-siona-SPEECH-1//clicsbp-idssegmented-tuyuca-SPEECH-1"
     words "k o k a//w e d e"
@@ -10080,7 +10092,7 @@ graph [
     family_count 1
   ]
   node [
-    id 840
+    id 841
     label "LANGUAGE"
     occurrences "clicsbp-idssegmented-siona-LANGUAGE-1//clicsbp-idssegmented-tuyuca-LANGUAGE-1"
     words "k o k a//j e"
@@ -10092,7 +10104,7 @@ graph [
     family_count 1
   ]
   node [
-    id 841
+    id 842
     label "ANSWER"
     occurrences "clicsbp-idssegmented-siona-ANSWER-1//clicsbp-idssegmented-tuyuca-ANSWER-1"
     words "s e w o h i//j ɨ ɨ"
@@ -10104,7 +10116,7 @@ graph [
     family_count 1
   ]
   node [
-    id 842
+    id 843
     label "FORBID"
     occurrences "clicsbp-idssegmented-siona-FORBID-1"
     words "ɨ s e h i"
@@ -10116,7 +10128,7 @@ graph [
     family_count 1
   ]
   node [
-    id 843
+    id 844
     label "HINDER OR PREVENT"
     occurrences "clicsbp-idssegmented-siona-HINDERORPREVENT-1//clicsbp-idssegmented-tuyuca-HINDERORPREVENT-1"
     words "ɨ s e h i//k ã b õ t a"
@@ -10128,7 +10140,7 @@ graph [
     family_count 1
   ]
   node [
-    id 844
+    id 845
     label "SCOLD"
     occurrences "clicsbp-idssegmented-siona-SCOLD-1//clicsbp-idssegmented-tuyuca-SCOLD-1"
     words "j i w o h i//t u t i"
@@ -10140,7 +10152,7 @@ graph [
     family_count 1
   ]
   node [
-    id 845
+    id 846
     label "CALL"
     occurrences "clicsbp-idssegmented-siona-CALL-1//clicsbp-idssegmented-tuyuca-CALL-1"
     words "tʃ o i h i//p i s u"
@@ -10152,7 +10164,7 @@ graph [
     family_count 1
   ]
   node [
-    id 846
+    id 847
     label "ANNOUNCE"
     occurrences "clicsbp-idssegmented-siona-ANNOUNCE-1//clicsbp-idssegmented-tuyuca-ANNOUNCE-1"
     words "k ɨ a h i//w e d e"
@@ -10164,7 +10176,7 @@ graph [
     family_count 1
   ]
   node [
-    id 847
+    id 848
     label "WRITE"
     occurrences "clicsbp-idssegmented-siona-WRITE-1//clicsbp-idssegmented-tuyuca-WRITE-1"
     words "t o j a + h i//h o a"
@@ -10176,7 +10188,7 @@ graph [
     family_count 1
   ]
   node [
-    id 848
+    id 849
     label "BOOK"
     occurrences "clicsbp-idssegmented-siona-BOOK-1//clicsbp-idssegmented-tuyuca-BOOK-1"
     words "u t i + p ɨ pˀ ɨ//p a p e r a + t u t i"
@@ -10188,7 +10200,7 @@ graph [
     family_count 1
   ]
   node [
-    id 849
+    id 850
     label "TOWN"
     occurrences "clicsbp-idssegmented-siona-TOWN-1//clicsbp-idssegmented-tuyuca-TOWN-1"
     words "w ɨ ʔ e + h o pˀ o//b ã k ã"
@@ -10200,7 +10212,7 @@ graph [
     family_count 1
   ]
   node [
-    id 850
+    id 851
     label "WALKING STICK"
     occurrences "clicsbp-idssegmented-siona-WALKINGSTICK-1//clicsbp-idssegmented-siona-WALKINGSTICK-2//clicsbp-idssegmented-tuyuca-WALKINGSTICK-1"
     words "tˀ o ʔ o h ɨ + t u//s a i + t u pˀ ɨ//t uː + r i + t u a + r i + g ɨ"
@@ -10212,7 +10224,7 @@ graph [
     family_count 1
   ]
   node [
-    id 851
+    id 852
     label "RULE"
     occurrences "clicsbp-idssegmented-siona-RULE-1//clicsbp-idssegmented-tuyuca-RULE-1"
     words "kʷˀ e n a r o//d u t i"
@@ -10224,7 +10236,7 @@ graph [
     family_count 1
   ]
   node [
-    id 852
+    id 853
     label "KING"
     occurrences "clicsbp-idssegmented-siona-KING-1//clicsbp-idssegmented-tuyuca-KING-1"
     words "t a ʔ j e h e i j e + ɨ h a kˀ ɨ//õ p ɨ"
@@ -10236,7 +10248,7 @@ graph [
     family_count 1
   ]
   node [
-    id 853
+    id 854
     label "ALLOW OR PERMIT"
     occurrences "clicsbp-idssegmented-siona-ALLOWORPERMIT-1"
     words "h o ʔ k a h i"
@@ -10248,7 +10260,7 @@ graph [
     family_count 1
   ]
   node [
-    id 854
+    id 855
     label "FRIEND"
     occurrences "clicsbp-idssegmented-siona-FRIEND-1//clicsbp-idssegmented-siona-FRIEND-2//clicsbp-idssegmented-tuyuca-FRIEND-1"
     words "a m i kˀ u//kˀ a h e kˀ ɨ//b ẽ d ã + b ã k ɨ"
@@ -10260,7 +10272,7 @@ graph [
     family_count 1
   ]
   node [
-    id 855
+    id 856
     label "ENEMY"
     occurrences "clicsbp-idssegmented-siona-ENEMY-1//clicsbp-idssegmented-tuyuca-ENEMY-1"
     words "h e ʔ o + pˀ a kʷˀ ɨ//w ã p ã + g ɨ"
@@ -10272,7 +10284,7 @@ graph [
     family_count 1
   ]
   node [
-    id 856
+    id 857
     label "STRANGER"
     occurrences "clicsbp-idssegmented-siona-STRANGER-1//clicsbp-idssegmented-tuyuca-STRANGER-1"
     words "k u j a//a p e + d i t a + b ã k ɨ"
@@ -10284,7 +10296,7 @@ graph [
     family_count 1
   ]
   node [
-    id 857
+    id 858
     label "HELP"
     occurrences "clicsbp-idssegmented-siona-HELP-1//clicsbp-idssegmented-tuyuca-HELP-1"
     words "k õ + w ɨ//t iː + a p u"
@@ -10296,7 +10308,7 @@ graph [
     family_count 1
   ]
   node [
-    id 858
+    id 859
     label "SOLDIER"
     occurrences "clicsbp-idssegmented-siona-SOLDIER-1//clicsbp-idssegmented-tuyuca-SOLDIER-1"
     words "s ũ tˀ a tˀ o//s u r a r a"
@@ -10308,7 +10320,7 @@ graph [
     family_count 1
   ]
   node [
-    id 859
+    id 860
     label "WEAPONS"
     occurrences "clicsbp-idssegmented-siona-WEAPONS-1//clicsbp-idssegmented-tuyuca-WEAPONS-1"
     words "t o a w ɨ//b e s u"
@@ -10320,7 +10332,7 @@ graph [
     family_count 1
   ]
   node [
-    id 860
+    id 861
     label "CANNON OR GUN"
     occurrences "clicsbp-idssegmented-siona-CANNONORGUN-1//clicsbp-idssegmented-tuyuca-CANNONORGUN-1"
     words "t o a w ɨ//p e k a + w ɨ"
@@ -10332,7 +10344,7 @@ graph [
     family_count 1
   ]
   node [
-    id 861
+    id 862
     label "DEFEND"
     occurrences "clicsbp-idssegmented-siona-DEFEND-1//clicsbp-idssegmented-tuyuca-DEFEND-1"
     words "h ɨ a h i//k ã b õ t a"
@@ -10344,7 +10356,7 @@ graph [
     family_count 1
   ]
   node [
-    id 862
+    id 863
     label "FISHING LINE"
     occurrences "clicsbp-idssegmented-siona-FISHINGLINE-1//clicsbp-idssegmented-tuyuca-FISHINGLINE-1"
     words "w i t o m e//w e e + r i + k ã d õ"
@@ -10356,7 +10368,7 @@ graph [
     family_count 1
   ]
   node [
-    id 863
+    id 864
     label "ACCUSE"
     occurrences "clicsbp-idssegmented-siona-ACCUSE-1//clicsbp-idssegmented-tuyuca-ACCUSE-1"
     words "t ĩ h a + k a h i//w e d e + s ã"
@@ -10368,7 +10380,7 @@ graph [
     family_count 1
   ]
   node [
-    id 864
+    id 865
     label "PRISON"
     occurrences "clicsbp-idssegmented-siona-PRISON-1//clicsbp-idssegmented-tuyuca-PRISON-1"
     words "j a ʔ o + w ɨ ʔ e//p e r e s u + w i"
@@ -10380,7 +10392,7 @@ graph [
     family_count 1
   ]
   node [
-    id 865
+    id 866
     label "THIEF"
     occurrences "clicsbp-idssegmented-siona-THIEF-1//clicsbp-idssegmented-siona-THIEF-2//clicsbp-idssegmented-tuyuca-THIEF-1"
     words "h i ã kˀ ɨ//h i ã + w a t i//j aː + r i + b a s o k ɨ"
@@ -10392,7 +10404,7 @@ graph [
     family_count 1
   ]
   node [
-    id 866
+    id 867
     label "GOD"
     occurrences "clicsbp-idssegmented-siona-GOD-1//clicsbp-idssegmented-tuyuca-GOD-1"
     words "tˀ i u s u//k õ ã b ã k ɨ"
@@ -10404,7 +10416,7 @@ graph [
     family_count 1
   ]
   node [
-    id 867
+    id 868
     label "TEMPLE"
     occurrences "clicsbp-idssegmented-siona-TEMPLE-1//clicsbp-idssegmented-siona-TEMPLE-2//clicsbp-idssegmented-tuyuca-TEMPLE-1"
     words "h u h a + w ɨ ʔ e//u h a + w ɨ ʔ e//k õ ã b ã k ɨ + w i"
@@ -10416,7 +10428,7 @@ graph [
     family_count 1
   ]
   node [
-    id 868
+    id 869
     label "PRAY"
     occurrences "clicsbp-idssegmented-siona-PRAY-1//clicsbp-idssegmented-siona-PRAY-2//clicsbp-idssegmented-tuyuca-PRAY-1"
     words "u h a h i//h u h a h i//s uː + b u s e"
@@ -10428,7 +10440,7 @@ graph [
     family_count 1
   ]
   node [
-    id 869
+    id 870
     label "PRIEST"
     occurrences "clicsbp-idssegmented-siona-PRIEST-1//clicsbp-idssegmented-tuyuca-PRIEST-1"
     words "p a i r i//p a i"
@@ -10440,7 +10452,7 @@ graph [
     family_count 1
   ]
   node [
-    id 870
+    id 871
     label "CURSE"
     occurrences "clicsbp-idssegmented-siona-CURSE-1//clicsbp-idssegmented-tuyuca-CURSE-1"
     words "kˀ e ʔ tˀ i h i//d o a"
@@ -10452,7 +10464,7 @@ graph [
     family_count 1
   ]
   node [
-    id 871
+    id 872
     label "WORLD"
     occurrences "clicsbp-idssegmented-tuyuca-WORLD-1//clicsbp-idssegmented-tuyuca-WORLD-2//clicsbp-idssegmented-tuyuca-WORLD-3"
     words "b ɨ r e k o//b ɨ r ɨ k o//b ɨ r i k o"
@@ -10464,7 +10476,7 @@ graph [
     family_count 1
   ]
   node [
-    id 872
+    id 873
     label "COUNTRY"
     occurrences "clicsbp-idssegmented-tuyuca-COUNTRY-1"
     words "d i t a"
@@ -10476,7 +10488,7 @@ graph [
     family_count 1
   ]
   node [
-    id 873
+    id 874
     label "CAVE"
     occurrences "clicsbp-idssegmented-tuyuca-CAVE-1"
     words "ɨ t ã + w i"
@@ -10488,7 +10500,7 @@ graph [
     family_count 1
   ]
   node [
-    id 874
+    id 875
     label "OCEAN"
     occurrences "clicsbp-idssegmented-tuyuca-OCEAN-1"
     words "d i a + p a i + r i + b ã"
@@ -10500,7 +10512,7 @@ graph [
     family_count 1
   ]
   node [
-    id 875
+    id 876
     label "BOLT (OF LIGHTNING)"
     occurrences "clicsbp-idssegmented-tuyuca-BOLTOFLIGHTNING-1"
     words "b ɨ p o + p aː"
@@ -10512,7 +10524,7 @@ graph [
     family_count 1
   ]
   node [
-    id 876
+    id 877
     label "DEW"
     occurrences "clicsbp-idssegmented-tuyuca-DEW-1"
     words "j õ k õ ã + o k o"
@@ -10524,7 +10536,7 @@ graph [
     family_count 1
   ]
   node [
-    id 877
+    id 878
     label "FLAME"
     occurrences "clicsbp-idssegmented-tuyuca-FLAME-1"
     words "p e k a + b ẽ + p õ d ã"
@@ -10536,7 +10548,7 @@ graph [
     family_count 1
   ]
   node [
-    id 878
+    id 879
     label "TRAP (CATCH)"
     occurrences "clicsbp-idssegmented-tuyuca-TRAPCATCH-1"
     words "j oː"
@@ -10548,7 +10560,7 @@ graph [
     family_count 1
   ]
   node [
-    id 879
+    id 880
     label "MALE (OF ANIMAL)"
     occurrences "clicsbp-idssegmented-tuyuca-MALEOFANIMAL-1"
     words "ɨ b ɨ"
@@ -10560,7 +10572,7 @@ graph [
     family_count 1
   ]
   node [
-    id 880
+    id 881
     label "FEMALE (OF ANIMAL)"
     occurrences "clicsbp-idssegmented-tuyuca-FEMALEOFANIMAL-1"
     words "d ũ b ĩ õ"
@@ -10572,7 +10584,7 @@ graph [
     family_count 1
   ]
   node [
-    id 881
+    id 882
     label "YOUNG"
     occurrences "clicsbp-idssegmented-tuyuca-YOUNG-1"
     words "b ã b ɨ"
@@ -10584,7 +10596,7 @@ graph [
     family_count 1
   ]
   node [
-    id 882
+    id 883
     label "DIVORCE"
     occurrences "clicsbp-idssegmented-tuyuca-DIVORCE-1"
     words "d ɨ b õ + k õ ã + r e"
@@ -10596,7 +10608,7 @@ graph [
     family_count 1
   ]
   node [
-    id 883
+    id 884
     label "PARENTS"
     occurrences "clicsbp-idssegmented-tuyuca-PARENTS-1"
     words "p a k ɨ + s ɨ b ɨ ã"
@@ -10608,7 +10620,7 @@ graph [
     family_count 1
   ]
   node [
-    id 884
+    id 885
     label "RELATIVES"
     occurrences "clicsbp-idssegmented-tuyuca-RELATIVES-1"
     words "p a k ɨ + s ɨ b ɨ ã"
@@ -10620,7 +10632,7 @@ graph [
     family_count 1
   ]
   node [
-    id 885
+    id 886
     label "MARRIED MAN"
     occurrences "clicsbp-idssegmented-tuyuca-MARRIEDMAN-1"
     words "d ɨ b õ + k ɨ t i + g ɨ"
@@ -10632,7 +10644,7 @@ graph [
     family_count 1
   ]
   node [
-    id 886
+    id 887
     label "MARRIED WOMAN"
     occurrences "clicsbp-idssegmented-tuyuca-MARRIEDWOMAN-1"
     words "b ã d ɨ + k ɨ t i + g o"
@@ -10644,7 +10656,7 @@ graph [
     family_count 1
   ]
   node [
-    id 887
+    id 888
     label "SIBLING"
     occurrences "clicsbp-idssegmented-tuyuca-SIBLING-1"
     words "s ĩ k ɨ + p õ d ã"
@@ -10656,7 +10668,7 @@ graph [
     family_count 1
   ]
   node [
-    id 888
+    id 889
     label "TWINS"
     occurrences "clicsbp-idssegmented-tuyuca-TWINS-1"
     words "s ɨ d ɨ a + r i + r a"
@@ -10668,7 +10680,7 @@ graph [
     family_count 1
   ]
   node [
-    id 889
+    id 890
     label "MATERNAL UNCLE (MOTHER'S BROTHER)"
     occurrences "clicsbp-idssegmented-tuyuca-MATERNALUNCLEMOTHERSBROTHER-1"
     words "b ẽ k ɨ"
@@ -10680,7 +10692,7 @@ graph [
     family_count 1
   ]
   node [
-    id 890
+    id 891
     label "PATERNAL AUNT (FATHER'S SISTER)"
     occurrences "clicsbp-idssegmented-tuyuca-PATERNALAUNTFATHERSSISTER-1"
     words "b ẽ k õ"
@@ -10692,7 +10704,7 @@ graph [
     family_count 1
   ]
   node [
-    id 891
+    id 892
     label "FATHER-IN-LAW (OF MAN)"
     occurrences "clicsbp-idssegmented-tuyuca-FATHERINLAWOFMAN-1"
     words "b ã j ẽ k ɨ"
@@ -10704,7 +10716,7 @@ graph [
     family_count 1
   ]
   node [
-    id 892
+    id 893
     label "FATHER-IN-LAW (OF WOMAN)"
     occurrences "clicsbp-idssegmented-tuyuca-FATHERINLAWOFWOMAN-1"
     words "b ã j ẽ k ɨ"
@@ -10716,7 +10728,7 @@ graph [
     family_count 1
   ]
   node [
-    id 893
+    id 894
     label "MOTHER-IN-LAW (OF MAN)"
     occurrences "clicsbp-idssegmented-tuyuca-MOTHERINLAWOFMAN-1"
     words "b ã j ẽ k õ"
@@ -10728,7 +10740,7 @@ graph [
     family_count 1
   ]
   node [
-    id 894
+    id 895
     label "MOTHER-IN-LAW (OF WOMAN)"
     occurrences "clicsbp-idssegmented-tuyuca-MOTHERINLAWOFWOMAN-1"
     words "b ã j ẽ k õ"
@@ -10740,7 +10752,7 @@ graph [
     family_count 1
   ]
   node [
-    id 895
+    id 896
     label "SON-IN-LAW (OF MAN)"
     occurrences "clicsbp-idssegmented-tuyuca-SONINLAWOFMAN-1"
     words "b u i"
@@ -10752,7 +10764,7 @@ graph [
     family_count 1
   ]
   node [
-    id 896
+    id 897
     label "SON-IN-LAW (OF WOMAN)"
     occurrences "clicsbp-idssegmented-tuyuca-SONINLAWOFWOMAN-1"
     words "b u i"
@@ -10764,7 +10776,7 @@ graph [
     family_count 1
   ]
   node [
-    id 897
+    id 898
     label "SMILE"
     occurrences "clicsbp-idssegmented-tuyuca-SMILE-1"
     words "b u i"
@@ -10776,7 +10788,7 @@ graph [
     family_count 1
   ]
   node [
-    id 898
+    id 899
     label "DAUGHTER-IN-LAW (OF MAN)"
     occurrences "clicsbp-idssegmented-tuyuca-DAUGHTERINLAWOFMAN-1"
     words "b ã k ɨ + d ɨ b õ"
@@ -10788,7 +10800,7 @@ graph [
     family_count 1
   ]
   node [
-    id 899
+    id 900
     label "DAUGHTER-IN-LAW (OF WOMAN)"
     occurrences "clicsbp-idssegmented-tuyuca-DAUGHTERINLAWOFWOMAN-1"
     words "b ã k ɨ + d ɨ b õ"
@@ -10800,7 +10812,7 @@ graph [
     family_count 1
   ]
   node [
-    id 900
+    id 901
     label "STEPSON"
     occurrences "clicsbp-idssegmented-tuyuca-STEPSON-1//clicsbp-idssegmented-tuyuca-STEPSON-2"
     words "b ã d ɨ + b ã k ɨ//d ɨ b õ + b ã k ɨ"
@@ -10812,7 +10824,7 @@ graph [
     family_count 1
   ]
   node [
-    id 901
+    id 902
     label "STEPDAUGHTER"
     occurrences "clicsbp-idssegmented-tuyuca-STEPDAUGHTER-1//clicsbp-idssegmented-tuyuca-STEPDAUGHTER-2"
     words "b ã d ɨ + b ã k õ//d ɨ b õ + b ã k õ"
@@ -10824,7 +10836,7 @@ graph [
     family_count 1
   ]
   node [
-    id 902
+    id 903
     label "FAMILY"
     occurrences "clicsbp-idssegmented-tuyuca-FAMILY-1"
     words "w e d e + r a"
@@ -10836,7 +10848,7 @@ graph [
     family_count 1
   ]
   node [
-    id 903
+    id 904
     label "OBEY"
     occurrences "clicsbp-idssegmented-tuyuca-OBEY-1"
     words "j ɨ ɨ"
@@ -10848,7 +10860,7 @@ graph [
     family_count 1
   ]
   node [
-    id 904
+    id 905
     label "BULL"
     occurrences "clicsbp-idssegmented-tuyuca-BULL-1"
     words "w e k ɨ"
@@ -10860,7 +10872,7 @@ graph [
     family_count 1
   ]
   node [
-    id 905
+    id 906
     label "BOAR (MALE PIG)"
     occurrences "clicsbp-idssegmented-tuyuca-BOARMALEPIG-1"
     words "j e s e"
@@ -10872,7 +10884,7 @@ graph [
     family_count 1
   ]
   node [
-    id 906
+    id 907
     label "SOW (FEMALE PIG)"
     occurrences "clicsbp-idssegmented-tuyuca-SOWFEMALEPIG-1"
     words "j e s e + g o"
@@ -10884,7 +10896,7 @@ graph [
     family_count 1
   ]
   node [
-    id 907
+    id 908
     label "HORSE"
     occurrences "clicsbp-idssegmented-tuyuca-HORSE-1"
     words "k a b a j u"
@@ -10896,7 +10908,7 @@ graph [
     family_count 1
   ]
   node [
-    id 908
+    id 909
     label "EAGLE"
     occurrences "clicsbp-idssegmented-tuyuca-EAGLE-1"
     words "k aː"
@@ -10908,7 +10920,7 @@ graph [
     family_count 1
   ]
   node [
-    id 909
+    id 910
     label "FIN"
     occurrences "clicsbp-idssegmented-tuyuca-FIN-1"
     words "w a i + w aː r e"
@@ -10920,7 +10932,7 @@ graph [
     family_count 1
   ]
   node [
-    id 910
+    id 911
     label "FRESHWATER EEL"
     occurrences "clicsbp-idssegmented-tuyuca-FRESHWATEREEL-1"
     words "s ã ã"
@@ -10932,7 +10944,7 @@ graph [
     family_count 1
   ]
   node [
-    id 911
+    id 912
     label "NIT"
     occurrences "clicsbp-idssegmented-tuyuca-NIT-1"
     words "k i a + d i j e + r i"
@@ -10944,7 +10956,7 @@ graph [
     family_count 1
   ]
   node [
-    id 912
+    id 913
     label "SPIDER WEB"
     occurrences "clicsbp-idssegmented-tuyuca-SPIDERWEB-1"
     words "b ɨ p ɨ + w a"
@@ -10956,7 +10968,7 @@ graph [
     family_count 1
   ]
   node [
-    id 913
+    id 914
     label "FIREFLY"
     occurrences "clicsbp-idssegmented-tuyuca-FIREFLY-1"
     words "k eː r o"
@@ -10968,7 +10980,7 @@ graph [
     family_count 1
   ]
   node [
-    id 914
+    id 915
     label "GRASSHOPPER"
     occurrences "clicsbp-idssegmented-tuyuca-GRASSHOPPER-1"
     words "j e s e r o"
@@ -10980,7 +10992,7 @@ graph [
     family_count 1
   ]
   node [
-    id 915
+    id 916
     label "PUBIC HAIR"
     occurrences "clicsbp-idssegmented-tuyuca-PUBICHAIR-1"
     words "p o a"
@@ -10992,7 +11004,7 @@ graph [
     family_count 1
   ]
   node [
-    id 916
+    id 917
     label "TASTE (SOMETHING)"
     occurrences "clicsbp-idssegmented-tuyuca-TASTESOMETHING-1"
     words "p o a"
@@ -11004,7 +11016,7 @@ graph [
     family_count 1
   ]
   node [
-    id 917
+    id 918
     label "DANDRUFF"
     occurrences "clicsbp-idssegmented-tuyuca-DANDRUFF-1"
     words "d u p u + w a t i"
@@ -11016,7 +11028,7 @@ graph [
     family_count 1
   ]
   node [
-    id 918
+    id 919
     label "SPINE"
     occurrences "clicsbp-idssegmented-tuyuca-SPINE-1"
     words "s u k u p ĩ d ã + k õ ã"
@@ -11028,7 +11040,7 @@ graph [
     family_count 1
   ]
   node [
-    id 919
+    id 920
     label "EYELID"
     occurrences "clicsbp-idssegmented-tuyuca-EYELID-1"
     words "k a p e a + s u t i + r o"
@@ -11040,7 +11052,7 @@ graph [
     family_count 1
   ]
   node [
-    id 920
+    id 921
     label "BLINK"
     occurrences "clicsbp-idssegmented-tuyuca-BLINK-1"
     words "b i b i t a"
@@ -11052,7 +11064,7 @@ graph [
     family_count 1
   ]
   node [
-    id 921
+    id 922
     label "EARLOBE"
     occurrences "clicsbp-idssegmented-tuyuca-EARLOBE-1"
     words "k ã b õ p e + r o + p ɨ ɨ t o"
@@ -11064,7 +11076,7 @@ graph [
     family_count 1
   ]
   node [
-    id 922
+    id 923
     label "COMMON COLD (DISEASE)"
     occurrences "clicsbp-idssegmented-tuyuca-COMMONCOLDDISEASE-1"
     words "ẽ y õ"
@@ -11076,7 +11088,7 @@ graph [
     family_count 1
   ]
   node [
-    id 923
+    id 924
     label "GUMS"
     occurrences "clicsbp-idssegmented-tuyuca-GUMS-1"
     words "u p i + k ũ b ũ"
@@ -11088,7 +11100,7 @@ graph [
     family_count 1
   ]
   node [
-    id 924
+    id 925
     label "THUMB"
     occurrences "clicsbp-idssegmented-tuyuca-THUMB-1"
     words "p a i + r i + g a"
@@ -11100,7 +11112,7 @@ graph [
     family_count 1
   ]
   node [
-    id 925
+    id 926
     label "CALF OF LEG"
     occurrences "clicsbp-idssegmented-tuyuca-CALFOFLEG-1"
     words "j ĩ k ã + d i + g a"
@@ -11112,7 +11124,7 @@ graph [
     family_count 1
   ]
   node [
-    id 926
+    id 927
     label "FOOTPRINT"
     occurrences "clicsbp-idssegmented-tuyuca-FOOTPRINT-1"
     words "d ɨ p o"
@@ -11124,7 +11136,7 @@ graph [
     family_count 1
   ]
   node [
-    id 927
+    id 928
     label "UDDER"
     occurrences "clicsbp-idssegmented-tuyuca-UDDER-1"
     words "õ p ẽ ã"
@@ -11136,7 +11148,7 @@ graph [
     family_count 1
   ]
   node [
-    id 928
+    id 929
     label "WOMB"
     occurrences "clicsbp-idssegmented-tuyuca-WOMB-1"
     words "w ĩ b ɨ + s ã j ã + r i + s u t i + r o"
@@ -11148,7 +11160,7 @@ graph [
     family_count 1
   ]
   node [
-    id 929
+    id 930
     label "HICCOUGH"
     occurrences "clicsbp-idssegmented-tuyuca-HICCOUGH-1"
     words "j oː + g ɨ"
@@ -11160,7 +11172,7 @@ graph [
     family_count 1
   ]
   node [
-    id 930
+    id 931
     label "DRIBBLE"
     occurrences "clicsbp-idssegmented-tuyuca-DRIBBLE-1"
     words "t a b i"
@@ -11172,7 +11184,7 @@ graph [
     family_count 1
   ]
   node [
-    id 931
+    id 932
     label "FART"
     occurrences "clicsbp-idssegmented-tuyuca-FART-1"
     words "a i"
@@ -11184,7 +11196,7 @@ graph [
     family_count 1
   ]
   node [
-    id 932
+    id 933
     label "COPULATE"
     occurrences "clicsbp-idssegmented-tuyuca-COPULATE-1"
     words "a p a p e"
@@ -11196,7 +11208,7 @@ graph [
     family_count 1
   ]
   node [
-    id 933
+    id 934
     label "BE BORN"
     occurrences "clicsbp-idssegmented-tuyuca-BEBORN-1"
     words "b a u a"
@@ -11208,7 +11220,7 @@ graph [
     family_count 1
   ]
   node [
-    id 934
+    id 935
     label "DWELL (LIVE, RESIDE)"
     occurrences "clicsbp-idssegmented-tuyuca-DWELLLIVERESIDE-1"
     words "d ĩ ĩ"
@@ -11220,7 +11232,7 @@ graph [
     family_count 1
   ]
   node [
-    id 935
+    id 936
     label "MURDER"
     occurrences "clicsbp-idssegmented-tuyuca-MURDER-1"
     words "s ĩ ã"
@@ -11232,7 +11244,7 @@ graph [
     family_count 1
   ]
   node [
-    id 936
+    id 937
     label "HEALTHY"
     occurrences "clicsbp-idssegmented-tuyuca-HEALTHY-1"
     words "d i a + r e + b ã d ĩ"
@@ -11244,7 +11256,7 @@ graph [
     family_count 1
   ]
   node [
-    id 937
+    id 938
     label "BRUISE"
     occurrences "clicsbp-idssegmented-tuyuca-BRUISE-1"
     words "j ĩ b ĩ r e"
@@ -11256,7 +11268,7 @@ graph [
     family_count 1
   ]
   node [
-    id 938
+    id 939
     label "PUS"
     occurrences "clicsbp-idssegmented-tuyuca-PUS-1"
     words "b ũ s ũ + r ĩ"
@@ -11268,7 +11280,7 @@ graph [
     family_count 1
   ]
   node [
-    id 939
+    id 940
     label "SCAR"
     occurrences "clicsbp-idssegmented-tuyuca-SCAR-1"
     words "k ã b ĩ + r õ + d ĩ ĩ + r i + r o"
@@ -11280,7 +11292,7 @@ graph [
     family_count 1
   ]
   node [
-    id 940
+    id 941
     label "PHYSICIAN"
     occurrences "clicsbp-idssegmented-tuyuca-PHYSICIAN-1"
     words "ɨ k o + t i + g ɨ"
@@ -11292,7 +11304,7 @@ graph [
     family_count 1
   ]
   node [
-    id 941
+    id 942
     label "DEAF"
     occurrences "clicsbp-idssegmented-tuyuca-DEAF-1"
     words "t ɨ o + e + g ɨ"
@@ -11304,7 +11316,7 @@ graph [
     family_count 1
   ]
   node [
-    id 942
+    id 943
     label "MEAL"
     occurrences "clicsbp-idssegmented-tuyuca-MEAL-1"
     words "j aː + r e"
@@ -11316,7 +11328,7 @@ graph [
     family_count 1
   ]
   node [
-    id 943
+    id 944
     label "FAMINE"
     occurrences "clicsbp-idssegmented-tuyuca-FAMINE-1"
     words "h ɨ a b o a + r e"
@@ -11328,7 +11340,7 @@ graph [
     family_count 1
   ]
   node [
-    id 944
+    id 945
     label "CHOKE"
     occurrences "clicsbp-idssegmented-tuyuca-CHOKE-1"
     words "h u u d ũ r ĩ ã"
@@ -11340,7 +11352,7 @@ graph [
     family_count 1
   ]
   node [
-    id 945
+    id 946
     label "BOWL"
     occurrences "clicsbp-idssegmented-tuyuca-BOWL-1"
     words "b a p a"
@@ -11352,7 +11364,7 @@ graph [
     family_count 1
   ]
   node [
-    id 946
+    id 947
     label "SAUCER"
     occurrences "clicsbp-idssegmented-tuyuca-SAUCER-1"
     words "b a p a"
@@ -11364,7 +11376,7 @@ graph [
     family_count 1
   ]
   node [
-    id 947
+    id 948
     label "JUG"
     occurrences "clicsbp-idssegmented-tuyuca-JUG-1"
     words "s o t ɨ"
@@ -11376,7 +11388,7 @@ graph [
     family_count 1
   ]
   node [
-    id 948
+    id 949
     label "SPOON"
     occurrences "clicsbp-idssegmented-tuyuca-SPOON-1"
     words "k u s a r a"
@@ -11388,7 +11400,7 @@ graph [
     family_count 1
   ]
   node [
-    id 949
+    id 950
     label "TONGS"
     occurrences "clicsbp-idssegmented-tuyuca-TONGS-1"
     words "d ɨ p o + j ẽ + r e"
@@ -11400,7 +11412,7 @@ graph [
     family_count 1
   ]
   node [
-    id 950
+    id 951
     label "LUNCH"
     occurrences "clicsbp-idssegmented-tuyuca-LUNCH-1"
     words "s o t o a + j aː + r e"
@@ -11412,7 +11424,7 @@ graph [
     family_count 1
   ]
   node [
-    id 951
+    id 952
     label "PULL OFF (SKIN)"
     occurrences "clicsbp-idssegmented-tuyuca-PULLOFFSKIN-1"
     words "p ã d ẽ"
@@ -11424,7 +11436,7 @@ graph [
     family_count 1
   ]
   node [
-    id 952
+    id 953
     label "SIEVE OR STRAIN"
     occurrences "clicsbp-idssegmented-tuyuca-SIEVEORSTRAIN-1"
     words "j ɨː s e"
@@ -11436,7 +11448,7 @@ graph [
     family_count 1
   ]
   node [
-    id 953
+    id 954
     label "FLOUR"
     occurrences "clicsbp-idssegmented-tuyuca-FLOUR-1"
     words "p o k a"
@@ -11448,7 +11460,7 @@ graph [
     family_count 1
   ]
   node [
-    id 954
+    id 955
     label "LOW"
     occurrences "clicsbp-idssegmented-tuyuca-LOW-1"
     words "d o k a"
@@ -11460,7 +11472,7 @@ graph [
     family_count 1
   ]
   node [
-    id 955
+    id 956
     label "VEGETABLES"
     occurrences "clicsbp-idssegmented-tuyuca-VEGETABLES-1"
     words "o t e + d ɨ k a"
@@ -11472,7 +11484,7 @@ graph [
     family_count 1
   ]
   node [
-    id 956
+    id 957
     label "GRAPE"
     occurrences "clicsbp-idssegmented-tuyuca-GRAPE-1"
     words "ɨ s e"
@@ -11484,7 +11496,7 @@ graph [
     family_count 1
   ]
   node [
-    id 957
+    id 958
     label "SUGAR"
     occurrences "clicsbp-idssegmented-tuyuca-SUGAR-1"
     words "k ã d ɨ + w e t a"
@@ -11496,7 +11508,7 @@ graph [
     family_count 1
   ]
   node [
-    id 958
+    id 959
     label "DRAW MILK"
     occurrences "clicsbp-idssegmented-tuyuca-DRAWMILK-1"
     words "b i p e"
@@ -11508,7 +11520,7 @@ graph [
     family_count 1
   ]
   node [
-    id 959
+    id 960
     label "PUT ON"
     occurrences "clicsbp-idssegmented-tuyuca-PUTON-1"
     words "s ã y ã"
@@ -11520,7 +11532,7 @@ graph [
     family_count 1
   ]
   node [
-    id 960
+    id 961
     label "SPIN"
     occurrences "clicsbp-idssegmented-tuyuca-SPIN-1"
     words "h õ ẽ"
@@ -11532,7 +11544,7 @@ graph [
     family_count 1
   ]
   node [
-    id 961
+    id 962
     label "WEAVE"
     occurrences "clicsbp-idssegmented-tuyuca-WEAVE-1"
     words "s u a"
@@ -11544,7 +11556,7 @@ graph [
     family_count 1
   ]
   node [
-    id 962
+    id 963
     label "LOOM"
     occurrences "clicsbp-idssegmented-tuyuca-LOOM-1"
     words "p aː + t u + r o"
@@ -11556,7 +11568,7 @@ graph [
     family_count 1
   ]
   node [
-    id 963
+    id 964
     label "BOOT"
     occurrences "clicsbp-idssegmented-tuyuca-BOOT-1"
     words "s a p a t u"
@@ -11568,7 +11580,7 @@ graph [
     family_count 1
   ]
   node [
-    id 964
+    id 965
     label "POCKET"
     occurrences "clicsbp-idssegmented-tuyuca-POCKET-1"
     words "s u t i + p o"
@@ -11580,7 +11592,7 @@ graph [
     family_count 1
   ]
   node [
-    id 965
+    id 966
     label "BUTTON"
     occurrences "clicsbp-idssegmented-tuyuca-BUTTON-1"
     words "b ũ t ũ + p e"
@@ -11592,7 +11604,7 @@ graph [
     family_count 1
   ]
   node [
-    id 966
+    id 967
     label "RING"
     occurrences "clicsbp-idssegmented-tuyuca-RING-1"
     words "w ã b õ + s ã + r i + b e t o"
@@ -11604,7 +11616,7 @@ graph [
     family_count 1
   ]
   node [
-    id 967
+    id 968
     label "NECKLACE"
     occurrences "clicsbp-idssegmented-tuyuca-NECKLACE-1"
     words "b ɨ s a + r i + d a"
@@ -11616,7 +11628,7 @@ graph [
     family_count 1
   ]
   node [
-    id 968
+    id 969
     label "BRAID"
     occurrences "clicsbp-idssegmented-tuyuca-BRAID-1"
     words "p o a + j ã p õ"
@@ -11628,7 +11640,7 @@ graph [
     family_count 1
   ]
   node [
-    id 969
+    id 970
     label "RAZOR"
     occurrences "clicsbp-idssegmented-tuyuca-RAZOR-1"
     words "ɨ s e p o a + p e d e + r e"
@@ -11640,7 +11652,7 @@ graph [
     family_count 1
   ]
   node [
-    id 970
+    id 971
     label "COOKHOUSE"
     occurrences "clicsbp-idssegmented-tuyuca-COOKHOUSE-1"
     words "k ũː s ĩ ã"
@@ -11652,7 +11664,7 @@ graph [
     family_count 1
   ]
   node [
-    id 971
+    id 972
     label "KEY"
     occurrences "clicsbp-idssegmented-tuyuca-KEY-1"
     words "s a w i"
@@ -11664,7 +11676,7 @@ graph [
     family_count 1
   ]
   node [
-    id 972
+    id 973
     label "LATCH"
     occurrences "clicsbp-idssegmented-tuyuca-LATCH-1"
     words "t ẽ d ĩ + t u + r o"
@@ -11676,7 +11688,7 @@ graph [
     family_count 1
   ]
   node [
-    id 973
+    id 974
     label "WALL (OF HOUSE)"
     occurrences "clicsbp-idssegmented-tuyuca-WALLOFHOUSE-1"
     words "w iː + t ɨ d ɨ"
@@ -11688,7 +11700,7 @@ graph [
     family_count 1
   ]
   node [
-    id 974
+    id 975
     label "STOVE"
     occurrences "clicsbp-idssegmented-tuyuca-STOVE-1"
     words "j a a + r e + d o a + r o"
@@ -11700,7 +11712,7 @@ graph [
     family_count 1
   ]
   node [
-    id 975
+    id 976
     label "LADDER"
     occurrences "clicsbp-idssegmented-tuyuca-LADDER-1"
     words "b ɨ ã + r õ"
@@ -11712,7 +11724,7 @@ graph [
     family_count 1
   ]
   node [
-    id 976
+    id 977
     label "SHELF"
     occurrences "clicsbp-idssegmented-tuyuca-SHELF-1"
     words "k a s a"
@@ -11724,7 +11736,7 @@ graph [
     family_count 1
   ]
   node [
-    id 977
+    id 978
     label "THATCH"
     occurrences "clicsbp-idssegmented-tuyuca-THATCH-1"
     words "b ũ ĩ"
@@ -11736,7 +11748,7 @@ graph [
     family_count 1
   ]
   node [
-    id 978
+    id 979
     label "BOARD"
     occurrences "clicsbp-idssegmented-tuyuca-BOARD-1"
     words "t a b o a"
@@ -11748,7 +11760,7 @@ graph [
     family_count 1
   ]
   node [
-    id 979
+    id 980
     label "SHOVEL"
     occurrences "clicsbp-idssegmented-tuyuca-SHOVEL-1"
     words "p a r a"
@@ -11760,7 +11772,7 @@ graph [
     family_count 1
   ]
   node [
-    id 980
+    id 981
     label "HOE"
     occurrences "clicsbp-idssegmented-tuyuca-HOE-1"
     words "s i j o + g a"
@@ -11772,7 +11784,7 @@ graph [
     family_count 1
   ]
   node [
-    id 981
+    id 982
     label "PLANT (VEGETATION)"
     occurrences "clicsbp-idssegmented-tuyuca-PLANTVEGETATION-1"
     words "o t e + r e"
@@ -11784,7 +11796,7 @@ graph [
     family_count 1
   ]
   node [
-    id 982
+    id 983
     label "TREE STUMP"
     occurrences "clicsbp-idssegmented-tuyuca-TREESTUMP-1"
     words "t u t u"
@@ -11796,7 +11808,7 @@ graph [
     family_count 1
   ]
   node [
-    id 983
+    id 984
     label "COCONUT"
     occurrences "clicsbp-idssegmented-tuyuca-COCONUT-1//clicsbp-idssegmented-tuyuca-COCONUT-2"
     words "k o k o//k u k u"
@@ -11808,7 +11820,7 @@ graph [
     family_count 1
   ]
   node [
-    id 984
+    id 985
     label "STUTTER"
     occurrences "clicsbp-idssegmented-tuyuca-STUTTER-1"
     words "k u k u"
@@ -11820,7 +11832,7 @@ graph [
     family_count 1
   ]
   node [
-    id 985
+    id 986
     label "BUILD"
     occurrences "clicsbp-idssegmented-tuyuca-BUILD-1"
     words "t i i"
@@ -11832,7 +11844,7 @@ graph [
     family_count 1
   ]
   node [
-    id 986
+    id 987
     label "BEND"
     occurrences "clicsbp-idssegmented-tuyuca-BEND-1"
     words "p aː + p e t o"
@@ -11844,7 +11856,7 @@ graph [
     family_count 1
   ]
   node [
-    id 987
+    id 988
     label "KNOT"
     occurrences "clicsbp-idssegmented-tuyuca-KNOT-1"
     words "s i a + t u + r i + k o b e a"
@@ -11856,7 +11868,7 @@ graph [
     family_count 1
   ]
   node [
-    id 988
+    id 989
     label "STAB TO DEATH"
     occurrences "clicsbp-idssegmented-tuyuca-STABTODEATH-1"
     words "s a d e"
@@ -11868,7 +11880,7 @@ graph [
     family_count 1
   ]
   node [
-    id 989
+    id 990
     label "SHEARS"
     occurrences "clicsbp-idssegmented-tuyuca-SHEARS-1"
     words "d ɨ p o + t a + r i + p ĩ"
@@ -11880,7 +11892,7 @@ graph [
     family_count 1
   ]
   node [
-    id 990
+    id 991
     label "BROKEN"
     occurrences "clicsbp-idssegmented-tuyuca-BROKEN-1"
     words "w a t i + r e"
@@ -11892,7 +11904,7 @@ graph [
     family_count 1
   ]
   node [
-    id 991
+    id 992
     label "HOLLOW OUT"
     occurrences "clicsbp-idssegmented-tuyuca-HOLLOWOUT-1"
     words "k o p e + t i i"
@@ -11904,7 +11916,7 @@ graph [
     family_count 1
   ]
   node [
-    id 992
+    id 993
     label "SAW"
     occurrences "clicsbp-idssegmented-tuyuca-SAW-1"
     words "s e r o t i"
@@ -11916,7 +11928,7 @@ graph [
     family_count 1
   ]
   node [
-    id 993
+    id 994
     label "GLUE"
     occurrences "clicsbp-idssegmented-tuyuca-GLUE-1"
     words "p i r a + r e"
@@ -11928,7 +11940,7 @@ graph [
     family_count 1
   ]
   node [
-    id 994
+    id 995
     label "IRON"
     occurrences "clicsbp-idssegmented-tuyuca-IRON-1"
     words "k õ b ẽ"
@@ -11940,7 +11952,7 @@ graph [
     family_count 1
   ]
   node [
-    id 995
+    id 996
     label "MOLD"
     occurrences "clicsbp-idssegmented-tuyuca-MOLD-1"
     words "w e e"
@@ -11952,7 +11964,7 @@ graph [
     family_count 1
   ]
   node [
-    id 996
+    id 997
     label "MOVE"
     occurrences "clicsbp-idssegmented-tuyuca-MOVE-1"
     words "k ã b ẽ + j ã"
@@ -11964,7 +11976,7 @@ graph [
     family_count 1
   ]
   node [
-    id 997
+    id 998
     label "ROLL"
     occurrences "clicsbp-idssegmented-tuyuca-ROLL-1"
     words "t uː + d ũ"
@@ -11976,7 +11988,7 @@ graph [
     family_count 1
   ]
   node [
-    id 998
+    id 999
     label "SINK (DESCEND)"
     occurrences "clicsbp-idssegmented-tuyuca-SINKDESCEND-1"
     words "d u a + d i a"
@@ -11988,7 +12000,7 @@ graph [
     family_count 1
   ]
   node [
-    id 999
+    id 1000
     label "DIVE"
     occurrences "clicsbp-idssegmented-tuyuca-DIVE-1"
     words "j ã ã + j ũ ã"
@@ -12000,7 +12012,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1000
+    id 1001
     label "CROUCH"
     occurrences "clicsbp-idssegmented-tuyuca-CROUCH-1"
     words "b ũ d ĩ b i a"
@@ -12012,7 +12024,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1001
+    id 1002
     label "LIMP"
     occurrences "clicsbp-idssegmented-tuyuca-LIMP-1"
     words "j u r i"
@@ -12024,7 +12036,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1002
+    id 1003
     label "COMMAND"
     occurrences "clicsbp-idssegmented-tuyuca-COMMAND-1"
     words "d u t i"
@@ -12036,7 +12048,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1003
+    id 1004
     label "CARRY IN HAND"
     occurrences "clicsbp-idssegmented-tuyuca-CARRYINHAND-1"
     words "d ẽː + w a"
@@ -12048,7 +12060,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1004
+    id 1005
     label "CARRY ON HEAD"
     occurrences "clicsbp-idssegmented-tuyuca-CARRYONHEAD-1"
     words "t u r u + p e o"
@@ -12060,7 +12072,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1005
+    id 1006
     label "DRIVE"
     occurrences "clicsbp-idssegmented-tuyuca-DRIVE-1"
     words "w aː + t u"
@@ -12072,7 +12084,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1006
+    id 1007
     label "RIDE"
     occurrences "clicsbp-idssegmented-tuyuca-RIDE-1"
     words "b ɨ ã + p e a"
@@ -12084,7 +12096,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1007
+    id 1008
     label "ROAD"
     occurrences "clicsbp-idssegmented-tuyuca-ROAD-1"
     words "b ã ã"
@@ -12096,7 +12108,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1008
+    id 1009
     label "BRIDGE"
     occurrences "clicsbp-idssegmented-tuyuca-BRIDGE-1"
     words "t ĩ ã + r i + k ũ b ũ"
@@ -12108,7 +12120,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1009
+    id 1010
     label "CART"
     occurrences "clicsbp-idssegmented-tuyuca-CART-1"
     words "t ũ d ũ + r i + w ɨ"
@@ -12120,7 +12132,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1010
+    id 1011
     label "SHIP"
     occurrences "clicsbp-idssegmented-tuyuca-SHIP-1"
     words "d oː + r i + w ɨ"
@@ -12132,7 +12144,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1011
+    id 1012
     label "BOAT"
     occurrences "clicsbp-idssegmented-tuyuca-BOAT-1"
     words "d oː + r i + w ɨ"
@@ -12144,7 +12156,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1012
+    id 1013
     label "LAND (DESCEND)"
     occurrences "clicsbp-idssegmented-tuyuca-LANDDESCEND-1"
     words "b ãː + w a"
@@ -12156,7 +12168,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1013
+    id 1014
     label "PICK UP"
     occurrences "clicsbp-idssegmented-tuyuca-PICKUP-1"
     words "d ẽː"
@@ -12168,7 +12180,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1014
+    id 1015
     label "RESCUE"
     occurrences "clicsbp-idssegmented-tuyuca-RESCUE-1"
     words "d ẽ t õ + d ẽ"
@@ -12180,7 +12192,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1015
+    id 1016
     label "RICH"
     occurrences "clicsbp-idssegmented-tuyuca-RICH-1"
     words "p e e + k ɨ o + g ɨ"
@@ -12192,7 +12204,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1016
+    id 1017
     label "STINGY"
     occurrences "clicsbp-idssegmented-tuyuca-STINGY-1"
     words "b ã ĩ + g ɨ"
@@ -12204,7 +12216,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1017
+    id 1018
     label "BORROW"
     occurrences "clicsbp-idssegmented-tuyuca-BORROW-1"
     words "w a s o"
@@ -12216,7 +12228,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1018
+    id 1019
     label "TRADE OR BARTER"
     occurrences "clicsbp-idssegmented-tuyuca-TRADEORBARTER-1"
     words "w a s o"
@@ -12228,7 +12240,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1019
+    id 1020
     label "DEBT"
     occurrences "clicsbp-idssegmented-tuyuca-DEBT-1"
     words "w a p a + b õ + r e"
@@ -12240,7 +12252,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1020
+    id 1021
     label "PRICE"
     occurrences "clicsbp-idssegmented-tuyuca-PRICE-1"
     words "w a p a"
@@ -12252,7 +12264,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1021
+    id 1022
     label "WAGES"
     occurrences "clicsbp-idssegmented-tuyuca-WAGES-1"
     words "w a p a + t a + r e"
@@ -12264,7 +12276,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1022
+    id 1023
     label "MERCHANT"
     occurrences "clicsbp-idssegmented-tuyuca-MERCHANT-1"
     words "d u a + r i + b a s o + k ɨ"
@@ -12276,7 +12288,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1023
+    id 1024
     label "MARKET"
     occurrences "clicsbp-idssegmented-tuyuca-MARKET-1"
     words "j a a + r e + d u a + r o"
@@ -12288,7 +12300,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1024
+    id 1025
     label "STORE"
     occurrences "clicsbp-idssegmented-tuyuca-STORE-1"
     words "a p e + j e + d u a + r i + t a t i a"
@@ -12300,7 +12312,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1025
+    id 1026
     label "EXPENSIVE"
     occurrences "clicsbp-idssegmented-tuyuca-EXPENSIVE-1"
     words "w a p a + p a + k a"
@@ -12312,7 +12324,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1026
+    id 1027
     label "CHEAP"
     occurrences "clicsbp-idssegmented-tuyuca-CHEAP-1"
     words "w a p a + b ã d ĩ"
@@ -12324,7 +12336,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1027
+    id 1028
     label "WEIGH"
     occurrences "clicsbp-idssegmented-tuyuca-WEIGH-1"
     words "d ɨ k ɨ"
@@ -12336,7 +12348,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1028
+    id 1029
     label "BESIDE"
     occurrences "clicsbp-idssegmented-tuyuca-BESIDE-1"
     words "w e s a"
@@ -12348,7 +12360,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1029
+    id 1030
     label "PUT"
     occurrences "clicsbp-idssegmented-tuyuca-PUT-1"
     words "p e o"
@@ -12360,7 +12372,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1030
+    id 1031
     label "REMAINS"
     occurrences "clicsbp-idssegmented-tuyuca-REMAINS-1"
     words "d ɨ s a + r e"
@@ -12372,7 +12384,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1031
+    id 1032
     label "TALL"
     occurrences "clicsbp-idssegmented-tuyuca-TALL-1"
     words "ɨ b ɨ ã"
@@ -12384,7 +12396,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1032
+    id 1033
     label "END (OF SPACE)"
     occurrences "clicsbp-idssegmented-tuyuca-ENDOFSPACE-1"
     words "j a p a"
@@ -12396,7 +12408,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1033
+    id 1034
     label "EAST"
     occurrences "clicsbp-idssegmented-tuyuca-EAST-1"
     words "b ũ ĩ p ũ + b ɨ ã + a t i + r o"
@@ -12408,7 +12420,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1034
+    id 1035
     label "WEST"
     occurrences "clicsbp-idssegmented-tuyuca-WEST-1"
     words "b ũ ĩ p ũ + s ã ã + w a + r o"
@@ -12420,7 +12432,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1035
+    id 1036
     label "IMITATE"
     occurrences "clicsbp-idssegmented-tuyuca-IMITATE-1"
     words "k e o"
@@ -12432,7 +12444,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1036
+    id 1037
     label "SHALLOW"
     occurrences "clicsbp-idssegmented-tuyuca-SHALLOW-1"
     words "ɨ k ɨ ã + ẽ"
@@ -12444,7 +12456,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1037
+    id 1038
     label "HOOK"
     occurrences "clicsbp-idssegmented-tuyuca-HOOK-1"
     words "d õ õ + p ĩ"
@@ -12456,7 +12468,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1038
+    id 1039
     label "CORNER"
     occurrences "clicsbp-idssegmented-tuyuca-CORNER-1"
     words "p u k u a"
@@ -12468,7 +12480,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1039
+    id 1040
     label "BALL"
     occurrences "clicsbp-idssegmented-tuyuca-BALL-1"
     words "g a"
@@ -12480,7 +12492,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1040
+    id 1041
     label "LINE"
     occurrences "clicsbp-idssegmented-tuyuca-LINE-1"
     words "d a"
@@ -12492,7 +12504,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1041
+    id 1042
     label "SIMILAR"
     occurrences "clicsbp-idssegmented-tuyuca-SIMILAR-1"
     words "b i i"
@@ -12504,7 +12516,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1042
+    id 1043
     label "PINCH"
     occurrences "clicsbp-idssegmented-tuyuca-PINCH-1"
     words "p ɨ a"
@@ -12516,7 +12528,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1043
+    id 1044
     label "SIX"
     occurrences "clicsbp-idssegmented-tuyuca-SIX-1"
     words "s i k a + b õ + p e t i + a p e + b õ + p ẽ d ĩ + p e a + r e + s i k a + g a"
@@ -12528,7 +12540,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1044
+    id 1045
     label "SEVEN"
     occurrences "clicsbp-idssegmented-tuyuca-SEVEN-1"
     words "s i k a + b õ + p e t i + a p e + b õ + p ẽ d ĩ + p e a + r e + p ɨ a + g a"
@@ -12540,7 +12552,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1045
+    id 1046
     label "NINE"
     occurrences "clicsbp-idssegmented-tuyuca-NINE-1"
     words "s i k a + b õ + p e t i + a p e + b õ + p ẽ d ĩ + p e a + r e + b a p a r i + p a"
@@ -12552,7 +12564,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1046
+    id 1047
     label "ELEVEN"
     occurrences "clicsbp-idssegmented-tuyuca-ELEVEN-1"
     words "p ɨ a + b õ + p e t i + d ɨ p o + s i k a + g a + p ẽ d ĩ + p e a + r e"
@@ -12564,7 +12576,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1047
+    id 1048
     label "TWELVE"
     occurrences "clicsbp-idssegmented-tuyuca-TWELVE-1"
     words "p ɨ a + b õ + p e t i + d ɨ p o + p ɨ a + g a + p ẽ d ĩ + p e a + r e"
@@ -12576,7 +12588,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1048
+    id 1049
     label "FIFTEEN"
     occurrences "clicsbp-idssegmented-tuyuca-FIFTEEN-1"
     words "p ɨ a + b õ + p e t i + d ɨ p o + s i k a + d ɨ p o + p e t i + r e"
@@ -12588,7 +12600,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1049
+    id 1050
     label "CROWD"
     occurrences "clicsbp-idssegmented-tuyuca-CROWD-1"
     words "p a ɨ"
@@ -12600,7 +12612,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1050
+    id 1051
     label "ENOUGH"
     occurrences "clicsbp-idssegmented-tuyuca-ENOUGH-1"
     words "p eː"
@@ -12612,7 +12624,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1051
+    id 1052
     label "EMPTY"
     occurrences "clicsbp-idssegmented-tuyuca-EMPTY-1"
     words "p o s e + b ã d ĩ"
@@ -12624,7 +12636,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1052
+    id 1053
     label "PAIR"
     occurrences "clicsbp-idssegmented-tuyuca-PAIR-1"
     words "b a"
@@ -12636,7 +12648,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1053
+    id 1054
     label "TWICE"
     occurrences "clicsbp-idssegmented-tuyuca-TWICE-1"
     words "p ɨ a + r ĩ"
@@ -12648,7 +12660,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1054
+    id 1055
     label "THREE TIMES"
     occurrences "clicsbp-idssegmented-tuyuca-THREETIMES-1"
     words "ĩ t ĩ ã r ĩ"
@@ -12660,7 +12672,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1055
+    id 1056
     label "AGE"
     occurrences "clicsbp-idssegmented-tuyuca-AGE-1"
     words "k ɨ b ã"
@@ -12672,7 +12684,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1056
+    id 1057
     label "SOON"
     occurrences "clicsbp-idssegmented-tuyuca-SOON-1"
     words "b ẽ k ã t i + g ã"
@@ -12684,7 +12696,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1057
+    id 1058
     label "HURRY"
     occurrences "clicsbp-idssegmented-tuyuca-HURRY-1"
     words "p o t o + k õ + r õ"
@@ -12696,7 +12708,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1058
+    id 1059
     label "END (OF TIME)"
     occurrences "clicsbp-idssegmented-tuyuca-ENDOFTIME-1"
     words "d ĩ ĩ + t u + r e"
@@ -12708,7 +12720,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1059
+    id 1060
     label "ALWAYS"
     occurrences "clicsbp-idssegmented-tuyuca-ALWAYS-1"
     words "t eː + r o + d i k ɨ"
@@ -12720,7 +12732,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1060
+    id 1061
     label "OFTEN"
     occurrences "clicsbp-idssegmented-tuyuca-OFTEN-1"
     words "d ã ĩ + r õ"
@@ -12732,7 +12744,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1061
+    id 1062
     label "SOMETIMES"
     occurrences "clicsbp-idssegmented-tuyuca-SOMETIMES-1"
     words "a p e + t o"
@@ -12744,7 +12756,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1062
+    id 1063
     label "NEVER"
     occurrences "clicsbp-idssegmented-tuyuca-NEVER-1"
     words "d o"
@@ -12756,7 +12768,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1063
+    id 1064
     label "EVENING"
     occurrences "clicsbp-idssegmented-tuyuca-EVENING-1"
     words "j ã b ĩ"
@@ -12768,7 +12780,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1064
+    id 1065
     label "MIDDAY"
     occurrences "clicsbp-idssegmented-tuyuca-MIDDAY-1"
     words "k o e + r i + t o"
@@ -12780,7 +12792,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1065
+    id 1066
     label "DAY AFTER TOMORROW"
     occurrences "clicsbp-idssegmented-tuyuca-DAYAFTERTOMORROW-1"
     words "j ã b ĩ + g ã + b o e + r i + b ɨ r e k o"
@@ -12792,7 +12804,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1066
+    id 1067
     label "DAY BEFORE YESTERDAY"
     occurrences "clicsbp-idssegmented-tuyuca-DAYBEFOREYESTERDAY-1"
     words "j ã b ĩ + k a + b o e + r i + b ɨ r e k o"
@@ -12804,7 +12816,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1067
+    id 1068
     label "HOUR"
     occurrences "clicsbp-idssegmented-tuyuca-HOUR-1"
     words "o r a"
@@ -12816,7 +12828,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1068
+    id 1069
     label "CLOCK"
     occurrences "clicsbp-idssegmented-tuyuca-CLOCK-1"
     words "b ɨ r e k o + k e o + r i + g a"
@@ -12828,7 +12840,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1069
+    id 1070
     label "WEEK"
     occurrences "clicsbp-idssegmented-tuyuca-WEEK-1"
     words "s a b ã d ã"
@@ -12840,7 +12852,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1070
+    id 1071
     label "SATURDAY"
     occurrences "clicsbp-idssegmented-tuyuca-SATURDAY-1"
     words "p a d e + t u + r i + b ɨ r e k o"
@@ -12852,7 +12864,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1071
+    id 1072
     label "SNIFF"
     occurrences "clicsbp-idssegmented-tuyuca-SNIFF-1"
     words "w ĩ d ĩ + ã b ã"
@@ -12864,7 +12876,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1072
+    id 1073
     label "SALTY"
     occurrences "clicsbp-idssegmented-tuyuca-SALTY-1"
     words "o k a"
@@ -12876,7 +12888,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1073
+    id 1074
     label "SOUR"
     occurrences "clicsbp-idssegmented-tuyuca-SOUR-1"
     words "p i y a"
@@ -12888,7 +12900,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1074
+    id 1075
     label "LOUD"
     occurrences "clicsbp-idssegmented-tuyuca-LOUD-1"
     words "d i t a + k ɨ t i"
@@ -12900,7 +12912,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1075
+    id 1076
     label "SILENCE"
     occurrences "clicsbp-idssegmented-tuyuca-SILENCE-1"
     words "d i t a + b ã d ĩ"
@@ -12912,7 +12924,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1076
+    id 1077
     label "BE SILENT"
     occurrences "clicsbp-idssegmented-tuyuca-BESILENT-1"
     words "d i t a + b ã d ĩ"
@@ -12924,7 +12936,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1077
+    id 1078
     label "LIGHT (COLOR)"
     occurrences "clicsbp-idssegmented-tuyuca-LIGHTCOLOR-1"
     words "b u t i"
@@ -12936,7 +12948,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1078
+    id 1079
     label "BLUE"
     occurrences "clicsbp-idssegmented-tuyuca-BLUE-1"
     words "s ɨ b ẽ"
@@ -12948,7 +12960,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1079
+    id 1080
     label "ROUGH"
     occurrences "clicsbp-idssegmented-tuyuca-ROUGH-1"
     words "b u b i r o"
@@ -12960,7 +12972,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1080
+    id 1081
     label "GOOD LUCK"
     occurrences "clicsbp-idssegmented-tuyuca-GOODLUCK-1"
     words "d i k a"
@@ -12972,7 +12984,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1081
+    id 1082
     label "BAD LUCK"
     occurrences "clicsbp-idssegmented-tuyuca-BADLUCK-1"
     words "d i k a + e"
@@ -12984,7 +12996,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1082
+    id 1083
     label "GRIEF"
     occurrences "clicsbp-idssegmented-tuyuca-GRIEF-1"
     words "b o a d ẽ õ"
@@ -12996,7 +13008,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1083
+    id 1084
     label "ANXIETY"
     occurrences "clicsbp-idssegmented-tuyuca-ANXIETY-1"
     words "w ã k ũ + r e + k ɨ t i"
@@ -13008,7 +13020,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1084
+    id 1085
     label "REGRET"
     occurrences "clicsbp-idssegmented-tuyuca-REGRET-1"
     words "w ã k ũ + r e + k ɨ t i"
@@ -13020,7 +13032,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1085
+    id 1086
     label "PITY"
     occurrences "clicsbp-idssegmented-tuyuca-PITY-1"
     words "b o a d ẽ õ + j ã"
@@ -13032,7 +13044,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1086
+    id 1087
     label "TEAR (OF EYE)"
     occurrences "clicsbp-idssegmented-tuyuca-TEAROFEYE-1"
     words "j a k o + o k o"
@@ -13044,7 +13056,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1087
+    id 1088
     label "GROAN"
     occurrences "clicsbp-idssegmented-tuyuca-GROAN-1"
     words "p ũ d ĩ + w i s i"
@@ -13056,7 +13068,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1088
+    id 1089
     label "ANGER"
     occurrences "clicsbp-idssegmented-tuyuca-ANGER-1"
     words "k u a"
@@ -13068,7 +13080,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1089
+    id 1090
     label "ENVY"
     occurrences "clicsbp-idssegmented-tuyuca-ENVY-1"
     words "d o e"
@@ -13080,7 +13092,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1090
+    id 1091
     label "DARE"
     occurrences "clicsbp-idssegmented-tuyuca-DARE-1"
     words "k u i + r e + b ã d ĩ + r e"
@@ -13092,7 +13104,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1091
+    id 1092
     label "DANGER"
     occurrences "clicsbp-idssegmented-tuyuca-DANGER-1"
     words "k i o"
@@ -13104,7 +13116,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1092
+    id 1093
     label "NEED (NOUN)"
     occurrences "clicsbp-idssegmented-tuyuca-NEEDNOUN-1"
     words "b o o"
@@ -13116,7 +13128,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1093
+    id 1094
     label "TRUE"
     occurrences "clicsbp-idssegmented-tuyuca-TRUE-1"
     words "d ĩː + r õ + b ã k ẽ"
@@ -13128,7 +13140,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1094
+    id 1095
     label "FORGIVE"
     occurrences "clicsbp-idssegmented-tuyuca-FORGIVE-1"
     words "a k a b o"
@@ -13140,7 +13152,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1095
+    id 1096
     label "WRONG"
     occurrences "clicsbp-idssegmented-tuyuca-WRONG-1"
     words "d i a b ã k ɨ + d ĩ ĩ + ẽ + r e"
@@ -13152,7 +13164,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1096
+    id 1097
     label "MISTAKE"
     occurrences "clicsbp-idssegmented-tuyuca-MISTAKE-1"
     words "w i s i"
@@ -13164,7 +13176,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1097
+    id 1098
     label "GREEDY"
     occurrences "clicsbp-idssegmented-tuyuca-GREEDY-1"
     words "w ã d ĩ"
@@ -13176,7 +13188,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1098
+    id 1099
     label "CLEVER"
     occurrences "clicsbp-idssegmented-tuyuca-CLEVER-1"
     words "b ẽ d ĩ"
@@ -13188,7 +13200,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1099
+    id 1100
     label "REMEMBER"
     occurrences "clicsbp-idssegmented-tuyuca-REMEMBER-1"
     words "w ã k ũ"
@@ -13200,7 +13212,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1100
+    id 1101
     label "BELIEVE"
     occurrences "clicsbp-idssegmented-tuyuca-BELIEVE-1"
     words "p a d e o"
@@ -13212,7 +13224,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1101
+    id 1102
     label "GUESS"
     occurrences "clicsbp-idssegmented-tuyuca-GUESS-1"
     words "h ĩ ĩ + b ɨ a"
@@ -13224,7 +13236,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1102
+    id 1103
     label "IDEA"
     occurrences "clicsbp-idssegmented-tuyuca-IDEA-1"
     words "w ã k ũ + r e"
@@ -13236,7 +13248,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1103
+    id 1104
     label "WISE"
     occurrences "clicsbp-idssegmented-tuyuca-WISE-1"
     words "b ã s ĩ + g ɨ"
@@ -13248,7 +13260,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1104
+    id 1105
     label "STUPID"
     occurrences "clicsbp-idssegmented-tuyuca-STUPID-1"
     words "w e d e + r e + t ɨ o + e + g ɨ"
@@ -13260,7 +13272,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1105
+    id 1106
     label "MAD"
     occurrences "clicsbp-idssegmented-tuyuca-MAD-1"
     words "p o s a r i w i"
@@ -13272,7 +13284,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1106
+    id 1107
     label "PUPIL (STUDENT)"
     occurrences "clicsbp-idssegmented-tuyuca-PUPILSTUDENT-1"
     words "b u e + g ɨ"
@@ -13284,7 +13296,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1107
+    id 1108
     label "TEACHER"
     occurrences "clicsbp-idssegmented-tuyuca-TEACHER-1"
     words "b u e + g ɨ"
@@ -13296,7 +13308,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1108
+    id 1109
     label "CLEAR"
     occurrences "clicsbp-idssegmented-tuyuca-CLEAR-1"
     words "t ɨ o + b ã s ĩ + r e"
@@ -13308,7 +13320,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1109
+    id 1110
     label "OBSCURE"
     occurrences "clicsbp-idssegmented-tuyuca-OBSCURE-1"
     words "t ɨ o + b ã s ĩ + j ã + b ã d ĩ + r e"
@@ -13320,7 +13332,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1110
+    id 1111
     label "EXPLAIN"
     occurrences "clicsbp-idssegmented-tuyuca-EXPLAIN-1"
     words "w e d e"
@@ -13332,7 +13344,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1111
+    id 1112
     label "INTENTION"
     occurrences "clicsbp-idssegmented-tuyuca-INTENTION-1"
     words "t iː + d ɨ g a + r e"
@@ -13344,7 +13356,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1112
+    id 1113
     label "OR"
     occurrences "clicsbp-idssegmented-tuyuca-OR-1"
     words "o"
@@ -13356,7 +13368,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1113
+    id 1114
     label "EASY"
     occurrences "clicsbp-idssegmented-tuyuca-EASY-1"
     words "w i s i o + e"
@@ -13368,7 +13380,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1114
+    id 1115
     label "DIFFICULT"
     occurrences "clicsbp-idssegmented-tuyuca-DIFFICULT-1"
     words "w i s i o"
@@ -13380,7 +13392,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1115
+    id 1116
     label "TRY"
     occurrences "clicsbp-idssegmented-tuyuca-TRY-1"
     words "j ã"
@@ -13392,7 +13404,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1116
+    id 1117
     label "MANNER"
     occurrences "clicsbp-idssegmented-tuyuca-MANNER-1"
     words "b i i + r o"
@@ -13404,7 +13416,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1117
+    id 1118
     label "HOW MANY PIECES"
     occurrences "clicsbp-idssegmented-tuyuca-HOWMANYPIECES-1"
     words "d õ k ẽ"
@@ -13416,7 +13428,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1118
+    id 1119
     label "WHY"
     occurrences "clicsbp-idssegmented-tuyuca-WHY-1"
     words "d e e + r o + t i i"
@@ -13428,7 +13440,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1119
+    id 1120
     label "VOICE"
     occurrences "clicsbp-idssegmented-tuyuca-VOICE-1"
     words "w e d e s e + r e"
@@ -13440,7 +13452,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1120
+    id 1121
     label "SHRIEK"
     occurrences "clicsbp-idssegmented-tuyuca-SHRIEK-1"
     words "a k a r i b i"
@@ -13452,7 +13464,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1121
+    id 1122
     label "WHISPER"
     occurrences "clicsbp-idssegmented-tuyuca-WHISPER-1"
     words "p eː + r o + g ã + w e d e s e"
@@ -13464,7 +13476,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1122
+    id 1123
     label "MUMBLE"
     occurrences "clicsbp-idssegmented-tuyuca-MUMBLE-1"
     words "ũ d ũ d ĩ"
@@ -13476,7 +13488,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1123
+    id 1124
     label "TELL"
     occurrences "clicsbp-idssegmented-tuyuca-TELL-1"
     words "k e t i + w e d e"
@@ -13488,7 +13500,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1124
+    id 1125
     label "CALL BY NAME"
     occurrences "clicsbp-idssegmented-tuyuca-CALLBYNAME-1"
     words "w ã b ẽ + k ɨ t i"
@@ -13500,7 +13512,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1125
+    id 1126
     label "THREATEN"
     occurrences "clicsbp-idssegmented-tuyuca-THREATEN-1"
     words "p aː + k e o"
@@ -13512,7 +13524,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1126
+    id 1127
     label "READ"
     occurrences "clicsbp-idssegmented-tuyuca-READ-1"
     words "p a p e r a + ĩ y ã"
@@ -13524,7 +13536,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1127
+    id 1128
     label "PEN"
     occurrences "clicsbp-idssegmented-tuyuca-PEN-1"
     words "h o a + r i + g ɨ"
@@ -13536,7 +13548,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1128
+    id 1129
     label "BOUNDARY"
     occurrences "clicsbp-idssegmented-tuyuca-BOUNDARY-1"
     words "d i t a + t aː + r i + r o"
@@ -13548,7 +13560,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1129
+    id 1130
     label "CLAN"
     occurrences "clicsbp-idssegmented-tuyuca-CLAN-1"
     words "b u"
@@ -13560,7 +13572,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1130
+    id 1131
     label "MASTER"
     occurrences "clicsbp-idssegmented-tuyuca-MASTER-1"
     words "p e k a + s ɨ"
@@ -13572,7 +13584,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1131
+    id 1132
     label "SERVANT"
     occurrences "clicsbp-idssegmented-tuyuca-SERVANT-1"
     words "p a d e + k o t e + g ɨ"
@@ -13584,7 +13596,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1132
+    id 1133
     label "NEIGHBOUR"
     occurrences "clicsbp-idssegmented-tuyuca-NEIGHBOUR-1"
     words "b ã r ĩ + p ɨ t o + b ã k ɨ"
@@ -13596,7 +13608,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1133
+    id 1134
     label "GUEST"
     occurrences "clicsbp-idssegmented-tuyuca-GUEST-1"
     words "h e a + g ɨ"
@@ -13608,7 +13620,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1134
+    id 1135
     label "HOST"
     occurrences "clicsbp-idssegmented-tuyuca-HOST-1"
     words "w iː + õ p ɨ"
@@ -13620,7 +13632,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1135
+    id 1136
     label "CUSTOM"
     occurrences "clicsbp-idssegmented-tuyuca-CUSTOM-1"
     words "t iː + r e + k ɨ t i + r e"
@@ -13632,7 +13644,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1136
+    id 1137
     label "QUARREL"
     occurrences "clicsbp-idssegmented-tuyuca-QUARREL-1"
     words "k ã b ẽ + r i + t u t i + r e"
@@ -13644,7 +13656,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1137
+    id 1138
     label "BATTLE"
     occurrences "clicsbp-idssegmented-tuyuca-BATTLE-1"
     words "k ã b ẽ + r ĩ + s ĩ ã"
@@ -13656,7 +13668,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1138
+    id 1139
     label "PEACE"
     occurrences "clicsbp-idssegmented-tuyuca-PEACE-1"
     words "ã y ũ + r õ + d ĩː + r e"
@@ -13668,7 +13680,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1139
+    id 1140
     label "ARMY"
     occurrences "clicsbp-idssegmented-tuyuca-ARMY-1"
     words "s u r a r a"
@@ -13680,7 +13692,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1140
+    id 1141
     label "DEFEAT"
     occurrences "clicsbp-idssegmented-tuyuca-DEFEAT-1"
     words "d o k a + k ũ b ũ"
@@ -13692,7 +13704,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1141
+    id 1142
     label "PRISONER"
     occurrences "clicsbp-idssegmented-tuyuca-PRISONER-1"
     words "p e r e s u + d ĩː + g ɨ"
@@ -13704,7 +13716,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1142
+    id 1143
     label "GUARD"
     occurrences "clicsbp-idssegmented-tuyuca-GUARD-1"
     words "k o t e + g ɨ"
@@ -13716,7 +13728,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1143
+    id 1144
     label "FISHERMAN"
     occurrences "clicsbp-idssegmented-tuyuca-FISHERMAN-1"
     words "w a i + s ĩ ã + g ɨ"
@@ -13728,7 +13740,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1144
+    id 1145
     label "BAIT"
     occurrences "clicsbp-idssegmented-tuyuca-BAIT-1"
     words "w a i + w eː + r e"
@@ -13740,7 +13752,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1145
+    id 1146
     label "MISS (A TARGET)"
     occurrences "clicsbp-idssegmented-tuyuca-MISSATARGET-1"
     words "a p e + r o + p ɨ + p e k a + s ã"
@@ -13752,7 +13764,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1146
+    id 1147
     label "TRAP (PITFALL)"
     occurrences "clicsbp-idssegmented-tuyuca-TRAPPITFALL-1"
     words "j oː + r e"
@@ -13764,7 +13776,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1147
+    id 1148
     label "ADJUDICATE"
     occurrences "clicsbp-idssegmented-tuyuca-ADJUDICATE-1"
     words "ĩ y ã + b e s e"
@@ -13776,7 +13788,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1148
+    id 1149
     label "WITNESS"
     occurrences "clicsbp-idssegmented-tuyuca-WITNESS-1"
     words "ĩ y ã + r i + g ɨ"
@@ -13788,7 +13800,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1149
+    id 1150
     label "SWEAR"
     occurrences "clicsbp-idssegmented-tuyuca-SWEAR-1"
     words "d ĩː + r õ + r ã + h ĩ ĩ"
@@ -13800,7 +13812,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1150
+    id 1151
     label "OATH"
     occurrences "clicsbp-idssegmented-tuyuca-OATH-1"
     words "d ĩː + r õ + r ã + h ĩː + r e"
@@ -13812,7 +13824,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1151
+    id 1152
     label "GUILTY"
     occurrences "clicsbp-idssegmented-tuyuca-GUILTY-1"
     words "w a p a + k ɨ o + g ɨ"
@@ -13824,7 +13836,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1152
+    id 1153
     label "INNOCENT"
     occurrences "clicsbp-idssegmented-tuyuca-INNOCENT-1"
     words "w a p a + k ɨ o + e + g ɨ"
@@ -13836,7 +13848,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1153
+    id 1154
     label "ABSTAIN FROM FOOD"
     occurrences "clicsbp-idssegmented-tuyuca-ABSTAINFROMFOOD-1"
     words "b e t i"
@@ -13848,7 +13860,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1154
+    id 1155
     label "HEAVEN"
     occurrences "clicsbp-idssegmented-tuyuca-HEAVEN-1"
     words "k õ ã b ã k ɨ + p ɨ t o"
@@ -13860,7 +13872,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1155
+    id 1156
     label "HELL"
     occurrences "clicsbp-idssegmented-tuyuca-HELL-1"
     words "p e k a + b ẽ + p ɨ"
@@ -13873,7 +13885,7 @@ graph [
   ]
   edge [
     source 1
-    target 490
+    target 491
     count 1
     words "j i ʔ o"
     varieties "clicsbp-idssegmented-siona"
@@ -13886,7 +13898,7 @@ graph [
   ]
   edge [
     source 3
-    target 491
+    target 492
     count 2
     words "kˀ ũ h i//u p i"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-tuyuca"
@@ -13899,7 +13911,7 @@ graph [
   ]
   edge [
     source 4
-    target 487
+    target 488
     count 2
     words "ũ kʷ e pˀ ɨ//ẽ k ẽ ã"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-tuyuca"
@@ -13912,7 +13924,7 @@ graph [
   ]
   edge [
     source 7
-    target 479
+    target 480
     count 1
     words "s ĩ h o"
     varieties "clicsbp-idssegmented-siona"
@@ -13977,7 +13989,7 @@ graph [
   ]
   edge [
     source 9
-    target 915
+    target 916
     count 1
     words "p o a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -14003,7 +14015,7 @@ graph [
   ]
   edge [
     source 9
-    target 916
+    target 917
     count 1
     words "p o a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -14042,7 +14054,7 @@ graph [
   ]
   edge [
     source 10
-    target 915
+    target 916
     count 1
     words "p o a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -14068,7 +14080,7 @@ graph [
   ]
   edge [
     source 10
-    target 916
+    target 917
     count 1
     words "p o a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -14081,7 +14093,7 @@ graph [
   ]
   edge [
     source 11
-    target 482
+    target 483
     count 1
     words "ɨ s e + w ɨ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -14120,7 +14132,7 @@ graph [
   ]
   edge [
     source 15
-    target 746
+    target 747
     count 1
     words "k u t i + r o"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -14133,7 +14145,7 @@ graph [
   ]
   edge [
     source 16
-    target 927
+    target 928
     count 1
     words "õ p ẽ ã"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -14172,7 +14184,7 @@ graph [
   ]
   edge [
     source 19
-    target 478
+    target 479
     count 1
     words "kˀ ɨ tˀ ɨ pˀ ɨ"
     varieties "clicsbp-idssegmented-siona"
@@ -14354,7 +14366,7 @@ graph [
   ]
   edge [
     source 27
-    target 494
+    target 495
     count 2
     words "k o + w ɨ//w ã b õ + s e + r o"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-tuyuca"
@@ -14406,7 +14418,7 @@ graph [
   ]
   edge [
     source 28
-    target 495
+    target 496
     count 1
     words "kˀ ɨ s o"
     varieties "clicsbp-idssegmented-siona"
@@ -14432,7 +14444,7 @@ graph [
   ]
   edge [
     source 30
-    target 495
+    target 496
     count 1
     words "kˀ ɨ s o"
     varieties "clicsbp-idssegmented-siona"
@@ -14445,7 +14457,7 @@ graph [
   ]
   edge [
     source 32
-    target 926
+    target 927
     count 1
     words "d ɨ p o"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -14471,7 +14483,7 @@ graph [
   ]
   edge [
     source 34
-    target 461
+    target 462
     count 1
     words "k a s e + r o"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -14601,7 +14613,7 @@ graph [
   ]
   edge [
     source 38
-    target 499
+    target 500
     count 2
     words "a w ɨ//tˀ e k o j o"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-siona"
@@ -14653,7 +14665,7 @@ graph [
   ]
   edge [
     source 43
-    target 410
+    target 411
     count 1
     words "ɨ b ɨ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -14666,7 +14678,7 @@ graph [
   ]
   edge [
     source 43
-    target 879
+    target 880
     count 1
     words "ɨ b ɨ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -14679,7 +14691,7 @@ graph [
   ]
   edge [
     source 45
-    target 411
+    target 412
     count 1
     words "d ũ b ĩ õ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -14692,7 +14704,7 @@ graph [
   ]
   edge [
     source 45
-    target 880
+    target 881
     count 1
     words "d ũ b ĩ õ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -14744,7 +14756,7 @@ graph [
   ]
   edge [
     source 51
-    target 412
+    target 413
     count 1
     words "w ĩ b ã + g ɨ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -14757,7 +14769,7 @@ graph [
   ]
   edge [
     source 51
-    target 414
+    target 415
     count 1
     words "w ĩ b ã + g õ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -14887,7 +14899,7 @@ graph [
   ]
   edge [
     source 57
-    target 379
+    target 380
     count 1
     words "pˀ a n a"
     varieties "clicsbp-idssegmented-siona"
@@ -14913,7 +14925,7 @@ graph [
   ]
   edge [
     source 60
-    target 403
+    target 404
     count 1
     words "t o a"
     varieties "clicsbp-idssegmented-siona"
@@ -14926,7 +14938,7 @@ graph [
   ]
   edge [
     source 60
-    target 596
+    target 597
     count 1
     words "p e k a + b ẽ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -14939,7 +14951,7 @@ graph [
   ]
   edge [
     source 63
-    target 404
+    target 405
     count 1
     words "n e o"
     varieties "clicsbp-idssegmented-siona"
@@ -15056,19 +15068,6 @@ graph [
   ]
   edge [
     source 66
-    target 377
-    count 1
-    words "j a ʔ o"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 66
     target 378
     count 1
     words "j a ʔ o"
@@ -15094,6 +15093,19 @@ graph [
     cognate_count 1
   ]
   edge [
+    source 66
+    target 380
+    count 1
+    words "j a ʔ o"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
     source 68
     target 74
     count 2
@@ -15108,7 +15120,7 @@ graph [
   ]
   edge [
     source 70
-    target 402
+    target 403
     count 1
     words "t u t u"
     varieties "clicsbp-idssegmented-siona"
@@ -15147,7 +15159,7 @@ graph [
   ]
   edge [
     source 71
-    target 783
+    target 784
     count 1
     words "b ũ ĩ p ũ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -15160,7 +15172,7 @@ graph [
   ]
   edge [
     source 72
-    target 783
+    target 784
     count 1
     words "b ũ ĩ p ũ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -15186,7 +15198,7 @@ graph [
   ]
   edge [
     source 74
-    target 871
+    target 872
     count 3
     words "b ɨ r e k o//b ɨ r ɨ k o//b ɨ r i k o"
     varieties "clicsbp-idssegmented-tuyuca//clicsbp-idssegmented-tuyuca//clicsbp-idssegmented-tuyuca"
@@ -15199,7 +15211,7 @@ graph [
   ]
   edge [
     source 75
-    target 1063
+    target 1064
     count 1
     words "j ã b ĩ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -15238,25 +15250,12 @@ graph [
   ]
   edge [
     source 79
-    target 377
+    target 378
     count 2
     words "j i h a//j a ʔ o"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-siona"
     languages "sion1247//sion1247"
     families "Tucanoan//Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 79
-    target 378
-    count 1
-    words "j a ʔ o"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
     variety_count 1
     language_count 1
     family_count 1
@@ -15277,7 +15276,20 @@ graph [
   ]
   edge [
     source 79
-    target 872
+    target 380
+    count 1
+    words "j a ʔ o"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 79
+    target 873
     count 1
     words "d i t a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -15342,7 +15354,7 @@ graph [
   ]
   edge [
     source 83
-    target 592
+    target 593
     count 1
     words "k ɨ ʔ tˀ o"
     varieties "clicsbp-idssegmented-siona"
@@ -15368,7 +15380,7 @@ graph [
   ]
   edge [
     source 84
-    target 478
+    target 479
     count 1
     words "kˀ ɨ tˀ ɨ pˀ ɨ"
     varieties "clicsbp-idssegmented-siona"
@@ -15381,7 +15393,7 @@ graph [
   ]
   edge [
     source 89
-    target 605
+    target 606
     count 3
     words "sˀ i o//a õ + sˀ i o//w e s e"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-siona//clicsbp-idssegmented-tuyuca"
@@ -15394,7 +15406,7 @@ graph [
   ]
   edge [
     source 90
-    target 849
+    target 850
     count 2
     words "w ɨ ʔ e + h o pˀ o//b ã k ã"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-tuyuca"
@@ -15446,7 +15458,7 @@ graph [
   ]
   edge [
     source 92
-    target 1007
+    target 1008
     count 1
     words "b ã ã"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -15459,7 +15471,7 @@ graph [
   ]
   edge [
     source 96
-    target 363
+    target 364
     count 1
     words "q u i u d ɨ + j a"
     varieties "clicsbp-huntergatherer-147"
@@ -15537,7 +15549,7 @@ graph [
   ]
   edge [
     source 100
-    target 393
+    target 394
     count 2
     words "j u k ɨ//j u k ɨ"
     varieties "clicsbp-idssegmented-tuyuca//clicsbp-idssegmented-tuyuca"
@@ -15550,7 +15562,7 @@ graph [
   ]
   edge [
     source 100
-    target 615
+    target 616
     count 2
     words "j u k ɨ//j u k ɨ"
     varieties "clicsbp-idssegmented-tuyuca//clicsbp-idssegmented-tuyuca"
@@ -15563,7 +15575,7 @@ graph [
   ]
   edge [
     source 103
-    target 693
+    target 694
     count 1
     words "kˀ a ʔʷ a"
     varieties "clicsbp-idssegmented-siona"
@@ -15576,7 +15588,7 @@ graph [
   ]
   edge [
     source 103
-    target 694
+    target 695
     count 1
     words "kˀ a ʔʷ a"
     varieties "clicsbp-idssegmented-siona"
@@ -15693,7 +15705,7 @@ graph [
   ]
   edge [
     source 117
-    target 451
+    target 452
     count 1
     words "b ĩ d ĩ + b ã k ɨ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -15784,7 +15796,7 @@ graph [
   ]
   edge [
     source 123
-    target 452
+    target 453
     count 2
     words "k u tˀ a//k ã r ẽ k ẽ"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-tuyuca"
@@ -15797,7 +15809,7 @@ graph [
   ]
   edge [
     source 123
-    target 354
+    target 355
     count 2
     words "k u tˀ a//k ã r ẽ k ẽ"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-tuyuca"
@@ -15815,19 +15827,6 @@ graph [
     words "β a ʔ i"
     varieties "clicsbp-hubercolumbian-Koreguaje"
     languages "kore1283"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 124
-    target 442
-    count 1
-    words "w a ʔ i"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
     families "Tucanoan"
     variety_count 1
     language_count 1
@@ -15861,8 +15860,21 @@ graph [
     cognate_count 1
   ]
   edge [
+    source 124
+    target 445
+    count 1
+    words "w a ʔ i"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
     source 125
-    target 350
+    target 351
     count 1
     words "w i"
     varieties "clicsbp-idssegmented-siona"
@@ -15888,7 +15900,7 @@ graph [
   ]
   edge [
     source 127
-    target 468
+    target 469
     count 1
     words "sˀ ĩ ʔ kˀ a"
     varieties "clicsbp-idssegmented-siona"
@@ -15901,7 +15913,7 @@ graph [
   ]
   edge [
     source 131
-    target 698
+    target 699
     count 1
     words "p e t a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -15966,7 +15978,7 @@ graph [
   ]
   edge [
     source 138
-    target 382
+    target 383
     count 1
     words "t a j a"
     varieties "clicsbp-idssegmented-siona"
@@ -15979,7 +15991,7 @@ graph [
   ]
   edge [
     source 138
-    target 383
+    target 384
     count 1
     words "t a j a"
     varieties "clicsbp-idssegmented-siona"
@@ -16005,7 +16017,7 @@ graph [
   ]
   edge [
     source 143
-    target 697
+    target 698
     count 1
     words "w a a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -16070,7 +16082,7 @@ graph [
   ]
   edge [
     source 146
-    target 742
+    target 743
     count 1
     words "b i a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -16083,7 +16095,7 @@ graph [
   ]
   edge [
     source 147
-    target 915
+    target 916
     count 1
     words "p o a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -16109,7 +16121,7 @@ graph [
   ]
   edge [
     source 147
-    target 916
+    target 917
     count 1
     words "p o a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -16122,7 +16134,7 @@ graph [
   ]
   edge [
     source 149
-    target 737
+    target 738
     count 1
     words "t e ʔ e"
     varieties "clicsbp-idssegmented-siona"
@@ -16135,7 +16147,7 @@ graph [
   ]
   edge [
     source 149
-    target 738
+    target 739
     count 1
     words "t e ʔ e"
     varieties "clicsbp-idssegmented-siona"
@@ -16161,7 +16173,7 @@ graph [
   ]
   edge [
     source 150
-    target 1042
+    target 1043
     count 1
     words "p ɨ a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -16174,7 +16186,7 @@ graph [
   ]
   edge [
     source 155
-    target 727
+    target 728
     count 1
     words "h a ʔ ã tˀ ɨ"
     varieties "clicsbp-idssegmented-siona"
@@ -16187,7 +16199,7 @@ graph [
   ]
   edge [
     source 156
-    target 761
+    target 762
     count 1
     words "kˀ a j a h i"
     varieties "clicsbp-idssegmented-siona"
@@ -16226,7 +16238,7 @@ graph [
   ]
   edge [
     source 161
-    target 841
+    target 842
     count 1
     words "j ɨ ɨ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -16239,7 +16251,7 @@ graph [
   ]
   edge [
     source 161
-    target 903
+    target 904
     count 1
     words "j ɨ ɨ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -16265,7 +16277,7 @@ graph [
   ]
   edge [
     source 166
-    target 663
+    target 664
     count 1
     words "b ɨ ã"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -16278,7 +16290,7 @@ graph [
   ]
   edge [
     source 166
-    target 675
+    target 676
     count 1
     words "b ɨ ã"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -16317,7 +16329,7 @@ graph [
   ]
   edge [
     source 168
-    target 668
+    target 669
     count 1
     words "p a i"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -16330,7 +16342,7 @@ graph [
   ]
   edge [
     source 168
-    target 869
+    target 870
     count 1
     words "p a i"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -16356,7 +16368,7 @@ graph [
   ]
   edge [
     source 169
-    target 385
+    target 386
     count 1
     words "tʃ i tˀ i"
     varieties "clicsbp-idssegmented-siona"
@@ -16369,7 +16381,7 @@ graph [
   ]
   edge [
     source 170
-    target 416
+    target 417
     count 1
     words "sˀ ĩ"
     varieties "clicsbp-idssegmented-siona"
@@ -16421,7 +16433,7 @@ graph [
   ]
   edge [
     source 172
-    target 821
+    target 822
     count 1
     words "ã y ũ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -16460,7 +16472,7 @@ graph [
   ]
   edge [
     source 174
-    target 1077
+    target 1078
     count 1
     words "b u t i"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -16499,7 +16511,7 @@ graph [
   ]
   edge [
     source 175
-    target 400
+    target 401
     count 1
     words "sˀ i"
     varieties "clicsbp-idssegmented-siona"
@@ -16577,7 +16589,7 @@ graph [
   ]
   edge [
     source 183
-    target 702
+    target 703
     count 1
     words "j ẽ ẽ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -16603,19 +16615,6 @@ graph [
   ]
   edge [
     source 184
-    target 832
-    count 1
-    words "h a tˀ o"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 184
     target 833
     count 1
     words "h a tˀ o"
@@ -16628,8 +16627,21 @@ graph [
     cognate_count 1
   ]
   edge [
+    source 184
+    target 834
+    count 1
+    words "h a tˀ o"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
     source 185
-    target 1049
+    target 1050
     count 1
     words "p a ɨ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -16650,19 +16662,6 @@ graph [
     families "Tucanoan//Tucanoan//Tucanoan//Tucanoan//Tucanoan//Tucanoan"
     variety_count 6
     language_count 6
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 187
-    target 458
-    count 1
-    words "kˀ a ʔ n i"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
     family_count 1
     cognate_count 1
   ]
@@ -16695,6 +16694,19 @@ graph [
   edge [
     source 187
     target 461
+    count 1
+    words "kˀ a ʔ n i"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 187
+    target 462
     count 2
     words "kˀ a ʔ n i//k a s e + r o"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-tuyuca"
@@ -16720,7 +16732,7 @@ graph [
   ]
   edge [
     source 189
-    target 481
+    target 482
     count 1
     words "sˀ i a"
     varieties "clicsbp-idssegmented-siona"
@@ -16746,7 +16758,7 @@ graph [
   ]
   edge [
     source 193
-    target 522
+    target 523
     count 1
     words "j a a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -16772,7 +16784,7 @@ graph [
   ]
   edge [
     source 195
-    target 794
+    target 795
     count 1
     words "ĩ y ã"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -16798,7 +16810,7 @@ graph [
   ]
   edge [
     source 196
-    target 792
+    target 793
     count 1
     words "t ɨ o"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -16824,7 +16836,7 @@ graph [
   ]
   edge [
     source 200
-    target 521
+    target 522
     count 1
     words "w a h i"
     varieties "clicsbp-idssegmented-siona"
@@ -16837,7 +16849,7 @@ graph [
   ]
   edge [
     source 200
-    target 935
+    target 936
     count 1
     words "s ĩ ã"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -16954,7 +16966,7 @@ graph [
   ]
   edge [
     source 215
-    target 1078
+    target 1079
     count 1
     words "s ɨ b ẽ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -16967,7 +16979,7 @@ graph [
   ]
   edge [
     source 218
-    target 762
+    target 763
     count 1
     words "s e ʔ e"
     varieties "clicsbp-idssegmented-siona"
@@ -16993,7 +17005,7 @@ graph [
   ]
   edge [
     source 221
-    target 416
+    target 417
     count 1
     words "m a m i"
     varieties "clicsbp-idssegmented-siona"
@@ -17006,7 +17018,7 @@ graph [
   ]
   edge [
     source 221
-    target 417
+    target 418
     count 1
     words "m a m i"
     varieties "clicsbp-idssegmented-siona"
@@ -17045,7 +17057,7 @@ graph [
   ]
   edge [
     source 228
-    target 874
+    target 875
     count 1
     words "d i a + p a i + r i + b ã"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17084,7 +17096,7 @@ graph [
   ]
   edge [
     source 232
-    target 386
+    target 387
     count 1
     words "t ɨ ʔ a"
     varieties "clicsbp-idssegmented-siona"
@@ -17097,7 +17109,7 @@ graph [
   ]
   edge [
     source 232
-    target 497
+    target 498
     count 1
     words "k a pˀ ɨ"
     varieties "clicsbp-idssegmented-siona"
@@ -17110,7 +17122,7 @@ graph [
   ]
   edge [
     source 233
-    target 915
+    target 916
     count 1
     words "p o a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17123,7 +17135,7 @@ graph [
   ]
   edge [
     source 233
-    target 916
+    target 917
     count 1
     words "p o a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17162,19 +17174,6 @@ graph [
   ]
   edge [
     source 242
-    target 416
-    count 1
-    words "m a m i"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 242
     target 417
     count 1
     words "m a m i"
@@ -17188,7 +17187,20 @@ graph [
   ]
   edge [
     source 242
-    target 412
+    target 418
+    count 1
+    words "m a m i"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 242
+    target 413
     count 1
     words "w ĩ b ã + g ɨ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17201,7 +17213,7 @@ graph [
   ]
   edge [
     source 242
-    target 414
+    target 415
     count 1
     words "w ĩ b ã + g õ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17214,7 +17226,7 @@ graph [
   ]
   edge [
     source 252
-    target 1027
+    target 1028
     count 1
     words "d ɨ k ɨ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17227,7 +17239,7 @@ graph [
   ]
   edge [
     source 254
-    target 737
+    target 738
     count 1
     words "s ɨ ʔ a h i"
     varieties "clicsbp-idssegmented-siona"
@@ -17240,7 +17252,7 @@ graph [
   ]
   edge [
     source 254
-    target 739
+    target 740
     count 1
     words "s ɨ ʔ a h i"
     varieties "clicsbp-idssegmented-siona"
@@ -17279,7 +17291,7 @@ graph [
   ]
   edge [
     source 258
-    target 752
+    target 753
     count 1
     words "h ɨ h a"
     varieties "clicsbp-idssegmented-siona"
@@ -17292,7 +17304,7 @@ graph [
   ]
   edge [
     source 258
-    target 729
+    target 730
     count 1
     words "d i a b ã k ɨ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17318,7 +17330,7 @@ graph [
   ]
   edge [
     source 259
-    target 729
+    target 730
     count 1
     words "d i a b ã k ɨ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17331,7 +17343,7 @@ graph [
   ]
   edge [
     source 261
-    target 729
+    target 730
     count 1
     words "d i a b ã k ɨ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17344,7 +17356,7 @@ graph [
   ]
   edge [
     source 262
-    target 424
+    target 425
     count 1
     words "a w e r o"
     varieties "clicsbp-idssegmented-siona"
@@ -17357,7 +17369,7 @@ graph [
   ]
   edge [
     source 264
-    target 636
+    target 637
     count 1
     words "h u i h i"
     varieties "clicsbp-idssegmented-siona"
@@ -17370,7 +17382,7 @@ graph [
   ]
   edge [
     source 265
-    target 641
+    target 642
     count 2
     words "n a ʔ n e h i//n a n o h i"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-siona"
@@ -17383,7 +17395,7 @@ graph [
   ]
   edge [
     source 265
-    target 642
+    target 643
     count 1
     words "n a n o h i"
     varieties "clicsbp-idssegmented-siona"
@@ -17422,7 +17434,7 @@ graph [
   ]
   edge [
     source 268
-    target 633
+    target 634
     count 2
     words "h o i h i//h o tʃ a h i"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-siona"
@@ -17448,7 +17460,7 @@ graph [
   ]
   edge [
     source 272
-    target 564
+    target 565
     count 1
     words "t a ĩ h i"
     varieties "clicsbp-idssegmented-siona"
@@ -17461,7 +17473,7 @@ graph [
   ]
   edge [
     source 274
-    target 672
+    target 673
     count 1
     words "b a s a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17487,7 +17499,7 @@ graph [
   ]
   edge [
     source 275
-    target 788
+    target 789
     count 1
     words "j i ʔ e h i"
     varieties "clicsbp-idssegmented-siona"
@@ -17500,7 +17512,7 @@ graph [
   ]
   edge [
     source 277
-    target 812
+    target 813
     count 1
     words "ũ p ũ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17513,7 +17525,7 @@ graph [
   ]
   edge [
     source 280
-    target 643
+    target 644
     count 1
     words "kˀ e õ h i"
     varieties "clicsbp-idssegmented-siona"
@@ -17526,7 +17538,7 @@ graph [
   ]
   edge [
     source 280
-    target 661
+    target 662
     count 1
     words "w ã j ĩ ã"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17539,7 +17551,7 @@ graph [
   ]
   edge [
     source 282
-    target 731
+    target 732
     count 1
     words "ɨ m ɨ h e ʔ ẽ"
     varieties "clicsbp-idssegmented-siona"
@@ -17552,7 +17564,7 @@ graph [
   ]
   edge [
     source 282
-    target 745
+    target 746
     count 1
     words "s o t o a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17565,7 +17577,7 @@ graph [
   ]
   edge [
     source 284
-    target 578
+    target 579
     count 1
     words "j ɨ i m e"
     varieties "clicsbp-idssegmented-siona"
@@ -17578,7 +17590,7 @@ graph [
   ]
   edge [
     source 284
-    target 613
+    target 614
     count 2
     words "pˀ i s i//pˀ i s i + m e"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-siona"
@@ -17591,7 +17603,7 @@ graph [
   ]
   edge [
     source 285
-    target 527
+    target 528
     count 1
     words "m e h i"
     varieties "clicsbp-idssegmented-siona"
@@ -17604,7 +17616,7 @@ graph [
   ]
   edge [
     source 290
-    target 492
+    target 493
     count 1
     words "k o ʔ tˀ e tˀ a"
     varieties "clicsbp-idssegmented-siona"
@@ -17617,7 +17629,7 @@ graph [
   ]
   edge [
     source 291
-    target 564
+    target 565
     count 1
     words "d o k a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17630,7 +17642,7 @@ graph [
   ]
   edge [
     source 291
-    target 726
+    target 727
     count 1
     words "d o k a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17643,7 +17655,7 @@ graph [
   ]
   edge [
     source 291
-    target 954
+    target 955
     count 1
     words "d o k a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17656,7 +17668,7 @@ graph [
   ]
   edge [
     source 296
-    target 663
+    target 664
     count 1
     words "b ɨ ã"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17669,7 +17681,7 @@ graph [
   ]
   edge [
     source 296
-    target 675
+    target 676
     count 1
     words "b ɨ ã"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17682,7 +17694,7 @@ graph [
   ]
   edge [
     source 297
-    target 870
+    target 871
     count 1
     words "d o a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17695,7 +17707,7 @@ graph [
   ]
   edge [
     source 298
-    target 749
+    target 750
     count 1
     words "k e o"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17708,7 +17720,7 @@ graph [
   ]
   edge [
     source 298
-    target 1035
+    target 1036
     count 1
     words "k e o"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17721,7 +17733,7 @@ graph [
   ]
   edge [
     source 301
-    target 519
+    target 520
     count 1
     words "h u ʔ ĩ + h i"
     varieties "clicsbp-idssegmented-siona"
@@ -17734,7 +17746,7 @@ graph [
   ]
   edge [
     source 301
-    target 387
+    target 388
     count 1
     words "d i a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17747,7 +17759,7 @@ graph [
   ]
   edge [
     source 305
-    target 571
+    target 572
     count 2
     words "m a h a//ɨ s e"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-tuyuca"
@@ -17760,7 +17772,7 @@ graph [
   ]
   edge [
     source 305
-    target 956
+    target 957
     count 1
     words "ɨ s e"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17773,24 +17785,11 @@ graph [
   ]
   edge [
     source 310
-    target 730
+    target 731
     count 1
     words "j a k a w ɨ"
     varieties "clicsbp-idssegmented-siona"
     languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 312
-    target 895
-    count 1
-    words "b u i"
-    varieties "clicsbp-idssegmented-tuyuca"
-    languages "tuyu1244"
     families "Tucanoan"
     variety_count 1
     language_count 1
@@ -17824,8 +17823,21 @@ graph [
     cognate_count 1
   ]
   edge [
+    source 312
+    target 898
+    count 1
+    words "b u i"
+    varieties "clicsbp-idssegmented-tuyuca"
+    languages "tuyu1244"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
     source 318
-    target 535
+    target 536
     count 1
     words "kʷˀ a h a h i"
     varieties "clicsbp-idssegmented-siona"
@@ -17838,7 +17850,7 @@ graph [
   ]
   edge [
     source 319
-    target 411
+    target 412
     count 1
     words "kˀ o"
     varieties "clicsbp-idssegmented-siona"
@@ -17851,7 +17863,7 @@ graph [
   ]
   edge [
     source 322
-    target 522
+    target 523
     count 1
     words "j a a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17864,7 +17876,7 @@ graph [
   ]
   edge [
     source 343
-    target 908
+    target 909
     count 1
     words "k aː"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17876,8 +17888,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 350
-    target 366
+    source 351
+    target 367
     count 1
     words "u t i"
     varieties "clicsbp-idssegmented-siona"
@@ -17889,8 +17901,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 354
-    target 452
+    source 355
+    target 453
     count 2
     words "k u tˀ a//k ã r ẽ k ẽ"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-tuyuca"
@@ -17902,8 +17914,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 361
-    target 572
+    source 362
+    target 573
     count 1
     words "pˀ a j a"
     varieties "clicsbp-idssegmented-siona"
@@ -17915,8 +17927,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 371
-    target 963
+    source 372
+    target 964
     count 1
     words "s a p a t u"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17928,8 +17940,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 376
-    target 576
+    source 377
+    target 577
     count 1
     words "k ã"
     varieties "clicsbp-idssegmented-siona"
@@ -17941,8 +17953,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 377
-    target 378
+    source 378
+    target 379
     count 2
     words "j a ʔ o//j e p a"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-tuyuca"
@@ -17954,21 +17966,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 377
-    target 379
-    count 1
-    words "j a ʔ o"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
     source 378
-    target 379
+    target 380
     count 1
     words "j a ʔ o"
     varieties "clicsbp-idssegmented-siona"
@@ -17981,7 +17980,20 @@ graph [
   ]
   edge [
     source 379
-    target 676
+    target 380
+    count 1
+    words "j a ʔ o"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 380
+    target 677
     count 1
     words "d i i"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -17993,36 +18005,10 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 382
-    target 383
+    source 383
+    target 384
     count 1
     words "t a j a"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 389
-    target 390
-    count 1
-    words "j o tˀ o pˀ ɨ"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 389
-    target 391
-    count 1
-    words "j o tˀ o pˀ ɨ"
     varieties "clicsbp-idssegmented-siona"
     languages "sion1247"
     families "Tucanoan"
@@ -18045,10 +18031,10 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 393
-    target 394
+    source 390
+    target 392
     count 1
-    words "w ã s o"
+    words "j o tˀ o pˀ ɨ"
     varieties "clicsbp-idssegmented-siona"
     languages "sion1247"
     families "Tucanoan"
@@ -18058,7 +18044,20 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 393
+    source 391
+    target 392
+    count 1
+    words "j o tˀ o pˀ ɨ"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 394
     target 395
     count 1
     words "w ã s o"
@@ -18071,7 +18070,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 393
+    source 394
     target 396
     count 1
     words "w ã s o"
@@ -18084,8 +18083,21 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 393
-    target 615
+    source 394
+    target 397
+    count 1
+    words "w ã s o"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 394
+    target 616
     count 1
     words "j u k ɨ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -18097,8 +18109,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 394
-    target 395
+    source 395
+    target 396
     count 3
     words "w ã s o//t ã t a//t ẽ d ĩ"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-siona//clicsbp-idssegmented-tuyuca"
@@ -18110,21 +18122,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 394
-    target 396
-    count 1
-    words "w ã s o"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
     source 395
-    target 396
+    target 397
     count 1
     words "w ã s o"
     varieties "clicsbp-idssegmented-siona"
@@ -18136,8 +18135,21 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 405
-    target 406
+    source 396
+    target 397
+    count 1
+    words "w ã s o"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 406
+    target 407
     count 1
     words "s ɨ õ h i"
     varieties "clicsbp-idssegmented-siona"
@@ -18149,8 +18161,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 408
-    target 640
+    source 409
+    target 641
     count 1
     words "j oː"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -18162,23 +18174,10 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 408
-    target 878
-    count 1
-    words "j oː"
-    varieties "clicsbp-idssegmented-tuyuca"
-    languages "tuyu1244"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 410
+    source 409
     target 879
     count 1
-    words "ɨ b ɨ"
+    words "j oː"
     varieties "clicsbp-idssegmented-tuyuca"
     languages "tuyu1244"
     families "Tucanoan"
@@ -18191,6 +18190,19 @@ graph [
     source 411
     target 880
     count 1
+    words "ɨ b ɨ"
+    varieties "clicsbp-idssegmented-tuyuca"
+    languages "tuyu1244"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 412
+    target 881
+    count 1
     words "d ũ b ĩ õ"
     varieties "clicsbp-idssegmented-tuyuca"
     languages "tuyu1244"
@@ -18201,8 +18213,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 413
-    target 881
+    source 414
+    target 882
     count 1
     words "b ã b ɨ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -18214,36 +18226,10 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 416
-    target 417
+    source 417
+    target 418
     count 1
     words "m a m i"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 432
-    target 433
-    count 1
-    words "w a u"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 432
-    target 434
-    count 1
-    words "w i ʔ j a + kˀ ɨ"
     varieties "clicsbp-idssegmented-siona"
     languages "sion1247"
     families "Tucanoan"
@@ -18256,6 +18242,32 @@ graph [
     source 433
     target 434
     count 1
+    words "w a u"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 433
+    target 435
+    count 1
+    words "w i ʔ j a + kˀ ɨ"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 434
+    target 435
+    count 1
     words "w i ʔ j a + kˀ o"
     varieties "clicsbp-idssegmented-siona"
     languages "sion1247"
@@ -18266,20 +18278,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 442
-    target 443
-    count 1
-    words "w a ʔ i"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 442
+    source 443
     target 444
     count 1
     words "w a ʔ i"
@@ -18293,7 +18292,20 @@ graph [
   ]
   edge [
     source 443
-    target 444
+    target 445
+    count 1
+    words "w a ʔ i"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 444
+    target 445
     count 2
     words "w a ʔ i//d iː + r o"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-tuyuca"
@@ -18305,32 +18317,6 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 445
-    target 446
-    count 1
-    words "w a k a"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 445
-    target 447
-    count 1
-    words "w a k a"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
     source 446
     target 447
     count 1
@@ -18345,7 +18331,33 @@ graph [
   ]
   edge [
     source 446
-    target 904
+    target 448
+    count 1
+    words "w a k a"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 447
+    target 448
+    count 1
+    words "w a k a"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 447
+    target 905
     count 1
     words "w e k ɨ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -18357,8 +18369,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 449
-    target 905
+    source 450
+    target 906
     count 1
     words "j e s e"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -18370,8 +18382,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 456
-    target 457
+    source 457
+    target 458
     count 1
     words "s o ʔ k o"
     varieties "clicsbp-idssegmented-siona"
@@ -18383,45 +18395,6 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 458
-    target 459
-    count 1
-    words "kˀ a ʔ n i"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 458
-    target 460
-    count 1
-    words "kˀ a ʔ n i"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 458
-    target 461
-    count 1
-    words "kˀ a ʔ n i"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
     source 459
     target 460
     count 1
@@ -18437,6 +18410,19 @@ graph [
   edge [
     source 459
     target 461
+    count 1
+    words "kˀ a ʔ n i"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 459
+    target 462
     count 1
     words "kˀ a ʔ n i"
     varieties "clicsbp-idssegmented-siona"
@@ -18461,10 +18447,10 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 463
-    target 464
+    source 460
+    target 462
     count 1
-    words "j a i"
+    words "kˀ a ʔ n i"
     varieties "clicsbp-idssegmented-siona"
     languages "sion1247"
     families "Tucanoan"
@@ -18474,10 +18460,10 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 463
-    target 465
+    source 461
+    target 462
     count 1
-    words "j a i"
+    words "kˀ a ʔ n i"
     varieties "clicsbp-idssegmented-siona"
     languages "sion1247"
     families "Tucanoan"
@@ -18500,12 +18486,12 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 489
-    target 922
+    source 464
+    target 466
     count 1
-    words "ẽ y õ"
-    varieties "clicsbp-idssegmented-tuyuca"
-    languages "tuyu1244"
+    words "j a i"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
     families "Tucanoan"
     variety_count 1
     language_count 1
@@ -18513,23 +18499,10 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 489
-    target 796
+    source 465
+    target 466
     count 1
-    words "ẽ y õ"
-    varieties "clicsbp-idssegmented-tuyuca"
-    languages "tuyu1244"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 490
-    target 838
-    count 1
-    words "k o k a"
+    words "j a i"
     varieties "clicsbp-idssegmented-siona"
     languages "sion1247"
     families "Tucanoan"
@@ -18540,6 +18513,32 @@ graph [
   ]
   edge [
     source 490
+    target 923
+    count 1
+    words "ẽ y õ"
+    varieties "clicsbp-idssegmented-tuyuca"
+    languages "tuyu1244"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 490
+    target 797
+    count 1
+    words "ẽ y õ"
+    varieties "clicsbp-idssegmented-tuyuca"
+    languages "tuyu1244"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 491
     target 839
     count 1
     words "k o k a"
@@ -18552,7 +18551,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 490
+    source 491
     target 840
     count 1
     words "k o k a"
@@ -18565,8 +18564,21 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 495
-    target 501
+    source 491
+    target 841
+    count 1
+    words "k o k a"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 496
+    target 502
     count 1
     words "s iː g a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -18578,20 +18590,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 499
-    target 805
-    count 1
-    words "w a t i"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 499
+    source 500
     target 806
     count 1
     words "w a t i"
@@ -18605,7 +18604,20 @@ graph [
   ]
   edge [
     source 500
-    target 501
+    target 807
+    count 1
+    words "w a t i"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 501
+    target 502
     count 1
     words "s ɨ tˀ i + s e i w ɨ"
     varieties "clicsbp-idssegmented-siona"
@@ -18617,8 +18629,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 503
-    target 536
+    source 504
+    target 537
     count 1
     words "j e e + r i + s ã"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -18630,8 +18642,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 512
-    target 513
+    source 513
+    target 514
     count 1
     words "t õ ʔ t o h i"
     varieties "clicsbp-idssegmented-siona"
@@ -18643,8 +18655,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 518
-    target 934
+    source 519
+    target 935
     count 1
     words "d ĩ ĩ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -18656,8 +18668,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 518
-    target 833
+    source 519
+    target 834
     count 1
     words "d ĩ ĩ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -18669,8 +18681,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 520
-    target 722
+    source 521
+    target 723
     count 1
     words "d u a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -18682,8 +18694,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 527
-    target 528
+    source 528
+    target 529
     count 1
     words "h a ʔʰ u + h i"
     varieties "clicsbp-idssegmented-siona"
@@ -18695,8 +18707,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 544
-    target 942
+    source 545
+    target 943
     count 1
     words "j aː + r e"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -18708,8 +18720,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 546
-    target 547
+    source 547
+    target 548
     count 1
     words "w a h ɨ"
     varieties "clicsbp-idssegmented-siona"
@@ -18721,8 +18733,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 549
-    target 562
+    source 550
+    target 563
     count 1
     words "w ɨ o"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -18734,71 +18746,6 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 556
-    target 945
-    count 1
-    words "b a p a"
-    varieties "clicsbp-idssegmented-tuyuca"
-    languages "tuyu1244"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 556
-    target 557
-    count 1
-    words "b a p a"
-    varieties "clicsbp-idssegmented-tuyuca"
-    languages "tuyu1244"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 556
-    target 946
-    count 1
-    words "b a p a"
-    varieties "clicsbp-idssegmented-tuyuca"
-    languages "tuyu1244"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 556
-    target 751
-    count 1
-    words "b a p a"
-    varieties "clicsbp-idssegmented-tuyuca"
-    languages "tuyu1244"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 557
-    target 945
-    count 1
-    words "b a p a"
-    varieties "clicsbp-idssegmented-tuyuca"
-    languages "tuyu1244"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
     source 557
     target 946
     count 1
@@ -18813,7 +18760,7 @@ graph [
   ]
   edge [
     source 557
-    target 751
+    target 558
     count 1
     words "b a p a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -18825,8 +18772,73 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 560
-    target 951
+    source 557
+    target 947
+    count 1
+    words "b a p a"
+    varieties "clicsbp-idssegmented-tuyuca"
+    languages "tuyu1244"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 557
+    target 752
+    count 1
+    words "b a p a"
+    varieties "clicsbp-idssegmented-tuyuca"
+    languages "tuyu1244"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 558
+    target 946
+    count 1
+    words "b a p a"
+    varieties "clicsbp-idssegmented-tuyuca"
+    languages "tuyu1244"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 558
+    target 947
+    count 1
+    words "b a p a"
+    varieties "clicsbp-idssegmented-tuyuca"
+    languages "tuyu1244"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 558
+    target 752
+    count 1
+    words "b a p a"
+    varieties "clicsbp-idssegmented-tuyuca"
+    languages "tuyu1244"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 561
+    target 952
     count 1
     words "p ã d ẽ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -18838,8 +18850,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 564
-    target 565
+    source 565
+    target 566
     count 1
     words "p a õ h i"
     varieties "clicsbp-idssegmented-siona"
@@ -18851,8 +18863,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 564
-    target 726
+    source 565
+    target 727
     count 1
     words "d o k a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -18864,8 +18876,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 564
-    target 954
+    source 565
+    target 955
     count 1
     words "d o k a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -18877,8 +18889,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 571
-    target 956
+    source 572
+    target 957
     count 1
     words "ɨ s e"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -18890,8 +18902,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 574
-    target 575
+    source 575
+    target 576
     count 2
     words "h o ʔ tʃ a//p e j u r u"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-tuyuca"
@@ -18903,20 +18915,7 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 592
-    target 732
-    count 1
-    words "h o pˀ o"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 592
+    source 593
     target 733
     count 1
     words "h o pˀ o"
@@ -18929,8 +18928,21 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 594
-    target 971
+    source 593
+    target 734
+    count 1
+    words "h o pˀ o"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 595
+    target 972
     count 1
     words "s a w i"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -18942,38 +18954,12 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 606
-    target 609
+    source 607
+    target 610
     count 1
     words "o t e"
     varieties "clicsbp-idssegmented-tuyuca"
     languages "tuyu1244"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 608
-    target 609
-    count 1
-    words "t ã h i"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 608
-    target 610
-    count 1
-    words "t ã h i"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
     families "Tucanoan"
     variety_count 1
     language_count 1
@@ -18994,12 +18980,12 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 620
-    target 681
+    source 609
+    target 611
     count 1
-    words "d i t i"
-    varieties "clicsbp-idssegmented-tuyuca"
-    languages "tuyu1244"
+    words "t ã h i"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
     families "Tucanoan"
     variety_count 1
     language_count 1
@@ -19007,8 +18993,21 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 620
-    target 708
+    source 610
+    target 611
+    count 1
+    words "t ã h i"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 621
+    target 682
     count 1
     words "d i t i"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19021,7 +19020,20 @@ graph [
   ]
   edge [
     source 621
-    target 985
+    target 709
+    count 1
+    words "d i t i"
+    varieties "clicsbp-idssegmented-tuyuca"
+    languages "tuyu1244"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 622
+    target 986
     count 1
     words "t i i"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19033,8 +19045,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 624
-    target 625
+    source 625
+    target 626
     count 3
     words "t i ʔʰ e h i//h o ʔ tʃ i h i//t i h o h i"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-siona//clicsbp-idssegmented-siona"
@@ -19046,8 +19058,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 627
-    target 628
+    source 628
+    target 629
     count 1
     words "kʷ e h i"
     varieties "clicsbp-idssegmented-siona"
@@ -19059,8 +19071,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 631
-    target 980
+    source 632
+    target 981
     count 1
     words "s i j o + g a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19072,8 +19084,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 636
-    target 646
+    source 637
+    target 647
     count 1
     words "h ɨ o h i"
     varieties "clicsbp-idssegmented-siona"
@@ -19085,8 +19097,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 637
-    target 638
+    source 638
+    target 639
     count 1
     words "j u ʔ j u h i"
     varieties "clicsbp-idssegmented-siona"
@@ -19098,8 +19110,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 637
-    target 639
+    source 638
+    target 640
     count 1
     words "h a j u h i"
     varieties "clicsbp-idssegmented-siona"
@@ -19111,8 +19123,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 638
-    target 667
+    source 639
+    target 668
     count 1
     words "tʃ a ʔ k a h i"
     varieties "clicsbp-idssegmented-siona"
@@ -19124,8 +19136,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 640
-    target 878
+    source 641
+    target 879
     count 1
     words "j oː"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19137,8 +19149,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 641
-    target 642
+    source 642
+    target 643
     count 1
     words "n a n o h i"
     varieties "clicsbp-idssegmented-siona"
@@ -19150,8 +19162,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 642
-    target 799
+    source 643
+    target 800
     count 1
     words "w a i h i"
     varieties "clicsbp-idssegmented-siona"
@@ -19163,8 +19175,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 643
-    target 930
+    source 644
+    target 931
     count 1
     words "t a b i"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19176,8 +19188,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 644
-    target 847
+    source 645
+    target 848
     count 1
     words "h o a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19189,38 +19201,12 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 646
-    target 991
+    source 647
+    target 992
     count 1
     words "k o p e + t i i"
     varieties "clicsbp-idssegmented-tuyuca"
     languages "tuyu1244"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 649
-    target 650
-    count 1
-    words "k u tˀ i"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 649
-    target 651
-    count 1
-    words "k u tˀ i"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
     families "Tucanoan"
     variety_count 1
     language_count 1
@@ -19241,8 +19227,34 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 653
-    target 961
+    source 650
+    target 652
+    count 1
+    words "k u tˀ i"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 651
+    target 652
+    count 1
+    words "k u tˀ i"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 654
+    target 962
     count 1
     words "s u a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19254,8 +19266,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 656
-    target 657
+    source 657
+    target 658
     count 1
     words "t ɨ n o h i"
     varieties "clicsbp-idssegmented-siona"
@@ -19267,8 +19279,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 661
-    target 662
+    source 662
+    target 663
     count 1
     words "t e õ h e i h i"
     varieties "clicsbp-idssegmented-siona"
@@ -19280,8 +19292,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 663
-    target 675
+    source 664
+    target 676
     count 1
     words "b ɨ ã"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19293,8 +19305,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 668
-    target 869
+    source 669
+    target 870
     count 1
     words "p a i"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19306,8 +19318,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 674
-    target 680
+    source 675
+    target 681
     count 1
     words "w aː"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19319,8 +19331,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 677
-    target 678
+    source 678
+    target 679
     count 1
     words "e t a h i"
     varieties "clicsbp-idssegmented-siona"
@@ -19332,8 +19344,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 679
-    target 734
+    source 680
+    target 735
     count 1
     words "p ɨ t ɨ a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19345,8 +19357,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 681
-    target 708
+    source 682
+    target 709
     count 1
     words "d i t i"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19358,21 +19370,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 682
-    target 851
-    count 1
-    words "d u t i"
-    varieties "clicsbp-idssegmented-tuyuca"
-    languages "tuyu1244"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 682
-    target 1002
+    source 683
+    target 852
     count 1
     words "d u t i"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19385,24 +19384,11 @@ graph [
   ]
   edge [
     source 683
-    target 684
+    target 1003
     count 1
-    words "t u i h i"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 683
-    target 685
-    count 1
-    words "t u i h i"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
+    words "d u t i"
+    varieties "clicsbp-idssegmented-tuyuca"
+    languages "tuyu1244"
     families "Tucanoan"
     variety_count 1
     language_count 1
@@ -19423,8 +19409,34 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 687
-    target 910
+    source 684
+    target 686
+    count 1
+    words "t u i h i"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 685
+    target 686
+    count 1
+    words "t u i h i"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 688
+    target 911
     count 1
     words "s ã ã"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19436,8 +19448,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 688
-    target 1003
+    source 689
+    target 1004
     count 1
     words "d ẽː + w a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19449,8 +19461,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 693
-    target 694
+    source 694
+    target 695
     count 2
     words "kˀ a ʔʷ a//b e t o"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-tuyuca"
@@ -19462,8 +19474,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 701
-    target 1013
+    source 702
+    target 1014
     count 1
     words "d ẽː"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19475,8 +19487,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 707
-    target 708
+    source 708
+    target 709
     count 1
     words "w e s o h i"
     varieties "clicsbp-idssegmented-siona"
@@ -19488,36 +19500,10 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 710
-    target 711
+    source 711
+    target 712
     count 1
     words "t ĩ h a h i"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 713
-    target 714
-    count 1
-    words "s ẽ h i"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 713
-    target 715
-    count 1
-    words "s ẽ h i"
     varieties "clicsbp-idssegmented-siona"
     languages "sion1247"
     families "Tucanoan"
@@ -19540,8 +19526,34 @@ graph [
     cognate_count 1
   ]
   edge [
+    source 714
+    target 716
+    count 1
+    words "s ẽ h i"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
     source 715
-    target 721
+    target 716
+    count 1
+    words "s ẽ h i"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 716
+    target 722
     count 1
     words "s ã ĩ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19553,20 +19565,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 716
-    target 1017
-    count 1
-    words "w a s o"
-    varieties "clicsbp-idssegmented-tuyuca"
-    languages "tuyu1244"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 716
+    source 717
     target 1018
     count 1
     words "w a s o"
@@ -19579,8 +19578,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 716
-    target 754
+    source 717
+    target 1019
     count 1
     words "w a s o"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19592,8 +19591,21 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 719
-    target 1020
+    source 717
+    target 755
+    count 1
+    words "w a s o"
+    varieties "clicsbp-idssegmented-tuyuca"
+    languages "tuyu1244"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 720
+    target 1021
     count 1
     words "w a p a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19605,8 +19617,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 724
-    target 725
+    source 725
+    target 726
     count 1
     words "s i r o"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19618,8 +19630,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 726
-    target 954
+    source 727
+    target 955
     count 1
     words "d o k a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19631,8 +19643,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 727
-    target 728
+    source 728
+    target 729
     count 1
     words "tˀ u tˀ u"
     varieties "clicsbp-idssegmented-siona"
@@ -19644,8 +19656,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 731
-    target 1031
+    source 732
+    target 1032
     count 1
     words "ɨ b ɨ ã"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19657,8 +19669,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 732
-    target 733
+    source 733
+    target 734
     count 2
     words "h o pˀ o//d e k o"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-tuyuca"
@@ -19670,8 +19682,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 737
-    target 738
+    source 738
+    target 739
     count 1
     words "t e ʔ e"
     varieties "clicsbp-idssegmented-siona"
@@ -19683,8 +19695,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 737
-    target 739
+    source 738
+    target 740
     count 1
     words "s ɨ ʔ a h i"
     varieties "clicsbp-idssegmented-siona"
@@ -19696,8 +19708,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 742
-    target 743
+    source 743
+    target 744
     count 1
     words "t a ʔ p i h i"
     varieties "clicsbp-idssegmented-siona"
@@ -19709,8 +19721,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 747
-    target 1032
+    source 748
+    target 1033
     count 1
     words "j a p a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19722,8 +19734,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 748
-    target 1028
+    source 749
+    target 1029
     count 1
     words "w e s a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19735,8 +19747,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 749
-    target 1035
+    source 750
+    target 1036
     count 1
     words "k e o"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19748,20 +19760,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 751
-    target 945
-    count 1
-    words "b a p a"
-    varieties "clicsbp-idssegmented-tuyuca"
-    languages "tuyu1244"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 751
+    source 752
     target 946
     count 1
     words "b a p a"
@@ -19774,10 +19773,10 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 754
-    target 1017
+    source 752
+    target 947
     count 1
-    words "w a s o"
+    words "b a p a"
     varieties "clicsbp-idssegmented-tuyuca"
     languages "tuyu1244"
     families "Tucanoan"
@@ -19787,7 +19786,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 754
+    source 755
     target 1018
     count 1
     words "w a s o"
@@ -19800,8 +19799,21 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 763
-    target 764
+    source 755
+    target 1019
+    count 1
+    words "w a s o"
+    varieties "clicsbp-idssegmented-tuyuca"
+    languages "tuyu1244"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 764
+    target 765
     count 1
     words "n a ʔ i t o"
     varieties "clicsbp-idssegmented-siona"
@@ -19813,8 +19825,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 765
-    target 766
+    source 766
+    target 767
     count 1
     words "j u tˀ e"
     varieties "clicsbp-idssegmented-siona"
@@ -19826,8 +19838,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 765
-    target 1056
+    source 766
+    target 1057
     count 1
     words "b ẽ k ã t i + g ã"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19839,8 +19851,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 784
-    target 785
+    source 785
+    target 786
     count 1
     words "t ɨ k a w ɨ"
     varieties "clicsbp-idssegmented-siona"
@@ -19852,8 +19864,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 784
-    target 1055
+    source 785
+    target 1056
     count 1
     words "k ɨ b ã"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19865,8 +19877,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 784
-    target 787
+    source 785
+    target 788
     count 1
     words "k ɨ b ã"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19878,8 +19890,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 787
-    target 1055
+    source 788
+    target 1056
     count 1
     words "k ɨ b ã"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19891,8 +19903,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 794
-    target 795
+    source 795
+    target 796
     count 1
     words "ɨ j a h i"
     varieties "clicsbp-idssegmented-siona"
@@ -19904,8 +19916,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 796
-    target 797
+    source 797
+    target 798
     count 1
     words "ɨ j o h i"
     varieties "clicsbp-idssegmented-siona"
@@ -19917,8 +19929,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 796
-    target 922
+    source 797
+    target 923
     count 1
     words "ẽ y õ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19930,8 +19942,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 797
-    target 800
+    source 798
+    target 801
     count 1
     words "w a n o h i"
     varieties "clicsbp-idssegmented-siona"
@@ -19943,8 +19955,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 797
-    target 1041
+    source 798
+    target 1042
     count 1
     words "b i i"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -19956,8 +19968,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 805
-    target 806
+    source 806
+    target 807
     count 2
     words "w a t i//w ã t ĩ"
     varieties "clicsbp-idssegmented-siona//clicsbp-idssegmented-tuyuca"
@@ -19969,20 +19981,7 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 805
-    target 807
-    count 1
-    words "k u k u"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 805
+    source 806
     target 808
     count 1
     words "k u k u"
@@ -19995,8 +19994,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 807
-    target 808
+    source 806
+    target 809
     count 1
     words "k u k u"
     varieties "clicsbp-idssegmented-siona"
@@ -20008,8 +20007,21 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 816
-    target 1092
+    source 808
+    target 809
+    count 1
+    words "k u k u"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 817
+    target 1093
     count 1
     words "b o o"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20021,21 +20033,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 823
-    target 824
-    count 1
-    words "w ã k ũ"
-    varieties "clicsbp-idssegmented-tuyuca"
-    languages "tuyu1244"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 823
-    target 1099
+    source 824
+    target 825
     count 1
     words "w ã k ũ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20048,7 +20047,7 @@ graph [
   ]
   edge [
     source 824
-    target 1099
+    target 1100
     count 1
     words "w ã k ũ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20061,22 +20060,9 @@ graph [
   ]
   edge [
     source 825
-    target 826
+    target 1100
     count 1
-    words "b u e"
-    varieties "clicsbp-idssegmented-tuyuca"
-    languages "tuyu1244"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 825
-    target 827
-    count 1
-    words "b u e"
+    words "w ã k ũ"
     varieties "clicsbp-idssegmented-tuyuca"
     languages "tuyu1244"
     families "Tucanoan"
@@ -20099,8 +20085,34 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 828
-    target 1094
+    source 826
+    target 828
+    count 1
+    words "b u e"
+    varieties "clicsbp-idssegmented-tuyuca"
+    languages "tuyu1244"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 827
+    target 828
+    count 1
+    words "b u e"
+    varieties "clicsbp-idssegmented-tuyuca"
+    languages "tuyu1244"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 829
+    target 1095
     count 1
     words "a k a b o"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20112,8 +20124,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 831
-    target 1112
+    source 832
+    target 1113
     count 1
     words "o"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20125,8 +20137,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 832
-    target 833
+    source 833
+    target 834
     count 1
     words "h a tˀ o"
     varieties "clicsbp-idssegmented-siona"
@@ -20138,8 +20150,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 833
-    target 934
+    source 834
+    target 935
     count 1
     words "d ĩ ĩ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20151,8 +20163,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 835
-    target 1117
+    source 836
+    target 1118
     count 1
     words "d õ k ẽ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20164,8 +20176,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 836
-    target 1120
+    source 837
+    target 1121
     count 1
     words "a k a r i b i"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20177,32 +20189,6 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 838
-    target 839
-    count 1
-    words "k o k a"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 838
-    target 840
-    count 1
-    words "k o k a"
-    varieties "clicsbp-idssegmented-siona"
-    languages "sion1247"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
     source 839
     target 840
     count 1
@@ -20217,7 +20203,33 @@ graph [
   ]
   edge [
     source 839
-    target 1110
+    target 841
+    count 1
+    words "k o k a"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 840
+    target 841
+    count 1
+    words "k o k a"
+    varieties "clicsbp-idssegmented-siona"
+    languages "sion1247"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 840
+    target 1111
     count 1
     words "w e d e"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20229,8 +20241,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 839
-    target 846
+    source 840
+    target 847
     count 1
     words "w e d e"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20242,8 +20254,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 841
-    target 903
+    source 842
+    target 904
     count 1
     words "j ɨ ɨ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20255,8 +20267,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 842
-    target 843
+    source 843
+    target 844
     count 1
     words "ɨ s e h i"
     varieties "clicsbp-idssegmented-siona"
@@ -20268,8 +20280,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 843
-    target 861
+    source 844
+    target 862
     count 1
     words "k ã b õ t a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20281,8 +20293,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 846
-    target 1110
+    source 847
+    target 1111
     count 1
     words "w e d e"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20294,8 +20306,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 851
-    target 1002
+    source 852
+    target 1003
     count 1
     words "d u t i"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20307,8 +20319,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 858
-    target 1139
+    source 859
+    target 1140
     count 1
     words "s u r a r a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20320,8 +20332,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 859
-    target 860
+    source 860
+    target 861
     count 1
     words "t o a w ɨ"
     varieties "clicsbp-idssegmented-siona"
@@ -20333,8 +20345,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 883
-    target 884
+    source 884
+    target 885
     count 1
     words "p a k ɨ + s ɨ b ɨ ã"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20346,8 +20358,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 891
-    target 892
+    source 892
+    target 893
     count 1
     words "b ã j ẽ k ɨ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20359,36 +20371,10 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 893
-    target 894
+    source 894
+    target 895
     count 1
     words "b ã j ẽ k õ"
-    varieties "clicsbp-idssegmented-tuyuca"
-    languages "tuyu1244"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 895
-    target 896
-    count 1
-    words "b u i"
-    varieties "clicsbp-idssegmented-tuyuca"
-    languages "tuyu1244"
-    families "Tucanoan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 895
-    target 897
-    count 1
-    words "b u i"
     varieties "clicsbp-idssegmented-tuyuca"
     languages "tuyu1244"
     families "Tucanoan"
@@ -20411,8 +20397,34 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 898
-    target 899
+    source 896
+    target 898
+    count 1
+    words "b u i"
+    varieties "clicsbp-idssegmented-tuyuca"
+    languages "tuyu1244"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 897
+    target 898
+    count 1
+    words "b u i"
+    varieties "clicsbp-idssegmented-tuyuca"
+    languages "tuyu1244"
+    families "Tucanoan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 899
+    target 900
     count 1
     words "b ã k ɨ + d ɨ b õ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20424,8 +20436,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 915
-    target 916
+    source 916
+    target 917
     count 1
     words "p o a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20437,8 +20449,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 945
-    target 946
+    source 946
+    target 947
     count 1
     words "b a p a"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20450,8 +20462,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 983
-    target 984
+    source 984
+    target 985
     count 1
     words "k u k u"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20463,8 +20475,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1010
-    target 1011
+    source 1011
+    target 1012
     count 1
     words "d oː + r i + w ɨ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20476,8 +20488,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1017
-    target 1018
+    source 1018
+    target 1019
     count 1
     words "w a s o"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20489,8 +20501,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1075
-    target 1076
+    source 1076
+    target 1077
     count 1
     words "d i t a + b ã d ĩ"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20502,8 +20514,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1083
-    target 1084
+    source 1084
+    target 1085
     count 1
     words "w ã k ũ + r e + k ɨ t i"
     varieties "clicsbp-idssegmented-tuyuca"
@@ -20515,8 +20527,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1106
-    target 1107
+    source 1107
+    target 1108
     count 1
     words "b u e + g ɨ"
     varieties "clicsbp-idssegmented-tuyuca"

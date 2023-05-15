@@ -4418,13 +4418,13 @@ graph [
   node [
     id 368
     label "RIPE"
-    occurrences "clicsbp-northeuralex-evn-RIPE-1//clicsbp-northeuralex-mnc-RIPE-1//clicsbp-northeuralex-gld-RIPE-1//clicsbp-wold-Oroqen-RIPE-1//clicsbp-oskolskayatungusic-Even-RIPE-1//clicsbp-oskolskayatungusic-Negidal-RIPE-1//clicsbp-oskolskayatungusic-Negidal-RIPE-2//clicsbp-oskolskayatungusic-Negidal-RIPE-3//clicsbp-oskolskayatungusic-Oroch-RIPE-1//clicsbp-oskolskayatungusic-Orok-RIPE-1//clicsbp-oskolskayatungusic-Solon-RIPE-1//clicsbp-oskolskayatungusic-Solon-RIPE-2//clicsbp-oskolskayatungusic-Udihe-RIPE-1//clicsbp-oskolskayatungusic-Udihe-RIPE-2//clicsbp-oskolskayatungusic-Ulcha-RIPE-1//clicsbp-oskolskayatungusic-Xibe-RIPE-1"
-    words "i r tʃ ə//u r ɤ m p i//x u r u k t u//i r tʃ ə//i r//i j//i l//j ə j i//χ u r u//x u r u//u r b u//u r ə ʃ x u ŋ//x a j//x a j l i//x u r u//u r u"
-    varieties "clicsbp-northeuralex-evn//clicsbp-northeuralex-mnc//clicsbp-northeuralex-gld//clicsbp-wold-Oroqen//clicsbp-oskolskayatungusic-Even//clicsbp-oskolskayatungusic-Negidal//clicsbp-oskolskayatungusic-Negidal//clicsbp-oskolskayatungusic-Negidal//clicsbp-oskolskayatungusic-Oroch//clicsbp-oskolskayatungusic-Orok//clicsbp-oskolskayatungusic-Solon//clicsbp-oskolskayatungusic-Solon//clicsbp-oskolskayatungusic-Udihe//clicsbp-oskolskayatungusic-Udihe//clicsbp-oskolskayatungusic-Ulcha//clicsbp-oskolskayatungusic-Xibe"
-    languages "even1259//manc1252//nana1257//oroq1238//even1260//negi1245//negi1245//negi1245//oroc1248//orok1265//solo1263//solo1263//udih1248//udih1248//ulch1241//xibe1242"
-    families "Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic"
-    language_count 12
-    variety_count 12
+    occurrences "clicsbp-northeuralex-evn-RIPE-1//clicsbp-northeuralex-mnc-RIPE-1//clicsbp-northeuralex-gld-RIPE-1//clicsbp-wold-Oroqen-RIPE-1"
+    words "i r tʃ ə//u r ɤ m p i//x u r u k t u//i r tʃ ə"
+    varieties "clicsbp-northeuralex-evn//clicsbp-northeuralex-mnc//clicsbp-northeuralex-gld//clicsbp-wold-Oroqen"
+    languages "even1259//manc1252//nana1257//oroq1238"
+    families "Tungusic//Tungusic//Tungusic//Tungusic"
+    language_count 4
+    variety_count 4
     family_count 1
   ]
   node [
@@ -4850,13 +4850,13 @@ graph [
   node [
     id 404
     label "OLD"
-    occurrences "clicsbp-northeuralex-evn-OLD-1//clicsbp-northeuralex-mnc-OLD-1//clicsbp-northeuralex-mnc-OLD-2//clicsbp-northeuralex-gld-OLD-1//clicsbp-wold-Oroqen-OLD-1"
-    words "x o l o k t o//f ɤ//s a kʰ t a//g ɔ r ɔ p tʃ i//ʃ a g d ɪ"
-    varieties "clicsbp-northeuralex-evn//clicsbp-northeuralex-mnc//clicsbp-northeuralex-mnc//clicsbp-northeuralex-gld//clicsbp-wold-Oroqen"
-    languages "even1259//manc1252//manc1252//nana1257//oroq1238"
-    families "Tungusic//Tungusic//Tungusic//Tungusic//Tungusic"
-    language_count 4
-    variety_count 4
+    occurrences "clicsbp-northeuralex-evn-OLD-1//clicsbp-northeuralex-mnc-OLD-1//clicsbp-northeuralex-mnc-OLD-2//clicsbp-northeuralex-gld-OLD-1//clicsbp-wold-Oroqen-OLD-1//clicsbp-oskolskayatungusic-Even-OLD-1//clicsbp-oskolskayatungusic-Even-OLD-2//clicsbp-oskolskayatungusic-Negidal-OLD-1//clicsbp-oskolskayatungusic-Negidal-OLD-2//clicsbp-oskolskayatungusic-Oroch-OLD-1//clicsbp-oskolskayatungusic-Orok-OLD-1//clicsbp-oskolskayatungusic-Solon-OLD-1//clicsbp-oskolskayatungusic-Udihe-OLD-1//clicsbp-oskolskayatungusic-Ulcha-OLD-1//clicsbp-oskolskayatungusic-Ulcha-OLD-2//clicsbp-oskolskayatungusic-Xibe-OLD-1"
+    words "x o l o k t o//f ɤ//s a kʰ t a//g ɔ r ɔ p tʃ i//ʃ a g d ɪ//u t e//i r b e t//g o j o p t i//oː x i p t i//ai n aː p t i//ɢ ɔ r ɔ p tʃ i//i r ə tː i//a n a p t i//g o r o + p t e//b a l a + p t e//f ɘ"
+    varieties "clicsbp-northeuralex-evn//clicsbp-northeuralex-mnc//clicsbp-northeuralex-mnc//clicsbp-northeuralex-gld//clicsbp-wold-Oroqen//clicsbp-oskolskayatungusic-Even//clicsbp-oskolskayatungusic-Even//clicsbp-oskolskayatungusic-Negidal//clicsbp-oskolskayatungusic-Negidal//clicsbp-oskolskayatungusic-Oroch//clicsbp-oskolskayatungusic-Orok//clicsbp-oskolskayatungusic-Solon//clicsbp-oskolskayatungusic-Udihe//clicsbp-oskolskayatungusic-Ulcha//clicsbp-oskolskayatungusic-Ulcha//clicsbp-oskolskayatungusic-Xibe"
+    languages "even1259//manc1252//manc1252//nana1257//oroq1238//even1260//even1260//negi1245//negi1245//oroc1248//orok1265//solo1263//udih1248//ulch1241//ulch1241//xibe1242"
+    families "Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic"
+    language_count 12
+    variety_count 12
     family_count 1
   ]
   node [
@@ -7910,13 +7910,13 @@ graph [
   node [
     id 659
     label "RIPEN"
-    occurrences "clicsbp-northeuralex-evn-RIPEN-1//clicsbp-northeuralex-mnc-RIPEN-1//clicsbp-northeuralex-gld-RIPEN-1"
-    words "i r m iː//f a x a n a m p i//x u r u j n i"
-    varieties "clicsbp-northeuralex-evn//clicsbp-northeuralex-mnc//clicsbp-northeuralex-gld"
-    languages "even1259//manc1252//nana1257"
-    families "Tungusic//Tungusic//Tungusic"
-    language_count 3
-    variety_count 3
+    occurrences "clicsbp-northeuralex-evn-RIPEN-1//clicsbp-northeuralex-mnc-RIPEN-1//clicsbp-northeuralex-gld-RIPEN-1//clicsbp-oskolskayatungusic-Even-RIPEN-1//clicsbp-oskolskayatungusic-Negidal-RIPEN-1//clicsbp-oskolskayatungusic-Negidal-RIPEN-2//clicsbp-oskolskayatungusic-Negidal-RIPEN-3//clicsbp-oskolskayatungusic-Oroch-RIPEN-1//clicsbp-oskolskayatungusic-Orok-RIPEN-1//clicsbp-oskolskayatungusic-Solon-RIPEN-1//clicsbp-oskolskayatungusic-Solon-RIPEN-2//clicsbp-oskolskayatungusic-Udihe-RIPEN-1//clicsbp-oskolskayatungusic-Udihe-RIPEN-2//clicsbp-oskolskayatungusic-Ulcha-RIPEN-1//clicsbp-oskolskayatungusic-Xibe-RIPEN-1"
+    words "i r m iː//f a x a n a m p i//x u r u j n i//i r//i j//i l//j ə j i//χ u r u//x u r u//u r b u//u r ə ʃ x u ŋ//x a j//x a j l i//x u r u//u r u"
+    varieties "clicsbp-northeuralex-evn//clicsbp-northeuralex-mnc//clicsbp-northeuralex-gld//clicsbp-oskolskayatungusic-Even//clicsbp-oskolskayatungusic-Negidal//clicsbp-oskolskayatungusic-Negidal//clicsbp-oskolskayatungusic-Negidal//clicsbp-oskolskayatungusic-Oroch//clicsbp-oskolskayatungusic-Orok//clicsbp-oskolskayatungusic-Solon//clicsbp-oskolskayatungusic-Solon//clicsbp-oskolskayatungusic-Udihe//clicsbp-oskolskayatungusic-Udihe//clicsbp-oskolskayatungusic-Ulcha//clicsbp-oskolskayatungusic-Xibe"
+    languages "even1259//manc1252//nana1257//even1260//negi1245//negi1245//negi1245//oroc1248//orok1265//solo1263//solo1263//udih1248//udih1248//ulch1241//xibe1242"
+    families "Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic"
+    language_count 11
+    variety_count 11
     family_count 1
   ]
   node [
@@ -9337,18 +9337,6 @@ graph [
   ]
   node [
     id 778
-    label "KID"
-    occurrences "clicsbp-wold-Oroqen-KID-1"
-    words "i m aː k a n"
-    varieties "clicsbp-wold-Oroqen"
-    languages "oroq1238"
-    families "Tungusic"
-    language_count 1
-    variety_count 1
-    family_count 1
-  ]
-  node [
-    id 779
     label "STALLION"
     occurrences "clicsbp-wold-Oroqen-STALLION-1"
     words "a d i r g a + m ʊ r ɪ n"
@@ -9360,7 +9348,7 @@ graph [
     family_count 1
   ]
   node [
-    id 780
+    id 779
     label "MARE"
     occurrences "clicsbp-wold-Oroqen-MARE-1"
     words "g ə k + m ʊ r ɪ n"
@@ -9372,7 +9360,7 @@ graph [
     family_count 1
   ]
   node [
-    id 781
+    id 780
     label "FOAL"
     occurrences "clicsbp-wold-Oroqen-FOAL-1"
     words "ɲ ɔ k ɔ n"
@@ -9384,7 +9372,7 @@ graph [
     family_count 1
   ]
   node [
-    id 782
+    id 781
     label "FOWL"
     occurrences "clicsbp-wold-Oroqen-FOWL-1"
     words "d ə y i"
@@ -9396,7 +9384,7 @@ graph [
     family_count 1
   ]
   node [
-    id 783
+    id 782
     label "HERON"
     occurrences "clicsbp-wold-Oroqen-HERON-1"
     words "tʃ a w tʃ a l ɛ"
@@ -9408,7 +9396,7 @@ graph [
     family_count 1
   ]
   node [
-    id 784
+    id 783
     label "BAT"
     occurrences "clicsbp-wold-Oroqen-BAT-1"
     words "n ə m ə k ə l d u n"
@@ -9420,7 +9408,7 @@ graph [
     family_count 1
   ]
   node [
-    id 785
+    id 784
     label "DOVE"
     occurrences "clicsbp-wold-Oroqen-DOVE-1"
     words "t u t u y ɛ"
@@ -9432,7 +9420,7 @@ graph [
     family_count 1
   ]
   node [
-    id 786
+    id 785
     label "RABBIT"
     occurrences "clicsbp-wold-Oroqen-RABBIT-1"
     words "t ʊ k ʃ a k ɪ"
@@ -9444,7 +9432,7 @@ graph [
     family_count 1
   ]
   node [
-    id 787
+    id 786
     label "MUROID (MOUSE OR RAT)"
     occurrences "clicsbp-wold-Oroqen-MUROIDMOUSEORRAT-1//clicsbp-wold-Oroqen-MUROIDMOUSEORRAT-2"
     words "ə n i k əː n//ə ɲ ə k əː n"
@@ -9456,7 +9444,7 @@ graph [
     family_count 1
   ]
   node [
-    id 788
+    id 787
     label "FIN"
     occurrences "clicsbp-wold-Oroqen-FIN-1"
     words "ʃ ə l b ɛ"
@@ -9468,7 +9456,7 @@ graph [
     family_count 1
   ]
   node [
-    id 789
+    id 788
     label "SCALE"
     occurrences "clicsbp-wold-Oroqen-SCALE-1"
     words "ə k i k ʃ ə"
@@ -9480,7 +9468,7 @@ graph [
     family_count 1
   ]
   node [
-    id 790
+    id 789
     label "DEER"
     occurrences "clicsbp-wold-Oroqen-DEER-1"
     words "k ʊ m a k a"
@@ -9492,7 +9480,7 @@ graph [
     family_count 1
   ]
   node [
-    id 791
+    id 790
     label "MONKEY"
     occurrences "clicsbp-wold-Oroqen-MONKEY-1"
     words "m ɔ ɲ ɔː"
@@ -9504,7 +9492,7 @@ graph [
     family_count 1
   ]
   node [
-    id 792
+    id 791
     label "ELEPHANT"
     occurrences "clicsbp-wold-Oroqen-ELEPHANT-1"
     words "ʃ a w ʊ n"
@@ -9516,7 +9504,7 @@ graph [
     family_count 1
   ]
   node [
-    id 793
+    id 792
     label "CAMEL"
     occurrences "clicsbp-wold-Oroqen-CAMEL-1"
     words "t ə m ə k u n"
@@ -9528,7 +9516,7 @@ graph [
     family_count 1
   ]
   node [
-    id 794
+    id 793
     label "INSECT"
     occurrences "clicsbp-wold-Oroqen-INSECT-1"
     words "k ʊ l ɪ k a n"
@@ -9540,7 +9528,7 @@ graph [
     family_count 1
   ]
   node [
-    id 795
+    id 794
     label "NIT"
     occurrences "clicsbp-wold-Oroqen-NIT-1"
     words "u k t ə"
@@ -9552,7 +9540,7 @@ graph [
     family_count 1
   ]
   node [
-    id 796
+    id 795
     label "FLEA"
     occurrences "clicsbp-wold-Oroqen-FLEA-1"
     words "ʃ ʊ r a"
@@ -9564,7 +9552,7 @@ graph [
     family_count 1
   ]
   node [
-    id 797
+    id 796
     label "COCKROACH"
     occurrences "clicsbp-wold-Oroqen-COCKROACH-1"
     words "t a r a k a n"
@@ -9576,7 +9564,7 @@ graph [
     family_count 1
   ]
   node [
-    id 798
+    id 797
     label "TERMITE"
     occurrences "clicsbp-wold-Oroqen-TERMITE-1"
     words "i r i k t ə"
@@ -9588,7 +9576,7 @@ graph [
     family_count 1
   ]
   node [
-    id 799
+    id 798
     label "SPIDER WEB"
     occurrences "clicsbp-wold-Oroqen-SPIDERWEB-1"
     words "a t aː k ɛː ŋ i + a d ɪ l ɪ n"
@@ -9600,7 +9588,7 @@ graph [
     family_count 1
   ]
   node [
-    id 800
+    id 799
     label "BEE"
     occurrences "clicsbp-wold-Oroqen-BEE-1"
     words "dʒ uː g d u"
@@ -9612,7 +9600,7 @@ graph [
     family_count 1
   ]
   node [
-    id 801
+    id 800
     label "BEEHIVE"
     occurrences "clicsbp-wold-Oroqen-BEEHIVE-1"
     words "dʒ uː g d u ŋ i + dʒ uː n"
@@ -9624,7 +9612,7 @@ graph [
     family_count 1
   ]
   node [
-    id 802
+    id 801
     label "WASP"
     occurrences "clicsbp-wold-Oroqen-WASP-1"
     words "g ə d i n ə k t ə"
@@ -9636,7 +9624,7 @@ graph [
     family_count 1
   ]
   node [
-    id 803
+    id 802
     label "SANDFLY"
     occurrences "clicsbp-wold-Oroqen-SANDFLY-1"
     words "tʃ ʊ k ʊ m ʊ k t a"
@@ -9648,7 +9636,7 @@ graph [
     family_count 1
   ]
   node [
-    id 804
+    id 803
     label "FIREFLY"
     occurrences "clicsbp-wold-Oroqen-FIREFLY-1"
     words "b u d u n ə"
@@ -9660,7 +9648,7 @@ graph [
     family_count 1
   ]
   node [
-    id 805
+    id 804
     label "GRASSHOPPER"
     occurrences "clicsbp-wold-Oroqen-GRASSHOPPER-1"
     words "ʃ u ʃ i k u n"
@@ -9672,7 +9660,7 @@ graph [
     family_count 1
   ]
   node [
-    id 806
+    id 805
     label "FROG"
     occurrences "clicsbp-wold-Oroqen-FROG-1"
     words "ə r ə k i"
@@ -9684,7 +9672,7 @@ graph [
     family_count 1
   ]
   node [
-    id 807
+    id 806
     label "LIZARD"
     occurrences "clicsbp-wold-Oroqen-LIZARD-1"
     words "i ʃ ə l ə"
@@ -9696,7 +9684,7 @@ graph [
     family_count 1
   ]
   node [
-    id 808
+    id 807
     label "TURTLE"
     occurrences "clicsbp-wold-Oroqen-TURTLE-1"
     words "k a β i l a"
@@ -9708,7 +9696,7 @@ graph [
     family_count 1
   ]
   node [
-    id 809
+    id 808
     label "PEEL"
     occurrences "clicsbp-wold-Oroqen-PEEL-1"
     words "i l ə"
@@ -9720,7 +9708,7 @@ graph [
     family_count 1
   ]
   node [
-    id 810
+    id 809
     label "FLESH"
     occurrences "clicsbp-wold-Oroqen-FLESH-1"
     words "u l ə"
@@ -9732,7 +9720,7 @@ graph [
     family_count 1
   ]
   node [
-    id 811
+    id 810
     label "HAIR (HEAD)"
     occurrences "clicsbp-wold-Oroqen-HAIRHEAD-1//clicsbp-oskolskayatungusic-Even-HAIRHEAD-1//clicsbp-oskolskayatungusic-Negidal-HAIRHEAD-1//clicsbp-oskolskayatungusic-Negidal-HAIRHEAD-2//clicsbp-oskolskayatungusic-Oroch-HAIRHEAD-1//clicsbp-oskolskayatungusic-Orok-HAIRHEAD-1//clicsbp-oskolskayatungusic-Orok-HAIRHEAD-2//clicsbp-oskolskayatungusic-Solon-HAIRHEAD-1//clicsbp-oskolskayatungusic-Udihe-HAIRHEAD-1//clicsbp-oskolskayatungusic-Ulcha-HAIRHEAD-1//clicsbp-oskolskayatungusic-Xibe-HAIRHEAD-1"
     words "ɲ u r i k t ə//ɲ uː r i t//ɲ i j u k t ə//ɲ j u k t ə//ɲ u k t ə//n i r u k t ə//n u r i k t ə//n uː tː//ɲ u k t ə//n u q t ə//f ɘ n j x"
@@ -9744,7 +9732,7 @@ graph [
     family_count 1
   ]
   node [
-    id 812
+    id 811
     label "HAIR (BODY)"
     occurrences "clicsbp-wold-Oroqen-HAIRBODY-1"
     words "i ŋ a k t a"
@@ -9756,7 +9744,7 @@ graph [
     family_count 1
   ]
   node [
-    id 813
+    id 812
     label "PUBIC HAIR"
     occurrences "clicsbp-wold-Oroqen-PUBICHAIR-1"
     words "ʃ ə w u r ə"
@@ -9768,7 +9756,7 @@ graph [
     family_count 1
   ]
   node [
-    id 814
+    id 813
     label "DANDRUFF"
     occurrences "clicsbp-wold-Oroqen-DANDRUFF-1"
     words "a l ʊ k t a"
@@ -9780,7 +9768,7 @@ graph [
     family_count 1
   ]
   node [
-    id 815
+    id 814
     label "BLOOD VESSEL"
     occurrences "clicsbp-wold-Oroqen-BLOODVESSEL-1"
     words "ʊ ŋ ɪ k t a"
@@ -9792,7 +9780,7 @@ graph [
     family_count 1
   ]
   node [
-    id 816
+    id 815
     label "RIB"
     occurrences "clicsbp-wold-Oroqen-RIB-1"
     words "oː t i l ə"
@@ -9804,7 +9792,7 @@ graph [
     family_count 1
   ]
   node [
-    id 817
+    id 816
     label "WAIST"
     occurrences "clicsbp-wold-Oroqen-WAIST-1"
     words "ʃ ɔ g d ɔ n ɔ"
@@ -9816,7 +9804,7 @@ graph [
     family_count 1
   ]
   node [
-    id 818
+    id 817
     label "SPINE"
     occurrences "clicsbp-wold-Oroqen-SPINE-1"
     words "d a r a m a"
@@ -9828,7 +9816,7 @@ graph [
     family_count 1
   ]
   node [
-    id 819
+    id 818
     label "TEMPLES"
     occurrences "clicsbp-wold-Oroqen-TEMPLES-1//clicsbp-wold-Oroqen-TEMPLES-2"
     words "g u l i w u k ə//m a ŋ g ɪ l a"
@@ -9840,7 +9828,7 @@ graph [
     family_count 1
   ]
   node [
-    id 820
+    id 819
     label "SKULL"
     occurrences "clicsbp-wold-Oroqen-SKULL-1"
     words "d ɪ l ŋ i + g ɪ r a m n a n"
@@ -9852,7 +9840,7 @@ graph [
     family_count 1
   ]
   node [
-    id 821
+    id 820
     label "EYEBROW"
     occurrences "clicsbp-wold-Oroqen-EYEBROW-1"
     words "k i l i m k i"
@@ -9864,7 +9852,7 @@ graph [
     family_count 1
   ]
   node [
-    id 822
+    id 821
     label "EYELID"
     occurrences "clicsbp-wold-Oroqen-EYELID-1"
     words "y ɛː ʃ a ŋ i + w u n"
@@ -9876,7 +9864,7 @@ graph [
     family_count 1
   ]
   node [
-    id 823
+    id 822
     label "EYELASH"
     occurrences "clicsbp-wold-Oroqen-EYELASH-1"
     words "ʃ a r a m ʊ k t a"
@@ -9888,7 +9876,7 @@ graph [
     family_count 1
   ]
   node [
-    id 824
+    id 823
     label "BLINK"
     occurrences "clicsbp-wold-Oroqen-BLINK-1"
     words "b a l ɪ"
@@ -9900,7 +9888,7 @@ graph [
     family_count 1
   ]
   node [
-    id 825
+    id 824
     label "EARWAX"
     occurrences "clicsbp-wold-Oroqen-EARWAX-1"
     words "ʊ r ʊ m ŋ a"
@@ -9912,7 +9900,7 @@ graph [
     family_count 1
   ]
   node [
-    id 826
+    id 825
     label "NOSTRIL"
     occurrences "clicsbp-wold-Oroqen-NOSTRIL-1"
     words "ɔ ŋ ɔ k t ɔ ŋ i + d ɔː n"
@@ -9924,7 +9912,7 @@ graph [
     family_count 1
   ]
   node [
-    id 827
+    id 826
     label "NASAL MUCUS (SNOT)"
     occurrences "clicsbp-wold-Oroqen-NASALMUCUSSNOT-1//clicsbp-oskolskayatungusic-Even-NASALMUCUSSNOT-1//clicsbp-oskolskayatungusic-Even-NASALMUCUSSNOT-2//clicsbp-oskolskayatungusic-Negidal-NASALMUCUSSNOT-1//clicsbp-oskolskayatungusic-Negidal-NASALMUCUSSNOT-2//clicsbp-oskolskayatungusic-Oroch-NASALMUCUSSNOT-1//clicsbp-oskolskayatungusic-Orok-NASALMUCUSSNOT-1//clicsbp-oskolskayatungusic-Solon-NASALMUCUSSNOT-1//clicsbp-oskolskayatungusic-Udihe-NASALMUCUSSNOT-1//clicsbp-oskolskayatungusic-Udihe-NASALMUCUSSNOT-2//clicsbp-oskolskayatungusic-Ulcha-NASALMUCUSSNOT-1//clicsbp-oskolskayatungusic-Xibe-NASALMUCUSSNOT-1"
     words "ɪ l ɪ k ʃ a//u ʕ m a ʕ j i ʕ k//u ʕ m i ʕ j i ʕ k//e l i k s a//i l i k s a//i n o + k s a//x u r i ɣ ɑ + n aː k s ɑ n i//ɪ l ɛ ʃː ɪ//l i g b a//n i g b a//e n o k s a//o v u r + j ɑ ŋ k"
@@ -9936,7 +9924,7 @@ graph [
     family_count 1
   ]
   node [
-    id 828
+    id 827
     label "GUMS"
     occurrences "clicsbp-wold-Oroqen-GUMS-1"
     words "b u y ə"
@@ -9948,7 +9936,7 @@ graph [
     family_count 1
   ]
   node [
-    id 829
+    id 828
     label "MOLAR TOOTH"
     occurrences "clicsbp-wold-Oroqen-MOLARTOOTH-1"
     words "ʃ ɛː m u k i"
@@ -9960,7 +9948,7 @@ graph [
     family_count 1
   ]
   node [
-    id 830
+    id 829
     label "SHOULDERBLADE"
     occurrences "clicsbp-wold-Oroqen-SHOULDERBLADE-1"
     words "ɪ ʃ a k ɪ"
@@ -9972,7 +9960,7 @@ graph [
     family_count 1
   ]
   node [
-    id 831
+    id 830
     label "COLLARBONE"
     occurrences "clicsbp-wold-Oroqen-COLLARBONE-1"
     words "t uː r ə"
@@ -9984,7 +9972,7 @@ graph [
     family_count 1
   ]
   node [
-    id 832
+    id 831
     label "ARMPIT"
     occurrences "clicsbp-wold-Oroqen-ARMPIT-1"
     words "ɔː n ɪ"
@@ -9996,7 +9984,7 @@ graph [
     family_count 1
   ]
   node [
-    id 833
+    id 832
     label "WRIST"
     occurrences "clicsbp-wold-Oroqen-WRIST-1"
     words "b i l əː n"
@@ -10008,7 +9996,7 @@ graph [
     family_count 1
   ]
   node [
-    id 834
+    id 833
     label "THUMB"
     occurrences "clicsbp-wold-Oroqen-THUMB-1"
     words "u r uː n"
@@ -10020,7 +10008,7 @@ graph [
     family_count 1
   ]
   node [
-    id 835
+    id 834
     label "CALF OF LEG"
     occurrences "clicsbp-wold-Oroqen-CALFOFLEG-1"
     words "b ʊ l tʃ a k t a"
@@ -10032,7 +10020,7 @@ graph [
     family_count 1
   ]
   node [
-    id 836
+    id 835
     label "ANKLE"
     occurrences "clicsbp-wold-Oroqen-ANKLE-1"
     words "a y uː k a n"
@@ -10044,7 +10032,7 @@ graph [
     family_count 1
   ]
   node [
-    id 837
+    id 836
     label "UDDER"
     occurrences "clicsbp-wold-Oroqen-UDDER-1"
     words "u k u n"
@@ -10056,7 +10044,7 @@ graph [
     family_count 1
   ]
   node [
-    id 838
+    id 837
     label "NIPPLE"
     occurrences "clicsbp-wold-Oroqen-NIPPLE-1"
     words "l ʊ p k ʊ p t ɪ n"
@@ -10068,7 +10056,7 @@ graph [
     family_count 1
   ]
   node [
-    id 839
+    id 838
     label "LUNG"
     occurrences "clicsbp-wold-Oroqen-LUNG-1"
     words "oː t ə"
@@ -10080,7 +10068,7 @@ graph [
     family_count 1
   ]
   node [
-    id 840
+    id 839
     label "KIDNEY"
     occurrences "clicsbp-wold-Oroqen-KIDNEY-1"
     words "b ɔ ʃ ɔ k t ɔ"
@@ -10092,7 +10080,7 @@ graph [
     family_count 1
   ]
   node [
-    id 841
+    id 840
     label "SPLEEN"
     occurrences "clicsbp-wold-Oroqen-SPLEEN-1"
     words "d ə r k i n"
@@ -10104,7 +10092,7 @@ graph [
     family_count 1
   ]
   node [
-    id 842
+    id 841
     label "INTESTINES"
     occurrences "clicsbp-wold-Oroqen-INTESTINES-1"
     words "ʃ ɪ l ʊ k t a"
@@ -10116,7 +10104,7 @@ graph [
     family_count 1
   ]
   node [
-    id 843
+    id 842
     label "HIP"
     occurrences "clicsbp-wold-Oroqen-HIP-1"
     words "d uː k i"
@@ -10128,7 +10116,7 @@ graph [
     family_count 1
   ]
   node [
-    id 844
+    id 843
     label "BUTTOCKS"
     occurrences "clicsbp-wold-Oroqen-BUTTOCKS-1"
     words "b u k ʃ u"
@@ -10140,7 +10128,7 @@ graph [
     family_count 1
   ]
   node [
-    id 845
+    id 844
     label "WOMB"
     occurrences "clicsbp-wold-Oroqen-WOMB-1"
     words "u y u k"
@@ -10152,7 +10140,7 @@ graph [
     family_count 1
   ]
   node [
-    id 846
+    id 845
     label "TESTICLES"
     occurrences "clicsbp-wold-Oroqen-TESTICLES-1"
     words "tʃ ə ŋ g ə"
@@ -10164,7 +10152,7 @@ graph [
     family_count 1
   ]
   node [
-    id 847
+    id 846
     label "PENIS"
     occurrences "clicsbp-wold-Oroqen-PENIS-1"
     words "tʃ i k ə l t ə"
@@ -10176,7 +10164,7 @@ graph [
     family_count 1
   ]
   node [
-    id 848
+    id 847
     label "YAWN"
     occurrences "clicsbp-wold-Oroqen-YAWN-1"
     words "dʒ ɔ n i"
@@ -10188,7 +10176,7 @@ graph [
     family_count 1
   ]
   node [
-    id 849
+    id 848
     label "HICCOUGH"
     occurrences "clicsbp-wold-Oroqen-HICCOUGH-1"
     words "i k ə g d ə"
@@ -10200,7 +10188,7 @@ graph [
     family_count 1
   ]
   node [
-    id 850
+    id 849
     label "SNEEZE"
     occurrences "clicsbp-wold-Oroqen-SNEEZE-1"
     words "i k ʃ i n i"
@@ -10212,7 +10200,7 @@ graph [
     family_count 1
   ]
   node [
-    id 851
+    id 850
     label "SWEAT (PERSPIRE)"
     occurrences "clicsbp-wold-Oroqen-SWEATPERSPIRE-1"
     words "ɲ ɛː ʃ i n"
@@ -10224,7 +10212,7 @@ graph [
     family_count 1
   ]
   node [
-    id 852
+    id 851
     label "SPIT"
     occurrences "clicsbp-wold-Oroqen-SPIT-1//clicsbp-oskolskayatungusic-Even-SPIT-1//clicsbp-oskolskayatungusic-Negidal-SPIT-1//clicsbp-oskolskayatungusic-Oroch-SPIT-1//clicsbp-oskolskayatungusic-Orok-SPIT-1//clicsbp-oskolskayatungusic-Solon-SPIT-1//clicsbp-oskolskayatungusic-Udihe-SPIT-1//clicsbp-oskolskayatungusic-Ulcha-SPIT-1//clicsbp-oskolskayatungusic-Xibe-SPIT-1"
     words "t ʊ m ʊ n//t u m n i//t o m o n//t o p j i n//t u p i n//t ʊ m ɪ n//tʰ u n d ə//t i p u n//tɕ i v ɘ l ɘ"
@@ -10236,7 +10224,7 @@ graph [
     family_count 1
   ]
   node [
-    id 853
+    id 852
     label "VOMIT"
     occurrences "clicsbp-wold-Oroqen-VOMIT-1//clicsbp-oskolskayatungusic-Even-VOMIT-1//clicsbp-oskolskayatungusic-Even-VOMIT-2//clicsbp-oskolskayatungusic-Even-VOMIT-3//clicsbp-oskolskayatungusic-Negidal-VOMIT-1//clicsbp-oskolskayatungusic-Oroch-VOMIT-1//clicsbp-oskolskayatungusic-Orok-VOMIT-1//clicsbp-oskolskayatungusic-Solon-VOMIT-1//clicsbp-oskolskayatungusic-Udihe-VOMIT-1//clicsbp-oskolskayatungusic-Ulcha-VOMIT-1//clicsbp-oskolskayatungusic-Xibe-VOMIT-1"
     words "i ʃ ə//i s//ħ u ʕ j i ʕ r k i ʕ tʃ//ħ u ʕ j i ʕ r k i ʕ t//i s ə//i s j j ə//x u ʃ ə//i ʃ i r i//j ə̰//x u s ə//ɖʐ u r u"
@@ -10248,7 +10236,7 @@ graph [
     family_count 1
   ]
   node [
-    id 854
+    id 853
     label "SOAP"
     occurrences "clicsbp-wold-Oroqen-SOAP-2//clicsbp-wold-Oroqen-SOAP-1"
     words "i ʃ ə//ʃ i l k i ŋ k i"
@@ -10260,7 +10248,7 @@ graph [
     family_count 1
   ]
   node [
-    id 855
+    id 854
     label "DRIBBLE"
     occurrences "clicsbp-wold-Oroqen-DRIBBLE-1"
     words "tʃ ʊ r g ɪ"
@@ -10272,7 +10260,7 @@ graph [
     family_count 1
   ]
   node [
-    id 856
+    id 855
     label "DRIP (EMIT LIQUID)"
     occurrences "clicsbp-wold-Oroqen-DRIPEMITLIQUID-1"
     words "tʃ ʊ r g ɪ"
@@ -10284,7 +10272,7 @@ graph [
     family_count 1
   ]
   node [
-    id 857
+    id 856
     label "SNORE"
     occurrences "clicsbp-wold-Oroqen-SNORE-1"
     words "l ʊ k ɪ"
@@ -10296,7 +10284,7 @@ graph [
     family_count 1
   ]
   node [
-    id 858
+    id 857
     label "DREAM (SOMETHING)"
     occurrences "clicsbp-wold-Oroqen-DREAMSOMETHING-1"
     words "t ʊ l g ɪ t"
@@ -10308,7 +10296,7 @@ graph [
     family_count 1
   ]
   node [
-    id 859
+    id 858
     label "FART"
     occurrences "clicsbp-wold-Oroqen-FART-1"
     words "m u k ə l i"
@@ -10320,7 +10308,7 @@ graph [
     family_count 1
   ]
   node [
-    id 860
+    id 859
     label "PISS"
     occurrences "clicsbp-wold-Oroqen-PISS-1"
     words "tʃ i k ə n"
@@ -10332,7 +10320,7 @@ graph [
     family_count 1
   ]
   node [
-    id 861
+    id 860
     label "SHIT (DEFECATE)"
     occurrences "clicsbp-wold-Oroqen-SHITDEFECATE-1"
     words "a m ʊ n"
@@ -10344,7 +10332,7 @@ graph [
     family_count 1
   ]
   node [
-    id 862
+    id 861
     label "PREGNANT"
     occurrences "clicsbp-wold-Oroqen-PREGNANT-1"
     words "dʒ ʊ p t ɪ + ɔː tʃ a"
@@ -10356,7 +10344,7 @@ graph [
     family_count 1
   ]
   node [
-    id 863
+    id 862
     label "BURY"
     occurrences "clicsbp-wold-Oroqen-BURY-1"
     words "b ʊ l a"
@@ -10368,7 +10356,7 @@ graph [
     family_count 1
   ]
   node [
-    id 864
+    id 863
     label "BRUISE"
     occurrences "clicsbp-wold-Oroqen-BRUISE-1"
     words "k u k u r ə"
@@ -10380,7 +10368,7 @@ graph [
     family_count 1
   ]
   node [
-    id 865
+    id 864
     label "SWELLING"
     occurrences "clicsbp-wold-Oroqen-SWELLING-1"
     words "a w u l"
@@ -10392,7 +10380,7 @@ graph [
     family_count 1
   ]
   node [
-    id 866
+    id 865
     label "ITCH"
     occurrences "clicsbp-wold-Oroqen-ITCH-1"
     words "ʊ t ʊ n"
@@ -10404,7 +10392,7 @@ graph [
     family_count 1
   ]
   node [
-    id 867
+    id 866
     label "BLISTER"
     occurrences "clicsbp-wold-Oroqen-BLISTER-1"
     words "tʃ ə n b u r d ə"
@@ -10416,7 +10404,7 @@ graph [
     family_count 1
   ]
   node [
-    id 868
+    id 867
     label "BOIL (OF SKIN)"
     occurrences "clicsbp-wold-Oroqen-BOILOFSKIN-1"
     words "u k ʃ i n"
@@ -10428,7 +10416,7 @@ graph [
     family_count 1
   ]
   node [
-    id 869
+    id 868
     label "PUS"
     occurrences "clicsbp-wold-Oroqen-PUS-1//clicsbp-oskolskayatungusic-Even-PUS-1//clicsbp-oskolskayatungusic-Negidal-PUS-1//clicsbp-oskolskayatungusic-Negidal-PUS-2//clicsbp-oskolskayatungusic-Oroch-PUS-1//clicsbp-oskolskayatungusic-Orok-PUS-1//clicsbp-oskolskayatungusic-Solon-PUS-1//clicsbp-oskolskayatungusic-Udihe-PUS-1//clicsbp-oskolskayatungusic-Ulcha-PUS-1//clicsbp-oskolskayatungusic-Xibe-PUS-1"
     words "ɲ a k ʃ a//ɲ aˤː s//ɲ a k s a//ɲ a x s a//ɲ aː + k s a//n aː k s ɑ//m u n u ŋ ə//n j a + ŋ ə//ɲ eː k s a//j ɑ ŋ k"
@@ -10440,7 +10428,7 @@ graph [
     family_count 1
   ]
   node [
-    id 870
+    id 869
     label "CURE"
     occurrences "clicsbp-wold-Oroqen-CURE-1"
     words "ʊ r a"
@@ -10452,7 +10440,7 @@ graph [
     family_count 1
   ]
   node [
-    id 871
+    id 870
     label "MISS (A TARGET)"
     occurrences "clicsbp-wold-Oroqen-MISSATARGET-1"
     words "ʊ r a"
@@ -10464,7 +10452,7 @@ graph [
     family_count 1
   ]
   node [
-    id 872
+    id 871
     label "POISON"
     occurrences "clicsbp-wold-Oroqen-POISON-1"
     words "g u n tʃ u l u"
@@ -10476,7 +10464,7 @@ graph [
     family_count 1
   ]
   node [
-    id 873
+    id 872
     label "TIRED"
     occurrences "clicsbp-wold-Oroqen-TIRED-1"
     words "tʃ a ŋ g a l"
@@ -10488,7 +10476,7 @@ graph [
     family_count 1
   ]
   node [
-    id 874
+    id 873
     label "BALD"
     occurrences "clicsbp-wold-Oroqen-BALD-1"
     words "t a r a k a"
@@ -10500,7 +10488,7 @@ graph [
     family_count 1
   ]
   node [
-    id 875
+    id 874
     label "LAME"
     occurrences "clicsbp-wold-Oroqen-LAME-1"
     words "d ɔ k ɔ l ɔ n"
@@ -10512,7 +10500,7 @@ graph [
     family_count 1
   ]
   node [
-    id 876
+    id 875
     label "LIMP"
     occurrences "clicsbp-wold-Oroqen-LIMP-1"
     words "d ɔ k ɔ l ɔ n"
@@ -10524,7 +10512,7 @@ graph [
     family_count 1
   ]
   node [
-    id 877
+    id 876
     label "MUTE"
     occurrences "clicsbp-wold-Oroqen-MUTE-1//clicsbp-wold-Oroqen-MUTE-2"
     words "y aː b a//k ə l g ə"
@@ -10536,7 +10524,7 @@ graph [
     family_count 1
   ]
   node [
-    id 878
+    id 877
     label "DRUNK"
     occurrences "clicsbp-wold-Oroqen-DRUNK-1"
     words "ʃ ɔ k t ɔ"
@@ -10548,7 +10536,7 @@ graph [
     family_count 1
   ]
   node [
-    id 879
+    id 878
     label "COOKED"
     occurrences "clicsbp-wold-Oroqen-COOKED-1"
     words "i r tʃ ə"
@@ -10560,7 +10548,7 @@ graph [
     family_count 1
   ]
   node [
-    id 880
+    id 879
     label "UNRIPE"
     occurrences "clicsbp-wold-Oroqen-UNRIPE-1"
     words "ə ʃ i k i n"
@@ -10572,7 +10560,7 @@ graph [
     family_count 1
   ]
   node [
-    id 881
+    id 880
     label "ROTTEN"
     occurrences "clicsbp-wold-Oroqen-ROTTEN-1//clicsbp-oskolskayatungusic-Even-ROTTEN-1//clicsbp-oskolskayatungusic-Negidal-ROTTEN-1//clicsbp-oskolskayatungusic-Oroch-ROTTEN-1//clicsbp-oskolskayatungusic-Orok-ROTTEN-1//clicsbp-oskolskayatungusic-Solon-ROTTEN-1//clicsbp-oskolskayatungusic-Udihe-ROTTEN-1//clicsbp-oskolskayatungusic-Ulcha-ROTTEN-1//clicsbp-oskolskayatungusic-Xibe-ROTTEN-1"
     words "n u k u n tʃ a//m u n//ɲ aː//ɲ aː//n aː//m u n u//ɲ aː//ɲ eː//j ɑ"
@@ -10584,7 +10572,7 @@ graph [
     family_count 1
   ]
   node [
-    id 882
+    id 881
     label "SMOKE (INHALE)"
     occurrences "clicsbp-wold-Oroqen-SMOKEINHALE-1"
     words "u m"
@@ -10596,7 +10584,7 @@ graph [
     family_count 1
   ]
   node [
-    id 883
+    id 882
     label "SUCK"
     occurrences "clicsbp-wold-Oroqen-SUCK-1//clicsbp-oskolskayatungusic-Even-SUCK-1//clicsbp-oskolskayatungusic-Oroch-SUCK-1//clicsbp-oskolskayatungusic-Orok-SUCK-1//clicsbp-oskolskayatungusic-Solon-SUCK-1//clicsbp-oskolskayatungusic-Udihe-SUCK-1//clicsbp-oskolskayatungusic-Ulcha-SUCK-1//clicsbp-oskolskayatungusic-Xibe-SUCK-1//clicsbp-oskolskayatungusic-Xibe-SUCK-2"
     words "l ʊ p k ʊ//tʃ iː m tʃ a ʕ//ɔː tʃ i//ʃ i m i//s ɛ m ɪ//s j i m i s j i//k uː tʃ i//ɕ i m i//ɢ o ts i"
@@ -10608,7 +10596,7 @@ graph [
     family_count 1
   ]
   node [
-    id 884
+    id 883
     label "CHEW"
     occurrences "clicsbp-wold-Oroqen-CHEW-1//clicsbp-oskolskayatungusic-Even-CHEW-1//clicsbp-oskolskayatungusic-Negidal-CHEW-1//clicsbp-oskolskayatungusic-Oroch-CHEW-1//clicsbp-oskolskayatungusic-Orok-CHEW-1//clicsbp-oskolskayatungusic-Solon-CHEW-1//clicsbp-oskolskayatungusic-Udihe-CHEW-1//clicsbp-oskolskayatungusic-Ulcha-CHEW-1//clicsbp-oskolskayatungusic-Xibe-CHEW-1"
     words "ʃ ɛː//ħ iˤ aˤ//s ɛː//s ei w i//s ɛː//n a n ʊ//s a//s eː//ɲ i ɑ n i"
@@ -10620,7 +10608,7 @@ graph [
     family_count 1
   ]
   node [
-    id 885
+    id 884
     label "CHOKE"
     occurrences "clicsbp-wold-Oroqen-CHOKE-1"
     words "i k u l g ə"
@@ -10632,7 +10620,7 @@ graph [
     family_count 1
   ]
   node [
-    id 886
+    id 885
     label "ROAST OR FRY"
     occurrences "clicsbp-wold-Oroqen-ROASTORFRY-1"
     words "ʃ ɪ l a"
@@ -10644,7 +10632,7 @@ graph [
     family_count 1
   ]
   node [
-    id 887
+    id 886
     label "PAN"
     occurrences "clicsbp-wold-Oroqen-PAN-1"
     words "iː k ə"
@@ -10656,7 +10644,7 @@ graph [
     family_count 1
   ]
   node [
-    id 888
+    id 887
     label "PLATE"
     occurrences "clicsbp-wold-Oroqen-PLATE-1//clicsbp-wold-Oroqen-PLATE-2"
     words "ɪ l a//p a n"
@@ -10668,7 +10656,7 @@ graph [
     family_count 1
   ]
   node [
-    id 889
+    id 888
     label "BOWL"
     occurrences "clicsbp-wold-Oroqen-BOWL-1//clicsbp-wold-Oroqen-BOWL-2"
     words "t a n g ʊ r a//tʃ a dʒ ʊ ŋ k ʊ"
@@ -10680,7 +10668,7 @@ graph [
     family_count 1
   ]
   node [
-    id 890
+    id 889
     label "KNIFE (FOR EATING)"
     occurrences "clicsbp-wold-Oroqen-KNIFEFOREATING-1"
     words "k ɔ t ɔ"
@@ -10692,7 +10680,7 @@ graph [
     family_count 1
   ]
   node [
-    id 891
+    id 890
     label "BREAKFAST"
     occurrences "clicsbp-wold-Oroqen-BREAKFAST-1"
     words "t ɪ m a ŋ i + b ɪ l g a"
@@ -10704,7 +10692,7 @@ graph [
     family_count 1
   ]
   node [
-    id 892
+    id 891
     label "LUNCH"
     occurrences "clicsbp-wold-Oroqen-LUNCH-1"
     words "i n ə ŋ d u l i n + b ɪ l g a"
@@ -10716,7 +10704,7 @@ graph [
     family_count 1
   ]
   node [
-    id 893
+    id 892
     label "DINNER (SUPPER)"
     occurrences "clicsbp-wold-Oroqen-DINNERSUPPER-1"
     words "ʃ i k ʃ ə ŋ i + b ɪ l g a"
@@ -10728,7 +10716,7 @@ graph [
     family_count 1
   ]
   node [
-    id 894
+    id 893
     label "SIEVE OR STRAIN"
     occurrences "clicsbp-wold-Oroqen-SIEVEORSTRAIN-1//clicsbp-wold-Oroqen-SIEVEORSTRAIN-2"
     words "ʃ ə y l ə//dʒ ɔ w u l a"
@@ -10740,7 +10728,7 @@ graph [
     family_count 1
   ]
   node [
-    id 895
+    id 894
     label "MIX"
     occurrences "clicsbp-wold-Oroqen-MIX-1"
     words "ʊ r k ʊ"
@@ -10752,7 +10740,7 @@ graph [
     family_count 1
   ]
   node [
-    id 896
+    id 895
     label "DOUGH"
     occurrences "clicsbp-wold-Oroqen-DOUGH-1"
     words "oː n"
@@ -10764,7 +10752,7 @@ graph [
     family_count 1
   ]
   node [
-    id 897
+    id 896
     label "KNEAD"
     occurrences "clicsbp-wold-Oroqen-KNEAD-1"
     words "ɲ u k"
@@ -10776,7 +10764,7 @@ graph [
     family_count 1
   ]
   node [
-    id 898
+    id 897
     label "FLOUR"
     occurrences "clicsbp-wold-Oroqen-FLOUR-1"
     words "g u l i n"
@@ -10788,7 +10776,7 @@ graph [
     family_count 1
   ]
   node [
-    id 899
+    id 898
     label "GRIND"
     occurrences "clicsbp-wold-Oroqen-GRIND-1//clicsbp-wold-Oroqen-GRIND-2//clicsbp-oskolskayatungusic-Even-GRIND-1//clicsbp-oskolskayatungusic-Even-GRIND-2//clicsbp-oskolskayatungusic-Even-GRIND-3//clicsbp-oskolskayatungusic-Negidal-GRIND-1//clicsbp-oskolskayatungusic-Negidal-GRIND-2//clicsbp-oskolskayatungusic-Oroch-GRIND-1//clicsbp-oskolskayatungusic-Orok-GRIND-1//clicsbp-oskolskayatungusic-Solon-GRIND-1//clicsbp-oskolskayatungusic-Udihe-GRIND-1//clicsbp-oskolskayatungusic-Ulcha-GRIND-1//clicsbp-oskolskayatungusic-Xibe-GRIND-1"
     words "u r uː//i ŋ d əː//tʃ i l q a ʕ//t iː m r e + l//ħ u r u ŋ//n e l k a//n i l k a//tʃ i kː a//p ə k p u//iː w//ts i k a//ɲ i dʒ u r tʃ u//x u ɖʐ u r u"
@@ -10800,7 +10788,7 @@ graph [
     family_count 1
   ]
   node [
-    id 900
+    id 899
     label "MILL"
     occurrences "clicsbp-wold-Oroqen-MILL-1"
     words "i ŋ d ə ŋ k i"
@@ -10812,7 +10800,7 @@ graph [
     family_count 1
   ]
   node [
-    id 901
+    id 900
     label "VEGETABLES"
     occurrences "clicsbp-wold-Oroqen-VEGETABLES-1//clicsbp-wold-Oroqen-VEGETABLES-2"
     words "n ʊ ŋ aː//ʃ a k a n"
@@ -10824,7 +10812,7 @@ graph [
     family_count 1
   ]
   node [
-    id 902
+    id 901
     label "BEAN"
     occurrences "clicsbp-wold-Oroqen-BEAN-1"
     words "b ɔ r tʃ ɔ"
@@ -10836,7 +10824,7 @@ graph [
     family_count 1
   ]
   node [
-    id 903
+    id 902
     label "POTATO"
     occurrences "clicsbp-wold-Oroqen-POTATO-1//clicsbp-wold-Oroqen-POTATO-2"
     words "t uː d ə w//k ɔ t ɔ p k ɔ"
@@ -10848,7 +10836,7 @@ graph [
     family_count 1
   ]
   node [
-    id 904
+    id 903
     label "FRUIT"
     occurrences "clicsbp-wold-Oroqen-FRUIT-1//clicsbp-oskolskayatungusic-Even-FRUIT-1//clicsbp-oskolskayatungusic-Negidal-FRUIT-1//clicsbp-oskolskayatungusic-Negidal-FRUIT-2//clicsbp-oskolskayatungusic-Oroch-FRUIT-1//clicsbp-oskolskayatungusic-Orok-FRUIT-1//clicsbp-oskolskayatungusic-Solon-FRUIT-1//clicsbp-oskolskayatungusic-Udihe-FRUIT-1//clicsbp-oskolskayatungusic-Ulcha-FRUIT-1//clicsbp-oskolskayatungusic-Xibe-FRUIT-1"
     words "t u b i ɣ ə//t e w t e//t ə w u k t ə//t əu k t ə//g ə b ə k u//s ə d u x i//t u p i//g ə g b ə ŋ k u//a m t a q a//s u l x o"
@@ -10860,7 +10848,7 @@ graph [
     family_count 1
   ]
   node [
-    id 905
+    id 904
     label "BUNCH"
     occurrences "clicsbp-wold-Oroqen-BUNCH-1"
     words "l o ŋ b uː l i"
@@ -10872,7 +10860,7 @@ graph [
     family_count 1
   ]
   node [
-    id 906
+    id 905
     label "GRAPE"
     occurrences "clicsbp-wold-Oroqen-GRAPE-1//clicsbp-wold-Oroqen-GRAPE-2"
     words "p u t o//m ə tʃ uː"
@@ -10884,7 +10872,7 @@ graph [
     family_count 1
   ]
   node [
-    id 907
+    id 906
     label "PEPPER"
     occurrences "clicsbp-wold-Oroqen-PEPPER-1"
     words "h u dʒ a u"
@@ -10896,7 +10884,7 @@ graph [
     family_count 1
   ]
   node [
-    id 908
+    id 907
     label "CHILI PEPPER"
     occurrences "clicsbp-wold-Oroqen-CHILIPEPPER-1"
     words "tʃ i ŋ dʒ u"
@@ -10908,7 +10896,7 @@ graph [
     family_count 1
   ]
   node [
-    id 909
+    id 908
     label "SUGAR"
     occurrences "clicsbp-wold-Oroqen-SUGAR-1"
     words "ʃ a t a n"
@@ -10920,7 +10908,7 @@ graph [
     family_count 1
   ]
   node [
-    id 910
+    id 909
     label "SQUEEZE"
     occurrences "clicsbp-wold-Oroqen-SQUEEZE-1"
     words "ʃ i r"
@@ -10932,7 +10920,7 @@ graph [
     family_count 1
   ]
   node [
-    id 911
+    id 910
     label "WINE"
     occurrences "clicsbp-wold-Oroqen-WINE-1"
     words "a r a k ɪ"
@@ -10944,7 +10932,7 @@ graph [
     family_count 1
   ]
   node [
-    id 912
+    id 911
     label "YOLK"
     occurrences "clicsbp-wold-Oroqen-YOLK-1"
     words "ʊ m ʊ k t a ŋ i + ʃ ɪ ŋ a r ɪ n ɪ n"
@@ -10956,7 +10944,7 @@ graph [
     family_count 1
   ]
   node [
-    id 913
+    id 912
     label "COTTON"
     occurrences "clicsbp-wold-Oroqen-COTTON-1"
     words "k u w u n"
@@ -10968,7 +10956,7 @@ graph [
     family_count 1
   ]
   node [
-    id 914
+    id 913
     label "SPIN"
     occurrences "clicsbp-wold-Oroqen-SPIN-1//clicsbp-oskolskayatungusic-Even-SPIN-1//clicsbp-oskolskayatungusic-Negidal-SPIN-1//clicsbp-oskolskayatungusic-Oroch-SPIN-1//clicsbp-oskolskayatungusic-Orok-SPIN-1//clicsbp-oskolskayatungusic-Orok-SPIN-2//clicsbp-oskolskayatungusic-Solon-SPIN-1//clicsbp-oskolskayatungusic-Udihe-SPIN-1//clicsbp-oskolskayatungusic-Ulcha-SPIN-1//clicsbp-oskolskayatungusic-Xibe-SPIN-1"
     words "ɔ r ɔ l//t o ʕ m q a ʕ//t o m k o//t ɔ m p ɔ//t ɔ k p ɔ//m u r + r i//t ɔ ŋ ɔ n//tʰ o m p o//t o ŋ p o//f ɑ tʰ ɘ"
@@ -10980,7 +10968,7 @@ graph [
     family_count 1
   ]
   node [
-    id 915
+    id 914
     label "SPINDLE"
     occurrences "clicsbp-wold-Oroqen-SPINDLE-1"
     words "tʃ ə r g u ŋ k i"
@@ -10992,7 +10980,7 @@ graph [
     family_count 1
   ]
   node [
-    id 916
+    id 915
     label "WEAVE"
     occurrences "clicsbp-wold-Oroqen-WEAVE-1//clicsbp-oskolskayatungusic-Even-WEAVE-1//clicsbp-oskolskayatungusic-Negidal-WEAVE-1//clicsbp-oskolskayatungusic-Oroch-WEAVE-1//clicsbp-oskolskayatungusic-Orok-WEAVE-1//clicsbp-oskolskayatungusic-Solon-WEAVE-1//clicsbp-oskolskayatungusic-Udihe-WEAVE-1//clicsbp-oskolskayatungusic-Ulcha-WEAVE-1//clicsbp-oskolskayatungusic-Xibe-WEAVE-1"
     words "n ə k ə//i n ŋ e//i ɲ ŋ i//i gː u//m u r i//n ə x ə//b a g b a//m u r u//ɖʐ o d u"
@@ -11004,7 +10992,7 @@ graph [
     family_count 1
   ]
   node [
-    id 917
+    id 916
     label "BRAID (VERB) OR WEAVE (BASKET)"
     occurrences "clicsbp-wold-Oroqen-BRAIDVERBORWEAVEBASKET-1//clicsbp-wold-Oroqen-BRAIDVERBORWEAVEBASKET-2"
     words "n ə k ə//ɪ l tʃ a"
@@ -11016,7 +11004,7 @@ graph [
     family_count 1
   ]
   node [
-    id 918
+    id 917
     label "AWL"
     occurrences "clicsbp-wold-Oroqen-AWL-1"
     words "ʃ ɪ l g ʊ n"
@@ -11028,7 +11016,7 @@ graph [
     family_count 1
   ]
   node [
-    id 919
+    id 918
     label "DRESS"
     occurrences "clicsbp-wold-Oroqen-DRESS-1"
     words "tʃ a m tʃ a"
@@ -11040,7 +11028,7 @@ graph [
     family_count 1
   ]
   node [
-    id 920
+    id 919
     label "COAT"
     occurrences "clicsbp-wold-Oroqen-COAT-1//clicsbp-wold-Oroqen-COAT-2"
     words "a y a w u p t u n//g u l a m i"
@@ -11052,7 +11040,7 @@ graph [
     family_count 1
   ]
   node [
-    id 921
+    id 920
     label "SKIRT"
     occurrences "clicsbp-wold-Oroqen-SKIRT-1//clicsbp-wold-Oroqen-SKIRT-2"
     words "b u l aː dʒ i//dʒ ü n ʃ i"
@@ -11064,7 +11052,7 @@ graph [
     family_count 1
   ]
   node [
-    id 922
+    id 921
     label "STOCKING"
     occurrences "clicsbp-wold-Oroqen-STOCKING-1//clicsbp-wold-Oroqen-STOCKING-2//clicsbp-wold-Oroqen-STOCKING-3"
     words "w a ʃ a//tʃ u l k i//d ɔ k t a n"
@@ -11076,7 +11064,7 @@ graph [
     family_count 1
   ]
   node [
-    id 923
+    id 922
     label "HEADGEAR"
     occurrences "clicsbp-wold-Oroqen-HEADGEAR-1//clicsbp-wold-Oroqen-HEADGEAR-2"
     words "aː w ʊ n//m ɛ t a k a n"
@@ -11088,7 +11076,7 @@ graph [
     family_count 1
   ]
   node [
-    id 924
+    id 923
     label "GLOVE"
     occurrences "clicsbp-wold-Oroqen-GLOVE-1"
     words "p i tʃ a r g a"
@@ -11100,7 +11088,7 @@ graph [
     family_count 1
   ]
   node [
-    id 925
+    id 924
     label "POCKET"
     occurrences "clicsbp-wold-Oroqen-POCKET-1"
     words "k a r a m a n"
@@ -11112,7 +11100,7 @@ graph [
     family_count 1
   ]
   node [
-    id 926
+    id 925
     label "PIN"
     occurrences "clicsbp-wold-Oroqen-PIN-1"
     words "b y ɛ dʒ ə n"
@@ -11124,7 +11112,7 @@ graph [
     family_count 1
   ]
   node [
-    id 927
+    id 926
     label "BRACELET"
     occurrences "clicsbp-wold-Oroqen-BRACELET-1"
     words "g i l əː p t u n"
@@ -11136,7 +11124,7 @@ graph [
     family_count 1
   ]
   node [
-    id 928
+    id 927
     label "NECKLACE"
     occurrences "clicsbp-wold-Oroqen-NECKLACE-1"
     words "u d iː n"
@@ -11148,7 +11136,7 @@ graph [
     family_count 1
   ]
   node [
-    id 929
+    id 928
     label "BEAD"
     occurrences "clicsbp-wold-Oroqen-BEAD-1"
     words "tʃ ɪ k t ɪ"
@@ -11160,7 +11148,7 @@ graph [
     family_count 1
   ]
   node [
-    id 930
+    id 929
     label "EARRING"
     occurrences "clicsbp-wold-Oroqen-EARRING-1//clicsbp-wold-Oroqen-EARRING-2//clicsbp-wold-Oroqen-EARRING-3"
     words "ʃ ɛː k a n//ʃ ɛː + k a + p t ʊ n//g a r g a"
@@ -11172,7 +11160,7 @@ graph [
     family_count 1
   ]
   node [
-    id 931
+    id 930
     label "HEADBAND OR HEADDRESS"
     occurrences "clicsbp-wold-Oroqen-HEADBANDORHEADDRESS-1"
     words "d ə r b ə k i"
@@ -11184,7 +11172,7 @@ graph [
     family_count 1
   ]
   node [
-    id 932
+    id 931
     label "BRUSH"
     occurrences "clicsbp-wold-Oroqen-BRUSH-1"
     words "i k i ŋ k i"
@@ -11196,7 +11184,7 @@ graph [
     family_count 1
   ]
   node [
-    id 933
+    id 932
     label "BRAID"
     occurrences "clicsbp-wold-Oroqen-BRAID-1"
     words "ɪ l tʃ a p t ʊ n"
@@ -11208,7 +11196,7 @@ graph [
     family_count 1
   ]
   node [
-    id 934
+    id 933
     label "RAZOR"
     occurrences "clicsbp-wold-Oroqen-RAZOR-1"
     words "k a ŋ n a ŋ k i"
@@ -11220,7 +11208,7 @@ graph [
     family_count 1
   ]
   node [
-    id 935
+    id 934
     label "HUT"
     occurrences "clicsbp-wold-Oroqen-HUT-1"
     words "k u m i"
@@ -11232,7 +11220,7 @@ graph [
     family_count 1
   ]
   node [
-    id 936
+    id 935
     label "TENT"
     occurrences "clicsbp-wold-Oroqen-TENT-1"
     words "m a y k a n"
@@ -11244,7 +11232,7 @@ graph [
     family_count 1
   ]
   node [
-    id 937
+    id 936
     label "YARD"
     occurrences "clicsbp-wold-Oroqen-YARD-1"
     words "t u r g i d ɛ"
@@ -11256,7 +11244,7 @@ graph [
     family_count 1
   ]
   node [
-    id 938
+    id 937
     label "COOKHOUSE"
     occurrences "clicsbp-wold-Oroqen-COOKHOUSE-1"
     words "oː l o ŋ k i"
@@ -11268,7 +11256,7 @@ graph [
     family_count 1
   ]
   node [
-    id 939
+    id 938
     label "LATCH"
     occurrences "clicsbp-wold-Oroqen-LATCH-1"
     words "g ʊ l dʒ i ŋ k i"
@@ -11280,7 +11268,7 @@ graph [
     family_count 1
   ]
   node [
-    id 940
+    id 939
     label "KEY"
     occurrences "clicsbp-wold-Oroqen-KEY-1//clicsbp-wold-Oroqen-KEY-2//clicsbp-wold-Oroqen-KEY-3"
     words "a n a k ʊ//y a k ʃ i r g a ŋ k i//y ɔː ʃ i"
@@ -11292,7 +11280,7 @@ graph [
     family_count 1
   ]
   node [
-    id 941
+    id 940
     label "WALL (OF HOUSE)"
     occurrences "clicsbp-wold-Oroqen-WALLOFHOUSE-1"
     words "d u ʃ u"
@@ -11304,7 +11292,7 @@ graph [
     family_count 1
   ]
   node [
-    id 942
+    id 941
     label "TORCH OR LAMP"
     occurrences "clicsbp-wold-Oroqen-TORCHORLAMP-1"
     words "d ə ŋ dʒ ə n"
@@ -11316,7 +11304,7 @@ graph [
     family_count 1
   ]
   node [
-    id 943
+    id 942
     label "CANDLE"
     occurrences "clicsbp-wold-Oroqen-CANDLE-1"
     words "y a ŋ l a"
@@ -11328,7 +11316,7 @@ graph [
     family_count 1
   ]
   node [
-    id 944
+    id 943
     label "TROUGH"
     occurrences "clicsbp-wold-Oroqen-TROUGH-1"
     words "m ɔ ŋ g ɔ r ɔ"
@@ -11340,7 +11328,7 @@ graph [
     family_count 1
   ]
   node [
-    id 945
+    id 944
     label "RAFTER"
     occurrences "clicsbp-wold-Oroqen-RAFTER-1"
     words "ʃ i r a n"
@@ -11352,7 +11340,7 @@ graph [
     family_count 1
   ]
   node [
-    id 946
+    id 945
     label "BEAM"
     occurrences "clicsbp-wold-Oroqen-BEAM-1"
     words "n ɪ r ʊ"
@@ -11364,7 +11352,7 @@ graph [
     family_count 1
   ]
   node [
-    id 947
+    id 946
     label "BRICK"
     occurrences "clicsbp-wold-Oroqen-BRICK-1"
     words "ə y dʒ ə"
@@ -11376,7 +11364,7 @@ graph [
     family_count 1
   ]
   node [
-    id 948
+    id 947
     label "FARMER"
     occurrences "clicsbp-wold-Oroqen-FARMER-1"
     words "t a r g a n tʃ ɛ n"
@@ -11388,7 +11376,7 @@ graph [
     family_count 1
   ]
   node [
-    id 949
+    id 948
     label "FIELD"
     occurrences "clicsbp-wold-Oroqen-FIELD-1"
     words "t a r g a n"
@@ -11400,7 +11388,7 @@ graph [
     family_count 1
   ]
   node [
-    id 950
+    id 949
     label "LIE DOWN"
     occurrences "clicsbp-wold-Oroqen-LIEDOWN-1//clicsbp-oskolskayatungusic-Even-LIEDOWN-1//clicsbp-oskolskayatungusic-Negidal-LIEDOWN-1//clicsbp-oskolskayatungusic-Negidal-LIEDOWN-2//clicsbp-oskolskayatungusic-Negidal-LIEDOWN-3//clicsbp-oskolskayatungusic-Negidal-LIEDOWN-4//clicsbp-oskolskayatungusic-Oroch-LIEDOWN-1//clicsbp-oskolskayatungusic-Orok-LIEDOWN-1//clicsbp-oskolskayatungusic-Orok-LIEDOWN-2//clicsbp-oskolskayatungusic-Orok-LIEDOWN-3//clicsbp-oskolskayatungusic-Solon-LIEDOWN-1//clicsbp-oskolskayatungusic-Udihe-LIEDOWN-1//clicsbp-oskolskayatungusic-Udihe-LIEDOWN-2//clicsbp-oskolskayatungusic-Ulcha-LIEDOWN-1//clicsbp-oskolskayatungusic-Ulcha-LIEDOWN-2//clicsbp-oskolskayatungusic-Xibe-LIEDOWN-1"
     words "u l əː//d e s tʃ i//x u g l ə//x u g l ə//x u k l ɵː//x u k l əː//aː//ɑ q p ɑ n//ɑ p aː tʃ i//t o + r ɔː//x u l ə//k ə p t ə//k ə p t ə + g j i//a w o//ao//d u d u"
@@ -11412,7 +11400,7 @@ graph [
     family_count 1
   ]
   node [
-    id 951
+    id 950
     label "HOE"
     occurrences "clicsbp-wold-Oroqen-HOE-1//clicsbp-wold-Oroqen-HOE-2"
     words "tʃ u t o//tʃ a p tʃ ɪ k ʊ"
@@ -11424,7 +11412,7 @@ graph [
     family_count 1
   ]
   node [
-    id 952
+    id 951
     label "RAKE"
     occurrences "clicsbp-wold-Oroqen-RAKE-1"
     words "m a l t a ŋ k i"
@@ -11436,7 +11424,7 @@ graph [
     family_count 1
   ]
   node [
-    id 953
+    id 952
     label "SOW SEEDS"
     occurrences "clicsbp-wold-Oroqen-SOWSEEDS-1"
     words "t a r"
@@ -11448,7 +11436,7 @@ graph [
     family_count 1
   ]
   node [
-    id 954
+    id 953
     label "PLANT (SOMETHING)"
     occurrences "clicsbp-wold-Oroqen-PLANTSOMETHING-1"
     words "t a r"
@@ -11460,7 +11448,7 @@ graph [
     family_count 1
   ]
   node [
-    id 955
+    id 954
     label "MOW"
     occurrences "clicsbp-wold-Oroqen-MOW-1"
     words "k a k"
@@ -11472,7 +11460,7 @@ graph [
     family_count 1
   ]
   node [
-    id 956
+    id 955
     label "SICKLE OR SCYTHE"
     occurrences "clicsbp-wold-Oroqen-SICKLEORSCYTHE-1//clicsbp-wold-Oroqen-SICKLEORSCYTHE-2//clicsbp-wold-Oroqen-SICKLEORSCYTHE-3"
     words "k a d ɪ w ʊ n//k a d + u r//ʃ a n d + ʊ r"
@@ -11484,7 +11472,7 @@ graph [
     family_count 1
   ]
   node [
-    id 957
+    id 956
     label "THRESH"
     occurrences "clicsbp-wold-Oroqen-THRESH-1"
     words "d a tʃ a ŋ n"
@@ -11496,7 +11484,7 @@ graph [
     family_count 1
   ]
   node [
-    id 958
+    id 957
     label "WHEAT"
     occurrences "clicsbp-wold-Oroqen-WHEAT-1"
     words "m ə y ʃ ə"
@@ -11508,7 +11496,7 @@ graph [
     family_count 1
   ]
   node [
-    id 959
+    id 958
     label "MAIZE"
     occurrences "clicsbp-wold-Oroqen-MAIZE-1"
     words "ʃ ʊ ʃ aː m ʊ"
@@ -11520,7 +11508,7 @@ graph [
     family_count 1
   ]
   node [
-    id 960
+    id 959
     label "RICE"
     occurrences "clicsbp-wold-Oroqen-RICE-1"
     words "k a n d u"
@@ -11532,7 +11520,7 @@ graph [
     family_count 1
   ]
   node [
-    id 961
+    id 960
     label "BRANCH OR TWIG"
     occurrences "clicsbp-wold-Oroqen-BRANCHORTWIG-1"
     words "g a r a"
@@ -11544,7 +11532,7 @@ graph [
     family_count 1
   ]
   node [
-    id 962
+    id 961
     label "FORKED BRANCH"
     occurrences "clicsbp-wold-Oroqen-FORKEDBRANCH-1"
     words "g a r a"
@@ -11556,7 +11544,7 @@ graph [
     family_count 1
   ]
   node [
-    id 963
+    id 962
     label "TOBACCO"
     occurrences "clicsbp-wold-Oroqen-TOBACCO-1"
     words "d a m g a"
@@ -11568,7 +11556,7 @@ graph [
     family_count 1
   ]
   node [
-    id 964
+    id 963
     label "PIPE"
     occurrences "clicsbp-wold-Oroqen-PIPE-1"
     words "d a y r i"
@@ -11580,7 +11568,7 @@ graph [
     family_count 1
   ]
   node [
-    id 965
+    id 964
     label "TREE STUMP"
     occurrences "clicsbp-wold-Oroqen-TREESTUMP-1"
     words "m u g d ə k ə n"
@@ -11592,7 +11580,7 @@ graph [
     family_count 1
   ]
   node [
-    id 966
+    id 965
     label "SAP"
     occurrences "clicsbp-wold-Oroqen-SAP-1//clicsbp-wold-Oroqen-SAP-2"
     words "ʃ u k ʃ ə//d ɪ l k ʊ k ʃ a"
@@ -11604,7 +11592,7 @@ graph [
     family_count 1
   ]
   node [
-    id 967
+    id 966
     label "PUMPKIN"
     occurrences "clicsbp-wold-Oroqen-PUMPKIN-1"
     words "w ɔ g w ɔ"
@@ -11616,7 +11604,7 @@ graph [
     family_count 1
   ]
   node [
-    id 968
+    id 967
     label "BAMBOO"
     occurrences "clicsbp-wold-Oroqen-BAMBOO-1"
     words "ʃ u ʃ ə"
@@ -11628,7 +11616,7 @@ graph [
     family_count 1
   ]
   node [
-    id 969
+    id 968
     label "BEND"
     occurrences "clicsbp-wold-Oroqen-BEND-1"
     words "m ʊ k tʃ i l i"
@@ -11640,7 +11628,7 @@ graph [
     family_count 1
   ]
   node [
-    id 970
+    id 969
     label "FOLD"
     occurrences "clicsbp-wold-Oroqen-FOLD-1"
     words "ə b g ə"
@@ -11652,7 +11640,7 @@ graph [
     family_count 1
   ]
   node [
-    id 971
+    id 970
     label "UNTIE"
     occurrences "clicsbp-wold-Oroqen-UNTIE-1"
     words "u y i r g ə"
@@ -11664,7 +11652,7 @@ graph [
     family_count 1
   ]
   node [
-    id 972
+    id 971
     label "CHAIN"
     occurrences "clicsbp-wold-Oroqen-CHAIN-1"
     words "k u y i r g i n"
@@ -11676,7 +11664,7 @@ graph [
     family_count 1
   ]
   node [
-    id 973
+    id 972
     label "ROPE"
     occurrences "clicsbp-wold-Oroqen-ROPE-1//clicsbp-wold-Oroqen-ROPE-2//clicsbp-oskolskayatungusic-Even-ROPE-1//clicsbp-oskolskayatungusic-Negidal-ROPE-1//clicsbp-oskolskayatungusic-Oroch-ROPE-1//clicsbp-oskolskayatungusic-Oroch-ROPE-2//clicsbp-oskolskayatungusic-Orok-ROPE-1//clicsbp-oskolskayatungusic-Orok-ROPE-2//clicsbp-oskolskayatungusic-Solon-ROPE-1//clicsbp-oskolskayatungusic-Solon-ROPE-2//clicsbp-oskolskayatungusic-Solon-ROPE-3//clicsbp-oskolskayatungusic-Udihe-ROPE-1//clicsbp-oskolskayatungusic-Ulcha-ROPE-1//clicsbp-oskolskayatungusic-Xibe-ROPE-1"
     words "u ʃ i k ə n//ʊ r k ʊ n//u s i//u s iː//s o m n a//u g d ə//χ ɔ r q ɔ//x əː + k ə//ʊ kː ʊ ŋ//u ʃ iː l ə ŋ//iː d u r//x uː//x o r k o//f ɘ tʰ ɑ"
@@ -11688,7 +11676,7 @@ graph [
     family_count 1
   ]
   node [
-    id 974
+    id 973
     label "STRIKE OR BEAT"
     occurrences "clicsbp-wold-Oroqen-STRIKEORBEAT-1"
     words "m ʊ n d aː"
@@ -11700,7 +11688,7 @@ graph [
     family_count 1
   ]
   node [
-    id 975
+    id 974
     label "POUND"
     occurrences "clicsbp-wold-Oroqen-POUND-1//clicsbp-wold-Oroqen-POUND-2"
     words "n ʊ r g a//t ə r u n d u"
@@ -11712,7 +11700,7 @@ graph [
     family_count 1
   ]
   node [
-    id 976
+    id 975
     label "CUT DOWN"
     occurrences "clicsbp-wold-Oroqen-CUTDOWN-1"
     words "ʊː ŋ n ɪ"
@@ -11724,7 +11712,7 @@ graph [
     family_count 1
   ]
   node [
-    id 977
+    id 976
     label "CHOP"
     occurrences "clicsbp-wold-Oroqen-CHOP-1"
     words "tʃ a p tʃ ɪ"
@@ -11736,7 +11724,7 @@ graph [
     family_count 1
   ]
   node [
-    id 978
+    id 977
     label "STAB TO DEATH"
     occurrences "clicsbp-wold-Oroqen-STABTODEATH-1"
     words "g ɪ d a l aː"
@@ -11748,7 +11736,7 @@ graph [
     family_count 1
   ]
   node [
-    id 979
+    id 978
     label "SHEARS"
     occurrences "clicsbp-wold-Oroqen-SHEARS-1"
     words "k a y tʃ i"
@@ -11760,7 +11748,7 @@ graph [
     family_count 1
   ]
   node [
-    id 980
+    id 979
     label "AXE"
     occurrences "clicsbp-wold-Oroqen-AXE-1"
     words "s u k ə"
@@ -11772,7 +11760,7 @@ graph [
     family_count 1
   ]
   node [
-    id 981
+    id 980
     label "ADZE"
     occurrences "clicsbp-wold-Oroqen-ADZE-1"
     words "s u k ə tʃ ɛ n"
@@ -11784,7 +11772,7 @@ graph [
     family_count 1
   ]
   node [
-    id 982
+    id 981
     label "SPLIT"
     occurrences "clicsbp-wold-Oroqen-SPLIT-1"
     words "iː w əː"
@@ -11796,7 +11784,7 @@ graph [
     family_count 1
   ]
   node [
-    id 983
+    id 982
     label "PULL OFF (SKIN)"
     occurrences "clicsbp-wold-Oroqen-PULLOFFSKIN-1"
     words "t ə r g ə"
@@ -11808,7 +11796,7 @@ graph [
     family_count 1
   ]
   node [
-    id 984
+    id 983
     label "STRETCH"
     occurrences "clicsbp-wold-Oroqen-STRETCH-1"
     words "ʃ ʊː n"
@@ -11820,7 +11808,7 @@ graph [
     family_count 1
   ]
   node [
-    id 985
+    id 984
     label "TOOL"
     occurrences "clicsbp-wold-Oroqen-TOOL-1"
     words "a w ʊ r a"
@@ -11832,7 +11820,7 @@ graph [
     family_count 1
   ]
   node [
-    id 986
+    id 985
     label "CARPENTER"
     occurrences "clicsbp-wold-Oroqen-CARPENTER-1"
     words "m ʊ dʒ a n"
@@ -11844,7 +11832,7 @@ graph [
     family_count 1
   ]
   node [
-    id 987
+    id 986
     label "BORE"
     occurrences "clicsbp-wold-Oroqen-BORE-1"
     words "ʃ ɪ l g ʊ"
@@ -11856,7 +11844,7 @@ graph [
     family_count 1
   ]
   node [
-    id 988
+    id 987
     label "HOLLOW OUT"
     occurrences "clicsbp-wold-Oroqen-HOLLOWOUT-1"
     words "k ə ŋ g u r g ə"
@@ -11868,7 +11856,7 @@ graph [
     family_count 1
   ]
   node [
-    id 989
+    id 988
     label "SAW"
     occurrences "clicsbp-wold-Oroqen-SAW-1"
     words "uː n"
@@ -11880,7 +11868,7 @@ graph [
     family_count 1
   ]
   node [
-    id 990
+    id 989
     label "HAMMER"
     occurrences "clicsbp-wold-Oroqen-HAMMER-1"
     words "a l k a tʃ a n"
@@ -11892,7 +11880,7 @@ graph [
     family_count 1
   ]
   node [
-    id 991
+    id 990
     label "BLACKSMITH"
     occurrences "clicsbp-wold-Oroqen-BLACKSMITH-1"
     words "m u dʒ a n"
@@ -11904,7 +11892,7 @@ graph [
     family_count 1
   ]
   node [
-    id 992
+    id 991
     label "COPPER"
     occurrences "clicsbp-wold-Oroqen-COPPER-1"
     words "g ɛː y i n"
@@ -11916,7 +11904,7 @@ graph [
     family_count 1
   ]
   node [
-    id 993
+    id 992
     label "LEAD (CHEMICAL ELEMENT)"
     occurrences "clicsbp-wold-Oroqen-LEADCHEMICALELEMENT-1"
     words "t ʊ dʒ a"
@@ -11928,7 +11916,7 @@ graph [
     family_count 1
   ]
   node [
-    id 994
+    id 993
     label "BOTTLE"
     occurrences "clicsbp-wold-Oroqen-BOTTLE-2//clicsbp-wold-Oroqen-BOTTLE-1"
     words "g uː//b u t y ɛ r k ə"
@@ -11940,7 +11928,7 @@ graph [
     family_count 1
   ]
   node [
-    id 995
+    id 994
     label "BASKET"
     occurrences "clicsbp-wold-Oroqen-BASKET-1"
     words "k w a ŋ"
@@ -11952,7 +11940,7 @@ graph [
     family_count 1
   ]
   node [
-    id 996
+    id 995
     label "MAT"
     occurrences "clicsbp-wold-Oroqen-MAT-1"
     words "ʃ ə k t ə w u n"
@@ -11964,7 +11952,7 @@ graph [
     family_count 1
   ]
   node [
-    id 997
+    id 996
     label "NETBAG"
     occurrences "clicsbp-wold-Oroqen-NETBAG-1"
     words "k a r i"
@@ -11976,7 +11964,7 @@ graph [
     family_count 1
   ]
   node [
-    id 998
+    id 997
     label "FAN (OBJECT)"
     occurrences "clicsbp-wold-Oroqen-FANOBJECT-1"
     words "d ə r g u ŋ k i"
@@ -11988,7 +11976,7 @@ graph [
     family_count 1
   ]
   node [
-    id 999
+    id 998
     label "FAN (ACTION)"
     occurrences "clicsbp-wold-Oroqen-FANACTION-1"
     words "d ə r g u"
@@ -12000,7 +11988,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1000
+    id 999
     label "MOVE"
     occurrences "clicsbp-wold-Oroqen-MOVE-1"
     words "k u r b u"
@@ -12012,7 +12000,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1001
+    id 1000
     label "TURN AROUND"
     occurrences "clicsbp-wold-Oroqen-TURNAROUND-1"
     words "m u tʃ u"
@@ -12024,7 +12012,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1002
+    id 1001
     label "ROLL"
     occurrences "clicsbp-wold-Oroqen-ROLL-1"
     words "u k ə l"
@@ -12036,7 +12024,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1003
+    id 1002
     label "TWIST (AROUND)"
     occurrences "clicsbp-wold-Oroqen-TWISTAROUND-1"
     words "m u r k iː"
@@ -12048,7 +12036,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1004
+    id 1003
     label "FLOAT"
     occurrences "clicsbp-wold-Oroqen-FLOAT-1"
     words "k ə p əː n"
@@ -12060,7 +12048,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1005
+    id 1004
     label "CRAWL OR CREEP"
     occurrences "clicsbp-wold-Oroqen-CRAWLORCREEP-1"
     words "m i r k i"
@@ -12072,7 +12060,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1006
+    id 1005
     label "KNEEL"
     occurrences "clicsbp-wold-Oroqen-KNEEL-1"
     words "ə ŋː ə m t ə"
@@ -12084,7 +12072,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1007
+    id 1006
     label "CROUCH"
     occurrences "clicsbp-wold-Oroqen-CROUCH-1"
     words "m ə k tʃ əː n"
@@ -12096,7 +12084,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1008
+    id 1007
     label "SLIP"
     occurrences "clicsbp-wold-Oroqen-SLIP-1//clicsbp-wold-Oroqen-SLIP-2"
     words "ʃ i r u n//b a l d a"
@@ -12108,7 +12096,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1009
+    id 1008
     label "GO UP (ASCEND)"
     occurrences "clicsbp-wold-Oroqen-GOUPASCEND-1"
     words "t u k t i"
@@ -12120,7 +12108,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1010
+    id 1009
     label "GO DOWN (DESCEND)"
     occurrences "clicsbp-wold-Oroqen-GODOWNDESCEND-1"
     words "ə w u"
@@ -12132,7 +12120,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1011
+    id 1010
     label "GO OUT"
     occurrences "clicsbp-wold-Oroqen-GOOUT-1"
     words "y uː"
@@ -12144,7 +12132,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1012
+    id 1011
     label "FOLLOW"
     occurrences "clicsbp-wold-Oroqen-FOLLOW-1"
     words "a ŋ i"
@@ -12156,7 +12144,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1013
+    id 1012
     label "PURSUE"
     occurrences "clicsbp-wold-Oroqen-PURSUE-1"
     words "ɲ a m ɲ a"
@@ -12168,7 +12156,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1014
+    id 1013
     label "CARRY IN HAND"
     occurrences "clicsbp-wold-Oroqen-CARRYINHAND-1"
     words "ŋ aː l"
@@ -12180,7 +12168,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1015
+    id 1014
     label "CARRY ON SHOULDER"
     occurrences "clicsbp-wold-Oroqen-CARRYONSHOULDER-1"
     words "ʊ w a"
@@ -12192,7 +12180,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1016
+    id 1015
     label "CARRY UNDER ARM"
     occurrences "clicsbp-wold-Oroqen-CARRYUNDERARM-1"
     words "k a p tʃ ɪː"
@@ -12204,7 +12192,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1017
+    id 1016
     label "RIDE"
     occurrences "clicsbp-wold-Oroqen-RIDE-1"
     words "ʊ g"
@@ -12216,7 +12204,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1018
+    id 1017
     label "CART"
     occurrences "clicsbp-wold-Oroqen-CART-1"
     words "t ə r g ə n"
@@ -12228,7 +12216,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1019
+    id 1018
     label "WHEEL"
     occurrences "clicsbp-wold-Oroqen-WHEEL-1"
     words "k u r d u"
@@ -12240,7 +12228,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1020
+    id 1019
     label "YOKE"
     occurrences "clicsbp-wold-Oroqen-YOKE-1"
     words "a r a l"
@@ -12252,7 +12240,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1021
+    id 1020
     label "SHIP"
     occurrences "clicsbp-wold-Oroqen-SHIP-1"
     words "p ɔ r ɔ k ɔ ʃ"
@@ -12264,7 +12252,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1022
+    id 1021
     label "RAFT"
     occurrences "clicsbp-wold-Oroqen-RAFT-1"
     words "t ə m"
@@ -12276,7 +12264,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1023
+    id 1022
     label "PADDLE"
     occurrences "clicsbp-wold-Oroqen-PADDLE-1"
     words "k a r b ɪ"
@@ -12288,7 +12276,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1024
+    id 1023
     label "LAND (DESCEND)"
     occurrences "clicsbp-wold-Oroqen-LANDDESCEND-1"
     words "d ɔː"
@@ -12300,7 +12288,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1025
+    id 1024
     label "HAVE"
     occurrences "clicsbp-wold-Oroqen-HAVE-1"
     words "b i"
@@ -12312,7 +12300,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1026
+    id 1025
     label "BE"
     occurrences "clicsbp-wold-Oroqen-BE-1"
     words "b i"
@@ -12324,7 +12312,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1027
+    id 1026
     label "GIVE BACK"
     occurrences "clicsbp-wold-Oroqen-GIVEBACK-1//clicsbp-wold-Oroqen-GIVEBACK-2"
     words "b u r g i//t a m a"
@@ -12336,7 +12324,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1028
+    id 1027
     label "LET GO OR SET FREE"
     occurrences "clicsbp-wold-Oroqen-LETGOORSETFREE-1"
     words "n ɔː d aː"
@@ -12348,7 +12336,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1029
+    id 1028
     label "COIN"
     occurrences "clicsbp-wold-Oroqen-COIN-1"
     words "t o ŋ z ə r"
@@ -12360,7 +12348,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1030
+    id 1029
     label "BEGGAR"
     occurrences "clicsbp-wold-Oroqen-BEGGAR-1"
     words "g ɪ y a t ʊ"
@@ -12372,7 +12360,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1031
+    id 1030
     label "LEND"
     occurrences "clicsbp-wold-Oroqen-LEND-1//clicsbp-wold-Oroqen-LEND-2"
     words "ɪ l d ʊ//a k ʃ ʊ"
@@ -12384,7 +12372,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1032
+    id 1031
     label "BORROW"
     occurrences "clicsbp-wold-Oroqen-BORROW-1//clicsbp-wold-Oroqen-BORROW-2"
     words "ɪ l d u m a//a k ʃ ʊ m a"
@@ -12396,7 +12384,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1033
+    id 1032
     label "OWE"
     occurrences "clicsbp-wold-Oroqen-OWE-1"
     words "u l g ɛ ŋ"
@@ -12408,7 +12396,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1034
+    id 1033
     label "DEBT"
     occurrences "clicsbp-wold-Oroqen-DEBT-1"
     words "u l g ɛ"
@@ -12420,7 +12408,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1035
+    id 1034
     label "TRADE OR BARTER"
     occurrences "clicsbp-wold-Oroqen-TRADEORBARTER-1"
     words "dʒ ɔː t"
@@ -12432,7 +12420,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1036
+    id 1035
     label "MERCHANT"
     occurrences "clicsbp-wold-Oroqen-MERCHANT-1"
     words "m a y m a l a r i"
@@ -12444,7 +12432,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1037
+    id 1036
     label "MARKET"
     occurrences "clicsbp-wold-Oroqen-MARKET-1"
     words "m a y m a n"
@@ -12456,7 +12444,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1038
+    id 1037
     label "STORE"
     occurrences "clicsbp-wold-Oroqen-STORE-1"
     words "m a y m a n"
@@ -12468,7 +12456,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1039
+    id 1038
     label "DIFFICULT"
     occurrences "clicsbp-wold-Oroqen-DIFFICULT-1"
     words "m a n i"
@@ -12480,7 +12468,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1040
+    id 1039
     label "SHARE"
     occurrences "clicsbp-wold-Oroqen-SHARE-1"
     words "ʊ k tʃ a"
@@ -12492,7 +12480,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1041
+    id 1040
     label "WEIGH"
     occurrences "clicsbp-wold-Oroqen-WEIGH-1//clicsbp-wold-Oroqen-WEIGH-2"
     words "g i ŋ n a//d ə ŋ ʃ ə l əː"
@@ -12504,7 +12492,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1042
+    id 1041
     label "AFTER"
     occurrences "clicsbp-wold-Oroqen-AFTER-1"
     words "a m a l a n"
@@ -12516,7 +12504,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1043
+    id 1042
     label "BESIDE"
     occurrences "clicsbp-wold-Oroqen-BESIDE-1"
     words "t ɔː g i d aː l i n"
@@ -12528,7 +12516,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1044
+    id 1043
     label "INSIDE"
     occurrences "clicsbp-wold-Oroqen-INSIDE-1"
     words "d ɔː l aː"
@@ -12540,7 +12528,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1045
+    id 1044
     label "OUTSIDE"
     occurrences "clicsbp-wold-Oroqen-OUTSIDE-1"
     words "t u lː ə"
@@ -12552,7 +12540,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1046
+    id 1045
     label "PUT"
     occurrences "clicsbp-wold-Oroqen-PUT-1"
     words "n əː"
@@ -12564,7 +12552,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1047
+    id 1046
     label "REMAINS"
     occurrences "clicsbp-wold-Oroqen-REMAINS-1"
     words "u l ə p dʒ a n"
@@ -12576,7 +12564,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1048
+    id 1047
     label "PILE UP"
     occurrences "clicsbp-wold-Oroqen-PILEUP-1"
     words "ʊ r ʊː"
@@ -12588,7 +12576,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1049
+    id 1048
     label "TALL"
     occurrences "clicsbp-wold-Oroqen-TALL-1//clicsbp-oskolskayatungusic-Even-TALL-1//clicsbp-oskolskayatungusic-Even-TALL-2//clicsbp-oskolskayatungusic-Negidal-TALL-1//clicsbp-oskolskayatungusic-Oroch-TALL-1//clicsbp-oskolskayatungusic-Orok-TALL-1//clicsbp-oskolskayatungusic-Solon-TALL-1//clicsbp-oskolskayatungusic-Udihe-TALL-1//clicsbp-oskolskayatungusic-Ulcha-TALL-1//clicsbp-oskolskayatungusic-Xibe-TALL-1"
     words "g ʊ g d a//g uː d//g uː t//g o g d a//g o g d a//g u g d ɑ//g ʊ dː a//g u g d a//g o g d a//d ɘ n"
@@ -12600,7 +12588,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1050
+    id 1049
     label "TOP"
     occurrences "clicsbp-wold-Oroqen-TOP-1"
     words "ɔ r ɔ n"
@@ -12612,7 +12600,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1051
+    id 1050
     label "BOTTOM"
     occurrences "clicsbp-wold-Oroqen-BOTTOM-1//clicsbp-oskolskayatungusic-Even-BOTTOM-1//clicsbp-oskolskayatungusic-Negidal-BOTTOM-1//clicsbp-oskolskayatungusic-Oroch-BOTTOM-1//clicsbp-oskolskayatungusic-Orok-BOTTOM-1//clicsbp-oskolskayatungusic-Solon-BOTTOM-1//clicsbp-oskolskayatungusic-Udihe-BOTTOM-1//clicsbp-oskolskayatungusic-Ulcha-BOTTOM-1//clicsbp-oskolskayatungusic-Xibe-BOTTOM-1"
     words "ə r g i l əː//ħ e r//x ə j ə//x əː//p ə r ə//ə r//x ə//p ə r ə//f ɑ tʰ ɘ n"
@@ -12624,7 +12612,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1052
+    id 1051
     label "FATHOM"
     occurrences "clicsbp-wold-Oroqen-FATHOM-1"
     words "d aː r"
@@ -12636,7 +12624,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1053
+    id 1052
     label "DEEP"
     occurrences "clicsbp-wold-Oroqen-DEEP-1//clicsbp-oskolskayatungusic-Even-DEEP-1//clicsbp-oskolskayatungusic-Negidal-DEEP-1//clicsbp-oskolskayatungusic-Oroch-DEEP-1//clicsbp-oskolskayatungusic-Orok-DEEP-1//clicsbp-oskolskayatungusic-Solon-DEEP-1//clicsbp-oskolskayatungusic-Udihe-DEEP-1//clicsbp-oskolskayatungusic-Ulcha-DEEP-1//clicsbp-oskolskayatungusic-Xibe-DEEP-1"
     words "ʃ ʊ ŋ t a//ħ uː n t a ʕ//s o ŋ t a//s o ŋ t a//ʃ u k t ɑ//s ʊ n t//s u ŋ t a//s o ŋ t a//ɕ j m i n"
@@ -12648,7 +12636,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1054
+    id 1053
     label "SHALLOW"
     occurrences "clicsbp-wold-Oroqen-SHALLOW-1"
     words "a r b a"
@@ -12660,7 +12648,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1055
+    id 1054
     label "STRAIGHT"
     occurrences "clicsbp-wold-Oroqen-STRAIGHT-1//clicsbp-oskolskayatungusic-Even-STRAIGHT-1//clicsbp-oskolskayatungusic-Even-STRAIGHT-2//clicsbp-oskolskayatungusic-Negidal-STRAIGHT-1//clicsbp-oskolskayatungusic-Oroch-STRAIGHT-1//clicsbp-oskolskayatungusic-Orok-STRAIGHT-1//clicsbp-oskolskayatungusic-Solon-STRAIGHT-1//clicsbp-oskolskayatungusic-Udihe-STRAIGHT-1//clicsbp-oskolskayatungusic-Ulcha-STRAIGHT-1//clicsbp-oskolskayatungusic-Xibe-STRAIGHT-1"
     words "tʃ i tʃ u r//ŋ uː n//tʃ oː r g u t i//t o ŋ n o//t ɔ ŋ n ɔ//t ɔ ŋ d ɔ//t ɔ n d ɔ x ʊ ŋ//t o ŋ d o//t o ŋ d o//tʰ o n d o q u n"
@@ -12672,7 +12660,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1056
+    id 1055
     label "CROOKED"
     occurrences "clicsbp-wold-Oroqen-CROOKED-1"
     words "m u k tʃ i k a"
@@ -12684,7 +12672,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1057
+    id 1056
     label "SQUARE"
     occurrences "clicsbp-wold-Oroqen-SQUARE-1"
     words "d u r b ə l dʒ i n"
@@ -12696,7 +12684,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1058
+    id 1057
     label "BALL"
     occurrences "clicsbp-wold-Oroqen-BALL-1//clicsbp-wold-Oroqen-BALL-2"
     words "t ɛ n b u k ə n//tʃ u l"
@@ -12708,7 +12696,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1059
+    id 1058
     label "SIMILAR"
     occurrences "clicsbp-wold-Oroqen-SIMILAR-1"
     words "ŋ ə tʃ i n"
@@ -12720,7 +12708,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1060
+    id 1059
     label "FIFTEEN"
     occurrences "clicsbp-wold-Oroqen-FIFTEEN-1"
     words "dʒ aː n + t ʊ ɲ a"
@@ -12732,7 +12720,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1061
+    id 1060
     label "MANY"
     occurrences "clicsbp-wold-Oroqen-MANY-1//clicsbp-oskolskayatungusic-Even-MANY-1//clicsbp-oskolskayatungusic-Even-MANY-2//clicsbp-oskolskayatungusic-Even-MANY-3//clicsbp-oskolskayatungusic-Negidal-MANY-1//clicsbp-oskolskayatungusic-Oroch-MANY-1//clicsbp-oskolskayatungusic-Orok-MANY-1//clicsbp-oskolskayatungusic-Solon-MANY-1//clicsbp-oskolskayatungusic-Udihe-MANY-1//clicsbp-oskolskayatungusic-Ulcha-MANY-1//clicsbp-oskolskayatungusic-Xibe-MANY-1"
     words "b a r aː n//oː q i ʕ + d a ʕ//ħ oː j a ʕ tʃ//tʃ e w j e w//ə g d i//ə g d i//b ɑ r ɑ//b a r a ŋ//ə g d i//ə g d i//l ɑ v d o"
@@ -12744,7 +12732,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1062
+    id 1061
     label "MORE"
     occurrences "clicsbp-wold-Oroqen-MORE-1"
     words "m ʊ t ɪ m a n + b a r aː n"
@@ -12756,7 +12744,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1063
+    id 1062
     label "FEW"
     occurrences "clicsbp-wold-Oroqen-FEW-1"
     words "a tʃ ʊ k ʊ n"
@@ -12768,7 +12756,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1064
+    id 1063
     label "ENOUGH"
     occurrences "clicsbp-wold-Oroqen-ENOUGH-1"
     words "ɪ ʃː a"
@@ -12780,7 +12768,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1065
+    id 1064
     label "SOME"
     occurrences "clicsbp-wold-Oroqen-SOME-1"
     words "a d ɪː"
@@ -12792,7 +12780,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1066
+    id 1065
     label "PAIR"
     occurrences "clicsbp-wold-Oroqen-PAIR-1"
     words "t əː r i"
@@ -12804,7 +12792,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1067
+    id 1066
     label "TWICE"
     occurrences "clicsbp-wold-Oroqen-TWICE-1"
     words "dʒ uː rː ə"
@@ -12816,7 +12804,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1068
+    id 1067
     label "THREE TIMES"
     occurrences "clicsbp-wold-Oroqen-THREETIMES-1"
     words "ɪ l a r a"
@@ -12828,7 +12816,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1069
+    id 1068
     label "EARLY"
     occurrences "clicsbp-wold-Oroqen-EARLY-1"
     words "ə r d ə"
@@ -12840,7 +12828,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1070
+    id 1069
     label "LATE"
     occurrences "clicsbp-wold-Oroqen-LATE-1"
     words "d ɪ l d a"
@@ -12852,7 +12840,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1071
+    id 1070
     label "FAST"
     occurrences "clicsbp-wold-Oroqen-FAST-1"
     words "d ɪ y a r dʒ i"
@@ -12864,7 +12852,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1072
+    id 1071
     label "SLOW"
     occurrences "clicsbp-wold-Oroqen-SLOW-1"
     words "ə l k ə"
@@ -12876,7 +12864,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1073
+    id 1072
     label "BE LATE"
     occurrences "clicsbp-wold-Oroqen-BELATE-1"
     words "d ɪ l d a tʃ a"
@@ -12888,7 +12876,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1074
+    id 1073
     label "DAY (24 HOURS)"
     occurrences "clicsbp-wold-Oroqen-DAY24HOURS-1"
     words "i n ə ŋ"
@@ -12900,7 +12888,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1075
+    id 1074
     label "DAWN"
     occurrences "clicsbp-wold-Oroqen-DAWN-1"
     words "i n ə r tʃ ə"
@@ -12912,7 +12900,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1076
+    id 1075
     label "AFTERNOON"
     occurrences "clicsbp-wold-Oroqen-AFTERNOON-1"
     words "i n ə ŋ + d u l i n + n u k tʃ i tʃ ə"
@@ -12924,7 +12912,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1077
+    id 1076
     label "DAY AFTER TOMORROW"
     occurrences "clicsbp-wold-Oroqen-DAYAFTERTOMORROW-1"
     words "t ɪ m aː n a + tʃ a w ʊ d ʊ"
@@ -12936,7 +12924,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1078
+    id 1077
     label "DAY BEFORE YESTERDAY"
     occurrences "clicsbp-wold-Oroqen-DAYBEFOREYESTERDAY-1"
     words "t iː n ə w ə + tʃ a w ʊ d ʊ"
@@ -12948,7 +12936,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1079
+    id 1078
     label "HOUR"
     occurrences "clicsbp-wold-Oroqen-HOUR-1"
     words "tʃ a ʃ"
@@ -12960,7 +12948,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1080
+    id 1079
     label "SNIFF"
     occurrences "clicsbp-wold-Oroqen-SNIFF-1"
     words "ŋ ɔ k t a"
@@ -12972,7 +12960,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1081
+    id 1080
     label "FRAGRANT"
     occurrences "clicsbp-wold-Oroqen-FRAGRANT-1"
     words "a y a + w aː tʃ ɪ"
@@ -12984,7 +12972,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1082
+    id 1081
     label "STINKING"
     occurrences "clicsbp-wold-Oroqen-STINKING-1"
     words "n ʊ k ʊ m ʊ n a n"
@@ -12996,7 +12984,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1083
+    id 1082
     label "SALTY"
     occurrences "clicsbp-wold-Oroqen-SALTY-1"
     words "w a r g i"
@@ -13008,7 +12996,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1084
+    id 1083
     label "LOUD"
     occurrences "clicsbp-wold-Oroqen-LOUD-1"
     words "d ɪ l g a n + ə g d ɪ ŋ ə"
@@ -13020,7 +13008,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1085
+    id 1084
     label "QUIET"
     occurrences "clicsbp-wold-Oroqen-QUIET-1"
     words "ʃ iː p"
@@ -13032,7 +13020,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1086
+    id 1085
     label "BE SILENT"
     occurrences "clicsbp-wold-Oroqen-BESILENT-1"
     words "ʃ iː p"
@@ -13044,7 +13032,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1087
+    id 1086
     label "COLOR"
     occurrences "clicsbp-wold-Oroqen-COLOR-1//clicsbp-wold-Oroqen-COLOR-2"
     words "b u tʃ u//dʒ i ʃ u"
@@ -13056,7 +13044,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1088
+    id 1087
     label "PINCH"
     occurrences "clicsbp-wold-Oroqen-PINCH-1"
     words "p ʊ tʃ a"
@@ -13068,7 +13056,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1089
+    id 1088
     label "FEEL"
     occurrences "clicsbp-wold-Oroqen-FEEL-1"
     words "t ə m i"
@@ -13080,7 +13068,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1090
+    id 1089
     label "ROUGH"
     occurrences "clicsbp-wold-Oroqen-ROUGH-1"
     words "l əː r i n"
@@ -13092,7 +13080,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1091
+    id 1090
     label "LIGHT (WEIGHT)"
     occurrences "clicsbp-wold-Oroqen-LIGHTWEIGHT-1"
     words "ə y ə m k u n"
@@ -13104,7 +13092,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1092
+    id 1091
     label "SOUL"
     occurrences "clicsbp-wold-Oroqen-SOUL-1//clicsbp-wold-Oroqen-SOUL-2"
     words "ʃ u n u ʃ u//ʃ u ʃ iː"
@@ -13116,7 +13104,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1093
+    id 1092
     label "SURPRISED"
     occurrences "clicsbp-wold-Oroqen-SURPRISED-1"
     words "a l a w ʊ k ɛ"
@@ -13128,7 +13116,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1094
+    id 1093
     label "GOOD LUCK"
     occurrences "clicsbp-wold-Oroqen-GOODLUCK-1"
     words "a y a + p ə t ə tʃ i"
@@ -13140,7 +13128,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1095
+    id 1094
     label "HAPPY"
     occurrences "clicsbp-wold-Oroqen-HAPPY-1"
     words "u r u n"
@@ -13152,7 +13140,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1096
+    id 1095
     label "SMILE"
     occurrences "clicsbp-wold-Oroqen-SMILE-1"
     words "i ɲ ə"
@@ -13164,7 +13152,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1097
+    id 1096
     label "EMBRACE"
     occurrences "clicsbp-wold-Oroqen-EMBRACE-1"
     words "k uː m n ə"
@@ -13176,7 +13164,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1098
+    id 1097
     label "HATE"
     occurrences "clicsbp-wold-Oroqen-HATE-1"
     words "t ɪ k ʊː n"
@@ -13188,7 +13176,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1099
+    id 1098
     label "BRAVE"
     occurrences "clicsbp-wold-Oroqen-BRAVE-1"
     words "k a t a n"
@@ -13200,7 +13188,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1100
+    id 1099
     label "LIE (MISLEAD)"
     occurrences "clicsbp-wold-Oroqen-LIEMISLEAD-1"
     words "o l oː k i t"
@@ -13212,7 +13200,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1101
+    id 1100
     label "FORGIVE"
     occurrences "clicsbp-wold-Oroqen-FORGIVE-1"
     words "a n a b ʊ"
@@ -13224,7 +13212,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1102
+    id 1101
     label "WRONG"
     occurrences "clicsbp-wold-Oroqen-WRONG-1"
     words "t a ʃ i r a tʃ a"
@@ -13236,7 +13224,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1103
+    id 1102
     label "PRAISE"
     occurrences "clicsbp-wold-Oroqen-PRAISE-1"
     words "b eː w y a ŋ"
@@ -13248,7 +13236,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1104
+    id 1103
     label "UGLY"
     occurrences "clicsbp-wold-Oroqen-UGLY-1"
     words "ə r u + d u r u tʃ i"
@@ -13260,7 +13248,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1105
+    id 1104
     label "GUESS"
     occurrences "clicsbp-wold-Oroqen-GUESS-1"
     words "ʃ aː w u k a n a n"
@@ -13272,7 +13260,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1106
+    id 1105
     label "ANNOUNCE"
     occurrences "clicsbp-wold-Oroqen-ANNOUNCE-1"
     words "ʃ aː w u k a n a n"
@@ -13284,7 +13272,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1107
+    id 1106
     label "IMITATE"
     occurrences "clicsbp-wold-Oroqen-IMITATE-1"
     words "a l a m a"
@@ -13296,7 +13284,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1108
+    id 1107
     label "IDEA"
     occurrences "clicsbp-wold-Oroqen-IDEA-1"
     words "b ɔ d ɔ l g ɔ"
@@ -13308,7 +13296,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1109
+    id 1108
     label "WISE"
     occurrences "clicsbp-wold-Oroqen-WISE-1"
     words "ʃ aː r i"
@@ -13320,7 +13308,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1110
+    id 1109
     label "MAD"
     occurrences "clicsbp-wold-Oroqen-MAD-1"
     words "b ə l tʃ ə"
@@ -13332,7 +13320,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1111
+    id 1110
     label "STUDY"
     occurrences "clicsbp-wold-Oroqen-STUDY-1"
     words "t u l əː"
@@ -13344,7 +13332,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1112
+    id 1111
     label "PUPIL (STUDENT)"
     occurrences "clicsbp-wold-Oroqen-PUPILSTUDENT-1"
     words "t u r ə r i + k ɔː k a n"
@@ -13356,7 +13344,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1113
+    id 1112
     label "SCHOOL"
     occurrences "clicsbp-wold-Oroqen-SCHOOL-1//clicsbp-wold-Oroqen-SCHOOL-2"
     words "t u r ə ŋ k i//s u y t a n"
@@ -13368,7 +13356,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1114
+    id 1113
     label "CLEAR"
     occurrences "clicsbp-wold-Oroqen-CLEAR-1"
     words "g u r u p t ə n"
@@ -13380,7 +13368,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1115
+    id 1114
     label "OBSCURE"
     occurrences "clicsbp-wold-Oroqen-OBSCURE-1"
     words "ə ʃ i n + g u r u p t ə"
@@ -13392,7 +13380,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1116
+    id 1115
     label "CERTAIN"
     occurrences "clicsbp-wold-Oroqen-CERTAIN-1"
     words "t ə dʒ ə"
@@ -13404,7 +13392,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1117
+    id 1116
     label "BECAUSE"
     occurrences "clicsbp-wold-Oroqen-BECAUSE-1"
     words "dʒ aː l i n"
@@ -13416,7 +13404,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1118
+    id 1117
     label "YES"
     occurrences "clicsbp-wold-Oroqen-YES-1"
     words "m ə t ə r"
@@ -13428,7 +13416,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1119
+    id 1118
     label "NO"
     occurrences "clicsbp-wold-Oroqen-NO-1"
     words "ə"
@@ -13440,7 +13428,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1120
+    id 1119
     label "HOW MANY PIECES"
     occurrences "clicsbp-wold-Oroqen-HOWMANYPIECES-1"
     words "ɔː k i"
@@ -13452,7 +13440,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1121
+    id 1120
     label "HOW MUCH"
     occurrences "clicsbp-wold-Oroqen-HOWMUCH-1"
     words "ɔː k i"
@@ -13464,7 +13452,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1122
+    id 1121
     label "WHEN"
     occurrences "clicsbp-wold-Oroqen-WHEN-1//clicsbp-oskolskayatungusic-Even-WHEN-1//clicsbp-oskolskayatungusic-Negidal-WHEN-1//clicsbp-oskolskayatungusic-Negidal-WHEN-2//clicsbp-oskolskayatungusic-Oroch-WHEN-1//clicsbp-oskolskayatungusic-Orok-WHEN-1//clicsbp-oskolskayatungusic-Solon-WHEN-1//clicsbp-oskolskayatungusic-Udihe-WHEN-1//clicsbp-oskolskayatungusic-Ulcha-WHEN-1//clicsbp-oskolskayatungusic-Xibe-WHEN-1"
     words "a l ɪ//oː q//oː k i n//oː x i n//aː l j i//χ aː l i//aː l//a l j i//χ aː l e//ɛ tʰ i ŋ"
@@ -13476,7 +13464,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1123
+    id 1122
     label "WHICH"
     occurrences "clicsbp-wold-Oroqen-WHICH-1//clicsbp-oskolskayatungusic-Even-WHICH-1//clicsbp-oskolskayatungusic-Even-WHICH-2//clicsbp-oskolskayatungusic-Even-WHICH-3//clicsbp-oskolskayatungusic-Even-WHICH-4//clicsbp-oskolskayatungusic-Negidal-WHICH-1//clicsbp-oskolskayatungusic-Negidal-WHICH-2//clicsbp-oskolskayatungusic-Negidal-WHICH-3//clicsbp-oskolskayatungusic-Negidal-WHICH-4//clicsbp-oskolskayatungusic-Negidal-WHICH-5//clicsbp-oskolskayatungusic-Oroch-WHICH-1//clicsbp-oskolskayatungusic-Orok-WHICH-1//clicsbp-oskolskayatungusic-Orok-WHICH-2//clicsbp-oskolskayatungusic-Solon-WHICH-1//clicsbp-oskolskayatungusic-Solon-WHICH-2//clicsbp-oskolskayatungusic-Udihe-WHICH-1//clicsbp-oskolskayatungusic-Ulcha-WHICH-1//clicsbp-oskolskayatungusic-Ulcha-WHICH-2//clicsbp-oskolskayatungusic-Xibe-WHICH-1//clicsbp-oskolskayatungusic-Xibe-WHICH-2"
     words "i r i//i aˤ q a ʕ wː u ʕ//a ʕ wː u ʕ w//a ʕ w u ʕ w//i r e k//ɛː m a//a wː u//a w g u//au//a w g a w u//j aː o//χ aː w u//χ ɑ u w u//i jː ə//iː r//o n o β j i//χ a m a t a//χ aː w o//ɑ i//j ɑ"
@@ -13488,7 +13476,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1124
+    id 1123
     label "WHISPER"
     occurrences "clicsbp-wold-Oroqen-WHISPER-1"
     words "ʃ oː d a"
@@ -13500,7 +13488,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1125
+    id 1124
     label "STUTTER"
     occurrences "clicsbp-wold-Oroqen-STUTTER-1"
     words "k ə l ə k ə r dʒ əː"
@@ -13512,7 +13500,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1126
+    id 1125
     label "ANSWER"
     occurrences "clicsbp-wold-Oroqen-ANSWER-1//clicsbp-wold-Oroqen-ANSWER-2"
     words "dʒ a r ɪ w l a//k a r ɪ w l aː"
@@ -13524,7 +13512,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1127
+    id 1126
     label "SCOLD"
     occurrences "clicsbp-wold-Oroqen-SCOLD-1"
     words "t u r əː"
@@ -13536,7 +13524,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1128
+    id 1127
     label "THREATEN"
     occurrences "clicsbp-wold-Oroqen-THREATEN-1"
     words "k a l d ɪ"
@@ -13548,7 +13536,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1129
+    id 1128
     label "PAPER"
     occurrences "clicsbp-wold-Oroqen-PAPER-1"
     words "tʃ aː ʃ ʊ n"
@@ -13560,7 +13548,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1130
+    id 1129
     label "PEN"
     occurrences "clicsbp-wold-Oroqen-PEN-1//clicsbp-wold-Oroqen-PEN-2"
     words "g a m b i//k ɛ r ə n d ɛ r"
@@ -13572,7 +13560,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1131
+    id 1130
     label "BRASS INSTRUMENT (HORN OR TRUMPET)"
     occurrences "clicsbp-wold-Oroqen-BRASSINSTRUMENTHORNORTRUMPET-1"
     words "w u l əː w u n"
@@ -13584,7 +13572,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1132
+    id 1131
     label "CLAN"
     occurrences "clicsbp-wold-Oroqen-CLAN-1"
     words "u l i r ə n"
@@ -13596,7 +13584,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1133
+    id 1132
     label "CHIEFTAIN"
     occurrences "clicsbp-wold-Oroqen-CHIEFTAIN-1"
     words "dʒ a ŋ g i n"
@@ -13608,7 +13596,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1134
+    id 1133
     label "WALKING STICK"
     occurrences "clicsbp-wold-Oroqen-WALKINGSTICK-1"
     words "t əː w u n"
@@ -13620,7 +13608,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1135
+    id 1134
     label "MASTER"
     occurrences "clicsbp-wold-Oroqen-MASTER-1"
     words "ə dʒ ə n"
@@ -13632,7 +13620,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1136
+    id 1135
     label "SLAVE"
     occurrences "clicsbp-wold-Oroqen-SLAVE-1"
     words "ɔ r b ɔ n i k"
@@ -13644,7 +13632,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1137
+    id 1136
     label "SERVANT"
     occurrences "clicsbp-wold-Oroqen-SERVANT-1"
     words "t a k ʊ r a tʃ ɪ n"
@@ -13656,7 +13644,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1138
+    id 1137
     label "NEIGHBOUR"
     occurrences "clicsbp-wold-Oroqen-NEIGHBOUR-1"
     words "d a r ɪ l t a"
@@ -13668,7 +13656,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1139
+    id 1138
     label "STRANGER"
     occurrences "clicsbp-wold-Oroqen-STRANGER-1"
     words "a ʃ ɪ + t a k t ɪ + b ə y ə"
@@ -13680,7 +13668,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1140
+    id 1139
     label "HOST"
     occurrences "clicsbp-wold-Oroqen-HOST-1"
     words "ə dʒ ə n + b ə y ə"
@@ -13692,7 +13680,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1141
+    id 1140
     label "HELP"
     occurrences "clicsbp-wold-Oroqen-HELP-1"
     words "b ə r ə"
@@ -13704,7 +13692,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1142
+    id 1141
     label "CUSTOM"
     occurrences "clicsbp-wold-Oroqen-CUSTOM-1"
     words "i t i"
@@ -13716,7 +13704,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1143
+    id 1142
     label "QUARREL"
     occurrences "clicsbp-wold-Oroqen-QUARREL-1"
     words "t u r əː m ə t ə k"
@@ -13728,7 +13716,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1144
+    id 1143
     label "PROSTITUTE"
     occurrences "clicsbp-wold-Oroqen-PROSTITUTE-1"
     words "g iː k ə"
@@ -13740,7 +13728,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1145
+    id 1144
     label "FIGHT"
     occurrences "clicsbp-wold-Oroqen-FIGHT-1//clicsbp-oskolskayatungusic-Even-FIGHT-1//clicsbp-oskolskayatungusic-Even-FIGHT-2//clicsbp-oskolskayatungusic-Even-FIGHT-3//clicsbp-oskolskayatungusic-Negidal-FIGHT-1//clicsbp-oskolskayatungusic-Negidal-FIGHT-2//clicsbp-oskolskayatungusic-Oroch-FIGHT-1//clicsbp-oskolskayatungusic-Orok-FIGHT-1//clicsbp-oskolskayatungusic-Orok-FIGHT-2//clicsbp-oskolskayatungusic-Orok-FIGHT-3//clicsbp-oskolskayatungusic-Solon-FIGHT-1//clicsbp-oskolskayatungusic-Udihe-FIGHT-1//clicsbp-oskolskayatungusic-Ulcha-FIGHT-1//clicsbp-oskolskayatungusic-Ulcha-FIGHT-2//clicsbp-oskolskayatungusic-Ulcha-FIGHT-3//clicsbp-oskolskayatungusic-Ulcha-FIGHT-4//clicsbp-oskolskayatungusic-Ulcha-FIGHT-5//clicsbp-oskolskayatungusic-Xibe-FIGHT-1//clicsbp-oskolskayatungusic-Xibe-FIGHT-2"
     words "w aː l d ɪ//d i ʕ l m a ʕ tʃ//d i ʕ l m a ʕ t//k u s i//m o t tʃ a n//k u s iː//ŋ ɔː tʃ i//ŋ ɔː + t ɔ//m ɔː + t ɔ//s ɔ r i//t ə n ʃ i//w a l j i//w aː l e//w aː tʃ a//s o r j e//s o r o//d e l m a tʃ o//tʰ ɑ n d ɘ//tʰ ɑ n d u + l ɖʐ u"
@@ -13752,7 +13740,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1146
+    id 1145
     label "BATTLE"
     occurrences "clicsbp-wold-Oroqen-BATTLE-1"
     words "w aː l d ɪ n"
@@ -13764,7 +13752,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1147
+    id 1146
     label "PEACE"
     occurrences "clicsbp-wold-Oroqen-PEACE-1"
     words "t a y p i n"
@@ -13776,7 +13764,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1148
+    id 1147
     label "ARMY"
     occurrences "clicsbp-wold-Oroqen-ARMY-1"
     words "a l b a n"
@@ -13788,7 +13776,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1149
+    id 1148
     label "SOLDIER"
     occurrences "clicsbp-wold-Oroqen-SOLDIER-1"
     words "tʃ u w a + b ə y ə"
@@ -13800,7 +13788,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1150
+    id 1149
     label "WEAPONS"
     occurrences "clicsbp-wold-Oroqen-WEAPONS-1"
     words "w u k ə"
@@ -13812,7 +13800,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1151
+    id 1150
     label "SPEAR"
     occurrences "clicsbp-wold-Oroqen-SPEAR-1"
     words "g ɪ d a"
@@ -13824,7 +13812,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1152
+    id 1151
     label "SWORD"
     occurrences "clicsbp-wold-Oroqen-SWORD-1"
     words "ʃ ə l ə m i"
@@ -13836,7 +13824,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1153
+    id 1152
     label "SHIELD"
     occurrences "clicsbp-wold-Oroqen-SHIELD-1"
     words "a k ʊː ŋ k i"
@@ -13848,7 +13836,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1154
+    id 1153
     label "RETREAT"
     occurrences "clicsbp-wold-Oroqen-RETREAT-1"
     words "m ʊ tʃ ʊ"
@@ -13860,7 +13848,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1155
+    id 1154
     label "GUARD"
     occurrences "clicsbp-wold-Oroqen-GUARD-1"
     words "k a r a w ʊ r ɪ"
@@ -13872,7 +13860,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1156
+    id 1155
     label "FISHERMAN"
     occurrences "clicsbp-wold-Oroqen-FISHERMAN-1"
     words "ɔ l ɔ m ɪ r ɪ"
@@ -13884,7 +13872,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1157
+    id 1156
     label "FISHHOOK"
     occurrences "clicsbp-wold-Oroqen-FISHHOOK-1"
     words "u m ə k ɛ n"
@@ -13896,7 +13884,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1158
+    id 1157
     label "FISHING LINE"
     occurrences "clicsbp-wold-Oroqen-FISHINGLINE-1"
     words "u m ə k ɛ n ŋ i + ʃ i r ə k t ə"
@@ -13908,7 +13896,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1159
+    id 1158
     label "FISHNET"
     occurrences "clicsbp-wold-Oroqen-FISHNET-1"
     words "a d ɪ l"
@@ -13920,7 +13908,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1160
+    id 1159
     label "BAIT"
     occurrences "clicsbp-wold-Oroqen-BAIT-1"
     words "dʒ ə b t u l u k ɛ"
@@ -13932,7 +13920,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1161
+    id 1160
     label "TRAP (CATCH)"
     occurrences "clicsbp-wold-Oroqen-TRAPCATCH-1"
     words "k a p tʃ ɪ"
@@ -13944,7 +13932,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1162
+    id 1161
     label "PRISON"
     occurrences "clicsbp-wold-Oroqen-PRISON-1"
     words "b a l i k a"
@@ -13956,7 +13944,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1163
+    id 1162
     label "THIEF"
     occurrences "clicsbp-wold-Oroqen-THIEF-1"
     words "k ʊ l a k a"
@@ -13968,7 +13956,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1164
+    id 1163
     label "SACRIFICE"
     occurrences "clicsbp-wold-Oroqen-SACRIFICE-1"
     words "b a y t ɪ l a p t ɪ n"
@@ -13980,7 +13968,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1165
+    id 1164
     label "WORSHIP"
     occurrences "clicsbp-wold-Oroqen-WORSHIP-1"
     words "m u r g u"
@@ -13992,7 +13980,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1166
+    id 1165
     label "PRAY"
     occurrences "clicsbp-wold-Oroqen-PRAY-1"
     words "a m ŋ a t"
@@ -14004,7 +13992,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1167
+    id 1166
     label "CURSE"
     occurrences "clicsbp-wold-Oroqen-CURSE-1"
     words "k a r a"
@@ -14016,7 +14004,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1168
+    id 1167
     label "HELL"
     occurrences "clicsbp-wold-Oroqen-HELL-1"
     words "i m o ŋ k a n"
@@ -14028,7 +14016,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1169
+    id 1168
     label "DEMON"
     occurrences "clicsbp-wold-Oroqen-DEMON-1"
     words "ʃ i r k u l"
@@ -14040,7 +14028,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1170
+    id 1169
     label "GHOST"
     occurrences "clicsbp-wold-Oroqen-GHOST-1"
     words "ʃ i r k u l"
@@ -14052,7 +14040,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1171
+    id 1170
     label "SAME"
     occurrences "clicsbp-wold-Oroqen-SAME-1//clicsbp-wold-Oroqen-SAME-2"
     words "u m u n + n a n d a r//u m u n + d u r u + tʃ i"
@@ -14064,7 +14052,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1172
+    id 1171
     label "DIGGING STICK"
     occurrences "clicsbp-wold-Oroqen-DIGGINGSTICK-1"
     words "m u k ə r ə"
@@ -14076,7 +14064,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1173
+    id 1172
     label "TICK"
     occurrences "clicsbp-wold-Oroqen-TICK-1"
     words "k u ŋ k əː"
@@ -14088,7 +14076,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1174
+    id 1173
     label "MILLET"
     occurrences "clicsbp-wold-Oroqen-MILLET-1//clicsbp-wold-Oroqen-MILLET-2//clicsbp-wold-Oroqen-MILLET-3"
     words "n a l ɛ m ʊː//ʃ i dʒ i m y ə//g a w l eː n"
@@ -14100,7 +14088,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1175
+    id 1174
     label "ABOVE"
     occurrences "clicsbp-wold-Oroqen-ABOVE-1//clicsbp-oskolskayatungusic-Even-ABOVE-1//clicsbp-oskolskayatungusic-Even-ABOVE-2//clicsbp-oskolskayatungusic-Negidal-ABOVE-1//clicsbp-oskolskayatungusic-Negidal-ABOVE-2//clicsbp-oskolskayatungusic-Negidal-ABOVE-3//clicsbp-oskolskayatungusic-Negidal-ABOVE-4//clicsbp-oskolskayatungusic-Oroch-ABOVE-1//clicsbp-oskolskayatungusic-Orok-ABOVE-1//clicsbp-oskolskayatungusic-Solon-ABOVE-1//clicsbp-oskolskayatungusic-Udihe-ABOVE-1//clicsbp-oskolskayatungusic-Ulcha-ABOVE-1//clicsbp-oskolskayatungusic-Xibe-ABOVE-1"
     words "u y i l əː//o j d e d u//o j d e d e//u g w i d ɵː//u g w i d əː//u g w i d ɵː g d ə//u g w i d əː g d ə//u j ə dʒ i + l ə//u wː ɛː//u ɣ i l ə//x o//u j//n u ŋ ɕ i"
@@ -14112,7 +14100,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1176
+    id 1175
     label "SCRATCH"
     occurrences "clicsbp-wold-Oroqen-SCRATCH-1//clicsbp-oskolskayatungusic-Even-SCRATCH-1//clicsbp-oskolskayatungusic-Negidal-SCRATCH-1//clicsbp-oskolskayatungusic-Oroch-SCRATCH-1//clicsbp-oskolskayatungusic-Orok-SCRATCH-1//clicsbp-oskolskayatungusic-Solon-SCRATCH-1//clicsbp-oskolskayatungusic-Udihe-SCRATCH-1//clicsbp-oskolskayatungusic-Ulcha-SCRATCH-1//clicsbp-oskolskayatungusic-Xibe-SCRATCH-1"
     words "ʊ k ɪː//o ʕ s i//o s iː//x u t u ɲ i s j i//χ ɔ ʃ i//ʃ iː//w ai//x o s a tʃ o//s o d u"
@@ -14124,7 +14112,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1177
+    id 1176
     label "DO OR MAKE"
     occurrences "clicsbp-oskolskayatungusic-Even-DOORMAKE-1//clicsbp-oskolskayatungusic-Negidal-DOORMAKE-1//clicsbp-oskolskayatungusic-Oroch-DOORMAKE-1//clicsbp-oskolskayatungusic-Orok-DOORMAKE-1//clicsbp-oskolskayatungusic-Orok-DOORMAKE-2//clicsbp-oskolskayatungusic-Solon-DOORMAKE-1//clicsbp-oskolskayatungusic-Udihe-DOORMAKE-1//clicsbp-oskolskayatungusic-Ulcha-DOORMAKE-1//clicsbp-oskolskayatungusic-Ulcha-DOORMAKE-2//clicsbp-oskolskayatungusic-Xibe-DOORMAKE-1"
     words "oː//oː//ɔː//t ɔ//ɑ n d u//ɔː//oː//t a//a n dʒ o//ɑ r ɘ"
@@ -14136,7 +14124,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1178
+    id 1177
     label "BEAT"
     occurrences "clicsbp-oskolskayatungusic-Even-BEAT-1//clicsbp-oskolskayatungusic-Even-BEAT-2//clicsbp-oskolskayatungusic-Even-BEAT-3//clicsbp-oskolskayatungusic-Even-BEAT-4//clicsbp-oskolskayatungusic-Even-BEAT-5//clicsbp-oskolskayatungusic-Negidal-BEAT-1//clicsbp-oskolskayatungusic-Oroch-BEAT-1//clicsbp-oskolskayatungusic-Orok-BEAT-1//clicsbp-oskolskayatungusic-Solon-BEAT-1//clicsbp-oskolskayatungusic-Udihe-BEAT-1//clicsbp-oskolskayatungusic-Ulcha-BEAT-1//clicsbp-oskolskayatungusic-Xibe-BEAT-1"
     words "p a ʕ t u ʕ l//d u w//d u g//b a ʕ ɣ a ʕ q//j e t//d u k t ə//p aː t i + n d a//d u x i n//m ʊ n d a//d u k t ə//p aː t e l a//tʰ ɑ n d ɘ"
@@ -14148,7 +14136,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1179
+    id 1178
     label "BURN"
     occurrences "clicsbp-oskolskayatungusic-Even-BURN-1//clicsbp-oskolskayatungusic-Negidal-BURN-1//clicsbp-oskolskayatungusic-Oroch-BURN-1//clicsbp-oskolskayatungusic-Orok-BURN-1//clicsbp-oskolskayatungusic-Solon-BURN-1//clicsbp-oskolskayatungusic-Solon-BURN-2//clicsbp-oskolskayatungusic-Udihe-BURN-1//clicsbp-oskolskayatungusic-Ulcha-BURN-1//clicsbp-oskolskayatungusic-Xibe-BURN-1"
     words "d u r//dʒ ə g d ə//dʒ ə g d ə//d ə g d ə//dʒ ə x d iː//l u gː i//dz ə g d ə//dʒ ə g d ə//ʈʂ h ɑ r ɘ"
@@ -14160,19 +14148,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1180
-    label "OLD (USED)"
-    occurrences "clicsbp-oskolskayatungusic-Even-OLDUSED-1//clicsbp-oskolskayatungusic-Even-OLDUSED-2//clicsbp-oskolskayatungusic-Negidal-OLDUSED-1//clicsbp-oskolskayatungusic-Negidal-OLDUSED-2//clicsbp-oskolskayatungusic-Oroch-OLDUSED-1//clicsbp-oskolskayatungusic-Orok-OLDUSED-1//clicsbp-oskolskayatungusic-Solon-OLDUSED-1//clicsbp-oskolskayatungusic-Udihe-OLDUSED-1//clicsbp-oskolskayatungusic-Ulcha-OLDUSED-1//clicsbp-oskolskayatungusic-Ulcha-OLDUSED-2//clicsbp-oskolskayatungusic-Xibe-OLDUSED-1"
-    words "u t e//i r b e t//g o j o p t i//oː x i p t i//ai n aː p t i//ɢ ɔ r ɔ p tʃ i//i r ə tː i//a n a p t i//g o r o + p t e//b a l a + p t e//f ɘ"
-    varieties "clicsbp-oskolskayatungusic-Even//clicsbp-oskolskayatungusic-Even//clicsbp-oskolskayatungusic-Negidal//clicsbp-oskolskayatungusic-Negidal//clicsbp-oskolskayatungusic-Oroch//clicsbp-oskolskayatungusic-Orok//clicsbp-oskolskayatungusic-Solon//clicsbp-oskolskayatungusic-Udihe//clicsbp-oskolskayatungusic-Ulcha//clicsbp-oskolskayatungusic-Ulcha//clicsbp-oskolskayatungusic-Xibe"
-    languages "even1260//even1260//negi1245//negi1245//oroc1248//orok1265//solo1263//udih1248//ulch1241//ulch1241//xibe1242"
-    families "Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic//Tungusic"
-    language_count 8
-    variety_count 8
-    family_count 1
-  ]
-  node [
-    id 1181
+    id 1179
     label "IN"
     occurrences "clicsbp-oskolskayatungusic-Even-IN-1//clicsbp-oskolskayatungusic-Even-IN-2//clicsbp-oskolskayatungusic-Even-IN-3//clicsbp-oskolskayatungusic-Even-IN-4//clicsbp-oskolskayatungusic-Negidal-IN-1//clicsbp-oskolskayatungusic-Negidal-IN-2//clicsbp-oskolskayatungusic-Oroch-IN-1//clicsbp-oskolskayatungusic-Oroch-IN-2//clicsbp-oskolskayatungusic-Orok-IN-1//clicsbp-oskolskayatungusic-Orok-IN-2//clicsbp-oskolskayatungusic-Solon-IN-1//clicsbp-oskolskayatungusic-Solon-IN-2//clicsbp-oskolskayatungusic-Udihe-IN-1//clicsbp-oskolskayatungusic-Ulcha-IN-1//clicsbp-oskolskayatungusic-Ulcha-IN-2//clicsbp-oskolskayatungusic-Xibe-IN-1"
     words "d u ʕ//d u//t u ʕ//t u//d uː//t uː//d ɔ//d u//d ɔ//d u//d ʊ//d u//d u//d o//d u//d"
@@ -14184,7 +14160,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1182
+    id 1180
     label "AT"
     occurrences "clicsbp-oskolskayatungusic-Even-AT-1//clicsbp-oskolskayatungusic-Even-AT-2//clicsbp-oskolskayatungusic-Even-AT-3//clicsbp-oskolskayatungusic-Even-AT-4//clicsbp-oskolskayatungusic-Negidal-AT-1//clicsbp-oskolskayatungusic-Negidal-AT-2//clicsbp-oskolskayatungusic-Oroch-AT-1//clicsbp-oskolskayatungusic-Orok-AT-1//clicsbp-oskolskayatungusic-Orok-AT-2//clicsbp-oskolskayatungusic-Solon-AT-1//clicsbp-oskolskayatungusic-Solon-AT-2//clicsbp-oskolskayatungusic-Udihe-AT-1//clicsbp-oskolskayatungusic-Ulcha-AT-1//clicsbp-oskolskayatungusic-Ulcha-AT-2//clicsbp-oskolskayatungusic-Xibe-AT-1"
     words "d u ʕ//d u//t u ʕ//t u//d uː//t uː//d u//d ɔ//d u//d ʊ l aː//d u l əː//d u//d o//d u//d"
@@ -14196,7 +14172,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1183
+    id 1181
     label "THIN"
     occurrences "clicsbp-oskolskayatungusic-Even-THIN-1//clicsbp-oskolskayatungusic-Even-THIN-2//clicsbp-oskolskayatungusic-Even-THIN-3//clicsbp-oskolskayatungusic-Negidal-THIN-1//clicsbp-oskolskayatungusic-Oroch-THIN-1//clicsbp-oskolskayatungusic-Orok-THIN-1//clicsbp-oskolskayatungusic-Solon-THIN-1//clicsbp-oskolskayatungusic-Solon-THIN-2//clicsbp-oskolskayatungusic-Udihe-THIN-1//clicsbp-oskolskayatungusic-Ulcha-THIN-1//clicsbp-oskolskayatungusic-Xibe-THIN-1"
     words "n e m k u n//k iˤ aˤ ŋ a ʕ s//ħ i l u m k u n//n ə m k uː n//n ə m n ə//n ə m d ə//n ə nː ə//s a j a x ʊ//n ə m ə ts ə̰//n ə m j i//n i ŋ kʰ i n"
@@ -14208,7 +14184,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1184
+    id 1182
     label "SMELL"
     occurrences "clicsbp-oskolskayatungusic-Even-SMELL-1//clicsbp-oskolskayatungusic-Even-SMELL-2//clicsbp-oskolskayatungusic-Even-SMELL-3//clicsbp-oskolskayatungusic-Negidal-SMELL-1//clicsbp-oskolskayatungusic-Negidal-SMELL-2//clicsbp-oskolskayatungusic-Negidal-SMELL-3//clicsbp-oskolskayatungusic-Negidal-SMELL-4//clicsbp-oskolskayatungusic-Oroch-SMELL-1//clicsbp-oskolskayatungusic-Orok-SMELL-1//clicsbp-oskolskayatungusic-Solon-SMELL-1//clicsbp-oskolskayatungusic-Udihe-SMELL-1//clicsbp-oskolskayatungusic-Ulcha-SMELL-1//clicsbp-oskolskayatungusic-Xibe-SMELL-1//clicsbp-oskolskayatungusic-Xibe-SMELL-2"
     words "ŋ oː s u ʕ//ŋ oː s u ʕ tʃ//ŋ oː s u ʕ t//ŋ oː s a k t a//ŋ oː s u k t a//ŋ oː s u w k a//u ɲ ŋ ə//x u m p ə//ŋ ɔː//uː n ʃ i//ŋ ø + s j i//p uː n s u//v i ŋ kʰ ɘ//v ɑ d ɘ"
@@ -14220,7 +14196,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1185
+    id 1183
     label "SWELL"
     occurrences "clicsbp-oskolskayatungusic-Even-SWELL-1//clicsbp-oskolskayatungusic-Even-SWELL-2//clicsbp-oskolskayatungusic-Negidal-SWELL-1//clicsbp-oskolskayatungusic-Negidal-SWELL-2//clicsbp-oskolskayatungusic-Negidal-SWELL-3//clicsbp-oskolskayatungusic-Oroch-SWELL-1//clicsbp-oskolskayatungusic-Orok-SWELL-1//clicsbp-oskolskayatungusic-Solon-SWELL-1//clicsbp-oskolskayatungusic-Solon-SWELL-2//clicsbp-oskolskayatungusic-Udihe-SWELL-1//clicsbp-oskolskayatungusic-Ulcha-SWELL-1//clicsbp-oskolskayatungusic-Ulcha-SWELL-2//clicsbp-oskolskayatungusic-Xibe-SWELL-1"
     words "ħ oː s k e n//dʒ uː t e n//au l//x ə j g ə//x ə j g ə n//ao l i//χ ɑ u l u//m a d a//x o ŋ g u g l ə//au l i//χ a w l o//χ ao l o//m ɑ d ɘ"
@@ -14232,7 +14208,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1186
+    id 1184
     label "THINK"
     occurrences "clicsbp-oskolskayatungusic-Even-THINK-1//clicsbp-oskolskayatungusic-Even-THINK-2//clicsbp-oskolskayatungusic-Even-THINK-3//clicsbp-oskolskayatungusic-Negidal-THINK-1//clicsbp-oskolskayatungusic-Oroch-THINK-1//clicsbp-oskolskayatungusic-Orok-THINK-1//clicsbp-oskolskayatungusic-Orok-THINK-2//clicsbp-oskolskayatungusic-Solon-THINK-1//clicsbp-oskolskayatungusic-Udihe-THINK-1//clicsbp-oskolskayatungusic-Ulcha-THINK-1//clicsbp-oskolskayatungusic-Xibe-THINK-1"
     words "m uː l g a ʕ tʃ//m uː l g a ʕ t//dʒ oː m k e n//g ə l b iː//m əi tʃ i//m ɔ + r ɔ//b ɔ d ɔ//b ɔ d ɔ//m ə j s j i//m u r u + tʃ u//b o d u"
@@ -14245,7 +14221,7 @@ graph [
   ]
   edge [
     source 1
-    target 884
+    target 883
     count 1
     words "s eː"
     varieties "clicsbp-oskolskayatungusic-Ulcha"
@@ -14336,7 +14312,7 @@ graph [
   ]
   edge [
     source 5
-    target 916
+    target 915
     count 1
     words "i ɲ ŋ i"
     varieties "clicsbp-oskolskayatungusic-Negidal"
@@ -14401,7 +14377,7 @@ graph [
   ]
   edge [
     source 18
-    target 817
+    target 816
     count 1
     words "ʃ ɔ g d ɔ n ɔ"
     varieties "clicsbp-wold-Oroqen"
@@ -14414,7 +14390,7 @@ graph [
   ]
   edge [
     source 20
-    target 837
+    target 836
     count 1
     words "u k u n"
     varieties "clicsbp-wold-Oroqen"
@@ -14609,7 +14585,7 @@ graph [
   ]
   edge [
     source 34
-    target 1177
+    target 1176
     count 1
     words "oː"
     varieties "clicsbp-oskolskayatungusic-Udihe"
@@ -14674,7 +14650,7 @@ graph [
   ]
   edge [
     source 37
-    target 809
+    target 808
     count 1
     words "i l ə"
     varieties "clicsbp-wold-Oroqen"
@@ -15064,7 +15040,7 @@ graph [
   ]
   edge [
     source 64
-    target 881
+    target 880
     count 1
     words "n aː"
     varieties "clicsbp-oskolskayatungusic-Orok"
@@ -15194,7 +15170,7 @@ graph [
   ]
   edge [
     source 72
-    target 1074
+    target 1073
     count 1
     words "i n ə ŋ"
     varieties "clicsbp-wold-Oroqen"
@@ -15545,7 +15521,7 @@ graph [
   ]
   edge [
     source 138
-    target 798
+    target 797
     count 1
     words "i r i k t ə"
     varieties "clicsbp-wold-Oroqen"
@@ -15636,7 +15612,7 @@ graph [
   ]
   edge [
     source 155
-    target 994
+    target 993
     count 1
     words "g uː"
     varieties "clicsbp-wold-Oroqen"
@@ -16351,7 +16327,7 @@ graph [
   ]
   edge [
     source 237
-    target 890
+    target 889
     count 1
     words "k ɔ t ɔ"
     varieties "clicsbp-wold-Oroqen"
@@ -16377,7 +16353,7 @@ graph [
   ]
   edge [
     source 247
-    target 887
+    target 886
     count 1
     words "iː k ə"
     varieties "clicsbp-wold-Oroqen"
@@ -16403,7 +16379,7 @@ graph [
   ]
   edge [
     source 251
-    target 810
+    target 809
     count 1
     words "u l ə"
     varieties "clicsbp-wold-Oroqen"
@@ -16494,7 +16470,7 @@ graph [
   ]
   edge [
     source 259
-    target 837
+    target 836
     count 1
     words "u k u n"
     varieties "clicsbp-wold-Oroqen"
@@ -16611,7 +16587,7 @@ graph [
   ]
   edge [
     source 294
-    target 983
+    target 982
     count 1
     words "t ə r g ə"
     varieties "clicsbp-wold-Oroqen"
@@ -16637,7 +16613,7 @@ graph [
   ]
   edge [
     source 297
-    target 1132
+    target 1131
     count 1
     words "u l i r ə n"
     varieties "clicsbp-wold-Oroqen"
@@ -16702,7 +16678,7 @@ graph [
   ]
   edge [
     source 324
-    target 1069
+    target 1068
     count 1
     words "ə r d ə"
     varieties "clicsbp-wold-Oroqen"
@@ -16728,7 +16704,7 @@ graph [
   ]
   edge [
     source 345
-    target 1183
+    target 1181
     count 2
     words "n ə m n ə//n ə m d ə"
     varieties "clicsbp-oskolskayatungusic-Oroch//clicsbp-oskolskayatungusic-Orok"
@@ -16754,7 +16730,7 @@ graph [
   ]
   edge [
     source 367
-    target 880
+    target 879
     count 1
     words "ə ʃ i k i n"
     varieties "clicsbp-wold-Oroqen"
@@ -16780,7 +16756,7 @@ graph [
   ]
   edge [
     source 368
-    target 879
+    target 878
     count 1
     words "i r tʃ ə"
     varieties "clicsbp-wold-Oroqen"
@@ -16819,7 +16795,7 @@ graph [
   ]
   edge [
     source 382
-    target 1039
+    target 1038
     count 1
     words "m a n i"
     varieties "clicsbp-wold-Oroqen"
@@ -16832,7 +16808,7 @@ graph [
   ]
   edge [
     source 383
-    target 824
+    target 823
     count 1
     words "b a l ɪ"
     varieties "clicsbp-wold-Oroqen"
@@ -17027,7 +17003,7 @@ graph [
   ]
   edge [
     source 440
-    target 1049
+    target 1048
     count 1
     words "g ʊ g d a"
     varieties "clicsbp-wold-Oroqen"
@@ -17053,7 +17029,7 @@ graph [
   ]
   edge [
     source 442
-    target 1119
+    target 1118
     count 1
     words "ə"
     varieties "clicsbp-wold-Oroqen"
@@ -17066,7 +17042,7 @@ graph [
   ]
   edge [
     source 447
-    target 1042
+    target 1041
     count 1
     words "a m a l a n"
     varieties "clicsbp-wold-Oroqen"
@@ -17222,7 +17198,7 @@ graph [
   ]
   edge [
     source 459
-    target 1123
+    target 1122
     count 1
     words "ɑ i"
     varieties "clicsbp-oskolskayatungusic-Xibe"
@@ -17261,7 +17237,7 @@ graph [
   ]
   edge [
     source 460
-    target 1175
+    target 1174
     count 1
     words "u j"
     varieties "clicsbp-oskolskayatungusic-Ulcha"
@@ -17274,7 +17250,7 @@ graph [
   ]
   edge [
     source 461
-    target 809
+    target 808
     count 1
     words "i l ə"
     varieties "clicsbp-wold-Oroqen"
@@ -17599,7 +17575,7 @@ graph [
   ]
   edge [
     source 522
-    target 882
+    target 881
     count 1
     words "u m"
     varieties "clicsbp-wold-Oroqen"
@@ -17625,7 +17601,7 @@ graph [
   ]
   edge [
     source 525
-    target 950
+    target 949
     count 3
     words "aː//a w o//ao"
     varieties "clicsbp-oskolskayatungusic-Oroch//clicsbp-oskolskayatungusic-Ulcha//clicsbp-oskolskayatungusic-Ulcha"
@@ -17716,7 +17692,7 @@ graph [
   ]
   edge [
     source 540
-    target 1009
+    target 1008
     count 1
     words "t u k t i"
     varieties "clicsbp-wold-Oroqen"
@@ -17859,7 +17835,7 @@ graph [
   ]
   edge [
     source 561
-    target 1096
+    target 1095
     count 1
     words "i ɲ ə"
     varieties "clicsbp-wold-Oroqen"
@@ -18080,7 +18056,7 @@ graph [
   ]
   edge [
     source 590
-    target 950
+    target 949
     count 1
     words "u l əː"
     varieties "clicsbp-wold-Oroqen"
@@ -18184,7 +18160,7 @@ graph [
   ]
   edge [
     source 601
-    target 1175
+    target 1174
     count 1
     words "u j"
     varieties "clicsbp-oskolskayatungusic-Ulcha"
@@ -18470,7 +18446,7 @@ graph [
   ]
   edge [
     source 649
-    target 1163
+    target 1162
     count 1
     words "k ʊ l a k a"
     varieties "clicsbp-wold-Oroqen"
@@ -18496,7 +18472,7 @@ graph [
   ]
   edge [
     source 657
-    target 910
+    target 909
     count 1
     words "ʃ i r"
     varieties "clicsbp-wold-Oroqen"
@@ -18600,7 +18576,7 @@ graph [
   ]
   edge [
     source 690
-    target 1186
+    target 1184
     count 1
     words "b o d u"
     varieties "clicsbp-oskolskayatungusic-Xibe"
@@ -18613,7 +18589,7 @@ graph [
   ]
   edge [
     source 696
-    target 1027
+    target 1026
     count 1
     words "t a m a"
     varieties "clicsbp-wold-Oroqen"
@@ -18677,8 +18653,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 853
-    target 854
+    source 852
+    target 853
     count 1
     words "i ʃ ə"
     varieties "clicsbp-wold-Oroqen"
@@ -18690,8 +18666,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 855
-    target 856
+    source 854
+    target 855
     count 1
     words "tʃ ʊ r g ɪ"
     varieties "clicsbp-wold-Oroqen"
@@ -18703,8 +18679,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 870
-    target 871
+    source 869
+    target 870
     count 1
     words "ʊ r a"
     varieties "clicsbp-wold-Oroqen"
@@ -18716,8 +18692,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 875
-    target 876
+    source 874
+    target 875
     count 1
     words "d ɔ k ɔ l ɔ n"
     varieties "clicsbp-wold-Oroqen"
@@ -18729,8 +18705,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 881
-    target 1123
+    source 880
+    target 1122
     count 1
     words "j ɑ"
     varieties "clicsbp-oskolskayatungusic-Xibe"
@@ -18742,8 +18718,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 916
-    target 917
+    source 915
+    target 916
     count 1
     words "n ə k ə"
     varieties "clicsbp-wold-Oroqen"
@@ -18755,8 +18731,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 953
-    target 954
+    source 952
+    target 953
     count 1
     words "t a r"
     varieties "clicsbp-wold-Oroqen"
@@ -18768,8 +18744,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 961
-    target 962
+    source 960
+    target 961
     count 1
     words "g a r a"
     varieties "clicsbp-wold-Oroqen"
@@ -18781,8 +18757,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1025
-    target 1026
+    source 1024
+    target 1025
     count 1
     words "b i"
     varieties "clicsbp-wold-Oroqen"
@@ -18794,8 +18770,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1037
-    target 1038
+    source 1036
+    target 1037
     count 1
     words "m a y m a n"
     varieties "clicsbp-wold-Oroqen"
@@ -18807,8 +18783,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1085
-    target 1086
+    source 1084
+    target 1085
     count 1
     words "ʃ iː p"
     varieties "clicsbp-wold-Oroqen"
@@ -18820,8 +18796,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1105
-    target 1106
+    source 1104
+    target 1105
     count 1
     words "ʃ aː w u k a n a n"
     varieties "clicsbp-wold-Oroqen"
@@ -18833,8 +18809,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1120
-    target 1121
+    source 1119
+    target 1120
     count 1
     words "ɔː k i"
     varieties "clicsbp-wold-Oroqen"
@@ -18846,8 +18822,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1145
-    target 1178
+    source 1144
+    target 1177
     count 1
     words "tʰ ɑ n d ɘ"
     varieties "clicsbp-oskolskayatungusic-Xibe"
@@ -18859,8 +18835,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1169
-    target 1170
+    source 1168
+    target 1169
     count 1
     words "ʃ i r k u l"
     varieties "clicsbp-wold-Oroqen"
@@ -18872,8 +18848,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1181
-    target 1182
+    source 1179
+    target 1180
     count 13
     words "d u ʕ//d u//t u ʕ//t u//d uː//t uː//d u//d ɔ//d u//d u//d o//d u//d"
     varieties "clicsbp-oskolskayatungusic-Even//clicsbp-oskolskayatungusic-Even//clicsbp-oskolskayatungusic-Even//clicsbp-oskolskayatungusic-Even//clicsbp-oskolskayatungusic-Negidal//clicsbp-oskolskayatungusic-Negidal//clicsbp-oskolskayatungusic-Oroch//clicsbp-oskolskayatungusic-Orok//clicsbp-oskolskayatungusic-Orok//clicsbp-oskolskayatungusic-Udihe//clicsbp-oskolskayatungusic-Ulcha//clicsbp-oskolskayatungusic-Ulcha//clicsbp-oskolskayatungusic-Xibe"
