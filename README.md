@@ -1,4 +1,4 @@
-# Language Islands
+# CLDF dataset on Body Part Colexifications
 
 ## How to cite
 
@@ -68,13 +68,13 @@ cldfbench clicsbp.plotgraphs --weight=Cognate_Count_Weighted --tag="human body p
 
 - **Varieties:** 1,033
 - **Concepts:** 1,500
-- **Lexemes:** 695,606
+- **Lexemes:** 695,697
 - **Sources:** 0
 - **Synonymy:** 1.14
 - **Invalid lexemes:** 0
-- **Tokens:** 4,077,068
-- **Segments:** 1,385 (0 BIPA errors, 0 CLTS sound class errors, 1377 CLTS modified)
-- **Inventory size (avg):** 44.42
+- **Tokens:** 4,077,058
+- **Segments:** 1,389 (0 BIPA errors, 0 CLTS sound class errors, 1381 CLTS modified)
+- **Inventory size (avg):** 44.37
 
 ## Possible Improvements:
 
@@ -83,7 +83,7 @@ cldfbench clicsbp.plotgraphs --weight=Cognate_Count_Weighted --tag="human body p
   - Sanapaná (Angaité) [sana1281](http://glottolog.org/resource/languoid/id/sana1281)
 
 
-- Entries missing sources: 695606/695606 (100.00%)
+- Entries missing sources: 695697/695697 (100.00%)
 
 ## CLDF Datasets
 

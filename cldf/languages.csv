@@ -137,16 +137,16 @@ chindialectsurvey-NggaKantthayung-A,Ng'ga Kant-thayung,Eurasia,21.2,94.016667,mu
 chindialectsurvey-DaaiKalim-A,Daai Kal-im,Eurasia,21.6,93.4432,daai1236,dao,Daai Chin,Sino-Tibetan,412,412
 chindialectsurvey-RawngtuWeilong-A,Rawngtu Weilong,Eurasia,21.366667,93.983333,wela1234,weu,Welaung,Sino-Tibetan,433,433
 chindialectsurvey-MroKhimiAreong10KyaGaungvillageMrokhami-A,Mro-Khimi Areong 10Kya Gaung village (Mro-khami),Eurasia,21.3,92.85,mroc1235,cmr,Mro Chin,Sino-Tibetan,418,418
-halenepal-Nepali,Nepali,Eurasia,28.0,85.0,nepa1254,npi,Nepali,Indo-European,1310,1310
-halenepal-Gurung,Gurung,Eurasia,27.41687,86.28988,guru1261,gvr,Gurung,Sino-Tibetan,1046,1046
-halenepal-SahuTamang,Tamang (Sahu),Eurasia,28.0239,85.0563,west2415,tdg,Western Tamang,Sino-Tibetan,942,942
-halenepal-Thakali,Thakali,Eurasia,28.7014,83.6466,thak1245,ths,Thakali,Sino-Tibetan,942,942
-halenepal-Kaike,Kaike,Eurasia,28.853,83.1384,kaik1246,kzq,Kaike,Sino-Tibetan,620,620
-halenepal-JirelTibetan,Tibetan (Jirel),Eurasia,27.6931,86.3201,jire1238,jul,Jirel,Sino-Tibetan,652,652
-halenepal-SherpaTibetan,Tibetan (Sherpa),Eurasia,27.674,86.9994,sher1255,xsr,Solu-Khumbu Sherpa,Sino-Tibetan,606,606
-halenepal-Sunwar,Sunwar,Eurasia,27.5201,86.2476,sunw1242,suz,Sunwar,Sino-Tibetan,848,848
-halenepal-Khaling,Khaling,Eurasia,27.3912,87.5053,khal1275,klr,Khaling,Sino-Tibetan,946,946
-halenepal-Newar,Newar,Eurasia,27.2614,84.9577,newa1246,new,Kathmandu Valley Newari,Sino-Tibetan,1040,1040
+halenepal-Nepali,Nepali,Eurasia,28.0,85.0,nepa1254,npi,Nepali,Indo-European,1308,1308
+halenepal-Gurung,Gurung,Eurasia,27.41687,86.28988,guru1261,gvr,Gurung,Sino-Tibetan,1044,1044
+halenepal-SahuTamang,Tamang (Sahu),Eurasia,28.0239,85.0563,west2415,tdg,Western Tamang,Sino-Tibetan,940,940
+halenepal-Thakali,Thakali,Eurasia,28.7014,83.6466,thak1245,ths,Thakali,Sino-Tibetan,940,940
+halenepal-Kaike,Kaike,Eurasia,28.853,83.1384,kaik1246,kzq,Kaike,Sino-Tibetan,618,618
+halenepal-JirelTibetan,Tibetan (Jirel),Eurasia,27.6931,86.3201,jire1238,jul,Jirel,Sino-Tibetan,650,650
+halenepal-SherpaTibetan,Tibetan (Sherpa),Eurasia,27.674,86.9994,sher1255,xsr,Solu-Khumbu Sherpa,Sino-Tibetan,604,604
+halenepal-Sunwar,Sunwar,Eurasia,27.5201,86.2476,sunw1242,suz,Sunwar,Sino-Tibetan,846,846
+halenepal-Khaling,Khaling,Eurasia,27.3912,87.5053,khal1275,klr,Khaling,Sino-Tibetan,944,944
+halenepal-Newar,Newar,Eurasia,27.2614,84.9577,newa1246,new,Kathmandu Valley Newari,Sino-Tibetan,1038,1038
 halenepal-Chepang,Chepang,Eurasia,27.7206,84.9017,chep1245,cdm,Chepang,Sino-Tibetan,930,930
 hantganbangime-Bangime,Bangime,Africa,14.8,-3.76,bang1363,dba,Bangime,Bangime,290,290
 hantganbangime-Bankan_Tey,Bankan_Tey,Africa,15.07,-2.91,bank1259,dbw,Bankan Tey Dogon,Dogon,287,287
@@ -229,23 +229,24 @@ huntergatherer-30,Yuki,North America,39.8389,-123.296,yuki1243,yuk,Northern Yuki
 huntergatherer-33,Cocopa,North America,32.376,-114.848,coco1261,coc,Cocopa,Cochimi-Yuman,269,269
 huntergatherer-34,Kiliwa,North America,30.5471,-115.123,kili1268,klb,Kiliwa,Cochimi-Yuman,262,262
 huntergatherer-38,Lake Miwok,North America,39.0021,-122.621,lake1258,lmw,Lake Miwok,Miwok-Costanoan,269,269
-huntergatherer-52,Baniwa,South America,2.17859,-67.7704,bani1255,bwi,Baniwa do Icana,Arawakan,272,272
-huntergatherer-57,Paresi ,South America,-14.5929,-57.4059,pare1272,pab,Parecís,Arawakan,251,251
-huntergatherer-70,Akawaio,South America,6.16277,-60.862,akaw1239,ake,Akawaio-Ingariko,Cariban,257,257
-huntergatherer-77,Pemon,South America,4.97031,-61.4033,pemo1248,aoc,Pemon,Cariban,276,276
-huntergatherer-81,Yukpa,South America,9.67534,-73.0557,yukp1241,yup,Yukpa,Cariban,256,256
-huntergatherer-115,Ashuar,South America,-2.82646,-77.2641,achu1248,acu,Achuar-Shiwiar,Chicham,280,280
-huntergatherer-116,Huambisa,South America,-3.99109,-77.9797,huam1247,hub,Huambisa,Chicham,267,267
-huntergatherer-119,Dâw,South America,-0.1177,-67.2934,daww1239,kwa,Dâw,Naduhup,271,271
-huntergatherer-124,Matses,South America,-5.73914,-72.6281,mats1244,mcf,Matsés,Pano-Tacanan,272,272
-huntergatherer-127,Napo Lowland Quichua,South America,-0.072525,-76.3889,napo1242,qvo,Napo Lowland Quechua,Quechuan,253,253
+huntergatherer-52,Baniwa,South America,2.17859,-67.7704,bani1255,bwi,Baniwa do Icana,Arawakan,273,273
+huntergatherer-57,Paresi ,South America,-14.5929,-57.4059,pare1272,pab,Parecís,Arawakan,252,252
+huntergatherer-70,Akawaio,South America,6.16277,-60.862,akaw1239,ake,Akawaio-Ingariko,Cariban,258,258
+huntergatherer-77,Pemon,South America,4.97031,-61.4033,pemo1248,aoc,Pemon,Cariban,277,277
+huntergatherer-81,Yukpa,South America,9.67534,-73.0557,yukp1241,yup,Yukpa,Cariban,257,257
+huntergatherer-115,Ashuar,South America,-2.82646,-77.2641,achu1248,acu,Achuar-Shiwiar,Chicham,281,281
+huntergatherer-116,Huambisa,South America,-3.99109,-77.9797,huam1247,hub,Huambisa,Chicham,268,268
+huntergatherer-119,Dâw,South America,-0.1177,-67.2934,daww1239,kwa,Dâw,Naduhup,272,272
+huntergatherer-124,Matses,South America,-5.73914,-72.6281,mats1244,mcf,Matsés,Pano-Tacanan,273,273
+huntergatherer-127,Napo Lowland Quichua,South America,-0.072525,-76.3889,napo1242,qvo,Napo Lowland Quechua,Quechuan,254,254
 huntergatherer-128,Quechua Ayacuchano,South America,-13.84714,-74.32246,ayac1239,quy,Ayacucho Quechua,Quechuan,258,258
-huntergatherer-130,Piaroa,South America,4.41805,-67.7574,piar1243,pid,Piaroa,Saliban,266,266
-huntergatherer-147,Maihiki,South America,-2.86315,-72.4926,orej1242,ore,Maijiki,Tucanoan,266,266
-huntergatherer-158,Ocaina,South America,-2.159,-72.1422,ocai1244,oca,Ocaina,Huitotoan,277,277
-huntergatherer-163,Iquito,South America,-3.31233,-73.97046,iqui1243,iqu,Iquito,Zaparoan,256,256
-huntergatherer-387,Djeoromitxi,South America,-12.038,-64.6694,djeo1235,jbt,Djeoromitxí,Nuclear-Macro-Je,265,265
-huntergatherer-405,Lokono,South America,5.64295,-56.9243,araw1276,arw,Lokono,Arawakan,274,274
+huntergatherer-130,Piaroa,South America,4.41805,-67.7574,piar1243,pid,Piaroa,Saliban,267,267
+huntergatherer-147,Maihiki,South America,-2.86315,-72.4926,orej1242,ore,Maijiki,Tucanoan,267,267
+huntergatherer-158,Ocaina,South America,-2.159,-72.1422,ocai1244,oca,Ocaina,Huitotoan,278,278
+huntergatherer-163,Iquito,South America,-3.31233,-73.97046,iqui1243,iqu,Iquito,Zaparoan,257,257
+huntergatherer-379,Kwazá,South America,-11.6667,-61.1833,kwaz1243,xwa,Kwaza,Kwaza,257,257
+huntergatherer-387,Djeoromitxi,South America,-12.038,-64.6694,djeo1235,jbt,Djeoromitxí,Nuclear-Macro-Je,266,266
+huntergatherer-405,Lokono,South America,5.64295,-56.9243,araw1276,arw,Lokono,Arawakan,275,275
 johanssonsoundsymbolic-Achumawi,Achumawi,North America,41.0979,-121.191,achu1247,acv,Achumawi,Palaihnihan,263,263
 johanssonsoundsymbolic-Ahtena,Ahtena,North America,61.7068,-144.889,ahte1237,aht,Ahtena,Athapaskan-Eyak-Tlingit,275,275
 johanssonsoundsymbolic-Alabama,Alabama,North America,30.76738,-94.62848,alab1237,akz,Alabama,Muskogean,283,283
@@ -269,7 +270,6 @@ johanssonsoundsymbolic-Jamamadi,Jamamadí,South America,-7.62223,-66.5662,jama12
 johanssonsoundsymbolic-Juhoan,Ju'hoan,Africa,-19.688,20.7673,juho1239,ktz,South-Eastern Ju,Kxa,272,272
 johanssonsoundsymbolic-Katcha,Katcha,Africa,10.8423,29.4914,katc1249,xtc,Katcha-Kadugli-Miri,Kadugli-Krongo,271,271
 johanssonsoundsymbolic-Klamath,Klamath,North America,42.5861,-121.704,klam1254,kla,Klamath-Modoc,Klamath-Modoc,262,262
-johanssonsoundsymbolic-Kwaza,Kwaza,South America,-11.6667,-61.1833,kwaz1243,xwa,Kwaza,Kwaza,255,255
 johanssonsoundsymbolic-Lakota,Lakota,North America,46.3699,-103.95,lako1247,lkt,Lakota,Siouan,280,280
 johanssonsoundsymbolic-Maasai,Maasai,Africa,-3.1419,36.4573,masa1300,mas,Masai,Nilotic,270,270
 johanssonsoundsymbolic-Mailu,Mailu,Papunesia,-10.3657,149.521,mail1248,mgu,Mailu,Mailuan,256,256
@@ -304,103 +304,103 @@ johanssonsoundsymbolic-Wintu,Wintu,North America,39.7176,-122.445,wint1259,wit,W
 johanssonsoundsymbolic-Xicotepecdejuareztotonac,Xicotepec de Juárez Totonac,North America,20.6532,-97.7463,xico1235,too,Xicotepec De Juárez Totonac,Totonacan,257,257
 johanssonsoundsymbolic-Yareba,Yareba,Papunesia,-9.50651,148.605,yare1248,yrb,Yareba,Yareban,256,256
 johanssonsoundsymbolic-Yawa,Yawa,Papunesia,-1.77196,136.263,nucl1454,yva,Yawa,Yawa,274,274
-idssegmented-andi,Andi,Eurasia,42.8078,46.2919,andi1255,ani,Andi,Nakh-Daghestanian,1460,1460
-idssegmented-akhvakhsoutherndialect,Akhvakh (Southern dialect),Eurasia,42.4003,46.3037,akhv1239,akv,Akhvakh,Nakh-Daghestanian,1457,1457
-idssegmented-bagvalal,Bagvalal,Eurasia,42.3966,46.1041,bagv1239,kva,Bagvalal,Nakh-Daghestanian,1469,1469
-idssegmented-godoberi,Godoberi,Eurasia,42.7428,46.2252,ghod1238,gdo,Godoberi,Nakh-Daghestanian,1430,1430
-idssegmented-karata,Karata,Eurasia,42.6501,46.3151,kara1474,kpt,Karata-Tukita,Nakh-Daghestanian,1403,1403
-idssegmented-karatatokitindialect,Karata (Tokitin dialect),Eurasia,42.5727,46.3724,toki1238,,Tokita,Nakh-Daghestanian,1446,1446
-idssegmented-hinuq,Hinuq,Eurasia,42.4502,45.8064,hinu1240,gin,Hinuq,Nakh-Daghestanian,1655,1655
-idssegmented-tindi,Tindi,Eurasia,42.3316,45.9227,tind1238,tin,Tindi,Nakh-Daghestanian,1502,1502
-idssegmented-chamalal,Chamalal,Eurasia,42.5024,45.995,cham1309,cji,Chamalal,Nakh-Daghestanian,1606,1606
-idssegmented-hunzib,Hunzib,Eurasia,42.0808,46.1369,hunz1247,huz,Hunzib,Nakh-Daghestanian,1441,1441
-idssegmented-dargwa,Dargwa,Eurasia,42.4257,47.4388,darg1241,dar,North-Central Dargwa,Nakh-Daghestanian,1670,1670
-idssegmented-dargwakubachidialect,Dargwa (Kubachi dialect),Eurasia,42.08504,47.601843,kuba1248,,Kubachi,Nakh-Daghestanian,1287,1287
-idssegmented-dargwakhajdakdialect,Dargwa (Khajdak dialect),Eurasia,42.052428,47.776611,kajt1238,,Kajtak,Nakh-Daghestanian,1400,1400
-idssegmented-aghul,Aghul,Eurasia,41.9242,47.5843,aghu1253,agx,Aghul,Nakh-Daghestanian,1310,1310
-idssegmented-archivariety1,Archi (variety 1),Eurasia,42.3239,46.8267,arch1244,aqc,Archi,Nakh-Daghestanian,1293,1293
-idssegmented-budukh,Budukh,Eurasia,41.2272,48.3353,budu1248,bdk,Budukh,Nakh-Daghestanian,1634,1634
-idssegmented-lezgian,Lezgian,Eurasia,41.5157,47.8951,lezg1247,lez,Lezgian,Nakh-Daghestanian,1739,1739
-idssegmented-tabasarannortherndialectkhanagsubdialect,Tabasaran (Northern dialect Khanag subdialect),Eurasia,42.0198,47.8379,taba1259,tab,Tabasaran,Nakh-Daghestanian,1598,1598
-idssegmented-khinalug,Khinalug,Eurasia,41.1801,48.0571,khin1240,kjj,Khinalug,Nakh-Daghestanian,1553,1553
-idssegmented-tsakhur,Tsakhur,Eurasia,41.5916,46.8858,tsak1249,tkr,Tsakhur,Nakh-Daghestanian,1363,1363
-idssegmented-azerbaijani,Azerbaijani,Eurasia,40.9777,46.4737,nort2697,azj,North Azerbaijani,Turkic,1654,1654
-idssegmented-kumyk,Kumyk,Eurasia,43.0,47.0,kumy1244,kum,Kumyk,Turkic,1695,1695
-idssegmented-nogai,Nogai,Eurasia,43.5917,46.6618,noga1249,nog,Nogai,Turkic,1919,1919
-idssegmented-judeotat,Judeo-Tat,Eurasia,42.068306,48.264749,jude1256,jdt,Judeo-Tat,Indo-European,2110,2110
-idssegmented-chechen,Chechen,Eurasia,43.5,45.5,chec1245,che,Chechen,Nakh-Daghestanian,1602,1602
-idssegmented-udi,Udi,Eurasia,40.9,47.7236,udii1243,udi,Udi,Nakh-Daghestanian,1277,1277
-idssegmented-avarkusurdialect,Avar (Kusur dialect),Eurasia,41.7047,46.558,avar1256,ava,Avar,Nakh-Daghestanian,1317,1317
-idssegmented-erzyamordvin,Erzya Mordvin,Eurasia,52.8548,45.3901,erzy1239,myv,Erzya,Uralic,1299,1299
-idssegmented-estonian,Estonian,Eurasia,58.55,25.82,esto1258,ekk,Estonian,Uralic,1583,1583
-idssegmented-finnish,Finnish,Eurasia,64.7628,25.5577,finn1318,fin,Finnish,Uralic,1631,1631
-idssegmented-hungarian,Hungarian,Eurasia,46.9068585714,19.6555271429,hung1274,hun,Hungarian,Uralic,1611,1611
+idssegmented-andi,Andi,Eurasia,42.8078,46.2919,andi1255,ani,Andi,Nakh-Daghestanian,1459,1459
+idssegmented-akhvakhsoutherndialect,Akhvakh (Southern dialect),Eurasia,42.4003,46.3037,akhv1239,akv,Akhvakh,Nakh-Daghestanian,1456,1456
+idssegmented-bagvalal,Bagvalal,Eurasia,42.3966,46.1041,bagv1239,kva,Bagvalal,Nakh-Daghestanian,1468,1468
+idssegmented-godoberi,Godoberi,Eurasia,42.7428,46.2252,ghod1238,gdo,Godoberi,Nakh-Daghestanian,1429,1429
+idssegmented-karata,Karata,Eurasia,42.6501,46.3151,kara1474,kpt,Karata-Tukita,Nakh-Daghestanian,1402,1402
+idssegmented-karatatokitindialect,Karata (Tokitin dialect),Eurasia,42.5727,46.3724,toki1238,,Tokita,Nakh-Daghestanian,1445,1445
+idssegmented-hinuq,Hinuq,Eurasia,42.4502,45.8064,hinu1240,gin,Hinuq,Nakh-Daghestanian,1654,1654
+idssegmented-tindi,Tindi,Eurasia,42.3316,45.9227,tind1238,tin,Tindi,Nakh-Daghestanian,1501,1501
+idssegmented-chamalal,Chamalal,Eurasia,42.5024,45.995,cham1309,cji,Chamalal,Nakh-Daghestanian,1605,1605
+idssegmented-hunzib,Hunzib,Eurasia,42.0808,46.1369,hunz1247,huz,Hunzib,Nakh-Daghestanian,1440,1440
+idssegmented-dargwa,Dargwa,Eurasia,42.4257,47.4388,darg1241,dar,North-Central Dargwa,Nakh-Daghestanian,1669,1669
+idssegmented-dargwakubachidialect,Dargwa (Kubachi dialect),Eurasia,42.08504,47.601843,kuba1248,ugh,Kubachi,Nakh-Daghestanian,1286,1286
+idssegmented-dargwakhajdakdialect,Dargwa (Khajdak dialect),Eurasia,42.052428,47.776611,kajt1238,xdq,Kajtak,Nakh-Daghestanian,1397,1397
+idssegmented-aghul,Aghul,Eurasia,41.9242,47.5843,aghu1253,agx,Aghul,Nakh-Daghestanian,1309,1309
+idssegmented-archivariety1,Archi (variety 1),Eurasia,42.3239,46.8267,arch1244,aqc,Archi,Nakh-Daghestanian,1292,1292
+idssegmented-budukh,Budukh,Eurasia,41.2272,48.3353,budu1248,bdk,Budukh,Nakh-Daghestanian,1631,1631
+idssegmented-lezgian,Lezgian,Eurasia,41.5157,47.8951,lezg1247,lez,Lezgian,Nakh-Daghestanian,1738,1738
+idssegmented-tabasarannortherndialectkhanagsubdialect,Tabasaran (Northern dialect Khanag subdialect),Eurasia,42.0198,47.8379,taba1259,tab,Tabasaran,Nakh-Daghestanian,1597,1597
+idssegmented-khinalug,Khinalug,Eurasia,41.1801,48.0571,khin1240,kjj,Khinalug,Nakh-Daghestanian,1551,1551
+idssegmented-tsakhur,Tsakhur,Eurasia,41.5916,46.8858,tsak1249,tkr,Tsakhur,Nakh-Daghestanian,1361,1361
+idssegmented-azerbaijani,Azerbaijani,Eurasia,40.9777,46.4737,nort2697,azj,North Azerbaijani,Turkic,1653,1653
+idssegmented-kumyk,Kumyk,Eurasia,43.0,47.0,kumy1244,kum,Kumyk,Turkic,1694,1694
+idssegmented-nogai,Nogai,Eurasia,43.5917,46.6618,noga1249,nog,Nogai,Turkic,1918,1918
+idssegmented-judeotat,Judeo-Tat,Eurasia,42.068306,48.264749,jude1256,jdt,Judeo-Tat,Indo-European,2108,2108
+idssegmented-chechen,Chechen,Eurasia,43.5,45.5,chec1245,che,Chechen,Nakh-Daghestanian,1600,1600
+idssegmented-udi,Udi,Eurasia,40.9,47.7236,udii1243,udi,Udi,Nakh-Daghestanian,1276,1276
+idssegmented-avarkusurdialect,Avar (Kusur dialect),Eurasia,41.7047,46.558,avar1256,ava,Avar,Nakh-Daghestanian,1316,1316
+idssegmented-erzyamordvin,Erzya Mordvin,Eurasia,52.8548,45.3901,erzy1239,myv,Erzya,Uralic,1298,1298
+idssegmented-estonian,Estonian,Eurasia,58.55,25.82,esto1258,ekk,Estonian,Uralic,1582,1582
+idssegmented-finnish,Finnish,Eurasia,64.7628,25.5577,finn1318,fin,Finnish,Uralic,1629,1629
+idssegmented-hungarian,Hungarian,Eurasia,46.9068585714,19.6555271429,hung1274,hun,Hungarian,Uralic,1610,1610
 idssegmented-khanty,Khanty,Eurasia,62.4308,66.1218,khan1273,kca,Kazym-Berezover-Suryskarer Khanty,Uralic,1352,1352
-idssegmented-komi,Komi,Eurasia,64.0527,54.946,komi1268,kpv,Komi-Zyrian,Uralic,1675,1675
-idssegmented-northernsaami,Northern Saami,Eurasia,68.725,22.1113,nort2671,sme,North Saami,Uralic,1309,1309
+idssegmented-komi,Komi,Eurasia,64.0527,54.946,komi1268,kpv,Komi-Zyrian,Uralic,1674,1674
+idssegmented-northernsaami,Northern Saami,Eurasia,68.725,22.1113,nort2671,sme,North Saami,Uralic,1308,1308
 idssegmented-mansi,Mansi,Eurasia,64.4118,61.344,mans1258,mns,Northern Mansi,Uralic,1409,1409
-idssegmented-mari,Mari,Eurasia,55.8307,48.405,east2328,mhr,Eastern Mari,Uralic,1465,1465
+idssegmented-mari,Mari,Eurasia,55.8307,48.405,east2328,mhr,Eastern Mari,Uralic,1464,1464
 idssegmented-nenets,Nenets,Eurasia,66.1775,71.0234,nene1249,yrk,Tundra Nenets,Uralic,1260,1260
 idssegmented-selkup,Selkup,Eurasia,59.9409,82.3004,selk1253,sel,Selkup,Uralic,1210,1210
-idssegmented-udmurt,Udmurt,Eurasia,56.12921,52.63548,udmu1245,udm,Udmurt,Uralic,1436,1436
-idssegmented-bezhta,Bezhta,Eurasia,42.1206,46.0332,bezh1248,kap,Bezhta,Nakh-Daghestanian,1639,1639
-idssegmented-tsezmokokdialect,Tsez (Mokok dialect),Eurasia,42.2646,45.8096,dido1241,ddo,Tsez,Nakh-Daghestanian,1437,1437
-idssegmented-ancientgreek,Ancient Greek,Eurasia,39.8155,21.9129,anci1242,grc,Ancient Greek,Indo-European,2123,2123
-idssegmented-moderngreek,Modern Greek,Eurasia,38.36,23.13,mode1248,ell,Modern Greek,Indo-European,1622,1622
-idssegmented-latin,Latin,Eurasia,41.9026,12.4502,lati1261,lat,Latin,Indo-European,1826,1826
-idssegmented-italian,Italian,Eurasia,43.0464,12.6489,ital1282,ita,Italian,Indo-European,1445,1445
-idssegmented-french,French,Eurasia,48.0,2.0,stan1290,fra,French,Indo-European,1545,1545
+idssegmented-udmurt,Udmurt,Eurasia,56.12921,52.63548,udmu1245,udm,Udmurt,Uralic,1435,1435
+idssegmented-bezhta,Bezhta,Eurasia,42.1206,46.0332,bezh1248,kap,Bezhta,Nakh-Daghestanian,1638,1638
+idssegmented-tsezmokokdialect,Tsez (Mokok dialect),Eurasia,42.2646,45.8096,dido1241,ddo,Tsez,Nakh-Daghestanian,1436,1436
+idssegmented-ancientgreek,Ancient Greek,Eurasia,39.8155,21.9129,anci1242,grc,Ionic-Attic Ancient Greek,Indo-European,2122,2122
+idssegmented-moderngreek,Modern Greek,Eurasia,38.36,23.13,mode1248,ell,Modern Greek,Indo-European,1620,1620
+idssegmented-latin,Latin,Eurasia,41.9026,12.4502,lati1261,lat,Latin,Indo-European,1825,1825
+idssegmented-italian,Italian,Eurasia,43.0464,12.6489,ital1282,ita,Italian,Indo-European,1444,1444
+idssegmented-french,French,Eurasia,48.0,2.0,stan1290,fra,French,Indo-European,1544,1544
 idssegmented-panare,Panare,South America,6.95035,-65.8483,enap1235,pbh,Panare,Cariban,1098,1098
 idssegmented-macushi,Macushi,South America,4.31861,-60.2209,macu1259,mbc,Macushi,Cariban,938,938
 idssegmented-dekwana,De'kwana,South America,4.70705,-64.3877,maqu1238,mch,Ye'kwana,Cariban,437,437
-idssegmented-waiwai,Wai Wai,South America,1.50881,-59.1417,waiw1244,waw,Waiwai,Cariban,1001,1001
-idssegmented-spanish,Spanish,Eurasia,40.4414,-1.11788,stan1288,spa,Spanish,Indo-European,1668,1668
-idssegmented-catalan,Catalan,Eurasia,41.453,1.569,stan1289,cat,Catalan,Indo-European,1451,1451
-idssegmented-portuguese,Portuguese,Eurasia,39.91,-8.1,port1283,por,Portuguese,Indo-European,1579,1579
-idssegmented-oldirish,Old Irish,Eurasia,53.0,-8.0,oldi1245,sga,Early Irish,Indo-European,1285,1285
-idssegmented-irish,Irish,Eurasia,53.2186,-7.61509,iris1253,gle,Irish,Indo-European,2298,2298
-idssegmented-welsh,Welsh,Eurasia,52.0,-4.0,wels1247,cym,Welsh,Indo-European,1994,1994
-idssegmented-breton,Breton,Eurasia,48.2452,-3.78934,bret1244,bre,Breton,Indo-European,1696,1696
+idssegmented-waiwai,Wai Wai,South America,1.50881,-59.1417,waiw1244,waw,Waiwai,Cariban,1000,1000
+idssegmented-spanish,Spanish,Eurasia,40.4414,-1.11788,stan1288,spa,Spanish,Indo-European,1667,1667
+idssegmented-catalan,Catalan,Eurasia,41.453,1.569,stan1289,cat,Catalan,Indo-European,1450,1450
+idssegmented-portuguese,Portuguese,Eurasia,39.91,-8.1,port1283,por,Portuguese,Indo-European,1578,1578
+idssegmented-oldirish,Old Irish,Eurasia,53.0,-8.0,oldi1245,sga,Early Irish,Indo-European,1284,1284
+idssegmented-irish,Irish,Eurasia,53.2186,-7.61509,iris1253,gle,Irish,Indo-European,2297,2297
+idssegmented-welsh,Welsh,Eurasia,52.0,-4.0,wels1247,cym,Welsh,Indo-European,1993,1993
+idssegmented-breton,Breton,Eurasia,48.2452,-3.78934,bret1244,bre,Breton,Indo-European,1695,1695
 idssegmented-gothic,Gothic,Eurasia,46.9304,29.9786,goth1244,got,Gothic,Indo-European,978,978
-idssegmented-oldnorse,Old Norse,Eurasia,63.42,10.38,oldn1244,non,Old Norse,Indo-European,1366,1366
-idssegmented-danish,Danish,Eurasia,54.8655,9.36284,dani1285,dan,Danish,Indo-European,1466,1466
-idssegmented-swedish,Swedish,Eurasia,59.800634,17.389526,swed1254,swe,Swedish,Indo-European,1973,1973
-idssegmented-oldenglish,Old English,Eurasia,51.06,-1.31,olde1238,ang,Old English (ca. 450-1100),Indo-European,2367,2367
-idssegmented-middleenglish,Middle English,Eurasia,51.65,-1.11,midd1317,enm,Middle English,Indo-European,1889,1889
-idssegmented-english,English,Eurasia,53.0,-1.0,stan1293,eng,English,Indo-European,1456,1456
-idssegmented-middlehighgerman,Middle High German,Eurasia,48.254,10.599,midd1343,gmh,Middle High German,Indo-European,1886,1886
-idssegmented-german,German,Eurasia,48.649,12.4676,stan1295,deu,German,Indo-European,1786,1786
-idssegmented-yiddish,Yiddish,Eurasia,51.75,19.42,east2295,ydd,Eastern Yiddish,Indo-European,1679,1679
-idssegmented-lithuanian,Lithuanian,Eurasia,55.1429,23.9601,lith1251,lit,Lithuanian,Indo-European,1807,1807
-idssegmented-latvian,Latvian,Eurasia,56.826108,24.309118,latv1249,lav,Latvian,Indo-European,1593,1593
-idssegmented-oldprussian,Old Prussian,Eurasia,52.394,14.757,prus1238,prg,Old Prussian,Indo-European,570,570
-idssegmented-oldchurchslavonic,Old Church Slavonic,Eurasia,43.7171,22.8442,chur1257,chu,Church Slavic,Indo-European,1161,1161
-idssegmented-bulgarian,Bulgarian,Eurasia,43.3646,25.047,bulg1262,bul,Bulgarian,Indo-European,2214,2214
-idssegmented-serbocroatian,Serbo-Croatian,Eurasia,44.15,18.81,sout1528,hbs,Serbian-Croatian-Bosnian,Indo-European,2000,2000
-idssegmented-czech,Czech,Eurasia,49.873398,15.10437,czec1258,ces,Czech,Indo-European,1703,1703
-idssegmented-polish,Polish,Eurasia,51.8439,18.6255,poli1260,pol,Polish,Indo-European,1928,1928
-idssegmented-russian,Russian,Eurasia,59.0,50.0,russ1263,rus,Russian,Indo-European,1597,1597
-idssegmented-albaniantoskvariety,Albanian (Tosk variety),Eurasia,41.0,20.0,tosk1239,als,Northern Tosk Albanian,Indo-European,1861,1861
-idssegmented-armenianeasternvariety,Armenian (Eastern variety),Eurasia,40.0,45.0,nucl1235,hye,Eastern Armenian,Indo-European,1749,1749
-idssegmented-armenianwesternvariety,Armenian (Western variety),Eurasia,40.1897,44.4839,homs1234,hyw,Western Armenian,Indo-European,1721,1721
+idssegmented-oldnorse,Old Norse,Eurasia,63.42,10.38,oldn1244,non,Old Norse,Indo-European,1365,1365
+idssegmented-danish,Danish,Eurasia,54.8655,9.36284,dani1285,dan,Danish,Indo-European,1465,1465
+idssegmented-swedish,Swedish,Eurasia,59.800634,17.389526,swed1254,swe,Swedish,Indo-European,1972,1972
+idssegmented-oldenglish,Old English,Eurasia,51.06,-1.31,olde1238,ang,Old English (ca. 450-1100),Indo-European,2365,2365
+idssegmented-middleenglish,Middle English,Eurasia,51.65,-1.11,midd1317,enm,Middle English,Indo-European,1888,1888
+idssegmented-english,English,Eurasia,53.0,-1.0,stan1293,eng,English,Indo-European,1455,1455
+idssegmented-middlehighgerman,Middle High German,Eurasia,48.254,10.599,midd1343,gmh,Middle High German,Indo-European,1885,1885
+idssegmented-german,German,Eurasia,48.649,12.4676,stan1295,deu,German,Indo-European,1785,1785
+idssegmented-yiddish,Yiddish,Eurasia,51.75,19.42,east2295,ydd,Eastern Yiddish,Indo-European,1678,1678
+idssegmented-lithuanian,Lithuanian,Eurasia,55.1429,23.9601,lith1251,lit,Lithuanian,Indo-European,1804,1804
+idssegmented-latvian,Latvian,Eurasia,56.826108,24.309118,latv1249,lav,Latvian,Indo-European,1592,1592
+idssegmented-oldprussian,Old Prussian,Eurasia,52.394,14.757,prus1238,prg,Old Prussian,Indo-European,569,569
+idssegmented-oldchurchslavonic,Old Church Slavonic,Eurasia,43.7171,22.8442,chur1257,chu,Church Slavic,Indo-European,1160,1160
+idssegmented-bulgarian,Bulgarian,Eurasia,43.3646,25.047,bulg1262,bul,Bulgarian,Indo-European,2212,2212
+idssegmented-serbocroatian,Serbo-Croatian,Eurasia,44.15,18.81,sout1528,hbs,Serbian-Croatian-Bosnian,Indo-European,1998,1998
+idssegmented-czech,Czech,Eurasia,49.873398,15.10437,czec1258,ces,Czech,Indo-European,1702,1702
+idssegmented-polish,Polish,Eurasia,51.8439,18.6255,poli1260,pol,Polish,Indo-European,1927,1927
+idssegmented-russian,Russian,Eurasia,59.0,50.0,russ1263,rus,Russian,Indo-European,1596,1596
+idssegmented-albaniantoskvariety,Albanian (Tosk variety),Eurasia,41.0,20.0,tosk1239,als,Northern Tosk Albanian,Indo-European,1860,1860
+idssegmented-armenianeasternvariety,Armenian (Eastern variety),Eurasia,40.0,45.0,nucl1235,hye,Eastern Armenian,Indo-European,1747,1747
+idssegmented-armenianwesternvariety,Armenian (Western variety),Eurasia,40.1897,44.4839,homs1234,hyw,Western Armenian,Indo-European,1719,1719
 idssegmented-hittite,Hittite,Eurasia,40.0,35.0,hitt1242,hit,Hittite,Indo-European,1082,1082
 idssegmented-tochariana,Tocharian A,Eurasia,42.98,89.18,tokh1242,xto,Tokharian A,Indo-European,601,601
 idssegmented-tocharianb,Tocharian B,Eurasia,41.65,82.9,tokh1243,txb,Tokharian B,Indo-European,887,887
-idssegmented-sanskrit,Sanskrit,Eurasia,20.0,77.0,sans1269,san,Sanskrit,Indo-European,2566,2566
-idssegmented-romani,Romani,Eurasia,46.09,18.16,vlax1238,rmy,Vlax Romani,Indo-European,1630,1630
-idssegmented-avestan,Avestan,Eurasia,34.217,62.112,aves1237,ave,Avestan,Indo-European,833,833
-idssegmented-persian,Persian,Eurasia,32.9,53.3,west2369,pes,Western Farsi,Indo-European,1549,1549
-idssegmented-ancientaramaic,Ancient Aramaic,Eurasia,32.84,37.0,olda1245,oar,Old Aramaic-Sam'alian,Afro-Asiatic,1844,1844
-idssegmented-elamite,Elamite,Eurasia,31.1833,48.2333,elam1244,elx,Elamite,Elamite,773,773
+idssegmented-sanskrit,Sanskrit,Eurasia,20.0,77.0,sans1269,san,Sanskrit,Indo-European,2564,2564
+idssegmented-romani,Romani,Eurasia,46.09,18.16,vlax1238,rmy,Vlax Romani,Indo-European,1629,1629
+idssegmented-avestan,Avestan,Eurasia,34.217,62.112,aves1237,ave,Avestan,Indo-European,831,831
+idssegmented-persian,Persian,Eurasia,32.9,53.3,west2369,pes,Western Farsi,Indo-European,1548,1548
+idssegmented-ancientaramaic,Ancient Aramaic,Eurasia,32.84,37.0,olda1245,oar,Old Aramaic-Sam'alian,Afro-Asiatic,1843,1843
+idssegmented-elamite,Elamite,Eurasia,31.1833,48.2333,elam1244,elx,Elamite,Elamite,770,770
 idssegmented-negerhollands,Negerhollands,North America,18.3416,-64.8922,nege1244,dcr,Negerhollands,Indo-European,1209,1209
-idssegmented-jamaicancreolelimonesecreoledialect,Jamaican Creole (Limonese Creole dialect),North America,18.13,-77.2612,jama1262,jam,Jamaican Creole English,Indo-European,1602,1602
-idssegmented-basque,Basque,Eurasia,43.2787,-1.31622,basq1248,eus,Basque,Basque,1465,1465
-idssegmented-polci,Polci,Africa,10.0258,9.53362,polc1243,plj,Polci,Afro-Asiatic,1124,1124
+idssegmented-jamaicancreolelimonesecreoledialect,Jamaican Creole (Limonese Creole dialect),North America,18.13,-77.2612,jama1262,jam,Jamaican Creole English,Indo-European,1601,1601
+idssegmented-basque,Basque,Eurasia,43.2787,-1.31622,basq1248,eus,Basque,Basque,1464,1464
+idssegmented-polci,Polci,Africa,10.0258,9.53362,polc1243,plj,Pesse,Afro-Asiatic,1123,1123
 idssegmented-nahuatlsierradezacapoaxtlavariety,Nahuatl (Sierra de Zacapoaxtla variety),North America,20.1554,-97.5556,high1278,azz,Highland Puebla Nahuatl,Uto-Aztecan,1408,1408
-idssegmented-chatinozacatepecvariety,Chatino (Zacatepec variety),North America,16.08,-97.3069,zaca1242,ctz,Zacatepec Chatino,Otomanguean,1492,1492
+idssegmented-chatinozacatepecvariety,Chatino (Zacatepec variety),North America,16.08,-97.3069,zaca1242,ctz,Zacatepec Chatino,Otomanguean,1491,1491
 idssegmented-karok,Karok,North America,41.8228,-123.315,karo1304,kyh,Karok,Karok,840,840
 idssegmented-seri,Seri,North America,28.9877,-112.384,seri1257,sei,Seri,Seri,1264,1264
-idssegmented-zuni,Zuni,North America,35.0056,-108.782,zuni1245,zun,Zuni,Zuni,958,958
+idssegmented-zuni,Zuni,North America,35.0056,-108.782,zuni1245,zun,Zuni,Zuni,957,957
 idssegmented-northernhaida,Northern Haida,North America,54.004532,-132.079257,nort2938,hdn,Northern Haida,Haida,1008,1008
 idssegmented-tlingit,Tlingit,North America,59.4447,-135.29,tlin1245,tli,Tlingit,Athabaskan-Eyak-Tlingit,1293,1293
 idssegmented-tsimshian,Tsimshian,North America,52.59103,-128.544545,nucl1649,tsi,Southern-Coastal Tsimshian,Tsimshian,791,791
@@ -408,15 +408,15 @@ idssegmented-nuuchahnulth,Nuu-chah-nulth,North America,49.67,-126.67,nuuc1236,nu
 idssegmented-bellacoola,Bella Coola,North America,52.3448,-126.689,bell1243,blc,Bella Coola,Salishan,590,590
 idssegmented-upperchehalis,Upper Chehalis,North America,46.7981,-123.169,uppe1439,cjh,Upper Chehalis,Salishan,338,338
 idssegmented-maori,Maori,Papunesia,-38.2881,176.541,maor1246,mri,Maori,Austronesian,2113,2113
-idssegmented-marquesan,Marquesan,Papunesia,-9.75663,-138.979,sout2866,mqm,South Marquesan,Austronesian,1198,1198
-idssegmented-rapanui,Rapa Nui,Papunesia,-27.113,-109.342,rapa1244,rap,Rapanui,Austronesian,1281,1281
+idssegmented-marquesan,Marquesan,Papunesia,-9.75663,-138.979,sout2866,mqm,South Marquesan,Austronesian,1197,1197
+idssegmented-rapanui,Rapa Nui,Papunesia,-27.113,-109.342,rapa1244,rap,Rapanui,Austronesian,1280,1280
 idssegmented-rotuman,Rotuman,Papunesia,-12.5008,177.066,rotu1241,rtm,Rotuman,Austronesian,1296,1296
-idssegmented-tongan,Tongan,Papunesia,-21.17,-175.25,tong1325,ton,Tonga (Tonga Islands),Austronesian,1678,1678
+idssegmented-tongan,Tongan,Papunesia,-21.17,-175.25,tong1325,ton,Tonga (Tonga Islands),Austronesian,1677,1677
 idssegmented-tuamotuan,Tuamotuan,Papunesia,-16.17259,-146.321755,tuam1242,pmt,Tuamotuan,Austronesian,1337,1337
 idssegmented-bari,Barí,South America,9.08497,-72.9353,bari1297,mot,Barí,Chibchan,461,461
 idssegmented-muisca,Muisca,South America,6.24999,-74.1666,chib1270,chb,Chibcha,Chibchan,810,810
 idssegmented-paez,Páez,South America,2.61516,-76.31254,paez1247,pbb,Páez,Páez,1171,1171
-idssegmented-cayapa,Cayapa,South America,0.71489,-79.0508,chac1249,cbi,Cha'palaa,Barbacoan,1552,1552
+idssegmented-cayapa,Cayapa,South America,0.71489,-79.0508,chac1249,cbi,Cha'palaa,Barbacoan,1551,1551
 idssegmented-colorado,Colorado,South America,-0.21181,-79.2347,colo1256,cof,Tsafiki,Barbacoan,1127,1127
 idssegmented-embera,Embera,South America,7.12761,-77.574,nort2972,emp,Northern Emberá,Chocoan,786,786
 idssegmented-epena,Epena,South America,4.25877,-77.3566,epen1239,sja,Epena,Chocoan,1071,1071
@@ -425,13 +425,13 @@ idssegmented-yuwana,Yuwana,South America,5.63879,-65.4267,yuwa1244,yau,Hoti,Hoti
 idssegmented-yaruro,Yaruro,South America,7.10677,-67.5996,pume1238,yae,Pumé,Pumé,1111,1111
 idssegmented-ninamshirishanavariety,Ninam (Shirishana variety),South America,4.03894,-62.7801,nina1238,shb,Ninam,Yanomamic,983,983
 idssegmented-yanomami,Yanomámi,South America,2.48999,-62.8522,yano1262,wca,Yanomám,Yanomamic,925,925
-idssegmented-cofan,Cofán,South America,0.276675,-77.0643,cofa1242,con,Cofán,Cofán,1443,1443
-idssegmented-waorani,Waorani,South America,-1.12312,-76.683,waor1240,auc,Waorani,Waorani,1188,1188
+idssegmented-cofan,Cofán,South America,0.276675,-77.0643,cofa1242,con,Cofán,Cofán,1442,1442
+idssegmented-waorani,Waorani,South America,-1.12312,-76.683,waor1240,auc,Waorani,Waorani,1187,1187
 idssegmented-siona,Siona,South America,0.31733,-76.0237,sion1247,snn,Siona-Tetete,Tucanoan,1130,1130
 idssegmented-tuyuca,Tuyuca,South America,0.39441,-70.043515,tuyu1244,tue,Tuyuca,Tucanoan,1058,1058
 idssegmented-aguaruna,Aguaruna,South America,-5.30044,-77.9218,agua1253,agr,Aguaruna,Chicham,1197,1197
-idssegmented-yagua,Yagua,South America,-3.42913,-72.2186,yagu1244,yad,Yagua,Peba-Yagua,1733,1733
-idssegmented-goajiro,Goajiro,South America,11.395566,-72.199791,wayu1243,guc,Wayuu,Arawakan,968,968
+idssegmented-yagua,Yagua,South America,-3.42913,-72.2186,yagu1244,yad,Yagua,Peba-Yagua,1732,1732
+idssegmented-goajiro,Goajiro,South America,11.395566,-72.199791,wayu1243,guc,Wayuu,Arawakan,967,967
 idssegmented-ignaciano,Ignaciano,South America,-15.1188,-65.3993,igna1246,ign,Ignaciano,Arawakan,1099,1099
 idssegmented-mashcopiro,Mashco Piro,South America,-11.4745,-70.7953,mash1270,cuj,Mashco Piro,Arawakan,564,564
 idssegmented-trinitario,Trinitario,South America,-15.3331,-65.4096,trin1274,trn,Trinitario-Javeriano-Loretano,Arawakan,904,904
@@ -446,99 +446,99 @@ idssegmented-cavinena,Cavineña,South America,-13.3544,-66.6277,cavi1250,cav,Cav
 idssegmented-eseejja,Ese Ejja,South America,-11.7268,-67.515,esee1248,ese,Ese Ejja,Pano-Tacanan,967,967
 idssegmented-tacana,Tacana,South America,-13.39249,-68.04056,taca1256,tna,Tacana,Pano-Tacanan,1178,1178
 idssegmented-cashibo,Cashibo,South America,-8.70232,-75.4206,cash1251,cbr,Cashibo-Cacataibo,Pano-Tacanan,737,737
-idssegmented-catuquina,Catuquina,South America,-7.97456,-71.56151,pano1254,knt,Panoan Katukína,Pano-Tacanan,1113,1113
+idssegmented-catuquina,Catuquina,South America,-7.97456,-71.56151,pano1254,knt,Panoan Katukína,Pano-Tacanan,1112,1112
 idssegmented-chacobo,Chácobo,South America,-12.133,-66.7164,chac1251,cao,Chácobo,Pano-Tacanan,1012,1012
 idssegmented-shipiboconibo,Shipibo-Conibo,South America,-7.17105,-74.8219,ship1254,shp,Shipibo-Conibo,Pano-Tacanan,1325,1325
-idssegmented-yaminahua,Yaminahua,South America,-9.8846,-71.5964,yami1256,yaa,Yaminahua,Pano-Tacanan,1323,1323
+idssegmented-yaminahua,Yaminahua,South America,-9.8846,-71.5964,yami1256,yaa,Yaminahua,Pano-Tacanan,1322,1322
 idssegmented-cayuvava,Cayuvava,South America,-13.2482,-65.4822,cayu1262,cyb,Cayubaba,Cayubaba,1152,1152
 idssegmented-itonama,Itonama,South America,-12.80431,-64.35748,iton1250,ito,Itonama,Itonama,898,898
 idssegmented-movima,Movima,South America,-13.8115,-65.6348,movi1243,mzp,Movima,Movima,1019,1019
 idssegmented-munduruku,Mundurukú,South America,-8.41095,-57.691,mund1330,myu,Mundurukú,Tupian,533,533
-idssegmented-ache,Aché,South America,-25.5865,-56.4697,ache1246,guq,Aché,Tupian,959,959
+idssegmented-ache,Aché,South America,-25.5865,-56.4697,ache1246,guq,Aché,Tupian,958,958
 idssegmented-chiriguano,Chiriguano,South America,-20.42,-63.37,east2555,gui,Eastern Bolivian Guaraní,Tupian,1387,1387
-idssegmented-guarani,Guaraní,South America,-25.60551,-57.08816,para1311,gug,Paraguayan Guaraní,Tupian,1827,1827
+idssegmented-guarani,Guaraní,South America,-25.60551,-57.08816,para1311,gug,Paraguayan Guaraní,Tupian,1826,1826
 idssegmented-siriono,Sirionó,South America,-15.5298,-63.9688,siri1273,srq,Sirionó,Tupian,1155,1155
 idssegmented-wayampi,Wayampi,South America,1.73817,-52.6887,waya1270,oym,Wayampi,Tupian,1237,1237
-idssegmented-kaingang,Kaingáng,South America,-27.7671,-52.5394,kain1272,kgp,Kaingang,Nuclear-Macro-Je,1684,1684
+idssegmented-kaingang,Kaingáng,South America,-27.7671,-52.5394,kain1272,kgp,Kaingang,Nuclear-Macro-Je,1683,1683
 idssegmented-karaja,Karajá,South America,-11.1881,-50.3492,kara1500,kpj,Karajá,Nuclear-Macro-Je,522,522
 idssegmented-trumai,Trumai,South America,-11.8119,-53.5717,trum1247,tpy,Trumai,Trumai,675,675
-idssegmented-ayoreo,Ayoreo,South America,-19.220055,-60.217495,ayor1240,ayo,Ayoreo,Zamucoan,1373,1373
-idssegmented-sanapanaangaitedialect,Sanapaná (Angaité dialect),South America,-22.85,-58.45,anga1316,aqt,Angaité,Lengua-Mascoy,1143,1143
-idssegmented-sanapanaenlhetdialect,Sanapaná (Enlhet dialect),South America,-22.49,-58.38,sana1298,spn,Sanapaná,Lengua-Mascoy,1726,1726
-idssegmented-lengua,Lengua,South America,-22.6559,-58.9053,leng1262,,Lengua,Lengua-Mascoy,1088,1088
-idssegmented-mocovi,Mocoví,South America,-28.097,-60.4145,moco1246,moc,Mocoví,Guaicuruan,1169,1169
-idssegmented-pilaga,Pilagá,South America,-25.0058,-60.1537,pila1245,plg,Pilagá,Guaicuruan,1183,1183
-idssegmented-chorote,Chorote,South America,-22.1896,-63.2383,iyoj1235,crt,Iyojwa'ja Chorote,Matacoan,1489,1489
-idssegmented-maca,Maca,South America,-25.0119,-57.3694,maca1260,mca,Maca,Matacoan,1053,1053
-idssegmented-nivacle,Nivaclé,South America,-22.8557,-61.7606,niva1238,cag,Nivaclé,Matacoan,1498,1498
+idssegmented-ayoreo,Ayoreo,South America,-19.220055,-60.217495,ayor1240,ayo,Ayoreo,Zamucoan,1372,1372
+idssegmented-sanapanaangaitedialect,Sanapaná (Angaité dialect),South America,-22.85,-58.45,anga1316,aqt,Angaité,Lengua-Mascoy,1142,1142
+idssegmented-sanapanaenlhetdialect,Sanapaná (Enlhet dialect),South America,-22.49,-58.38,sana1298,spn,Sanapaná,Lengua-Mascoy,1725,1725
+idssegmented-lengua,Lengua,South America,-22.6559,-58.9053,leng1262,,Lengua,Lengua-Mascoy,1087,1087
+idssegmented-mocovi,Mocoví,South America,-28.097,-60.4145,moco1246,moc,Mocoví,Guaicuruan,1168,1168
+idssegmented-pilaga,Pilagá,South America,-25.0058,-60.1537,pila1245,plg,Pilagá,Guaicuruan,1182,1182
+idssegmented-chorote,Chorote,South America,-22.1896,-63.2383,iyoj1235,crt,Iyojwa'ja Chorote,Matacoan,1488,1488
+idssegmented-maca,Maca,South America,-25.0119,-57.3694,maca1260,mca,Maca,Matacoan,1052,1052
+idssegmented-nivacle,Nivaclé,South America,-22.8557,-61.7606,niva1238,cag,Nivaclé,Matacoan,1497,1497
 idssegmented-kunza,Kunza,South America,-23.0,-69.0,kunz1244,kuz,Kunza,Kunza,893,893
-idssegmented-mapudungun,Mapudungun,South America,-38.7392,-71.277,mapu1245,arn,Mapudungun,Araucanian,1332,1332
+idssegmented-mapudungun,Mapudungun,South America,-38.7392,-71.277,mapu1245,arn,Mapudungun,Araucanian,1331,1331
 idssegmented-tehuelche,Tehuelche,South America,-47.5796,-68.3235,tehu1242,teh,Tehuelche,Chonan,854,854
 idssegmented-selknam,Selknam,South America,-54.0,-68.5,onaa1245,ona,Selk'nam,Chonan,850,850
 idssegmented-gununakune,Gününa Küne,South America,-42.223,-68.666,puel1244,pue,Puelche,Puelche,750,750
 idssegmented-qawasqar,Qawasqar,South America,-49.303195,-74.707536,qawa1238,alc,Qawasqar,Kawesqar,615,615
-idssegmented-toba,Toba,South America,-23.77,-61.96,toba1269,tob,Toba,Guaicuruan,1330,1330
+idssegmented-toba,Toba,South America,-23.77,-61.96,toba1269,tob,Toba,Guaicuruan,1329,1329
 idssegmented-yagan,Yagán,South America,-55.2748,-68.2648,yama1264,yag,Yámana,Yámana,701,701
-idssegmented-uncunwee,Uncunwee,Africa,11.6432,29.8122,ghul1238,ghl,Uncunwee,Nubian,1690,1690
-idssegmented-ossetic,Ossetic,Eurasia,42.98,44.61,iron1242,oss,Iron Ossetian,Indo-European,2264,2264
-idssegmented-khwarshikwantladadialect,Khwarshi (Kwantlada dialect),Eurasia,42.2743,45.9977,khva1239,khv,Khwarshi-Inkhoqwari,Nakh-Daghestanian,1651,1651
-idssegmented-southerntaisongkhlavariety,Southern Tai (Songkhla variety),Eurasia,6.85668,99.7031,sout2746,sou,Southern Thai,Tai-Kadai,1303,1303
-idssegmented-khamuangchiangmaivariety,Khamuang (Chiang Mai variety),Eurasia,18.857495,100.20739,nort2740,nod,Northern Thai,Tai-Kadai,1236,1236
-idssegmented-dehong,Dehong,Eurasia,21.7837,99.722,tain1252,tdd,Tai Nüa,Tai-Kadai,1467,1467
-idssegmented-jinshadai,Jinsha Dai,Eurasia,26.7238,106.682,nort1545,huj,Northern Guiyang Hmong,Hmong-Mien,1240,1240
-idssegmented-tailu,Tai Lü,Eurasia,21.0321,101.282,luuu1242,khb,Lü,Tai-Kadai,1309,1309
-idssegmented-taikhun,Tai Khün,Eurasia,19.6062,99.3363,khun1259,kkh,Khün,Tai-Kadai,1464,1464
-idssegmented-shannorthernshandialect,Shan (Northern Shan dialect),Eurasia,21.5995,98.0342,shan1277,shn,Shan,Tai-Kadai,1794,1794
-idssegmented-nungfengshan,Nung-Fengshan,Eurasia,24.3,106.2,guib1244,zgn,Guibian Zhuang,Tai-Kadai,1393,1393
-idssegmented-nungninbei,Nung-Ninbei,Eurasia,20.8965,104.286,nung1283,nut,Nung (Viet Nam),Tai-Kadai,1247,1247
-idssegmented-zhuanglongzhou,Zhuang-Longzhou,Eurasia,22.4,106.9,zuoj1238,zzj,Zuojiang Zhuang,Tai-Kadai,1645,1645
-idssegmented-sui,Sui,Eurasia,24.0488,106.563,suii1243,swi,Sui,Tai-Kadai,1482,1482
-idssegmented-maonan,Maonan,Eurasia,25.0169,108.024,maon1241,mmd,Maonan,Tai-Kadai,1153,1153
+idssegmented-uncunwee,Uncunwee,Africa,11.6432,29.8122,ghul1238,ghl,Uncunwee,Nubian,1688,1688
+idssegmented-ossetic,Ossetic,Eurasia,42.98,44.61,iron1242,oss,Iron Ossetian,Indo-European,2261,2261
+idssegmented-khwarshikwantladadialect,Khwarshi (Kwantlada dialect),Eurasia,42.2743,45.9977,khva1239,khv,Khwarshi-Inkhoqwari,Nakh-Daghestanian,1650,1650
+idssegmented-southerntaisongkhlavariety,Southern Tai (Songkhla variety),Eurasia,6.85668,99.7031,sout2746,sou,Southern Thai,Tai-Kadai,1302,1302
+idssegmented-khamuangchiangmaivariety,Khamuang (Chiang Mai variety),Eurasia,18.857495,100.20739,nort2740,nod,Northern Thai,Tai-Kadai,1235,1235
+idssegmented-dehong,Dehong,Eurasia,21.7837,99.722,tain1252,tdd,Tai Nüa,Tai-Kadai,1466,1466
+idssegmented-jinshadai,Jinsha Dai,Eurasia,26.7238,106.682,nort1545,huj,Northern Guiyang Hmong,Hmong-Mien,1239,1239
+idssegmented-tailu,Tai Lü,Eurasia,21.0321,101.282,luuu1242,khb,Lü,Tai-Kadai,1308,1308
+idssegmented-taikhun,Tai Khün,Eurasia,19.6062,99.3363,khun1259,kkh,Khün,Tai-Kadai,1463,1463
+idssegmented-shannorthernshandialect,Shan (Northern Shan dialect),Eurasia,21.5995,98.0342,shan1277,shn,Shan,Tai-Kadai,1793,1793
+idssegmented-nungfengshan,Nung-Fengshan,Eurasia,24.3,106.2,guib1244,zgn,Guibian Zhuang,Tai-Kadai,1392,1392
+idssegmented-nungninbei,Nung-Ninbei,Eurasia,20.8965,104.286,nung1283,nut,Nung (Viet Nam),Tai-Kadai,1246,1246
+idssegmented-zhuanglongzhou,Zhuang-Longzhou,Eurasia,22.4,106.9,zuoj1238,zzj,Zuojiang Zhuang,Tai-Kadai,1644,1644
+idssegmented-sui,Sui,Eurasia,24.0488,106.563,suii1243,swi,Sui,Tai-Kadai,1481,1481
+idssegmented-maonan,Maonan,Eurasia,25.0169,108.024,maon1241,mmd,Maonan,Tai-Kadai,1152,1152
 idssegmented-mulam,Mulam,Eurasia,24.8151,108.928,mula1253,mlm,Mulam,Tai-Kadai,1123,1123
-idssegmented-chadong,Chadong,Eurasia,25.23532,109.96041,chad1240,cdy,Chadong,Tai-Kadai,1218,1218
-idssegmented-southernkam,Southern Kam,Eurasia,25.8874,109.222,sout2741,kmc,Southern Dong,Tai-Kadai,1333,1333
-idssegmented-lakkia,Lakkia,Eurasia,24.1169,110.106,lakk1238,lbc,Lakkia,Tai-Kadai,1347,1347
-idssegmented-hlaibaotingvariety,Hlai (Baoting variety),Eurasia,18.8062,109.459,hlai1239,lic,Hlai,Tai-Kadai,1234,1234
+idssegmented-chadong,Chadong,Eurasia,25.23532,109.96041,chad1240,cdy,Chadong,Tai-Kadai,1217,1217
+idssegmented-southernkam,Southern Kam,Eurasia,25.8874,109.222,sout2741,kmc,Southern Dong,Tai-Kadai,1332,1332
+idssegmented-lakkia,Lakkia,Eurasia,24.1169,110.106,lakk1238,lbc,Lakkia,Tai-Kadai,1346,1346
+idssegmented-hlaibaotingvariety,Hlai (Baoting variety),Eurasia,18.8062,109.459,hlai1239,lic,Hlai,Tai-Kadai,1233,1233
 idssegmented-langjabuyang,Langja Buyang,Eurasia,23.604572,106.030277,emab1235,yzg,E'ma Buyang,Tai-Kadai,1131,1131
 idssegmented-ecunbuyang,Ecun Buyang,Eurasia,23.550258,106.016896,lang1316,yln,Langnian Buyang,Tai-Kadai,1093,1093
-idssegmented-sanchongkelao,Sanchong Kelao,Eurasia,22.5632,104.698,gree1278,giq,Hagei Gelao,Tai-Kadai,1003,1003
-idssegmented-qaukelao,Qau Kelao,Eurasia,26.155438,106.16455,qaua1234,gqu,Central Gelao-Qau,Tai-Kadai,1090,1090
-idssegmented-botlikhmiarsodialect,Botlikh (Miarso dialect),Eurasia,42.665,46.22,botl1242,bph,Botlikh,Nakh-Daghestanian,1428,1428
-idssegmented-dargwachiragdialect,Dargwa (Chirag dialect),Eurasia,41.869481,47.41111,chir1284,,Chirag,Nakh-Daghestanian,1269,1269
-idssegmented-ingush,Ingush,Eurasia,43.11,45.03,ingu1240,inh,Ingush,Nakh-Daghestanian,1430,1430
-idssegmented-kryz,Kryz,Eurasia,41.1811,48.1846,kryt1240,kry,Kryz,Nakh-Daghestanian,1399,1399
-idssegmented-lakshalidialect,Lak (Shali dialect),Eurasia,42.1328,47.0809,lakk1252,lbe,Lak,Nakh-Daghestanian,1462,1462
-idssegmented-rutulborchinokhnowdialect,Rutul (Borchino Khnow dialect),Eurasia,41.6187,47.3244,rutu1240,rut,Rutul,Nakh-Daghestanian,1322,1322
-idssegmented-tsovatush,Tsova-Tush,Eurasia,42.1806,45.344,bats1242,bbl,Bats,Nakh-Daghestanian,1533,1533
-idssegmented-bengali,Bengali,Eurasia,24.0,90.0,beng1280,ben,Bengali,Indo-European,1305,1305
-idssegmented-hindi,Hindi,Eurasia,25.0,77.0,hind1269,hin,Hindi,Indo-European,1523,1523
-idssegmented-khasi,Khasi,Eurasia,24.977,91.9998,khas1269,kha,Khasi,Austroasiatic,1223,1223
-idssegmented-mahasupaharikotgharidialect,Mahasu Pahari (Kotghari dialect),Eurasia,31.0088,77.5317,maha1287,bfz,Mahasu Pahari,Indo-European,1100,1100
-idssegmented-marathi,Marathi,Eurasia,17.9344,76.6665,mara1378,mar,Marathi,Indo-European,1496,1496
-idssegmented-nepali,Nepali,Eurasia,27.5947033333,87.6200833333,east1436,nep,Eastern Pahari,Indo-European,1068,1068
-idssegmented-punjabi,Punjabi,Eurasia,30.0948,75.3474,west2386,pnb,Western Panjabi,Indo-European,1551,1551
-idssegmented-tamil,Tamil,Eurasia,10.520219,78.825989,tami1289,tam,Tamil,Dravidian,1179,1179
-idssegmented-telugu,Telugu,Eurasia,16.4529,78.7024,telu1262,tel,Telugu,Dravidian,3928,3928
-idssegmented-tibetan,Tibetan,Eurasia,28.3681,90.1872,tibe1272,bod,Tibetan,Sino-Tibetan,1256,1256
-idssegmented-kme2kemievariety,Kme-2 (Kemie variety),Eurasia,22.0743,100.842,manm1238,mml,Man Met,Austroasiatic,1154,1154
-idssegmented-bulang3,Bulang-3,Eurasia,22.0092,99.7405,blan1242,blr,Blang,Austroasiatic,1187,1187
+idssegmented-sanchongkelao,Sanchong Kelao,Eurasia,22.5632,104.698,gree1278,giq,Hagei Gelao,Tai-Kadai,1002,1002
+idssegmented-qaukelao,Qau Kelao,Eurasia,26.155438,106.16455,qaua1234,gqu,Central Gelao-Qau,Tai-Kadai,1089,1089
+idssegmented-botlikhmiarsodialect,Botlikh (Miarso dialect),Eurasia,42.665,46.22,botl1242,bph,Botlikh,Nakh-Daghestanian,1427,1427
+idssegmented-dargwachiragdialect,Dargwa (Chirag dialect),Eurasia,41.869481,47.41111,chir1284,,Chirag,Nakh-Daghestanian,1268,1268
+idssegmented-ingush,Ingush,Eurasia,43.11,45.03,ingu1240,inh,Ingush,Nakh-Daghestanian,1429,1429
+idssegmented-kryz,Kryz,Eurasia,41.1811,48.1846,kryt1240,kry,Kryz,Nakh-Daghestanian,1398,1398
+idssegmented-lakshalidialect,Lak (Shali dialect),Eurasia,42.1328,47.0809,lakk1252,lbe,Lak,Nakh-Daghestanian,1461,1461
+idssegmented-rutulborchinokhnowdialect,Rutul (Borchino Khnow dialect),Eurasia,41.6187,47.3244,rutu1240,rut,Rutul,Nakh-Daghestanian,1321,1321
+idssegmented-tsovatush,Tsova-Tush,Eurasia,42.1806,45.344,bats1242,bbl,Bats,Nakh-Daghestanian,1532,1532
+idssegmented-bengali,Bengali,Eurasia,24.0,90.0,beng1280,ben,Bengali,Indo-European,1304,1304
+idssegmented-hindi,Hindi,Eurasia,25.0,77.0,hind1269,hin,Hindi,Indo-European,1522,1522
+idssegmented-khasi,Khasi,Eurasia,24.977,91.9998,khas1269,kha,Khasi,Austroasiatic,1222,1222
+idssegmented-mahasupaharikotgharidialect,Mahasu Pahari (Kotghari dialect),Eurasia,31.0088,77.5317,maha1287,bfz,Mahasu Pahari,Indo-European,1098,1098
+idssegmented-marathi,Marathi,Eurasia,17.9344,76.6665,mara1378,mar,Marathi,Indo-European,1495,1495
+idssegmented-nepali,Nepali,Eurasia,27.5947033333,87.6200833333,east1436,nep,Eastern Pahari,Indo-European,1067,1067
+idssegmented-punjabi,Punjabi,Eurasia,30.0948,75.3474,west2386,pnb,Western Panjabi,Indo-European,1550,1550
+idssegmented-tamil,Tamil,Eurasia,10.520219,78.825989,tami1289,tam,Tamil,Dravidian,1178,1178
+idssegmented-telugu,Telugu,Eurasia,16.4529,78.7024,telu1262,tel,Telugu,Dravidian,3927,3927
+idssegmented-tibetan,Tibetan,Eurasia,28.3681,90.1872,tibe1272,bod,Tibetan,Sino-Tibetan,1253,1253
+idssegmented-kme2kemievariety,Kme-2 (Kemie variety),Eurasia,22.0743,100.842,manm1238,mml,Man Met,Austroasiatic,1153,1153
+idssegmented-bulang3,Bulang-3,Eurasia,22.0092,99.7405,blan1242,blr,Blang,Austroasiatic,1186,1186
 idssegmented-xu,Xu,Eurasia,22.0163,100.881,huuu1240,huo,Hu,Austroasiatic,981,981
-idssegmented-wa,Wa,Eurasia,23.1024,99.108,nucl1290,wbm,Zhenkang Wa,Austroasiatic,1285,1285
-idssegmented-rumai,Rumai,Eurasia,23.6404,97.3172,ruma1248,rbb,Rumai Palaung,Austroasiatic,1013,1013
-idssegmented-prai,Prai,Eurasia,19.0383,101.218,phai1238,prt,Prai,Austroasiatic,2131,2131
-idssegmented-pusing,Pusing,Eurasia,21.3474,101.916,bitt1240,bgk,Bit,Austroasiatic,1261,1261
-idssegmented-paliu,Paliu,Eurasia,24.7013,104.955,boly1239,ply,Bolyu,Austroasiatic,1063,1063
-idssegmented-mlabri,Mlabri,Eurasia,18.5533,101.163,mlab1235,mra,Mlabri,Austroasiatic,919,919
-idssegmented-phong,Phong,Eurasia,19.9622,104.088,phon1246,pnx,Phong-Kniang,Austroasiatic,1146,1146
-idssegmented-khapoong,Kha Poong,Eurasia,18.25,105.0,khap1242,,Kha Phong,Austroasiatic,1316,1316
+idssegmented-wa,Wa,Eurasia,23.1024,99.108,nucl1290,wbm,Zhenkang Wa,Austroasiatic,1284,1284
+idssegmented-rumai,Rumai,Eurasia,23.6404,97.3172,ruma1248,rbb,Rumai Palaung,Austroasiatic,1012,1012
+idssegmented-prai,Prai,Eurasia,19.0383,101.218,phai1238,prt,Prai,Austroasiatic,2129,2129
+idssegmented-pusing,Pusing,Eurasia,21.3474,101.916,bitt1240,bgk,Bit,Austroasiatic,1260,1260
+idssegmented-paliu,Paliu,Eurasia,24.7013,104.955,boly1239,ply,Bolyu,Austroasiatic,1062,1062
+idssegmented-mlabri,Mlabri,Eurasia,18.5533,101.163,mlab1235,mra,Mlabri,Austroasiatic,918,918
+idssegmented-phong,Phong,Eurasia,19.9622,104.088,phon1246,pnx,Phong-Kniang,Austroasiatic,1145,1145
+idssegmented-khapoong,Kha Poong,Eurasia,18.25,105.0,khap1242,,Kha Phong,Austroasiatic,1315,1315
 idssegmented-ahlaothavung,Ahlao (Thavung),Eurasia,17.7655,104.229,aheu1239,thm,Thavung,Austroasiatic,863,863
-idssegmented-nyakur,Nyakur,Eurasia,15.8909,101.515,nyah1250,cbn,Nyahkur,Austroasiatic,1136,1136
+idssegmented-nyakur,Nyakur,Eurasia,15.8909,101.515,nyah1250,cbn,Nyahkur,Austroasiatic,1135,1135
 idssegmented-pear,Pear,Eurasia,13.593,105.028,pear1247,pcb,Pear,Austroasiatic,1172,1172
-idssegmented-kasong,Kasong,Eurasia,11.936,104.136,suoy1242,syo,Suoy,Austroasiatic,1078,1078
+idssegmented-kasong,Kasong,Eurasia,11.936,104.136,suoy1242,syo,Suoy,Austroasiatic,1077,1077
 idssegmented-samre,Samre,Eurasia,12.243,103.139,somr1240,smu,Somray of Battambang-Somre of Siem Reap,Austroasiatic,1193,1193
-idssegmented-chong,Chong,Eurasia,12.5218,102.514,chon1284,cog,Chong of Chanthaburi,Austroasiatic,1163,1163
-idssegmented-iduh,Iduh,Eurasia,19.3497,104.106,oduu1239,tyh,O'du,Austroasiatic,997,997
-idssegmented-mangch,Mang Ch,Eurasia,21.4305,102.133,mang1378,zng,Mang,Austroasiatic,1257,1257
+idssegmented-chong,Chong,Eurasia,12.5218,102.514,chon1284,cog,Chong of Chanthaburi,Austroasiatic,1162,1162
+idssegmented-iduh,Iduh,Eurasia,19.3497,104.106,oduu1239,tyh,O'du,Austroasiatic,996,996
+idssegmented-mangch,Mang Ch,Eurasia,21.4305,102.133,mang1378,zng,Mang,Austroasiatic,1256,1256
 kraftchadic-Angas,Angas,Africa,9.32042,9.46146,ngas1240,anc,Ngas,Afro-Asiatic,375,375
 kraftchadic-Ankwe,Ankwe,Africa,8.74455,9.72453,goem1240,ank,Goemai,Afro-Asiatic,382,382
 kraftchadic-Bacama,Bacama,Africa,9.53072,12.0416,baca1246,bcy,Bacama,Afro-Asiatic,384,384
@@ -706,7 +706,7 @@ robinsonap-kaera,Kaera,Papunesia,-8.3287,124.0177,kaer1234,jka,Kaera,Timor-Alor-
 robinsonap-westernpantar,Western Pantar,Papunesia,-8.52787,124.057,lamm1241,lev,Western Pantar,Timor-Alor-Pantar,365,365
 robinsonap-adang,Adang,Papunesia,-8.18958,124.448,adan1251,adn,Adang,Timor-Alor-Pantar,335,335
 robinsonap-sawila,Sawila,Papunesia,-8.29105,125.078,sawi1256,swt,Sawila,Timor-Alor-Pantar,326,326
-robinsonap-nedebang,Nedebang,Papunesia,-8.28776,124.192,nede1245,nec,Klamu,Timor-Alor-Pantar,326,326
+robinsonap-nedebang,Nedebang,Papunesia,-8.28776,124.192,nede1245,nec,Nedebang,Timor-Alor-Pantar,326,326
 robinsonap-klon,Klon,Papunesia,-8.40688,124.429,kelo1247,kyo,Klon,Timor-Alor-Pantar,365,365
 sohartmannchin-Khumi,Khumi,Eurasia,22.87125,92.9894633333,khum1248,cnk,Khumi Chin,Sino-Tibetan,265,265
 sohartmannchin-Matu,Matu,Eurasia,23.312,92.83,ngal1291,hlt,Nga La,Sino-Tibetan,267,267
@@ -751,7 +751,7 @@ tls-Kutu,Kutu,Africa,-7.23789,37.8623,kutu1263,kdc,Kutu,Atlantic-Congo,586,586
 tls-Kwere,Kwere,Africa,-6.50666,38.4449,kwer1261,cwe,Kwere,Atlantic-Congo,598,598
 tls-Lambya,Lambya,Africa,-9.49372,33.15852,lamb1272,lai,Lambya,Atlantic-Congo,600,600
 tls-Langi,Langi,Africa,-4.71413,35.9517,lang1320,lag,Langi,Atlantic-Congo,583,583
-tls-Luganda,Luganda,Africa,0.66884,32.15153,gand1255,lug,Ganda,Atlantic-Congo,446,446
+tls-Luganda,Luganda,Africa,0.66884,32.15153,gand1255,lug,Ganda,Atlantic-Congo,447,447
 tls-Luguru,Luguru,Africa,-6.86828,37.5557,lugu1238,ruf,Luguru,Atlantic-Congo,536,536
 tls-Lvhyia,Lvhyia,Africa,0.3652,34.0335,saam1283,lsm,Saamia,Atlantic-Congo,600,600
 tls-Lumasaaba,Lumasaaba,Africa,1.05906,34.2829,masa1299,myx,Masaaba,Atlantic-Congo,587,587
@@ -766,7 +766,7 @@ tls-Matumbi,Matumbi,Africa,-8.53734,39.0409,matu1259,mgw,Matumbi,Atlantic-Congo,
 tls-Kimbunga,Kimbunga,Africa,-8.19661,36.5362,mbun1248,mgy,Mbunga,Atlantic-Congo,576,576
 tls-Meru,Meru,Africa,0.26484,37.7396,meru1245,mer,Meru,Atlantic-Congo,580,580
 tls-Mkwaya,Mkwaya,Africa,-1.80737,33.71,kway1241,kya,Kwaya,Atlantic-Congo,579,579
-tls-Mpoto,Mpoto,Africa,-11.13767,34.71269,mpot1240,mpa,Mpoto,Atlantic-Congo,552,552
+tls-Mpoto,Mpoto,Africa,-11.13767,34.71269,mpot1240,mpa,Mpoto,Atlantic-Congo,551,551
 tls-Mwera1,Mwera1,Africa,-9.75639,38.8762,mwer1248,mwe,Mwera (Chimwera),Atlantic-Congo,577,577
 tls-Namwanga,Namwanga,Africa,-9.11261,32.3163,nyam1275,mwn,Nyamwanga,Atlantic-Congo,597,597
 tls-Nata,Nata,Africa,-1.94989,34.5361,ikom1245,ntk,Ikoma-Nata,Atlantic-Congo,577,577
@@ -776,7 +776,7 @@ tls-Ngindo,Ngindo,Africa,-9.78145,37.9832,ngin1244,nnq,Ngindo,Atlantic-Congo,522
 tls-Ngoni,Ngoni,Africa,-11.7794,37.4118,ngon1269,,Tanzania-Mozambique Ngoni,Atlantic-Congo,581,581
 tls-Ngoreme,Ngoreme,Africa,-1.8485,34.6173,ngur1263,ngq,Ngoreme,Atlantic-Congo,591,591
 tls-Nguungulu,Nguungulu,Africa,-5.79734,37.6823,ngul1246,ngp,Ngulu,Atlantic-Congo,584,584
-tls-NPare,N_pare,Africa,-4.17978,37.8323,asut1235,asa,Asu (Tanzania),Atlantic-Congo,608,608
+tls-NPare,N_pare,Africa,-4.17978,37.8323,asut1235,asa,Asu (Tanzania),Atlantic-Congo,606,606
 tls-Ntuzu,Ntuzu,Africa,-3.16082,32.8765,suku1261,suk,Sukuma,Atlantic-Congo,556,556
 tls-Nyamwezi,Nyamwezi,Africa,-5.08559,32.94452,nyam1276,nym,Nyamwezi,Atlantic-Congo,591,591
 tls-Nyaturuwil,Nyaturuwil,Africa,-5.12263,34.6657,nyat1246,rim,Nyaturu,Atlantic-Congo,592,592
@@ -787,10 +787,10 @@ tls-Pimbwe,Pimbwe,Africa,-6.81358,31.4289,pimb1238,piw,Pimbwe,Atlantic-Congo,553
 tls-Pogoro,Pogoro,Africa,-8.72283,36.4148,pogo1243,poy,Pogolo,Atlantic-Congo,559,559
 tls-Rufiji,Rufiji,Africa,-7.54628,38.958,nden1248,ndg,Ndengereko,Atlantic-Congo,575,575
 tls-Rukiga,Rukiga,Africa,-1.04387,29.9122,chig1238,cgg,Chiga,Atlantic-Congo,600,600
-tls-Rundi,Rundi,Africa,-2.94,29.97,rund1242,run,Rundi,Atlantic-Congo,508,508
+tls-Rundi,Rundi,Africa,-2.94,29.97,rund1242,run,Rundi,Atlantic-Congo,507,507
 tls-Rungwa,Rungwa,Africa,-7.24959,31.7614,rung1255,rnw,Rungwa,Atlantic-Congo,595,595
 tls-Runyambo,Runyambo,Africa,-1.6096,30.9156,nyam1277,now,Nyambo,Atlantic-Congo,590,590
-tls-Runyankore,Runyankore,Africa,-0.46364,30.548,nyan1307,nyn,Nyankole,Atlantic-Congo,571,571
+tls-Runyankore,Runyankore,Africa,-0.46364,30.548,nyan1307,nyn,Nyankole,Atlantic-Congo,570,570
 tls-Runyoro,Runyoro,Africa,0.95294,31.3493,nyor1246,nyo,Nyoro,Atlantic-Congo,588,588
 tls-Rutooro,Rutooro,Africa,0.57291,30.6389,toor1238,ttj,Tooro,Atlantic-Congo,599,599
 tls-Safwa,Safwa,Africa,-8.54936,33.4766,safw1238,sbk,Safwa,Atlantic-Congo,576,576
@@ -801,7 +801,7 @@ tls-Sonjo,Sonjo,Africa,-2.19303,35.8035,temi1247,soz,Temi,Atlantic-Congo,601,601
 tls-Suba,Suba,Africa,-0.95719,34.1033,suba1238,sxb,Suba,Atlantic-Congo,590,590
 tls-Sumbwa,Sumbwa,Africa,-3.47335,31.9457,sumb1240,suw,Sumbwa,Atlantic-Congo,550,550
 tls-Tharaka,Tharaka,Africa,-0.13221,38.073,thar1283,thk,Tharaka,Atlantic-Congo,568,568
-tls-Tuveta,Tuveta,Africa,-3.41822,37.7061,tave1240,tvs,Taveta,Atlantic-Congo,412,412
+tls-Tuveta,Tuveta,Africa,-3.41822,37.7061,tave1240,tvs,Taveta,Atlantic-Congo,413,413
 tls-Vunjo,Vunjo,Africa,-3.42531,37.5847,vunj1238,vun,Vunjo,Atlantic-Congo,586,586
 tls-Wanda,Wanda,Africa,-8.34522,32.4375,wand1264,wbh,Wanda,Atlantic-Congo,594,594
 tls-Wanji,Wanji,Africa,-9.00683,34.0757,vwan1235,wbi,Vwanji,Atlantic-Congo,573,573
@@ -811,83 +811,83 @@ tls-Zaramo,Zaramo,Africa,-6.87705,38.9258,zara1247,zaj,Zaramo,Atlantic-Congo,596
 tls-Zigua,Zigua,Africa,-5.61864,38.4114,zigu1242,,Zigula,Atlantic-Congo,591,591
 tls-Zinza,Zinza,Africa,-2.64132,32.1755,zinz1238,zin,Zinza,Atlantic-Congo,592,592
 transnewguineaorg-bongu,Bongu,Papunesia,-5.50519,145.806,bong1291,bpu,Bongu,Nuclear Trans New Guinea,380,380
-transnewguineaorg-wambon,Wambon,Papunesia,-5.44334,140.48,wamb1259,wms,Wambon,Nuclear Trans New Guinea,499,499
-tuled-Akuntsu,Akuntsu,South America,-12.8322,-60.9716,akun1241,aqz,Akuntsu,Tupian,347,347
+transnewguineaorg-wambon,Wambon,Papunesia,-5.44334,140.48,wamb1259,wms,Wambon,Nuclear Trans New Guinea,498,498
+tuled-Akuntsu,Akuntsu,South America,-12.8322,-60.9716,akun1241,aqz,Akuntsu,Tupian,346,346
 tuled-Amondawa,Amondawa,South America,-9.04023,-62.3064,amun1246,adw,Amundava,Tupian,304,304
-tuled-Arawete,Araweté,South America,-4.90246,-52.5001,araw1273,awt,Araweté,Tupian,267,267
-tuled-AsuriniTocantins,Asuriní Tocantins,South America,-3.59359,-49.8991,toca1235,asu,Tocantins Asurini,Tupian,330,330
-tuled-AvaCanoeiro,Avá Canoeiro,South America,-13.6081,-48.1336,avac1239,avv,Avá-Canoeiro,Tupian,277,277
-tuled-Aweti,Awetí,South America,-12.381944,-53.391944,awet1244,awe,Awetí,Tupian,353,353
-tuled-Kokama,Kokama,South America,-4.5,-74,coca1259,cod,Cocama-Cocamilla,Tupian,318,318
-tuled-Teko,Teko,South America,3.23694,-52.3699,emer1243,eme,Teko,Tupian,359,359
-tuled-Gaviao,Gavião,South America,-10.7235,-61.6752,gavi1246,gvo,Gavião Do Jiparaná,Tupian,388,388
-tuled-Guaja,Guajá,South America,-3.93574,-46.3683,guaj1256,gvj,Guajá,Tupian,312,312
-tuled-Guajajara,Guajajara,South America,-4.69461,-45.7081,guaj1255,gub,Guajajára,Tupian,303,303
-tuled-Guarayo,Guarayo,South America,-15.8247,-61.6934,guar1292,gyr,Guarayu,Tupian,372,372
-tuled-Juruna,Juruna,South America,-10.9354,-53.3472,juru1256,jur,Jurúna,Tupian,326,326
-tuled-Kaapor,Ka'apor,South America,-2.46455,-46.2204,urub1250,urb,Urubú-Kaapor,Tupian,353,353
+tuled-Arawete,Araweté,South America,-4.90246,-52.5001,araw1273,awt,Araweté,Tupian,268,268
+tuled-AsuriniTocantins,Asuriní Tocantins,South America,-3.59359,-49.8991,toca1235,asu,Tocantins Asurini,Tupian,331,331
+tuled-Aweti,Awetí,South America,-12.381944,-53.391944,awet1244,awe,Awetí,Tupian,354,354
+tuled-Kokama,Kokama,South America,-4.5,-74,coca1259,cod,Cocama-Cocamilla,Tupian,323,323
+tuled-Teko,Teko,South America,3.23694,-52.3699,emer1243,eme,Teko,Tupian,378,378
+tuled-Gaviao,Gavião,South America,-10.7235,-61.6752,gavi1246,gvo,Gavião Do Jiparaná,Tupian,394,394
+tuled-Guaja,Guajá,South America,-3.93574,-46.3683,guaj1256,gvj,Guajá,Tupian,317,317
+tuled-Guajajara,Guajajara,South America,-4.69461,-45.7081,guaj1255,gub,Guajajára,Tupian,384,384
+tuled-Guarayo,Guarayo,South America,-15.8247,-61.6934,guar1292,gyr,Guarayu,Tupian,373,373
+tuled-Juruna,Juruna,South America,-10.9354,-53.3472,juru1256,jur,Jurúna,Tupian,328,328
+tuled-Kaapor,Ka'apor,South America,-2.46455,-46.2204,urub1250,urb,Urubú-Kaapor,Tupian,354,354
 tuled-Kamajura,Kamajura,South America,-12.2661,-53.4651,kama1373,kay,Kamayurá,Tupian,256,256
-tuled-Karitiana,Karitiana,South America,-9.37937,-64.1522,kari1311,ktn,Karitiâna,Tupian,385,385
-tuled-Karo,Karo,South America,-10.3342,-61.5691,karo1305,arr,Karo (Brazil),Tupian,340,340
+tuled-Karitiana,Karitiana,South America,-9.37937,-64.1522,kari1311,ktn,Karitiâna,Tupian,400,400
+tuled-Karo,Karo,South America,-10.3342,-61.5691,karo1305,arr,Karo (Brazil),Tupian,342,342
 tuled-Makurap,Makurap,South America,-11.8701,-64.3201,maku1278,mpu,Makuráp,Tupian,367,367
-tuled-Mbya,Mbya,South America,-26.0188,-52.711,mbya1239,gun,Mbyá Guaraní,Tupian,324,324
-tuled-Mekens,Mekens,South America,-13.054,-62.0927,saki1248,skf,Mekens,Tupian,338,338
-tuled-Nheengatu,Nheengatu,South America,1.04503,-66.9646,nhen1239,yrl,Nhengatu,Tupian,335,335
-tuled-Omagua,Omagua,South America,-3.53,-69.17,omag1248,omg,Omagua,Tupian,299,299
-tuled-Parakana,Parakana,South America,-4.64681,-50.0621,para1312,pak,Parakanã,Tupian,316,316
-tuled-Parintintin,Parintintin,South America,-7.92626,-61.936,tenh1241,pah,Tenharim-Parintintin-Diahoi,Tupian,374,374
-tuled-Mawe,Mawe,South America,-3.63897,-56.8749,sate1243,mav,Sateré-Mawé,Tupian,334,334
-tuled-SuruiAikewara,Surui-Aikewara,South America,-5.93,-48.59,suru1261,mdz,Suruí Do Pará,Tupian,306,306
-tuled-SuruiPaiter,Surui-Paiter,South America,-11.0989,-61.2818,suru1262,sru,Suruí,Tupian,355,355
+tuled-Mbya,Mbya,South America,-26.0188,-52.711,mbya1239,gun,Mbyá Guaraní,Tupian,326,326
+tuled-Mekens,Mekens,South America,-13.054,-62.0927,saki1248,skf,Mekens,Tupian,345,345
+tuled-Nheengatu,Nheengatu,South America,1.04503,-66.9646,nhen1239,yrl,Nhengatu,Tupian,344,344
+tuled-Omagua,Omagua,South America,-3.53,-69.17,omag1248,omg,Omagua,Tupian,322,322
+tuled-Parakana,Parakana,South America,-4.64681,-50.0621,para1312,pak,Parakanã,Tupian,318,318
+tuled-Parintintin,Parintintin,South America,-7.92626,-61.936,tenh1241,pah,Tenharim-Parintintin-Diahoi,Tupian,375,375
+tuled-Mawe,Mawe,South America,-3.63897,-56.8749,sate1243,mav,Sateré-Mawé,Tupian,335,335
+tuled-SuruiAikewara,Surui-Aikewara,South America,-5.93,-48.59,suru1261,mdz,Suruí Do Pará,Tupian,307,307
+tuled-SuruiPaiter,Surui-Paiter,South America,-11.0989,-61.2818,suru1262,sru,Suruí,Tupian,356,356
 tuled-Tapiete,Tapiete,South America,-21.4169,-62.684,tapi1253,tpj,Tapieté,Tupian,314,314
-tuled-Tapirape,Tapirapé,South America,-10.5373,-50.5438,tapi1254,taf,Tapirapé,Tupian,263,263
-tuled-Tembe,Tembe,South America,-2.6123,-48.2359,temb1276,tqb,Tenetehara,Tupian,310,310
-tuled-Tupari,Tupari,South America,-11.8884,-62.2544,tupa1250,tpr,Tuparí,Tupian,362,362
-tuled-Tupinamba,Tupinambá,South America,-8.1055,-34.887,tupi1273,tpn,Tupinambá,Tupian,401,401
-tuled-Warazu,Warazu,South America,-12.8553,-63.1903,paus1244,psm,Warázu,Tupian,311,311
+tuled-Tapirape,Tapirapé,South America,-10.5373,-50.5438,tapi1254,taf,Tapirapé,Tupian,264,264
+tuled-Tembe,Tembe,South America,-2.6123,-48.2359,temb1276,tqb,Tenetehara,Tupian,372,372
+tuled-Tupari,Tupari,South America,-11.8884,-62.2544,tupa1250,tpr,Tuparí,Tupian,379,379
+tuled-Tupinamba,Tupinambá,South America,-8.1055,-34.887,tupi1273,tpn,Tupinambá,Tupian,404,404
+tuled-Warazu,Warazu,South America,-12.8553,-63.1903,paus1244,psm,Warázu,Tupian,312,312
 tuled-Wayoro,Wayoro,South America,-12.6945,-61.3064,wayo1238,wyr,Wayoró,Tupian,300,300
-tuled-Xipaya,Xipaya,South America,-4.133,-49.948,xipa1240,xiy,Xipaya,Tupian,281,281
-tuled-Zoe,Zo'e,South America,-1.77,-55.51,zoee1240,pto,Zo'é,Tupian,315,315
+tuled-Xipaya,Xipaya,South America,-4.133,-49.948,xipa1240,xiy,Xipaya,Tupian,305,305
+tuled-Yuki,Yuki,South America,-16.7875,-64.9438,yuqu1240,yuq,Yuqui,Tupian,293,293
+tuled-Zoe,Zo'e,South America,-1.77,-55.51,zoee1240,pto,Zo'é,Tupian,320,320
 visserkalamang-kara1499,Kalamang,Papunesia,-3.47037,132.678,kara1499,kgv,Kalamang,West Bomberai,1149,1149
 wangbai-Ega,Ega,Eurasia,26.4858945,98.8528962,egab1234,,Ega Bai,Sino-Tibetan,315,315
 wangbai-Enqi,Enqi,Eurasia,26.4738155,99.1189832,enqi1234,,Enqi Bai,Sino-Tibetan,325,325
 wangbai-Tuoluo,Tuoluo,Eurasia,23.3833337,102.1839821,tuol1234,,Tuoluo Bai,Sino-Tibetan,325,325
-wold-Swahili,Swahili,Africa,-6.5,39,swah1253,swh,Swahili,Atlantic-Congo,1591,1591
-wold-Iraqw,Iraqw,Africa,-4,35.5,iraq1241,irk,Iraqw,Afro-Asiatic,1165,1165
-wold-Gawwada,Gawwada,Africa,5.5,37.25,gaww1239,gwd,Ale-Gawwada,Afro-Asiatic,1080,1080
-wold-Hausa,Hausa,Africa,12,7,haus1257,hau,Hausa,Afro-Asiatic,1486,1486
-wold-Kanuri,Kanuri,Africa,12,13,cent2050,knc,Central Kanuri,Saharan,1437,1437
-wold-TarifiytBerber,Tarifiyt Berber,Africa,34.5,-4,tari1263,rif,Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,Afro-Asiatic,1502,1502
-wold-SeychellesCreole,Seychelles Creole,Africa,-4.75,55.5,sese1246,crs,Seselwa Creole French,Indo-European,1863,1863
-wold-Romanian,Romanian,Eurasia,46,25,roma1327,ron,Romanian,Indo-European,1992,1992
+wold-Swahili,Swahili,Africa,-6.5,39,swah1253,swh,Swahili,Atlantic-Congo,1590,1590
+wold-Iraqw,Iraqw,Africa,-4,35.5,iraq1241,irk,Iraqw,Afro-Asiatic,1164,1164
+wold-Gawwada,Gawwada,Africa,5.5,37.25,gaww1239,gwd,Ale-Gawwada,Afro-Asiatic,1079,1079
+wold-Hausa,Hausa,Africa,12,7,haus1257,hau,Hausa,Afro-Asiatic,1484,1484
+wold-Kanuri,Kanuri,Africa,12,13,cent2050,knc,Central Kanuri,Saharan,1436,1436
+wold-TarifiytBerber,Tarifiyt Berber,Africa,34.5,-4,tari1263,rif,Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,Afro-Asiatic,1501,1501
+wold-SeychellesCreole,Seychelles Creole,Africa,-4.75,55.5,sese1246,crs,Seselwa Creole French,Indo-European,1862,1862
+wold-Romanian,Romanian,Eurasia,46,25,roma1327,ron,Romanian,Indo-European,1991,1991
 wold-SeliceRomani,Selice Romani,Eurasia,48.091,17.9609,west2376,,West Slovakian Romani,Indo-European,1444,1444
-wold-LowerSorbian,Lower Sorbian,Eurasia,51.75,14.3333,lowe1385,dsb,Lower Sorbian,Indo-European,1508,1508
-wold-OldHighGerman,Old High German,Eurasia,50.55,9.68333,oldh1241,goh,Old High German (ca. 750-1050),Indo-European,1146,1146
-wold-Dutch,Dutch,Eurasia,52.5,6,dutc1256,nld,Dutch,Indo-European,1361,1361
-wold-KildinSaami,Kildin Saami,Eurasia,67,37,kild1236,sjd,Kildin Saami,Uralic,1283,1283
-wold-Manange,Manange,Eurasia,28,84.25,mana1288,nmm,Manange,Sino-Tibetan,1057,1057
+wold-LowerSorbian,Lower Sorbian,Eurasia,51.75,14.3333,lowe1385,dsb,Lower Sorbian,Indo-European,1507,1507
+wold-OldHighGerman,Old High German,Eurasia,50.55,9.68333,oldh1241,goh,Old High German (ca. 750-1050),Indo-European,1145,1145
+wold-Dutch,Dutch,Eurasia,52.5,6,dutc1256,nld,Dutch,Indo-European,1360,1360
+wold-KildinSaami,Kildin Saami,Eurasia,67,37,kild1236,sjd,Kildin Saami,Uralic,1282,1282
+wold-Manange,Manange,Eurasia,28,84.25,mana1288,nmm,Manange,Sino-Tibetan,1056,1056
 wold-Ket,Ket,Eurasia,64,87,kett1243,ket,Ket,Yeniseian,1170,1170
 wold-Sakha,Sakha,Eurasia,62,130,yaku1245,sah,Sakha,Turkic,1429,1429
-wold-Oroqen,Oroqen,Eurasia,51.2829,126.111,oroq1238,orh,Oroqen,Tungusic,1138,1138
-wold-Japanese,Japanese,Eurasia,37,140,nucl1643,jpn,Japanese,Japonic,1862,1862
-wold-MandarinChinese,Mandarin Chinese,Eurasia,34,110,mand1415,cmn,Mandarin Chinese,Sino-Tibetan,1872,1872
+wold-Oroqen,Oroqen,Eurasia,51.2829,126.111,oroq1238,orh,Oroqen,Tungusic,1137,1137
+wold-Japanese,Japanese,Eurasia,37,140,nucl1643,jpn,Japanese,Japonic,1861,1861
+wold-MandarinChinese,Mandarin Chinese,Eurasia,34,110,mand1415,cmn,Mandarin Chinese,Sino-Tibetan,1871,1871
 wold-Thai,Thai,Eurasia,16,101,thai1261,tha,Thai,Tai-Kadai,1854,1854
-wold-Vietnamese,Vietnamese,Eurasia,10.5,106.5,viet1252,vie,Vietnamese,Austroasiatic,1320,1320
-wold-WhiteHmong,White Hmong,Eurasia,26,105,hmon1333,mww,Hmong Daw,Hmong-Mien,1345,1345
+wold-Vietnamese,Vietnamese,Eurasia,10.5,106.5,viet1252,vie,Vietnamese,Austroasiatic,1319,1319
+wold-WhiteHmong,White Hmong,Eurasia,26,105,hmon1333,mww,Hmong Daw,Hmong-Mien,1344,1344
 wold-CeqWong,Ceq Wong,Eurasia,3.8807,102.456,chew1245,cwg,Chewong,Austroasiatic,892,892
-wold-Malagasy,Malagasy,Africa,-20,47,plat1254,plt,Plateau Malagasy,Austronesian,1480,1480
+wold-Malagasy,Malagasy,Africa,-20,47,plat1254,plt,Plateau Malagasy,Austronesian,1479,1479
 wold-Takia,Takia,Papunesia,-4.66667,146,taki1248,tbc,Takia,Austronesian,1190,1190
-wold-Hawaiian,Hawaiian,Papunesia,19.5833,-155.5,hawa1245,haw,Hawaiian,Austronesian,1286,1286
+wold-Hawaiian,Hawaiian,Papunesia,19.5833,-155.5,hawa1245,haw,Hawaiian,Austronesian,1285,1285
 wold-Gurindji,Gurindji,Australia,-17.6667,130.667,guri1247,gue,Gurindji,Pama-Nyungan,955,955
-wold-Yaqui,Yaqui,North America,27.5,-110.25,yaqu1251,yaq,Yaqui,Uto-Aztecan,1411,1411
+wold-Yaqui,Yaqui,North America,27.5,-110.25,yaqu1251,yaq,Yaqui,Uto-Aztecan,1410,1410
 wold-ZinacantanTzotzil,Zinacantán Tzotzil,North America,16.8333,-92.8333,tzot1259,tzo,Tzotzil,Mayan,1310,1310
-wold-Qeqchi,Q'eqchi',North America,16,-89.8333,kekc1242,kek,Kekchí,Mayan,1784,1784
-wold-Otomi,Otomi,North America,20.1667,-98.8333,mezq1235,ote,Mezquital Otomi,Otomanguean,2217,2217
-wold-Saramaccan,Saramaccan,South America,4.5,-55.5,sara1340,srm,Saramaccan,Indo-European,1185,1185
-wold-ImbaburaQuechua,Imbabura Quechua,South America,0.333333,-78,imba1240,qvi,Imbabura Highland Quichua,Quechuan,1171,1171
-wold-Kalina,Kali'na,South America,5.5,-56,gali1262,car,Galibi Carib,Cariban,1168,1168
+wold-Qeqchi,Q'eqchi',North America,16,-89.8333,kekc1242,kek,Kekchí,Mayan,1783,1783
+wold-Otomi,Otomi,North America,20.1667,-98.8333,mezq1235,ote,Mezquital Otomi,Otomanguean,2213,2213
+wold-Saramaccan,Saramaccan,South America,4.5,-55.5,sara1340,srm,Saramaccan,Indo-European,1184,1184
+wold-ImbaburaQuechua,Imbabura Quechua,South America,0.333333,-78,imba1240,qvi,Imbabura Highland Quichua,Quechuan,1170,1170
+wold-Kalina,Kali'na,South America,5.5,-56,gali1262,car,Galibi Carib,Cariban,1167,1167
 wold-Hup,Hup,South America,0.166667,-69.25,hupd1244,jup,Hup,Naduhup,1103,1103
-wold-Wichi,Wichí,South America,-22.5,-62.5833,wich1264,mzh,Wichí Lhamtés Güisnay,Matacoan,1232,1232
+wold-Wichi,Wichí,South America,-22.5,-62.5833,wich1264,mzh,Wichí Lhamtés Güisnay,Matacoan,1231,1231
 yanglalo-Shuizhuping,Shuizhuping,Eurasia,24.73,98.9,west1506,ywl,Western Lalu,Sino-Tibetan,765,765
 yanglalo-Diaocao,Diaocao,Eurasia,25.435,100.178,dong1286,yik,Dongshanba Lalo,Sino-Tibetan,749,749
 yanglalo-Xuzhang,Xuzhang,Eurasia,25.344026,99.112244,xuzh1234,,Xuzhang Lalo,Sino-Tibetan,735,735
@@ -1013,16 +1013,16 @@ zgraggenmadang-yaben,yaben,Papunesia,-4.90868,145.361,yabe1255,ybm,Yaben,Nuclear
 zgraggenmadang-yabong,yabong,Papunesia,-5.61718,146.2065,yabo1240,ybo,Yabong,Nuclear Trans New Guinea,297,297
 zgraggenmadang-yarawata,yarawata,Papunesia,-4.93943,145.454,yara1250,yrw,Yarawata,Nuclear Trans New Guinea,311,311
 zgraggenmadang-yoidik,yoidik,Papunesia,-4.94044,145.758,yoid1240,ydk,Yoidik,Nuclear Trans New Guinea,295,295
-othaniel2017-Jenjo,Jenjo,Africa,9.27,11.39,dzaa1238,jen,Dza,Atlantic-Congo,269,269
-othaniel2017-MungaDosso,Munga Dosso,Africa,9.26,11.29,ming1254,mko,Mingang Doso,Atlantic-Congo,269,269
-othaniel2017-Tha,Tha,Africa,9.21,11.18,thaa1239,thy,Tha,Atlantic-Congo,268,268
-othaniel2017-Kyak,Kyãk,Africa,9.52,11.28,kyak1243,bka,Kyak,Atlantic-Congo,269,269
-othaniel2017-Moo,Moo,Africa,9.44,11.2,mooo1239,gwg,Moo,Atlantic-Congo,269,269
-othaniel2017-Lelau,Lelau,Africa,9.29,11.16,leel1242,ldk,Leelau,Atlantic-Congo,269,269
-othaniel2017-Mak,Mak,Africa,9.37,11.13,makn1235,pbl,Mak (Nigeria),Atlantic-Congo,269,269
-othaniel2017-Maghdi,Maghdi,Africa,9.29,11.02,magh1238,gmd,Mághdì,Atlantic-Congo,269,269
-othaniel2017-Loo,Loo,Africa,9.41,11.05,looo1238,ldo,Loo,Atlantic-Congo,268,268
-othaniel2017-Burak,Burak,Africa,9.49,11.07,bura1271,bys,Burak,Atlantic-Congo,269,269
+othanieljen-Jenjo,Jenjo,Africa,9.27,11.39,dzaa1238,jen,Dza,Atlantic-Congo,269,269
+othanieljen-MungaDosso,Munga Dosso,Africa,9.26,11.29,ming1254,mko,Mingang Doso,Atlantic-Congo,269,269
+othanieljen-Tha,Tha,Africa,9.21,11.18,thaa1239,thy,Tha,Atlantic-Congo,268,268
+othanieljen-Kyak,Kyãk,Africa,9.52,11.28,kyak1243,bka,Kyak,Atlantic-Congo,269,269
+othanieljen-Moo,Moo,Africa,9.44,11.2,mooo1239,gwg,Moo,Atlantic-Congo,269,269
+othanieljen-Lelau,Lelau,Africa,9.29,11.16,leel1242,ldk,Leelau,Atlantic-Congo,269,269
+othanieljen-Mak,Mak,Africa,9.37,11.13,makn1235,pbl,Mak (Nigeria),Atlantic-Congo,269,269
+othanieljen-Maghdi,Maghdi,Africa,9.29,11.02,magh1238,gmd,Mághdì,Atlantic-Congo,269,269
+othanieljen-Loo,Loo,Africa,9.41,11.05,looo1238,ldo,Loo,Atlantic-Congo,268,268
+othanieljen-Burak,Burak,Africa,9.49,11.07,bura1271,bys,Burak,Atlantic-Congo,269,269
 savelyevturkic-Karaim,Karaim,Eurasia,54.5534,25.1054,kara1464,kdr,Karaim,Turkic,286,286
 oskolskayatungusic-Even,Even,Eurasia,70.6687,130.914,even1260,eve,Even,Tungusic,379,379
 oskolskayatungusic-Negidal,Negidal,Eurasia,52.96584,139.20575,negi1245,neg,Negidal,Tungusic,440,440
