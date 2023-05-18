@@ -209,3 +209,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea
+
+# R Session
+.RData

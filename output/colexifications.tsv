@@ -9,6 +9,9 @@ NIPPLE	1	Pama-Nyungan	human body part	10
 BLUE	1	Tucanoan	color	2	GREEN:5.00	GREEN:1.00	GREEN:1.00	GREEN:1.00	GREEN:1.00
 ANXIETY	1	Tucanoan	emotion	2	REGRET:5.00	REGRET:1.00	REGRET:1.00	REGRET:1.00	REGRET:1.00
 REGRET	1	Tucanoan	emotion	2	ANXIETY:5.00	ANXIETY:1.00	ANXIETY:1.00	ANXIETY:1.00	ANXIETY:1.00
+HOPE	1	Uto-Aztecan	emotion	3					
+REGRET	1	Uto-Aztecan	emotion	2	PITY:5.00	PITY:1.00	PITY:1.00	PITY:1.00	PITY:1.00
+HIP	1	Uto-Aztecan	human body part	10					
 FINGER	10	Arawakan	human body part	10	HAND:5.00	HAND:1.00	HAND:0.01	HAND:1.00	HAND:0.01
 TOE	10	Arawakan	human body part	2	FOOT:1.95;LEG:2.06	FOOT:1.00	FOOT:0.01	FOOT:1.00	FOOT:0.01
 RED	10	Austronesian	color	1					
@@ -51,6 +54,9 @@ FINGER	10	Turkic	human body part	12	TOE:2.81	TOE:7.00	TOE:0.49	TOE:2.00	TOE:0.04
 FOREHEAD	10	Turkic	human body part	9	CHEEK:0.27;FACE:1.03				
 JAW	10	Turkic	human body part	10	CHIN:2.10;EYE:0.02;HEAD:0.47	CHIN:3.00	CHIN:0.09	CHIN:2.00	CHIN:0.04
 TOE	10	Turkic	human body part	12	FINGER:2.81	FINGER:7.00	FINGER:0.49	FINGER:2.00	FINGER:0.04
+BELLY	10	Uto-Aztecan	human body part	7					
+FOOT	10	Uto-Aztecan	human body part	2	LEG:3.13	LEG:9.00	LEG:0.81	LEG:9.00	LEG:0.81
+LEG	10	Uto-Aztecan	human body part	2	FOOT:3.13	FOOT:9.00	FOOT:0.81	FOOT:9.00	FOOT:0.81
 CHEST	100	Atlantic-Congo	human body part	7					
 BREAST	100	Sino-Tibetan	human body part	1	FOOT:0.02;KNEE:0.02;ARM:0.01;BACK:0.01;BELLY:0.01;CHEST:0.01;EAR:0.01;EYE:0.01;FACE:0.01;HAND:0.01;HEAD:0.01;LEG:0.02;MOUTH:0.01;NAVEL:0.01;NOSE:0.01;SHOULDER:0.01;TONGUE:0.01;TOOTH:0.01				
 BUTTOCKS	101	Atlantic-Congo	human body part	2	BREAST:0.01;FOOT:0.66;HEEL:0.11;KNEE:0.05;ARM:0.03;BACK:0.32;ELBOW:0.05;HAND:0.03;HIP:0.70;LEG:0.66;LIP:0.01;MOUTH:0.01;NAVEL:0.01	HIP:2.00	HIP:0.00	HIP:2.00	HIP:0.00
@@ -98,6 +104,19 @@ NOSE	11	Turkic	human body part	16
 TONGUE	11	Turkic	human body part	17					
 TOOTH	11	Turkic	human body part	18					
 DOUBT	11	Uralic	emotion	8					
+BAD	11	Uto-Aztecan	emotion	7					
+GOOD	11	Uto-Aztecan	emotion	6					
+BACK	11	Uto-Aztecan	human body part	6	EAR:0.70;MOUTH:0.07;TOOTH:0.02				
+BREAST	11	Uto-Aztecan	human body part	1					
+EAR	11	Uto-Aztecan	human body part	6	BACK:0.70;MOUTH:0.08;TOOTH:0.02				
+EYE	11	Uto-Aztecan	human body part	8					
+HAND	11	Uto-Aztecan	human body part	5	ARM:3.66;SHOULDER:2.44	ARM:2.00	ARM:1.00	ARM:2.00	ARM:1.00
+HEAD	11	Uto-Aztecan	human body part	9					
+MOUTH	11	Uto-Aztecan	human body part	11	BACK:0.07;EAR:0.08;TOOTH:1.21	TOOTH:2.00	TOOTH:0.03	TOOTH:1.00	TOOTH:0.01
+NECK	11	Uto-Aztecan	human body part	12					
+SHOULDER	11	Uto-Aztecan	human body part	5	ARM:2.69;HAND:2.44	ARM:1.00	ARM:0.25	ARM:1.00	ARM:0.25
+TONGUE	11	Uto-Aztecan	human body part	4	ANKLE:0.24				
+TOOTH	11	Uto-Aztecan	human body part	11	BACK:0.02;EAR:0.02;MOUTH:1.21	MOUTH:2.00	MOUTH:0.03	MOUTH:1.00	MOUTH:0.01
 BREAST	112	Atlantic-Congo	human body part	1	BUTTOCKS:0.01;FOOT:0.01;HEEL:0.02;KNEE:0.05;ARM:0.01;BELLY:0.01;ELBOW:0.01;EYE:0.05;FACE:0.21;HAND:0.01;HIP:0.01;LEG:0.02;NIPPLE:1.43	NIPPLE:1.00	NIPPLE:1.00	NIPPLE:1.00	NIPPLE:1.00
 BAD	113	Atlantic-Congo	emotion	1	HATE:0.03;WANT:0.01				
 GREEN	113	Sino-Tibetan	color	1	GREY:0.15;RED:0.03;BLACK:0.02;BLUE:0.40;WHITE:0.01;YELLOW:0.11	YELLOW:2.00;BLUE:7.00	YELLOW:0.00;BLUE:0.01	BLUE:4.00	BLUE:0.00
@@ -257,6 +276,14 @@ BUTTOCKS	2	Tucanoan	human body part	2	FOOT:0.64;HIP:1.55;LEG:1.87	LEG:1.00;HIP:1
 FACE	2	Tucanoan	human body part	8	FOREHEAD:0.94				
 HIP	2	Tucanoan	human body part	2	BUTTOCKS:1.55;FOOT:0.35;LEG:1.24	BUTTOCKS:1.00	BUTTOCKS:0.25	BUTTOCKS:1.00	BUTTOCKS:0.25
 JAW	2	Tucanoan	human body part	7	CHIN:5.00	CHIN:1.00	CHIN:0.25	CHIN:1.00	CHIN:0.25
+FEAR (FRIGHT)	2	Uto-Aztecan	emotion	1	SURPRISED:5.00	SURPRISED:1.00	SURPRISED:0.25	SURPRISED:1.00	SURPRISED:0.25
+LOVE	2	Uto-Aztecan	emotion	4	WANT:5.00	WANT:1.00	WANT:0.25	WANT:1.00	WANT:0.25
+PITY	2	Uto-Aztecan	emotion	2	REGRET:5.00	REGRET:1.00	REGRET:1.00	REGRET:1.00	REGRET:1.00
+PROUD	2	Uto-Aztecan	emotion	5					
+SURPRISED	2	Uto-Aztecan	emotion	1	FEAR (FRIGHT):5.00	FEAR (FRIGHT):1.00	FEAR (FRIGHT):0.25	FEAR (FRIGHT):1.00	FEAR (FRIGHT):0.25
+WANT	2	Uto-Aztecan	emotion	4	LOVE:5.00	LOVE:1.00	LOVE:0.25	LOVE:1.00	LOVE:0.25
+ARM	2	Uto-Aztecan	human body part	5	HAND:3.66;SHOULDER:2.69	SHOULDER:1.00;HAND:2.00	SHOULDER:0.25;HAND:1.00	HAND:2.00	HAND:1.00
+HEEL	2	Uto-Aztecan	human body part	3					
 ANXIETY	20	Austroasiatic	emotion	3					
 CHEEK	20	Austroasiatic	human body part	7	CHIN:0.68;EYE:0.52;FACE:0.76;FOREHEAD:0.25;JAW:1.05;TONGUE:0.01	JAW:2.00;FACE:1.00	JAW:0.01;FACE:0.00	FACE:1.00	FACE:0.00
 ELBOW	20	Austroasiatic	human body part	5	ANKLE:1.49;ARM:0.77;FINGER:0.19;HAND:0.54;TOOTH:0.03;WRIST:0.15	ARM:1.00;ANKLE:1.00	ARM:0.00;ANKLE:0.00	ANKLE:1.00	ANKLE:0.00
@@ -855,6 +882,7 @@ NAVEL	9	Pano-Tacanan	human body part	2	BUTTOCKS:0.01
 NECK	9	Pano-Tacanan	human body part	11	NOSE:0.61;TOOTH:0.33				
 EYELASH	9	Sino-Tibetan	human body part	3	EYEBROW:2.18;ARM:0.01;HAND:0.01	EYEBROW:4.00	EYEBROW:0.20	EYEBROW:3.00	EYEBROW:0.11
 HOPE	9	Uralic	emotion	4					
+ANKLE	9	Uto-Aztecan	human body part	4	TONGUE:0.24				
 TOE	90	Atlantic-Congo	human body part	8	EAR:0.13;FINGER:3.18;NECK:0.44	FINGER:21.00;NECK:1.00	FINGER:0.05;NECK:0.00	NECK:1.00	NECK:0.00
 FEAR (FRIGHT)	91	Atlantic-Congo	emotion	1	WANT:0.03				
 EYELASH	91	Atlantic-Congo	human body part	3	EYEBROW:3.91;FOOT:0.02;LEG:0.01	EYEBROW:15.00	EYEBROW:0.03	EYEBROW:5.00	EYEBROW:0.00
