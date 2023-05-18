@@ -1,10 +1,10 @@
-# R version: R-4.1.
+# Script to compute ARI statistics and create density plot
+# R version 4.3.0
 
 # Load libraries
-library(groundhog) # Version 1.5.0
+library(groundhog) # Version 3.1.0
 pkgs <- c("reshape2","ggplot2", "gridExtra", "readr", "dplyr")
-groundhog.library(pkgs, "2021-11-28")
-
+groundhog.library(pkgs, "2023-05-01")
 
 # setwd("")
 

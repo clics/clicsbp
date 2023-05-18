@@ -8089,18 +8089,6 @@ graph [
   ]
   node [
     id 674
-    label "KID"
-    occurrences "clicsbp-idssegmented-jinshadai-KID-1//clicsbp-wold-WhiteHmong-KID-1"
-    words "l u ¹¹ + p e ⁴³ + ɲ i ³³//tʃʰ i ¹¹"
-    varieties "clicsbp-idssegmented-jinshadai//clicsbp-wold-WhiteHmong"
-    languages "nort1545//hmon1333"
-    families "Hmong-Mien//Hmong-Mien"
-    language_count 2
-    variety_count 2
-    family_count 1
-  ]
-  node [
-    id 675
     label "STALLION"
     occurrences "clicsbp-idssegmented-jinshadai-STALLION-1//clicsbp-wold-WhiteHmong-STALLION-1"
     words "p o ³¹ + m a ⁴³//pʰ aɯ ³³ + n e ŋ ¹¹"
@@ -8112,7 +8100,7 @@ graph [
     family_count 1
   ]
   node [
-    id 676
+    id 675
     label "MARE"
     occurrences "clicsbp-idssegmented-jinshadai-MARE-1//clicsbp-wold-WhiteHmong-MARE-1"
     words "m e ³¹ + m a ⁴³//m au ²¹³ + n e ŋ ¹¹"
@@ -8124,7 +8112,7 @@ graph [
     family_count 1
   ]
   node [
-    id 677
+    id 676
     label "FOAL"
     occurrences "clicsbp-idssegmented-jinshadai-FOAL-1//clicsbp-idssegmented-jinshadai-FOAL-2//clicsbp-wold-WhiteHmong-FOAL-1"
     words "l u ¹¹ + m a ⁴³ + h ɛ ²⁴//l u ¹¹ + m a ⁴³ + s ɨ ³³//n e ŋ ¹¹"
@@ -8136,7 +8124,7 @@ graph [
     family_count 1
   ]
   node [
-    id 678
+    id 677
     label "DONKEY"
     occurrences "clicsbp-idssegmented-jinshadai-DONKEY-1//clicsbp-wold-WhiteHmong-DONKEY-1"
     words "l a ⁴⁴//ʐ a ³¹"
@@ -8148,7 +8136,7 @@ graph [
     family_count 1
   ]
   node [
-    id 679
+    id 678
     label "MULE"
     occurrences "clicsbp-idssegmented-jinshadai-MULE-1//clicsbp-wold-WhiteHmong-MULE-1"
     words "l o ¹¹//l u ⁵³ + ts ɯ ³⁴"
@@ -8160,7 +8148,7 @@ graph [
     family_count 1
   ]
   node [
-    id 680
+    id 679
     label "FOWL"
     occurrences "clicsbp-idssegmented-jinshadai-FOWL-1"
     words "m u ²⁴ + k ə a i ³³"
@@ -8172,7 +8160,7 @@ graph [
     family_count 1
   ]
   node [
-    id 681
+    id 680
     label "NEST"
     occurrences "clicsbp-idssegmented-jinshadai-NEST-1//clicsbp-wold-WhiteHmong-NEST-1"
     words "h a ŋ ⁴⁴//ʐ e ¹¹"
@@ -8184,7 +8172,7 @@ graph [
     family_count 1
   ]
   node [
-    id 682
+    id 681
     label "HAWK"
     occurrences "clicsbp-idssegmented-jinshadai-HAWK-1//clicsbp-wold-WhiteHmong-HAWK-1"
     words "k o ¹¹//d a ³⁴"
@@ -8196,7 +8184,7 @@ graph [
     family_count 1
   ]
   node [
-    id 683
+    id 682
     label "BAT"
     occurrences "clicsbp-idssegmented-jinshadai-BAT-1//clicsbp-wold-WhiteHmong-BAT-1"
     words "l o ŋ ⁴³ + tʃ i u ⁴⁴ + l i ⁴⁴//p w a ³⁴"
@@ -8208,7 +8196,7 @@ graph [
     family_count 1
   ]
   node [
-    id 684
+    id 683
     label "PARROT"
     occurrences "clicsbp-idssegmented-jinshadai-PARROT-1//clicsbp-wold-WhiteHmong-PARROT-1"
     words "l o ŋ ⁴³ + k a ³³ + tʃ i a ²⁴//l e ŋ ⁵⁵ + ⁿk au ⁵⁵"
@@ -8220,7 +8208,7 @@ graph [
     family_count 1
   ]
   node [
-    id 685
+    id 684
     label "RABBIT"
     occurrences "clicsbp-idssegmented-jinshadai-RABBIT-1//clicsbp-wold-WhiteHmong-RABBIT-1//clicsbp-wold-WhiteHmong-RABBIT-2"
     words "tʰ a ²⁴//k a ⁵⁵ + t ai ⁵³//l w a ³⁴"
@@ -8232,7 +8220,7 @@ graph [
     family_count 1
   ]
   node [
-    id 686
+    id 685
     label "FIN"
     occurrences "clicsbp-idssegmented-jinshadai-FIN-1//clicsbp-wold-WhiteHmong-FIN-1"
     words "p i k ²⁴ + p a ³³//t i ¹¹ + ⁿtʃ e ¹¹"
@@ -8244,7 +8232,7 @@ graph [
     family_count 1
   ]
   node [
-    id 687
+    id 686
     label "WOLF"
     occurrences "clicsbp-idssegmented-jinshadai-WOLF-1//clicsbp-wold-WhiteHmong-WOLF-1"
     words "s ɨ ³³ + l a ⁴⁴//m̥ a ³³"
@@ -8256,7 +8244,7 @@ graph [
     family_count 1
   ]
   node [
-    id 688
+    id 687
     label "LION"
     occurrences "clicsbp-idssegmented-jinshadai-LION-1//clicsbp-wold-WhiteHmong-LION-1"
     words "s ɨ ³³ + c ɨ ⁴⁴//tʃ o ³⁴ + ⁿtsʱ w a ³⁴"
@@ -8268,7 +8256,7 @@ graph [
     family_count 1
   ]
   node [
-    id 689
+    id 688
     label "DEER"
     occurrences "clicsbp-idssegmented-jinshadai-DEER-1//clicsbp-wold-WhiteHmong-DEER-1//clicsbp-wold-WhiteHmong-DEER-2"
     words "k a ŋ ³³//m w a ¹¹ + l ɯ ⁵³//k au ³⁴"
@@ -8280,7 +8268,7 @@ graph [
     family_count 1
   ]
   node [
-    id 690
+    id 689
     label "ELEPHANT"
     occurrences "clicsbp-idssegmented-jinshadai-ELEPHANT-1//clicsbp-wold-WhiteHmong-ELEPHANT-1"
     words "c a ŋ ⁴³//ⁿtsʱ ɯ ³³"
@@ -8292,7 +8280,7 @@ graph [
     family_count 1
   ]
   node [
-    id 691
+    id 690
     label "CAMEL"
     occurrences "clicsbp-idssegmented-jinshadai-CAMEL-1//clicsbp-wold-WhiteHmong-CAMEL-1"
     words "l o ³¹ + tʰ o ³³//u ¹¹"
@@ -8304,7 +8292,7 @@ graph [
     family_count 1
   ]
   node [
-    id 692
+    id 691
     label "YAWN"
     occurrences "clicsbp-idssegmented-jinshadai-YAWN-1//clicsbp-wold-WhiteHmong-YAWN-1"
     words "h a u ²⁴//r w a ³³ + l o ³³"
@@ -8316,7 +8304,7 @@ graph [
     family_count 1
   ]
   node [
-    id 693
+    id 692
     label "NIT"
     occurrences "clicsbp-idssegmented-jinshadai-NIT-1//clicsbp-wold-WhiteHmong-NIT-1"
     words "kʰ ə a i ³³ + h a u ²⁴//q e ³³ + ⁿtʃʱ au ³⁴"
@@ -8328,7 +8316,7 @@ graph [
     family_count 1
   ]
   node [
-    id 694
+    id 693
     label "FLEA"
     occurrences "clicsbp-idssegmented-jinshadai-FLEA-1//clicsbp-wold-WhiteHmong-FLEA-1"
     words "m ɛ a t ¹¹//d e ³⁴ + m u ⁵⁵"
@@ -8340,7 +8328,7 @@ graph [
     family_count 1
   ]
   node [
-    id 695
+    id 694
     label "CENTIPEDE"
     occurrences "clicsbp-idssegmented-jinshadai-CENTIPEDE-1//clicsbp-wold-WhiteHmong-CENTIPEDE-1"
     words "tʃ i e ¹¹ + h e ¹¹//l au ²¹³ + k i ⁵⁵ + tʃʰ o ŋ ⁵³"
@@ -8352,7 +8340,7 @@ graph [
     family_count 1
   ]
   node [
-    id 696
+    id 695
     label "COCKROACH"
     occurrences "clicsbp-idssegmented-jinshadai-COCKROACH-1//clicsbp-wold-WhiteHmong-COCKROACH-1"
     words "m i a ŋ ⁴⁴ + s i e t ³³//k a ⁵⁵ + l au ²¹³"
@@ -8364,7 +8352,7 @@ graph [
     family_count 1
   ]
   node [
-    id 697
+    id 696
     label "SPIDER WEB"
     occurrences "clicsbp-idssegmented-jinshadai-SPIDERWEB-1//clicsbp-wold-WhiteHmong-SPIDERWEB-1//clicsbp-wold-WhiteHmong-SPIDERWEB-2"
     words "m i a ŋ ⁴⁴ + s a ²⁴ + tʃʰ i e ²⁴//ʐ e ¹¹ + k a ⁵⁵ + l au ³¹ + ʂ a ⁵⁵//tʃ e ³⁴ + k a ⁵⁵ + l au ³¹ + ʂ a ⁵⁵"
@@ -8376,7 +8364,7 @@ graph [
     family_count 1
   ]
   node [
-    id 698
+    id 697
     label "BEESWAX"
     occurrences "clicsbp-idssegmented-jinshadai-BEESWAX-1//clicsbp-wold-WhiteHmong-BEESWAX-1"
     words "l a ¹¹//tɕ j a ⁵⁵ + m u ³³"
@@ -8388,7 +8376,7 @@ graph [
     family_count 1
   ]
   node [
-    id 699
+    id 698
     label "LATE"
     occurrences "clicsbp-idssegmented-jinshadai-LATE-1//clicsbp-wold-WhiteHmong-LATE-1"
     words "l a ¹¹//l i ³¹"
@@ -8400,7 +8388,7 @@ graph [
     family_count 1
   ]
   node [
-    id 700
+    id 699
     label "BEEHIVE"
     occurrences "clicsbp-idssegmented-jinshadai-BEEHIVE-1//clicsbp-wold-WhiteHmong-BEEHIVE-1"
     words "h o ŋ ⁴⁴ + pʰ a ŋ ¹¹//s u ⁵⁵"
@@ -8412,7 +8400,7 @@ graph [
     family_count 1
   ]
   node [
-    id 701
+    id 700
     label "FIREFLY"
     occurrences "clicsbp-idssegmented-jinshadai-FIREFLY-1//clicsbp-wold-WhiteHmong-FIREFLY-1"
     words "m i a ŋ ⁴⁴ + k u i ¹¹ + s u a ŋ ³³//k a ⁵⁵ + t aɯ ¹¹ + tʃ au ³³"
@@ -8424,7 +8412,7 @@ graph [
     family_count 1
   ]
   node [
-    id 702
+    id 701
     label "GRASSHOPPER"
     occurrences "clicsbp-idssegmented-jinshadai-GRASSHOPPER-1//clicsbp-wold-WhiteHmong-GRASSHOPPER-1"
     words "t a k ⁴³//k o ŋ ⁵³"
@@ -8436,7 +8424,7 @@ graph [
     family_count 1
   ]
   node [
-    id 703
+    id 702
     label "LIZARD"
     occurrences "clicsbp-idssegmented-jinshadai-LIZARD-1//clicsbp-idssegmented-jinshadai-LIZARD-2//clicsbp-wold-WhiteHmong-LIZARD-1"
     words "ʔ a ŋ ¹¹ + kʰ a ²⁴ + l a ⁴⁴//ʔ a ŋ ¹¹ + l i a u ¹¹//n a ⁵⁵ + q a ³³"
@@ -8448,7 +8436,7 @@ graph [
     family_count 1
   ]
   node [
-    id 704
+    id 703
     label "CROCODILE"
     occurrences "clicsbp-idssegmented-jinshadai-CROCODILE-1//clicsbp-wold-WhiteHmong-CROCODILE-1"
     words "c ɔː ¹ + r a ¹ + kʰ eː ³//kʰ e ⁵⁵"
@@ -8460,7 +8448,7 @@ graph [
     family_count 1
   ]
   node [
-    id 705
+    id 704
     label "TURTLE"
     occurrences "clicsbp-idssegmented-jinshadai-TURTLE-1//clicsbp-wold-WhiteHmong-TURTLE-1"
     words "k u i ³³//v au ⁵⁵ + k i ⁵⁵"
@@ -8472,7 +8460,7 @@ graph [
     family_count 1
   ]
   node [
-    id 706
+    id 705
     label "NETTLE"
     occurrences "clicsbp-idssegmented-jinshadai-NETTLE-1"
     words "k u i ³³"
@@ -8484,7 +8472,7 @@ graph [
     family_count 1
   ]
   node [
-    id 707
+    id 706
     label "FLESH"
     occurrences "clicsbp-idssegmented-jinshadai-FLESH-1//clicsbp-wold-WhiteHmong-FLESH-1"
     words "n ə ⁴³//ⁿq ai ⁵³"
@@ -8496,7 +8484,7 @@ graph [
     family_count 1
   ]
   node [
-    id 708
+    id 707
     label "HAIR (BODY)"
     occurrences "clicsbp-idssegmented-jinshadai-HAIRBODY-1//clicsbp-wold-WhiteHmong-HAIRBODY-1"
     words "x u e n ²⁴ + ʔ u e ³³//p l au ⁵⁵"
@@ -8508,7 +8496,7 @@ graph [
     family_count 1
   ]
   node [
-    id 709
+    id 708
     label "PUBIC HAIR"
     occurrences "clicsbp-idssegmented-jinshadai-PUBICHAIR-1//clicsbp-wold-WhiteHmong-PUBICHAIR-1"
     words "x u e n ²⁴ + x a ²⁴//p l au ⁵⁵"
@@ -8520,7 +8508,7 @@ graph [
     family_count 1
   ]
   node [
-    id 710
+    id 709
     label "DANDRUFF"
     occurrences "clicsbp-idssegmented-jinshadai-DANDRUFF-1//clicsbp-wold-WhiteHmong-DANDRUFF-1"
     words "kʰ a i ³¹ + h o ²⁴//pʰ l aɯ ¹¹ + t au ⁵⁵ + h au ³³"
@@ -8532,7 +8520,7 @@ graph [
     family_count 1
   ]
   node [
-    id 711
+    id 710
     label "BLOOD VESSEL"
     occurrences "clicsbp-idssegmented-jinshadai-BLOODVESSEL-1//clicsbp-wold-WhiteHmong-BLOODVESSEL-1"
     words "h u a ŋ ³¹ + l i e t ³¹//l e ŋ ³¹"
@@ -8544,7 +8532,7 @@ graph [
     family_count 1
   ]
   node [
-    id 712
+    id 711
     label "RIB"
     occurrences "clicsbp-idssegmented-jinshadai-RIB-1//clicsbp-wold-WhiteHmong-RIB-1"
     words "l u k ⁴³ + kʰ a ŋ ¹¹//t a ³⁴"
@@ -8556,7 +8544,7 @@ graph [
     family_count 1
   ]
   node [
-    id 713
+    id 712
     label "BACK"
     occurrences "clicsbp-idssegmented-jinshadai-BACK-1//clicsbp-wold-WhiteHmong-BACK-1//clicsbp-wold-WhiteHmong-BACK-2"
     words "n a ŋ ²⁴//ⁿr o ⁵⁵ + q au ²¹³//d w a ³⁴"
@@ -8568,7 +8556,7 @@ graph [
     family_count 1
   ]
   node [
-    id 714
+    id 713
     label "LEATHER"
     occurrences "clicsbp-idssegmented-jinshadai-LEATHER-1//clicsbp-wold-WhiteHmong-LEATHER-1"
     words "n a ŋ ²⁴//t aɯ ³⁴"
@@ -8580,7 +8568,7 @@ graph [
     family_count 1
   ]
   node [
-    id 715
+    id 714
     label "SPINE"
     occurrences "clicsbp-idssegmented-jinshadai-SPINE-1//clicsbp-wold-WhiteHmong-SPINE-1"
     words "s i ŋ ⁴⁴ + n a ŋ ²⁴//ⁿq a ⁵³ + q au ²¹³"
@@ -8592,7 +8580,7 @@ graph [
     family_count 1
   ]
   node [
-    id 716
+    id 715
     label "TEMPLES"
     occurrences "clicsbp-idssegmented-jinshadai-TEMPLES-1"
     words "ɲ i a n ²⁴"
@@ -8604,7 +8592,7 @@ graph [
     family_count 1
   ]
   node [
-    id 717
+    id 716
     label "SKULL"
     occurrences "clicsbp-idssegmented-jinshadai-SKULL-1//clicsbp-wold-WhiteHmong-SKULL-1"
     words "h o ²⁴ + l a ³¹ + ɲ i a n ²⁴//kʰ au ⁵³ + kʰ au ²¹³ + t au ⁵⁵ + h au ³³"
@@ -8616,7 +8604,7 @@ graph [
     family_count 1
   ]
   node [
-    id 718
+    id 717
     label "FOREHEAD"
     occurrences "clicsbp-idssegmented-jinshadai-FOREHEAD-1//clicsbp-wold-WhiteHmong-FOREHEAD-1"
     words "n ə ²⁴ + h o ²⁴//h au ³⁴ + pˡ j a ⁵³"
@@ -8628,7 +8616,7 @@ graph [
     family_count 1
   ]
   node [
-    id 719
+    id 718
     label "JAW"
     occurrences "clicsbp-idssegmented-jinshadai-JAW-1//clicsbp-wold-WhiteHmong-JAW-1"
     words "v a ŋ ³¹ + tʃ i a n ¹¹//p w a ⁵⁵ + tʃ ai ³¹"
@@ -8640,7 +8628,7 @@ graph [
     family_count 1
   ]
   node [
-    id 720
+    id 719
     label "CHEEK"
     occurrences "clicsbp-idssegmented-jinshadai-CHEEK-1//clicsbp-wold-WhiteHmong-CHEEK-1"
     words "n ə ²⁴ + n a ¹¹//pʰ l u ³³"
@@ -8652,7 +8640,7 @@ graph [
     family_count 1
   ]
   node [
-    id 721
+    id 720
     label "EYELID"
     occurrences "clicsbp-idssegmented-jinshadai-EYELID-1//clicsbp-wold-WhiteHmong-EYELID-1"
     words "n a ŋ ²⁴ + t a ³³//t aɯ ³⁴ + m w a ³¹"
@@ -8664,7 +8652,7 @@ graph [
     family_count 1
   ]
   node [
-    id 722
+    id 721
     label "EYELASH"
     occurrences "clicsbp-idssegmented-jinshadai-EYELASH-1//clicsbp-wold-WhiteHmong-EYELASH-1"
     words "x u e n ²⁴ + t a ³³ + s i e ⁴⁴//p l au ⁵⁵ + m w a ³¹"
@@ -8676,7 +8664,7 @@ graph [
     family_count 1
   ]
   node [
-    id 723
+    id 722
     label "BLINK"
     occurrences "clicsbp-idssegmented-jinshadai-BLINK-1//clicsbp-wold-WhiteHmong-BLINK-1"
     words "pʰ i e t ¹¹ + t a ³³//ⁿtʃ ai ¹¹ + m w a ³¹"
@@ -8688,7 +8676,7 @@ graph [
     family_count 1
   ]
   node [
-    id 724
+    id 723
     label "EARLOBE"
     occurrences "clicsbp-idssegmented-jinshadai-EARLOBE-1//clicsbp-wold-WhiteHmong-EARLOBE-1"
     words "h u ²⁴ + h ɛ a ŋ ³³//t au ⁵⁵ + ⁿtʃ e ³¹"
@@ -8700,7 +8688,7 @@ graph [
     family_count 1
   ]
   node [
-    id 725
+    id 724
     label "EARWAX"
     occurrences "clicsbp-idssegmented-jinshadai-EARWAX-1//clicsbp-wold-WhiteHmong-EARWAX-1"
     words "tʃʰ i ¹¹ + h u ²⁴//q w a ³⁴ + ⁿtʃ e ⁵³"
@@ -8712,7 +8700,7 @@ graph [
     family_count 1
   ]
   node [
-    id 726
+    id 725
     label "NOSTRIL"
     occurrences "clicsbp-idssegmented-jinshadai-NOSTRIL-1//clicsbp-wold-WhiteHmong-NOSTRIL-1"
     words "h u ⁴⁴ + l a ŋ ³³//qʰ o ³⁴ + ⁿtʃ ɯ ³¹"
@@ -8724,7 +8712,7 @@ graph [
     family_count 1
   ]
   node [
-    id 727
+    id 726
     label "BEAK"
     occurrences "clicsbp-idssegmented-jinshadai-BEAK-1//clicsbp-wold-WhiteHmong-BEAK-1"
     words "s u e t ³¹ + l o ŋ ⁴³//k au ¹¹ + ⁿtɕ au ⁵³"
@@ -8736,7 +8724,7 @@ graph [
     family_count 1
   ]
   node [
-    id 728
+    id 727
     label "LIP"
     occurrences "clicsbp-idssegmented-jinshadai-LIP-1//clicsbp-wold-WhiteHmong-LIP-1"
     words "p i ⁴⁴//d i ³³ + ⁿtɕ au ⁵³"
@@ -8748,7 +8736,7 @@ graph [
     family_count 1
   ]
   node [
-    id 729
+    id 728
     label "GUMS"
     occurrences "clicsbp-idssegmented-jinshadai-GUMS-1//clicsbp-idssegmented-jinshadai-GUMS-2//clicsbp-wold-WhiteHmong-GUMS-1"
     words "s i u ¹¹ + c a ŋ ⁴³//h a ¹¹ + s i u ¹¹//p o ¹¹ + n̥ j a ³⁴"
@@ -8760,7 +8748,7 @@ graph [
     family_count 1
   ]
   node [
-    id 730
+    id 729
     label "MOLAR TOOTH"
     occurrences "clicsbp-idssegmented-jinshadai-MOLARTOOTH-1//clicsbp-wold-WhiteHmong-MOLARTOOTH-1"
     words "s i u ¹¹ + l ɛ ³³//n̥ j a ³⁴ + p w a ¹¹"
@@ -8772,7 +8760,7 @@ graph [
     family_count 1
   ]
   node [
-    id 731
+    id 730
     label "NAPE (OF NECK)"
     occurrences "clicsbp-idssegmented-jinshadai-NAPEOFNECK-1"
     words "k o ³³ + l u a k ¹¹"
@@ -8784,7 +8772,7 @@ graph [
     family_count 1
   ]
   node [
-    id 732
+    id 731
     label "SHOULDERBLADE"
     occurrences "clicsbp-idssegmented-jinshadai-SHOULDERBLADE-1//clicsbp-wold-WhiteHmong-SHOULDERBLADE-1"
     words "k e ³³ + t a u ¹¹ + ʔ o ¹¹//d w a ³⁴ + p u ¹¹"
@@ -8796,7 +8784,7 @@ graph [
     family_count 1
   ]
   node [
-    id 733
+    id 732
     label "COLLARBONE"
     occurrences "clicsbp-idssegmented-jinshadai-COLLARBONE-1//clicsbp-wold-WhiteHmong-COLLARBONE-1"
     words "k e ³³ + x o ⁴⁴//q ai ¹¹"
@@ -8808,7 +8796,7 @@ graph [
     family_count 1
   ]
   node [
-    id 734
+    id 733
     label "ARM"
     occurrences "clicsbp-idssegmented-jinshadai-ARM-1//clicsbp-wold-WhiteHmong-ARM-1//clicsbp-wold-WhiteHmong-ARM-2"
     words "s i a n ²⁴//tɕ a ⁵³ + ⁿp a ⁵⁵//t e ¹¹"
@@ -8820,7 +8808,7 @@ graph [
     family_count 1
   ]
   node [
-    id 735
+    id 734
     label "ARMPIT"
     occurrences "clicsbp-idssegmented-jinshadai-ARMPIT-1//clicsbp-wold-WhiteHmong-ARMPIT-1"
     words "t a i ¹¹ + ʔ i a ŋ ¹¹//qʰ o ³⁴ + tʃ o ¹¹"
@@ -8832,7 +8820,7 @@ graph [
     family_count 1
   ]
   node [
-    id 736
+    id 735
     label "ELBOW"
     occurrences "clicsbp-idssegmented-jinshadai-ELBOW-1//clicsbp-wold-WhiteHmong-ELBOW-1//clicsbp-wold-WhiteHmong-ELBOW-2"
     words "s o ⁴⁴ + kʰ u a ŋ ¹¹//l u ⁵³ + tʃʰ i ⁵⁵//j a ¹¹ + ⁿp a ⁵⁵"
@@ -8844,7 +8832,7 @@ graph [
     family_count 1
   ]
   node [
-    id 737
+    id 736
     label "WRIST"
     occurrences "clicsbp-idssegmented-jinshadai-WRIST-1//clicsbp-wold-WhiteHmong-WRIST-1"
     words "ʔ i a k ³³ + m ɨ ⁴⁴//d a ⁵⁵ + t e ³¹"
@@ -8856,7 +8844,7 @@ graph [
     family_count 1
   ]
   node [
-    id 738
+    id 737
     label "PALM OF HAND"
     occurrences "clicsbp-idssegmented-jinshadai-PALMOFHAND-1//clicsbp-wold-WhiteHmong-PALMOFHAND-1"
     words "f a ³³ + m ɨ ⁴⁴//s i ⁵⁵ + t e ³¹"
@@ -8868,7 +8856,7 @@ graph [
     family_count 1
   ]
   node [
-    id 739
+    id 738
     label "THUMB"
     occurrences "clicsbp-idssegmented-jinshadai-THUMB-1//clicsbp-wold-WhiteHmong-THUMB-1"
     words "h o ²⁴ + m e ³¹ + m ɨ ⁴⁴//n i t ³⁴ + t e ¹¹ + s o ŋ ³³"
@@ -8880,7 +8868,7 @@ graph [
     family_count 1
   ]
   node [
-    id 740
+    id 739
     label "UPPER LEG (THIGH)"
     occurrences "clicsbp-idssegmented-jinshadai-UPPERLEGTHIGH-1//clicsbp-wold-WhiteHmong-UPPERLEGTHIGH-1"
     words "x a ²⁴ + l o ŋ ²⁴//ⁿtɕ e ⁵³ + p w a ⁵⁵"
@@ -8892,7 +8880,7 @@ graph [
     family_count 1
   ]
   node [
-    id 741
+    id 740
     label "CALF OF LEG"
     occurrences "clicsbp-idssegmented-jinshadai-CALFOFLEG-1//clicsbp-wold-WhiteHmong-CALFOFLEG-1"
     words "ʔ i ⁴⁴ + p i a n ³³//p l a ⁵⁵ + l̥ au ⁵⁵"
@@ -8904,7 +8892,7 @@ graph [
     family_count 1
   ]
   node [
-    id 742
+    id 741
     label "KNEE"
     occurrences "clicsbp-idssegmented-jinshadai-KNEE-1//clicsbp-wold-WhiteHmong-KNEE-1"
     words "h o ²⁴ + x a u ³³//h au ³⁴ + tɕ au ³¹"
@@ -8916,7 +8904,7 @@ graph [
     family_count 1
   ]
   node [
-    id 743
+    id 742
     label "ANKLE"
     occurrences "clicsbp-idssegmented-jinshadai-ANKLE-1//clicsbp-wold-WhiteHmong-ANKLE-1//clicsbp-wold-WhiteHmong-ANKLE-2"
     words "ʔ ɛ a k ²⁴ + t i n ³³//d a ⁵⁵ + t aɯ ¹¹//j a ¹¹ + t aɯ ³³"
@@ -8928,7 +8916,7 @@ graph [
     family_count 1
   ]
   node [
-    id 744
+    id 743
     label "HEEL"
     occurrences "clicsbp-idssegmented-jinshadai-HEEL-1//clicsbp-wold-WhiteHmong-HEEL-1//clicsbp-wold-WhiteHmong-HEEL-2"
     words "s u e n ¹¹ + t i n ³³//p o ⁵⁵ + t aɯ ¹¹//l u ⁵³ + t aɯ ³³"
@@ -8940,7 +8928,7 @@ graph [
     family_count 1
   ]
   node [
-    id 745
+    id 744
     label "FOOTPRINT"
     occurrences "clicsbp-idssegmented-jinshadai-FOOTPRINT-1//clicsbp-wold-WhiteHmong-FOOTPRINT-1"
     words "h u a i ⁴⁴ + x a ²⁴//n̥ e ŋ ³⁴ + t aɯ ³³"
@@ -8952,7 +8940,7 @@ graph [
     family_count 1
   ]
   node [
-    id 746
+    id 745
     label "TOE"
     occurrences "clicsbp-idssegmented-jinshadai-TOE-1//clicsbp-wold-WhiteHmong-TOE-1"
     words "ɲ i u ⁴³ + t i n ³³//ⁿt i ³⁴ + t aɯ ³³"
@@ -8964,7 +8952,7 @@ graph [
     family_count 1
   ]
   node [
-    id 747
+    id 746
     label "FEATHER"
     occurrences "clicsbp-idssegmented-jinshadai-FEATHER-1//clicsbp-wold-WhiteHmong-FEATHER-1"
     words "x u e n ²⁴//p l au ⁵⁵"
@@ -8976,7 +8964,7 @@ graph [
     family_count 1
   ]
   node [
-    id 748
+    id 747
     label "BREAST"
     occurrences "clicsbp-idssegmented-jinshadai-BREAST-1//clicsbp-wold-WhiteHmong-BREAST-1"
     words "m i e ³³//m i ¹¹"
@@ -8988,7 +8976,7 @@ graph [
     family_count 1
   ]
   node [
-    id 749
+    id 748
     label "NIPPLE"
     occurrences "clicsbp-idssegmented-jinshadai-NIPPLE-1//clicsbp-wold-WhiteHmong-NIPPLE-1"
     words "p a i ³³ + tʃ i ⁴⁴ + ʔ u ¹¹//ts i ³⁴ + m i ¹¹"
@@ -9000,7 +8988,7 @@ graph [
     family_count 1
   ]
   node [
-    id 750
+    id 749
     label "KIDNEY"
     occurrences "clicsbp-idssegmented-jinshadai-KIDNEY-1//clicsbp-wold-WhiteHmong-KIDNEY-1"
     words "l ə n ⁴⁴//r au ²¹³"
@@ -9012,7 +9000,7 @@ graph [
     family_count 1
   ]
   node [
-    id 751
+    id 750
     label "SPLEEN"
     occurrences "clicsbp-idssegmented-jinshadai-SPLEEN-1//clicsbp-wold-WhiteHmong-SPLEEN-1"
     words "p a ŋ ¹¹//p o ³³"
@@ -9024,7 +9012,7 @@ graph [
     family_count 1
   ]
   node [
-    id 752
+    id 751
     label "HIP"
     occurrences "clicsbp-idssegmented-jinshadai-HIP-1//clicsbp-wold-WhiteHmong-HIP-1"
     words "k u i ¹¹ + tʃʰ i ¹¹//ⁿtʃ a ³¹"
@@ -9036,7 +9024,7 @@ graph [
     family_count 1
   ]
   node [
-    id 753
+    id 752
     label "WOMB"
     occurrences "clicsbp-idssegmented-jinshadai-WOMB-1//clicsbp-wold-WhiteHmong-WOMB-1"
     words "v a k ²⁴//tʃ e ³⁴ + m e ³³ + ɲ w a ²¹³"
@@ -9048,7 +9036,7 @@ graph [
     family_count 1
   ]
   node [
-    id 754
+    id 753
     label "TESTICLES"
     occurrences "clicsbp-idssegmented-jinshadai-TESTICLES-1//clicsbp-wold-WhiteHmong-TESTICLES-1"
     words "h ɛ ²⁴//n o ŋ ⁵⁵ + q e ¹¹"
@@ -9060,7 +9048,7 @@ graph [
     family_count 1
   ]
   node [
-    id 755
+    id 754
     label "PENIS"
     occurrences "clicsbp-idssegmented-jinshadai-PENIS-1//clicsbp-wold-WhiteHmong-PENIS-1//clicsbp-wold-WhiteHmong-PENIS-2"
     words "x ə i ⁴⁴//q au ³³//tɕʰ aɯ ³³ + m o ¹¹"
@@ -9072,7 +9060,7 @@ graph [
     family_count 1
   ]
   node [
-    id 756
+    id 755
     label "BREATH OR BREATHE"
     occurrences "clicsbp-idssegmented-jinshadai-BREATHORBREATHE-1"
     words "h o i ⁴⁴ + l u e n ⁴⁴"
@@ -9084,7 +9072,7 @@ graph [
     family_count 1
   ]
   node [
-    id 757
+    id 756
     label "HICCOUGH"
     occurrences "clicsbp-idssegmented-jinshadai-HICCOUGH-1//clicsbp-wold-WhiteHmong-HICCOUGH-1"
     words "s i ⁴⁴ + ʔ ə k ¹¹//w a ³³ + ⁿtʃ o ¹¹"
@@ -9096,7 +9084,7 @@ graph [
     family_count 1
   ]
   node [
-    id 758
+    id 757
     label "SNEEZE"
     occurrences "clicsbp-idssegmented-jinshadai-SNEEZE-1//clicsbp-wold-WhiteHmong-SNEEZE-1"
     words "ʔ a ⁴⁴ + tʰ i u ³¹//tsʰ a ²¹³"
@@ -9108,7 +9096,7 @@ graph [
     family_count 1
   ]
   node [
-    id 759
+    id 758
     label "SWEAT (PERSPIRE)"
     occurrences "clicsbp-idssegmented-jinshadai-SWEATPERSPIRE-1//clicsbp-wold-WhiteHmong-SWEATPERSPIRE-1"
     words "ʔ u a k ⁴⁴ + h ə ³³//t aɯ ²¹³ + h ɯ ¹"
@@ -9120,7 +9108,7 @@ graph [
     family_count 1
   ]
   node [
-    id 760
+    id 759
     label "CUT"
     occurrences "clicsbp-idssegmented-jinshadai-CUT-2//clicsbp-idssegmented-jinshadai-CUT-1//clicsbp-wold-WhiteHmong-CUT-1"
     words "k ə t ³¹//p ə t ³³//ts j a ³⁴"
@@ -9132,7 +9120,7 @@ graph [
     family_count 1
   ]
   node [
-    id 761
+    id 760
     label "LICK"
     occurrences "clicsbp-idssegmented-jinshadai-LICK-1//clicsbp-wold-WhiteHmong-LICK-1"
     words "l e ⁴⁴//j ai ²¹³"
@@ -9144,7 +9132,7 @@ graph [
     family_count 1
   ]
   node [
-    id 762
+    id 761
     label "DRIBBLE"
     occurrences "clicsbp-idssegmented-jinshadai-DRIBBLE-1//clicsbp-wold-WhiteHmong-DRIBBLE-1"
     words "l a n ⁴³ + l ə a i ⁴⁴ + s i e ²⁴ + tʰ a ŋ ³³//ⁿr o ³¹ + au ⁵⁵ + ⁿtɕ au ³¹"
@@ -9156,7 +9144,7 @@ graph [
     family_count 1
   ]
   node [
-    id 763
+    id 762
     label "SNORE"
     occurrences "clicsbp-idssegmented-jinshadai-SNORE-1//clicsbp-wold-WhiteHmong-SNORE-1"
     words "n u e n ⁴⁴ + x u n ²⁴//w a ³³ + q a ⁵³"
@@ -9168,7 +9156,7 @@ graph [
     family_count 1
   ]
   node [
-    id 764
+    id 763
     label "DREAM (SOMETHING)"
     occurrences "clicsbp-idssegmented-jinshadai-DREAMSOMETHING-1//clicsbp-wold-WhiteHmong-DREAMSOMETHING-1"
     words "f a n ¹¹ + h ɛ a n ²⁴//w a ³³ + ⁿp au ³³ + ʂ w a ³⁴"
@@ -9180,7 +9168,7 @@ graph [
     family_count 1
   ]
   node [
-    id 765
+    id 764
     label "FART"
     occurrences "clicsbp-idssegmented-jinshadai-FART-1//clicsbp-wold-WhiteHmong-FART-1"
     words "p ə a i ³³ + t u e t ¹¹//tʃ o ³³ + p au ¹¹"
@@ -9192,7 +9180,7 @@ graph [
     family_count 1
   ]
   node [
-    id 766
+    id 765
     label "SHIVER"
     occurrences "clicsbp-idssegmented-jinshadai-SHIVER-1//clicsbp-wold-WhiteHmong-SHIVER-1"
     words "kʰ a u ³³//tʃʰ e ŋ ³³"
@@ -9204,7 +9192,7 @@ graph [
     family_count 1
   ]
   node [
-    id 767
+    id 766
     label "BATHE"
     occurrences "clicsbp-idssegmented-jinshadai-BATHE-1//clicsbp-wold-WhiteHmong-BATHE-1"
     words "ʔ a p ⁴⁴ + m a ŋ ³¹//d a ³³ + d e ⁵³"
@@ -9216,7 +9204,7 @@ graph [
     family_count 1
   ]
   node [
-    id 768
+    id 767
     label "BEGET"
     occurrences "clicsbp-idssegmented-jinshadai-BEGET-1"
     words "ɲ i ŋ ⁴⁴ + l u ¹¹"
@@ -9228,7 +9216,7 @@ graph [
     family_count 1
   ]
   node [
-    id 769
+    id 768
     label "BE BORN"
     occurrences "clicsbp-idssegmented-jinshadai-BEBORN-1//clicsbp-wold-WhiteHmong-BEBORN-1"
     words "ɲ i ŋ ⁴⁴ + l u ¹¹ + ʔ a ³³ + l i a ŋ ³³//j u ³¹ + l o ¹¹"
@@ -9240,7 +9228,7 @@ graph [
     family_count 1
   ]
   node [
-    id 770
+    id 769
     label "CONCEIVE"
     occurrences "clicsbp-idssegmented-jinshadai-CONCEIVE-1//clicsbp-wold-WhiteHmong-CONCEIVE-1"
     words "p a ⁴⁴ + l u ¹¹//s e ŋ ⁵⁵ + t u ⁵⁵"
@@ -9252,7 +9240,7 @@ graph [
     family_count 1
   ]
   node [
-    id 771
+    id 770
     label "BE ALIVE OR LIFE"
     occurrences "clicsbp-idssegmented-jinshadai-BEALIVEORLIFE-1//clicsbp-idssegmented-jinshadai-BEALIVEORLIFE-2"
     words "m i ³³ + j u ¹¹//k o ¹¹ + m ə ³¹ + v ɛ a n ⁴⁴"
@@ -9264,7 +9252,7 @@ graph [
     family_count 1
   ]
   node [
-    id 772
+    id 771
     label "BE DEAD OR DIE"
     occurrences "clicsbp-idssegmented-jinshadai-BEDEADORDIE-1"
     words "t a i ³³"
@@ -9276,7 +9264,7 @@ graph [
     family_count 1
   ]
   node [
-    id 773
+    id 772
     label "DROWNED"
     occurrences "clicsbp-idssegmented-jinshadai-DROWNED-1"
     words "m ə n ²⁴ + t a i ³³"
@@ -9288,7 +9276,7 @@ graph [
     family_count 1
   ]
   node [
-    id 774
+    id 773
     label "CORPSE"
     occurrences "clicsbp-idssegmented-jinshadai-CORPSE-1//clicsbp-wold-WhiteHmong-CORPSE-1"
     words "m a ŋ ³¹//n e ŋ ³¹ + t w a ³¹"
@@ -9300,7 +9288,7 @@ graph [
     family_count 1
   ]
   node [
-    id 775
+    id 774
     label "MIGHTY OR POWERFUL OR STRONG"
     occurrences "clicsbp-idssegmented-jinshadai-MIGHTYORPOWERFULORSTRONG-1"
     words "m i ⁴⁴ + h ɛ a ŋ ⁴⁴"
@@ -9312,7 +9300,7 @@ graph [
     family_count 1
   ]
   node [
-    id 776
+    id 775
     label "WEAK"
     occurrences "clicsbp-idssegmented-jinshadai-WEAK-1//clicsbp-wold-WhiteHmong-WEAK-1//clicsbp-wold-WhiteHmong-WEAK-2"
     words "v u ³³ + m i ⁴⁴ + h ɛ a ŋ ⁴⁴//q au ³¹ + ʐ o ³¹//tʃ au ³¹"
@@ -9324,7 +9312,7 @@ graph [
     family_count 1
   ]
   node [
-    id 777
+    id 776
     label "HEALTHY"
     occurrences "clicsbp-idssegmented-jinshadai-HEALTHY-1//clicsbp-wold-WhiteHmong-HEALTHY-1"
     words "m a ŋ ³¹ + s i e ⁴⁴ + l i ³³//n o ⁵³ + q a ⁵⁵ + ɲ o ⁵⁵ + ʐ o ŋ ³³"
@@ -9336,7 +9324,7 @@ graph [
     family_count 1
   ]
   node [
-    id 778
+    id 777
     label "FEVER"
     occurrences "clicsbp-idssegmented-jinshadai-FEVER-1//clicsbp-wold-WhiteHmong-FEVER-1//clicsbp-wold-WhiteHmong-FEVER-2"
     words "n ə ⁴³ + m a i ¹¹//ⁿb aɯ ¹¹//k u ⁵⁵ + tɕ e ³⁴"
@@ -9348,7 +9336,7 @@ graph [
     family_count 1
   ]
   node [
-    id 779
+    id 778
     label "GOITER"
     occurrences "clicsbp-idssegmented-jinshadai-GOITER-1//clicsbp-wold-WhiteHmong-GOITER-1"
     words "x o ⁴⁴ + k ə a i ³¹//o ³³ + ts j ə ³³"
@@ -9360,7 +9348,7 @@ graph [
     family_count 1
   ]
   node [
-    id 780
+    id 779
     label "COMMON COLD (DISEASE)"
     occurrences "clicsbp-idssegmented-jinshadai-COMMONCOLDDISEASE-1//clicsbp-wold-WhiteHmong-COMMONCOLDDISEASE-1"
     words "kʰ ə a i ³¹ + n a u ²⁴//kʰ au ⁵⁵ + tʰ w a ¹¹"
@@ -9372,7 +9360,7 @@ graph [
     family_count 1
   ]
   node [
-    id 781
+    id 780
     label "WOUND"
     occurrences "clicsbp-idssegmented-jinshadai-WOUND-1//clicsbp-wold-WhiteHmong-WOUND-1//clicsbp-wold-WhiteHmong-WOUND-2"
     words "t i ³³ + c ɨ k ¹¹//ⁿq ai ⁵³ + ⁿt w a ³¹//k j a ³⁴ + tsʰ a ⁵⁵"
@@ -9384,7 +9372,7 @@ graph [
     family_count 1
   ]
   node [
-    id 782
+    id 781
     label "BRUISE"
     occurrences "clicsbp-idssegmented-jinshadai-BRUISE-1//clicsbp-wold-WhiteHmong-BRUISE-1"
     words "k ə a i ³¹//d o ŋ ³¹ + ⁿtʃʱ a ³⁴"
@@ -9396,7 +9384,7 @@ graph [
     family_count 1
   ]
   node [
-    id 783
+    id 782
     label "SWELLING"
     occurrences "clicsbp-idssegmented-jinshadai-SWELLING-1//clicsbp-wold-WhiteHmong-SWELLING-1"
     words "k ə a i ³¹ + l o ŋ ²⁴//o ³³"
@@ -9408,7 +9396,7 @@ graph [
     family_count 1
   ]
   node [
-    id 784
+    id 783
     label "ITCH"
     occurrences "clicsbp-idssegmented-jinshadai-ITCH-1//clicsbp-idssegmented-jinshadai-ITCH-2//clicsbp-wold-WhiteHmong-ITCH-1"
     words "k ə a i ³¹ + l o ŋ ²⁴//x u e n ⁴⁴//kʰ au ¹¹"
@@ -9420,7 +9408,7 @@ graph [
     family_count 1
   ]
   node [
-    id 785
+    id 784
     label "BLISTER"
     occurrences "clicsbp-idssegmented-jinshadai-BLISTER-1//clicsbp-wold-WhiteHmong-BLISTER-1"
     words "p u a ŋ ⁴⁴//l̥ ɯ ³⁴"
@@ -9432,7 +9420,7 @@ graph [
     family_count 1
   ]
   node [
-    id 786
+    id 785
     label "BOIL (OF SKIN)"
     occurrences "clicsbp-idssegmented-jinshadai-BOILOFSKIN-1//clicsbp-wold-WhiteHmong-BOILOFSKIN-1"
     words "t u e ⁴⁴//r ɯ ⁵³"
@@ -9444,7 +9432,7 @@ graph [
     family_count 1
   ]
   node [
-    id 787
+    id 786
     label "SCAR"
     occurrences "clicsbp-idssegmented-jinshadai-SCAR-1//clicsbp-wold-WhiteHmong-SCAR-1"
     words "h u a i ⁴⁴ + p a ³³ + c ɨ ⁴⁴//tɕ aɯ ¹¹ + pˡ j a ³⁴"
@@ -9456,7 +9444,7 @@ graph [
     family_count 1
   ]
   node [
-    id 788
+    id 787
     label "CURE"
     occurrences "clicsbp-idssegmented-jinshadai-CURE-1//clicsbp-wold-WhiteHmong-CURE-1"
     words "j i a ¹¹ + h a i ²⁴//kʰ o ³³ + m o ⁵⁵"
@@ -9468,7 +9456,7 @@ graph [
     family_count 1
   ]
   node [
-    id 789
+    id 788
     label "PHYSICIAN"
     occurrences "clicsbp-idssegmented-jinshadai-PHYSICIAN-1//clicsbp-wold-WhiteHmong-PHYSICIAN-1//clicsbp-wold-WhiteHmong-PHYSICIAN-2"
     words "kʰ a ¹¹ + j i a ²⁴//k ɯ ¹¹ + kʰ o ³³ + m o ⁵⁵//tʰ a ⁵³ + m o ²¹³"
@@ -9480,7 +9468,7 @@ graph [
     family_count 1
   ]
   node [
-    id 790
+    id 789
     label "POISON"
     occurrences "clicsbp-idssegmented-jinshadai-POISON-1//clicsbp-wold-WhiteHmong-POISON-1//clicsbp-wold-WhiteHmong-POISON-2"
     words "t u ¹¹ + j i o ²⁴//tʃʰ w a ⁵³ + l o ²¹³//t au ³¹"
@@ -9492,7 +9480,7 @@ graph [
     family_count 1
   ]
   node [
-    id 791
+    id 790
     label "REST"
     occurrences "clicsbp-idssegmented-jinshadai-REST-1//clicsbp-wold-WhiteHmong-REST-1"
     words "s a u ⁴⁴ + h ɛ a ŋ ⁴⁴//ʂ o ³³"
@@ -9504,7 +9492,7 @@ graph [
     family_count 1
   ]
   node [
-    id 792
+    id 791
     label "BALD"
     occurrences "clicsbp-idssegmented-jinshadai-BALD-1//clicsbp-wold-WhiteHmong-BALD-1"
     words "h o ²⁴ + m i e n ¹¹//d o ³³ + h au ³³"
@@ -9516,7 +9504,7 @@ graph [
     family_count 1
   ]
   node [
-    id 793
+    id 792
     label "LAME"
     occurrences "clicsbp-idssegmented-jinshadai-LAME-1//clicsbp-wold-WhiteHmong-LAME-1"
     words "x a ⁴⁴ + tʃ i a n ⁴⁴//tɕ e ³¹ + t aɯ ³⁴"
@@ -9528,7 +9516,7 @@ graph [
     family_count 1
   ]
   node [
-    id 794
+    id 793
     label "DEAF"
     occurrences "clicsbp-idssegmented-jinshadai-DEAF-1//clicsbp-wold-WhiteHmong-DEAF-1"
     words "l o k ⁴³//l a ³¹ + ⁿtʃ e ³¹"
@@ -9540,7 +9528,7 @@ graph [
     family_count 1
   ]
   node [
-    id 795
+    id 794
     label "BLIND"
     occurrences "clicsbp-idssegmented-jinshadai-BLIND-1//clicsbp-wold-WhiteHmong-BLIND-1"
     words "m u a k ²⁴//d i ³¹ + m w a ³¹"
@@ -9552,7 +9540,7 @@ graph [
     family_count 1
   ]
   node [
-    id 796
+    id 795
     label "NAKED"
     occurrences "clicsbp-idssegmented-jinshadai-NAKED-1//clicsbp-wold-WhiteHmong-NAKED-1"
     words "m a ŋ ³¹ + l a i ⁴⁴ + m a ŋ ³¹ + l u a k ³³//l j a ⁵⁵ + q a ⁵⁵"
@@ -9564,7 +9552,7 @@ graph [
     family_count 1
   ]
   node [
-    id 797
+    id 796
     label "FOOD"
     occurrences "clicsbp-idssegmented-jinshadai-FOOD-1//clicsbp-wold-WhiteHmong-FOOD-1//clicsbp-wold-WhiteHmong-FOOD-2"
     words "kʰ a u ¹¹ + n a ⁴³//ʐ au ⁵⁵ + m o ³⁴//kʰ o ŋ ²¹³ + n o ⁵³"
@@ -9576,7 +9564,7 @@ graph [
     family_count 1
   ]
   node [
-    id 798
+    id 797
     label "RIPE"
     occurrences "clicsbp-idssegmented-jinshadai-RIPE-1//clicsbp-wold-WhiteHmong-RIPE-1"
     words "l ə ŋ ²⁴//ʂ j a ³⁴"
@@ -9588,7 +9576,7 @@ graph [
     family_count 1
   ]
   node [
-    id 799
+    id 798
     label "UNRIPE"
     occurrences "clicsbp-idssegmented-jinshadai-UNRIPE-1//clicsbp-wold-WhiteHmong-UNRIPE-1"
     words "s i u ²⁴//ɲ o ŋ ¹¹"
@@ -9600,7 +9588,7 @@ graph [
     family_count 1
   ]
   node [
-    id 800
+    id 799
     label "HUNGER"
     occurrences "clicsbp-idssegmented-jinshadai-HUNGER-1"
     words "t u a ŋ ⁴³ + j i a k ⁴³"
@@ -9612,7 +9600,7 @@ graph [
     family_count 1
   ]
   node [
-    id 801
+    id 800
     label "FAMINE"
     occurrences "clicsbp-idssegmented-jinshadai-FAMINE-1"
     words "j i a k ⁴³"
@@ -9624,7 +9612,7 @@ graph [
     family_count 1
   ]
   node [
-    id 802
+    id 801
     label "THIRST"
     occurrences "clicsbp-idssegmented-jinshadai-THIRST-1"
     words "p a k ⁴³ + h ɛ a ŋ ¹¹"
@@ -9636,7 +9624,7 @@ graph [
     family_count 1
   ]
   node [
-    id 803
+    id 802
     label "SUCK"
     occurrences "clicsbp-idssegmented-jinshadai-SUCK-1//clicsbp-wold-WhiteHmong-SUCK-1"
     words "s u i ⁴³ + l a n ⁴³//ⁿts ai ¹¹"
@@ -9648,7 +9636,7 @@ graph [
     family_count 1
   ]
   node [
-    id 804
+    id 803
     label "CHEW"
     occurrences "clicsbp-idssegmented-jinshadai-CHEW-1//clicsbp-wold-WhiteHmong-CHEW-1"
     words "tʃ i u ⁴⁴//ʐ o ²¹³"
@@ -9660,7 +9648,7 @@ graph [
     family_count 1
   ]
   node [
-    id 805
+    id 804
     label "SWALLOW"
     occurrences "clicsbp-idssegmented-jinshadai-SWALLOW-1//clicsbp-wold-WhiteHmong-SWALLOW-1"
     words "ʔ ə n ³³//ⁿq o ¹¹"
@@ -9672,7 +9660,7 @@ graph [
     family_count 1
   ]
   node [
-    id 806
+    id 805
     label "CHOKE"
     occurrences "clicsbp-idssegmented-jinshadai-CHOKE-1//clicsbp-wold-WhiteHmong-CHOKE-1"
     words "k a ŋ ⁴³//d ai ³¹ + tɕ a ⁵³ + d a ⁵⁵"
@@ -9684,7 +9672,7 @@ graph [
     family_count 1
   ]
   node [
-    id 807
+    id 806
     label "ROAST OR FRY"
     occurrences "clicsbp-idssegmented-jinshadai-ROASTORFRY-1//clicsbp-wold-WhiteHmong-ROASTORFRY-1//clicsbp-wold-WhiteHmong-ROASTORFRY-2"
     words "kʰ o ¹¹//tɕ i ³³//k i ⁵⁵"
@@ -9696,7 +9684,7 @@ graph [
     family_count 1
   ]
   node [
-    id 808
+    id 807
     label "BAKE"
     occurrences "clicsbp-idssegmented-jinshadai-BAKE-1//clicsbp-idssegmented-jinshadai-BAKE-2//clicsbp-wold-WhiteHmong-BAKE-1"
     words "ʔ u e ³³//tʃ i ⁴⁴//tɕ i ³³"
@@ -9708,7 +9696,7 @@ graph [
     family_count 1
   ]
   node [
-    id 809
+    id 808
     label "OVEN"
     occurrences "clicsbp-idssegmented-jinshadai-OVEN-1//clicsbp-wold-WhiteHmong-OVEN-1"
     words "t a u ³³ + f ə a i ⁴⁴//qʰ o ³⁴ + ts o ¹¹"
@@ -9720,7 +9708,7 @@ graph [
     family_count 1
   ]
   node [
-    id 810
+    id 809
     label "COOKING POT"
     occurrences "clicsbp-idssegmented-jinshadai-COOKINGPOT-1"
     words "m o ¹¹"
@@ -9732,7 +9720,7 @@ graph [
     family_count 1
   ]
   node [
-    id 811
+    id 810
     label "KETTLE"
     occurrences "clicsbp-idssegmented-jinshadai-KETTLE-1//clicsbp-wold-WhiteHmong-KETTLE-1"
     words "m o ¹¹ + t o n ¹¹ + l a n ⁴³//h ɯ ⁵³ + k ai ¹¹"
@@ -9744,7 +9732,7 @@ graph [
     family_count 1
   ]
   node [
-    id 812
+    id 811
     label "PAN"
     occurrences "clicsbp-idssegmented-jinshadai-PAN-1//clicsbp-wold-WhiteHmong-PAN-1"
     words "m o ¹¹ + pʰ e ¹¹//j j a ¹¹"
@@ -9756,7 +9744,7 @@ graph [
     family_count 1
   ]
   node [
-    id 813
+    id 812
     label "DISH"
     occurrences "clicsbp-idssegmented-jinshadai-DISH-1//clicsbp-wold-WhiteHmong-DISH-1"
     words "v ɛ a n ³³//pʰ a ⁵³"
@@ -9768,7 +9756,7 @@ graph [
     family_count 1
   ]
   node [
-    id 814
+    id 813
     label "PLATE"
     occurrences "clicsbp-idssegmented-jinshadai-PLATE-1//clicsbp-wold-WhiteHmong-PLATE-1"
     words "pʰ a n ³¹ + c ɨ ⁴⁴//pʰ a ⁵³"
@@ -9780,7 +9768,7 @@ graph [
     family_count 1
   ]
   node [
-    id 815
+    id 814
     label "JUG"
     occurrences "clicsbp-idssegmented-jinshadai-JUG-1"
     words "k u a ŋ ¹¹"
@@ -9792,7 +9780,7 @@ graph [
     family_count 1
   ]
   node [
-    id 816
+    id 815
     label "CUP"
     occurrences "clicsbp-idssegmented-jinshadai-CUP-1//clicsbp-wold-WhiteHmong-CUP-1"
     words "p ə i ³³ + c ɨ ⁴⁴//kʰ o ⁵⁵"
@@ -9804,7 +9792,7 @@ graph [
     family_count 1
   ]
   node [
-    id 817
+    id 816
     label "SAUCER"
     occurrences "clicsbp-idssegmented-jinshadai-SAUCER-1//clicsbp-wold-WhiteHmong-SAUCER-1"
     words "v ɛ a n ³³ + pʰ a n ³¹//pʰ a ⁵³"
@@ -9816,7 +9804,7 @@ graph [
     family_count 1
   ]
   node [
-    id 818
+    id 817
     label "KNIFE (FOR EATING)"
     occurrences "clicsbp-idssegmented-jinshadai-KNIFEFOREATING-1//clicsbp-idssegmented-jinshadai-KNIFEFOREATING-2//clicsbp-wold-WhiteHmong-KNIFEFOREATING-1"
     words "m i t ¹¹//pʰ a ³¹//r j a ²¹³"
@@ -9828,7 +9816,7 @@ graph [
     family_count 1
   ]
   node [
-    id 819
+    id 818
     label "KNIFE"
     occurrences "clicsbp-idssegmented-jinshadai-KNIFE-1//clicsbp-idssegmented-jinshadai-KNIFE-2//clicsbp-wold-WhiteHmong-KNIFE-1"
     words "m i t ¹¹//pʰ a ³¹//r j a ²¹³"
@@ -9840,7 +9828,7 @@ graph [
     family_count 1
   ]
   node [
-    id 820
+    id 819
     label "FORK"
     occurrences "clicsbp-idssegmented-jinshadai-FORK-1//clicsbp-wold-WhiteHmong-FORK-1"
     words "cʰ a ³³//d j a ³⁴ + r aɯ ³¹"
@@ -9852,7 +9840,7 @@ graph [
     family_count 1
   ]
   node [
-    id 821
+    id 820
     label "MEAL"
     occurrences "clicsbp-idssegmented-jinshadai-MEAL-1//clicsbp-wold-WhiteHmong-MEAL-1"
     words "kʰ a u ¹¹//p lʷ a ¹¹ + m o ³⁴"
@@ -9864,7 +9852,7 @@ graph [
     family_count 1
   ]
   node [
-    id 822
+    id 821
     label "BREAKFAST"
     occurrences "clicsbp-idssegmented-jinshadai-BREAKFAST-1//clicsbp-wold-WhiteHmong-BREAKFAST-1"
     words "kʰ a u ¹¹ + ɲ a i ⁴⁴//n o ⁵³ + tʃʰ ai ¹¹"
@@ -9876,7 +9864,7 @@ graph [
     family_count 1
   ]
   node [
-    id 823
+    id 822
     label "LUNCH"
     occurrences "clicsbp-idssegmented-jinshadai-LUNCH-1//clicsbp-wold-WhiteHmong-LUNCH-1"
     words "kʰ a u ¹¹ + j i n ²⁴//n o ⁵³ + ʂ u ³³"
@@ -9888,7 +9876,7 @@ graph [
     family_count 1
   ]
   node [
-    id 824
+    id 823
     label "DINNER (SUPPER)"
     occurrences "clicsbp-idssegmented-jinshadai-DINNERSUPPER-2//clicsbp-idssegmented-jinshadai-DINNERSUPPER-1//clicsbp-wold-WhiteHmong-DINNERSUPPER-1//clicsbp-wold-WhiteHmong-DINNERSUPPER-2"
     words "kʰ a u ¹¹ + j i n ²⁴//kʰ a u ¹¹ + v ɛ a n ⁴⁴//n o ⁵³ + m̥ o ³³//n o ⁵³ + m̥ o ³³"
@@ -9900,7 +9888,7 @@ graph [
     family_count 1
   ]
   node [
-    id 825
+    id 824
     label "SIEVE OR STRAIN"
     occurrences "clicsbp-idssegmented-jinshadai-SIEVEORSTRAIN-1//clicsbp-idssegmented-jinshadai-SIEVEORSTRAIN-2//clicsbp-wold-WhiteHmong-SIEVEORSTRAIN-1"
     words "kʰ ə ŋ ²⁴//l u e t ¹¹//l i ²¹³"
@@ -9912,7 +9900,7 @@ graph [
     family_count 1
   ]
   node [
-    id 826
+    id 825
     label "MIX"
     occurrences "clicsbp-idssegmented-jinshadai-MIX-1//clicsbp-wold-WhiteHmong-MIX-1//clicsbp-wold-WhiteHmong-MIX-2//clicsbp-wold-WhiteHmong-MIX-3"
     words "p ɛ a n ³³//d o ³³//ʂ i ⁵⁵ + ɕ aɯ ¹¹//t o ³⁴"
@@ -9924,7 +9912,7 @@ graph [
     family_count 1
   ]
   node [
-    id 827
+    id 826
     label "BREAD"
     occurrences "clicsbp-idssegmented-jinshadai-BREAD-1//clicsbp-wold-WhiteHmong-BREAD-1//clicsbp-wold-WhiteHmong-BREAD-2"
     words "kʰ a u ¹¹ + pʰ ɛ a n ³³//kʰ o ⁵⁵ + tɕ i ⁵³//ⁿtɕ w a ³⁴ + tɕ i ³³"
@@ -9936,7 +9924,7 @@ graph [
     family_count 1
   ]
   node [
-    id 828
+    id 827
     label "DOUGH"
     occurrences "clicsbp-idssegmented-jinshadai-DOUGH-1"
     words "k u e ³¹ + kʰ a u ¹¹"
@@ -9948,7 +9936,7 @@ graph [
     family_count 1
   ]
   node [
-    id 829
+    id 828
     label "KNEAD"
     occurrences "clicsbp-idssegmented-jinshadai-KNEAD-1//clicsbp-wold-WhiteHmong-KNEAD-1"
     words "l u e t ¹¹ + k u e ³¹ + kʰ a u ¹¹//ʐ w a ⁵³"
@@ -9960,7 +9948,7 @@ graph [
     family_count 1
   ]
   node [
-    id 830
+    id 829
     label "SILVER"
     occurrences "clicsbp-idssegmented-jinshadai-SILVER-1//clicsbp-wold-WhiteHmong-SILVER-1"
     words "ɲ i a n ⁴⁴//ɲ j a ⁵³"
@@ -9972,7 +9960,7 @@ graph [
     family_count 1
   ]
   node [
-    id 831
+    id 830
     label "READ"
     occurrences "clicsbp-idssegmented-jinshadai-READ-1//clicsbp-wold-WhiteHmong-READ-1//clicsbp-wold-WhiteHmong-READ-2"
     words "ɲ i a n ⁴⁴//ɲ e ŋ ²¹³//t ɯ ²¹³"
@@ -9984,7 +9972,7 @@ graph [
     family_count 1
   ]
   node [
-    id 832
+    id 831
     label "MORTAR"
     occurrences "clicsbp-idssegmented-jinshadai-MORTAR-1//clicsbp-wold-WhiteHmong-MORTAR-1"
     words "kʰ o ŋ ⁴³//tʃʰ w a ⁵³ + kʰ i ⁵⁵"
@@ -9996,7 +9984,7 @@ graph [
     family_count 1
   ]
   node [
-    id 833
+    id 832
     label "BEAN"
     occurrences "clicsbp-idssegmented-jinshadai-BEAN-1//clicsbp-wold-WhiteHmong-BEAN-1"
     words "tʰ o ¹¹ + s i u ²⁴//t au ²¹³"
@@ -10008,7 +9996,7 @@ graph [
     family_count 1
   ]
   node [
-    id 834
+    id 833
     label "POTATO"
     occurrences "clicsbp-idssegmented-jinshadai-POTATO-1//clicsbp-idssegmented-jinshadai-POTATO-2//clicsbp-wold-WhiteHmong-POTATO-1"
     words "m ə ⁴⁴//m ə ⁴⁴ + l i a ŋ ³³//q o ¹¹ + j a ⁵³ + j ɯ ²¹³"
@@ -10020,7 +10008,7 @@ graph [
     family_count 1
   ]
   node [
-    id 835
+    id 834
     label "BUNCH"
     occurrences "clicsbp-idssegmented-jinshadai-BUNCH-1//clicsbp-wold-WhiteHmong-BUNCH-1//clicsbp-wold-WhiteHmong-BUNCH-2//clicsbp-wold-WhiteHmong-BUNCH-3"
     words "h u e ³¹//r e ³⁴//tʃ w a ³¹//tʰ i ⁵³"
@@ -10032,7 +10020,7 @@ graph [
     family_count 1
   ]
   node [
-    id 836
+    id 835
     label "FIG"
     occurrences "clicsbp-idssegmented-jinshadai-FIG-1//clicsbp-wold-WhiteHmong-FIG-1//clicsbp-wold-WhiteHmong-FIG-2"
     words "v u ¹¹ + ɲ i ŋ ⁴⁴ + v u a k ⁴³ + n ə ³³ + m a k ⁴³//ts i ³⁴ + tɕ e ³⁴ + ⁿp l au ²¹³//ts i ³⁴ + tɕ w a ³³"
@@ -10044,7 +10032,7 @@ graph [
     family_count 1
   ]
   node [
-    id 837
+    id 836
     label "OIL (ORGANIC SUBSTANCE)"
     occurrences "clicsbp-idssegmented-jinshadai-OILORGANICSUBSTANCE-1//clicsbp-wold-WhiteHmong-OILORGANICSUBSTANCE-1"
     words "x ə a i ²⁴//r o ⁵³"
@@ -10056,7 +10044,7 @@ graph [
     family_count 1
   ]
   node [
-    id 838
+    id 837
     label "FAT (ORGANIC SUBSTANCE)"
     occurrences "clicsbp-idssegmented-jinshadai-FATORGANICSUBSTANCE-2//clicsbp-idssegmented-jinshadai-FATORGANICSUBSTANCE-1//clicsbp-wold-WhiteHmong-FATORGANICSUBSTANCE-1"
     words "x ə a i ²⁴//x ə a i ²⁴ + x u a ŋ ²⁴//r o ⁵³"
@@ -10068,7 +10056,7 @@ graph [
     family_count 1
   ]
   node [
-    id 839
+    id 838
     label "PEPPER"
     occurrences "clicsbp-idssegmented-jinshadai-PEPPER-1//clicsbp-wold-WhiteHmong-PEPPER-1"
     words "m a k ⁴³ + pʰ i ³¹//h ɯ ⁵³ + ts o ⁵⁵"
@@ -10080,7 +10068,7 @@ graph [
     family_count 1
   ]
   node [
-    id 840
+    id 839
     label "HONEY"
     occurrences "clicsbp-idssegmented-jinshadai-HONEY-1//clicsbp-wold-WhiteHmong-HONEY-1"
     words "l a n ⁴³ + pʰ ə a ŋ ¹¹//ʐ i ⁵⁵ + m u ³³"
@@ -10092,7 +10080,7 @@ graph [
     family_count 1
   ]
   node [
-    id 841
+    id 840
     label "DRAW MILK"
     occurrences "clicsbp-idssegmented-jinshadai-DRAWMILK-1//clicsbp-wold-WhiteHmong-DRAWMILK-1"
     words "m i t ⁴³//tʃ o ³³ + k w a ³³ + m i ¹¹"
@@ -10104,7 +10092,7 @@ graph [
     family_count 1
   ]
   node [
-    id 842
+    id 841
     label "BUTTER"
     occurrences "clicsbp-idssegmented-jinshadai-BUTTER-1"
     words "x ə a i ²⁴ + l ə ŋ ²⁴"
@@ -10116,7 +10104,7 @@ graph [
     family_count 1
   ]
   node [
-    id 843
+    id 842
     label "WINE"
     occurrences "clicsbp-idssegmented-jinshadai-WINE-1"
     words "pʰ u ¹¹ + tʰ a u ³³ + tʃ i u ⁴⁴"
@@ -10128,7 +10116,7 @@ graph [
     family_count 1
   ]
   node [
-    id 844
+    id 843
     label "BEER"
     occurrences "clicsbp-idssegmented-jinshadai-BEER-1//clicsbp-wold-WhiteHmong-BEER-1"
     words "pʰ i ¹¹ + tʃ i u ⁴⁴//ⁿb j a ¹¹"
@@ -10140,7 +10128,7 @@ graph [
     family_count 1
   ]
   node [
-    id 845
+    id 844
     label "COAT"
     occurrences "clicsbp-idssegmented-jinshadai-COAT-1//clicsbp-idssegmented-jinshadai-COAT-2//clicsbp-wold-WhiteHmong-COAT-1//clicsbp-wold-WhiteHmong-COAT-2"
     words "s ə ¹¹//s ə ¹¹ + k a n ³³ + n u a k ¹¹//tʃʰ o ³³ + t i ³⁴ + n o ³³//tʃʰ o ³³ + l o ⁵³"
@@ -10152,7 +10140,7 @@ graph [
     family_count 1
   ]
   node [
-    id 846
+    id 845
     label "TAILOR"
     occurrences "clicsbp-idssegmented-jinshadai-TAILOR-1"
     words "tʃ i ⁴⁴ + s ə ¹¹"
@@ -10164,7 +10152,7 @@ graph [
     family_count 1
   ]
   node [
-    id 847
+    id 846
     label "WOOL"
     occurrences "clicsbp-idssegmented-jinshadai-WOOL-1"
     words "x u n ²⁴"
@@ -10176,7 +10164,7 @@ graph [
     family_count 1
   ]
   node [
-    id 848
+    id 847
     label "SILK"
     occurrences "clicsbp-idssegmented-jinshadai-SILK-1//clicsbp-wold-WhiteHmong-SILK-1"
     words "pʰ e ⁴⁴//ⁿt au ⁵⁵ + k a ⁵⁵"
@@ -10188,7 +10176,7 @@ graph [
     family_count 1
   ]
   node [
-    id 849
+    id 848
     label "FUR"
     occurrences "clicsbp-idssegmented-jinshadai-FUR-1//clicsbp-wold-WhiteHmong-FUR-1"
     words "s ə ¹¹ + n a ŋ ²⁴//p l au ⁵⁵"
@@ -10200,7 +10188,7 @@ graph [
     family_count 1
   ]
   node [
-    id 850
+    id 849
     label "SPINDLE"
     occurrences "clicsbp-idssegmented-jinshadai-SPINDLE-1//clicsbp-wold-WhiteHmong-SPINDLE-1"
     words "k o ŋ ⁴⁴//ⁿts ai ³⁴"
@@ -10212,7 +10200,7 @@ graph [
     family_count 1
   ]
   node [
-    id 851
+    id 850
     label "THREAD"
     occurrences "clicsbp-idssegmented-jinshadai-THREAD-1//clicsbp-wold-WhiteHmong-THREAD-1"
     words "m ə a i ²⁴//s o ³⁴"
@@ -10224,7 +10212,7 @@ graph [
     family_count 1
   ]
   node [
-    id 852
+    id 851
     label "DYE"
     occurrences "clicsbp-idssegmented-jinshadai-DYE-1//clicsbp-wold-WhiteHmong-DYE-1"
     words "j u e ³¹ + s ə ¹¹//ʐ a ¹¹"
@@ -10236,7 +10224,7 @@ graph [
     family_count 1
   ]
   node [
-    id 853
+    id 852
     label "DRESS"
     occurrences "clicsbp-idssegmented-jinshadai-DRESS-1//clicsbp-wold-WhiteHmong-DRESS-1"
     words "s i ŋ ¹¹ + s ə ¹¹//tɕ e ³⁴ + t j a ⁵⁵"
@@ -10248,7 +10236,7 @@ graph [
     family_count 1
   ]
   node [
-    id 854
+    id 853
     label "SHIRT"
     occurrences "clicsbp-idssegmented-jinshadai-SHIRT-1//clicsbp-wold-WhiteHmong-SHIRT-1"
     words "s ə ¹¹ + k a n ³³ + n ə a i ⁴⁴//tʃʰ o ³³"
@@ -10260,7 +10248,7 @@ graph [
     family_count 1
   ]
   node [
-    id 855
+    id 854
     label "GRASS-SKIRT"
     occurrences "clicsbp-idssegmented-jinshadai-GRASSSKIRT-1"
     words "s i ŋ ¹¹ + ɲ i a ¹¹"
@@ -10272,7 +10260,7 @@ graph [
     family_count 1
   ]
   node [
-    id 856
+    id 855
     label "STOCKING"
     occurrences "clicsbp-idssegmented-jinshadai-STOCKING-1//clicsbp-wold-WhiteHmong-STOCKING-1//clicsbp-wold-WhiteHmong-STOCKING-2"
     words "v a ¹¹ + c ɨ ⁴⁴//tʰ o ²¹³ + kʰ ɯ ²¹³//tʰ o ŋ ²¹³ + tʰ au ⁵⁵"
@@ -10284,7 +10272,7 @@ graph [
     family_count 1
   ]
   node [
-    id 857
+    id 856
     label "BOOT"
     occurrences "clicsbp-idssegmented-jinshadai-BOOT-1"
     words "k i a t ¹¹ + t i n ³³ + n a ŋ ²⁴"
@@ -10296,7 +10284,7 @@ graph [
     family_count 1
   ]
   node [
-    id 858
+    id 857
     label "HEADGEAR"
     occurrences "clicsbp-idssegmented-jinshadai-HEADGEAR-1//clicsbp-wold-WhiteHmong-HEADGEAR-1"
     words "m u a k ³³//k au ¹¹ + m o ²¹³"
@@ -10308,7 +10296,7 @@ graph [
     family_count 1
   ]
   node [
-    id 859
+    id 858
     label "BELT"
     occurrences "clicsbp-idssegmented-jinshadai-BELT-1//clicsbp-wold-WhiteHmong-BELT-1"
     words "s a i ²⁴ + t i u ³³//ʂ i ³⁴"
@@ -10320,7 +10308,7 @@ graph [
     family_count 1
   ]
   node [
-    id 860
+    id 859
     label "GLOVE"
     occurrences "clicsbp-idssegmented-jinshadai-GLOVE-1//clicsbp-wold-WhiteHmong-GLOVE-1"
     words "s ə u ⁴⁴ + tʰ a u ²⁴//n̥ a ⁵⁵ + t e ¹¹"
@@ -10332,7 +10320,7 @@ graph [
     family_count 1
   ]
   node [
-    id 861
+    id 860
     label "PIN"
     occurrences "clicsbp-idssegmented-jinshadai-PIN-1//clicsbp-wold-WhiteHmong-PIN-1"
     words "s i ŋ ²⁴ + l o ŋ ²⁴//k o ŋ ⁵⁵"
@@ -10344,7 +10332,7 @@ graph [
     family_count 1
   ]
   node [
-    id 862
+    id 861
     label "HOWL"
     occurrences "clicsbp-idssegmented-jinshadai-HOWL-1//clicsbp-idssegmented-jinshadai-HOWL-2//clicsbp-wold-WhiteHmong-HOWL-1"
     words "s i ŋ ²⁴ + l o ŋ ²⁴//h ɨ k ⁴³//ⁿq o ³⁴"
@@ -10356,7 +10344,7 @@ graph [
     family_count 1
   ]
   node [
-    id 863
+    id 862
     label "NECKLACE"
     occurrences "clicsbp-idssegmented-jinshadai-NECKLACE-1//clicsbp-wold-WhiteHmong-NECKLACE-1//clicsbp-wold-WhiteHmong-NECKLACE-2"
     words "v ɛ a n ²⁴ + p a ⁴⁴ + x o ⁴⁴//s au ³⁴//ʂ aɯ ³³"
@@ -10368,7 +10356,7 @@ graph [
     family_count 1
   ]
   node [
-    id 864
+    id 863
     label "BEAD"
     occurrences "clicsbp-idssegmented-jinshadai-BEAD-1//clicsbp-wold-WhiteHmong-BEAD-1"
     words "l u ¹¹ + p u a i ⁴⁴//l̥ aɯ ¹¹"
@@ -10380,7 +10368,7 @@ graph [
     family_count 1
   ]
   node [
-    id 865
+    id 864
     label "HEADBAND OR HEADDRESS"
     occurrences "clicsbp-idssegmented-jinshadai-HEADBANDORHEADDRESS-1//clicsbp-wold-WhiteHmong-HEADBANDORHEADDRESS-1"
     words "p u a k ¹¹ + pʰ o ²⁴//h au ³⁴ + pʰ w a ²¹³"
@@ -10392,7 +10380,7 @@ graph [
     family_count 1
   ]
   node [
-    id 866
+    id 865
     label "TOWEL"
     occurrences "clicsbp-idssegmented-jinshadai-TOWEL-1//clicsbp-wold-WhiteHmong-TOWEL-1"
     words "pʰ a ⁴⁴ + s u k ⁴³ + n a ¹¹//pʰ w a ²¹³ + d a ³³ + d e ⁵³"
@@ -10404,7 +10392,7 @@ graph [
     family_count 1
   ]
   node [
-    id 867
+    id 866
     label "RAZOR"
     occurrences "clicsbp-idssegmented-jinshadai-RAZOR-1//clicsbp-wold-WhiteHmong-RAZOR-1"
     words "m i ¹¹ + h a i ⁴⁴ + h o ²⁴//tɕʰ ai ¹¹"
@@ -10416,7 +10404,7 @@ graph [
     family_count 1
   ]
   node [
-    id 868
+    id 867
     label "SOAP"
     occurrences "clicsbp-idssegmented-jinshadai-SOAP-1//clicsbp-wold-WhiteHmong-SOAP-1"
     words "f ə i ³¹ + c a u ¹¹//s u ¹¹ + ⁿp u ¹¹"
@@ -10428,7 +10416,7 @@ graph [
     family_count 1
   ]
   node [
-    id 869
+    id 868
     label "ROOM"
     occurrences "clicsbp-idssegmented-jinshadai-ROOM-1//clicsbp-idssegmented-jinshadai-ROOM-2//clicsbp-wold-WhiteHmong-ROOM-1//clicsbp-wold-WhiteHmong-ROOM-2"
     words "h ə n ⁴⁴//h u a ŋ ¹¹ + h ə ⁴⁴//tɕʰ a ³⁴//h o ŋ ⁵⁵"
@@ -10440,7 +10428,7 @@ graph [
     family_count 1
   ]
   node [
-    id 870
+    id 869
     label "HUT"
     occurrences "clicsbp-idssegmented-jinshadai-HUT-1//clicsbp-wold-WhiteHmong-HUT-1"
     words "h ə n ⁴⁴ + ɲ i ³³//tʃ e ³⁴ + pʰ e ŋ ⁵⁵ + ʂ w a ⁵⁵"
@@ -10452,7 +10440,7 @@ graph [
     family_count 1
   ]
   node [
-    id 871
+    id 870
     label "TENT"
     occurrences "clicsbp-idssegmented-jinshadai-TENT-1"
     words "tʰ i ŋ ²⁴"
@@ -10464,7 +10452,7 @@ graph [
     family_count 1
   ]
   node [
-    id 872
+    id 871
     label "YARD"
     occurrences "clicsbp-idssegmented-jinshadai-YARD-1//clicsbp-wold-WhiteHmong-YARD-1"
     words "k a ŋ ³³ + k i a ŋ ²⁴//v a ⁵³"
@@ -10476,7 +10464,7 @@ graph [
     family_count 1
   ]
   node [
-    id 873
+    id 872
     label "COOKHOUSE"
     occurrences "clicsbp-idssegmented-jinshadai-COOKHOUSE-1"
     words "n a ¹¹ + t a u ³³"
@@ -10488,7 +10476,7 @@ graph [
     family_count 1
   ]
   node [
-    id 874
+    id 873
     label "LATCH"
     occurrences "clicsbp-idssegmented-jinshadai-LATCH-1//clicsbp-wold-WhiteHmong-LATCH-1"
     words "l i u ³³ + p a t ¹¹ + t u ³³//ⁿtʃ j a ³³ + l j a ⁵³ + qʰ o ³⁴ + r o ŋ ⁵³"
@@ -10500,7 +10488,7 @@ graph [
     family_count 1
   ]
   node [
-    id 875
+    id 874
     label "WALL (OF HOUSE)"
     occurrences "clicsbp-idssegmented-jinshadai-WALLOFHOUSE-1//clicsbp-wold-WhiteHmong-WALLOFHOUSE-1"
     words "kʰ o ²⁴//pʰ a ⁵⁵ + ⁿtʃ a ³³"
@@ -10512,7 +10500,7 @@ graph [
     family_count 1
   ]
   node [
-    id 876
+    id 875
     label "FIREPLACE"
     occurrences "clicsbp-idssegmented-jinshadai-FIREPLACE-1//clicsbp-wold-WhiteHmong-FIREPLACE-1//clicsbp-wold-WhiteHmong-FIREPLACE-2"
     words "f a ²⁴ + t a u ³³//qʰ o ³⁴ + ts o ¹¹//qʰ o ³⁴ + tɕ u ⁵⁵"
@@ -10524,7 +10512,7 @@ graph [
     family_count 1
   ]
   node [
-    id 877
+    id 876
     label "BLANKET"
     occurrences "clicsbp-idssegmented-jinshadai-BLANKET-1//clicsbp-wold-WhiteHmong-BLANKET-1"
     words "pʰ a ³¹ + tʰ a n ⁴⁴//p a ²¹³"
@@ -10536,7 +10524,7 @@ graph [
     family_count 1
   ]
   node [
-    id 878
+    id 877
     label "TORCH OR LAMP"
     occurrences "clicsbp-idssegmented-jinshadai-TORCHORLAMP-1//clicsbp-wold-WhiteHmong-TORCHORLAMP-1//clicsbp-wold-WhiteHmong-TORCHORLAMP-2"
     words "t ə ŋ ³³//t e ŋ ⁵⁵//tʃ au ³³"
@@ -10548,7 +10536,7 @@ graph [
     family_count 1
   ]
   node [
-    id 879
+    id 878
     label "TROUGH"
     occurrences "clicsbp-idssegmented-jinshadai-TROUGH-1//clicsbp-wold-WhiteHmong-TROUGH-1"
     words "kʰ u e n ³¹//d a ⁵⁵"
@@ -10560,7 +10548,7 @@ graph [
     family_count 1
   ]
   node [
-    id 880
+    id 879
     label "ROOF"
     occurrences "clicsbp-idssegmented-jinshadai-ROOF-1//clicsbp-wold-WhiteHmong-ROOF-1"
     words "n a ŋ ²⁴ + h a ŋ ¹¹//l u ⁵⁵ + r u ³³ + tʃ e ³⁴"
@@ -10572,7 +10560,7 @@ graph [
     family_count 1
   ]
   node [
-    id 881
+    id 880
     label "THATCH"
     occurrences "clicsbp-idssegmented-jinshadai-THATCH-1//clicsbp-wold-WhiteHmong-THATCH-1"
     words "h u e n ³³ + n a ŋ ²⁴ + h a ŋ ¹¹//ⁿq e ŋ ⁵⁵"
@@ -10584,7 +10572,7 @@ graph [
     family_count 1
   ]
   node [
-    id 882
+    id 881
     label "RIDGEPOLE"
     occurrences "clicsbp-idssegmented-jinshadai-RIDGEPOLE-1//clicsbp-wold-WhiteHmong-RIDGEPOLE-1"
     words "l i a ŋ ³³ + x a ŋ ²⁴//ⁿq a ⁵³ + r u ³³"
@@ -10596,7 +10584,7 @@ graph [
     family_count 1
   ]
   node [
-    id 883
+    id 882
     label "RAFTER"
     occurrences "clicsbp-idssegmented-jinshadai-RAFTER-1//clicsbp-wold-WhiteHmong-RAFTER-1"
     words "cʰ u e n ³¹ + c ɨ ⁴⁴//qʰ a ⁵⁵ + tʃ e ³³"
@@ -10608,7 +10596,7 @@ graph [
     family_count 1
   ]
   node [
-    id 884
+    id 883
     label "BEAM"
     occurrences "clicsbp-idssegmented-jinshadai-BEAM-1//clicsbp-wold-WhiteHmong-BEAM-1"
     words "l i a ŋ ³¹ + l o ŋ ²⁴//ⁿq a ⁵³ + tʃ e ³³"
@@ -10620,7 +10608,7 @@ graph [
     family_count 1
   ]
   node [
-    id 885
+    id 884
     label "POST"
     occurrences "clicsbp-idssegmented-jinshadai-POST-1//clicsbp-wold-WhiteHmong-POST-1//clicsbp-wold-WhiteHmong-POST-2"
     words "x u e n ³¹//tʃ ɯ ³¹//ⁿtɕ e ⁵³"
@@ -10632,7 +10620,7 @@ graph [
     family_count 1
   ]
   node [
-    id 886
+    id 885
     label "FARMER"
     occurrences "clicsbp-idssegmented-jinshadai-FARMER-1"
     words "h o ²⁴ + l u a k ²⁴"
@@ -10644,7 +10632,7 @@ graph [
     family_count 1
   ]
   node [
-    id 887
+    id 886
     label "CULTIVATE"
     occurrences "clicsbp-idssegmented-jinshadai-CULTIVATE-1"
     words "tʰ a i ²⁴ + n a ⁴⁴"
@@ -10656,7 +10644,7 @@ graph [
     family_count 1
   ]
   node [
-    id 888
+    id 887
     label "FURROW"
     occurrences "clicsbp-idssegmented-jinshadai-FURROW-1"
     words "tʰ a i ²⁴ + h u a ŋ ³¹"
@@ -10668,7 +10656,7 @@ graph [
     family_count 1
   ]
   node [
-    id 889
+    id 888
     label "HOLLOW OUT"
     occurrences "clicsbp-idssegmented-jinshadai-HOLLOWOUT-1//clicsbp-wold-WhiteHmong-HOLLOWOUT-1"
     words "kʰ u e t ¹¹//w a ³³ + kʰ o ŋ ⁵⁵"
@@ -10680,7 +10668,7 @@ graph [
     family_count 1
   ]
   node [
-    id 890
+    id 889
     label "SPADE"
     occurrences "clicsbp-idssegmented-jinshadai-SPADE-1//clicsbp-wold-WhiteHmong-SPADE-1"
     words "tʃ u e ³¹//t w a ²¹³ + tsʰ o ⁵⁵"
@@ -10692,7 +10680,7 @@ graph [
     family_count 1
   ]
   node [
-    id 891
+    id 890
     label "SHOVEL"
     occurrences "clicsbp-idssegmented-jinshadai-SHOVEL-1"
     words "tʃ u e ³¹"
@@ -10704,7 +10692,7 @@ graph [
     family_count 1
   ]
   node [
-    id 892
+    id 891
     label "SOW SEEDS"
     occurrences "clicsbp-idssegmented-jinshadai-SOWSEEDS-1//clicsbp-wold-WhiteHmong-SOWSEEDS-1"
     words "p o ⁴³ + f ɛ a n ⁴⁴//tʃ e ⁵⁵"
@@ -10716,7 +10704,7 @@ graph [
     family_count 1
   ]
   node [
-    id 893
+    id 892
     label "MOW"
     occurrences "clicsbp-idssegmented-jinshadai-MOW-1//clicsbp-idssegmented-jinshadai-MOW-2//clicsbp-wold-WhiteHmong-MOW-1"
     words "p ə t ³³//p ə t ³³ + kʰ a u ¹¹//l w a ⁵³ + ⁿr o ⁵³"
@@ -10728,7 +10716,7 @@ graph [
     family_count 1
   ]
   node [
-    id 894
+    id 893
     label "SICKLE OR SCYTHE"
     occurrences "clicsbp-idssegmented-jinshadai-SICKLEORSCYTHE-1//clicsbp-wold-WhiteHmong-SICKLEORSCYTHE-1"
     words "s i u ⁴⁴//l j a ³¹"
@@ -10740,7 +10728,7 @@ graph [
     family_count 1
   ]
   node [
-    id 895
+    id 894
     label "THRESH"
     occurrences "clicsbp-idssegmented-jinshadai-THRESH-1//clicsbp-wold-WhiteHmong-THRESH-1"
     words "p u ⁴³ + kʰ a u ¹¹//ⁿt au ¹¹"
@@ -10752,7 +10740,7 @@ graph [
     family_count 1
   ]
   node [
-    id 896
+    id 895
     label "HARVEST"
     occurrences "clicsbp-idssegmented-jinshadai-HARVEST-1"
     words "p u ⁴³ + kʰ a u ¹¹"
@@ -10764,7 +10752,7 @@ graph [
     family_count 1
   ]
   node [
-    id 897
+    id 896
     label "WHEAT"
     occurrences "clicsbp-idssegmented-jinshadai-WHEAT-1//clicsbp-wold-WhiteHmong-WHEAT-1"
     words "kʰ a u ¹¹ + cʰ a ¹¹//m o ³¹"
@@ -10776,7 +10764,7 @@ graph [
     family_count 1
   ]
   node [
-    id 898
+    id 897
     label "BARLEY"
     occurrences "clicsbp-idssegmented-jinshadai-BARLEY-1"
     words "kʰ a u ¹¹ + s u ŋ ⁴⁴"
@@ -10788,7 +10776,7 @@ graph [
     family_count 1
   ]
   node [
-    id 899
+    id 898
     label "PLANT (VEGETATION)"
     occurrences "clicsbp-idssegmented-jinshadai-PLANTVEGETATION-1//clicsbp-wold-WhiteHmong-PLANTVEGETATION-1"
     words "ɲ i a ¹¹//ⁿr o ⁵³ + tʃ w a ³¹"
@@ -10800,7 +10788,7 @@ graph [
     family_count 1
   ]
   node [
-    id 900
+    id 899
     label "HAY"
     occurrences "clicsbp-idssegmented-jinshadai-HAY-1//clicsbp-wold-WhiteHmong-HAY-1"
     words "f a ŋ ⁴⁴ + h ɛ a ŋ ¹¹//ɲ o ²¹³ + qʰ w a ³⁴"
@@ -10812,7 +10800,7 @@ graph [
     family_count 1
   ]
   node [
-    id 901
+    id 900
     label "BRANCH OR TWIG"
     occurrences "clicsbp-idssegmented-jinshadai-BRANCHORTWIG-1//clicsbp-wold-WhiteHmong-BRANCHORTWIG-1"
     words "x u a ³¹ + m a i ⁴³//tɕ e ³¹"
@@ -10824,7 +10812,7 @@ graph [
     family_count 1
   ]
   node [
-    id 902
+    id 901
     label "FORKED BRANCH"
     occurrences "clicsbp-idssegmented-jinshadai-FORKEDBRANCH-1//clicsbp-wold-WhiteHmong-FORKEDBRANCH-1"
     words "x u a ³¹ + m a i ⁴³//ⁿkʱ i ⁵⁵ + ⁿt o ŋ ³³"
@@ -10836,7 +10824,7 @@ graph [
     family_count 1
   ]
   node [
-    id 903
+    id 902
     label "TEACH"
     occurrences "clicsbp-idssegmented-jinshadai-TEACH-1//clicsbp-wold-WhiteHmong-TEACH-1"
     words "v u a k ⁴⁴//qʰ j a ³³ + ⁿt aɯ ³⁴"
@@ -10848,7 +10836,7 @@ graph [
     family_count 1
   ]
   node [
-    id 904
+    id 903
     label "GRAPEVINE"
     occurrences "clicsbp-idssegmented-jinshadai-GRAPEVINE-1"
     words "tʰ a u ²⁴"
@@ -10860,7 +10848,7 @@ graph [
     family_count 1
   ]
   node [
-    id 905
+    id 904
     label "TOBACCO"
     occurrences "clicsbp-idssegmented-jinshadai-TOBACCO-1//clicsbp-wold-WhiteHmong-TOBACCO-1"
     words "cʰ a u ⁴⁴ + j i a n ³³//l w a ²¹³ + j e ŋ ⁵⁵"
@@ -10872,7 +10860,7 @@ graph [
     family_count 1
   ]
   node [
-    id 906
+    id 905
     label "SMOKE (INHALE)"
     occurrences "clicsbp-idssegmented-jinshadai-SMOKEINHALE-1//clicsbp-idssegmented-jinshadai-SMOKEINHALE-2//clicsbp-wold-WhiteHmong-SMOKEINHALE-1"
     words "l u e t ⁴⁴//j i a n ³³//h au ¹¹"
@@ -10884,7 +10872,7 @@ graph [
     family_count 1
   ]
   node [
-    id 907
+    id 906
     label "PIPE"
     occurrences "clicsbp-idssegmented-jinshadai-PIPE-1//clicsbp-wold-WhiteHmong-PIPE-1//clicsbp-wold-WhiteHmong-PIPE-2"
     words "h o ²⁴ + j i a n ³³ + k o ³³//j e ŋ ⁵⁵ + tʰ o ŋ ⁵³//j e ŋ ⁵⁵ + ⁿk a ⁵⁵"
@@ -10896,7 +10884,7 @@ graph [
     family_count 1
   ]
   node [
-    id 908
+    id 907
     label "TREE STUMP"
     occurrences "clicsbp-idssegmented-jinshadai-TREESTUMP-1//clicsbp-wold-WhiteHmong-TREESTUMP-1"
     words "h o ²⁴ + t o ³³ + l o ⁴⁴ + m a i ⁴³//h au ³⁴ + p au ¹¹ + ⁿt o ŋ ³³"
@@ -10908,7 +10896,7 @@ graph [
     family_count 1
   ]
   node [
-    id 909
+    id 908
     label "BARK"
     occurrences "clicsbp-idssegmented-jinshadai-BARK-1//clicsbp-wold-WhiteHmong-BARK-1"
     words "n a ŋ ²⁴ + m a i ⁴³//t aɯ ³⁴"
@@ -10920,7 +10908,7 @@ graph [
     family_count 1
   ]
   node [
-    id 910
+    id 909
     label "SAP"
     occurrences "clicsbp-idssegmented-jinshadai-SAP-1//clicsbp-wold-WhiteHmong-SAP-1"
     words "j a ŋ ³³ + m a i ⁴³//k w a ³³ + ⁿt o ŋ ³³"
@@ -10932,7 +10920,7 @@ graph [
     family_count 1
   ]
   node [
-    id 911
+    id 910
     label "BANANA TREE"
     occurrences "clicsbp-idssegmented-jinshadai-BANANATREE-1"
     words "k u i ¹¹"
@@ -10944,7 +10932,7 @@ graph [
     family_count 1
   ]
   node [
-    id 912
+    id 911
     label "YAM"
     occurrences "clicsbp-idssegmented-jinshadai-YAM-1//clicsbp-wold-WhiteHmong-YAM-1"
     words "k a n ¹¹ + m ɛ ⁴⁴//q o ¹¹ + l j a ⁵⁵"
@@ -10956,7 +10944,7 @@ graph [
     family_count 1
   ]
   node [
-    id 913
+    id 912
     label "CASSAVA"
     occurrences "clicsbp-idssegmented-jinshadai-CASSAVA-1//clicsbp-wold-WhiteHmong-CASSAVA-1"
     words "m a i ⁴³ + m ɛ ⁴⁴//q o ¹¹ + ⁿt o ŋ ³³"
@@ -10968,7 +10956,7 @@ graph [
     family_count 1
   ]
   node [
-    id 914
+    id 913
     label "SUGAR CANE"
     occurrences "clicsbp-idssegmented-jinshadai-SUGARCANE-1//clicsbp-wold-WhiteHmong-SUGARCANE-1"
     words "ʔ u a i ¹¹//k a ⁵⁵ + tʃ i ⁵⁵"
@@ -10980,7 +10968,7 @@ graph [
     family_count 1
   ]
   node [
-    id 915
+    id 914
     label "DO OR MAKE"
     occurrences "clicsbp-idssegmented-jinshadai-DOORMAKE-1"
     words "h i t ¹¹"
@@ -10992,7 +10980,7 @@ graph [
     family_count 1
   ]
   node [
-    id 916
+    id 915
     label "WORK (LABOUR)"
     occurrences "clicsbp-idssegmented-jinshadai-WORKLABOUR-1//clicsbp-wold-WhiteHmong-WORKLABOUR-1//clicsbp-wold-WhiteHmong-WORKLABOUR-2"
     words "h i t ¹¹ + n a ³¹ + x u a ŋ ²⁴//h au ⁵³ + l ɯ ²¹³//n u ²¹³"
@@ -11004,7 +10992,7 @@ graph [
     family_count 1
   ]
   node [
-    id 917
+    id 916
     label "BEND"
     occurrences "clicsbp-idssegmented-jinshadai-BEND-1//clicsbp-wold-WhiteHmong-BEND-1"
     words "ɲ i o ⁴⁴//ⁿkʱ au ¹¹"
@@ -11016,7 +11004,7 @@ graph [
     family_count 1
   ]
   node [
-    id 918
+    id 917
     label "KNOT"
     occurrences "clicsbp-idssegmented-jinshadai-KNOT-1//clicsbp-wold-WhiteHmong-KNOT-1//clicsbp-wold-WhiteHmong-KNOT-2"
     words "h ɛ a t ⁴³//p o ⁵⁵ + tɕ au ¹¹//rʰ au ¹¹"
@@ -11028,7 +11016,7 @@ graph [
     family_count 1
   ]
   node [
-    id 919
+    id 918
     label "CHAIN"
     occurrences "clicsbp-idssegmented-jinshadai-CHAIN-1//clicsbp-wold-WhiteHmong-CHAIN-1"
     words "c ɨ k ¹¹ + l i e k ¹¹//ʂ aɯ ³³ + l̥ au ³³"
@@ -11040,7 +11028,7 @@ graph [
     family_count 1
   ]
   node [
-    id 920
+    id 919
     label "POUND"
     occurrences "clicsbp-idssegmented-jinshadai-POUND-1//clicsbp-wold-WhiteHmong-POUND-2//clicsbp-wold-WhiteHmong-POUND-1"
     words "p u ⁴³//ⁿt au ¹¹//t w a ³⁴"
@@ -11052,7 +11040,7 @@ graph [
     family_count 1
   ]
   node [
-    id 921
+    id 920
     label "STAB TO DEATH"
     occurrences "clicsbp-idssegmented-jinshadai-STABTODEATH-1//clicsbp-wold-WhiteHmong-STABTODEATH-1//clicsbp-wold-WhiteHmong-STABTODEATH-2"
     words "t i a ŋ ⁴⁴//ⁿk au ³¹//ⁿpʰ l o ¹¹"
@@ -11064,7 +11052,7 @@ graph [
     family_count 1
   ]
   node [
-    id 922
+    id 921
     label "ADZE"
     occurrences "clicsbp-idssegmented-jinshadai-ADZE-1//clicsbp-wold-WhiteHmong-ADZE-1"
     words "p ə n ¹¹//p j a ⁵⁵"
@@ -11076,7 +11064,7 @@ graph [
     family_count 1
   ]
   node [
-    id 923
+    id 922
     label "BROKEN"
     occurrences "clicsbp-idssegmented-jinshadai-BROKEN-1"
     words "p u a ŋ ³³"
@@ -11088,7 +11076,7 @@ graph [
     family_count 1
   ]
   node [
-    id 924
+    id 923
     label "TEAR (SHRED)"
     occurrences "clicsbp-idssegmented-jinshadai-TEARSHRED-1//clicsbp-wold-WhiteHmong-TEARSHRED-1//clicsbp-wold-WhiteHmong-TEARSHRED-2"
     words "s i a k ²⁴ + kʰ a i ³³//d w a ³³//ⁿt w a ³¹"
@@ -11100,7 +11088,7 @@ graph [
     family_count 1
   ]
   node [
-    id 925
+    id 924
     label "RUB"
     occurrences "clicsbp-idssegmented-jinshadai-RUB-1//clicsbp-wold-WhiteHmong-RUB-1"
     words "n u e t ¹¹//m o ¹¹"
@@ -11112,7 +11100,7 @@ graph [
     family_count 1
   ]
   node [
-    id 926
+    id 925
     label "STRETCH"
     occurrences "clicsbp-idssegmented-jinshadai-STRETCH-1//clicsbp-wold-WhiteHmong-STRETCH-1"
     words "l a ¹¹ + s i ⁴⁴//r u ⁵⁵"
@@ -11124,7 +11112,7 @@ graph [
     family_count 1
   ]
   node [
-    id 927
+    id 926
     label "SPREAD OUT"
     occurrences "clicsbp-idssegmented-jinshadai-SPREADOUT-1//clicsbp-idssegmented-jinshadai-SPREADOUT-2//clicsbp-wold-WhiteHmong-SPREADOUT-1"
     words "l a ¹¹ + s i ⁴⁴//ʔ a ¹¹ + kʰ a i ³³//p w a ³³"
@@ -11136,7 +11124,7 @@ graph [
     family_count 1
   ]
   node [
-    id 928
+    id 927
     label "TOOL"
     occurrences "clicsbp-idssegmented-jinshadai-TOOL-1//clicsbp-wold-WhiteHmong-TOOL-1"
     words "n a ³³ + t a ŋ ⁴⁴//tɕ w a ⁵⁵ + t a ²¹³"
@@ -11148,7 +11136,7 @@ graph [
     family_count 1
   ]
   node [
-    id 929
+    id 928
     label "THING"
     occurrences "clicsbp-idssegmented-jinshadai-THING-1//clicsbp-wold-WhiteHmong-THING-1"
     words "n a ³³ + t a ŋ ⁴⁴//qʰ o ³⁴"
@@ -11160,7 +11148,7 @@ graph [
     family_count 1
   ]
   node [
-    id 930
+    id 929
     label "BUILD"
     occurrences "clicsbp-idssegmented-jinshadai-BUILD-1//clicsbp-wold-WhiteHmong-BUILD-1"
     words "j i a ³¹ + h ə n ⁴⁴//ts w a ³³"
@@ -11172,7 +11160,7 @@ graph [
     family_count 1
   ]
   node [
-    id 931
+    id 930
     label "BORE"
     occurrences "clicsbp-idssegmented-jinshadai-BORE-1//clicsbp-wold-WhiteHmong-BORE-1"
     words "t i a ŋ ⁴⁴ + p u a ŋ ³³//tʃʰ au ³³"
@@ -11184,7 +11172,7 @@ graph [
     family_count 1
   ]
   node [
-    id 932
+    id 931
     label "NAIL (TOOL)"
     occurrences "clicsbp-idssegmented-jinshadai-NAILTOOL-1//clicsbp-wold-WhiteHmong-NAILTOOL-1"
     words "t i n ³³ + c ɨ ⁴⁴//ⁿtʃ j ə ³³"
@@ -11196,7 +11184,7 @@ graph [
     family_count 1
   ]
   node [
-    id 933
+    id 932
     label "BLACKSMITH"
     occurrences "clicsbp-idssegmented-jinshadai-BLACKSMITH-1//clicsbp-wold-WhiteHmong-BLACKSMITH-1"
     words "p u ⁴⁴ + l i e k ¹¹//k ɯ ¹¹ + ⁿt au ¹¹ + l̥ au ³³"
@@ -11208,7 +11196,7 @@ graph [
     family_count 1
   ]
   node [
-    id 934
+    id 933
     label "FORGE"
     occurrences "clicsbp-idssegmented-jinshadai-FORGE-1//clicsbp-wold-WhiteHmong-FORGE-1"
     words "l i a n ⁴⁴ + l i e k ¹¹//ⁿt au ¹¹ + l̥ au ³³"
@@ -11220,7 +11208,7 @@ graph [
     family_count 1
   ]
   node [
-    id 935
+    id 934
     label "GOLD"
     occurrences "clicsbp-idssegmented-jinshadai-GOLD-1//clicsbp-wold-WhiteHmong-GOLD-1"
     words "x ə a ⁴⁴//k u ⁵⁵"
@@ -11232,7 +11220,7 @@ graph [
     family_count 1
   ]
   node [
-    id 936
+    id 935
     label "BRONZE OR COPPER"
     occurrences "clicsbp-idssegmented-jinshadai-BRONZEORCOPPER-1"
     words "t u a ŋ ⁴⁴"
@@ -11244,7 +11232,7 @@ graph [
     family_count 1
   ]
   node [
-    id 937
+    id 936
     label "MOLD"
     occurrences "clicsbp-idssegmented-jinshadai-MOLD-1//clicsbp-wold-WhiteHmong-MOLD-1"
     words "h i t ¹¹ + h a ŋ ³¹//p w a ⁵⁵"
@@ -11256,7 +11244,7 @@ graph [
     family_count 1
   ]
   node [
-    id 938
+    id 937
     label "GLASS"
     occurrences "clicsbp-idssegmented-jinshadai-GLASS-1//clicsbp-wold-WhiteHmong-GLASS-1"
     words "p o ³³ + l i ³³//j a ³⁴"
@@ -11268,7 +11256,7 @@ graph [
     family_count 1
   ]
   node [
-    id 939
+    id 938
     label "NETBAG"
     occurrences "clicsbp-idssegmented-jinshadai-NETBAG-1"
     words "tʰ o ŋ ²⁴ + tʃʰ i e ²⁴"
@@ -11280,7 +11268,7 @@ graph [
     family_count 1
   ]
   node [
-    id 940
+    id 939
     label "FAN (ACTION)"
     occurrences "clicsbp-idssegmented-jinshadai-FANACTION-1//clicsbp-wold-WhiteHmong-FANACTION-1"
     words "v i ⁴⁴//ⁿts w a ⁵³"
@@ -11292,7 +11280,7 @@ graph [
     family_count 1
   ]
   node [
-    id 941
+    id 940
     label "CARVE"
     occurrences "clicsbp-idssegmented-jinshadai-CARVE-1//clicsbp-wold-WhiteHmong-CARVE-2//clicsbp-wold-WhiteHmong-CARVE-1"
     words "kʰ a k ¹¹//ts w a ³³//ts au ³¹"
@@ -11304,7 +11292,7 @@ graph [
     family_count 1
   ]
   node [
-    id 942
+    id 941
     label "PAINT (PIGMENTS)"
     occurrences "clicsbp-idssegmented-jinshadai-PAINTPIGMENTS-1//clicsbp-wold-WhiteHmong-PAINTPIGMENTS-1"
     words "tʃʰ i ¹¹//s i ²¹³"
@@ -11316,7 +11304,7 @@ graph [
     family_count 1
   ]
   node [
-    id 943
+    id 942
     label "PAINTING"
     occurrences "clicsbp-idssegmented-jinshadai-PAINTING-1//clicsbp-wold-WhiteHmong-PAINTING-1"
     words "tʃʰ i ¹¹//p l e ŋ ³⁴ + s i ²¹³"
@@ -11328,7 +11316,7 @@ graph [
     family_count 1
   ]
   node [
-    id 944
+    id 943
     label "DROP (SOMETHING)"
     occurrences "clicsbp-idssegmented-jinshadai-DROPSOMETHING-1//clicsbp-wold-WhiteHmong-DROPSOMETHING-1"
     words "t ə ⁴³//w a ³³ + p o ŋ ⁵⁵"
@@ -11340,7 +11328,7 @@ graph [
     family_count 1
   ]
   node [
-    id 945
+    id 944
     label "TWIST (AROUND)"
     occurrences "clicsbp-idssegmented-jinshadai-TWISTAROUND-1//clicsbp-idssegmented-jinshadai-TWISTAROUND-2//clicsbp-wold-WhiteHmong-TWISTAROUND-1"
     words "c u e n ¹¹ + t o ŋ ¹¹//p u a k ¹¹ + ɲ u a ŋ ²⁴//ⁿtʃ ɯ ⁵³"
@@ -11352,7 +11340,7 @@ graph [
     family_count 1
   ]
   node [
-    id 946
+    id 945
     label "RISE (MOVE UPWARDS)"
     occurrences "clicsbp-idssegmented-jinshadai-RISEMOVEUPWARDS-1//clicsbp-wold-WhiteHmong-RISEMOVEUPWARDS-1"
     words "x ə n ¹¹ + m a ⁴⁴//ʂ aɯ ³⁴"
@@ -11364,7 +11352,7 @@ graph [
     family_count 1
   ]
   node [
-    id 947
+    id 946
     label "THROW"
     occurrences "clicsbp-idssegmented-jinshadai-THROW-1//clicsbp-wold-WhiteHmong-THROW-1"
     words "kʰ a u ⁴⁴//p o ³⁴"
@@ -11376,7 +11364,7 @@ graph [
     family_count 1
   ]
   node [
-    id 948
+    id 947
     label "DIVE"
     occurrences "clicsbp-idssegmented-jinshadai-DIVE-1"
     words "m ə n ⁴⁴ + l a n ⁴³"
@@ -11388,7 +11376,7 @@ graph [
     family_count 1
   ]
   node [
-    id 949
+    id 948
     label "SPLASH"
     occurrences "clicsbp-idssegmented-jinshadai-SPLASH-1//clicsbp-wold-WhiteHmong-SPLASH-1"
     words "pʰ u a k ¹¹ + l a n ⁴³//ts aɯ ¹¹"
@@ -11400,7 +11388,7 @@ graph [
     family_count 1
   ]
   node [
-    id 950
+    id 949
     label "BLESS"
     occurrences "clicsbp-idssegmented-jinshadai-BLESS-1//clicsbp-idssegmented-jinshadai-BLESS-2//clicsbp-wold-WhiteHmong-BLESS-1"
     words "p a u ⁴⁴//j i u ¹¹//f o ŋ ²¹³ + k o ŋ ⁵⁵ + m̥ o ŋ ³⁴"
@@ -11412,7 +11400,7 @@ graph [
     family_count 1
   ]
   node [
-    id 951
+    id 950
     label "CRAWL OR CREEP"
     occurrences "clicsbp-idssegmented-jinshadai-CRAWLORCREEP-1//clicsbp-wold-WhiteHmong-CRAWLORCREEP-1"
     words "v a ⁴⁴//ⁿk a ³¹"
@@ -11424,7 +11412,7 @@ graph [
     family_count 1
   ]
   node [
-    id 952
+    id 951
     label "KNEEL"
     occurrences "clicsbp-idssegmented-jinshadai-KNEEL-1//clicsbp-wold-WhiteHmong-KNEEL-1//clicsbp-wold-WhiteHmong-KNEEL-2"
     words "n u a ⁴³//k e ²¹³ + tɕ au ³¹//tsʰ o ¹¹ + tɕ au ³¹"
@@ -11436,7 +11424,7 @@ graph [
     family_count 1
   ]
   node [
-    id 953
+    id 952
     label "CROUCH"
     occurrences "clicsbp-idssegmented-jinshadai-CROUCH-1//clicsbp-wold-WhiteHmong-CROUCH-1"
     words "ɲ i o ³³//tɕ aɯ ¹¹"
@@ -11448,7 +11436,7 @@ graph [
     family_count 1
   ]
   node [
-    id 954
+    id 953
     label "SLIP"
     occurrences "clicsbp-idssegmented-jinshadai-SLIP-1//clicsbp-wold-WhiteHmong-SLIP-1"
     words "pʰ a ³¹ + l ɛ ¹¹//ʂ ɯ ⁵⁵"
@@ -11460,7 +11448,7 @@ graph [
     family_count 1
   ]
   node [
-    id 955
+    id 954
     label "KICK"
     occurrences "clicsbp-idssegmented-jinshadai-KICK-1//clicsbp-wold-WhiteHmong-KICK-1"
     words "tʰ i t ²⁴//ⁿtɕ aɯ ¹¹"
@@ -11472,7 +11460,7 @@ graph [
     family_count 1
   ]
   node [
-    id 956
+    id 955
     label "DANCE"
     occurrences "clicsbp-idssegmented-jinshadai-DANCE-1//clicsbp-wold-WhiteHmong-DANCE-1"
     words "t i ŋ ¹¹ + v u ⁴⁴//l a ¹¹ + v o ŋ ¹¹"
@@ -11484,7 +11472,7 @@ graph [
     family_count 1
   ]
   node [
-    id 957
+    id 956
     label "LIMP"
     occurrences "clicsbp-idssegmented-jinshadai-LIMP-1//clicsbp-wold-WhiteHmong-LIMP-1"
     words "x a ²⁴ + tʃʰ i e ⁴⁴//tɕ e ³¹ + t aɯ ³⁴"
@@ -11496,7 +11484,7 @@ graph [
     family_count 1
   ]
   node [
-    id 958
+    id 957
     label "LEAVE"
     occurrences "clicsbp-idssegmented-jinshadai-LEAVE-1//clicsbp-wold-WhiteHmong-LEAVE-1"
     words "p a i ³³//l aɯ ²¹³"
@@ -11508,7 +11496,7 @@ graph [
     family_count 1
   ]
   node [
-    id 959
+    id 958
     label "DISAPPEAR"
     occurrences "clicsbp-idssegmented-jinshadai-DISAPPEAR-1//clicsbp-wold-WhiteHmong-DISAPPEAR-1"
     words "p a i ³³ + h a i ²⁴//p l o ⁵³"
@@ -11520,7 +11508,7 @@ graph [
     family_count 1
   ]
   node [
-    id 960
+    id 959
     label "FLEE"
     occurrences "clicsbp-idssegmented-jinshadai-FLEE-1//clicsbp-wold-WhiteHmong-FLEE-1"
     words "l i a u ⁴⁴ + p a i ³³//kʰ j a ³⁴ + m u ¹¹"
@@ -11532,7 +11520,7 @@ graph [
     family_count 1
   ]
   node [
-    id 961
+    id 960
     label "FOLLOW"
     occurrences "clicsbp-idssegmented-jinshadai-FOLLOW-1//clicsbp-wold-WhiteHmong-FOLLOW-1//clicsbp-wold-WhiteHmong-FOLLOW-2"
     words "c u e n ⁴⁴ + p a i ³³//l aɯ ³⁴ + q a ⁵⁵//r aɯ ¹¹ + q a ⁵⁵"
@@ -11544,7 +11532,7 @@ graph [
     family_count 1
   ]
   node [
-    id 962
+    id 961
     label "APPROACH"
     occurrences "clicsbp-idssegmented-jinshadai-APPROACH-1//clicsbp-idssegmented-jinshadai-APPROACH-2//clicsbp-wold-WhiteHmong-APPROACH-1"
     words "m a ⁴⁴ + tʰ ɨ ŋ ²⁴//h i ŋ ⁴⁴ + kʰ a ŋ ¹¹//m u ¹¹ + k o ²¹³ + ʐ e ³³"
@@ -11556,7 +11544,7 @@ graph [
     family_count 1
   ]
   node [
-    id 963
+    id 962
     label "TAKE"
     occurrences "clicsbp-idssegmented-jinshadai-TAKE-2//clicsbp-idssegmented-jinshadai-TAKE-1//clicsbp-wold-WhiteHmong-TAKE-1"
     words "ʔ a u ³³//j i a u ³³//m w a ⁵⁵"
@@ -11568,7 +11556,7 @@ graph [
     family_count 1
   ]
   node [
-    id 964
+    id 963
     label "CARRY IN HAND"
     occurrences "clicsbp-idssegmented-jinshadai-CARRYINHAND-1//clicsbp-wold-WhiteHmong-CARRYINHAND-1"
     words "h i u ¹¹//ⁿq a ³³"
@@ -11580,7 +11568,7 @@ graph [
     family_count 1
   ]
   node [
-    id 965
+    id 964
     label "CARRY ON HEAD"
     occurrences "clicsbp-idssegmented-jinshadai-CARRYONHEAD-1"
     words "t i ŋ ⁴⁴"
@@ -11592,7 +11580,7 @@ graph [
     family_count 1
   ]
   node [
-    id 966
+    id 965
     label "CARRY UNDER ARM"
     occurrences "clicsbp-idssegmented-jinshadai-CARRYUNDERARM-1"
     words "h i k ²⁴"
@@ -11604,7 +11592,7 @@ graph [
     family_count 1
   ]
   node [
-    id 967
+    id 966
     label "BRING"
     occurrences "clicsbp-idssegmented-jinshadai-BRING-1//clicsbp-wold-WhiteHmong-BRING-1//clicsbp-wold-WhiteHmong-BRING-2"
     words "ʔ a u ³³ + m a ⁴⁴//tɕ o ⁵³ + t w a ⁵³//ⁿq a ³³ + t w a ⁵³"
@@ -11616,7 +11604,7 @@ graph [
     family_count 1
   ]
   node [
-    id 968
+    id 967
     label "SEND"
     occurrences "clicsbp-idssegmented-jinshadai-SEND-1//clicsbp-wold-WhiteHmong-SEND-1"
     words "t a i ³³ + k a ³³//s a ³³"
@@ -11628,7 +11616,7 @@ graph [
     family_count 1
   ]
   node [
-    id 969
+    id 968
     label "DRIVE"
     occurrences "clicsbp-idssegmented-jinshadai-DRIVE-1//clicsbp-idssegmented-jinshadai-DRIVE-2//clicsbp-wold-WhiteHmong-DRIVE-1"
     words "l a i ³¹ + cʰ ə ³³//kʰ a i ³³//tʃ a ³⁴"
@@ -11640,7 +11628,7 @@ graph [
     family_count 1
   ]
   node [
-    id 970
+    id 969
     label "PATH"
     occurrences "clicsbp-idssegmented-jinshadai-PATH-1//clicsbp-wold-WhiteHmong-PATH-1"
     words "t a ŋ ⁴⁴ + ɲ i ³³//k e ³⁴"
@@ -11652,7 +11640,7 @@ graph [
     family_count 1
   ]
   node [
-    id 971
+    id 970
     label "CART"
     occurrences "clicsbp-idssegmented-jinshadai-CART-1//clicsbp-wold-WhiteHmong-CART-1"
     words "cʰ ə ³³//l au ⁵⁵"
@@ -11664,7 +11652,7 @@ graph [
     family_count 1
   ]
   node [
-    id 972
+    id 971
     label "WHEEL"
     occurrences "clicsbp-idssegmented-jinshadai-WHEEL-1//clicsbp-wold-WhiteHmong-WHEEL-1"
     words "cʰ ə ³³ + l u e n ³¹//l o ³¹"
@@ -11676,7 +11664,7 @@ graph [
     family_count 1
   ]
   node [
-    id 973
+    id 972
     label "SHIP"
     occurrences "clicsbp-idssegmented-jinshadai-SHIP-1//clicsbp-wold-WhiteHmong-SHIP-1"
     words "h ə ⁴⁴ + l o ŋ ²⁴//ⁿk o ⁵³"
@@ -11688,7 +11676,7 @@ graph [
     family_count 1
   ]
   node [
-    id 974
+    id 973
     label "RAFT"
     occurrences "clicsbp-idssegmented-jinshadai-RAFT-1//clicsbp-wold-WhiteHmong-RAFT-1"
     words "h ə ⁴⁴ + m a i ⁴³ + l a i ³¹//pʰ w a ⁵³"
@@ -11700,7 +11688,7 @@ graph [
     family_count 1
   ]
   node [
-    id 975
+    id 974
     label "OAR"
     occurrences "clicsbp-idssegmented-jinshadai-OAR-1//clicsbp-wold-WhiteHmong-OAR-1"
     words "j i a u ³¹ + pʰ i a n ⁴⁴//d w a ³⁴"
@@ -11712,7 +11700,7 @@ graph [
     family_count 1
   ]
   node [
-    id 976
+    id 975
     label "PADDLE"
     occurrences "clicsbp-idssegmented-jinshadai-PADDLE-1//clicsbp-wold-WhiteHmong-PADDLE-1"
     words "j i a u ³¹ + pʰ i a n ⁴⁴//d w a ³⁴"
@@ -11724,7 +11712,7 @@ graph [
     family_count 1
   ]
   node [
-    id 977
+    id 976
     label "LAND (DESCEND)"
     occurrences "clicsbp-idssegmented-jinshadai-LANDDESCEND-1//clicsbp-wold-WhiteHmong-LANDDESCEND-1"
     words "x ə n ³¹ + f a ²⁴ + l a n ⁴³//tʃ aɯ ¹¹"
@@ -11736,7 +11724,7 @@ graph [
     family_count 1
   ]
   node [
-    id 978
+    id 977
     label "HAVE"
     occurrences "clicsbp-idssegmented-jinshadai-HAVE-1//clicsbp-wold-WhiteHmong-HAVE-1"
     words "ɲ i ŋ ⁴⁴//m w a ⁵³"
@@ -11748,7 +11736,7 @@ graph [
     family_count 1
   ]
   node [
-    id 979
+    id 978
     label "OWN"
     occurrences "clicsbp-idssegmented-jinshadai-OWN-1//clicsbp-idssegmented-jinshadai-OWN-2//clicsbp-wold-WhiteHmong-OWN-1"
     words "t u ³³ + ɲ i ŋ ⁴⁴//k o ¹¹ + ɲ i ŋ ⁴⁴//m w a ⁵³"
@@ -11760,7 +11748,7 @@ graph [
     family_count 1
   ]
   node [
-    id 980
+    id 979
     label "SEIZE"
     occurrences "clicsbp-idssegmented-jinshadai-SEIZE-1//clicsbp-idssegmented-jinshadai-SEIZE-2//clicsbp-wold-WhiteHmong-SEIZE-1"
     words "s a n ²⁴ + j u ⁴⁴//h i u ³¹ + j u ⁴⁴//m w a ⁵⁵"
@@ -11772,7 +11760,7 @@ graph [
     family_count 1
   ]
   node [
-    id 981
+    id 980
     label "HOLD"
     occurrences "clicsbp-idssegmented-jinshadai-HOLD-1//clicsbp-wold-WhiteHmong-HOLD-1//clicsbp-wold-WhiteHmong-HOLD-2"
     words "v u ¹¹ + j u ⁴⁴//t w a ³⁴//p w a ³¹"
@@ -11784,7 +11772,7 @@ graph [
     family_count 1
   ]
   node [
-    id 982
+    id 981
     label "GIVE BACK"
     occurrences "clicsbp-idssegmented-jinshadai-GIVEBACK-1//clicsbp-idssegmented-jinshadai-GIVEBACK-2//clicsbp-wold-WhiteHmong-GIVEBACK-1"
     words "x ə n ²⁴//x ə n ²⁴ + l u a i ⁴⁴//s a ³³ + r o ³⁴ + q a ⁵⁵"
@@ -11796,7 +11784,7 @@ graph [
     family_count 1
   ]
   node [
-    id 983
+    id 982
     label "SOUL"
     occurrences "clicsbp-idssegmented-jinshadai-SOUL-1//clicsbp-wold-WhiteHmong-SOUL-1"
     words "x ə n ²⁴//p l i ³¹"
@@ -11808,7 +11796,7 @@ graph [
     family_count 1
   ]
   node [
-    id 984
+    id 983
     label "PRESERVE"
     occurrences "clicsbp-idssegmented-jinshadai-PRESERVE-1//clicsbp-wold-WhiteHmong-PRESERVE-1//clicsbp-wold-WhiteHmong-PRESERVE-2"
     words "h i e ⁴⁴ + v a i ⁴³//ts w a ³¹//kʰ aɯ ¹¹ + tɕ j ə ³³"
@@ -11820,7 +11808,7 @@ graph [
     family_count 1
   ]
   node [
-    id 985
+    id 984
     label "DESTROY"
     occurrences "clicsbp-idssegmented-jinshadai-DESTROY-1//clicsbp-wold-WhiteHmong-DESTROY-1"
     words "p ə i ³³ + l i a ³³//p w a ¹¹ + ⁿtʃ o ŋ ³¹"
@@ -11832,7 +11820,7 @@ graph [
     family_count 1
   ]
   node [
-    id 986
+    id 985
     label "DAMAGE OR INJURE"
     occurrences "clicsbp-idssegmented-jinshadai-DAMAGEORINJURE-1//clicsbp-idssegmented-jinshadai-DAMAGEORINJURE-2"
     words "p ə i ³³ + l i a ³³//p ə i ³³ + l u ⁴³"
@@ -11844,7 +11832,7 @@ graph [
     family_count 1
   ]
   node [
-    id 987
+    id 986
     label "FIND"
     occurrences "clicsbp-idssegmented-jinshadai-FIND-1//clicsbp-wold-WhiteHmong-FIND-1"
     words "t ə a i ³³ + c o ³¹//ⁿɖʱ j a ³⁴ + t au ³³"
@@ -11856,7 +11844,7 @@ graph [
     family_count 1
   ]
   node [
-    id 988
+    id 987
     label "MISPLACE"
     occurrences "clicsbp-idssegmented-jinshadai-MISPLACE-1//clicsbp-wold-WhiteHmong-MISPLACE-1"
     words "p ə i ³¹ + h a i ²⁴//w a ³³ + p aɯ ³⁴"
@@ -11868,7 +11856,7 @@ graph [
     family_count 1
   ]
   node [
-    id 989
+    id 988
     label "LET GO OR SET FREE"
     occurrences "clicsbp-idssegmented-jinshadai-LETGOORSETFREE-1//clicsbp-wold-WhiteHmong-LETGOORSETFREE-1"
     words "p ə i ³³ + ɲ i a ³¹//tʃ o ³³"
@@ -11880,7 +11868,7 @@ graph [
     family_count 1
   ]
   node [
-    id 990
+    id 989
     label "COIN"
     occurrences "clicsbp-idssegmented-jinshadai-COIN-1//clicsbp-wold-WhiteHmong-COIN-1"
     words "v i a n ¹¹ + tʃ i a ŋ ²⁴//ⁿb i ⁵⁵"
@@ -11892,7 +11880,7 @@ graph [
     family_count 1
   ]
   node [
-    id 991
+    id 990
     label "BEGGAR"
     occurrences "clicsbp-idssegmented-jinshadai-BEGGAR-1//clicsbp-wold-WhiteHmong-BEGGAR-1"
     words "kʰ a u ¹¹ + m o ²⁴ + pʰ i ²⁴//n e ŋ ³¹ + tʰ o ³⁴ + kʰ aɯ ³⁴"
@@ -11904,7 +11892,7 @@ graph [
     family_count 1
   ]
   node [
-    id 992
+    id 991
     label "STINGY"
     occurrences "clicsbp-idssegmented-jinshadai-STINGY-1//clicsbp-wold-WhiteHmong-STINGY-1"
     words "kʰ iː ³ + n i a w ⁵//q j a ³³ + d u ⁵⁵"
@@ -11916,7 +11904,7 @@ graph [
     family_count 1
   ]
   node [
-    id 993
+    id 992
     label "LEND"
     occurrences "clicsbp-idssegmented-jinshadai-LEND-1//clicsbp-wold-WhiteHmong-LEND-1"
     words "j i n ¹¹ + ʔ u a k ¹¹//q i ³⁴"
@@ -11928,7 +11916,7 @@ graph [
     family_count 1
   ]
   node [
-    id 994
+    id 993
     label "PAY"
     occurrences "clicsbp-idssegmented-jinshadai-PAY-1//clicsbp-wold-WhiteHmong-PAY-1"
     words "ʔ u a k ¹¹ + v i a n ¹¹//tʰ e ²¹³"
@@ -11940,7 +11928,7 @@ graph [
     family_count 1
   ]
   node [
-    id 995
+    id 994
     label "BILL"
     occurrences "clicsbp-idssegmented-jinshadai-BILL-1//clicsbp-wold-WhiteHmong-BILL-1"
     words "b a n ¹ + cʰ iː ¹//ⁿq i ³³"
@@ -11952,7 +11940,7 @@ graph [
     family_count 1
   ]
   node [
-    id 996
+    id 995
     label "WAGES"
     occurrences "clicsbp-idssegmented-jinshadai-WAGES-1//clicsbp-wold-WhiteHmong-WAGES-1"
     words "k a ³³ + h ɛ a ŋ ⁴⁴//ɲ j a ⁵³ + l̥ i ¹¹"
@@ -11964,7 +11952,7 @@ graph [
     family_count 1
   ]
   node [
-    id 997
+    id 996
     label "EARN"
     occurrences "clicsbp-idssegmented-jinshadai-EARN-1"
     words "l ə ³¹ + v i a n ¹¹"
@@ -11976,7 +11964,7 @@ graph [
     family_count 1
   ]
   node [
-    id 998
+    id 997
     label "TRADE OR BARTER"
     occurrences "clicsbp-idssegmented-jinshadai-TRADEORBARTER-1//clicsbp-wold-WhiteHmong-TRADEORBARTER-1"
     words "h i t ¹¹ + s ɨ ⁴³ + x a i ²⁴//p au ³⁴"
@@ -11988,7 +11976,7 @@ graph [
     family_count 1
   ]
   node [
-    id 999
+    id 998
     label "MERCHANT"
     occurrences "clicsbp-idssegmented-jinshadai-MERCHANT-1//clicsbp-wold-WhiteHmong-MERCHANT-1"
     words "h i t ¹¹ + s ɨ ⁴³ + x a i ²⁴ + n ə ³³ + k o n ⁴⁴//n e ŋ ³¹ + w a ³³ + l a ³¹ + l w a ²¹³"
@@ -12000,7 +11988,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1000
+    id 999
     label "PRICE"
     occurrences "clicsbp-idssegmented-jinshadai-PRICE-1//clicsbp-wold-WhiteHmong-PRICE-1"
     words "k a ³¹//ⁿq i ³³"
@@ -12012,7 +12000,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1001
+    id 1000
     label "EXPENSIVE"
     occurrences "clicsbp-idssegmented-jinshadai-EXPENSIVE-1//clicsbp-wold-WhiteHmong-EXPENSIVE-1"
     words "p i a ŋ ⁴⁴//k i ²¹³"
@@ -12024,7 +12012,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1002
+    id 1001
     label "CHEAP"
     occurrences "clicsbp-idssegmented-jinshadai-CHEAP-1//clicsbp-wold-WhiteHmong-CHEAP-1"
     words "v u ³³ + p i a ŋ ⁴⁴//pʰ e ŋ ⁵³ + j i ³¹"
@@ -12036,7 +12024,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1003
+    id 1002
     label "SHARE"
     occurrences "clicsbp-idssegmented-jinshadai-SHARE-1//clicsbp-idssegmented-jinshadai-SHARE-2//clicsbp-wold-WhiteHmong-SHARE-1"
     words "f i ¹¹ + ʔ u a k ¹¹ + k a ³³//f i ¹¹ + h a i ¹¹//ʂ i ⁵⁵ + f ai ⁵⁵"
@@ -12048,7 +12036,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1004
+    id 1003
     label "AFTER"
     occurrences "clicsbp-idssegmented-jinshadai-AFTER-1//clicsbp-wold-WhiteHmong-AFTER-1"
     words "j u ⁴⁴ + n a i ¹¹//t o ²¹³ + q a ⁵⁵"
@@ -12060,7 +12048,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1005
+    id 1004
     label "BESIDE"
     occurrences "clicsbp-idssegmented-jinshadai-BESIDE-1//clicsbp-wold-WhiteHmong-BESIDE-1"
     words "j u ⁴⁴ + h i ŋ ⁴⁴ + kʰ a ŋ ³¹//ⁿt aɯ ²¹³ + i ⁵⁵ + ʂ a ⁵⁵"
@@ -12072,7 +12060,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1006
+    id 1005
     label "DOWN OR BELOW"
     occurrences "clicsbp-idssegmented-jinshadai-DOWNORBELOW-1"
     words "k a ³³ + t a i ¹¹"
@@ -12084,7 +12072,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1007
+    id 1006
     label "BEFORE"
     occurrences "clicsbp-idssegmented-jinshadai-BEFORE-1//clicsbp-wold-WhiteHmong-BEFORE-1"
     words "j u ⁴⁴ + p ə i ³³ + ʔ u e n ³³//t o ²¹³ + ⁿt e ⁵³"
@@ -12096,7 +12084,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1008
+    id 1007
     label "IN FRONT OF"
     occurrences "clicsbp-idssegmented-jinshadai-INFRONTOF-1//clicsbp-wold-WhiteHmong-INFRONTOF-1"
     words "j u ⁴⁴ + p ə i ³³ + ʔ u e n ³³//h au ³⁴ + ⁿt e ⁵³"
@@ -12108,7 +12096,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1009
+    id 1008
     label "UP"
     occurrences "clicsbp-idssegmented-jinshadai-UP-1//clicsbp-wold-WhiteHmong-UP-1"
     words "j u ⁴⁴ + n ə ²⁴ + n a ¹¹//ʂ au ²¹³"
@@ -12120,7 +12108,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1010
+    id 1009
     label "PLACE (POSITION)"
     occurrences "clicsbp-idssegmented-jinshadai-PLACEPOSITION-1//clicsbp-wold-WhiteHmong-PLACEPOSITION-2//clicsbp-wold-WhiteHmong-PLACEPOSITION-1"
     words "t i ¹¹ + m ə ŋ ⁴⁴//qʰ o ³⁴//tɕʰ aɯ ³³"
@@ -12132,7 +12120,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1011
+    id 1010
     label "PUT"
     occurrences "clicsbp-idssegmented-jinshadai-PUT-1//clicsbp-wold-WhiteHmong-PUT-1"
     words "v ə a i ⁴³ + j u ⁴⁴//r au ³³"
@@ -12144,7 +12132,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1012
+    id 1011
     label "LIE DOWN"
     occurrences "clicsbp-idssegmented-jinshadai-LIEDOWN-1//clicsbp-wold-WhiteHmong-LIEDOWN-1"
     words "n u e n ⁴⁴ + l o ŋ ⁴⁴//p ɯ ³³"
@@ -12156,7 +12144,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1013
+    id 1012
     label "REMAINS"
     occurrences "clicsbp-idssegmented-jinshadai-REMAINS-1//clicsbp-wold-WhiteHmong-REMAINS-1"
     words "l ə ²⁴//tɕ o ³⁴ + ʂ e ŋ ²¹³"
@@ -12168,7 +12156,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1014
+    id 1013
     label "PILE UP"
     occurrences "clicsbp-idssegmented-jinshadai-PILEUP-1//clicsbp-wold-WhiteHmong-PILEUP-2//clicsbp-wold-WhiteHmong-PILEUP-1"
     words "k u a ŋ ³³ + l o ŋ ⁴⁴//t e ŋ ⁵⁵//t u ²¹³"
@@ -12180,7 +12168,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1015
+    id 1014
     label "JOIN"
     occurrences "clicsbp-idssegmented-jinshadai-JOIN-1//clicsbp-wold-WhiteHmong-JOIN-1"
     words "h ɛ ³¹ + k ɛ ³³//k o ŋ ²¹³"
@@ -12192,7 +12180,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1016
+    id 1015
     label "HIDE (CONCEAL)"
     occurrences "clicsbp-idssegmented-jinshadai-HIDECONCEAL-1//clicsbp-idssegmented-jinshadai-HIDECONCEAL-2//clicsbp-wold-WhiteHmong-HIDECONCEAL-1"
     words "ɲ i ŋ ²⁴//ʔ a u ³³ + v a i ⁴³ + ɲ i ŋ ²⁴//ʐ ai ¹¹"
@@ -12204,7 +12192,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1017
+    id 1016
     label "TALL"
     occurrences "clicsbp-idssegmented-jinshadai-TALL-1//clicsbp-wold-WhiteHmong-TALL-1"
     words "s u ŋ ²⁴//ʂ j a ⁵⁵"
@@ -12216,7 +12204,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1018
+    id 1017
     label "TOP"
     occurrences "clicsbp-idssegmented-jinshadai-TOP-1//clicsbp-wold-WhiteHmong-TOP-1"
     words "p a i ³³ + l i ⁴⁴//ʂ au ²¹³"
@@ -12228,7 +12216,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1019
+    id 1018
     label "BOTTOM"
     occurrences "clicsbp-idssegmented-jinshadai-BOTTOM-1//clicsbp-wold-WhiteHmong-BOTTOM-1"
     words "t a i ¹¹ + m a i ⁴⁴//h au ³⁴ + q a ⁵⁵"
@@ -12240,7 +12228,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1020
+    id 1019
     label "END (OF SPACE)"
     occurrences "clicsbp-idssegmented-jinshadai-ENDOFSPACE-1//clicsbp-wold-WhiteHmong-ENDOFSPACE-1"
     words "h a ŋ ²⁴ + l i a n ²⁴//k aɯ ³¹"
@@ -12252,7 +12240,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1021
+    id 1020
     label "EDGE"
     occurrences "clicsbp-idssegmented-jinshadai-EDGE-1//clicsbp-wold-WhiteHmong-EDGE-1"
     words "x u a i ³³ + m a i ⁴⁴//ⁿt u ³¹"
@@ -12264,7 +12252,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1022
+    id 1021
     label "CENTER OR MIDDLE"
     occurrences "clicsbp-idssegmented-jinshadai-CENTERORMIDDLE-1"
     words "t a t ²⁴ + k a ŋ ³³"
@@ -12276,7 +12264,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1023
+    id 1022
     label "GROW"
     occurrences "clicsbp-idssegmented-jinshadai-GROW-1//clicsbp-wold-WhiteHmong-GROW-1"
     words "j u ⁴⁴ + j a i ³³//l̥ o ⁵⁵"
@@ -12288,7 +12276,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1024
+    id 1023
     label "THIN (OF SHAPE OF OBJECT)"
     occurrences "clicsbp-idssegmented-jinshadai-THINOFSHAPEOFOBJECT-1//clicsbp-wold-WhiteHmong-THINOFSHAPEOFOBJECT-1"
     words "v a ŋ ³³//ɲ j a ¹¹"
@@ -12300,7 +12288,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1025
+    id 1024
     label "CORNER"
     occurrences "clicsbp-idssegmented-jinshadai-CORNER-1//clicsbp-wold-WhiteHmong-CORNER-1"
     words "x ə u ²⁴//k au ²¹³"
@@ -12312,7 +12300,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1026
+    id 1025
     label "SQUARE"
     occurrences "clicsbp-idssegmented-jinshadai-SQUARE-1"
     words "s i ⁴⁴ + f a ŋ ³³"
@@ -12324,7 +12312,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1027
+    id 1026
     label "CIRCLE"
     occurrences "clicsbp-idssegmented-jinshadai-CIRCLE-1//clicsbp-wold-WhiteHmong-CIRCLE-1"
     words "h a ŋ ⁴⁴ + l u e ³¹//v o ⁵³ + v o ŋ ¹¹"
@@ -12336,7 +12324,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1028
+    id 1027
     label "LINE"
     occurrences "clicsbp-idssegmented-jinshadai-LINE-1//clicsbp-wold-WhiteHmong-LINE-1"
     words "h a ŋ ³¹ + m a i ²⁴//k a ⁵⁵"
@@ -12348,7 +12336,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1029
+    id 1028
     label "SIMILAR"
     occurrences "clicsbp-idssegmented-jinshadai-SIMILAR-1//clicsbp-wold-WhiteHmong-SIMILAR-1//clicsbp-wold-WhiteHmong-SIMILAR-2"
     words "tʰ o ŋ ⁴³//ʐ o ŋ ³³ + l i ³³//ʂ i ⁵⁵ + tʰ o ŋ ⁵³"
@@ -12360,7 +12348,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1030
+    id 1029
     label "NOTHING OR ZERO"
     occurrences "clicsbp-idssegmented-jinshadai-NOTHINGORZERO-1"
     words "v u ²⁴ + ɲ i ŋ ⁴⁴"
@@ -12372,7 +12360,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1031
+    id 1030
     label "THOUSAND"
     occurrences "clicsbp-idssegmented-jinshadai-THOUSAND-1//clicsbp-wold-WhiteHmong-THOUSAND-1"
     words "h i ŋ ²⁴//tsʰ j a ⁵⁵"
@@ -12384,7 +12372,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1032
+    id 1031
     label "MORE"
     occurrences "clicsbp-idssegmented-jinshadai-MORE-1//clicsbp-wold-WhiteHmong-MORE-1"
     words "ʔ i e k ⁴⁴ + t o ¹¹//ⁿts i ³⁴"
@@ -12396,7 +12384,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1033
+    id 1032
     label "ENOUGH"
     occurrences "clicsbp-idssegmented-jinshadai-ENOUGH-1//clicsbp-wold-WhiteHmong-ENOUGH-1"
     words "p o ⁴⁴//ts au ¹¹"
@@ -12408,7 +12396,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1034
+    id 1033
     label "SOME"
     occurrences "clicsbp-idssegmented-jinshadai-SOME-1//clicsbp-wold-WhiteHmong-SOME-1"
     words "k ə ³³ + ɲ i a ŋ ⁴⁴//q e ŋ ³³"
@@ -12420,7 +12408,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1035
+    id 1034
     label "PART"
     occurrences "clicsbp-idssegmented-jinshadai-PART-1//clicsbp-wold-WhiteHmong-PART-1"
     words "k ə ³³ + ɲ i a ŋ ⁴⁴//i ⁵⁵ + qʰ o ³³"
@@ -12432,7 +12420,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1036
+    id 1035
     label "CROWD"
     occurrences "clicsbp-idssegmented-jinshadai-CROWD-1//clicsbp-wold-WhiteHmong-CROWD-1"
     words "v a ŋ ³¹ + k o n ⁴⁴//p aɯ ³¹ + n e ŋ ³¹"
@@ -12444,7 +12432,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1037
+    id 1036
     label "HALF"
     occurrences "clicsbp-idssegmented-jinshadai-HALF-1//clicsbp-idssegmented-jinshadai-HALF-2//clicsbp-wold-WhiteHmong-HALF-2//clicsbp-wold-WhiteHmong-HALF-1//clicsbp-wold-WhiteHmong-HALF-3"
     words "f a i ³³//v a ŋ ¹¹//t o ³¹//ⁿr a ⁵⁵//ⁿt a ³⁴"
@@ -12456,7 +12444,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1038
+    id 1037
     label "FIRST"
     occurrences "clicsbp-idssegmented-jinshadai-FIRST-1//clicsbp-wold-WhiteHmong-FIRST-1"
     words "ʔ a ŋ ³¹ + l ə a ŋ ³¹//tʰ i ⁵⁵ + i ⁵⁵"
@@ -12468,7 +12456,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1039
+    id 1038
     label "LAST (FINAL)"
     occurrences "clicsbp-idssegmented-jinshadai-LASTFINAL-1//clicsbp-wold-WhiteHmong-LASTFINAL-1"
     words "c u e n ⁴⁴ + k u n ¹¹//k aɯ ³¹"
@@ -12480,7 +12468,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1040
+    id 1039
     label "PAIR"
     occurrences "clicsbp-idssegmented-jinshadai-PAIR-1//clicsbp-idssegmented-jinshadai-PAIR-2//clicsbp-wold-WhiteHmong-PAIR-1//clicsbp-wold-WhiteHmong-PAIR-2"
     words "cʰ u a ŋ ³¹//t i e ⁴⁴//ⁿk aɯ ²¹³//kʰ u ⁵⁵"
@@ -12492,7 +12480,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1041
+    id 1040
     label "TWICE"
     occurrences "clicsbp-idssegmented-jinshadai-TWICE-1//clicsbp-wold-WhiteHmong-TWICE-1"
     words "s u a ŋ ²⁴ + c o ³¹//o ⁵⁵ + ʐ au ³¹"
@@ -12504,7 +12492,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1042
+    id 1041
     label "THREE TIMES"
     occurrences "clicsbp-idssegmented-jinshadai-THREETIMES-1//clicsbp-wold-WhiteHmong-THREETIMES-1"
     words "s a ²⁴ + c o ³¹//p e ⁵⁵ + ʐ au ³¹"
@@ -12516,7 +12504,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1043
+    id 1042
     label "TIME"
     occurrences "clicsbp-idssegmented-jinshadai-TIME-1//clicsbp-wold-WhiteHmong-TIME-1"
     words "m ə ³¹ + v ɛ a n ⁴⁴//ʂ i ⁵³ + h aɯ ²¹³"
@@ -12528,7 +12516,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1044
+    id 1043
     label "YOUNG"
     occurrences "clicsbp-idssegmented-jinshadai-YOUNG-1//clicsbp-wold-WhiteHmong-YOUNG-1//clicsbp-wold-WhiteHmong-YOUNG-2"
     words "h o ²⁴ + h a i ³³ + ɲ i ⁴⁴//l̥ w a ¹¹//j au ³³"
@@ -12540,7 +12528,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1045
+    id 1044
     label "OLD"
     occurrences "clicsbp-idssegmented-jinshadai-OLD-1//clicsbp-wold-WhiteHmong-OLD-1//clicsbp-wold-WhiteHmong-OLD-2"
     words "tʰ a u ¹¹//l au ¹¹//q u ⁵⁵"
@@ -12552,7 +12540,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1046
+    id 1045
     label "IMMEDIATELY"
     occurrences "clicsbp-idssegmented-jinshadai-IMMEDIATELY-1//clicsbp-wold-WhiteHmong-IMMEDIATELY-1"
     words "k a ³³ + tʃ i u ⁴⁴//t a ²¹³ + s i ²¹³"
@@ -12564,7 +12552,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1047
+    id 1046
     label "HURRY"
     occurrences "clicsbp-idssegmented-jinshadai-HURRY-1//clicsbp-wold-WhiteHmong-HURRY-1"
     words "k a n ⁴⁴ + tʃ i n ⁴⁴//tʃ w a ³¹ + tʃ w a ³¹"
@@ -12576,7 +12564,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1048
+    id 1047
     label "BEGIN OR START"
     occurrences "clicsbp-idssegmented-jinshadai-BEGINORSTART-1"
     words "p ə i ³³ + ʔ u e n ³³"
@@ -12588,7 +12576,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1049
+    id 1048
     label "END (OF TIME)"
     occurrences "clicsbp-idssegmented-jinshadai-ENDOFTIME-1//clicsbp-wold-WhiteHmong-ENDOFTIME-1"
     words "p a i ³³ + h a ŋ ²⁴//tʰ au ²¹³ + k aɯ ³¹"
@@ -12600,7 +12588,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1050
+    id 1049
     label "FINISH"
     occurrences "clicsbp-idssegmented-jinshadai-FINISH-1//clicsbp-wold-WhiteHmong-FINISH-1"
     words "h i t ¹¹ + m u i ¹¹//t a ¹¹"
@@ -12612,7 +12600,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1051
+    id 1050
     label "CEASE"
     occurrences "clicsbp-idssegmented-jinshadai-CEASE-1//clicsbp-wold-WhiteHmong-CEASE-1"
     words "v u ²⁴ + h i t ¹¹//tʃ u ²¹³"
@@ -12624,7 +12612,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1052
+    id 1051
     label "READY"
     occurrences "clicsbp-idssegmented-jinshadai-READY-1//clicsbp-wold-WhiteHmong-READY-1"
     words "tʰ a ¹¹ + x a u ⁴⁴//ⁿb a ⁵³ + t j a ³⁴"
@@ -12636,7 +12624,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1053
+    id 1052
     label "ALWAYS"
     occurrences "clicsbp-idssegmented-jinshadai-ALWAYS-1//clicsbp-idssegmented-jinshadai-ALWAYS-2//clicsbp-wold-WhiteHmong-ALWAYS-1"
     words "c o ŋ ⁴⁴ + s ɨ ³¹//l a u ⁴⁴ + s ɨ ³¹//i ⁵⁵ + ts ɯ ²¹³"
@@ -12648,7 +12636,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1054
+    id 1053
     label "OFTEN"
     occurrences "clicsbp-idssegmented-jinshadai-OFTEN-1//clicsbp-wold-WhiteHmong-OFTEN-1"
     words "tʃ i n ³³ + cʰ a ŋ ³¹//ʂ i ⁵³"
@@ -12660,7 +12648,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1055
+    id 1054
     label "SOMETIMES"
     occurrences "clicsbp-idssegmented-jinshadai-SOMETIMES-1//clicsbp-wold-WhiteHmong-SOMETIMES-1//clicsbp-wold-WhiteHmong-SOMETIMES-2"
     words "ɲ i ŋ ⁴⁴ + s ɨ ³¹//q e ŋ ³³ + ʐ au ¹¹//ʐ au ¹¹ + p w a ³⁴"
@@ -12672,7 +12660,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1056
+    id 1055
     label "SOON"
     occurrences "clicsbp-idssegmented-jinshadai-SOON-1"
     words "v u ¹¹ + h ə ŋ ²⁴ + k a ³³ + l a i ³³"
@@ -12684,7 +12672,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1057
+    id 1056
     label "FOR A LONG TIME"
     occurrences "clicsbp-idssegmented-jinshadai-FORALONGTIME-1//clicsbp-wold-WhiteHmong-FORALONGTIME-1"
     words "h ə ŋ ²⁴ + ʔ i ŋ ⁴⁴ + j i a u ⁴³//ⁿt e ³⁴ + ⁿt e ³⁴"
@@ -12696,7 +12684,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1058
+    id 1057
     label "NEVER"
     occurrences "clicsbp-idssegmented-jinshadai-NEVER-1//clicsbp-wold-WhiteHmong-NEVER-1"
     words "cʰ o ŋ ³¹ + l a i ³¹ + v u ²⁴//j e ŋ ⁵³ + tʃ i ¹¹"
@@ -12708,7 +12696,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1059
+    id 1058
     label "AGAIN"
     occurrences "clicsbp-idssegmented-jinshadai-AGAIN-1//clicsbp-wold-WhiteHmong-AGAIN-1"
     words "c a i ¹¹ + j i ²⁴ + c u a n ⁴⁴//d w a ³³"
@@ -12720,7 +12708,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1060
+    id 1059
     label "DAY (NOT NIGHT)"
     occurrences "clicsbp-idssegmented-jinshadai-DAYNOTNIGHT-1//clicsbp-wold-WhiteHmong-DAYNOTNIGHT-1"
     words "k a ŋ ³³ + v ɛ a n ⁴⁴//n̥ u ⁵⁵"
@@ -12732,7 +12720,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1061
+    id 1060
     label "NIGHT"
     occurrences "clicsbp-idssegmented-jinshadai-NIGHT-1//clicsbp-wold-WhiteHmong-NIGHT-1"
     words "k a ŋ ³³ + x ə n ⁴⁴//tʃ au ¹¹ + ⁿt u ⁵³"
@@ -12744,7 +12732,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1062
+    id 1061
     label "DAWN"
     occurrences "clicsbp-idssegmented-jinshadai-DAWN-1//clicsbp-wold-WhiteHmong-DAWN-1"
     words "s a i ²⁴ + l i a ŋ ⁴⁴//k a ⁵³ + ⁿt u ³¹"
@@ -12756,7 +12744,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1063
+    id 1062
     label "DAY BEFORE YESTERDAY"
     occurrences "clicsbp-idssegmented-jinshadai-DAYBEFOREYESTERDAY-1//clicsbp-wold-WhiteHmong-DAYBEFOREYESTERDAY-1"
     words "m ə ³³ + s ə n ⁴⁴//n̥ u ⁵⁵ + n̥ u ⁵⁵"
@@ -12768,7 +12756,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1064
+    id 1063
     label "HOUR"
     occurrences "clicsbp-idssegmented-jinshadai-HOUR-1//clicsbp-wold-WhiteHmong-HOUR-1//clicsbp-wold-WhiteHmong-HOUR-2"
     words "c o ŋ ³³ + tʰ ə u ¹¹//s w a ⁵⁵ + m o ŋ ¹¹//t e ŋ ³⁴"
@@ -12780,7 +12768,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1065
+    id 1064
     label "CLOCK"
     occurrences "clicsbp-idssegmented-jinshadai-CLOCK-1//clicsbp-wold-WhiteHmong-CLOCK-1"
     words "c o ŋ ³³//m o ŋ ¹¹"
@@ -12792,7 +12780,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1066
+    id 1065
     label "WEEK"
     occurrences "clicsbp-idssegmented-jinshadai-WEEK-1//clicsbp-wold-WhiteHmong-WEEK-1"
     words "s i ³³ + tʃʰ i ³³//a ¹¹ + tʰ i ³⁴"
@@ -12804,7 +12792,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1067
+    id 1066
     label "SUNDAY"
     occurrences "clicsbp-idssegmented-jinshadai-SUNDAY-1//clicsbp-wold-WhiteHmong-SUNDAY-1"
     words "s i ³³ + tʃʰ i ³³ + t i a n ³³//n̥ u ⁵⁵ + v a ¹¹ + tʰ i ³⁴"
@@ -12816,7 +12804,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1068
+    id 1067
     label "MONDAY"
     occurrences "clicsbp-idssegmented-jinshadai-MONDAY-1//clicsbp-wold-WhiteHmong-MONDAY-1"
     words "s i ³³ + tʃʰ i ³³ + j i ¹¹//n̥ u ⁵⁵ + v a ¹¹ + tɕ a ¹¹"
@@ -12828,7 +12816,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1069
+    id 1068
     label "TUESDAY"
     occurrences "clicsbp-idssegmented-jinshadai-TUESDAY-1//clicsbp-wold-WhiteHmong-TUESDAY-1"
     words "s i ³³ + tʃʰ i ³³ + ʔ ə ²⁴//n̥ u ⁵⁵ + v a ¹¹ + a ¹¹ + qʰ a ¹¹"
@@ -12840,7 +12828,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1070
+    id 1069
     label "WEDNESDAY"
     occurrences "clicsbp-idssegmented-jinshadai-WEDNESDAY-1//clicsbp-wold-WhiteHmong-WEDNESDAY-1"
     words "s i ³³ + tʃʰ i ³³ + s ɛ ³³//n̥ u ⁵⁵ + v a ¹¹ + pʰ u ³⁴"
@@ -12852,7 +12840,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1071
+    id 1070
     label "THURSDAY"
     occurrences "clicsbp-idssegmented-jinshadai-THURSDAY-1//clicsbp-wold-WhiteHmong-THURSDAY-1"
     words "s i ³³ + tʃʰ i ³³ + s ɨ ²⁴//n̥ u ⁵⁵ + v a ¹¹ + pʰ a ⁵⁵ + h a ³⁴"
@@ -12864,7 +12852,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1072
+    id 1071
     label "FRIDAY"
     occurrences "clicsbp-idssegmented-jinshadai-FRIDAY-1//clicsbp-wold-WhiteHmong-FRIDAY-1"
     words "s i ³³ + tʃʰ i ³³ + v u ⁴⁴//n̥ u ⁵⁵ + v a ¹¹ + s u ³⁴"
@@ -12876,7 +12864,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1073
+    id 1072
     label "SATURDAY"
     occurrences "clicsbp-idssegmented-jinshadai-SATURDAY-1//clicsbp-wold-WhiteHmong-SATURDAY-1"
     words "s i ³³ + tʃʰ i ³³ + l u ¹¹//n̥ u ⁵⁵ + v a ¹¹ + s au ²¹³"
@@ -12888,7 +12876,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1074
+    id 1073
     label "WINTER"
     occurrences "clicsbp-idssegmented-jinshadai-WINTER-1//clicsbp-wold-WhiteHmong-WINTER-1"
     words "m ə ŋ ³¹//tɕ ai ⁵³ + ⁿt u ⁵³ + n o ³³"
@@ -12900,7 +12888,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1075
+    id 1074
     label "SPRINGTIME"
     occurrences "clicsbp-idssegmented-jinshadai-SPRINGTIME-1//clicsbp-wold-WhiteHmong-SPRINGTIME-1"
     words "m ə ŋ ³¹ + j i n ²⁴//tɕ ai ⁵³ + ⁿp l o ŋ ⁵³ + ⁿt o ŋ ³³ + l̥ a ³⁴"
@@ -12912,7 +12900,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1076
+    id 1075
     label "SUMMER"
     occurrences "clicsbp-idssegmented-jinshadai-SUMMER-1//clicsbp-wold-WhiteHmong-SUMMER-1"
     words "m ə ŋ ³¹ + m a i ¹¹//tɕ ai ⁵³ + ⁿt u ⁵³ + ʂ o ³⁴"
@@ -12924,7 +12912,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1077
+    id 1076
     label "AUTUMN"
     occurrences "clicsbp-idssegmented-jinshadai-AUTUMN-1//clicsbp-wold-WhiteHmong-AUTUMN-1"
     words "m ə ŋ ³¹ + m a i ¹¹//tɕ ai ⁵³ + ⁿp l o ŋ ⁵³ + ʐ e ŋ ³¹"
@@ -12936,7 +12924,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1078
+    id 1077
     label "SMELL (STINK)"
     occurrences "clicsbp-idssegmented-jinshadai-SMELLSTINK-1//clicsbp-wold-WhiteHmong-SMELLSTINK-1"
     words "m i n ²⁴//tʃ ɯ ³³"
@@ -12948,7 +12936,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1079
+    id 1078
     label "TASTE (SOMETHING)"
     occurrences "clicsbp-idssegmented-jinshadai-TASTESOMETHING-1//clicsbp-wold-WhiteHmong-TASTESOMETHING-1"
     words "ʔ a i ³³//ʂ a ⁵³"
@@ -12960,7 +12948,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1080
+    id 1079
     label "LOVE"
     occurrences "clicsbp-idssegmented-jinshadai-LOVE-1//clicsbp-wold-WhiteHmong-LOVE-1"
     words "ʔ a i ³³//l̥ u ⁵⁵"
@@ -12972,7 +12960,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1081
+    id 1080
     label "SHAME"
     occurrences "clicsbp-idssegmented-jinshadai-SHAME-1//clicsbp-wold-WhiteHmong-SHAME-1"
     words "ʔ a i ³³//ts a ⁵³ + m w a ³¹"
@@ -12984,7 +12972,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1082
+    id 1081
     label "SOUND OR NOISE"
     occurrences "clicsbp-idssegmented-jinshadai-SOUNDORNOISE-1//clicsbp-idssegmented-jinshadai-SOUNDORNOISE-2//clicsbp-wold-WhiteHmong-SOUNDORNOISE-1"
     words "s i ŋ ²⁴ + n u ə ⁴⁴//s i ŋ ²⁴//ʂ w a ⁵⁵"
@@ -12996,7 +12984,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1083
+    id 1082
     label "VOICE"
     occurrences "clicsbp-idssegmented-jinshadai-VOICE-1//clicsbp-wold-WhiteHmong-VOICE-1"
     words "s i ŋ ²⁴//ʂ w a ⁵⁵"
@@ -13008,7 +12996,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1084
+    id 1083
     label "SILENCE"
     occurrences "clicsbp-idssegmented-jinshadai-SILENCE-1//clicsbp-idssegmented-jinshadai-SILENCE-2"
     words "ʔ a ³³ + tʃʰ i ³³//v u ²⁴ + ɲ i ŋ ⁴⁴ + s i ŋ ²⁴"
@@ -13020,7 +13008,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1085
+    id 1084
     label "SHOW"
     occurrences "clicsbp-idssegmented-jinshadai-SHOW-1//clicsbp-idssegmented-jinshadai-SHOW-2//clicsbp-wold-WhiteHmong-SHOW-1"
     words "ʔ a u ³³ + h a i ¹¹//ʔ a u ³³ + h a i ¹¹ + h ɛ ⁴⁴//t aɯ ³³ + k e ³⁴"
@@ -13032,7 +13020,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1086
+    id 1085
     label "SHINE"
     occurrences "clicsbp-idssegmented-jinshadai-SHINE-1//clicsbp-wold-WhiteHmong-SHINE-1"
     words "v ɛ a n ⁴⁴ + t u a ŋ ³³//ⁿtʃ a ³³"
@@ -13044,7 +13032,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1087
+    id 1086
     label "LIGHT (COLOR)"
     occurrences "clicsbp-idssegmented-jinshadai-LIGHTCOLOR-1//clicsbp-wold-WhiteHmong-LIGHTCOLOR-1"
     words "tʰ a t ⁴⁴//k a ⁵³"
@@ -13056,7 +13044,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1088
+    id 1087
     label "PINCH"
     occurrences "clicsbp-idssegmented-jinshadai-PINCH-1//clicsbp-idssegmented-jinshadai-PINCH-2//clicsbp-wold-WhiteHmong-PINCH-1"
     words "m i t ⁴⁴//k ə a n ³³//d e ³³"
@@ -13068,7 +13056,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1089
+    id 1088
     label "FEEL"
     occurrences "clicsbp-idssegmented-jinshadai-FEEL-1//clicsbp-wold-WhiteHmong-FEEL-1"
     words "m o ³³//n̥ o ³⁴"
@@ -13080,7 +13068,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1090
+    id 1089
     label "ROUGH"
     occurrences "clicsbp-idssegmented-jinshadai-ROUGH-1"
     words "kʰ a u ¹¹ + kʰ ə t ²⁴"
@@ -13092,7 +13080,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1091
+    id 1090
     label "SMOOTH"
     occurrences "clicsbp-idssegmented-jinshadai-SMOOTH-1//clicsbp-wold-WhiteHmong-SMOOTH-1"
     words "m ə ŋ ³¹ + l ɛ a i ⁴⁴//d u ³³"
@@ -13104,7 +13092,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1092
+    id 1091
     label "BLUNT"
     occurrences "clicsbp-idssegmented-jinshadai-BLUNT-1//clicsbp-wold-WhiteHmong-BLUNT-1"
     words "t ɛ a n ³³//ⁿb u ⁵⁵"
@@ -13116,7 +13104,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1093
+    id 1092
     label "WARM"
     occurrences "clicsbp-idssegmented-jinshadai-WARM-1//clicsbp-wold-WhiteHmong-WARM-1"
     words "ʔ u e n ³³//ʂ o ³⁴"
@@ -13128,7 +13116,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1094
+    id 1093
     label "WRINKLED"
     occurrences "clicsbp-idssegmented-jinshadai-WRINKLED-1//clicsbp-wold-WhiteHmong-WRINKLED-1"
     words "h u e n ²⁴//ts o ŋ ²¹³"
@@ -13140,7 +13128,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1095
+    id 1094
     label "SURPRISED"
     occurrences "clicsbp-idssegmented-jinshadai-SURPRISED-1//clicsbp-idssegmented-jinshadai-SURPRISED-2//clicsbp-wold-WhiteHmong-SURPRISED-1"
     words "t ə n ⁴⁴//t ə n ⁴⁴//r a ¹¹ + dʱ e ŋ ³⁴"
@@ -13152,7 +13140,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1096
+    id 1095
     label "GOOD LUCK"
     occurrences "clicsbp-idssegmented-jinshadai-GOODLUCK-1//clicsbp-wold-WhiteHmong-GOODLUCK-1"
     words "j i n ¹¹ + cʰ i ²⁴ + l i ³³//m̥ o ŋ ³⁴"
@@ -13164,7 +13152,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1097
+    id 1096
     label "BAD LUCK"
     occurrences "clicsbp-idssegmented-jinshadai-BADLUCK-1"
     words "j i n ¹¹ + cʰ i ²⁴ + v u ⁴⁴ + l i ³³"
@@ -13176,7 +13164,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1098
+    id 1097
     label "HAPPY"
     occurrences "clicsbp-idssegmented-jinshadai-HAPPY-1//clicsbp-wold-WhiteHmong-HAPPY-1"
     words "l i ³³//ʐ o ŋ ³³ + ʂ j a ⁵⁵"
@@ -13188,7 +13176,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1099
+    id 1098
     label "SMILE"
     occurrences "clicsbp-idssegmented-jinshadai-SMILE-1//clicsbp-wold-WhiteHmong-SMILE-1"
     words "kʰ a n ¹¹ + kʰ o ²⁴//l w a ³¹ + ɲ a ³⁴"
@@ -13200,7 +13188,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1100
+    id 1099
     label "PLAY"
     occurrences "clicsbp-idssegmented-jinshadai-PLAY-1//clicsbp-wold-WhiteHmong-PLAY-1"
     words "l i n ¹¹//w a ³³ + ʂ i ³³"
@@ -13212,7 +13200,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1101
+    id 1100
     label "KISS"
     occurrences "clicsbp-idssegmented-jinshadai-KISS-1//clicsbp-wold-WhiteHmong-KISS-1"
     words "c u e t ⁴⁴//n̥ j ə ³³"
@@ -13224,7 +13212,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1102
+    id 1101
     label "PAIN"
     occurrences "clicsbp-idssegmented-jinshadai-PAIN-1//clicsbp-wold-WhiteHmong-PAIN-1"
     words "c i k ¹¹//m o ⁵⁵"
@@ -13236,7 +13224,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1103
+    id 1102
     label "GRIEF"
     occurrences "clicsbp-idssegmented-jinshadai-GRIEF-1//clicsbp-wold-WhiteHmong-GRIEF-1"
     words "c i k ¹¹ + c ə a i ³³//k e ³⁴ + t u ³³ + ʂ j a ⁵⁵"
@@ -13248,7 +13236,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1104
+    id 1103
     label "ANGER"
     occurrences "clicsbp-idssegmented-jinshadai-ANGER-1//clicsbp-idssegmented-jinshadai-ANGER-2//clicsbp-wold-WhiteHmong-ANGER-1"
     words "c i k ¹¹ + c ə a i ³³//j ɨ ¹¹ + tʃʰ i ⁴⁴//ⁿb au ³³ + t aɯ ¹¹"
@@ -13260,7 +13248,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1105
+    id 1104
     label "ANXIETY"
     occurrences "clicsbp-idssegmented-jinshadai-ANXIETY-1//clicsbp-wold-WhiteHmong-ANXIETY-1"
     words "v u ⁴⁴ + p a i ⁴⁴ + c ə a i ³³//tsʰ aɯ ⁵³ + ʂ j a ⁵⁵"
@@ -13272,7 +13260,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1106
+    id 1105
     label "REGRET"
     occurrences "clicsbp-idssegmented-jinshadai-REGRET-1//clicsbp-wold-WhiteHmong-REGRET-1"
     words "x ə u ¹¹ + x u i ⁴⁴//ⁿr o ³¹ + t u ³³ + ʂ j a ⁵⁵"
@@ -13284,7 +13272,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1107
+    id 1106
     label "PITY"
     occurrences "clicsbp-idssegmented-jinshadai-PITY-1//clicsbp-wold-WhiteHmong-PITY-1"
     words "ʔ i ³³ + l u ⁴⁴//ⁿr o ³¹ + t u ³³ + ʂ j a ⁵⁵"
@@ -13296,7 +13284,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1108
+    id 1107
     label "GROAN"
     occurrences "clicsbp-idssegmented-jinshadai-GROAN-1//clicsbp-wold-WhiteHmong-GROAN-1"
     words "kʰ ə a ŋ ⁴⁴//ⁿtʃ a ⁵³"
@@ -13308,7 +13296,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1109
+    id 1108
     label "HATE"
     occurrences "clicsbp-idssegmented-jinshadai-HATE-1//clicsbp-wold-WhiteHmong-HATE-1"
     words "x ə n ⁴⁴//ⁿts u ⁵⁵"
@@ -13320,7 +13308,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1110
+    id 1109
     label "BRAVE"
     occurrences "clicsbp-idssegmented-jinshadai-BRAVE-1//clicsbp-wold-WhiteHmong-BRAVE-1//clicsbp-wold-WhiteHmong-BRAVE-2"
     words "l i ³³ + x ɨ ⁴³//k e ŋ ⁵³//ʂ j a ⁵⁵ + t aɯ ³⁴"
@@ -13332,7 +13320,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1111
+    id 1110
     label "FEAR (FRIGHT)"
     occurrences "clicsbp-idssegmented-jinshadai-FEARFRIGHT-1//clicsbp-wold-WhiteHmong-FEARFRIGHT-1"
     words "l i ³³ + k o ³³//ⁿtʃʱ ai ³³"
@@ -13344,7 +13332,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1112
+    id 1111
     label "DANGER"
     occurrences "clicsbp-idssegmented-jinshadai-DANGER-1"
     words "w ə i ³¹ + s i a n ⁴⁴"
@@ -13356,7 +13344,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1113
+    id 1112
     label "HOPE"
     occurrences "clicsbp-idssegmented-jinshadai-HOPE-1"
     words "tʰ a ¹¹ + v ɛ a i ⁴³"
@@ -13368,7 +13356,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1114
+    id 1113
     label "FAITHFUL"
     occurrences "clicsbp-idssegmented-jinshadai-FAITHFUL-1//clicsbp-wold-WhiteHmong-FAITHFUL-1"
     words "c u i ³¹ + l i ³³//ⁿtɕ a ⁵³ + ⁿtɕ e ŋ ¹¹"
@@ -13380,7 +13368,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1115
+    id 1114
     label "LIE (MISLEAD)"
     occurrences "clicsbp-idssegmented-jinshadai-LIEMISLEAD-1//clicsbp-wold-WhiteHmong-LIEMISLEAD-1//clicsbp-wold-WhiteHmong-LIEMISLEAD-2"
     words "h i e ¹¹ + m ɛ a i ¹¹//d a ³¹//s e ³⁴"
@@ -13392,7 +13380,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1116
+    id 1115
     label "DECEIT"
     occurrences "clicsbp-idssegmented-jinshadai-DECEIT-1//clicsbp-wold-WhiteHmong-DECEIT-1"
     words "m ɛ a i ¹¹ + k o n ⁴⁴//ⁿts j a ¹¹"
@@ -13404,7 +13392,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1117
+    id 1116
     label "FORGIVE"
     occurrences "clicsbp-idssegmented-jinshadai-FORGIVE-1//clicsbp-wold-WhiteHmong-FORGIVE-1"
     words "j u a ŋ ³³ + m ə i ⁴⁴//ʐ a ²¹³ + ts i ²¹³"
@@ -13416,7 +13404,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1118
+    id 1117
     label "CERTAIN"
     occurrences "clicsbp-idssegmented-jinshadai-CERTAIN-1//clicsbp-wold-WhiteHmong-CERTAIN-1"
     words "cʰ ə a i ³¹//p au ⁵⁵ + tʃ e ŋ ⁵⁵"
@@ -13428,7 +13416,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1119
+    id 1118
     label "YES"
     occurrences "clicsbp-idssegmented-jinshadai-YES-1//clicsbp-wold-WhiteHmong-YES-1"
     words "cʰ ə a i ³¹//aɯ ¹¹"
@@ -13440,7 +13428,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1120
+    id 1119
     label "FAULT"
     occurrences "clicsbp-idssegmented-jinshadai-FAULT-1//clicsbp-wold-WhiteHmong-FAULT-1"
     words "h i t ¹¹ + tʃʰ o ⁴⁴//tsʰ au ²¹³"
@@ -13452,7 +13440,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1121
+    id 1120
     label "PRAISE"
     occurrences "clicsbp-idssegmented-jinshadai-PRAISE-1//clicsbp-wold-WhiteHmong-PRAISE-1"
     words "kʰ u a ³³ + tʃ i a ŋ ⁴⁴//qʰ w a ¹¹"
@@ -13464,7 +13452,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1122
+    id 1121
     label "GREEDY"
     occurrences "clicsbp-idssegmented-jinshadai-GREEDY-1//clicsbp-wold-WhiteHmong-GREEDY-1"
     words "tʰ u ³¹ + c i ³³//ʂ j a ⁵⁵ + l̥ o ⁵⁵"
@@ -13476,7 +13464,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1123
+    id 1122
     label "CLEVER"
     occurrences "clicsbp-idssegmented-jinshadai-CLEVER-1//clicsbp-wold-WhiteHmong-CLEVER-1"
     words "l i a n ²⁴//ⁿtʃ e ³³"
@@ -13488,7 +13476,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1124
+    id 1123
     label "MIND"
     occurrences "clicsbp-idssegmented-jinshadai-MIND-1//clicsbp-wold-WhiteHmong-MIND-2//clicsbp-wold-WhiteHmong-MIND-1"
     words "ʔ u a k ³³ + ʔ ɛ a k ²⁴//l̥ ɯ ⁵⁵//ʂ j a ⁵⁵"
@@ -13500,7 +13488,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1125
+    id 1124
     label "THINK (REFLECT)"
     occurrences "clicsbp-idssegmented-jinshadai-THINKREFLECT-1//clicsbp-wold-WhiteHmong-THINKREFLECT-1"
     words "s i a ŋ ¹¹//s a ³⁴"
@@ -13512,7 +13500,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1126
+    id 1125
     label "THINK (BELIEVE)"
     occurrences "clicsbp-idssegmented-jinshadai-THINKBELIEVE-1//clicsbp-wold-WhiteHmong-THINKBELIEVE-1"
     words "j u a n ¹¹ + n a i ²⁴//s a ³⁴"
@@ -13524,7 +13512,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1127
+    id 1126
     label "BELIEVE"
     occurrences "clicsbp-idssegmented-jinshadai-BELIEVE-1//clicsbp-wold-WhiteHmong-BELIEVE-1"
     words "kʰ a i ³¹ + cʰ a ŋ ¹¹//ⁿtʃ e ŋ ³¹"
@@ -13536,7 +13524,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1128
+    id 1127
     label "UNDERSTAND"
     occurrences "clicsbp-idssegmented-jinshadai-UNDERSTAND-1//clicsbp-wold-WhiteHmong-UNDERSTAND-1//clicsbp-wold-WhiteHmong-UNDERSTAND-2"
     words "h u ³¹ + c i a k ¹¹//t o ³³ + t au ⁵⁵//ⁿk a ³¹ + ʂ j a ⁵⁵"
@@ -13548,7 +13536,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1129
+    id 1128
     label "CLEAR"
     occurrences "clicsbp-idssegmented-jinshadai-CLEAR-1//clicsbp-wold-WhiteHmong-CLEAR-1"
     words "h u ³¹ + c i a k ¹¹//m e ŋ ⁵³"
@@ -13560,7 +13548,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1130
+    id 1129
     label "IMITATE"
     occurrences "clicsbp-idssegmented-jinshadai-IMITATE-1//clicsbp-wold-WhiteHmong-IMITATE-1"
     words "tʰ o ŋ ³¹ + k ə a n ³³//q o ³¹"
@@ -13572,7 +13560,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1131
+    id 1130
     label "SEEM"
     occurrences "clicsbp-idssegmented-jinshadai-SEEM-1//clicsbp-wold-WhiteHmong-SEEM-1"
     words "p i ⁴⁴ + ʔ a n ¹¹ + n a i ²⁴//m w a ⁵³ + ⁿtʃ i ¹¹ + ʐ o ŋ ³³ + l i ³³"
@@ -13584,7 +13572,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1132
+    id 1131
     label "IDEA"
     occurrences "clicsbp-idssegmented-jinshadai-IDEA-1//clicsbp-wold-WhiteHmong-IDEA-1"
     words "c u ⁴⁴ + j i ¹¹//tʃ ɯ ³⁴ + j i ²¹³"
@@ -13596,7 +13584,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1133
+    id 1132
     label "WISE"
     occurrences "clicsbp-idssegmented-jinshadai-WISE-1//clicsbp-wold-WhiteHmong-WISE-1"
     words "m i n ¹¹ + c ɨ ²⁴//p au ⁵⁵ + q a ⁵⁵ + h au ³³"
@@ -13608,7 +13596,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1134
+    id 1133
     label "MAD"
     occurrences "clicsbp-idssegmented-jinshadai-MAD-1//clicsbp-wold-WhiteHmong-MAD-1"
     words "v a ¹¹//v ɯ ²¹³"
@@ -13620,7 +13608,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1135
+    id 1134
     label "LEARN"
     occurrences "clicsbp-idssegmented-jinshadai-LEARN-1//clicsbp-wold-WhiteHmong-LEARN-1"
     words "s i o ¹¹//ɕ au ²¹³"
@@ -13632,7 +13620,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1136
+    id 1135
     label "STUDY"
     occurrences "clicsbp-idssegmented-jinshadai-STUDY-1//clicsbp-idssegmented-jinshadai-STUDY-2//clicsbp-wold-WhiteHmong-STUDY-1"
     words "j i a n ³³ + c i u ⁴⁴//s i o ¹¹ + s i ¹¹//k aɯ ²¹³ + ⁿt aɯ ³⁴"
@@ -13644,7 +13632,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1137
+    id 1136
     label "PUPIL (STUDENT)"
     occurrences "clicsbp-idssegmented-jinshadai-PUPILSTUDENT-1//clicsbp-wold-WhiteHmong-PUPILSTUDENT-1"
     words "s i o ¹¹ + s ə n ³³//t u ⁵⁵ + ⁿtsʱ ai ¹¹ + k aɯ ²¹³ + ⁿt aɯ ³⁴"
@@ -13656,7 +13644,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1138
+    id 1137
     label "TEACHER"
     occurrences "clicsbp-idssegmented-jinshadai-TEACHER-1//clicsbp-wold-WhiteHmong-TEACHER-1//clicsbp-wold-WhiteHmong-TEACHER-2"
     words "l a u ⁴⁴ + s ɨ ³³//s i ⁵⁵ + h ɯ ⁵⁵//n ai ¹¹ + kʰ u ³³"
@@ -13668,7 +13656,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1139
+    id 1138
     label "SCHOOL"
     occurrences "clicsbp-idssegmented-jinshadai-SCHOOL-1//clicsbp-wold-WhiteHmong-SCHOOL-1"
     words "s i o ¹¹ + s i a u ⁴⁴//tʃ e ³⁴ + k aɯ ²¹³ + ⁿt aɯ ³⁴"
@@ -13680,7 +13668,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1140
+    id 1139
     label "OBSCURE"
     occurrences "clicsbp-idssegmented-jinshadai-OBSCURE-1"
     words "v u ¹¹ + h u ³¹ + c i a k ¹¹"
@@ -13692,7 +13680,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1141
+    id 1140
     label "SECRET"
     occurrences "clicsbp-idssegmented-jinshadai-SECRET-1"
     words "v u ³³ + h u ³¹"
@@ -13704,7 +13692,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1142
+    id 1141
     label "EXPLAIN"
     occurrences "clicsbp-idssegmented-jinshadai-EXPLAIN-1//clicsbp-wold-WhiteHmong-EXPLAIN-1"
     words "v a ³³ + m a i ³¹//p j a ³⁴"
@@ -13716,7 +13704,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1143
+    id 1142
     label "INTENTION"
     occurrences "clicsbp-idssegmented-jinshadai-INTENTION-1//clicsbp-wold-WhiteHmong-INTENTION-1"
     words "m u ³¹ + t i ³¹//tʃ ɯ ³⁴ + j i ²¹³"
@@ -13728,7 +13716,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1144
+    id 1143
     label "CAUSE"
     occurrences "clicsbp-idssegmented-jinshadai-CAUSE-1//clicsbp-wold-WhiteHmong-CAUSE-1"
     words "j a ŋ ¹¹ + n a i ²⁴//h au ³⁴ + p au ¹¹"
@@ -13740,7 +13728,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1145
+    id 1144
     label "DOUBT"
     occurrences "clicsbp-idssegmented-jinshadai-DOUBT-1//clicsbp-wold-WhiteHmong-DOUBT-1"
     words "ʔ a u ³³ + v u ¹¹ + c u n ⁴⁴//s o ŋ ²¹³ + s ai ²¹³"
@@ -13752,7 +13740,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1146
+    id 1145
     label "SUSPECT"
     occurrences "clicsbp-idssegmented-jinshadai-SUSPECT-1//clicsbp-wold-WhiteHmong-SUSPECT-1"
     words "x u a i ³¹ + j i ³¹//ɲ a ⁵³"
@@ -13764,7 +13752,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1147
+    id 1146
     label "BETRAY"
     occurrences "clicsbp-idssegmented-jinshadai-BETRAY-1//clicsbp-wold-WhiteHmong-BETRAY-1"
     words "p ə i ¹¹ + pʰ a n ¹¹//ⁿts e ŋ ³⁴ + ʂ j a ⁵⁵"
@@ -13776,7 +13764,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1148
+    id 1147
     label "NEED (NOUN)"
     occurrences "clicsbp-idssegmented-jinshadai-NEEDNOUN-1//clicsbp-wold-WhiteHmong-NEEDNOUN-1"
     words "t ə ³³ + j i a u ³³//qʰ o ³⁴ + s a ³⁴ + m w a ⁵³"
@@ -13788,7 +13776,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1149
+    id 1148
     label "TRY"
     occurrences "clicsbp-idssegmented-jinshadai-TRY-1//clicsbp-wold-WhiteHmong-TRY-1"
     words "s ɨ ¹¹//ʂ i ²¹³"
@@ -13800,7 +13788,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1150
+    id 1149
     label "MANNER"
     occurrences "clicsbp-idssegmented-jinshadai-MANNER-1//clicsbp-wold-WhiteHmong-MANNER-1"
     words "f a ŋ ³³ + s ɨ ¹¹//tɕ ɯ ⁵³ + p ɯ ²¹³"
@@ -13812,7 +13800,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1151
+    id 1150
     label "BECAUSE"
     occurrences "clicsbp-idssegmented-jinshadai-BECAUSE-1//clicsbp-wold-WhiteHmong-BECAUSE-1"
     words "p i ⁴⁴ + ʔ a ŋ ¹¹ + n a i ²⁴//v i ²¹³"
@@ -13824,7 +13812,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1152
+    id 1151
     label "IF"
     occurrences "clicsbp-idssegmented-jinshadai-IF-1//clicsbp-wold-WhiteHmong-IF-1"
     words "j u ³¹ + k o ⁴⁴//j o ³¹"
@@ -13836,7 +13824,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1153
+    id 1152
     label "OR"
     occurrences "clicsbp-idssegmented-jinshadai-OR-1//clicsbp-wold-WhiteHmong-OR-1"
     words "x o ³¹ + c ə ⁴⁴//l o ¹¹"
@@ -13848,7 +13836,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1154
+    id 1153
     label "HOW"
     occurrences "clicsbp-idssegmented-jinshadai-HOW-1//clicsbp-wold-WhiteHmong-HOW-1"
     words "j a ŋ ³¹ + n a i ²⁴//w a ³³ + l i ³³ + tɕ a ¹¹"
@@ -13860,7 +13848,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1155
+    id 1154
     label "HOW MANY PIECES"
     occurrences "clicsbp-idssegmented-jinshadai-HOWMANYPIECES-1//clicsbp-wold-WhiteHmong-HOWMANYPIECES-1"
     words "t o ¹¹ + s a u ⁴⁴//p e ¹¹ + tʃ aɯ ³¹"
@@ -13872,7 +13860,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1156
+    id 1155
     label "HOW MUCH"
     occurrences "clicsbp-idssegmented-jinshadai-HOWMUCH-1//clicsbp-wold-WhiteHmong-HOWMUCH-1"
     words "t o ¹¹ + s a u ⁴⁴//ⁿb au ²¹³ + l i ³³ + tɕ a ¹¹"
@@ -13884,7 +13872,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1157
+    id 1156
     label "WHEN"
     occurrences "clicsbp-idssegmented-jinshadai-WHEN-1//clicsbp-wold-WhiteHmong-WHEN-1"
     words "kʰ ə ³¹ + s a ŋ ²⁴ + s ɨ ³¹ + h ə u ²⁴//tʰ au ²¹³ + t ɯ ³¹"
@@ -13896,7 +13884,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1158
+    id 1157
     label "WHO"
     occurrences "clicsbp-idssegmented-jinshadai-WHO-1//clicsbp-idssegmented-jinshadai-WHO-2//clicsbp-wold-WhiteHmong-WHO-1"
     words "pʰ ə ³¹//pʰ ə ³³ + l ə a i ³³//l e ŋ ⁵³ + t ɯ ³¹"
@@ -13908,7 +13896,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1159
+    id 1158
     label "WHY"
     occurrences "clicsbp-idssegmented-jinshadai-WHY-1//clicsbp-idssegmented-jinshadai-WHY-2//clicsbp-wold-WhiteHmong-WHY-2//clicsbp-wold-WhiteHmong-WHY-1"
     words "h i t ¹¹ + s a ŋ ²⁴//w ə i ⁴⁴ + s a ŋ ²⁴//w a ³³ + l i ³³ + tɕ a ¹¹//v i ²¹³ + l i ³³ + tɕ a ¹¹"
@@ -13920,7 +13908,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1160
+    id 1159
     label "SHOUT"
     occurrences "clicsbp-idssegmented-jinshadai-SHOUT-1//clicsbp-wold-WhiteHmong-SHOUT-1"
     words "h u a ŋ ⁴³//q ɯ ³³"
@@ -13932,7 +13920,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1161
+    id 1160
     label "CALL"
     occurrences "clicsbp-idssegmented-jinshadai-CALL-1//clicsbp-wold-WhiteHmong-CALL-1"
     words "h u a ŋ ⁴³//h u ³³"
@@ -13944,7 +13932,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1162
+    id 1161
     label "WHISPER"
     occurrences "clicsbp-idssegmented-jinshadai-WHISPER-1//clicsbp-wold-WhiteHmong-WHISPER-1"
     words "k u a i ³³ + k u a i ³³ + h i e ³¹//ⁿtsʱ i ³³"
@@ -13956,7 +13944,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1163
+    id 1162
     label "MUMBLE"
     occurrences "clicsbp-idssegmented-jinshadai-MUMBLE-1"
     words "n a i ³³ + s a ŋ ³³ + n a i ³³ + s i ŋ ⁴⁴"
@@ -13968,7 +13956,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1164
+    id 1163
     label "WHISTLE"
     occurrences "clicsbp-idssegmented-jinshadai-WHISTLE-1//clicsbp-wold-WhiteHmong-WHISTLE-1"
     words "p a u ¹¹ + s a u ²⁴ + c ɨ ⁴⁴//s w a ³⁴"
@@ -13980,7 +13968,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1165
+    id 1164
     label "SHRIEK"
     occurrences "clicsbp-idssegmented-jinshadai-SHRIEK-1//clicsbp-wold-WhiteHmong-SHRIEK-1"
     words "s i ŋ ²⁴ + pʰ a i ²⁴//q ɯ ³³ + ⁿr o ³⁴"
@@ -13992,7 +13980,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1166
+    id 1165
     label "SAY"
     occurrences "clicsbp-idssegmented-jinshadai-SAY-1//clicsbp-wold-WhiteHmong-SAY-1"
     words "h i e ³¹//h ai ¹¹"
@@ -14004,7 +13992,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1167
+    id 1166
     label "SWEAR"
     occurrences "clicsbp-idssegmented-jinshadai-SWEAR-1//clicsbp-wold-WhiteHmong-SWEAR-1"
     words "h i e ³¹ + x ə a n ⁴⁴//tɕ o ³¹ + l u ¹¹"
@@ -14016,7 +14004,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1168
+    id 1167
     label "OATH"
     occurrences "clicsbp-idssegmented-jinshadai-OATH-1//clicsbp-wold-WhiteHmong-OATH-1"
     words "h i e ³¹ + x ə a n ⁴⁴//l u ¹¹ + tɕ o ³¹ + tʃ e ³¹"
@@ -14028,7 +14016,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1169
+    id 1168
     label "STUTTER"
     occurrences "clicsbp-idssegmented-jinshadai-STUTTER-1//clicsbp-wold-WhiteHmong-STUTTER-1"
     words "k a ŋ ⁴³ + k a ŋ ⁴³ + k ə ŋ ¹¹ + k ə ŋ ¹¹ + n ə ³³ + h i e ¹¹//d ai ³¹ + ⁿp l ai ³¹"
@@ -14040,7 +14028,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1170
+    id 1169
     label "BE SILENT"
     occurrences "clicsbp-idssegmented-jinshadai-BESILENT-1//clicsbp-idssegmented-jinshadai-BESILENT-2//clicsbp-wold-WhiteHmong-BESILENT-1"
     words "v u ¹¹ + h i e ³¹ + x ə a n ⁴⁴//ʔ a ³³ + tʃʰ i ⁴⁴ + tʃʰ i ⁴⁴//ⁿtʃ j a ³¹ + t o ³³"
@@ -14052,7 +14040,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1171
+    id 1170
     label "LANGUAGE"
     occurrences "clicsbp-idssegmented-jinshadai-LANGUAGE-1//clicsbp-wold-WhiteHmong-LANGUAGE-1"
     words "s i ŋ ²⁴ + x ə a n ⁴⁴//l u ¹¹"
@@ -14064,7 +14052,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1172
+    id 1171
     label "WORD"
     occurrences "clicsbp-idssegmented-jinshadai-WORD-1//clicsbp-wold-WhiteHmong-WORD-1"
     words "l a i ⁴⁴ + c e ¹¹//l u ¹¹"
@@ -14076,7 +14064,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1173
+    id 1172
     label "ANSWER"
     occurrences "clicsbp-idssegmented-jinshadai-ANSWER-1//clicsbp-wold-WhiteHmong-ANSWER-1"
     words "ʔ ə ¹¹//t e ⁵⁵"
@@ -14088,7 +14076,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1174
+    id 1173
     label "ADMIT"
     occurrences "clicsbp-idssegmented-jinshadai-ADMIT-1//clicsbp-wold-WhiteHmong-ADMIT-1//clicsbp-wold-WhiteHmong-ADMIT-2"
     words "cʰ ə n ³¹ + j ə n ²⁴//l e ŋ ¹¹//l a ³⁴ + p au ⁵⁵"
@@ -14100,7 +14088,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1175
+    id 1174
     label "DENY"
     occurrences "clicsbp-idssegmented-jinshadai-DENY-1"
     words "v u ³³ + j ə n ²⁴"
@@ -14112,7 +14100,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1176
+    id 1175
     label "ASK (REQUEST)"
     occurrences "clicsbp-idssegmented-jinshadai-ASKREQUEST-1//clicsbp-wold-WhiteHmong-ASKREQUEST-1"
     words "k ə t ¹¹ + c ə a i ³³//tʰ o ³⁴"
@@ -14124,7 +14112,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1177
+    id 1176
     label "REFUSE"
     occurrences "clicsbp-idssegmented-jinshadai-REFUSE-1//clicsbp-wold-WhiteHmong-REFUSE-1"
     words "v u ¹¹ + l a i ³¹//j i ³¹"
@@ -14136,7 +14124,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1178
+    id 1177
     label "FORBID"
     occurrences "clicsbp-idssegmented-jinshadai-FORBID-1//clicsbp-wold-WhiteHmong-FORBID-1"
     words "j i k ²⁴ + k a ³³//ts ɯ ³⁴"
@@ -14148,7 +14136,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1179
+    id 1178
     label "CALL BY NAME"
     occurrences "clicsbp-idssegmented-jinshadai-CALLBYNAME-1//clicsbp-wold-WhiteHmong-CALLBYNAME-1"
     words "h u a ŋ ⁴³ + h i t ¹¹//t i ¹¹ + ⁿp e ³³"
@@ -14160,7 +14148,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1180
+    id 1179
     label "THREATEN"
     occurrences "clicsbp-idssegmented-jinshadai-THREATEN-1//clicsbp-wold-WhiteHmong-THREATEN-1//clicsbp-wold-WhiteHmong-THREATEN-2"
     words "j u a k ²⁴//h aɯ ³⁴//h e ²¹³"
@@ -14172,7 +14160,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1181
+    id 1180
     label "BOAST"
     occurrences "clicsbp-idssegmented-jinshadai-BOAST-1//clicsbp-wold-WhiteHmong-BOAST-1"
     words "ʔ a ³³ + c a ŋ ²⁴ + h i e ³¹ + ʔ a ¹¹ + c a ŋ ²⁴//kʰ a ³⁴"
@@ -14184,7 +14172,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1182
+    id 1181
     label "WRITE"
     occurrences "clicsbp-idssegmented-jinshadai-WRITE-1//clicsbp-wold-WhiteHmong-WRITE-1"
     words "t ɛ a n ¹¹//ʂ au ³³"
@@ -14196,7 +14184,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1183
+    id 1182
     label "FLUTE"
     occurrences "clicsbp-idssegmented-jinshadai-FLUTE-1//clicsbp-wold-WhiteHmong-FLUTE-1"
     words "p i ⁴⁴ + x a ŋ ²⁴//r a ⁵³ + ⁿp l ai ²¹³"
@@ -14208,7 +14196,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1184
+    id 1183
     label "BRASS INSTRUMENT (HORN OR TRUMPET)"
     occurrences "clicsbp-idssegmented-jinshadai-BRASSINSTRUMENTHORNORTRUMPET-1"
     words "x a u ¹¹"
@@ -14220,7 +14208,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1185
+    id 1184
     label "RATTLE"
     occurrences "clicsbp-idssegmented-jinshadai-RATTLE-1"
     words "pʰ a i ³³ + ʔ u a k ¹¹ + s i ŋ ²⁴"
@@ -14232,7 +14220,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1186
+    id 1185
     label "COUNTRY"
     occurrences "clicsbp-idssegmented-jinshadai-COUNTRY-1//clicsbp-wold-WhiteHmong-COUNTRY-1"
     words "k o ¹¹ + j i a ³³//t e ⁵⁵ + tɕʰ aɯ ¹¹"
@@ -14244,7 +14232,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1187
+    id 1186
     label "NATIVE COUNTRY"
     occurrences "clicsbp-idssegmented-jinshadai-NATIVECOUNTRY-1"
     words "m ə ŋ ⁴⁴ + h a u ⁴⁴"
@@ -14256,7 +14244,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1188
+    id 1187
     label "TOWN"
     occurrences "clicsbp-idssegmented-jinshadai-TOWN-1//clicsbp-idssegmented-jinshadai-TOWN-2//clicsbp-wold-WhiteHmong-TOWN-1"
     words "cʰ ə n ³¹//c ə n ¹¹//ⁿr o ŋ ³¹"
@@ -14268,7 +14256,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1189
+    id 1188
     label "BOUNDARY"
     occurrences "clicsbp-idssegmented-jinshadai-BOUNDARY-1//clicsbp-wold-WhiteHmong-BOUNDARY-1"
     words "s i ³¹ + t ə ³³ + l a i ³³//tɕ j a ²¹³"
@@ -14280,7 +14268,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1190
+    id 1189
     label "PEOPLE"
     occurrences "clicsbp-idssegmented-jinshadai-PEOPLE-1//clicsbp-wold-WhiteHmong-PEOPLE-1"
     words "k o n ⁴⁴ + h a u ⁴⁴//t i ⁵⁵ + n e ŋ ³¹"
@@ -14292,7 +14280,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1191
+    id 1190
     label "CLAN"
     occurrences "clicsbp-idssegmented-jinshadai-CLAN-1//clicsbp-wold-WhiteHmong-CLAN-1"
     words "k o n ⁴⁴ + tʃʰ i ⁴⁴ + l a ³¹//s e ŋ ²¹³"
@@ -14304,7 +14292,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1192
+    id 1191
     label "CHIEFTAIN"
     occurrences "clicsbp-idssegmented-jinshadai-CHIEFTAIN-1//clicsbp-wold-WhiteHmong-CHIEFTAIN-1"
     words "v ɛ a n ³¹ + h o ²⁴//tʰ aɯ ⁵³"
@@ -14316,7 +14304,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1193
+    id 1192
     label "WALKING STICK"
     occurrences "clicsbp-idssegmented-jinshadai-WALKINGSTICK-1//clicsbp-wold-WhiteHmong-WALKINGSTICK-1"
     words "x u e ³¹ + t a u ³¹//tɕ ɯ ⁵³ + ⁿr i ³¹"
@@ -14328,7 +14316,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1194
+    id 1193
     label "RULE"
     occurrences "clicsbp-idssegmented-jinshadai-RULE-1//clicsbp-wold-WhiteHmong-RULE-1"
     words "tʰ o ŋ ⁴⁴ + c ɨ ¹¹//k a ³⁴ + tʃ ɯ ⁵³"
@@ -14340,7 +14328,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1195
+    id 1194
     label "KING"
     occurrences "clicsbp-idssegmented-jinshadai-KING-1//clicsbp-wold-WhiteHmong-KING-1"
     words "h o ²⁴ + l o ŋ ²⁴//h w a ⁵⁵ + t ai ¹¹"
@@ -14352,7 +14340,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1196
+    id 1195
     label "MASTER"
     occurrences "clicsbp-idssegmented-jinshadai-MASTER-1//clicsbp-wold-WhiteHmong-MASTER-1"
     words "c a u ¹¹ + h ə n ⁴⁴//tʃ ɯ ³⁴"
@@ -14364,7 +14352,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1197
+    id 1196
     label "HOST"
     occurrences "clicsbp-idssegmented-jinshadai-HOST-1"
     words "c a u ¹¹ + h ə n ⁴⁴"
@@ -14376,7 +14364,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1198
+    id 1197
     label "SLAVE"
     occurrences "clicsbp-idssegmented-jinshadai-SLAVE-1//clicsbp-wold-WhiteHmong-SLAVE-1"
     words "kʰ a ¹¹ + m o ²⁴ + pʰ i ²⁴//qʰ e ³⁴"
@@ -14388,7 +14376,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1199
+    id 1198
     label "SERVANT"
     occurrences "clicsbp-idssegmented-jinshadai-SERVANT-1//clicsbp-wold-WhiteHmong-SERVANT-1"
     words "c u a i ³¹ + k o n ⁴⁴//qʰ e ³⁴"
@@ -14400,7 +14388,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1200
+    id 1199
     label "COMMAND"
     occurrences "clicsbp-idssegmented-jinshadai-COMMAND-1//clicsbp-wold-WhiteHmong-COMMAND-1"
     words "m i ŋ ¹¹ + l i n ¹¹//h ai ¹¹ + k o ²¹³"
@@ -14412,7 +14400,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1201
+    id 1200
     label "OBEY"
     occurrences "clicsbp-idssegmented-jinshadai-OBEY-1//clicsbp-wold-WhiteHmong-OBEY-1"
     words "c u n ³³ + s ə u ⁴⁴//m l o ŋ ³¹ + l u ¹¹"
@@ -14424,7 +14412,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1202
+    id 1201
     label "ALLOW OR PERMIT"
     occurrences "clicsbp-idssegmented-jinshadai-ALLOWORPERMIT-1"
     words "c u n ⁴⁴ + s i ⁴⁴"
@@ -14436,7 +14424,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1203
+    id 1202
     label "ENEMY"
     occurrences "clicsbp-idssegmented-jinshadai-ENEMY-1//clicsbp-wold-WhiteHmong-ENEMY-1"
     words "t i ³³ + j ə n ³¹//j e ŋ ⁵⁵ + ⁿtɕ w a ⁵⁵"
@@ -14448,7 +14436,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1204
+    id 1203
     label "NEIGHBOUR"
     occurrences "clicsbp-idssegmented-jinshadai-NEIGHBOUR-1//clicsbp-wold-WhiteHmong-NEIGHBOUR-1"
     words "h ə n ⁴⁴ + kʰ a ŋ ¹¹//n e ŋ ³¹ + ʐ e ⁵³ + ʐ o ³¹"
@@ -14460,7 +14448,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1205
+    id 1204
     label "STRANGER"
     occurrences "clicsbp-idssegmented-jinshadai-STRANGER-1"
     words "k o n ⁴⁴ + m ə a i ³³"
@@ -14472,7 +14460,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1206
+    id 1205
     label "HINDER OR PREVENT"
     occurrences "clicsbp-idssegmented-jinshadai-HINDERORPREVENT-1"
     words "h i e ⁴³"
@@ -14484,7 +14472,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1207
+    id 1206
     label "CUSTOM"
     occurrences "clicsbp-idssegmented-jinshadai-CUSTOM-1//clicsbp-wold-WhiteHmong-CUSTOM-1"
     words "s i ³¹ + k u e n ²⁴//k e ³⁴ + tɕ ai ³³"
@@ -14496,7 +14484,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1208
+    id 1207
     label "QUARREL"
     occurrences "clicsbp-idssegmented-jinshadai-QUARREL-1//clicsbp-wold-WhiteHmong-QUARREL-1//clicsbp-wold-WhiteHmong-QUARREL-2"
     words "c ə n ³³ + l u n ²⁴//ʂ i ⁵⁵ + tɕ a ³⁴//ʂ i ⁵⁵ + tɕ e ³¹"
@@ -14508,7 +14496,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1209
+    id 1208
     label "MEET"
     occurrences "clicsbp-idssegmented-jinshadai-MEET-1//clicsbp-idssegmented-jinshadai-MEET-2//clicsbp-wold-WhiteHmong-MEET-1//clicsbp-wold-WhiteHmong-MEET-2"
     words "p ə ŋ ⁴³ + n a ¹¹//h ɛ a n ²⁴ + n a ¹¹//ʂ i ⁵⁵ + ⁿtʃ i ⁵⁵//ʂ i ⁵⁵ + tɕ w a ³¹"
@@ -14520,7 +14508,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1210
+    id 1209
     label "PROSTITUTE"
     occurrences "clicsbp-idssegmented-jinshadai-PROSTITUTE-1//clicsbp-wold-WhiteHmong-PROSTITUTE-1//clicsbp-wold-WhiteHmong-PROSTITUTE-2"
     words "tʃ i ¹¹ + n i ⁴⁴//n j a ²¹³ + ⁿt j a ³⁴//m e ⁵⁵ + tɕ a ⁵⁵"
@@ -14532,7 +14520,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1211
+    id 1210
     label "BATTLE"
     occurrences "clicsbp-idssegmented-jinshadai-BATTLE-1//clicsbp-idssegmented-jinshadai-BATTLE-2//clicsbp-wold-WhiteHmong-BATTLE-1"
     words "p u ³¹ + k ə a n ³³//p u ³¹ + c a ŋ ⁴⁴//tʃ o ³⁴ + r o ³¹"
@@ -14544,7 +14532,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1212
+    id 1211
     label "PEACE"
     occurrences "clicsbp-idssegmented-jinshadai-PEACE-1"
     words "x o ³¹ + pʰ i n ¹¹"
@@ -14556,7 +14544,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1213
+    id 1212
     label "ARMY"
     occurrences "clicsbp-idssegmented-jinshadai-ARMY-1//clicsbp-wold-WhiteHmong-ARMY-1"
     words "tʃ i ³³ + t u i ²⁴//p aɯ ³¹ + t u ⁵⁵ + r o ³¹"
@@ -14568,7 +14556,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1214
+    id 1213
     label "SOLDIER"
     occurrences "clicsbp-idssegmented-jinshadai-SOLDIER-1//clicsbp-wold-WhiteHmong-SOLDIER-1"
     words "s ɨ ²⁴ + p i n ³³//t u ⁵⁵ + r o ³¹"
@@ -14580,7 +14568,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1215
+    id 1214
     label "WEAPONS"
     occurrences "clicsbp-idssegmented-jinshadai-WEAPONS-1//clicsbp-wold-WhiteHmong-WEAPONS-1"
     words "v u ⁴⁴ + tʃʰ i ²⁴//r j a ²¹³ + pʰ o ²¹³"
@@ -14592,7 +14580,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1216
+    id 1215
     label "CLUB"
     occurrences "clicsbp-idssegmented-jinshadai-CLUB-1//clicsbp-wold-WhiteHmong-CLUB-1"
     words "x u e ³¹//q ɯ ¹¹"
@@ -14604,7 +14592,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1217
+    id 1216
     label "SLING"
     occurrences "clicsbp-idssegmented-jinshadai-SLING-1//clicsbp-wold-WhiteHmong-SLING-1"
     words "kʰ a u ⁴⁴ + k u e ³¹ + h i ŋ ²⁴//n̥ e ŋ ³⁴ + r o ⁵³ + m̥ a ⁵⁵"
@@ -14616,7 +14604,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1218
+    id 1217
     label "SPEAR"
     occurrences "clicsbp-idssegmented-jinshadai-SPEAR-1//clicsbp-wold-WhiteHmong-SPEAR-1"
     words "k ɛ ⁴⁴ + c ɨ ³³//m̥ u ³⁴"
@@ -14628,7 +14616,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1219
+    id 1218
     label "SWORD"
     occurrences "clicsbp-idssegmented-jinshadai-SWORD-1//clicsbp-wold-WhiteHmong-SWORD-1"
     words "m i t ¹¹ + s i ⁴⁴//ⁿt a ⁵³"
@@ -14640,7 +14628,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1220
+    id 1219
     label "CANNON OR GUN"
     occurrences "clicsbp-idssegmented-jinshadai-CANNONORGUN-1//clicsbp-idssegmented-jinshadai-CANNONORGUN-2"
     words "tʃʰ i a ŋ ³³//pʰ a u ²⁴"
@@ -14652,7 +14640,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1221
+    id 1220
     label "HELMET"
     occurrences "clicsbp-idssegmented-jinshadai-HELMET-1"
     words "m o ²⁴ + l i e k ¹¹"
@@ -14664,7 +14652,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1222
+    id 1221
     label "SHIELD"
     occurrences "clicsbp-idssegmented-jinshadai-SHIELD-1"
     words "t o n ¹¹"
@@ -14676,7 +14664,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1223
+    id 1222
     label "VICTORY"
     occurrences "clicsbp-idssegmented-jinshadai-VICTORY-1//clicsbp-wold-WhiteHmong-VICTORY-1"
     words "s ə n ¹¹ + l i ¹¹//j e ŋ ⁵³"
@@ -14688,7 +14676,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1224
+    id 1223
     label "DEFEAT"
     occurrences "clicsbp-idssegmented-jinshadai-DEFEAT-1//clicsbp-wold-WhiteHmong-DEFEAT-1"
     words "p u ³¹ + p a i ⁴⁴//ʂ ɯ ⁵⁵"
@@ -14700,7 +14688,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1225
+    id 1224
     label "ATTACK"
     occurrences "clicsbp-idssegmented-jinshadai-ATTACK-1//clicsbp-wold-WhiteHmong-ATTACK-1"
     words "x ə n ³¹ + k a ⁴⁴//m u ¹¹ + t w a ³³"
@@ -14712,7 +14700,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1226
+    id 1225
     label "DEFEND"
     occurrences "clicsbp-idssegmented-jinshadai-DEFEND-1//clicsbp-wold-WhiteHmong-DEFEND-1"
     words "h i e ⁴³ + v a i ⁴³//t i ³⁴ + tʰ ai ³⁴"
@@ -14724,7 +14712,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1227
+    id 1226
     label "SURRENDER"
     occurrences "clicsbp-idssegmented-jinshadai-SURRENDER-1//clicsbp-wold-WhiteHmong-SURRENDER-1"
     words "k u e ⁴⁴ + h o ²⁴//ɲ o ŋ ³³"
@@ -14736,7 +14724,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1228
+    id 1227
     label "GUARD"
     occurrences "clicsbp-idssegmented-jinshadai-GUARD-1//clicsbp-idssegmented-jinshadai-GUARD-2//clicsbp-wold-WhiteHmong-GUARD-1"
     words "w ə i ²⁴ + p i n ³³//f a ŋ ¹¹ + h ə n ⁴⁴//n e ŋ ³¹ + ʐ o ³⁴ + ɲ a ¹¹"
@@ -14748,7 +14736,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1229
+    id 1228
     label "AMBUSH"
     occurrences "clicsbp-idssegmented-jinshadai-AMBUSH-1//clicsbp-wold-WhiteHmong-AMBUSH-1"
     words "n u e ⁴⁴ + tʰ a ¹¹//t o ¹¹ + k e ³⁴ + t w a ³³"
@@ -14760,7 +14748,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1230
+    id 1229
     label "FISHERMAN"
     occurrences "clicsbp-idssegmented-jinshadai-FISHERMAN-1//clicsbp-wold-WhiteHmong-FISHERMAN-1"
     words "h a u ⁴⁴ + ʔ a u ³³ + p a ³³ + n ə ³³ + k o n ⁴⁴//n e ŋ ³¹ + n u ³⁴ + ⁿtʃ e ¹¹"
@@ -14772,7 +14760,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1231
+    id 1230
     label "FISHHOOK"
     occurrences "clicsbp-idssegmented-jinshadai-FISHHOOK-1//clicsbp-wold-WhiteHmong-FISHHOOK-1//clicsbp-wold-WhiteHmong-FISHHOOK-2"
     words "j i ³¹ + k ə u ³³//n u ³⁴//ⁿb e ³⁴"
@@ -14784,7 +14772,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1232
+    id 1231
     label "FISHING LINE"
     occurrences "clicsbp-idssegmented-jinshadai-FISHINGLINE-1//clicsbp-wold-WhiteHmong-FISHINGLINE-1//clicsbp-wold-WhiteHmong-FISHINGLINE-2"
     words "j i ³¹ + s i a n ²⁴//l̥ w a ³³ + n u ³⁴//l̥ w a ³³ + ⁿp e ³⁴"
@@ -14796,7 +14784,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1233
+    id 1232
     label "FISHNET"
     occurrences "clicsbp-idssegmented-jinshadai-FISHNET-1//clicsbp-wold-WhiteHmong-FISHNET-1//clicsbp-wold-WhiteHmong-FISHNET-2"
     words "tʃʰ i e ²⁴//j aɯ ²¹³ + ⁿtʃ e ¹¹//v a ¹¹ + ⁿtʃ e ¹¹"
@@ -14808,7 +14796,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1234
+    id 1233
     label "FISH TRAP"
     occurrences "clicsbp-idssegmented-jinshadai-FISHTRAP-1//clicsbp-wold-WhiteHmong-FISHTRAP-1"
     words "s o ⁴⁴ + s u i ²⁴ + p a ³³//t aɯ ⁵⁵ + tɕ w a ⁵⁵ + ⁿtʃ e ¹¹"
@@ -14820,7 +14808,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1235
+    id 1234
     label "BAIT"
     occurrences "clicsbp-idssegmented-jinshadai-BAIT-1//clicsbp-wold-WhiteHmong-BAIT-1"
     words "l ə u ⁴⁴ + p a ³³//k a ⁵⁵ + n u ³⁴ + ⁿtʃ e ¹¹"
@@ -14832,7 +14820,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1236
+    id 1235
     label "HUNT"
     occurrences "clicsbp-idssegmented-jinshadai-HUNT-1//clicsbp-wold-WhiteHmong-HUNT-1"
     words "p u ³¹ + tʰ ə ³³//p l o ⁵⁵ + h a ³⁴ + ʐ o ŋ ³⁴"
@@ -14844,7 +14832,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1237
+    id 1236
     label "MISS (A TARGET)"
     occurrences "clicsbp-idssegmented-jinshadai-MISSATARGET-1//clicsbp-wold-WhiteHmong-MISSATARGET-1"
     words "p u ³¹ + v u ³¹ + c o ¹¹//ⁿb e ŋ ³¹"
@@ -14856,7 +14844,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1238
+    id 1237
     label "TRAP (PITFALL)"
     occurrences "clicsbp-idssegmented-jinshadai-TRAPPITFALL-1//clicsbp-wold-WhiteHmong-TRAPPITFALL-1"
     words "tʰ a ŋ ²⁴//ⁿts j a ⁵⁵"
@@ -14868,7 +14856,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1239
+    id 1238
     label "TRAP (CATCH)"
     occurrences "clicsbp-idssegmented-jinshadai-TRAPCATCH-1//clicsbp-wold-WhiteHmong-TRAPCATCH-1"
     words "h i t ¹¹ + tʰ a ŋ ²⁴//tɕ w a ⁵⁵"
@@ -14880,7 +14868,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1240
+    id 1239
     label "ADJUDICATE"
     occurrences "clicsbp-idssegmented-jinshadai-ADJUDICATE-1//clicsbp-wold-WhiteHmong-ADJUDICATE-1"
     words "pʰ ɛ ³³//ts j a ³⁴ + ts i ²¹³"
@@ -14892,7 +14880,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1241
+    id 1240
     label "JUDGMENT"
     occurrences "clicsbp-idssegmented-jinshadai-JUDGMENT-1//clicsbp-wold-WhiteHmong-JUDGMENT-1"
     words "s ə n ⁴⁴ + pʰ ɛ ³³//k e ³⁴ + ts j a ³⁴ + ts i ²¹³"
@@ -14904,7 +14892,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1242
+    id 1241
     label "WITNESS"
     occurrences "clicsbp-idssegmented-jinshadai-WITNESS-1//clicsbp-wold-WhiteHmong-WITNESS-1"
     words "c ə n ¹¹ + j ə n ³¹//t u ¹¹ + p o ³⁴ + tʰ aɯ ⁵³"
@@ -14916,7 +14904,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1243
+    id 1242
     label "ACCUSE"
     occurrences "clicsbp-idssegmented-jinshadai-ACCUSE-1//clicsbp-wold-WhiteHmong-ACCUSE-1//clicsbp-wold-WhiteHmong-ACCUSE-2"
     words "kʰ o ŋ ¹¹ + k a u ¹¹//l j a ²¹³//f o ŋ ⁵⁵"
@@ -14928,7 +14916,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1244
+    id 1243
     label "GUILTY"
     occurrences "clicsbp-idssegmented-jinshadai-GUILTY-1//clicsbp-wold-WhiteHmong-GUILTY-1"
     words "ɲ i ŋ ⁴⁴ + c u i ¹¹//tsʰ au ²¹³"
@@ -14940,7 +14928,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1245
+    id 1244
     label "INNOCENT"
     occurrences "clicsbp-idssegmented-jinshadai-INNOCENT-1"
     words "v u ¹¹ + ɲ i ŋ ⁴⁴ + c u i ¹¹"
@@ -14952,7 +14940,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1246
+    id 1245
     label "PUNISHMENT"
     occurrences "clicsbp-idssegmented-jinshadai-PUNISHMENT-1//clicsbp-wold-WhiteHmong-PUNISHMENT-1"
     words "cʰ ə n ⁴⁴ + f a ¹¹//ts i ²¹³"
@@ -14964,7 +14952,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1247
+    id 1246
     label "PRISON"
     occurrences "clicsbp-idssegmented-jinshadai-PRISON-1//clicsbp-wold-WhiteHmong-PRISON-1//clicsbp-wold-WhiteHmong-PRISON-2"
     words "kʰ a ⁴⁴//ⁿk w a ⁵³//qʰ o ³⁴ + t au ⁵⁵"
@@ -14976,7 +14964,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1248
+    id 1247
     label "MURDER"
     occurrences "clicsbp-idssegmented-jinshadai-MURDER-1//clicsbp-wold-WhiteHmong-MURDER-1"
     words "p ə a i ³³ + k o n ⁴⁴//k e ³⁴ + t w a ³³ + n e ŋ ³¹"
@@ -14988,7 +14976,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1249
+    id 1248
     label "ADULTERY"
     occurrences "clicsbp-idssegmented-jinshadai-ADULTERY-1//clicsbp-wold-WhiteHmong-ADULTERY-1"
     words "tʰ o ŋ ³³ + tʃʰ i a n ³³//ʂ i ⁵⁵ + d e ŋ ³⁴"
@@ -15000,7 +14988,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1250
+    id 1249
     label "GOD"
     occurrences "clicsbp-idssegmented-jinshadai-GOD-1"
     words "k o n ⁴⁴ + n ə ²⁴ + f a ⁴³"
@@ -15012,7 +15000,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1251
+    id 1250
     label "PRAY"
     occurrences "clicsbp-idssegmented-jinshadai-PRAY-1//clicsbp-wold-WhiteHmong-PRAY-1"
     words "p o ³¹ + h o ²⁴//tʰ o ³⁴ + v a ⁵³ + tʃ ɯ ³⁴"
@@ -15024,7 +15012,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1252
+    id 1251
     label "PRIEST"
     occurrences "clicsbp-idssegmented-jinshadai-PRIEST-1//clicsbp-wold-WhiteHmong-PRIEST-4//clicsbp-wold-WhiteHmong-PRIEST-1//clicsbp-wold-WhiteHmong-PRIEST-2//clicsbp-wold-WhiteHmong-PRIEST-3"
     words "m u ¹¹ + s ɨ ³³//s i ⁵⁵ + h ɯ ⁵⁵//ts i ³⁴ + n e ŋ ⁵⁵//h au ⁵³ + ʂ a ²¹³//ts i ³⁴ + p l i ³¹"
@@ -15036,7 +15024,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1253
+    id 1252
     label "CURSE"
     occurrences "clicsbp-idssegmented-jinshadai-CURSE-1//clicsbp-wold-WhiteHmong-CURSE-1"
     words "f u a ŋ ³¹ + k o n ⁴⁴//f o ŋ ²¹³ + pʰ e ²¹³"
@@ -15048,7 +15036,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1254
+    id 1253
     label "ABSTAIN FROM FOOD"
     occurrences "clicsbp-idssegmented-jinshadai-ABSTAINFROMFOOD-1//clicsbp-wold-WhiteHmong-ABSTAINFROMFOOD-1"
     words "v u ¹¹ + tʃ i n ³³ + kʰ a u ¹¹//j o ŋ ³³ + m o ³⁴"
@@ -15060,7 +15048,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1255
+    id 1254
     label "HELL"
     occurrences "clicsbp-idssegmented-jinshadai-HELL-1//clicsbp-wold-WhiteHmong-HELL-1"
     words "kʰ a ⁴⁴ + l i n ³³//ⁿt u ⁵³ + t aɯ ³¹ + t e ⁵⁵ + ts j a ¹¹"
@@ -15072,7 +15060,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1256
+    id 1255
     label "DEMON"
     occurrences "clicsbp-idssegmented-jinshadai-DEMON-1//clicsbp-wold-WhiteHmong-DEMON-1"
     words "pʰ i ²⁴//d a ⁵⁵"
@@ -15084,7 +15072,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1257
+    id 1256
     label "MAGIC"
     occurrences "clicsbp-idssegmented-jinshadai-MAGIC-1//clicsbp-wold-WhiteHmong-MAGIC-1"
     words "m o ³¹ + s u ³¹//j e ŋ ¹¹ + ʂ i ³⁴"
@@ -15096,7 +15084,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1258
+    id 1257
     label "MAGICIAN"
     occurrences "clicsbp-idssegmented-jinshadai-MAGICIAN-1//clicsbp-wold-WhiteHmong-MAGICIAN-1"
     words "h i t ¹¹ + m o ²⁴//d a ⁵⁵"
@@ -15108,7 +15096,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1259
+    id 1258
     label "ISLAND"
     occurrences "clicsbp-wold-WhiteHmong-ISLAND-1//clicsbp-wold-WhiteHmong-ISLAND-2"
     words "p o ³⁴ + ts ɯ ³⁴//k o ⁵⁵"
@@ -15120,7 +15108,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1260
+    id 1259
     label "BEVERAGE"
     occurrences "clicsbp-wold-WhiteHmong-BEVERAGE-1"
     words "d e ⁵³"
@@ -15132,7 +15120,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1261
+    id 1260
     label "SEA"
     occurrences "clicsbp-wold-WhiteHmong-SEA-1"
     words "h j a ³⁴ + ts ɯ ³⁴"
@@ -15144,7 +15132,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1262
+    id 1261
     label "WHIRLPOOL"
     occurrences "clicsbp-wold-WhiteHmong-WHIRLPOOL-1"
     words "j i ¹¹ + d e ⁵³"
@@ -15156,7 +15144,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1263
+    id 1262
     label "SWAMP"
     occurrences "clicsbp-wold-WhiteHmong-SWAMP-1"
     words "h a ³⁴ + j a ³⁴"
@@ -15168,7 +15156,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1264
+    id 1263
     label "ICE"
     occurrences "clicsbp-wold-WhiteHmong-ICE-1//clicsbp-wold-WhiteHmong-ICE-2"
     words "d e ⁵³ + kʰ o ³⁴//n a ⁵⁵ + k w a ⁵⁵"
@@ -15180,7 +15168,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1265
+    id 1264
     label "WEATHER"
     occurrences "clicsbp-wold-WhiteHmong-WEATHER-1"
     words "h w a ⁵⁵ + tɕ w a ³³"
@@ -15192,7 +15180,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1266
+    id 1265
     label "DIVORCE"
     occurrences "clicsbp-wold-WhiteHmong-DIVORCE-1"
     words "k e ³⁴ + ʂ i ⁵⁵ + ⁿr au ⁵³"
@@ -15204,7 +15192,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1267
+    id 1266
     label "HE"
     occurrences "clicsbp-wold-WhiteHmong-HE-1"
     words "n ɯ ¹¹"
@@ -15216,7 +15204,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1268
+    id 1267
     label "VULTURE"
     occurrences "clicsbp-wold-WhiteHmong-VULTURE-1"
     words "l i ³⁴ + ɲ u ³¹"
@@ -15228,7 +15216,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1269
+    id 1268
     label "SANDFLY"
     occurrences "clicsbp-wold-WhiteHmong-SANDFLY-1"
     words "j o ŋ ³⁴ + q ai ⁵⁵"
@@ -15240,7 +15228,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1270
+    id 1269
     label "WORM"
     occurrences "clicsbp-wold-WhiteHmong-WORM-1"
     words "tɕ w a ³³ + n a ⁵⁵"
@@ -15252,7 +15240,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1271
+    id 1270
     label "UDDER"
     occurrences "clicsbp-wold-WhiteHmong-UDDER-1"
     words "m i ¹¹"
@@ -15264,7 +15252,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1272
+    id 1271
     label "VAGINA"
     occurrences "clicsbp-wold-WhiteHmong-VAGINA-2//clicsbp-wold-WhiteHmong-VAGINA-1"
     words "tɕʰ aɯ ³³ + m o ¹¹//p i ²¹³"
@@ -15276,7 +15264,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1273
+    id 1272
     label "VULVA"
     occurrences "clicsbp-wold-WhiteHmong-VULVA-2//clicsbp-wold-WhiteHmong-VULVA-1"
     words "tɕʰ aɯ ³³ + m o ¹¹//p au ²¹³"
@@ -15288,7 +15276,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1274
+    id 1273
     label "BREATHE"
     occurrences "clicsbp-wold-WhiteHmong-BREATHE-1"
     words "w a ³³ + p a ³³"
@@ -15300,7 +15288,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1275
+    id 1274
     label "AT"
     occurrences "clicsbp-wold-WhiteHmong-AT-2//clicsbp-wold-WhiteHmong-AT-1"
     words "t o ²¹³//ⁿt aɯ ²¹³"
@@ -15312,7 +15300,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1276
+    id 1275
     label "COPULATE"
     occurrences "clicsbp-wold-WhiteHmong-COPULATE-1//clicsbp-wold-WhiteHmong-COPULATE-2//clicsbp-wold-WhiteHmong-COPULATE-3"
     words "ʂ i ⁵⁵ + tʃ o ŋ ⁵⁵//w a ³³ + n j a ²¹³ + ts i ³⁴//ʂ i ⁵⁵ + w a ³³"
@@ -15324,7 +15312,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1277
+    id 1276
     label "STRONG"
     occurrences "clicsbp-wold-WhiteHmong-STRONG-1"
     words "m w a ⁵³ + ʐ o ³¹"
@@ -15336,7 +15324,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1278
+    id 1277
     label "WIPE"
     occurrences "clicsbp-wold-WhiteHmong-WIPE-1"
     words "ʂ o ³³"
@@ -15348,7 +15336,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1279
+    id 1278
     label "POT"
     occurrences "clicsbp-wold-WhiteHmong-POT-1"
     words "l au ⁵³ + k au ⁵⁵"
@@ -15360,7 +15348,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1280
+    id 1279
     label "NUT"
     occurrences "clicsbp-wold-WhiteHmong-NUT-1"
     words "n o ŋ ⁵⁵ + ts i ³⁴"
@@ -15372,7 +15360,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1281
+    id 1280
     label "RING"
     occurrences "clicsbp-wold-WhiteHmong-RING-1"
     words "ⁿpʰ l ai ⁵⁵"
@@ -15384,7 +15372,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1282
+    id 1281
     label "RAG"
     occurrences "clicsbp-wold-WhiteHmong-RAG-1//clicsbp-wold-WhiteHmong-RAG-2"
     words "kʰ au ⁵⁵ + l̥ a ⁵⁵//pʰ w a ²¹³"
@@ -15396,7 +15384,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1283
+    id 1282
     label "OINTMENT"
     occurrences "clicsbp-wold-WhiteHmong-OINTMENT-1"
     words "tʃʰ w a ⁵³ + p l e ŋ ³⁴"
@@ -15408,7 +15396,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1284
+    id 1283
     label "LAST (ENDURE)"
     occurrences "clicsbp-wold-WhiteHmong-LASTENDURE-1"
     words "ɲ o ⁵⁵"
@@ -15420,7 +15408,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1285
+    id 1284
     label "VINE"
     occurrences "clicsbp-wold-WhiteHmong-VINE-1"
     words "m̥ a ⁵⁵"
@@ -15432,7 +15420,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1286
+    id 1285
     label "PALM TREE"
     occurrences "clicsbp-wold-WhiteHmong-PALMTREE-1//clicsbp-wold-WhiteHmong-PALMTREE-2"
     words "ⁿt o ŋ ³³ + p e ŋ ⁵⁵ + l a ⁵⁵//ⁿt o ŋ ³³ + k u ⁵³ + j e ²¹³"
@@ -15444,7 +15432,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1287
+    id 1286
     label "COCONUT"
     occurrences "clicsbp-wold-WhiteHmong-COCONUT-1"
     words "ts i ³⁴ + m a ⁵³ + pʰ au ⁵⁵"
@@ -15456,7 +15444,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1288
+    id 1287
     label "CITRUS FRUIT"
     occurrences "clicsbp-wold-WhiteHmong-CITRUSFRUIT-1"
     words "ts i ³⁴ + k a ⁵⁵ + ⁿtsʱ ɯ ³⁴"
@@ -15468,7 +15456,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1289
+    id 1288
     label "BANANA"
     occurrences "clicsbp-wold-WhiteHmong-BANANA-1"
     words "ts i ³⁴ + tʃ aɯ ⁵⁵"
@@ -15480,7 +15468,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1290
+    id 1289
     label "MAKE"
     occurrences "clicsbp-wold-WhiteHmong-MAKE-1"
     words "w a ³³"
@@ -15492,7 +15480,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1291
+    id 1290
     label "GLUE"
     occurrences "clicsbp-wold-WhiteHmong-GLUE-1"
     words "j ã ¹¹ + k au ¹¹"
@@ -15504,7 +15492,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1292
+    id 1291
     label "ANVIL"
     occurrences "clicsbp-wold-WhiteHmong-ANVIL-1"
     words "tʰ ai ³⁴"
@@ -15516,7 +15504,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1293
+    id 1292
     label "COPPER"
     occurrences "clicsbp-wold-WhiteHmong-COPPER-1"
     words "t o ŋ ⁵³"
@@ -15528,7 +15516,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1294
+    id 1293
     label "LEAD (CHEMICAL ELEMENT)"
     occurrences "clicsbp-wold-WhiteHmong-LEADCHEMICALELEMENT-1"
     words "tsʰ w a ¹¹"
@@ -15540,7 +15528,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1295
+    id 1294
     label "COLOR"
     occurrences "clicsbp-wold-WhiteHmong-COLOR-1"
     words "s i ²¹³"
@@ -15552,7 +15540,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1296
+    id 1295
     label "DOWN"
     occurrences "clicsbp-wold-WhiteHmong-DOWN-1"
     words "ⁿq i ¹¹"
@@ -15564,7 +15552,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1297
+    id 1296
     label "SEASON"
     occurrences "clicsbp-wold-WhiteHmong-SEASON-1"
     words "tɕ ai ⁵³"
@@ -15576,7 +15564,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1298
+    id 1297
     label "RUDDER"
     occurrences "clicsbp-wold-WhiteHmong-RUDDER-1"
     words "t ɯ ³³ + ⁿk o ⁵³"
@@ -15588,7 +15576,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1299
+    id 1298
     label "KEEP"
     occurrences "clicsbp-wold-WhiteHmong-KEEP-1"
     words "kʰ aɯ ¹¹"
@@ -15600,7 +15588,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1300
+    id 1299
     label "DEBT"
     occurrences "clicsbp-wold-WhiteHmong-DEBT-1"
     words "n u ⁵³ + ⁿq i ³³"
@@ -15612,7 +15600,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1301
+    id 1300
     label "TAX"
     occurrences "clicsbp-wold-WhiteHmong-TAX-1"
     words "ʂ e ³³"
@@ -15624,7 +15612,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1302
+    id 1301
     label "STORE"
     occurrences "clicsbp-wold-WhiteHmong-STORE-1//clicsbp-wold-WhiteHmong-STORE-2"
     words "kʰ ɯ ³³//t a ⁵³ + l a ⁵³"
@@ -15636,7 +15624,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1303
+    id 1302
     label "IN"
     occurrences "clicsbp-wold-WhiteHmong-IN-1"
     words "h au ³⁴"
@@ -15648,7 +15636,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1304
+    id 1303
     label "ABOVE"
     occurrences "clicsbp-wold-WhiteHmong-ABOVE-1"
     words "ʂ au ²¹³"
@@ -15660,7 +15648,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1305
+    id 1304
     label "EAST"
     occurrences "clicsbp-wold-WhiteHmong-EAST-1"
     words "ʂ a ⁵⁵ + n̥ u ⁵⁵ + t w a ⁵³"
@@ -15672,7 +15660,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1306
+    id 1305
     label "WEST"
     occurrences "clicsbp-wold-WhiteHmong-WEST-1"
     words "ʂ a ⁵⁵ + n̥ u ⁵⁵ + p o ŋ ⁵⁵"
@@ -15684,7 +15672,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1307
+    id 1306
     label "NORTH"
     occurrences "clicsbp-wold-WhiteHmong-NORTH-1"
     words "ʂ a ⁵⁵ + q au ²¹³ + t e ⁵⁵"
@@ -15696,7 +15684,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1308
+    id 1307
     label "SOUTH"
     occurrences "clicsbp-wold-WhiteHmong-SOUTH-1"
     words "ʂ a ⁵⁵ + q a ⁵⁵ + t e ⁵⁵"
@@ -15708,7 +15696,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1309
+    id 1308
     label "PROUD"
     occurrences "clicsbp-wold-WhiteHmong-PROUD-1//clicsbp-wold-WhiteHmong-PROUD-2"
     words "l̥ o ⁵⁵//kʰ a ³⁴"
@@ -15720,7 +15708,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1310
+    id 1309
     label "MEASURE"
     occurrences "clicsbp-wold-WhiteHmong-MEASURE-1"
     words "ⁿtʃ w a ¹¹"
@@ -15732,7 +15720,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1311
+    id 1310
     label "FATHOM"
     occurrences "clicsbp-wold-WhiteHmong-FATHOM-1"
     words "d a ⁵³"
@@ -15744,7 +15732,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1312
+    id 1311
     label "ONLY"
     occurrences "clicsbp-wold-WhiteHmong-ONLY-1"
     words "s ɯ ⁵⁵"
@@ -15756,7 +15744,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1313
+    id 1312
     label "SECOND"
     occurrences "clicsbp-wold-WhiteHmong-SECOND-1"
     words "tʰ i ⁵⁵ + o ⁵⁵"
@@ -15768,7 +15756,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1314
+    id 1313
     label "THIRD"
     occurrences "clicsbp-wold-WhiteHmong-THIRD-1"
     words "tʰ i ⁵⁵ + p e ⁵⁵"
@@ -15780,7 +15768,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1315
+    id 1314
     label "BEGIN"
     occurrences "clicsbp-wold-WhiteHmong-BEGIN-1//clicsbp-wold-WhiteHmong-BEGIN-2"
     words "p i ⁵⁵//tɕʰ i ³⁴"
@@ -15792,7 +15780,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1316
+    id 1315
     label "SNIFF"
     occurrences "clicsbp-wold-WhiteHmong-SNIFF-1"
     words "n̥ j ə ³³"
@@ -15804,7 +15792,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1317
+    id 1316
     label "QUIET"
     occurrences "clicsbp-wold-WhiteHmong-QUIET-1//clicsbp-wold-WhiteHmong-QUIET-2"
     words "ⁿtʃ j a ³¹//t ɯ ⁵³ + j ɯ ²¹³"
@@ -15816,7 +15804,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1318
+    id 1317
     label "ENVY"
     occurrences "clicsbp-wold-WhiteHmong-ENVY-1"
     words "s a ²¹³ + kʰ i ⁵⁵"
@@ -15828,7 +15816,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1319
+    id 1318
     label "MISTAKE"
     occurrences "clicsbp-wold-WhiteHmong-MISTAKE-1"
     words "qʰ o ³⁴ + j w a ²¹³ + k e ³⁴"
@@ -15840,7 +15828,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1320
+    id 1319
     label "BLAME"
     occurrences "clicsbp-wold-WhiteHmong-BLAME-1"
     words "l j a ²¹³"
@@ -15852,7 +15840,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1321
+    id 1320
     label "ANNOUNCE"
     occurrences "clicsbp-wold-WhiteHmong-ANNOUNCE-1//clicsbp-wold-WhiteHmong-ANNOUNCE-2"
     words "tʃʰ a ⁵³ + t aɯ ²¹³//ⁿtɕʰ a ³³ + m o ŋ ³³"
@@ -15864,7 +15852,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1322
+    id 1321
     label "BUFFALO"
     occurrences "clicsbp-wold-WhiteHmong-BUFFALO-1"
     words "t ɯ ²¹³"
@@ -15876,7 +15864,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1323
+    id 1322
     label "GUN"
     occurrences "clicsbp-wold-WhiteHmong-GUN-1"
     words "pʰ o ²¹³"
@@ -15888,7 +15876,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1324
+    id 1323
     label "PRISONER"
     occurrences "clicsbp-wold-WhiteHmong-PRISONER-1"
     words "n e ŋ ³¹ + r au ³¹ + tsʰ o ²¹³"
@@ -15900,7 +15888,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1325
+    id 1324
     label "RAPE"
     occurrences "clicsbp-wold-WhiteHmong-RAPE-1//clicsbp-wold-WhiteHmong-RAPE-2"
     words "tsʰ o ²¹³ + tʃ o ŋ ⁵⁵//w a ³³ + d e ³⁴ + w a ³³ + ⁿp w a ³³"
@@ -15912,7 +15900,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1326
+    id 1325
     label "DEITY"
     occurrences "clicsbp-wold-WhiteHmong-DEITY-1//clicsbp-wold-WhiteHmong-DEITY-2"
     words "j aɯ ²¹³ + ʂ au ⁵⁵//v a ⁵³ + tʃ ɯ ³⁴"
@@ -15924,7 +15912,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1327
+    id 1326
     label "TEMPLE"
     occurrences "clicsbp-wold-WhiteHmong-TEMPLE-1"
     words "tʃ e ³⁴ + h au ⁵³ + ʂ a ²¹³"
@@ -15936,7 +15924,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1328
+    id 1327
     label "SACRIFICE"
     occurrences "clicsbp-wold-WhiteHmong-SACRIFICE-1"
     words "f i ⁵³"
@@ -15948,7 +15936,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1329
+    id 1328
     label "WORSHIP"
     occurrences "clicsbp-wold-WhiteHmong-WORSHIP-1"
     words "p e ³³ + h aɯ ²¹³"
@@ -15960,7 +15948,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1330
+    id 1329
     label "HOLY"
     occurrences "clicsbp-wold-WhiteHmong-HOLY-1"
     words "d aɯ ⁵⁵ + h u ³⁴"
@@ -15972,7 +15960,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1331
+    id 1330
     label "PREACH"
     occurrences "clicsbp-wold-WhiteHmong-PREACH-1"
     words "tɕ e ³⁴ + ts o ⁵³ + l u ¹¹"
@@ -15984,7 +15972,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1332
+    id 1331
     label "IDOL"
     occurrences "clicsbp-wold-WhiteHmong-IDOL-1"
     words "m l o ²¹³"
@@ -15996,7 +15984,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1333
+    id 1332
     label "BOTTLE"
     occurrences "clicsbp-wold-WhiteHmong-BOTTLE-1"
     words "h ɯ ⁵³"
@@ -16008,7 +15996,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1334
+    id 1333
     label "SAME"
     occurrences "clicsbp-wold-WhiteHmong-SAME-1//clicsbp-wold-WhiteHmong-SAME-2"
     words "i ⁵⁵ + j a ²¹³//t i ⁵⁵ + j a ²¹³"
@@ -16020,7 +16008,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1335
+    id 1334
     label "THERE"
     occurrences "clicsbp-wold-WhiteHmong-THERE-1"
     words "ⁿt aɯ ¹³"
@@ -16032,7 +16020,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1336
+    id 1335
     label "HERE"
     occurrences "clicsbp-wold-WhiteHmong-HERE-1"
     words "qʰ o ³⁴ + n o ³³"
@@ -16044,7 +16032,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1337
+    id 1336
     label "OTHER"
     occurrences "clicsbp-wold-WhiteHmong-OTHER-1"
     words "l ɯ ²¹³"
@@ -16056,7 +16044,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1338
+    id 1337
     label "SQUIRREL"
     occurrences "clicsbp-wold-WhiteHmong-SQUIRREL-1"
     words "n a ¹¹ + ⁿtɕ w a ³⁴"
@@ -16068,7 +16056,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1339
+    id 1338
     label "DIGGING STICK"
     occurrences "clicsbp-wold-WhiteHmong-DIGGINGSTICK-1"
     words "p a ¹¹ + tɕ o ³¹ + ⁿp l e ⁵³"
@@ -16080,7 +16068,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1340
+    id 1339
     label "TERMITE"
     occurrences "clicsbp-wold-WhiteHmong-TERMITE-1"
     words "ⁿtʃ au ²¹³ + k a ⁵⁵ + r ɯ ³¹"
@@ -16092,7 +16080,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1341
+    id 1340
     label "TICK"
     occurrences "clicsbp-wold-WhiteHmong-TICK-1"
     words "ʐ w a ²¹³"
@@ -16104,7 +16092,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1342
+    id 1341
     label "HAMMOCK"
     occurrences "clicsbp-wold-WhiteHmong-HAMMOCK-1"
     words "ts a ⁵³ + v j a ³⁴ + v j a ¹¹"
@@ -16116,7 +16104,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1343
+    id 1342
     label "MILLET"
     occurrences "clicsbp-wold-WhiteHmong-MILLET-1"
     words "p j a ¹¹"
@@ -16128,7 +16116,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1344
+    id 1343
     label "LIFE"
     occurrences "clicsbp-wold-WhiteHmong-LIFE-1"
     words "ts o ⁵³ + ʂ j ə ³³"
@@ -16140,7 +16128,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1345
+    id 1344
     label "DISEASE"
     occurrences "clicsbp-wold-WhiteHmong-DISEASE-1"
     words "k a ⁵⁵ + m o ⁵⁵"
@@ -16152,7 +16140,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1346
+    id 1345
     label "ALONE"
     occurrences "clicsbp-wold-WhiteHmong-ALONE-1"
     words "i ⁵⁵ + l e ŋ ³¹"
@@ -16164,7 +16152,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1347
+    id 1346
     label "FREEZE"
     occurrences "clicsbp-wold-WhiteHmong-FREEZE-1"
     words "kʰ o ³⁴"
@@ -16229,7 +16217,7 @@ graph [
   ]
   edge [
     source 1
-    target 1060
+    target 1059
     count 1
     words "n̥ u ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -16879,7 +16867,7 @@ graph [
   ]
   edge [
     source 20
-    target 929
+    target 928
     count 1
     words "qʰ o ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -16892,7 +16880,7 @@ graph [
   ]
   edge [
     source 20
-    target 1010
+    target 1009
     count 1
     words "qʰ o ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -16970,7 +16958,7 @@ graph [
   ]
   edge [
     source 21
-    target 1260
+    target 1259
     count 1
     words "d e ⁵³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -17100,7 +17088,7 @@ graph [
   ]
   edge [
     source 24
-    target 970
+    target 969
     count 1
     words "k e ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -17295,7 +17283,7 @@ graph [
   ]
   edge [
     source 27
-    target 1173
+    target 1172
     count 1
     words "t e ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -17412,7 +17400,7 @@ graph [
   ]
   edge [
     source 31
-    target 1260
+    target 1259
     count 1
     words "d e ⁵³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -17581,7 +17569,7 @@ graph [
   ]
   edge [
     source 35
-    target 1302
+    target 1301
     count 2
     words "kʰ ɯ ³³//t a ⁵³ + l a ⁵³"
     varieties "clicsbp-wold-WhiteHmong//clicsbp-wold-WhiteHmong"
@@ -17646,7 +17634,7 @@ graph [
   ]
   edge [
     source 36
-    target 875
+    target 874
     count 1
     words "kʰ o ²⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -17750,7 +17738,7 @@ graph [
   ]
   edge [
     source 38
-    target 872
+    target 871
     count 1
     words "v a ⁵³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -18062,7 +18050,7 @@ graph [
   ]
   edge [
     source 57
-    target 879
+    target 878
     count 1
     words "d a ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -18075,7 +18063,7 @@ graph [
   ]
   edge [
     source 57
-    target 1256
+    target 1255
     count 1
     words "d a ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -18088,7 +18076,7 @@ graph [
   ]
   edge [
     source 57
-    target 1258
+    target 1257
     count 1
     words "d a ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -18959,7 +18947,7 @@ graph [
   ]
   edge [
     source 73
-    target 722
+    target 721
     count 1
     words "p l au ⁵⁵ + m w a ³¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -19050,7 +19038,7 @@ graph [
   ]
   edge [
     source 76
-    target 726
+    target 725
     count 1
     words "qʰ o ³⁴ + ⁿtʃ ɯ ³¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -19193,7 +19181,7 @@ graph [
   ]
   edge [
     source 80
-    target 719
+    target 718
     count 1
     words "p w a ⁵⁵ + tʃ ai ³¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -19258,7 +19246,20 @@ graph [
   ]
   edge [
     source 86
-    target 713
+    target 712
+    count 1
+    words "d w a ³⁴"
+    varieties "clicsbp-wold-WhiteHmong"
+    languages "hmon1333"
+    families "Hmong-Mien"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 86
+    target 974
     count 1
     words "d w a ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -19283,21 +19284,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 86
-    target 976
-    count 1
-    words "d w a ³⁴"
-    varieties "clicsbp-wold-WhiteHmong"
-    languages "hmon1333"
-    families "Hmong-Mien"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
     source 87
-    target 752
+    target 751
     count 1
     words "k u i ¹¹ + tʃʰ i ¹¹"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -19323,7 +19311,7 @@ graph [
   ]
   edge [
     source 88
-    target 901
+    target 900
     count 1
     words "tɕ e ³¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -19401,7 +19389,7 @@ graph [
   ]
   edge [
     source 90
-    target 734
+    target 733
     count 1
     words "t e ¹¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -19453,7 +19441,7 @@ graph [
   ]
   edge [
     source 93
-    target 714
+    target 713
     count 1
     words "t aɯ ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -19466,7 +19454,7 @@ graph [
   ]
   edge [
     source 93
-    target 909
+    target 908
     count 1
     words "t aɯ ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -19505,7 +19493,7 @@ graph [
   ]
   edge [
     source 94
-    target 711
+    target 710
     count 1
     words "l e ŋ ³¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -19544,7 +19532,7 @@ graph [
   ]
   edge [
     source 95
-    target 1124
+    target 1123
     count 1
     words "l̥ ɯ ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -19778,7 +19766,7 @@ graph [
   ]
   edge [
     source 102
-    target 1017
+    target 1016
     count 1
     words "ʂ j a ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -19791,7 +19779,7 @@ graph [
   ]
   edge [
     source 102
-    target 1124
+    target 1123
     count 1
     words "ʂ j a ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -19895,7 +19883,7 @@ graph [
   ]
   edge [
     source 105
-    target 748
+    target 747
     count 1
     words "m i ¹¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -19908,7 +19896,7 @@ graph [
   ]
   edge [
     source 105
-    target 1271
+    target 1270
     count 1
     words "m i ¹¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -20155,7 +20143,7 @@ graph [
   ]
   edge [
     source 118
-    target 935
+    target 934
     count 1
     words "k u ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -20207,7 +20195,7 @@ graph [
   ]
   edge [
     source 120
-    target 677
+    target 676
     count 1
     words "n e ŋ ¹¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -20337,7 +20325,7 @@ graph [
   ]
   edge [
     source 127
-    target 1011
+    target 1010
     count 1
     words "r au ³³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -20571,7 +20559,7 @@ graph [
   ]
   edge [
     source 137
-    target 682
+    target 681
     count 1
     words "d a ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -20701,7 +20689,7 @@ graph [
   ]
   edge [
     source 147
-    target 1028
+    target 1027
     count 1
     words "k a ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -20727,7 +20715,7 @@ graph [
   ]
   edge [
     source 148
-    target 692
+    target 691
     count 1
     words "h a u ²⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -20844,7 +20832,7 @@ graph [
   ]
   edge [
     source 157
-    target 973
+    target 972
     count 1
     words "ⁿk o ⁵³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -21013,7 +21001,7 @@ graph [
   ]
   edge [
     source 164
-    target 903
+    target 902
     count 1
     words "v u a k ⁴⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -21312,7 +21300,7 @@ graph [
   ]
   edge [
     source 179
-    target 912
+    target 911
     count 1
     words "q o ¹¹ + l j a ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -21351,7 +21339,7 @@ graph [
   ]
   edge [
     source 183
-    target 899
+    target 898
     count 1
     words "ɲ i a ¹¹"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -21455,7 +21443,7 @@ graph [
   ]
   edge [
     source 188
-    target 707
+    target 706
     count 2
     words "n ə ⁴³//ⁿq ai ⁵³"
     varieties "clicsbp-idssegmented-jinshadai//clicsbp-wold-WhiteHmong"
@@ -21780,7 +21768,7 @@ graph [
   ]
   edge [
     source 200
-    target 845
+    target 844
     count 1
     words "s ə ¹¹"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -21988,7 +21976,7 @@ graph [
   ]
   edge [
     source 211
-    target 869
+    target 868
     count 1
     words "h ə n ⁴⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -22209,7 +22197,7 @@ graph [
   ]
   edge [
     source 219
-    target 894
+    target 893
     count 1
     words "s i u ⁴⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -22222,7 +22210,7 @@ graph [
   ]
   edge [
     source 219
-    target 941
+    target 940
     count 1
     words "ts au ³¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -22391,7 +22379,7 @@ graph [
   ]
   edge [
     source 224
-    target 889
+    target 888
     count 1
     words "kʰ u e t ¹¹"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -22469,7 +22457,7 @@ graph [
   ]
   edge [
     source 228
-    target 700
+    target 699
     count 1
     words "s u ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -22573,7 +22561,7 @@ graph [
   ]
   edge [
     source 232
-    target 917
+    target 916
     count 1
     words "ɲ i o ⁴⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -22625,7 +22613,7 @@ graph [
   ]
   edge [
     source 235
-    target 1037
+    target 1036
     count 1
     words "t o ³¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -22703,7 +22691,7 @@ graph [
   ]
   edge [
     source 240
-    target 809
+    target 808
     count 2
     words "t a u ³³ + f ə a i ⁴⁴//qʰ o ³⁴ + ts o ¹¹"
     varieties "clicsbp-idssegmented-jinshadai//clicsbp-wold-WhiteHmong"
@@ -22716,7 +22704,7 @@ graph [
   ]
   edge [
     source 240
-    target 876
+    target 875
     count 2
     words "qʰ o ³⁴ + ts o ¹¹//qʰ o ³⁴ + tɕ u ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong//clicsbp-wold-WhiteHmong"
@@ -22768,7 +22756,7 @@ graph [
   ]
   edge [
     source 241
-    target 813
+    target 812
     count 1
     words "v ɛ a n ³³"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -22885,7 +22873,7 @@ graph [
   ]
   edge [
     source 245
-    target 940
+    target 939
     count 1
     words "v i ⁴⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -22937,7 +22925,7 @@ graph [
   ]
   edge [
     source 246
-    target 861
+    target 860
     count 1
     words "k o ŋ ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -23015,7 +23003,7 @@ graph [
   ]
   edge [
     source 251
-    target 938
+    target 937
     count 1
     words "j a ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -23132,7 +23120,7 @@ graph [
   ]
   edge [
     source 256
-    target 830
+    target 829
     count 1
     words "ɲ j a ⁵³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -23223,7 +23211,7 @@ graph [
   ]
   edge [
     source 260
-    target 1167
+    target 1166
     count 1
     words "h i e ³¹ + x ə a n ⁴⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -23236,7 +23224,7 @@ graph [
   ]
   edge [
     source 260
-    target 1168
+    target 1167
     count 1
     words "h i e ³¹ + x ə a n ⁴⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -23509,7 +23497,7 @@ graph [
   ]
   edge [
     source 268
-    target 1335
+    target 1334
     count 1
     words "ⁿt aɯ ¹³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -23639,6 +23627,19 @@ graph [
   ]
   edge [
     source 271
+    target 707
+    count 1
+    words "p l au ⁵⁵"
+    varieties "clicsbp-wold-WhiteHmong"
+    languages "hmon1333"
+    families "Hmong-Mien"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 271
     target 708
     count 1
     words "p l au ⁵⁵"
@@ -23652,7 +23653,7 @@ graph [
   ]
   edge [
     source 271
-    target 709
+    target 746
     count 1
     words "p l au ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -23665,20 +23666,7 @@ graph [
   ]
   edge [
     source 271
-    target 747
-    count 1
-    words "p l au ⁵⁵"
-    varieties "clicsbp-wold-WhiteHmong"
-    languages "hmon1333"
-    families "Hmong-Mien"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 271
-    target 849
+    target 848
     count 1
     words "p l au ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -23795,7 +23783,7 @@ graph [
   ]
   edge [
     source 273
-    target 1011
+    target 1010
     count 1
     words "r au ³³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -23834,7 +23822,7 @@ graph [
   ]
   edge [
     source 277
-    target 1025
+    target 1024
     count 1
     words "k au ²¹³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -23899,7 +23887,7 @@ graph [
   ]
   edge [
     source 289
-    target 927
+    target 926
     count 1
     words "p w a ³³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -23964,7 +23952,7 @@ graph [
   ]
   edge [
     source 295
-    target 1019
+    target 1018
     count 1
     words "h au ³⁴ + q a ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -24003,7 +23991,7 @@ graph [
   ]
   edge [
     source 296
-    target 1303
+    target 1302
     count 1
     words "h au ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -24029,7 +24017,7 @@ graph [
   ]
   edge [
     source 304
-    target 1060
+    target 1059
     count 1
     words "k a ŋ ³³ + v ɛ a n ⁴⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -24380,7 +24368,7 @@ graph [
   ]
   edge [
     source 325
-    target 1017
+    target 1016
     count 2
     words "s u ŋ ²⁴//ʂ j a ⁵⁵"
     varieties "clicsbp-idssegmented-jinshadai//clicsbp-wold-WhiteHmong"
@@ -24393,7 +24381,7 @@ graph [
   ]
   edge [
     source 325
-    target 1124
+    target 1123
     count 1
     words "ʂ j a ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -24497,7 +24485,7 @@ graph [
   ]
   edge [
     source 329
-    target 825
+    target 824
     count 1
     words "l u e t ¹¹"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -24549,7 +24537,7 @@ graph [
   ]
   edge [
     source 332
-    target 682
+    target 681
     count 1
     words "d a ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -24822,7 +24810,7 @@ graph [
   ]
   edge [
     source 341
-    target 1123
+    target 1122
     count 1
     words "ⁿtʃ e ³³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -24848,7 +24836,7 @@ graph [
   ]
   edge [
     source 342
-    target 1123
+    target 1122
     count 1
     words "ⁿtʃ e ³³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -24900,7 +24888,7 @@ graph [
   ]
   edge [
     source 345
-    target 917
+    target 916
     count 2
     words "ɲ i o ⁴⁴//ⁿkʱ au ¹¹"
     varieties "clicsbp-idssegmented-jinshadai//clicsbp-wold-WhiteHmong"
@@ -24991,7 +24979,7 @@ graph [
   ]
   edge [
     source 349
-    target 798
+    target 797
     count 1
     words "l ə ŋ ²⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -25004,7 +24992,7 @@ graph [
   ]
   edge [
     source 349
-    target 1311
+    target 1310
     count 1
     words "d a ⁵³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -25030,7 +25018,7 @@ graph [
   ]
   edge [
     source 350
-    target 1062
+    target 1061
     count 1
     words "s a i ²⁴ + l i a ŋ ⁴⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -25043,7 +25031,7 @@ graph [
   ]
   edge [
     source 350
-    target 1087
+    target 1086
     count 1
     words "k a ⁵³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -25108,7 +25096,7 @@ graph [
   ]
   edge [
     source 351
-    target 799
+    target 798
     count 1
     words "s i u ²⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -25251,7 +25239,7 @@ graph [
   ]
   edge [
     source 356
-    target 804
+    target 803
     count 1
     words "tʃ i u ⁴⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -25329,7 +25317,7 @@ graph [
   ]
   edge [
     source 359
-    target 699
+    target 698
     count 1
     words "l i ³¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -25459,7 +25447,7 @@ graph [
   ]
   edge [
     source 364
-    target 714
+    target 713
     count 1
     words "t aɯ ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -25472,7 +25460,7 @@ graph [
   ]
   edge [
     source 364
-    target 909
+    target 908
     count 1
     words "t aɯ ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -25602,7 +25590,7 @@ graph [
   ]
   edge [
     source 368
-    target 1087
+    target 1086
     count 1
     words "k a ⁵³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -25667,6 +25655,19 @@ graph [
   ]
   edge [
     source 369
+    target 1117
+    count 1
+    words "cʰ ə a i ³¹"
+    varieties "clicsbp-idssegmented-jinshadai"
+    languages "nort1545"
+    families "Hmong-Mien"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 369
     target 1118
     count 1
     words "cʰ ə a i ³¹"
@@ -25680,20 +25681,7 @@ graph [
   ]
   edge [
     source 369
-    target 1119
-    count 1
-    words "cʰ ə a i ³¹"
-    varieties "clicsbp-idssegmented-jinshadai"
-    languages "nort1545"
-    families "Hmong-Mien"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 369
-    target 1152
+    target 1151
     count 1
     words "j o ³¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -25810,7 +25798,7 @@ graph [
   ]
   edge [
     source 370
-    target 1284
+    target 1283
     count 1
     words "ɲ o ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -25823,7 +25811,7 @@ graph [
   ]
   edge [
     source 370
-    target 1152
+    target 1151
     count 1
     words "j o ³¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -25836,7 +25824,7 @@ graph [
   ]
   edge [
     source 371
-    target 1120
+    target 1119
     count 1
     words "tsʰ au ²¹³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -25849,7 +25837,7 @@ graph [
   ]
   edge [
     source 371
-    target 1244
+    target 1243
     count 1
     words "tsʰ au ²¹³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -25901,7 +25889,7 @@ graph [
   ]
   edge [
     source 373
-    target 799
+    target 798
     count 1
     words "ɲ o ŋ ¹¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -25914,7 +25902,7 @@ graph [
   ]
   edge [
     source 374
-    target 798
+    target 797
     count 1
     words "ʂ j a ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -26005,7 +25993,7 @@ graph [
   ]
   edge [
     source 377
-    target 1098
+    target 1097
     count 1
     words "l i ³³"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -26187,7 +26175,7 @@ graph [
   ]
   edge [
     source 382
-    target 935
+    target 934
     count 1
     words "k u ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -26304,7 +26292,7 @@ graph [
   ]
   edge [
     source 386
-    target 1078
+    target 1077
     count 1
     words "m i n ²⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -26564,7 +26552,7 @@ graph [
   ]
   edge [
     source 398
-    target 776
+    target 775
     count 1
     words "tʃ au ³¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -26577,7 +26565,7 @@ graph [
   ]
   edge [
     source 398
-    target 825
+    target 824
     count 1
     words "l i ²¹³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -26655,7 +26643,7 @@ graph [
   ]
   edge [
     source 402
-    target 861
+    target 860
     count 1
     words "s i ŋ ²⁴ + l o ŋ ²⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -26668,7 +26656,7 @@ graph [
   ]
   edge [
     source 402
-    target 862
+    target 861
     count 1
     words "s i ŋ ²⁴ + l o ŋ ²⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -26837,7 +26825,7 @@ graph [
   ]
   edge [
     source 407
-    target 918
+    target 917
     count 1
     words "h ɛ a t ⁴³"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -26889,7 +26877,7 @@ graph [
   ]
   edge [
     source 409
-    target 981
+    target 980
     count 1
     words "p w a ³¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -26993,7 +26981,7 @@ graph [
   ]
   edge [
     source 411
-    target 1116
+    target 1115
     count 1
     words "ⁿts j a ¹¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -27045,7 +27033,7 @@ graph [
   ]
   edge [
     source 413
-    target 1102
+    target 1101
     count 1
     words "m o ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -27305,7 +27293,7 @@ graph [
   ]
   edge [
     source 421
-    target 1290
+    target 1289
     count 1
     words "w a ³³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -27383,7 +27371,7 @@ graph [
   ]
   edge [
     source 422
-    target 679
+    target 678
     count 1
     words "l o ¹¹"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -27396,7 +27384,7 @@ graph [
   ]
   edge [
     source 422
-    target 1037
+    target 1036
     count 1
     words "t o ³¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -27695,7 +27683,7 @@ graph [
   ]
   edge [
     source 430
-    target 1011
+    target 1010
     count 1
     words "r au ³³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -27734,7 +27722,7 @@ graph [
   ]
   edge [
     source 434
-    target 1167
+    target 1166
     count 1
     words "tɕ o ³¹ + l u ¹¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -28228,7 +28216,7 @@ graph [
   ]
   edge [
     source 452
-    target 950
+    target 949
     count 1
     words "p a u ⁴⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -28306,7 +28294,7 @@ graph [
   ]
   edge [
     source 457
-    target 906
+    target 905
     count 1
     words "h au ¹¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -28423,7 +28411,7 @@ graph [
   ]
   edge [
     source 460
-    target 770
+    target 769
     count 2
     words "p a ⁴⁴ + l u ¹¹//s e ŋ ⁵⁵ + t u ⁵⁵"
     varieties "clicsbp-idssegmented-jinshadai//clicsbp-wold-WhiteHmong"
@@ -28488,7 +28476,7 @@ graph [
   ]
   edge [
     source 462
-    target 841
+    target 840
     count 1
     words "m i t ⁴³"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -28527,7 +28515,7 @@ graph [
   ]
   edge [
     source 464
-    target 1299
+    target 1298
     count 1
     words "kʰ aɯ ¹¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -28631,7 +28619,7 @@ graph [
   ]
   edge [
     source 468
-    target 993
+    target 992
     count 1
     words "q i ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -28696,7 +28684,7 @@ graph [
   ]
   edge [
     source 469
-    target 951
+    target 950
     count 1
     words "ⁿk a ³¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -28787,7 +28775,7 @@ graph [
   ]
   edge [
     source 474
-    target 760
+    target 759
     count 1
     words "ts j a ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -28813,7 +28801,7 @@ graph [
   ]
   edge [
     source 475
-    target 932
+    target 931
     count 1
     words "ⁿtʃ j ə ³³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -28865,7 +28853,7 @@ graph [
   ]
   edge [
     source 478
-    target 963
+    target 962
     count 1
     words "ʔ a u ³³"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -28878,7 +28866,7 @@ graph [
   ]
   edge [
     source 478
-    target 964
+    target 963
     count 1
     words "ⁿq a ³³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -29164,7 +29152,7 @@ graph [
   ]
   edge [
     source 488
-    target 1284
+    target 1283
     count 1
     words "ɲ o ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -29203,7 +29191,7 @@ graph [
   ]
   edge [
     source 491
-    target 1153
+    target 1152
     count 1
     words "l o ¹¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -29320,6 +29308,19 @@ graph [
   ]
   edge [
     source 496
+    target 829
+    count 1
+    words "ɲ i a n ⁴⁴"
+    varieties "clicsbp-idssegmented-jinshadai"
+    languages "nort1545"
+    families "Hmong-Mien"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 496
     target 830
     count 1
     words "ɲ i a n ⁴⁴"
@@ -29333,20 +29334,7 @@ graph [
   ]
   edge [
     source 496
-    target 831
-    count 1
-    words "ɲ i a n ⁴⁴"
-    varieties "clicsbp-idssegmented-jinshadai"
-    languages "nort1545"
-    families "Hmong-Mien"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 496
-    target 804
+    target 803
     count 1
     words "ʐ o ²¹³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -29411,7 +29399,7 @@ graph [
   ]
   edge [
     source 502
-    target 920
+    target 919
     count 2
     words "p u ⁴³//ⁿt au ¹¹"
     varieties "clicsbp-idssegmented-jinshadai//clicsbp-wold-WhiteHmong"
@@ -29424,7 +29412,7 @@ graph [
   ]
   edge [
     source 502
-    target 895
+    target 894
     count 1
     words "ⁿt au ¹¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -29476,7 +29464,7 @@ graph [
   ]
   edge [
     source 505
-    target 1297
+    target 1296
     count 1
     words "tɕ ai ⁵³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -29554,7 +29542,7 @@ graph [
   ]
   edge [
     source 508
-    target 926
+    target 925
     count 1
     words "r u ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -29567,7 +29555,7 @@ graph [
   ]
   edge [
     source 509
-    target 820
+    target 819
     count 1
     words "cʰ a ³³"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -29684,7 +29672,7 @@ graph [
   ]
   edge [
     source 522
-    target 1182
+    target 1181
     count 1
     words "ʂ au ³³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -29710,7 +29698,7 @@ graph [
   ]
   edge [
     source 526
-    target 1166
+    target 1165
     count 1
     words "h i e ³¹"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -29723,7 +29711,7 @@ graph [
   ]
   edge [
     source 526
-    target 1167
+    target 1166
     count 1
     words "h i e ³¹ + x ə a n ⁴⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -29736,7 +29724,7 @@ graph [
   ]
   edge [
     source 526
-    target 1168
+    target 1167
     count 1
     words "h i e ³¹ + x ə a n ⁴⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -29814,7 +29802,7 @@ graph [
   ]
   edge [
     source 530
-    target 1089
+    target 1088
     count 1
     words "n̥ o ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -29905,7 +29893,7 @@ graph [
   ]
   edge [
     source 536
-    target 889
+    target 888
     count 1
     words "kʰ u e t ¹¹"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -29931,7 +29919,7 @@ graph [
   ]
   edge [
     source 539
-    target 1089
+    target 1088
     count 1
     words "n̥ o ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -29957,7 +29945,7 @@ graph [
   ]
   edge [
     source 542
-    target 1296
+    target 1295
     count 1
     words "ⁿq i ¹¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -29970,7 +29958,7 @@ graph [
   ]
   edge [
     source 545
-    target 875
+    target 874
     count 1
     words "kʰ o ²⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -30009,7 +29997,7 @@ graph [
   ]
   edge [
     source 549
-    target 760
+    target 759
     count 1
     words "k ə t ³¹"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -30022,7 +30010,7 @@ graph [
   ]
   edge [
     source 549
-    target 1275
+    target 1274
     count 1
     words "t o ²¹³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30061,7 +30049,7 @@ graph [
   ]
   edge [
     source 557
-    target 1128
+    target 1127
     count 1
     words "h u ³¹ + c i a k ¹¹"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -30074,7 +30062,7 @@ graph [
   ]
   edge [
     source 557
-    target 1129
+    target 1128
     count 1
     words "h u ³¹ + c i a k ¹¹"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -30100,7 +30088,7 @@ graph [
   ]
   edge [
     source 561
-    target 1284
+    target 1283
     count 1
     words "ɲ o ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30139,7 +30127,7 @@ graph [
   ]
   edge [
     source 566
-    target 961
+    target 960
     count 1
     words "r aɯ ¹¹ + q a ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30152,7 +30140,7 @@ graph [
   ]
   edge [
     source 575
-    target 1173
+    target 1172
     count 1
     words "t e ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30204,7 +30192,7 @@ graph [
   ]
   edge [
     source 604
-    target 935
+    target 934
     count 1
     words "k u ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30503,7 +30491,7 @@ graph [
   ]
   edge [
     source 655
-    target 1267
+    target 1266
     count 1
     words "n ɯ ¹¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30529,7 +30517,7 @@ graph [
   ]
   edge [
     source 664
-    target 1247
+    target 1246
     count 1
     words "ⁿk w a ⁵³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30567,19 +30555,6 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 667
-    target 674
-    count 1
-    words "tʃʰ i ¹¹"
-    varieties "clicsbp-wold-WhiteHmong"
-    languages "hmon1333"
-    families "Hmong-Mien"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
     source 668
     target 669
     count 1
@@ -30593,8 +30568,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 698
-    target 699
+    source 697
+    target 698
     count 1
     words "l a ¹¹"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -30606,8 +30581,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 705
-    target 706
+    source 704
+    target 705
     count 1
     words "k u i ³³"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -30619,8 +30594,34 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 708
-    target 709
+    source 707
+    target 708
+    count 1
+    words "p l au ⁵⁵"
+    varieties "clicsbp-wold-WhiteHmong"
+    languages "hmon1333"
+    families "Hmong-Mien"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 707
+    target 746
+    count 1
+    words "p l au ⁵⁵"
+    varieties "clicsbp-wold-WhiteHmong"
+    languages "hmon1333"
+    families "Hmong-Mien"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 707
+    target 848
     count 1
     words "p l au ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30633,7 +30634,7 @@ graph [
   ]
   edge [
     source 708
-    target 747
+    target 746
     count 1
     words "p l au ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30646,7 +30647,7 @@ graph [
   ]
   edge [
     source 708
-    target 849
+    target 848
     count 1
     words "p l au ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30658,34 +30659,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 709
-    target 747
-    count 1
-    words "p l au ⁵⁵"
-    varieties "clicsbp-wold-WhiteHmong"
-    languages "hmon1333"
-    families "Hmong-Mien"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 709
-    target 849
-    count 1
-    words "p l au ⁵⁵"
-    varieties "clicsbp-wold-WhiteHmong"
-    languages "hmon1333"
-    families "Hmong-Mien"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 713
-    target 714
+    source 712
+    target 713
     count 1
     words "n a ŋ ²⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -30697,7 +30672,20 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 713
+    source 712
+    target 974
+    count 1
+    words "d w a ³⁴"
+    varieties "clicsbp-wold-WhiteHmong"
+    languages "hmon1333"
+    families "Hmong-Mien"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 712
     target 975
     count 1
     words "d w a ³⁴"
@@ -30711,20 +30699,7 @@ graph [
   ]
   edge [
     source 713
-    target 976
-    count 1
-    words "d w a ³⁴"
-    varieties "clicsbp-wold-WhiteHmong"
-    languages "hmon1333"
-    families "Hmong-Mien"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 714
-    target 909
+    target 908
     count 1
     words "t aɯ ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30736,8 +30711,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 747
-    target 849
+    source 746
+    target 848
     count 1
     words "p l au ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30749,8 +30724,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 748
-    target 1271
+    source 747
+    target 1270
     count 1
     words "m i ¹¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30762,7 +30737,20 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 755
+    source 754
+    target 1271
+    count 1
+    words "tɕʰ aɯ ³³ + m o ¹¹"
+    varieties "clicsbp-wold-WhiteHmong"
+    languages "hmon1333"
+    families "Hmong-Mien"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 754
     target 1272
     count 1
     words "tɕʰ aɯ ³³ + m o ¹¹"
@@ -30775,21 +30763,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 755
-    target 1273
-    count 1
-    words "tɕʰ aɯ ³³ + m o ¹¹"
-    varieties "clicsbp-wold-WhiteHmong"
-    languages "hmon1333"
-    families "Hmong-Mien"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 760
-    target 893
+    source 759
+    target 892
     count 1
     words "p ə t ³³"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -30801,8 +30776,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 783
-    target 784
+    source 782
+    target 783
     count 1
     words "k ə a i ³¹ + l o ŋ ²⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -30814,8 +30789,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 791
-    target 1278
+    source 790
+    target 1277
     count 1
     words "ʂ o ³³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30827,8 +30802,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 793
-    target 957
+    source 792
+    target 956
     count 1
     words "tɕ e ³¹ + t aɯ ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30840,8 +30815,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 807
-    target 808
+    source 806
+    target 807
     count 1
     words "tɕ i ³³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30853,8 +30828,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 809
-    target 876
+    source 808
+    target 875
     count 1
     words "qʰ o ³⁴ + ts o ¹¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30866,8 +30841,21 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 813
-    target 814
+    source 812
+    target 813
+    count 1
+    words "pʰ a ⁵³"
+    varieties "clicsbp-wold-WhiteHmong"
+    languages "hmon1333"
+    families "Hmong-Mien"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 812
+    target 816
     count 1
     words "pʰ a ⁵³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30880,7 +30868,7 @@ graph [
   ]
   edge [
     source 813
-    target 817
+    target 816
     count 1
     words "pʰ a ⁵³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30892,21 +30880,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 814
-    target 817
-    count 1
-    words "pʰ a ⁵³"
-    varieties "clicsbp-wold-WhiteHmong"
-    languages "hmon1333"
-    families "Hmong-Mien"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 818
-    target 819
+    source 817
+    target 818
     count 3
     words "m i t ¹¹//pʰ a ³¹//r j a ²¹³"
     varieties "clicsbp-idssegmented-jinshadai//clicsbp-idssegmented-jinshadai//clicsbp-wold-WhiteHmong"
@@ -30918,8 +30893,8 @@ graph [
     cognate_count 3
   ]
   edge [
-    source 823
-    target 824
+    source 822
+    target 823
     count 1
     words "kʰ a u ¹¹ + j i n ²⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -30931,8 +30906,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 830
-    target 831
+    source 829
+    target 830
     count 1
     words "ɲ i a n ⁴⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -30944,8 +30919,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 831
-    target 1322
+    source 830
+    target 1321
     count 1
     words "t ɯ ²¹³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30957,8 +30932,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 837
-    target 838
+    source 836
+    target 837
     count 2
     words "x ə a i ²⁴//r o ⁵³"
     varieties "clicsbp-idssegmented-jinshadai//clicsbp-wold-WhiteHmong"
@@ -30970,8 +30945,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 861
-    target 862
+    source 860
+    target 861
     count 1
     words "s i ŋ ²⁴ + l o ŋ ²⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -30983,8 +30958,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 878
-    target 1014
+    source 877
+    target 1013
     count 1
     words "t e ŋ ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -30996,8 +30971,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 879
-    target 1256
+    source 878
+    target 1255
     count 1
     words "d a ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31009,8 +30984,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 879
-    target 1258
+    source 878
+    target 1257
     count 1
     words "d a ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31022,8 +30997,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 890
-    target 891
+    source 889
+    target 890
     count 1
     words "tʃ u e ³¹"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -31035,8 +31010,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 895
-    target 896
+    source 894
+    target 895
     count 1
     words "p u ⁴³ + kʰ a u ¹¹"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -31048,8 +31023,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 895
-    target 920
+    source 894
+    target 919
     count 1
     words "ⁿt au ¹¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31061,8 +31036,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 901
-    target 902
+    source 900
+    target 901
     count 1
     words "x u a ³¹ + m a i ⁴³"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -31074,8 +31049,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 920
-    target 981
+    source 919
+    target 980
     count 1
     words "t w a ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31087,8 +31062,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 924
-    target 1059
+    source 923
+    target 1058
     count 1
     words "d w a ³³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31100,8 +31075,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 926
-    target 927
+    source 925
+    target 926
     count 1
     words "l a ¹¹ + s i ⁴⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -31113,8 +31088,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 928
-    target 929
+    source 927
+    target 928
     count 1
     words "n a ³³ + t a ŋ ⁴⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -31126,8 +31101,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 929
-    target 1010
+    source 928
+    target 1009
     count 1
     words "qʰ o ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31139,8 +31114,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 930
-    target 941
+    source 929
+    target 940
     count 1
     words "ts w a ³³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31152,8 +31127,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 942
-    target 943
+    source 941
+    target 942
     count 1
     words "tʃʰ i ¹¹"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -31165,8 +31140,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 942
-    target 1295
+    source 941
+    target 1294
     count 1
     words "s i ²¹³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31178,8 +31153,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 954
-    target 1224
+    source 953
+    target 1223
     count 1
     words "ʂ ɯ ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31191,8 +31166,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 963
-    target 980
+    source 962
+    target 979
     count 1
     words "m w a ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31204,8 +31179,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 975
-    target 976
+    source 974
+    target 975
     count 2
     words "j i a u ³¹ + pʰ i a n ⁴⁴//d w a ³⁴"
     varieties "clicsbp-idssegmented-jinshadai//clicsbp-wold-WhiteHmong"
@@ -31217,8 +31192,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 978
-    target 979
+    source 977
+    target 978
     count 1
     words "m w a ⁵³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31230,8 +31205,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 982
-    target 983
+    source 981
+    target 982
     count 1
     words "x ə n ²⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -31243,8 +31218,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 985
-    target 986
+    source 984
+    target 985
     count 1
     words "p ə i ³³ + l i a ³³"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -31256,8 +31231,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 995
-    target 1000
+    source 994
+    target 999
     count 1
     words "ⁿq i ³³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31269,8 +31244,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1007
-    target 1008
+    source 1006
+    target 1007
     count 1
     words "j u ⁴⁴ + p ə i ³³ + ʔ u e n ³³"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -31282,8 +31257,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1009
-    target 1018
+    source 1008
+    target 1017
     count 1
     words "ʂ au ²¹³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31295,8 +31270,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1009
-    target 1304
+    source 1008
+    target 1303
     count 1
     words "ʂ au ²¹³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31308,8 +31283,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1017
-    target 1124
+    source 1016
+    target 1123
     count 1
     words "ʂ j a ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31321,8 +31296,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1018
-    target 1304
+    source 1017
+    target 1303
     count 1
     words "ʂ au ²¹³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31334,8 +31309,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1020
-    target 1039
+    source 1019
+    target 1038
     count 1
     words "k aɯ ³¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31347,8 +31322,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1023
-    target 1309
+    source 1022
+    target 1308
     count 1
     words "l̥ o ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31360,8 +31335,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1034
-    target 1035
+    source 1033
+    target 1034
     count 1
     words "k ə ³³ + ɲ i a ŋ ⁴⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -31373,10 +31348,36 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1076
-    target 1077
+    source 1075
+    target 1076
     count 1
     words "m ə ŋ ³¹ + m a i ¹¹"
+    varieties "clicsbp-idssegmented-jinshadai"
+    languages "nort1545"
+    families "Hmong-Mien"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 1078
+    target 1079
+    count 1
+    words "ʔ a i ³³"
+    varieties "clicsbp-idssegmented-jinshadai"
+    languages "nort1545"
+    families "Hmong-Mien"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 1078
+    target 1080
+    count 1
+    words "ʔ a i ³³"
     varieties "clicsbp-idssegmented-jinshadai"
     languages "nort1545"
     families "Hmong-Mien"
@@ -31399,34 +31400,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1079
-    target 1081
-    count 1
-    words "ʔ a i ³³"
-    varieties "clicsbp-idssegmented-jinshadai"
-    languages "nort1545"
-    families "Hmong-Mien"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 1080
-    target 1081
-    count 1
-    words "ʔ a i ³³"
-    varieties "clicsbp-idssegmented-jinshadai"
-    languages "nort1545"
-    families "Hmong-Mien"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 1082
-    target 1083
+    source 1081
+    target 1082
     count 2
     words "s i ŋ ²⁴//ʂ w a ⁵⁵"
     varieties "clicsbp-idssegmented-jinshadai//clicsbp-wold-WhiteHmong"
@@ -31438,8 +31413,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 1101
-    target 1316
+    source 1100
+    target 1315
     count 1
     words "n̥ j ə ³³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31451,8 +31426,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1103
-    target 1104
+    source 1102
+    target 1103
     count 1
     words "c i k ¹¹ + c ə a i ³³"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -31464,8 +31439,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1106
-    target 1107
+    source 1105
+    target 1106
     count 1
     words "ⁿr o ³¹ + t u ³³ + ʂ j a ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31477,8 +31452,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1118
-    target 1119
+    source 1117
+    target 1118
     count 1
     words "cʰ ə a i ³¹"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -31490,8 +31465,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1120
-    target 1244
+    source 1119
+    target 1243
     count 1
     words "tsʰ au ²¹³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31503,8 +31478,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1125
-    target 1126
+    source 1124
+    target 1125
     count 1
     words "s a ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31516,8 +31491,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1128
-    target 1129
+    source 1127
+    target 1128
     count 1
     words "h u ³¹ + c i a k ¹¹"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -31529,8 +31504,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1132
-    target 1143
+    source 1131
+    target 1142
     count 1
     words "tʃ ɯ ³⁴ + j i ²¹³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31542,8 +31517,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1138
-    target 1252
+    source 1137
+    target 1251
     count 1
     words "s i ⁵⁵ + h ɯ ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31555,8 +31530,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1154
-    target 1159
+    source 1153
+    target 1158
     count 1
     words "w a ³³ + l i ³³ + tɕ a ¹¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31568,8 +31543,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1155
-    target 1156
+    source 1154
+    target 1155
     count 1
     words "t o ¹¹ + s a u ⁴⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -31581,8 +31556,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1160
-    target 1161
+    source 1159
+    target 1160
     count 1
     words "h u a ŋ ⁴³"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -31594,8 +31569,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1167
-    target 1168
+    source 1166
+    target 1167
     count 1
     words "h i e ³¹ + x ə a n ⁴⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -31607,8 +31582,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1171
-    target 1172
+    source 1170
+    target 1171
     count 1
     words "l u ¹¹"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31620,8 +31595,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1181
-    target 1309
+    source 1180
+    target 1308
     count 1
     words "kʰ a ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31633,8 +31608,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1196
-    target 1197
+    source 1195
+    target 1196
     count 1
     words "c a u ¹¹ + h ə n ⁴⁴"
     varieties "clicsbp-idssegmented-jinshadai"
@@ -31646,8 +31621,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1198
-    target 1199
+    source 1197
+    target 1198
     count 1
     words "qʰ e ³⁴"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31659,8 +31634,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1243
-    target 1320
+    source 1242
+    target 1319
     count 1
     words "l j a ²¹³"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31672,8 +31647,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1256
-    target 1258
+    source 1255
+    target 1257
     count 1
     words "d a ⁵⁵"
     varieties "clicsbp-wold-WhiteHmong"
@@ -31685,8 +31660,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1272
-    target 1273
+    source 1271
+    target 1272
     count 1
     words "tɕʰ aɯ ³³ + m o ¹¹"
     varieties "clicsbp-wold-WhiteHmong"

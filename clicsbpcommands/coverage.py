@@ -29,7 +29,7 @@ def run(args):
 
     wl = Wordlist(
             [Dataset.from_metadata(
-        CLICS.cldf_dir / "cldf-metadata.json")],
+        CLICS.cldf_dir / "Wordlist-metadata.json")],
             ts=clts.bipa)
     args.log.info("loaded wordlist")
     

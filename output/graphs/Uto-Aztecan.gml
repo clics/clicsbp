@@ -11929,18 +11929,6 @@ graph [
   ]
   node [
     id 994
-    label "KID"
-    occurrences "clicsbp-wold-Yaqui-KID-1"
-    words "i l i + tʃ i b a ʔ a t o"
-    varieties "clicsbp-wold-Yaqui"
-    languages "yaqu1251"
-    families "Uto-Aztecan"
-    language_count 1
-    variety_count 1
-    family_count 1
-  ]
-  node [
-    id 995
     label "STALLION"
     occurrences "clicsbp-wold-Yaqui-STALLION-1"
     words "k aː j o j a n"
@@ -11952,7 +11940,7 @@ graph [
     family_count 1
   ]
   node [
-    id 996
+    id 995
     label "MARE"
     occurrences "clicsbp-wold-Yaqui-MARE-1//clicsbp-wold-Yaqui-MARE-2"
     words "j eː w a//k a b a ʔ i + j a m u t"
@@ -11964,7 +11952,7 @@ graph [
     family_count 1
   ]
   node [
-    id 997
+    id 996
     label "FOAL"
     occurrences "clicsbp-wold-Yaqui-FOAL-1"
     words "i l i + k a b a ʔ i"
@@ -11976,7 +11964,7 @@ graph [
     family_count 1
   ]
   node [
-    id 998
+    id 997
     label "MULE"
     occurrences "clicsbp-wold-Yaqui-MULE-1"
     words "m uː r a"
@@ -11988,7 +11976,7 @@ graph [
     family_count 1
   ]
   node [
-    id 999
+    id 998
     label "GOOSE"
     occurrences "clicsbp-wold-Yaqui-GOOSE-1"
     words "k a n s o"
@@ -12000,7 +11988,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1000
+    id 999
     label "PARROT"
     occurrences "clicsbp-wold-Yaqui-PARROT-1"
     words "b a r o"
@@ -12012,7 +12000,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1001
+    id 1000
     label "FIN"
     occurrences "clicsbp-wold-Yaqui-FIN-1"
     words "m a s a m"
@@ -12024,7 +12012,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1002
+    id 1001
     label "STINGRAY"
     occurrences "clicsbp-wold-Yaqui-STINGRAY-1//clicsbp-wold-Yaqui-STINGRAY-2"
     words "r aː j a//j a b a r a i"
@@ -12036,7 +12024,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1003
+    id 1002
     label "WOLF"
     occurrences "clicsbp-wold-Yaqui-WOLF-1"
     words "j u j a + tʃ u ʔ u"
@@ -12048,7 +12036,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1004
+    id 1003
     label "LION"
     occurrences "clicsbp-wold-Yaqui-LION-1"
     words "o u s e i"
@@ -12060,7 +12048,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1005
+    id 1004
     label "JAGUAR"
     occurrences "clicsbp-wold-Yaqui-JAGUAR-1"
     words "o u s e i"
@@ -12072,7 +12060,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1006
+    id 1005
     label "BEAR"
     occurrences "clicsbp-wold-Yaqui-BEAR-1"
     words "oː s o"
@@ -12084,7 +12072,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1007
+    id 1006
     label "MONKEY"
     occurrences "clicsbp-wold-Yaqui-MONKEY-1"
     words "tʃ o l u a"
@@ -12096,7 +12084,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1008
+    id 1007
     label "ELEPHANT"
     occurrences "clicsbp-wold-Yaqui-ELEPHANT-1"
     words "e l e p a n t e"
@@ -12108,7 +12096,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1009
+    id 1008
     label "CAMEL"
     occurrences "clicsbp-wold-Yaqui-CAMEL-1"
     words "k a m e o"
@@ -12120,7 +12108,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1010
+    id 1009
     label "CENTIPEDE"
     occurrences "clicsbp-wold-Yaqui-CENTIPEDE-1"
     words "m a s i w e"
@@ -12132,7 +12120,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1011
+    id 1010
     label "SCORPION"
     occurrences "clicsbp-wold-Yaqui-SCORPION-1"
     words "m aː tʃ i l"
@@ -12144,7 +12132,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1012
+    id 1011
     label "BEESWAX"
     occurrences "clicsbp-wold-Yaqui-BEESWAX-1//clicsbp-wold-Yaqui-BEESWAX-2"
     words "s i t o ʔ o r i//m u m u + j o ʔ a r a"
@@ -12156,7 +12144,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1013
+    id 1012
     label "FIREFLY"
     occurrences "clicsbp-wold-Yaqui-FIREFLY-1"
     words "k uː p i s"
@@ -12168,7 +12156,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1014
+    id 1013
     label "CROCODILE"
     occurrences "clicsbp-wold-Yaqui-CROCODILE-1"
     words "k a m a"
@@ -12180,7 +12168,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1015
+    id 1014
     label "FUR"
     occurrences "clicsbp-wold-Yaqui-FUR-2//clicsbp-wold-Yaqui-FUR-1"
     words "b eː a//j o a w a + b eː a"
@@ -12192,7 +12180,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1016
+    id 1015
     label "PUBIC HAIR"
     occurrences "clicsbp-wold-Yaqui-PUBICHAIR-1"
     words "b o a m"
@@ -12204,7 +12192,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1017
+    id 1016
     label "BLOOD VESSEL"
     occurrences "clicsbp-wold-Yaqui-BLOODVESSEL-1"
     words "o j b o + w iː ʔ i"
@@ -12216,7 +12204,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1018
+    id 1017
     label "HORN (ANATOMY)"
     occurrences "clicsbp-wold-Yaqui-HORNANATOMY-1"
     words "aː w a m"
@@ -12228,7 +12216,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1019
+    id 1018
     label "TEMPLES"
     occurrences "clicsbp-wold-Yaqui-TEMPLES-1"
     words "k o b a n a n aː"
@@ -12240,7 +12228,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1020
+    id 1019
     label "JAW"
     occurrences "clicsbp-wold-Yaqui-JAW-1"
     words "t a b a w a s a ʔ i m"
@@ -12252,7 +12240,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1021
+    id 1020
     label "CHIN"
     occurrences "clicsbp-wold-Yaqui-CHIN-1"
     words "tʃ a o"
@@ -12264,7 +12252,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1022
+    id 1021
     label "EARLOBE"
     occurrences "clicsbp-wold-Yaqui-EARLOBE-1"
     words "n a k a m"
@@ -12276,7 +12264,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1023
+    id 1022
     label "EARWAX"
     occurrences "clicsbp-wold-Yaqui-EARWAX-1"
     words "n a k a + bʷ i t a"
@@ -12288,7 +12276,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1024
+    id 1023
     label "BRASS INSTRUMENT (HORN OR TRUMPET)"
     occurrences "clicsbp-wold-Yaqui-BRASSINSTRUMENTHORNORTRUMPET-1"
     words "k u s i a"
@@ -12300,7 +12288,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1025
+    id 1024
     label "SHOULDERBLADE"
     occurrences "clicsbp-wold-Yaqui-SHOULDERBLADE-1//clicsbp-wold-Yaqui-SHOULDERBLADE-2"
     words "o m oː p l a t o//p a l eː t a m"
@@ -12312,7 +12300,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1026
+    id 1025
     label "COLLARBONE"
     occurrences "clicsbp-wold-Yaqui-COLLARBONE-1"
     words "t a u + o t a"
@@ -12324,7 +12312,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1027
+    id 1026
     label "CLAW"
     occurrences "clicsbp-wold-Yaqui-CLAW-1"
     words "s u t u m"
@@ -12336,7 +12324,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1028
+    id 1027
     label "UDDER"
     occurrences "clicsbp-wold-Yaqui-UDDER-1"
     words "p i p i m"
@@ -12348,7 +12336,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1029
+    id 1028
     label "NIPPLE"
     occurrences "clicsbp-wold-Yaqui-NIPPLE-1"
     words "p i p k o b a"
@@ -12360,7 +12348,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1030
+    id 1029
     label "GHOST"
     occurrences "clicsbp-wold-Yaqui-GHOST-2//clicsbp-wold-Yaqui-GHOST-1//clicsbp-wold-Yaqui-GHOST-3"
     words "j i a p s i//m u k i a//tʃ i tʃ i j a l"
@@ -12372,7 +12360,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1031
+    id 1030
     label "SPLEEN"
     occurrences "clicsbp-wold-Yaqui-SPLEEN-1//clicsbp-wold-Yaqui-SPLEEN-2"
     words "b aː s o//k o jː o i"
@@ -12384,7 +12372,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1032
+    id 1031
     label "HIP"
     occurrences "clicsbp-wold-Yaqui-HIP-1"
     words "w i k o s a"
@@ -12396,7 +12384,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1033
+    id 1032
     label "TESTICLES"
     occurrences "clicsbp-wold-Yaqui-TESTICLES-1//clicsbp-wold-Yaqui-TESTICLES-2"
     words "r o b o n i m//b i tʃ oː m"
@@ -12408,7 +12396,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1034
+    id 1033
     label "PENIS"
     occurrences "clicsbp-wold-Yaqui-PENIS-1//clicsbp-wold-Yaqui-PENIS-2"
     words "j u ʔ i//b i tʃ oː"
@@ -12420,7 +12408,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1035
+    id 1034
     label "FART"
     occurrences "clicsbp-wold-Yaqui-FART-1"
     words "j uː j a m"
@@ -12432,7 +12420,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1036
+    id 1035
     label "COPULATE"
     occurrences "clicsbp-wold-Yaqui-COPULATE-1//clicsbp-wold-Yaqui-COPULATE-2"
     words "n a u + t o ʔ o t e//s o a"
@@ -12444,7 +12432,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1037
+    id 1036
     label "BEGET"
     occurrences "clicsbp-wold-Yaqui-BEGET-1"
     words "t e ʔ o tʃ i a"
@@ -12456,7 +12444,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1038
+    id 1037
     label "CONCEIVE"
     occurrences "clicsbp-wold-Yaqui-CONCEIVE-1"
     words "j e u + n u ʔ u p a"
@@ -12468,7 +12456,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1039
+    id 1038
     label "BE ALIVE"
     occurrences "clicsbp-wold-Yaqui-BEALIVE-1"
     words "j i a p s a"
@@ -12480,7 +12468,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1040
+    id 1039
     label "DIE"
     occurrences "clicsbp-wold-Yaqui-DIE-1"
     words "m uː k e"
@@ -12492,7 +12480,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1041
+    id 1040
     label "STRONG"
     occurrences "clicsbp-wold-Yaqui-STRONG-1"
     words "u t t e ʔ a k"
@@ -12504,7 +12492,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1042
+    id 1041
     label "GOITER"
     occurrences "clicsbp-wold-Yaqui-GOITER-1"
     words "k u t a n a + b a j i l a"
@@ -12516,7 +12504,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1043
+    id 1042
     label "OINTMENT"
     occurrences "clicsbp-wold-Yaqui-OINTMENT-1"
     words "j i t t o a"
@@ -12528,7 +12516,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1044
+    id 1043
     label "MEAL"
     occurrences "clicsbp-wold-Yaqui-MEAL-1"
     words "bʷ a ʔ a m e"
@@ -12540,7 +12528,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1045
+    id 1044
     label "BAIT"
     occurrences "clicsbp-wold-Yaqui-BAIT-1"
     words "bʷ a ʔ a m e"
@@ -12552,7 +12540,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1046
+    id 1045
     label "BE HUNGRY"
     occurrences "clicsbp-wold-Yaqui-BEHUNGRY-1"
     words "t e b a u r e"
@@ -12564,7 +12552,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1047
+    id 1046
     label "OVEN"
     occurrences "clicsbp-wold-Yaqui-OVEN-1"
     words "j oː n a"
@@ -12576,7 +12564,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1048
+    id 1047
     label "STOVE"
     occurrences "clicsbp-wold-Yaqui-STOVE-1"
     words "j oː n a"
@@ -12588,7 +12576,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1049
+    id 1048
     label "FORGE"
     occurrences "clicsbp-wold-Yaqui-FORGE-1"
     words "j oː n a"
@@ -12600,7 +12588,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1050
+    id 1049
     label "KETTLE"
     occurrences "clicsbp-wold-Yaqui-KETTLE-1//clicsbp-wold-Yaqui-KETTLE-2"
     words "s o t o ʔ i//bʷ e ʔ u + s o t o ʔ i"
@@ -12612,7 +12600,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1051
+    id 1050
     label "SPOON"
     occurrences "clicsbp-wold-Yaqui-SPOON-1"
     words "k u tʃ a ʔ a r a"
@@ -12624,7 +12612,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1052
+    id 1051
     label "KNIFE (FOR EATING)"
     occurrences "clicsbp-wold-Yaqui-KNIFEFOREATING-1"
     words "k u tʃ i ʔ i m"
@@ -12636,7 +12624,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1053
+    id 1052
     label "FORK"
     occurrences "clicsbp-wold-Yaqui-FORK-1"
     words "t e n e r o r"
@@ -12648,7 +12636,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1054
+    id 1053
     label "TONGS"
     occurrences "clicsbp-wold-Yaqui-TONGS-1"
     words "t e n a ʔ a s a m"
@@ -12660,7 +12648,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1055
+    id 1054
     label "BREAKFAST"
     occurrences "clicsbp-wold-Yaqui-BREAKFAST-1"
     words "k e t w o + bʷ a ʔ a m e"
@@ -12672,7 +12660,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1056
+    id 1055
     label "BREAD"
     occurrences "clicsbp-wold-Yaqui-BREAD-1"
     words "p aː n i m"
@@ -12684,7 +12672,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1057
+    id 1056
     label "FLOUR"
     occurrences "clicsbp-wold-Yaqui-FLOUR-1"
     words "a i n a m"
@@ -12696,7 +12684,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1058
+    id 1057
     label "MILL"
     occurrences "clicsbp-wold-Yaqui-MILL-1"
     words "m o i n a"
@@ -12708,7 +12696,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1059
+    id 1058
     label "POTATO"
     occurrences "clicsbp-wold-Yaqui-POTATO-1"
     words "p aː p a"
@@ -12720,7 +12708,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1060
+    id 1059
     label "BUNCH"
     occurrences "clicsbp-wold-Yaqui-BUNCH-1//clicsbp-wold-Yaqui-BUNCH-2"
     words "i b a k t i a//bʷ i j r i a"
@@ -12732,7 +12720,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1061
+    id 1060
     label "FIG"
     occurrences "clicsbp-wold-Yaqui-FIG-1"
     words "tʃ uː n a"
@@ -12744,7 +12732,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1062
+    id 1061
     label "GRAPE"
     occurrences "clicsbp-wold-Yaqui-GRAPE-1"
     words "uː b a"
@@ -12756,7 +12744,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1063
+    id 1062
     label "NUT"
     occurrences "clicsbp-wold-Yaqui-NUT-1"
     words "n u e s"
@@ -12768,7 +12756,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1064
+    id 1063
     label "OIL (ORGANIC SUBSTANCE)"
     occurrences "clicsbp-wold-Yaqui-OILORGANICSUBSTANCE-1"
     words "a s e i t e"
@@ -12780,7 +12768,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1065
+    id 1064
     label "PEPPER"
     occurrences "clicsbp-wold-Yaqui-PEPPER-1"
     words "p i m i e n t a m"
@@ -12792,7 +12780,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1066
+    id 1065
     label "SUGAR"
     occurrences "clicsbp-wold-Yaqui-SUGAR-1"
     words "a s u k a"
@@ -12804,7 +12792,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1067
+    id 1066
     label "MILK"
     occurrences "clicsbp-wold-Yaqui-MILK-1"
     words "k a u w a m"
@@ -12816,7 +12804,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1068
+    id 1067
     label "BUTTER"
     occurrences "clicsbp-wold-Yaqui-BUTTER-1"
     words "m a n t e k i a"
@@ -12828,7 +12816,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1069
+    id 1068
     label "WINE"
     occurrences "clicsbp-wold-Yaqui-WINE-1"
     words "b iː n o"
@@ -12840,7 +12828,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1070
+    id 1069
     label "TAILOR"
     occurrences "clicsbp-wold-Yaqui-TAILOR-1"
     words "t a j o ʔ o t a + j o j o a m e"
@@ -12852,7 +12840,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1071
+    id 1070
     label "COTTON"
     occurrences "clicsbp-wold-Yaqui-COTTON-1"
     words "tʃ iː n i m"
@@ -12864,7 +12852,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1072
+    id 1071
     label "SILK"
     occurrences "clicsbp-wold-Yaqui-SILK-1"
     words "s eː d a"
@@ -12876,7 +12864,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1073
+    id 1072
     label "AWL"
     occurrences "clicsbp-wold-Yaqui-AWL-1"
     words "bʷ e ʔ u + j i ʔ i k i a m"
@@ -12888,7 +12876,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1074
+    id 1073
     label "LADDER"
     occurrences "clicsbp-wold-Yaqui-LADDER-1"
     words "e j k a l e a"
@@ -12900,7 +12888,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1075
+    id 1074
     label "SHIRT"
     occurrences "clicsbp-wold-Yaqui-SHIRT-1"
     words "s u p e m"
@@ -12912,7 +12900,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1076
+    id 1075
     label "TROUSERS"
     occurrences "clicsbp-wold-Yaqui-TROUSERS-1//clicsbp-wold-Yaqui-TROUSERS-2"
     words "s aː w e a m//p a n t a r oː n i m"
@@ -12924,7 +12912,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1077
+    id 1076
     label "STOCKING"
     occurrences "clicsbp-wold-Yaqui-STOCKING-1//clicsbp-wold-Yaqui-STOCKING-2//clicsbp-wold-Yaqui-STOCKING-3"
     words "w o k b oː s a m//m e r i a m//k a l s e t iː n i m"
@@ -12936,7 +12924,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1078
+    id 1077
     label "BOOT"
     occurrences "clicsbp-wold-Yaqui-BOOT-1"
     words "b oː t a m"
@@ -12948,7 +12936,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1079
+    id 1078
     label "POCKET"
     occurrences "clicsbp-wold-Yaqui-POCKET-1//clicsbp-wold-Yaqui-POCKET-2"
     words "b o l s i o m//b oː s a m"
@@ -12960,7 +12948,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1080
+    id 1079
     label "BUTTON"
     occurrences "clicsbp-wold-Yaqui-BUTTON-1"
     words "b oː t o n"
@@ -12972,7 +12960,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1081
+    id 1080
     label "PIN"
     occurrences "clicsbp-wold-Yaqui-PIN-1"
     words "a l p i l e r"
@@ -12984,7 +12972,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1082
+    id 1081
     label "ORNAMENT"
     occurrences "clicsbp-wold-Yaqui-ORNAMENT-1"
     words "a r o r n o"
@@ -12996,7 +12984,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1083
+    id 1082
     label "BRACELET"
     occurrences "clicsbp-wold-Yaqui-BRACELET-1"
     words "p u l s eː r a"
@@ -13008,7 +12996,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1084
+    id 1083
     label "HEADBAND OR HEADDRESS"
     occurrences "clicsbp-wold-Yaqui-HEADBANDORHEADDRESS-1"
     words "t o k i l a"
@@ -13020,7 +13008,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1085
+    id 1084
     label "RAG"
     occurrences "clicsbp-wold-Yaqui-RAG-1//clicsbp-wold-Yaqui-RAG-2"
     words "p aː j u m//t a j o ʔ o r i m"
@@ -13032,7 +13020,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1086
+    id 1085
     label "TOWEL"
     occurrences "clicsbp-wold-Yaqui-TOWEL-1"
     words "t o a j a m"
@@ -13044,7 +13032,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1087
+    id 1086
     label "RAZOR"
     occurrences "clicsbp-wold-Yaqui-RAZOR-1"
     words "r a j t i o m"
@@ -13056,7 +13044,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1088
+    id 1087
     label "RAKE"
     occurrences "clicsbp-wold-Yaqui-RAKE-1"
     words "r a j t i o m"
@@ -13068,7 +13056,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1089
+    id 1088
     label "THATCH"
     occurrences "clicsbp-wold-Yaqui-THATCH-1"
     words "r a m aː"
@@ -13080,7 +13068,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1090
+    id 1089
     label "TENT"
     occurrences "clicsbp-wold-Yaqui-TENT-1"
     words "b e p a ʔ a r i a"
@@ -13092,7 +13080,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1091
+    id 1090
     label "COOKHOUSE"
     occurrences "clicsbp-wold-Yaqui-COOKHOUSE-1"
     words "k o s i n a"
@@ -13104,7 +13092,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1092
+    id 1091
     label "ROOM"
     occurrences "clicsbp-wold-Yaqui-ROOM-1"
     words "k o a t o"
@@ -13116,7 +13104,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1093
+    id 1092
     label "LOCK"
     occurrences "clicsbp-wold-Yaqui-LOCK-1"
     words "k a n r a o m"
@@ -13128,7 +13116,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1094
+    id 1093
     label "KEY"
     occurrences "clicsbp-wold-Yaqui-KEY-1"
     words "j aː b e m"
@@ -13140,7 +13128,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1095
+    id 1094
     label "WINDOW"
     occurrences "clicsbp-wold-Yaqui-WINDOW-1"
     words "b e n t aː n a"
@@ -13152,7 +13140,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1096
+    id 1095
     label "CHIMNEY"
     occurrences "clicsbp-wold-Yaqui-CHIMNEY-1//clicsbp-wold-Yaqui-CHIMNEY-2"
     words "tʃ i m e n e a//j i bʷ i t w o j o ʔ o r i a"
@@ -13164,7 +13152,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1097
+    id 1096
     label "SHELF"
     occurrences "clicsbp-wold-Yaqui-SHELF-1"
     words "r e p iː s a"
@@ -13176,7 +13164,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1098
+    id 1097
     label "RAFTER"
     occurrences "clicsbp-wold-Yaqui-RAFTER-1"
     words "b iː k a"
@@ -13188,7 +13176,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1099
+    id 1098
     label "BEAM"
     occurrences "clicsbp-wold-Yaqui-BEAM-1"
     words "b iː k a"
@@ -13200,7 +13188,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1100
+    id 1099
     label "FARMER"
     occurrences "clicsbp-wold-Yaqui-FARMER-1"
     words "r a n tʃ e o"
@@ -13212,7 +13200,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1101
+    id 1100
     label "GARDEN"
     occurrences "clicsbp-wold-Yaqui-GARDEN-1"
     words "e tʃ i m u"
@@ -13224,7 +13212,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1102
+    id 1101
     label "SOW SEEDS"
     occurrences "clicsbp-wold-Yaqui-SOWSEEDS-1"
     words "eː tʃ a"
@@ -13236,7 +13224,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1103
+    id 1102
     label "FENCE"
     occurrences "clicsbp-wold-Yaqui-FENCE-1"
     words "k o r a"
@@ -13248,7 +13236,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1104
+    id 1103
     label "SPADE"
     occurrences "clicsbp-wold-Yaqui-SPADE-1"
     words "w o j o ʔ o r i a"
@@ -13260,7 +13248,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1105
+    id 1104
     label "SHOVEL"
     occurrences "clicsbp-wold-Yaqui-SHOVEL-1"
     words "p aː l a m"
@@ -13272,7 +13260,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1106
+    id 1105
     label "GRAIN"
     occurrences "clicsbp-wold-Yaqui-GRAIN-1"
     words "b a tʃ i a"
@@ -13284,7 +13272,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1107
+    id 1106
     label "MOW"
     occurrences "clicsbp-wold-Yaqui-MOW-1"
     words "j i p e s u m a"
@@ -13296,7 +13284,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1108
+    id 1107
     label "THRESH"
     occurrences "clicsbp-wold-Yaqui-THRESH-1"
     words "j i tʃ i w e"
@@ -13308,7 +13296,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1109
+    id 1108
     label "BARLEY"
     occurrences "clicsbp-wold-Yaqui-BARLEY-1"
     words "s e b aː r a"
@@ -13320,7 +13308,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1110
+    id 1109
     label "RICE"
     occurrences "clicsbp-wold-Yaqui-RICE-1"
     words "a r o s i m"
@@ -13332,7 +13320,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1111
+    id 1110
     label "TREE STUMP"
     occurrences "clicsbp-wold-Yaqui-TREESTUMP-1"
     words "n aː w a"
@@ -13344,7 +13332,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1112
+    id 1111
     label "PINE"
     occurrences "clicsbp-wold-Yaqui-PINE-1//clicsbp-wold-Yaqui-PINE-2"
     words "o k o//p iː n o"
@@ -13356,7 +13344,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1113
+    id 1112
     label "VINE"
     occurrences "clicsbp-wold-Yaqui-VINE-1"
     words "w i r o a"
@@ -13368,7 +13356,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1114
+    id 1113
     label "FORKED BRANCH"
     occurrences "clicsbp-wold-Yaqui-FORKEDBRANCH-1//clicsbp-wold-Yaqui-FORKEDBRANCH-2"
     words "n a s s a ʔ a k a r i a//t a k a ʔ a r i a"
@@ -13380,7 +13368,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1115
+    id 1114
     label "COCONUT"
     occurrences "clicsbp-wold-Yaqui-COCONUT-1"
     words "k oː k o"
@@ -13392,7 +13380,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1116
+    id 1115
     label "CITRUS FRUIT"
     occurrences "clicsbp-wold-Yaqui-CITRUSFRUIT-1"
     words "s i t t r i k o"
@@ -13404,7 +13392,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1117
+    id 1116
     label "BANANA"
     occurrences "clicsbp-wold-Yaqui-BANANA-1"
     words "l aː t a n o"
@@ -13416,7 +13404,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1118
+    id 1117
     label "NETTLE"
     occurrences "clicsbp-wold-Yaqui-NETTLE-1"
     words "w i tʃ a"
@@ -13428,7 +13416,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1119
+    id 1118
     label "DO"
     occurrences "clicsbp-wold-Yaqui-DO-1"
     words "j oː a"
@@ -13440,7 +13428,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1120
+    id 1119
     label "MOLD"
     occurrences "clicsbp-wold-Yaqui-MOLD-1"
     words "j oː a"
@@ -13452,7 +13440,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1121
+    id 1120
     label "MAKE"
     occurrences "clicsbp-wold-Yaqui-MAKE-1//clicsbp-wold-Yaqui-MAKE-2"
     words "j oː a//j aː"
@@ -13464,7 +13452,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1122
+    id 1121
     label "CHAIN"
     occurrences "clicsbp-wold-Yaqui-CHAIN-1"
     words "k a r e n a m"
@@ -13476,7 +13464,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1123
+    id 1122
     label "AXE"
     occurrences "clicsbp-wold-Yaqui-AXE-1"
     words "t e p u a m"
@@ -13488,7 +13476,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1124
+    id 1123
     label "PULL OFF (SKIN)"
     occurrences "clicsbp-wold-Yaqui-PULLOFFSKIN-1"
     words "b e a j e tʃ a"
@@ -13500,7 +13488,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1125
+    id 1124
     label "PRESS"
     occurrences "clicsbp-wold-Yaqui-PRESS-1"
     words "k u t t a"
@@ -13512,7 +13500,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1126
+    id 1125
     label "TOOL"
     occurrences "clicsbp-wold-Yaqui-TOOL-1//clicsbp-wold-Yaqui-TOOL-2"
     words "e r a m i e n t a//s i s i ʔ i w oː tʃ i"
@@ -13524,7 +13512,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1127
+    id 1126
     label "HOLLOW OUT"
     occurrences "clicsbp-wold-Yaqui-HOLLOWOUT-1"
     words "bʷ e k aː t e"
@@ -13536,7 +13524,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1128
+    id 1127
     label "HAMMER"
     occurrences "clicsbp-wold-Yaqui-HAMMER-1"
     words "m a r t i o m"
@@ -13548,7 +13536,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1129
+    id 1128
     label "BLACKSMITH"
     occurrences "clicsbp-wold-Yaqui-BLACKSMITH-1"
     words "e r e o"
@@ -13560,7 +13548,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1130
+    id 1129
     label "GOLD"
     occurrences "clicsbp-wold-Yaqui-GOLD-1"
     words "oː r o"
@@ -13572,7 +13560,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1131
+    id 1130
     label "SILVER"
     occurrences "clicsbp-wold-Yaqui-SILVER-1"
     words "l aː t a"
@@ -13584,7 +13572,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1132
+    id 1131
     label "COPPER"
     occurrences "clicsbp-wold-Yaqui-COPPER-1//clicsbp-wold-Yaqui-COPPER-2"
     words "k o p p r e//r o n s e"
@@ -13596,7 +13584,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1133
+    id 1132
     label "LEAD (CHEMICAL ELEMENT)"
     occurrences "clicsbp-wold-Yaqui-LEADCHEMICALELEMENT-1"
     words "p l oː m o"
@@ -13608,7 +13596,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1134
+    id 1133
     label "CLAY"
     occurrences "clicsbp-wold-Yaqui-CLAY-1"
     words "b aː b u"
@@ -13620,7 +13608,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1135
+    id 1134
     label "CARVE"
     occurrences "clicsbp-wold-Yaqui-CARVE-1"
     words "e j k u l p i a r o a"
@@ -13632,7 +13620,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1136
+    id 1135
     label "CHISEL"
     occurrences "clicsbp-wold-Yaqui-CHISEL-1"
     words "p o n tʃ u m u ʔ u r i a"
@@ -13644,7 +13632,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1137
+    id 1136
     label "APPROACH"
     occurrences "clicsbp-wold-Yaqui-APPROACH-2//clicsbp-wold-Yaqui-APPROACH-1"
     words "r u k t a//r u k t e"
@@ -13656,7 +13644,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1138
+    id 1137
     label "DROP (SOMETHING)"
     occurrences "clicsbp-wold-Yaqui-DROPSOMETHING-1"
     words "k o m + t a t a b e"
@@ -13668,7 +13656,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1139
+    id 1138
     label "CATCH"
     occurrences "clicsbp-wold-Yaqui-CATCH-1"
     words "bʷ i s e"
@@ -13680,7 +13668,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1140
+    id 1139
     label "TOUCH"
     occurrences "clicsbp-wold-Yaqui-TOUCH-1"
     words "bʷ i s e"
@@ -13692,7 +13680,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1141
+    id 1140
     label "TRAP (CATCH)"
     occurrences "clicsbp-wold-Yaqui-TRAPCATCH-1"
     words "bʷ i s e"
@@ -13704,7 +13692,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1142
+    id 1141
     label "DIVE"
     occurrences "clicsbp-wold-Yaqui-DIVE-1"
     words "r o p t e"
@@ -13716,7 +13704,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1143
+    id 1142
     label "CROUCH"
     occurrences "clicsbp-wold-Yaqui-CROUCH-1"
     words "p o ʔ o k t e"
@@ -13728,7 +13716,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1144
+    id 1143
     label "LIMP"
     occurrences "clicsbp-wold-Yaqui-LIMP-1"
     words "r o ʔ i t e"
@@ -13740,7 +13728,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1145
+    id 1144
     label "DISAPPEAR"
     occurrences "clicsbp-wold-Yaqui-DISAPPEAR-1"
     words "l u ʔ u t e"
@@ -13752,7 +13740,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1146
+    id 1145
     label "CARRY ON SHOULDER"
     occurrences "clicsbp-wold-Yaqui-CARRYONSHOULDER-1"
     words "p u ʔ a k t e"
@@ -13764,7 +13752,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1147
+    id 1146
     label "CARRY ON HEAD"
     occurrences "clicsbp-wold-Yaqui-CARRYONHEAD-1"
     words "m o b e ʔ e t e"
@@ -13776,7 +13764,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1148
+    id 1147
     label "CARRY UNDER ARM"
     occurrences "clicsbp-wold-Yaqui-CARRYUNDERARM-1"
     words "s e k a w aː s i m e"
@@ -13788,7 +13776,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1149
+    id 1148
     label "RIDE"
     occurrences "clicsbp-wold-Yaqui-RIDE-1//clicsbp-wold-Yaqui-RIDE-2"
     words "k a b a ʔ i t e//tʃ oː p o"
@@ -13800,7 +13788,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1150
+    id 1149
     label "PUSH"
     occurrences "clicsbp-wold-Yaqui-PUSH-1"
     words "j u ʔ a"
@@ -13812,7 +13800,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1151
+    id 1150
     label "BRIDGE"
     occurrences "clicsbp-wold-Yaqui-BRIDGE-1"
     words "p u e n t e s"
@@ -13824,7 +13812,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1152
+    id 1151
     label "YOKE"
     occurrences "clicsbp-wold-Yaqui-YOKE-1"
     words "t e n k o ʔ o r i a"
@@ -13836,7 +13824,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1153
+    id 1152
     label "SHIP"
     occurrences "clicsbp-wold-Yaqui-SHIP-1//clicsbp-wold-Yaqui-SHIP-2"
     words "b a j u t//b a r k o"
@@ -13848,7 +13836,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1154
+    id 1153
     label "BOAT"
     occurrences "clicsbp-wold-Yaqui-BOAT-1//clicsbp-wold-Yaqui-BOAT-2"
     words "b a j u t//b oː t e"
@@ -13860,7 +13848,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1155
+    id 1154
     label "RAFT"
     occurrences "clicsbp-wold-Yaqui-RAFT-1"
     words "b a j u t"
@@ -13872,7 +13860,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1156
+    id 1155
     label "OAR"
     occurrences "clicsbp-wold-Yaqui-OAR-1"
     words "r eː m o m"
@@ -13884,7 +13872,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1157
+    id 1156
     label "PADDLE"
     occurrences "clicsbp-wold-Yaqui-PADDLE-1"
     words "i l i t tʃ i + r eː m o m"
@@ -13896,7 +13884,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1158
+    id 1157
     label "ROW"
     occurrences "clicsbp-wold-Yaqui-ROW-1"
     words "r e m a r o a"
@@ -13908,7 +13896,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1159
+    id 1158
     label "RUDDER"
     occurrences "clicsbp-wold-Yaqui-RUDDER-1"
     words "t iː m o n"
@@ -13920,7 +13908,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1160
+    id 1159
     label "PORT"
     occurrences "clicsbp-wold-Yaqui-PORT-1"
     words "p u e t o"
@@ -13932,7 +13920,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1161
+    id 1160
     label "LAND (DESCEND)"
     occurrences "clicsbp-wold-Yaqui-LANDDESCEND-1"
     words "r e s e m b a r k a r o a"
@@ -13944,7 +13932,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1162
+    id 1161
     label "GET"
     occurrences "clicsbp-wold-Yaqui-GET-1"
     words "n u ʔ u k a"
@@ -13956,7 +13944,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1163
+    id 1162
     label "GIVE BACK"
     occurrences "clicsbp-wold-Yaqui-GIVEBACK-1"
     words "n o t t a"
@@ -13968,7 +13956,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1164
+    id 1163
     label "CALL BY NAME"
     occurrences "clicsbp-wold-Yaqui-CALLBYNAME-1"
     words "t e a"
@@ -13980,7 +13968,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1165
+    id 1164
     label "LET GO OR SET FREE"
     occurrences "clicsbp-wold-Yaqui-LETGOORSETFREE-1"
     words "s u ʔ u t o j a"
@@ -13992,7 +13980,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1166
+    id 1165
     label "COIN"
     occurrences "clicsbp-wold-Yaqui-COIN-1"
     words "t o m i"
@@ -14004,7 +13992,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1167
+    id 1166
     label "LEND"
     occurrences "clicsbp-wold-Yaqui-LEND-1"
     words "r e u w a"
@@ -14016,7 +14004,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1168
+    id 1167
     label "BILL"
     occurrences "clicsbp-wold-Yaqui-BILL-1"
     words "k u eː n t a"
@@ -14028,7 +14016,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1169
+    id 1168
     label "TAX"
     occurrences "clicsbp-wold-Yaqui-TAX-1"
     words "i m p u e j t o m"
@@ -14040,7 +14028,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1170
+    id 1169
     label "WAGES"
     occurrences "clicsbp-wold-Yaqui-WAGES-1"
     words "t o m i j o ʔ o r i"
@@ -14052,7 +14040,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1171
+    id 1170
     label "EARN"
     occurrences "clicsbp-wold-Yaqui-EARN-1"
     words "j o ʔ o"
@@ -14064,7 +14052,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1172
+    id 1171
     label "VICTORY"
     occurrences "clicsbp-wold-Yaqui-VICTORY-1"
     words "j o ʔ o"
@@ -14076,7 +14064,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1173
+    id 1172
     label "TRADE OR BARTER"
     occurrences "clicsbp-wold-Yaqui-TRADEORBARTER-1"
     words "n a k u l i a"
@@ -14088,7 +14076,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1174
+    id 1173
     label "MERCHANT"
     occurrences "clicsbp-wold-Yaqui-MERCHANT-1"
     words "j i t a + n e n e n k a m e"
@@ -14100,7 +14088,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1175
+    id 1174
     label "MARKET"
     occurrences "clicsbp-wold-Yaqui-MARKET-1//clicsbp-wold-Yaqui-MARKET-2"
     words "j i t a + n e n e n k i w a ʔ a p o//m e r k a o"
@@ -14112,7 +14100,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1176
+    id 1175
     label "STORE"
     occurrences "clicsbp-wold-Yaqui-STORE-1"
     words "t i e n r a"
@@ -14124,7 +14112,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1177
+    id 1176
     label "WEIGH"
     occurrences "clicsbp-wold-Yaqui-WEIGH-1"
     words "p e s a r o a"
@@ -14136,7 +14124,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1178
+    id 1177
     label "AFTER"
     occurrences "clicsbp-wold-Yaqui-AFTER-1"
     words "tʃ u k u l a"
@@ -14148,7 +14136,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1179
+    id 1178
     label "DOWN"
     occurrences "clicsbp-wold-Yaqui-DOWN-1"
     words "b e t u k u"
@@ -14160,7 +14148,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1180
+    id 1179
     label "CEASE"
     occurrences "clicsbp-wold-Yaqui-CEASE-1//clicsbp-wold-Yaqui-CEASE-2"
     words "k i k t e//j a p t e"
@@ -14172,7 +14160,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1181
+    id 1180
     label "PICK UP"
     occurrences "clicsbp-wold-Yaqui-PICKUP-1"
     words "n a u t o j a"
@@ -14184,7 +14172,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1182
+    id 1181
     label "LOW"
     occurrences "clicsbp-wold-Yaqui-LOW-1"
     words "k o ʔ o m e ʔ e l a"
@@ -14196,7 +14184,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1183
+    id 1182
     label "BOTTOM"
     occurrences "clicsbp-wold-Yaqui-BOTTOM-1"
     words "k o m r i a"
@@ -14208,7 +14196,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1184
+    id 1183
     label "END (OF TIME)"
     occurrences "clicsbp-wold-Yaqui-ENDOFTIME-1"
     words "l u ʔ u t e k"
@@ -14220,7 +14208,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1185
+    id 1184
     label "MIDDLE"
     occurrences "clicsbp-wold-Yaqui-MIDDLE-1//clicsbp-wold-Yaqui-MIDDLE-2"
     words "n a s u k r i a//s e n t r o"
@@ -14232,7 +14220,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1186
+    id 1185
     label "FATHOM"
     occurrences "clicsbp-wold-Yaqui-FATHOM-1"
     words "m a m b e b e m e ʔ e k u"
@@ -14244,7 +14232,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1187
+    id 1186
     label "SHALLOW"
     occurrences "clicsbp-wold-Yaqui-SHALLOW-1"
     words "k aː + t u a + m e k k a + k o ʔ o m i"
@@ -14256,7 +14244,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1188
+    id 1187
     label "FLAT"
     occurrences "clicsbp-wold-Yaqui-FLAT-1"
     words "tʃ i t a b e t a l a i"
@@ -14268,7 +14256,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1189
+    id 1188
     label "HOOK"
     occurrences "clicsbp-wold-Yaqui-HOOK-1"
     words "k a n tʃ o"
@@ -14280,7 +14268,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1190
+    id 1189
     label "CORNER"
     occurrences "clicsbp-wold-Yaqui-CORNER-1//clicsbp-wold-Yaqui-CORNER-2"
     words "k o b i ʔ i r i a//e j k iː n a"
@@ -14292,7 +14280,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1191
+    id 1190
     label "CROSS"
     occurrences "clicsbp-wold-Yaqui-CROSS-1"
     words "k uː s"
@@ -14304,7 +14292,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1192
+    id 1191
     label "SQUARE"
     occurrences "clicsbp-wold-Yaqui-SQUARE-1"
     words "k o a r a o"
@@ -14316,7 +14304,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1193
+    id 1192
     label "CIRCLE"
     occurrences "clicsbp-wold-Yaqui-CIRCLE-1"
     words "k o ʔ e l a i"
@@ -14328,7 +14316,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1194
+    id 1193
     label "SAME"
     occurrences "clicsbp-wold-Yaqui-SAME-1"
     words "n a n a ʔ a n a"
@@ -14340,7 +14328,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1195
+    id 1194
     label "PAIR"
     occurrences "clicsbp-wold-Yaqui-PAIR-1"
     words "w o i"
@@ -14352,7 +14340,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1196
+    id 1195
     label "CROWD"
     occurrences "clicsbp-wold-Yaqui-CROWD-1"
     words "b u ʔ u r a"
@@ -14364,7 +14352,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1197
+    id 1196
     label "SECOND"
     occurrences "clicsbp-wold-Yaqui-SECOND-1"
     words "w o i r i a"
@@ -14376,7 +14364,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1198
+    id 1197
     label "THIRD"
     occurrences "clicsbp-wold-Yaqui-THIRD-1"
     words "b a j i r i a"
@@ -14388,7 +14376,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1199
+    id 1198
     label "YOUNG"
     occurrences "clicsbp-wold-Yaqui-YOUNG-1"
     words "uː s i + j u ʔ u bʷ a + j o ʔ o t u m e"
@@ -14400,7 +14388,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1200
+    id 1199
     label "IMMEDIATELY"
     occurrences "clicsbp-wold-Yaqui-IMMEDIATELY-1"
     words "j a l e p p a n a"
@@ -14412,7 +14400,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1201
+    id 1200
     label "BEGIN"
     occurrences "clicsbp-wold-Yaqui-BEGIN-1"
     words "n aː t e"
@@ -14424,7 +14412,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1202
+    id 1201
     label "OFTEN"
     occurrences "clicsbp-wold-Yaqui-OFTEN-1"
     words "j i b a + j eː l a"
@@ -14436,7 +14424,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1203
+    id 1202
     label "SOMETIMES"
     occurrences "clicsbp-wold-Yaqui-SOMETIMES-1"
     words "a m a k o"
@@ -14448,7 +14436,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1204
+    id 1203
     label "DAY (24 HOURS)"
     occurrences "clicsbp-wold-Yaqui-DAY24HOURS-1"
     words "t a e w a i"
@@ -14460,7 +14448,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1205
+    id 1204
     label "EVENING"
     occurrences "clicsbp-wold-Yaqui-EVENING-1"
     words "b i j p aː m"
@@ -14472,7 +14460,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1206
+    id 1205
     label "CLOCK"
     occurrences "clicsbp-wold-Yaqui-CLOCK-1"
     words "r e l o k"
@@ -14484,7 +14472,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1207
+    id 1206
     label "SUNDAY"
     occurrences "clicsbp-wold-Yaqui-SUNDAY-1"
     words "l o m i n k o"
@@ -14496,7 +14484,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1208
+    id 1207
     label "MONDAY"
     occurrences "clicsbp-wold-Yaqui-MONDAY-1"
     words "l uː n e s"
@@ -14508,7 +14496,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1209
+    id 1208
     label "TUESDAY"
     occurrences "clicsbp-wold-Yaqui-TUESDAY-1"
     words "m aː t e s"
@@ -14520,7 +14508,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1210
+    id 1209
     label "WEDNESDAY"
     occurrences "clicsbp-wold-Yaqui-WEDNESDAY-1"
     words "m i e k o l e s"
@@ -14532,7 +14520,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1211
+    id 1210
     label "THURSDAY"
     occurrences "clicsbp-wold-Yaqui-THURSDAY-1"
     words "j u e b e s"
@@ -14544,7 +14532,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1212
+    id 1211
     label "FRIDAY"
     occurrences "clicsbp-wold-Yaqui-FRIDAY-1"
     words "b i e n e s"
@@ -14556,7 +14544,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1213
+    id 1212
     label "SATURDAY"
     occurrences "clicsbp-wold-Yaqui-SATURDAY-1"
     words "s a b a l a"
@@ -14568,7 +14556,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1214
+    id 1213
     label "AUTUMN"
     occurrences "clicsbp-wold-Yaqui-AUTUMN-1"
     words "s a w a w e t + m eː tʃ a"
@@ -14580,7 +14568,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1215
+    id 1214
     label "SNIFF"
     occurrences "clicsbp-wold-Yaqui-SNIFF-1"
     words "j u k j u k t a"
@@ -14592,7 +14580,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1216
+    id 1215
     label "LOUD"
     occurrences "clicsbp-wold-Yaqui-LOUD-1"
     words "j a i t i + j iː a"
@@ -14604,7 +14592,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1217
+    id 1216
     label "QUIET"
     occurrences "clicsbp-wold-Yaqui-QUIET-1"
     words "k o p a l a i"
@@ -14616,7 +14604,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1218
+    id 1217
     label "BRIGHT"
     occurrences "clicsbp-wold-Yaqui-BRIGHT-1"
     words "b e o j t aː tʃ i"
@@ -14628,7 +14616,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1219
+    id 1218
     label "LIGHT (COLOR)"
     occurrences "clicsbp-wold-Yaqui-LIGHTCOLOR-1"
     words "t o s a l i"
@@ -14640,7 +14628,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1220
+    id 1219
     label "DARK"
     occurrences "clicsbp-wold-Yaqui-DARK-1"
     words "tʃ u k u l i"
@@ -14652,7 +14640,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1221
+    id 1220
     label "GOOD LUCK"
     occurrences "clicsbp-wold-Yaqui-GOODLUCK-1"
     words "t u ʔ i + s u e r t e k"
@@ -14664,7 +14652,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1222
+    id 1221
     label "BAD LUCK"
     occurrences "clicsbp-wold-Yaqui-BADLUCK-1"
     words "k aː + s u e r t e k"
@@ -14676,7 +14664,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1223
+    id 1222
     label "EMBRACE"
     occurrences "clicsbp-wold-Yaqui-EMBRACE-1"
     words "i b a k t a"
@@ -14688,7 +14676,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1224
+    id 1223
     label "ANXIETY"
     occurrences "clicsbp-wold-Yaqui-ANXIETY-1"
     words "j i o k o t + e a"
@@ -14700,7 +14688,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1225
+    id 1224
     label "REGRET"
     occurrences "clicsbp-wold-Yaqui-REGRET-1"
     words "j i o k o l e"
@@ -14712,7 +14700,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1226
+    id 1225
     label "SHRIEK"
     occurrences "clicsbp-wold-Yaqui-SHRIEK-1"
     words "bʷ aː n a"
@@ -14724,7 +14712,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1227
+    id 1226
     label "HOWL"
     occurrences "clicsbp-wold-Yaqui-HOWL-1"
     words "bʷ aː n a"
@@ -14736,7 +14724,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1228
+    id 1227
     label "BOAST"
     occurrences "clicsbp-wold-Yaqui-BOAST-1"
     words "e m o + e i j a"
@@ -14748,7 +14736,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1229
+    id 1228
     label "DECEIT"
     occurrences "clicsbp-wold-Yaqui-DECEIT-1"
     words "b a i t a ʔ a"
@@ -14760,7 +14748,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1230
+    id 1229
     label "ADULTERY"
     occurrences "clicsbp-wold-Yaqui-ADULTERY-1"
     words "b a i t a ʔ a"
@@ -14772,7 +14760,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1231
+    id 1230
     label "WRONG"
     occurrences "clicsbp-wold-Yaqui-WRONG-1//clicsbp-wold-Yaqui-WRONG-2"
     words "k aː + l u t u ʔ u r i a//k aː + t u a"
@@ -14784,7 +14772,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1232
+    id 1231
     label "BLAME"
     occurrences "clicsbp-wold-Yaqui-BLAME-1"
     words "k u l p a"
@@ -14796,7 +14784,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1233
+    id 1232
     label "GREEDY"
     occurrences "clicsbp-wold-Yaqui-GREEDY-1"
     words "j a n t i a tʃ i"
@@ -14808,7 +14796,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1234
+    id 1233
     label "CLEVER"
     occurrences "clicsbp-wold-Yaqui-CLEVER-1"
     words "aː w e"
@@ -14820,7 +14808,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1235
+    id 1234
     label "GUESS"
     occurrences "clicsbp-wold-Yaqui-GUESS-1"
     words "j u ʔ u n e ʔ e a"
@@ -14832,7 +14820,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1236
+    id 1235
     label "PUPIL (STUDENT)"
     occurrences "clicsbp-wold-Yaqui-PUPILSTUDENT-1"
     words "m a j t a w a m e"
@@ -14844,7 +14832,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1237
+    id 1236
     label "OBSCURE"
     occurrences "clicsbp-wold-Yaqui-OBSCURE-1"
     words "k aː + m aː tʃ i"
@@ -14856,7 +14844,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1238
+    id 1237
     label "BETRAY"
     occurrences "clicsbp-wold-Yaqui-BETRAY-1"
     words "t r a i s i o n a r o a"
@@ -14868,7 +14856,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1239
+    id 1238
     label "OR"
     occurrences "clicsbp-wold-Yaqui-OR-1"
     words "o"
@@ -14880,7 +14868,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1240
+    id 1239
     label "VOICE"
     occurrences "clicsbp-wold-Yaqui-VOICE-1"
     words "j i a w a i"
@@ -14892,7 +14880,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1241
+    id 1240
     label "MUMBLE"
     occurrences "clicsbp-wold-Yaqui-MUMBLE-1"
     words "k u tʃ i tʃ i ʔ i t i + n oː k a"
@@ -14904,7 +14892,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1242
+    id 1241
     label "SPEECH"
     occurrences "clicsbp-wold-Yaqui-SPEECH-1"
     words "n o k t a + t e u w a"
@@ -14916,7 +14904,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1243
+    id 1242
     label "REFUSE"
     occurrences "clicsbp-wold-Yaqui-REFUSE-1"
     words "k aː + a + m a b e t a"
@@ -14928,7 +14916,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1244
+    id 1243
     label "ASK (REQUEST)"
     occurrences "clicsbp-wold-Yaqui-ASKREQUEST-1"
     words "a ʔ a w a"
@@ -14940,7 +14928,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1245
+    id 1244
     label "FORBID"
     occurrences "clicsbp-wold-Yaqui-FORBID-1"
     words "p r o i b i a r o a"
@@ -14952,7 +14940,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1246
+    id 1245
     label "THREATEN"
     occurrences "clicsbp-wold-Yaqui-THREATEN-1"
     words "m e n a s a r o a"
@@ -14964,7 +14952,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1247
+    id 1246
     label "PEN"
     occurrences "clicsbp-wold-Yaqui-PEN-1"
     words "p l uː m a"
@@ -14976,7 +14964,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1248
+    id 1247
     label "BOOK"
     occurrences "clicsbp-wold-Yaqui-BOOK-1"
     words "l i p r o m"
@@ -14988,7 +14976,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1249
+    id 1248
     label "COUNTRY"
     occurrences "clicsbp-wold-Yaqui-COUNTRY-1"
     words "bʷ i a + t oː s a"
@@ -15000,7 +14988,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1250
+    id 1249
     label "NATIVE COUNTRY"
     occurrences "clicsbp-wold-Yaqui-NATIVECOUNTRY-1"
     words "bʷ i a + t oː s a"
@@ -15012,7 +15000,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1251
+    id 1250
     label "BOUNDARY"
     occurrences "clicsbp-wold-Yaqui-BOUNDARY-1"
     words "m a m l o"
@@ -15024,7 +15012,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1252
+    id 1251
     label "CLAN"
     occurrences "clicsbp-wold-Yaqui-CLAN-1"
     words "t r iː b u"
@@ -15036,7 +15024,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1253
+    id 1252
     label "KING"
     occurrences "clicsbp-wold-Yaqui-KING-1//clicsbp-wold-Yaqui-KING-2"
     words "j a ʔ u t//k o b a n aː o"
@@ -15048,7 +15036,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1254
+    id 1253
     label "ENEMY"
     occurrences "clicsbp-wold-Yaqui-ENEMY-1"
     words "e n e m i k o"
@@ -15060,7 +15048,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1255
+    id 1254
     label "GUEST"
     occurrences "clicsbp-wold-Yaqui-GUEST-1"
     words "b i s i t a r o a m e"
@@ -15072,7 +15060,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1256
+    id 1255
     label "HOST"
     occurrences "clicsbp-wold-Yaqui-HOST-1"
     words "j o a k a m e"
@@ -15084,7 +15072,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1257
+    id 1256
     label "QUARREL"
     occurrences "clicsbp-wold-Yaqui-QUARREL-1"
     words "n a s s u a w a m e"
@@ -15096,7 +15084,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1258
+    id 1257
     label "ARMY"
     occurrences "clicsbp-wold-Yaqui-ARMY-1"
     words "t r oː p a"
@@ -15108,7 +15096,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1259
+    id 1258
     label "WEAPONS"
     occurrences "clicsbp-wold-Yaqui-WEAPONS-1"
     words "w i k o ʔ i"
@@ -15120,7 +15108,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1260
+    id 1259
     label "SLING"
     occurrences "clicsbp-wold-Yaqui-SLING-1"
     words "w i tʃ a ʔ a r a k i a m"
@@ -15132,7 +15120,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1261
+    id 1260
     label "SWORD"
     occurrences "clicsbp-wold-Yaqui-SWORD-1"
     words "e j p aː m"
@@ -15144,7 +15132,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1262
+    id 1261
     label "DEFEAT"
     occurrences "clicsbp-wold-Yaqui-DEFEAT-1"
     words "k oː b e"
@@ -15156,7 +15144,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1263
+    id 1262
     label "RETREAT"
     occurrences "clicsbp-wold-Yaqui-RETREAT-1"
     words "e u s e"
@@ -15168,7 +15156,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1264
+    id 1263
     label "SURRENDER"
     occurrences "clicsbp-wold-Yaqui-SURRENDER-1"
     words "e m o + s u ʔ u t o j a"
@@ -15180,7 +15168,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1265
+    id 1264
     label "PRISONER"
     occurrences "clicsbp-wold-Yaqui-PRISONER-1"
     words "e t a ʔ i"
@@ -15192,7 +15180,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1266
+    id 1265
     label "AMBUSH"
     occurrences "clicsbp-wold-Yaqui-AMBUSH-1"
     words "b o ʔ o + j e j t e r i a"
@@ -15204,7 +15192,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1267
+    id 1266
     label "FISHERMAN"
     occurrences "clicsbp-wold-Yaqui-FISHERMAN-1"
     words "k u tʃ u r e o"
@@ -15216,7 +15204,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1268
+    id 1267
     label "FISH TRAP"
     occurrences "clicsbp-wold-Yaqui-FISHTRAP-1"
     words "t aː m p a"
@@ -15228,7 +15216,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1269
+    id 1268
     label "TRAP (PITFALL)"
     occurrences "clicsbp-wold-Yaqui-TRAPPITFALL-1"
     words "t aː m p a"
@@ -15240,7 +15228,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1270
+    id 1269
     label "MISS (A TARGET)"
     occurrences "clicsbp-wold-Yaqui-MISSATARGET-1//clicsbp-wold-Yaqui-MISSATARGET-2"
     words "j i ʔ o b e//p a j a r o a"
@@ -15252,7 +15240,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1271
+    id 1270
     label "IN"
     occurrences "clicsbp-wold-Yaqui-IN-1"
     words "p o"
@@ -15264,7 +15252,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1272
+    id 1271
     label "JUDGMENT"
     occurrences "clicsbp-wold-Yaqui-JUDGMENT-1"
     words "j u i s i o"
@@ -15276,7 +15264,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1273
+    id 1272
     label "OATH"
     occurrences "clicsbp-wold-Yaqui-OATH-1"
     words "j u r a r o a w a m e"
@@ -15288,7 +15276,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1274
+    id 1273
     label "ACCUSE"
     occurrences "clicsbp-wold-Yaqui-ACCUSE-1//clicsbp-wold-Yaqui-ACCUSE-2"
     words "j i k u ʔ u bʷ a//j e u + bʷ i s e"
@@ -15300,7 +15288,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1275
+    id 1274
     label "GUILTY"
     occurrences "clicsbp-wold-Yaqui-GUILTY-1"
     words "k u l p a k a m e"
@@ -15312,7 +15300,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1276
+    id 1275
     label "INNOCENT"
     occurrences "clicsbp-wold-Yaqui-INNOCENT-1"
     words "k aː + i n e n + a j u k a m e"
@@ -15324,7 +15312,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1277
+    id 1276
     label "PRISON"
     occurrences "clicsbp-wold-Yaqui-PRISON-1"
     words "k a s e l"
@@ -15336,7 +15324,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1278
+    id 1277
     label "MURDER"
     occurrences "clicsbp-wold-Yaqui-MURDER-1"
     words "m u k w a m e"
@@ -15348,7 +15336,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1279
+    id 1278
     label "RAPE"
     occurrences "clicsbp-wold-Yaqui-RAPE-1//clicsbp-wold-Yaqui-RAPE-2"
     words "k aː + j o j o ʔ o r e k//b i o l a s i o n"
@@ -15360,7 +15348,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1280
+    id 1279
     label "MAGICIAN"
     occurrences "clicsbp-wold-Yaqui-MAGICIAN-1"
     words "j eː + s i s i b o m e"
@@ -15372,7 +15360,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1281
+    id 1280
     label "LETTER"
     occurrences "clicsbp-wold-Yaqui-LETTER-1"
     words "k aː t a"
@@ -15384,7 +15372,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1282
+    id 1281
     label "BECOME"
     occurrences "clicsbp-wold-Yaqui-BECOME-1"
     words "a j u n e"
@@ -15396,7 +15384,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1283
+    id 1282
     label "NOT"
     occurrences "clicsbp-wold-Yaqui-NOT-1"
     words "i n i ʔ i"
@@ -15408,7 +15396,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1284
+    id 1283
     label "HERE"
     occurrences "clicsbp-wold-Yaqui-HERE-1"
     words "j u n u m u ʔ u"
@@ -15420,7 +15408,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1285
+    id 1284
     label "THERE"
     occurrences "clicsbp-wold-Yaqui-THERE-1"
     words "s eː n u"
@@ -15432,7 +15420,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1286
+    id 1285
     label "VAGINA"
     occurrences "clicsbp-wold-Yaqui-VAGINA-1"
     words "k o i m"
@@ -15444,7 +15432,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1287
+    id 1286
     label "VULVA"
     occurrences "clicsbp-wold-Yaqui-VULVA-1"
     words "k o i m"
@@ -15456,7 +15444,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1288
+    id 1287
     label "TEA"
     occurrences "clicsbp-wold-Yaqui-TEA-1"
     words "t e"
@@ -15468,7 +15456,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1289
+    id 1288
     label "SQUIRREL"
     occurrences "clicsbp-wold-Yaqui-SQUIRREL-1"
     words "t e k u"
@@ -15480,7 +15468,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1290
+    id 1289
     label "TENDON"
     occurrences "clicsbp-wold-Yaqui-TENDON-1"
     words "t a t e"
@@ -15492,7 +15480,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1291
+    id 1290
     label "TERMITE"
     occurrences "clicsbp-wold-Yaqui-TERMITE-1"
     words "b a s u ʔ u tʃ i"
@@ -15504,7 +15492,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1292
+    id 1291
     label "HAMMOCK"
     occurrences "clicsbp-wold-Yaqui-HAMMOCK-1"
     words "m aː k a"
@@ -15516,7 +15504,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1293
+    id 1292
     label "MILLET"
     occurrences "clicsbp-wold-Yaqui-MILLET-1"
     words "s o r w o"
@@ -15528,7 +15516,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1294
+    id 1293
     label "CHAMELEON"
     occurrences "clicsbp-wold-Yaqui-CHAMELEON-1"
     words "m o t tʃ o ʔ o k o l"
@@ -15540,7 +15528,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1295
+    id 1294
     label "DISEASE"
     occurrences "clicsbp-wold-Yaqui-DISEASE-1"
     words "k o ʔ o k o a"
@@ -15552,7 +15540,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1296
+    id 1295
     label "ALONE"
     occurrences "clicsbp-wold-Yaqui-ALONE-1"
     words "aː p o l a"
@@ -15564,7 +15552,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1297
+    id 1296
     label "NOTHING"
     occurrences "clicsbp-wold-Yaqui-NOTHING-1"
     words "k a i t a"
@@ -15576,7 +15564,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1298
+    id 1297
     label "FREEZE"
     occurrences "clicsbp-wold-Yaqui-FREEZE-1"
     words "s a p a + w e tʃ e"
@@ -15745,7 +15733,7 @@ graph [
   ]
   edge [
     source 7
-    target 1271
+    target 1270
     count 1
     words "p o"
     varieties "clicsbp-wold-Yaqui"
@@ -15862,7 +15850,7 @@ graph [
   ]
   edge [
     source 12
-    target 1179
+    target 1178
     count 1
     words "b e t u k u"
     varieties "clicsbp-wold-Yaqui"
@@ -16005,7 +15993,7 @@ graph [
   ]
   edge [
     source 17
-    target 1220
+    target 1219
     count 1
     words "tʃ u k u l i"
     varieties "clicsbp-wold-Yaqui"
@@ -16018,7 +16006,7 @@ graph [
   ]
   edge [
     source 20
-    target 1028
+    target 1027
     count 1
     words "p i p i m"
     varieties "clicsbp-wold-Yaqui"
@@ -16421,7 +16409,7 @@ graph [
   ]
   edge [
     source 34
-    target 1226
+    target 1225
     count 1
     words "bʷ aː n a"
     varieties "clicsbp-wold-Yaqui"
@@ -16434,7 +16422,7 @@ graph [
   ]
   edge [
     source 34
-    target 1227
+    target 1226
     count 1
     words "bʷ aː n a"
     varieties "clicsbp-wold-Yaqui"
@@ -16694,7 +16682,7 @@ graph [
   ]
   edge [
     source 47
-    target 1022
+    target 1021
     count 1
     words "n a k a m"
     varieties "clicsbp-wold-Yaqui"
@@ -17760,7 +17748,7 @@ graph [
   ]
   edge [
     source 110
-    target 1285
+    target 1284
     count 1
     words "s eː n u"
     varieties "clicsbp-wold-Yaqui"
@@ -17825,7 +17813,7 @@ graph [
   ]
   edge [
     source 117
-    target 1111
+    target 1110
     count 1
     words "n aː w a"
     varieties "clicsbp-wold-Yaqui"
@@ -17929,7 +17917,7 @@ graph [
   ]
   edge [
     source 129
-    target 1015
+    target 1014
     count 1
     words "b eː a"
     varieties "clicsbp-wold-Yaqui"
@@ -18059,7 +18047,7 @@ graph [
   ]
   edge [
     source 139
-    target 1180
+    target 1179
     count 2
     words "k i k t e//j a p t e"
     varieties "clicsbp-wold-Yaqui//clicsbp-wold-Yaqui"
@@ -18176,7 +18164,7 @@ graph [
   ]
   edge [
     source 155
-    target 1024
+    target 1023
     count 1
     words "k u s i a"
     varieties "clicsbp-wold-Yaqui"
@@ -18228,7 +18216,7 @@ graph [
   ]
   edge [
     source 161
-    target 1195
+    target 1194
     count 1
     words "w o i"
     varieties "clicsbp-wold-Yaqui"
@@ -18358,7 +18346,7 @@ graph [
   ]
   edge [
     source 170
-    target 1219
+    target 1218
     count 1
     words "t o s a l i"
     varieties "clicsbp-wold-Yaqui"
@@ -18397,7 +18385,7 @@ graph [
   ]
   edge [
     source 174
-    target 1001
+    target 1000
     count 1
     words "m a s a m"
     varieties "clicsbp-wold-Yaqui"
@@ -18631,7 +18619,7 @@ graph [
   ]
   edge [
     source 212
-    target 1253
+    target 1252
     count 1
     words "j a ʔ u t"
     varieties "clicsbp-wold-Yaqui"
@@ -18683,7 +18671,7 @@ graph [
   ]
   edge [
     source 220
-    target 1024
+    target 1023
     count 1
     words "k u s i a"
     varieties "clicsbp-wold-Yaqui"
@@ -18709,7 +18697,7 @@ graph [
   ]
   edge [
     source 228
-    target 1052
+    target 1051
     count 1
     words "k u tʃ i ʔ i m"
     varieties "clicsbp-wold-Yaqui"
@@ -18735,7 +18723,7 @@ graph [
   ]
   edge [
     source 233
-    target 1050
+    target 1049
     count 1
     words "s o t o ʔ i"
     varieties "clicsbp-wold-Yaqui"
@@ -18800,7 +18788,7 @@ graph [
   ]
   edge [
     source 240
-    target 1066
+    target 1065
     count 1
     words "a s u k a"
     varieties "clicsbp-wold-Yaqui"
@@ -18813,7 +18801,7 @@ graph [
   ]
   edge [
     source 242
-    target 1043
+    target 1042
     count 1
     words "j i t t o a"
     varieties "clicsbp-wold-Yaqui"
@@ -18826,7 +18814,7 @@ graph [
   ]
   edge [
     source 246
-    target 1259
+    target 1258
     count 1
     words "w i k o ʔ i"
     varieties "clicsbp-wold-Yaqui"
@@ -18891,6 +18879,19 @@ graph [
   ]
   edge [
     source 261
+    target 1152
+    count 1
+    words "b a j u t"
+    varieties "clicsbp-wold-Yaqui"
+    languages "yaqu1251"
+    families "Uto-Aztecan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 261
     target 1153
     count 1
     words "b a j u t"
@@ -18905,19 +18906,6 @@ graph [
   edge [
     source 261
     target 1154
-    count 1
-    words "b a j u t"
-    varieties "clicsbp-wold-Yaqui"
-    languages "yaqu1251"
-    families "Uto-Aztecan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 261
-    target 1155
     count 1
     words "b a j u t"
     varieties "clicsbp-wold-Yaqui"
@@ -19788,7 +19776,7 @@ graph [
   ]
   edge [
     source 379
-    target 1015
+    target 1014
     count 1
     words "b eː a"
     varieties "clicsbp-wold-Yaqui"
@@ -19814,7 +19802,7 @@ graph [
   ]
   edge [
     source 394
-    target 1015
+    target 1014
     count 1
     words "b eː a"
     varieties "clicsbp-wold-Yaqui"
@@ -19840,7 +19828,7 @@ graph [
   ]
   edge [
     source 397
-    target 1016
+    target 1015
     count 1
     words "b o a m"
     varieties "clicsbp-wold-Yaqui"
@@ -19853,7 +19841,7 @@ graph [
   ]
   edge [
     source 424
-    target 1027
+    target 1026
     count 1
     words "s u t u m"
     varieties "clicsbp-wold-Yaqui"
@@ -19892,7 +19880,7 @@ graph [
   ]
   edge [
     source 433
-    target 1030
+    target 1029
     count 1
     words "j i a p s i"
     varieties "clicsbp-wold-Yaqui"
@@ -19905,7 +19893,7 @@ graph [
   ]
   edge [
     source 434
-    target 1030
+    target 1029
     count 1
     words "j i a p s i"
     varieties "clicsbp-wold-Yaqui"
@@ -19931,7 +19919,7 @@ graph [
   ]
   edge [
     source 438
-    target 1032
+    target 1031
     count 1
     words "w i k o s a"
     varieties "clicsbp-wold-Yaqui"
@@ -19983,7 +19971,7 @@ graph [
   ]
   edge [
     source 449
-    target 1226
+    target 1225
     count 1
     words "bʷ aː n a"
     varieties "clicsbp-wold-Yaqui"
@@ -19996,7 +19984,7 @@ graph [
   ]
   edge [
     source 449
-    target 1227
+    target 1226
     count 1
     words "bʷ aː n a"
     varieties "clicsbp-wold-Yaqui"
@@ -20061,7 +20049,7 @@ graph [
   ]
   edge [
     source 489
-    target 1044
+    target 1043
     count 1
     words "bʷ a ʔ a m e"
     varieties "clicsbp-wold-Yaqui"
@@ -20074,7 +20062,7 @@ graph [
   ]
   edge [
     source 489
-    target 1045
+    target 1044
     count 1
     words "bʷ a ʔ a m e"
     varieties "clicsbp-wold-Yaqui"
@@ -20126,7 +20114,7 @@ graph [
   ]
   edge [
     source 495
-    target 1046
+    target 1045
     count 1
     words "t e b a u r e"
     varieties "clicsbp-wold-Yaqui"
@@ -20178,7 +20166,7 @@ graph [
   ]
   edge [
     source 508
-    target 1050
+    target 1049
     count 1
     words "s o t o ʔ i"
     varieties "clicsbp-wold-Yaqui"
@@ -20230,7 +20218,7 @@ graph [
   ]
   edge [
     source 517
-    target 1137
+    target 1136
     count 1
     words "r u k t a"
     varieties "clicsbp-wold-Yaqui"
@@ -20256,7 +20244,7 @@ graph [
   ]
   edge [
     source 533
-    target 1075
+    target 1074
     count 1
     words "s u p e m"
     varieties "clicsbp-wold-Yaqui"
@@ -20373,7 +20361,7 @@ graph [
   ]
   edge [
     source 547
-    target 1032
+    target 1031
     count 1
     words "w i k o s a"
     varieties "clicsbp-wold-Yaqui"
@@ -20412,7 +20400,7 @@ graph [
   ]
   edge [
     source 557
-    target 1089
+    target 1088
     count 1
     words "r a m aː"
     varieties "clicsbp-wold-Yaqui"
@@ -20438,7 +20426,7 @@ graph [
   ]
   edge [
     source 569
-    target 1090
+    target 1089
     count 1
     words "b e p a ʔ a r i a"
     varieties "clicsbp-wold-Yaqui"
@@ -20464,7 +20452,7 @@ graph [
   ]
   edge [
     source 574
-    target 1102
+    target 1101
     count 1
     words "eː tʃ a"
     varieties "clicsbp-wold-Yaqui"
@@ -20503,7 +20491,7 @@ graph [
   ]
   edge [
     source 579
-    target 1106
+    target 1105
     count 1
     words "b a tʃ i a"
     varieties "clicsbp-wold-Yaqui"
@@ -20529,7 +20517,7 @@ graph [
   ]
   edge [
     source 584
-    target 1102
+    target 1101
     count 1
     words "eː tʃ a"
     varieties "clicsbp-wold-Yaqui"
@@ -20542,7 +20530,7 @@ graph [
   ]
   edge [
     source 588
-    target 1111
+    target 1110
     count 1
     words "n aː w a"
     varieties "clicsbp-wold-Yaqui"
@@ -20555,7 +20543,7 @@ graph [
   ]
   edge [
     source 593
-    target 1014
+    target 1013
     count 1
     words "k a m a"
     varieties "clicsbp-wold-Yaqui"
@@ -20607,7 +20595,7 @@ graph [
   ]
   edge [
     source 607
-    target 1036
+    target 1035
     count 1
     words "s o a"
     varieties "clicsbp-wold-Yaqui"
@@ -20789,7 +20777,7 @@ graph [
   ]
   edge [
     source 659
-    target 1164
+    target 1163
     count 1
     words "t e a"
     varieties "clicsbp-wold-Yaqui"
@@ -20958,7 +20946,7 @@ graph [
   ]
   edge [
     source 685
-    target 1166
+    target 1165
     count 1
     words "t o m i"
     varieties "clicsbp-wold-Yaqui"
@@ -21023,7 +21011,7 @@ graph [
   ]
   edge [
     source 711
-    target 1181
+    target 1180
     count 1
     words "n a u t o j a"
     varieties "clicsbp-wold-Yaqui"
@@ -21049,7 +21037,7 @@ graph [
   ]
   edge [
     source 713
-    target 1181
+    target 1180
     count 1
     words "n a u t o j a"
     varieties "clicsbp-wold-Yaqui"
@@ -21088,7 +21076,7 @@ graph [
   ]
   edge [
     source 719
-    target 1090
+    target 1089
     count 1
     words "b e p a ʔ a r i a"
     varieties "clicsbp-wold-Yaqui"
@@ -21101,7 +21089,7 @@ graph [
   ]
   edge [
     source 720
-    target 1184
+    target 1183
     count 1
     words "l u ʔ u t e k"
     varieties "clicsbp-wold-Yaqui"
@@ -21127,7 +21115,7 @@ graph [
   ]
   edge [
     source 738
-    target 1104
+    target 1103
     count 1
     words "w o j o ʔ o r i a"
     varieties "clicsbp-wold-Yaqui"
@@ -21140,7 +21128,7 @@ graph [
   ]
   edge [
     source 739
-    target 1194
+    target 1193
     count 1
     words "n a n a ʔ a n a"
     varieties "clicsbp-wold-Yaqui"
@@ -21153,7 +21141,7 @@ graph [
   ]
   edge [
     source 740
-    target 1173
+    target 1172
     count 1
     words "n a k u l i a"
     varieties "clicsbp-wold-Yaqui"
@@ -21348,7 +21336,7 @@ graph [
   ]
   edge [
     source 808
-    target 1216
+    target 1215
     count 1
     words "j a i t i + j iː a"
     varieties "clicsbp-wold-Yaqui"
@@ -21387,7 +21375,7 @@ graph [
   ]
   edge [
     source 820
-    target 1188
+    target 1187
     count 1
     words "tʃ i t a b e t a l a i"
     varieties "clicsbp-wold-Yaqui"
@@ -21439,7 +21427,7 @@ graph [
   ]
   edge [
     source 837
-    target 1225
+    target 1224
     count 1
     words "j i o k o l e"
     varieties "clicsbp-wold-Yaqui"
@@ -21452,7 +21440,7 @@ graph [
   ]
   edge [
     source 843
-    target 1228
+    target 1227
     count 1
     words "e m o + e i j a"
     varieties "clicsbp-wold-Yaqui"
@@ -21491,7 +21479,7 @@ graph [
   ]
   edge [
     source 855
-    target 1232
+    target 1231
     count 1
     words "k u l p a"
     varieties "clicsbp-wold-Yaqui"
@@ -21569,7 +21557,7 @@ graph [
   ]
   edge [
     source 894
-    target 1241
+    target 1240
     count 1
     words "k u tʃ i tʃ i ʔ i t i + n oː k a"
     varieties "clicsbp-wold-Yaqui"
@@ -21608,7 +21596,7 @@ graph [
   ]
   edge [
     source 899
-    target 1217
+    target 1216
     count 1
     words "k o p a l a i"
     varieties "clicsbp-wold-Yaqui"
@@ -21634,7 +21622,7 @@ graph [
   ]
   edge [
     source 905
-    target 1243
+    target 1242
     count 1
     words "k aː + a + m a b e t a"
     varieties "clicsbp-wold-Yaqui"
@@ -21699,7 +21687,7 @@ graph [
   ]
   edge [
     source 927
-    target 1164
+    target 1163
     count 1
     words "t e a"
     varieties "clicsbp-wold-Yaqui"
@@ -21802,8 +21790,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 1004
-    target 1005
+    source 1003
+    target 1004
     count 1
     words "o u s e i"
     varieties "clicsbp-wold-Yaqui"
@@ -21815,10 +21803,36 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1044
-    target 1045
+    source 1043
+    target 1044
     count 1
     words "bʷ a ʔ a m e"
+    varieties "clicsbp-wold-Yaqui"
+    languages "yaqu1251"
+    families "Uto-Aztecan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 1046
+    target 1047
+    count 1
+    words "j oː n a"
+    varieties "clicsbp-wold-Yaqui"
+    languages "yaqu1251"
+    families "Uto-Aztecan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 1046
+    target 1048
+    count 1
+    words "j oː n a"
     varieties "clicsbp-wold-Yaqui"
     languages "yaqu1251"
     families "Uto-Aztecan"
@@ -21841,34 +21855,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1047
-    target 1049
-    count 1
-    words "j oː n a"
-    varieties "clicsbp-wold-Yaqui"
-    languages "yaqu1251"
-    families "Uto-Aztecan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 1048
-    target 1049
-    count 1
-    words "j oː n a"
-    varieties "clicsbp-wold-Yaqui"
-    languages "yaqu1251"
-    families "Uto-Aztecan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 1087
-    target 1088
+    source 1086
+    target 1087
     count 1
     words "r a j t i o m"
     varieties "clicsbp-wold-Yaqui"
@@ -21880,10 +21868,36 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1098
-    target 1099
+    source 1097
+    target 1098
     count 1
     words "b iː k a"
+    varieties "clicsbp-wold-Yaqui"
+    languages "yaqu1251"
+    families "Uto-Aztecan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 1118
+    target 1119
+    count 1
+    words "j oː a"
+    varieties "clicsbp-wold-Yaqui"
+    languages "yaqu1251"
+    families "Uto-Aztecan"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 1118
+    target 1120
+    count 1
+    words "j oː a"
     varieties "clicsbp-wold-Yaqui"
     languages "yaqu1251"
     families "Uto-Aztecan"
@@ -21906,10 +21920,10 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1119
-    target 1121
+    source 1138
+    target 1139
     count 1
-    words "j oː a"
+    words "bʷ i s e"
     varieties "clicsbp-wold-Yaqui"
     languages "yaqu1251"
     families "Uto-Aztecan"
@@ -21919,10 +21933,10 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1120
-    target 1121
+    source 1138
+    target 1140
     count 1
-    words "j oː a"
+    words "bʷ i s e"
     varieties "clicsbp-wold-Yaqui"
     languages "yaqu1251"
     families "Uto-Aztecan"
@@ -21945,10 +21959,10 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1139
-    target 1141
+    source 1152
+    target 1153
     count 1
-    words "bʷ i s e"
+    words "b a j u t"
     varieties "clicsbp-wold-Yaqui"
     languages "yaqu1251"
     families "Uto-Aztecan"
@@ -21958,10 +21972,10 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1140
-    target 1141
+    source 1152
+    target 1154
     count 1
-    words "bʷ i s e"
+    words "b a j u t"
     varieties "clicsbp-wold-Yaqui"
     languages "yaqu1251"
     families "Uto-Aztecan"
@@ -21984,34 +21998,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1153
-    target 1155
-    count 1
-    words "b a j u t"
-    varieties "clicsbp-wold-Yaqui"
-    languages "yaqu1251"
-    families "Uto-Aztecan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 1154
-    target 1155
-    count 1
-    words "b a j u t"
-    varieties "clicsbp-wold-Yaqui"
-    languages "yaqu1251"
-    families "Uto-Aztecan"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 1171
-    target 1172
+    source 1170
+    target 1171
     count 1
     words "j o ʔ o"
     varieties "clicsbp-wold-Yaqui"
@@ -22023,8 +22011,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1226
-    target 1227
+    source 1225
+    target 1226
     count 1
     words "bʷ aː n a"
     varieties "clicsbp-wold-Yaqui"
@@ -22036,8 +22024,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1229
-    target 1230
+    source 1228
+    target 1229
     count 1
     words "b a i t a ʔ a"
     varieties "clicsbp-wold-Yaqui"
@@ -22049,8 +22037,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1249
-    target 1250
+    source 1248
+    target 1249
     count 1
     words "bʷ i a + t oː s a"
     varieties "clicsbp-wold-Yaqui"
@@ -22062,8 +22050,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1268
-    target 1269
+    source 1267
+    target 1268
     count 1
     words "t aː m p a"
     varieties "clicsbp-wold-Yaqui"
@@ -22075,8 +22063,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1286
-    target 1287
+    source 1285
+    target 1286
     count 1
     words "k o i m"
     varieties "clicsbp-wold-Yaqui"

@@ -13297,18 +13297,6 @@ graph [
   ]
   node [
     id 1108
-    label "KID"
-    occurrences "clicsbp-idssegmented-marquesan-KID-1//clicsbp-idssegmented-rapanui-KID-1//clicsbp-idssegmented-tongan-KID-1//clicsbp-wold-Malagasy-KID-1//clicsbp-wold-Hawaiian-KID-1"
-    words "p u n u a + k e u k e u + e + p u n u a + m e n e m e n e//v a t o + v a t o + ʔ a p ĩ//k i ʔ i + k o s i//z a n a kʼ o s y//k a o + k e i k i"
-    varieties "clicsbp-idssegmented-marquesan//clicsbp-idssegmented-rapanui//clicsbp-idssegmented-tongan//clicsbp-wold-Malagasy//clicsbp-wold-Hawaiian"
-    languages "sout2866//rapa1244//tong1325//plat1254//hawa1245"
-    families "Austronesian//Austronesian//Austronesian//Austronesian//Austronesian"
-    language_count 5
-    variety_count 5
-    family_count 1
-  ]
-  node [
-    id 1109
     label "COCKROACH"
     occurrences "clicsbp-idssegmented-marquesan-COCKROACH-1//clicsbp-idssegmented-marquesan-COCKROACH-2//clicsbp-idssegmented-marquesan-COCKROACH-3//clicsbp-idssegmented-rapanui-COCKROACH-1//clicsbp-idssegmented-rotuman-COCKROACH-1//clicsbp-idssegmented-tongan-COCKROACH-1//clicsbp-idssegmented-tuamotuan-COCKROACH-1//clicsbp-idssegmented-tuamotuan-COCKROACH-2//clicsbp-idssegmented-tuamotuan-COCKROACH-3//clicsbp-wold-Malagasy-COCKROACH-1//clicsbp-wold-Malagasy-COCKROACH-2//clicsbp-wold-Takia-COCKROACH-1//clicsbp-wold-Hawaiian-COCKROACH-1"
     words "e + p o p o t u//e + k o k a h a//k o e k o e + e + u a//k o k a//k ɔ k r o tʃ o//m o ŋ o m o ŋ a//k a k a r uː//k a r a r uː//p o p o t i//k a l a l a o//k a d r a d r a k a//d a r i r//e l e l u"
@@ -13320,7 +13308,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1110
+    id 1109
     label "BEESWAX"
     occurrences "clicsbp-idssegmented-marquesan-BEESWAX-1//clicsbp-wold-Malagasy-BEESWAX-1//clicsbp-wold-Hawaiian-BEESWAX-1"
     words "a m a + t i k a u e//s a v o k a//k u k a e n a l o"
@@ -13332,7 +13320,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1111
+    id 1110
     label "TEMPLES"
     occurrences "clicsbp-idssegmented-marquesan-TEMPLES-1//clicsbp-idssegmented-rapanui-TEMPLES-1//clicsbp-idssegmented-rotuman-TEMPLES-1//clicsbp-wold-Malagasy-TEMPLES-1//clicsbp-wold-Takia-TEMPLES-1//clicsbp-wold-Hawaiian-TEMPLES-1"
     words "t a a + m a t a//h a ŋ u//m e a//f i h i r i f a n a//k d a ŋ a//m a h a"
@@ -13344,7 +13332,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1112
+    id 1111
     label "EARWAX"
     occurrences "clicsbp-idssegmented-marquesan-EARWAX-1//clicsbp-idssegmented-rapanui-EARWAX-1//clicsbp-idssegmented-rotuman-EARWAX-1//clicsbp-idssegmented-tongan-EARWAX-1//clicsbp-wold-Malagasy-EARWAX-1//clicsbp-wold-Takia-EARWAX-1//clicsbp-wold-Hawaiian-EARWAX-1"
     words "h a a + t a i t a i//t a k i t u r i//t u r i//t e ʔ e t u l i//t a i ⁿts o f i n a//k b o l//k o k u l i"
@@ -13356,7 +13344,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1113
+    id 1112
     label "MOLAR TOOTH"
     occurrences "clicsbp-idssegmented-marquesan-MOLARTOOTH-1//clicsbp-idssegmented-rapanui-MOLARTOOTH-1//clicsbp-idssegmented-rapanui-MOLARTOOTH-2//clicsbp-idssegmented-rotuman-MOLARTOOTH-1//clicsbp-idssegmented-tongan-MOLARTOOTH-1//clicsbp-wold-Malagasy-MOLARTOOTH-1//clicsbp-wold-Takia-MOLARTOOTH-1//clicsbp-wold-Hawaiian-MOLARTOOTH-1"
     words "n i h o + p o n a//n i h o + t u m u//n i h o + t a h i t o//ʔ a l + a ʔ p a t + t e//n i f o + ŋ a o//v a z a n a//g a m a//k u i"
@@ -13368,7 +13356,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1114
+    id 1113
     label "NAPE (OF NECK)"
     occurrences "clicsbp-idssegmented-marquesan-NAPEOFNECK-1//clicsbp-idssegmented-rapanui-NAPEOFNECK-1//clicsbp-idssegmented-rotuman-NAPEOFNECK-1//clicsbp-idssegmented-tongan-NAPEOFNECK-1//clicsbp-idssegmented-tuamotuan-NAPEOFNECK-1//clicsbp-idssegmented-tuamotuan-NAPEOFNECK-2//clicsbp-wold-Malagasy-NAPEOFNECK-1//clicsbp-wold-Takia-NAPEOFNECK-1//clicsbp-wold-Hawaiian-NAPEOFNECK-1"
     words "h o n o n a//t u k e + ŋ a o//h ü n + k i a//t u ʔ a k i a//k a k ĩ//h o p e//h a t o k a//b r o + n + p a t u + n//h o k u a"
@@ -13380,7 +13368,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1115
+    id 1114
     label "SHOULDERBLADE"
     occurrences "clicsbp-idssegmented-marquesan-SHOULDERBLADE-1//clicsbp-idssegmented-marquesan-SHOULDERBLADE-2//clicsbp-idssegmented-rapanui-SHOULDERBLADE-1//clicsbp-idssegmented-rotuman-SHOULDERBLADE-1//clicsbp-idssegmented-tongan-SHOULDERBLADE-1//clicsbp-idssegmented-tuamotuan-SHOULDERBLADE-1//clicsbp-wold-Malagasy-SHOULDERBLADE-1//clicsbp-wold-Takia-SHOULDERBLADE-1//clicsbp-wold-Hawaiian-SHOULDERBLADE-1"
     words "i v i + p a u h i h i//t a h i i + iː m a//p a r a r a h a + k e k e ʔ u//s u i + t e p a//h u i + f o h e//i v i p oː k a r a k a r a//r a ŋg o m a i n a//j a r o + n + b a l e + n//i w i + h o e h o e"
@@ -13392,7 +13380,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1116
+    id 1115
     label "CALF OF LEG"
     occurrences "clicsbp-idssegmented-marquesan-CALFOFLEG-1//clicsbp-idssegmented-marquesan-CALFOFLEG-2//clicsbp-idssegmented-rapanui-CALFOFLEG-1//clicsbp-idssegmented-rotuman-CALFOFLEG-1//clicsbp-idssegmented-tongan-CALFOFLEG-1//clicsbp-wold-Malagasy-CALFOFLEG-1//clicsbp-wold-Takia-CALFOFLEG-1//clicsbp-wold-Hawaiian-CALFOFLEG-1"
     words "h i k u + v a e v a e//h u e h u e + v a e v a e//h o r e k o//p a r p a r + n e + l a//ʔ a t e ʔ i v a ʔ e//k i b o ɳ ɖ r a ⁿdz o//ŋ e + n + l a b e + n//o l o o l o + w a w a e"
@@ -13404,7 +13392,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1117
+    id 1116
     label "INTENTION"
     occurrences "clicsbp-idssegmented-marquesan-INTENTION-1//clicsbp-idssegmented-marquesan-INTENTION-2//clicsbp-idssegmented-marquesan-INTENTION-3//clicsbp-idssegmented-rapanui-INTENTION-1//clicsbp-idssegmented-rotuman-INTENTION-1//clicsbp-wold-Malagasy-INTENTION-1//clicsbp-wold-Malagasy-INTENTION-2//clicsbp-wold-Hawaiian-INTENTION-1"
     words "h a k a t u//e + t o u + m a i//e + h a n o//t u m u//ʔ a m n ɔ k i//f i k a s a n a//k e ɳ ɖ r e n a//m a n a o"
@@ -13416,7 +13404,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1118
+    id 1117
     label "UDDER"
     occurrences "clicsbp-idssegmented-marquesan-UDDER-1//clicsbp-idssegmented-rapanui-UDDER-2//clicsbp-idssegmented-rapanui-UDDER-1//clicsbp-idssegmented-rotuman-UDDER-1//clicsbp-idssegmented-tongan-UDDER-1//clicsbp-wold-Malagasy-UDDER-1//clicsbp-wold-Takia-UDDER-1//clicsbp-wold-Hawaiian-UDDER-1"
     words "h u e + v a i u//uː//h a t u n o n o//s u s u//h u h u + ʔ o + h a + p u l u//n o n o//s u//u"
@@ -13428,7 +13416,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1119
+    id 1118
     label "SPLEEN"
     occurrences "clicsbp-idssegmented-marquesan-SPLEEN-1//clicsbp-idssegmented-marquesan-SPLEEN-2//clicsbp-idssegmented-rotuman-SPLEEN-1//clicsbp-idssegmented-tongan-SPLEEN-1//clicsbp-wold-Malagasy-SPLEEN-1//clicsbp-wold-Takia-SPLEEN-1//clicsbp-wold-Hawaiian-SPLEEN-1"
     words "a t e//a t e + m a m a//ʔ æ p i r i//ʔ a t e p i l i//a r y//l a g e//a k e n i a u"
@@ -13440,7 +13428,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1120
+    id 1119
     label "DRIBBLE"
     occurrences "clicsbp-idssegmented-marquesan-DRIBBLE-1//clicsbp-idssegmented-marquesan-DRIBBLE-2//clicsbp-idssegmented-marquesan-DRIBBLE-3//clicsbp-idssegmented-rapanui-DRIBBLE-1//clicsbp-idssegmented-rotuman-DRIBBLE-1//clicsbp-idssegmented-rotuman-DRIBBLE-2//clicsbp-idssegmented-tuamotuan-DRIBBLE-1//clicsbp-idssegmented-tuamotuan-DRIBBLE-2//clicsbp-wold-Malagasy-DRIBBLE-1//clicsbp-wold-Takia-DRIBBLE-1//clicsbp-wold-Hawaiian-DRIBBLE-1"
     words "e + k a e//e + k a e + n u i//e + t a h e + t e + k a e//t u r u + t u r u//i t o k o//i t o k e//k a e//h a k a e//r a r a k a + i v y//a w a + n + u r a + n + i + d u//h a a e"
@@ -13452,7 +13440,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1121
+    id 1120
     label "GOITER"
     occurrences "clicsbp-idssegmented-marquesan-GOITER-1//clicsbp-idssegmented-marquesan-GOITER-2//clicsbp-idssegmented-rotuman-GOITER-1//clicsbp-idssegmented-tuamotuan-GOITER-1//clicsbp-wold-Malagasy-GOITER-1//clicsbp-wold-Takia-GOITER-1//clicsbp-wold-Hawaiian-GOITER-1"
     words "k a k i + u u a//k a k i + h u h u a//k i a + h u h u l a//k a r a p o ŋ a + p u k u//b i b a k a + a ⁿt e ⁿd a//b r o + n + g b u + n//a i o l o o l o"
@@ -13464,7 +13452,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1122
+    id 1121
     label "BAMBOO"
     occurrences "clicsbp-idssegmented-marquesan-BAMBOO-1//clicsbp-idssegmented-marquesan-BAMBOO-2//clicsbp-idssegmented-rapanui-BAMBOO-1//clicsbp-idssegmented-rotuman-BAMBOO-1//clicsbp-idssegmented-tongan-BAMBOO-1//clicsbp-wold-Malagasy-BAMBOO-1//clicsbp-wold-Takia-BAMBOO-2//clicsbp-wold-Takia-BAMBOO-1//clicsbp-wold-Hawaiian-BAMBOO-1"
     words "k o h e//k o h e + m a o i//ʔ o h e//v a u//k o f e//v o l o//gː r e ŋ//s d u k//o h e"
@@ -13476,7 +13464,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1123
+    id 1122
     label "POISON"
     occurrences "clicsbp-idssegmented-marquesan-POISON-1//clicsbp-idssegmented-marquesan-POISON-2//clicsbp-idssegmented-rotuman-POISON-1//clicsbp-idssegmented-tongan-POISON-1//clicsbp-idssegmented-tongan-POISON-2//clicsbp-idssegmented-tongan-POISON-3//clicsbp-idssegmented-tongan-POISON-4//clicsbp-idssegmented-tuamotuan-POISON-1//clicsbp-idssegmented-tuamotuan-POISON-2//clicsbp-idssegmented-tuamotuan-POISON-3//clicsbp-wold-Malagasy-POISON-1//clicsbp-wold-Takia-POISON-1//clicsbp-wold-Hawaiian-POISON-1"
     words "m e a + t e k e o//m e a + m a t e//p ɔ i s i n i//k o n a//l a v a + k e//h o k o + a i + ʔ a + e + m a t e//m e ʔ a + f a k a + k o n a h i//h oː k a t a//t a k e o//k e r e h a v a//p o i z i n a//m e l + s a e + n//l a a u + m a k e"
@@ -13488,7 +13476,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1124
+    id 1123
     label "MEAL"
     occurrences "clicsbp-idssegmented-marquesan-MEAL-1//clicsbp-idssegmented-marquesan-MEAL-2//clicsbp-idssegmented-marquesan-MEAL-3//clicsbp-idssegmented-rotuman-MEAL-1//clicsbp-idssegmented-tongan-MEAL-1//clicsbp-wold-Malagasy-MEAL-1//clicsbp-wold-Takia-MEAL-1//clicsbp-wold-Hawaiian-MEAL-1"
     words "k a i//e + k a i + i a//k a i k a i//ʔ a t e//k o + e + k a i + p e + m a ʔ u + m e ʔ a t o k o n i//s a k a f o//l a t a m a d//p a i n a"
@@ -13500,7 +13488,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1125
+    id 1124
     label "ALCOHOL (FERMENTED DRINK)"
     occurrences "clicsbp-idssegmented-marquesan-ALCOHOLFERMENTEDDRINK-1//clicsbp-idssegmented-rapanui-ALCOHOLFERMENTEDDRINK-1//clicsbp-idssegmented-rotuman-ALCOHOLFERMENTEDDRINK-1//clicsbp-idssegmented-tongan-ALCOHOLFERMENTEDDRINK-1//clicsbp-idssegmented-tongan-ALCOHOLFERMENTEDDRINK-2//clicsbp-idssegmented-tongan-ALCOHOLFERMENTEDDRINK-3//clicsbp-idssegmented-tuamotuan-ALCOHOLFERMENTEDDRINK-1//clicsbp-idssegmented-tuamotuan-ALCOHOLFERMENTEDDRINK-2//clicsbp-wold-Malagasy-ALCOHOLFERMENTEDDRINK-1//clicsbp-wold-Hawaiian-ALCOHOLFERMENTEDDRINK-1"
     words "p u p u h i//ʔ a v a//t e + ʔ o n a//m a f u//f a k a + p a l a//f a k a + m a f u//ʔ i i//k ĩ k ĩ//t o a k a//a l e k o h o l a"
@@ -13512,7 +13500,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1126
+    id 1125
     label "DOUGH"
     occurrences "clicsbp-idssegmented-marquesan-DOUGH-1//clicsbp-idssegmented-marquesan-DOUGH-2//clicsbp-idssegmented-tongan-DOUGH-1//clicsbp-idssegmented-tongan-DOUGH-2//clicsbp-wold-Malagasy-DOUGH-1//clicsbp-wold-Hawaiian-DOUGH-1"
     words "m e + h e + p o p o i//m e + h e + m a//h e u ŋ a + m a//t o u//k o b a//p a l a o a + h o o w i l i i a"
@@ -13524,7 +13512,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1127
+    id 1126
     label "NUT"
     occurrences "clicsbp-idssegmented-marquesan-NUT-1//clicsbp-idssegmented-rapanui-NUT-1//clicsbp-wold-Takia-NUT-1//clicsbp-wold-Hawaiian-NUT-1"
     words "a m a//t i ʔ a i r i//n ŋ o//k u k u i + h a o l e"
@@ -13536,7 +13524,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1128
+    id 1127
     label "COCONUT"
     occurrences "clicsbp-idssegmented-marquesan-COCONUT-1//clicsbp-idssegmented-rapanui-COCONUT-1//clicsbp-idssegmented-rotuman-COCONUT-1//clicsbp-idssegmented-tongan-COCONUT-1//clicsbp-idssegmented-tongan-COCONUT-2//clicsbp-idssegmented-tuamotuan-COCONUT-4//clicsbp-idssegmented-tuamotuan-COCONUT-1//clicsbp-idssegmented-tuamotuan-COCONUT-2//clicsbp-idssegmented-tuamotuan-COCONUT-3//clicsbp-idssegmented-tuamotuan-COCONUT-5//clicsbp-idssegmented-tuamotuan-COCONUT-6//clicsbp-idssegmented-tuamotuan-COCONUT-7//clicsbp-wold-Malagasy-COCONUT-1//clicsbp-wold-Takia-COCONUT-1//clicsbp-wold-Hawaiian-COCONUT-1"
     words "a m a//h a ʔ a r i + k a i//n i u//n i u//f o ʔ i + n i u//k a u//ŋ a h a k i//h e r e r e//k a n a h a//t ĩ r a u//t a p a//ŋ o r a//v o a n i h o//n i u + n ŋ o + n//n i u"
@@ -13548,7 +13536,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1129
+    id 1128
     label "YOLK"
     occurrences "clicsbp-idssegmented-marquesan-YOLK-1//clicsbp-idssegmented-rapanui-YOLK-1//clicsbp-idssegmented-rotuman-YOLK-1//clicsbp-idssegmented-tongan-YOLK-1//clicsbp-idssegmented-tongan-YOLK-2//clicsbp-wold-Malagasy-YOLK-1//clicsbp-wold-Takia-YOLK-1//clicsbp-wold-Hawaiian-YOLK-1"
     words "e n a + m a m a i//t o u a//p a k a u a//k o ŋ a + e ŋ eː ŋ a//ʔ o + e + f o ʔ i m o a//t a m e n a k a//p a t u + n + k d a b o g + a n//k a u o"
@@ -13560,7 +13548,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1130
+    id 1129
     label "CLOTH"
     occurrences "clicsbp-idssegmented-marquesan-CLOTH-2//clicsbp-idssegmented-marquesan-CLOTH-1//clicsbp-idssegmented-rapanui-CLOTH-1//clicsbp-idssegmented-rotuman-CLOTH-1//clicsbp-idssegmented-tongan-CLOTH-1//clicsbp-idssegmented-tuamotuan-CLOTH-2//clicsbp-idssegmented-tuamotuan-CLOTH-1//clicsbp-wold-Malagasy-CLOTH-1//clicsbp-wold-Takia-CLOTH-1//clicsbp-wold-Hawaiian-CLOTH-1"
     words "k a h u//t a p a//k a h u//h ɔ ʔ u//t u p e n u//k a h u//k o h u r i k i//l a ⁿb a//j a m e l//l o l e"
@@ -13572,7 +13560,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1131
+    id 1130
     label "FUR"
     occurrences "clicsbp-idssegmented-marquesan-FUR-1//clicsbp-idssegmented-tongan-FUR-1//clicsbp-wold-Malagasy-FUR-1//clicsbp-wold-Takia-FUR-1//clicsbp-wold-Hawaiian-FUR-1"
     words "k a h u + k i + p u a k a//f u l u f u l u//v o l o ⁿb i b y//fː l u//h u l u"
@@ -13584,7 +13572,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1132
+    id 1131
     label "SPINDLE"
     occurrences "clicsbp-idssegmented-marquesan-SPINDLE-1//clicsbp-wold-Malagasy-SPINDLE-1//clicsbp-wold-Hawaiian-SPINDLE-1"
     words "m e a + k a v i i + a h o//a ⁿp e l a//k a l i"
@@ -13596,7 +13584,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1133
+    id 1132
     label "AWL"
     occurrences "clicsbp-idssegmented-marquesan-AWL-1//clicsbp-wold-Malagasy-AWL-1//clicsbp-wold-Hawaiian-AWL-1"
     words "e + t a a//h a o l o//k u i + h o u h o u"
@@ -13608,7 +13596,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1134
+    id 1133
     label "DYE"
     occurrences "clicsbp-idssegmented-marquesan-DYE-1//clicsbp-idssegmented-marquesan-DYE-2//clicsbp-idssegmented-rapanui-DYE-1//clicsbp-idssegmented-rotuman-DYE-1//clicsbp-idssegmented-rotuman-DYE-2//clicsbp-idssegmented-tongan-DYE-1//clicsbp-wold-Malagasy-DYE-1//clicsbp-wold-Takia-DYE-1//clicsbp-wold-Hawaiian-DYE-1"
     words "t a p u i//t a p a u//i n i k a//t o ŋ o//m e n a//f a k a + l a n u//m a ⁿd o k o//p e n + p a n i//w a i h o o l u u"
@@ -13620,7 +13608,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1135
+    id 1134
     label "SKIRT"
     occurrences "clicsbp-idssegmented-marquesan-SKIRT-1//clicsbp-idssegmented-marquesan-SKIRT-2//clicsbp-idssegmented-marquesan-SKIRT-3//clicsbp-idssegmented-rotuman-SKIRT-1//clicsbp-idssegmented-tongan-SKIRT-1//clicsbp-wold-Malagasy-SKIRT-1//clicsbp-wold-Takia-SKIRT-1//clicsbp-wold-Hawaiian-SKIRT-1"
     words "k a h u + u n a//e e u e u//k a e u//t i t i//p i v a//z i p o//s k e t//p a u"
@@ -13632,7 +13620,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1136
+    id 1135
     label "BRACELET"
     occurrences "clicsbp-idssegmented-marquesan-BRACELET-1//clicsbp-idssegmented-marquesan-BRACELET-2//clicsbp-idssegmented-rotuman-BRACELET-1//clicsbp-idssegmented-tongan-BRACELET-1//clicsbp-wold-Malagasy-BRACELET-1//clicsbp-wold-Malagasy-BRACELET-2//clicsbp-wold-Takia-BRACELET-1//clicsbp-wold-Hawaiian-BRACELET-1"
     words "h a k a t u + iː m a//e + t o p e p u//k ɔ l u//v e s a//v a ŋg o v a ŋg o//f e h i ⁿt a n a n a//a r i//a p o + l i m a"
@@ -13644,7 +13632,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1137
+    id 1136
     label "NECKLACE"
     occurrences "clicsbp-idssegmented-marquesan-NECKLACE-1//clicsbp-idssegmented-marquesan-NECKLACE-2//clicsbp-idssegmented-rapanui-NECKLACE-1//clicsbp-idssegmented-rotuman-NECKLACE-1//clicsbp-idssegmented-tongan-NECKLACE-1//clicsbp-wold-Malagasy-NECKLACE-1//clicsbp-wold-Takia-NECKLACE-1//clicsbp-wold-Hawaiian-NECKLACE-1"
     words "h e i//e + h e i + p i p i//k a r o n e//t e f u i//k a h o a//f e h i v o z o n a//k lː o j//l e i"
@@ -13656,7 +13644,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1138
+    id 1137
     label "BEAD"
     occurrences "clicsbp-idssegmented-marquesan-BEAD-1//clicsbp-idssegmented-rotuman-BEAD-1//clicsbp-idssegmented-rotuman-BEAD-2//clicsbp-idssegmented-tongan-BEAD-1//clicsbp-idssegmented-tongan-BEAD-2//clicsbp-wold-Malagasy-BEAD-1//clicsbp-wold-Takia-BEAD-1//clicsbp-wold-Hawaiian-BEAD-1"
     words "k a k a n o//f u i//p a p a l ɔ ŋ i//f o ʔ i + k u l a//k a h o a + k u l a//v a k a n a//k lː o j//o l o p i"
@@ -13668,7 +13656,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1139
+    id 1138
     label "EARRING"
     occurrences "clicsbp-idssegmented-marquesan-EARRING-1//clicsbp-idssegmented-rapanui-EARRING-1//clicsbp-idssegmented-rotuman-EARRING-1//clicsbp-idssegmented-tongan-EARRING-1//clicsbp-idssegmented-tuamotuan-EARRING-1//clicsbp-wold-Malagasy-EARRING-1//clicsbp-wold-Takia-EARRING-1//clicsbp-wold-Hawaiian-EARRING-1"
     words "e + i v i + i k a//t a p e ʔ a + t a r i ŋ a//s a u + f a l i ŋ a//h a u//f a k a k a i t a r ĩ ŋ a//k a v i n a//j a r i ŋ//k u l a p e p e i a o"
@@ -13680,7 +13668,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1140
+    id 1139
     label "OINTMENT"
     occurrences "clicsbp-idssegmented-marquesan-OINTMENT-1//clicsbp-idssegmented-rotuman-OINTMENT-1//clicsbp-idssegmented-tongan-OINTMENT-1//clicsbp-idssegmented-tongan-OINTMENT-2//clicsbp-wold-Malagasy-OINTMENT-1//clicsbp-wold-Takia-OINTMENT-1//clicsbp-wold-Hawaiian-OINTMENT-1"
     words "a p a u + k a k a a//t u r u//k i l i m i//f a i t o ʔ o + m i l i m i l i + k i + h e + u o u a//l a k o m a d i n a//g r e ŋ//m e a + h a m o"
@@ -13692,7 +13680,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1141
+    id 1140
     label "KEY"
     occurrences "clicsbp-idssegmented-marquesan-KEY-1//clicsbp-idssegmented-rapanui-KEY-1//clicsbp-idssegmented-rotuman-KEY-1//clicsbp-idssegmented-tongan-KEY-1//clicsbp-wold-Malagasy-KEY-1//clicsbp-wold-Takia-KEY-1"
     words "k i r i//t a v i r i//k i//k ĩ//f a n a l a h i d y//k i"
@@ -13704,7 +13692,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1142
+    id 1141
     label "CHISEL"
     occurrences "clicsbp-idssegmented-marquesan-CHISEL-2//clicsbp-idssegmented-marquesan-CHISEL-1//clicsbp-idssegmented-marquesan-CHISEL-3//clicsbp-idssegmented-rapanui-CHISEL-1//clicsbp-idssegmented-rotuman-CHISEL-1//clicsbp-idssegmented-tongan-CHISEL-1//clicsbp-wold-Malagasy-CHISEL-1//clicsbp-wold-Takia-CHISEL-1//clicsbp-wold-Hawaiian-CHISEL-1"
     words "k i r i//t o k i//n u t u p a h i//t i t oː//tʃ e s l e//t u t u ʔ u//f a ɳ ɖ r a k a//s i s e l//k i l a"
@@ -13716,7 +13704,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1143
+    id 1142
     label "STOVE"
     occurrences "clicsbp-idssegmented-marquesan-STOVE-1//clicsbp-idssegmented-marquesan-STOVE-2//clicsbp-idssegmented-rapanui-STOVE-1//clicsbp-idssegmented-rotuman-STOVE-1//clicsbp-idssegmented-tongan-STOVE-1//clicsbp-wold-Malagasy-STOVE-1//clicsbp-wold-Takia-STOVE-1//clicsbp-wold-Hawaiian-STOVE-1"
     words "f a n a i p a n i//n u n u + f a n a i p a n i//ʔ u m u + k u k i//o v e n e//s i t o u//l a f a o r o//s t o p//k a p u a h i"
@@ -13728,7 +13716,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1144
+    id 1143
     label "FURROW"
     occurrences "clicsbp-idssegmented-marquesan-FURROW-1//clicsbp-idssegmented-marquesan-FURROW-2//clicsbp-idssegmented-rapanui-FURROW-1//clicsbp-idssegmented-tongan-FURROW-1//clicsbp-wold-Malagasy-FURROW-1//clicsbp-wold-Takia-FURROW-1//clicsbp-wold-Hawaiian-FURROW-1"
     words "a v a//k o a v a//a v a//ʔ o t u + k u o + p a l a u ʔ i//s o r i s o r i ʈ r a//t a r e//a u w a h a"
@@ -13740,7 +13728,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1145
+    id 1144
     label "PALM TREE"
     occurrences "clicsbp-idssegmented-marquesan-PALMTREE-1//clicsbp-idssegmented-marquesan-PALMTREE-2//clicsbp-idssegmented-rapanui-PALMTREE-1//clicsbp-idssegmented-rapanui-PALMTREE-2//clicsbp-idssegmented-rotuman-PALMTREE-1//clicsbp-idssegmented-tongan-PALMTREE-1//clicsbp-wold-Hawaiian-PALMTREE-1"
     words "v a h a k e//v a h a n e//n i u//h a ʔ a r i//o t a//p aː m e//p a m a"
@@ -13752,7 +13740,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1146
+    id 1145
     label "BANANA TREE"
     occurrences "clicsbp-idssegmented-marquesan-BANANATREE-1//clicsbp-idssegmented-marquesan-BANANATREE-2//clicsbp-idssegmented-marquesan-BANANATREE-3//clicsbp-idssegmented-rapanui-BANANATREE-1//clicsbp-idssegmented-rotuman-BANANATREE-1//clicsbp-idssegmented-tongan-BANANATREE-1"
     words "t u m u + m e i k a//m e i a//e + m e i k a//m a i k a//p ɔ r i//s i a i n e"
@@ -13764,7 +13752,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1147
+    id 1146
     label "CASSAVA"
     occurrences "clicsbp-idssegmented-marquesan-CASSAVA-1//clicsbp-idssegmented-marquesan-CASSAVA-2//clicsbp-idssegmented-rapanui-CASSAVA-1//clicsbp-idssegmented-rotuman-CASSAVA-1//clicsbp-idssegmented-tongan-CASSAVA-1//clicsbp-wold-Malagasy-CASSAVA-1//clicsbp-wold-Takia-CASSAVA-1//clicsbp-wold-Hawaiian-CASSAVA-1"
     words "a i h u k a//m a n i o k a//m a n i o k a//t a p i k o//m a n i o k e//m a ŋg a h a z o//b e b//m a n i o k a"
@@ -13776,7 +13764,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1148
+    id 1147
     label "CUT DOWN"
     occurrences "clicsbp-idssegmented-marquesan-CUTDOWN-1//clicsbp-idssegmented-rapanui-CUTDOWN-1//clicsbp-idssegmented-rotuman-CUTDOWN-1//clicsbp-idssegmented-tongan-CUTDOWN-1//clicsbp-idssegmented-tuamotuan-CUTDOWN-1//clicsbp-wold-Malagasy-CUTDOWN-1//clicsbp-wold-Takia-CUTDOWN-1//clicsbp-wold-Hawaiian-CUTDOWN-1"
     words "e + t u a//p a ʔ o//f ɔ i//t u ʔ u s i//h a m u//m i k a p a//t a r e//o k i"
@@ -13788,7 +13776,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1149
+    id 1148
     label "FAN (OBJECT)"
     occurrences "clicsbp-idssegmented-marquesan-FANOBJECT-1//clicsbp-idssegmented-rotuman-FANOBJECT-1//clicsbp-wold-Malagasy-FANOBJECT-1//clicsbp-wold-Takia-FANOBJECT-1//clicsbp-wold-Hawaiian-FANOBJECT-1"
     words "t a h i i//s i v a//f i k o p a k a//tː a w i t//p e a h i"
@@ -13800,7 +13788,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1150
+    id 1149
     label "HAVE"
     occurrences "clicsbp-idssegmented-marquesan-HAVE-1//clicsbp-idssegmented-marquesan-HAVE-2//clicsbp-idssegmented-marquesan-HAVE-3//clicsbp-idssegmented-rotuman-HAVE-1//clicsbp-wold-Malagasy-HAVE-1//clicsbp-wold-Takia-HAVE-1//clicsbp-wold-Hawaiian-HAVE-1"
     words "a i n a//h a i n a//e + t a e t a e//ʔ e s e//m i s y + a o + a n + t a n a n y//d a + i//l o a a"
@@ -13812,7 +13800,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1151
+    id 1150
     label "MERCHANT"
     occurrences "clicsbp-idssegmented-marquesan-MERCHANT-1//clicsbp-idssegmented-rotuman-MERCHANT-1//clicsbp-idssegmented-tongan-MERCHANT-1//clicsbp-idssegmented-tongan-MERCHANT-2//clicsbp-wold-Malagasy-MERCHANT-1//clicsbp-wold-Takia-MERCHANT-1//clicsbp-wold-Hawaiian-MERCHANT-1"
     words "e + e n a t a + a k o//l e ʔ + t œ ŋ + ʔ æ k + t e//t o k o t a h a + p i s i n i s i + k o l o a//t a u h i k o l o a//m p i v a r o ʈ r a//s a i n a//k a l e p a"
@@ -13824,7 +13812,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1152
+    id 1151
     label "DAY AFTER TOMORROW"
     occurrences "clicsbp-idssegmented-marquesan-DAYAFTERTOMORROW-1//clicsbp-idssegmented-rapanui-DAYAFTERTOMORROW-1//clicsbp-idssegmented-rotuman-DAYAFTERTOMORROW-1//clicsbp-wold-Malagasy-DAYAFTERTOMORROW-1//clicsbp-wold-Takia-DAYAFTERTOMORROW-1//clicsbp-wold-Hawaiian-DAYAFTERTOMORROW-1"
     words "o i o i + a t u//a p oː + e r a//t e r a n i + t e + ʔ ĩ//r a h a f a k a ⁿp i ts o//s a l s o + p//a p o p o + a + i a + l a + a k u"
@@ -13836,7 +13824,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1153
+    id 1152
     label "WHISPER"
     occurrences "clicsbp-idssegmented-marquesan-WHISPER-1//clicsbp-idssegmented-marquesan-WHISPER-2//clicsbp-idssegmented-marquesan-WHISPER-3//clicsbp-idssegmented-rapanui-WHISPER-1//clicsbp-idssegmented-rotuman-WHISPER-1//clicsbp-idssegmented-tuamotuan-WHISPER-1//clicsbp-idssegmented-tuamotuan-WHISPER-2//clicsbp-idssegmented-tuamotuan-WHISPER-3//clicsbp-idssegmented-tuamotuan-WHISPER-4//clicsbp-wold-Malagasy-WHISPER-1//clicsbp-wold-Takia-WHISPER-1//clicsbp-wold-Hawaiian-WHISPER-1"
     words "p o t i i//m o t i i//k o h u m u h u m u//h a ʔ u m u + ʔ u m u//m u s u//ŋ uː ŋ uː//m u h u + m u h u//h i n i//h i m i//m i b i ts i b i ts i k a//k s i k + b o l//h a w a n a w a n a"
@@ -13848,7 +13836,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1154
+    id 1153
     label "MUMBLE"
     occurrences "clicsbp-idssegmented-marquesan-MUMBLE-1//clicsbp-idssegmented-marquesan-MUMBLE-2//clicsbp-idssegmented-marquesan-MUMBLE-3//clicsbp-idssegmented-rapanui-MUMBLE-1//clicsbp-idssegmented-rotuman-MUMBLE-1//clicsbp-idssegmented-tuamotuan-MUMBLE-1//clicsbp-wold-Malagasy-MUMBLE-1//clicsbp-wold-Takia-MUMBLE-1//clicsbp-wold-Hawaiian-MUMBLE-1"
     words "e + e o + p a t a t i//e + e o + p i p i i//e + e o + u//v a n a ŋ a + h a i + n i h o//ŋ uː + ʔ ɔ k i//a u ŋ a + u ŋ a//m i m o n o m o n o n a//ŋ r + ŋ u r//n a m u"
@@ -13860,7 +13848,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1155
+    id 1154
     label "STUTTER"
     occurrences "clicsbp-idssegmented-marquesan-STUTTER-1//clicsbp-idssegmented-marquesan-STUTTER-2//clicsbp-idssegmented-rapanui-STUTTER-1//clicsbp-idssegmented-rotuman-STUTTER-1//clicsbp-idssegmented-rotuman-STUTTER-2//clicsbp-idssegmented-tongan-STUTTER-1//clicsbp-idssegmented-tongan-STUTTER-2//clicsbp-idssegmented-tuamotuan-STUTTER-1//clicsbp-wold-Malagasy-STUTTER-1//clicsbp-wold-Malagasy-STUTTER-2//clicsbp-wold-Takia-STUTTER-1//clicsbp-wold-Hawaiian-STUTTER-1"
     words "e o + p i p i i//e + e o + m a n a u a//h a k a + p u n o k o//k æ k æ k e//f æ e a ŋ + k æ k æ k e//k o k o t e//t a p e p e//ŋ a u ŋ a u//m i a k a n a k a n a//m i a ⁿb a k a v a k a//b o l + g lː e//u u"
@@ -13872,7 +13860,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1156
+    id 1155
     label "HELMET"
     occurrences "clicsbp-idssegmented-marquesan-HELMET-1//clicsbp-idssegmented-rotuman-HELMET-1//clicsbp-idssegmented-tongan-HELMET-1//clicsbp-wold-Takia-HELMET-1//clicsbp-wold-Hawaiian-HELMET-1"
     words "e + p a e + t o + t e + t o a//s u r u//h e l e m e t i//h e l m e t//m a h i o l e"
@@ -13884,7 +13872,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1157
+    id 1156
     label "NATIVE COUNTRY"
     occurrences "clicsbp-idssegmented-rapanui-NATIVECOUNTRY-1//clicsbp-idssegmented-rotuman-NATIVECOUNTRY-1//clicsbp-wold-Malagasy-NATIVECOUNTRY-1//clicsbp-wold-Takia-NATIVECOUNTRY-1//clicsbp-wold-Hawaiian-NATIVECOUNTRY-1"
     words "h e n u a//h a n u a//t a n i ɳ ɖ r a z a n a//t a n + f u + n//o n e + h a n a u"
@@ -13896,7 +13884,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1158
+    id 1157
     label "BOLT (OF LIGHTNING)"
     occurrences "clicsbp-idssegmented-rapanui-BOLTOFLIGHTNING-1//clicsbp-idssegmented-rotuman-BOLTOFLIGHTNING-1//clicsbp-idssegmented-tuamotuan-BOLTOFLIGHTNING-1//clicsbp-idssegmented-tuamotuan-BOLTOFLIGHTNING-2//clicsbp-wold-Malagasy-BOLTOFLIGHTNING-2//clicsbp-wold-Malagasy-BOLTOFLIGHTNING-1//clicsbp-wold-Takia-BOLTOFLIGHTNING-1//clicsbp-wold-Hawaiian-BOLTOFLIGHTNING-1"
     words "u r e + t i t i ʔ o + m o a n a//f e//k oː h i k o//k e m o//ts e l a ʈ r a//h e l a ʈ r a//w e i l + i + f n i//u i l a"
@@ -13908,7 +13896,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1159
+    id 1158
     label "DANGER"
     occurrences "clicsbp-idssegmented-rapanui-DANGER-1//clicsbp-idssegmented-rotuman-DANGER-1//clicsbp-idssegmented-tongan-DANGER-1//clicsbp-idssegmented-tuamotuan-DANGER-1//clicsbp-wold-Malagasy-DANGER-1//clicsbp-wold-Takia-DANGER-1//clicsbp-wold-Hawaiian-DANGER-1"
     words "ʔ a t i//m a m ɔ r u//f a k a + t u ʔ u t a m a k i//e m i e m i//l o z a//a g e r//m e a + p o i n o"
@@ -13920,7 +13908,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1160
+    id 1159
     label "GUESS"
     occurrences "clicsbp-idssegmented-rapanui-GUESS-1//clicsbp-idssegmented-rotuman-GUESS-1//clicsbp-idssegmented-tongan-GUESS-1//clicsbp-idssegmented-tongan-GUESS-2//clicsbp-wold-Malagasy-GUESS-1//clicsbp-wold-Takia-GUESS-1//clicsbp-wold-Hawaiian-GUESS-1"
     words "ʔ a t i//æ r + ʔ ɔ k i//f a k a + f u o f u a//m a t e ʔ i//m a m i n a n y//k a n k a n + g a n e//k o h o"
@@ -13932,7 +13920,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1161
+    id 1160
     label "ICE"
     occurrences "clicsbp-idssegmented-rapanui-ICE-1//clicsbp-idssegmented-tongan-ICE-1//clicsbp-idssegmented-tongan-ICE-2//clicsbp-idssegmented-tongan-ICE-3//clicsbp-wold-Malagasy-ICE-1//clicsbp-wold-Takia-ICE-1//clicsbp-wold-Hawaiian-ICE-1"
     words "p a p e + t o ʔ e + t o ʔ e//ʔ a i s i//t u k u + ʔ a i s i//h a h a u + k u o + ʔ a i s i//r a n o m a ɳ ɖ r y//e i s//h a u"
@@ -13944,7 +13932,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1162
+    id 1161
     label "BURNING"
     occurrences "clicsbp-idssegmented-rapanui-BURNING-1//clicsbp-idssegmented-rapanui-BURNING-2//clicsbp-idssegmented-rotuman-BURNING-1//clicsbp-wold-Malagasy-BURNING-1//clicsbp-wold-Malagasy-BURNING-2//clicsbp-wold-Takia-BURNING-1//clicsbp-wold-Hawaiian-BURNING-1"
     words "v e r a//h uː//s u s u n u//m i r e h i ʈ r a//m a y//a n i//a"
@@ -13956,7 +13944,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1163
+    id 1162
     label "MARRIED MAN"
     occurrences "clicsbp-idssegmented-rapanui-MARRIEDMAN-1//clicsbp-idssegmented-rotuman-MARRIEDMAN-1//clicsbp-idssegmented-tongan-MARRIEDMAN-1//clicsbp-idssegmented-tuamotuan-MARRIEDMAN-1//clicsbp-wold-Malagasy-MARRIEDMAN-1//clicsbp-wold-Takia-MARRIEDMAN-1//clicsbp-wold-Hawaiian-MARRIEDMAN-1"
     words "t a ŋ a t a + h a i p o + i p o//f a ʔ i n o s o//t a ŋ a t a + m a l i//a h a n a//l e h i l a h y + m a n a ⁿb a d y//t a m o l + i w o + n + d a + j a//k a n e"
@@ -13968,7 +13956,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1164
+    id 1163
     label "MARRIED WOMAN"
     occurrences "clicsbp-idssegmented-rapanui-MARRIEDWOMAN-1//clicsbp-idssegmented-rotuman-MARRIEDWOMAN-1//clicsbp-idssegmented-tongan-MARRIEDWOMAN-1//clicsbp-idssegmented-tuamotuan-MARRIEDWOMAN-1//clicsbp-wold-Malagasy-MARRIEDWOMAN-1//clicsbp-wold-Takia-MARRIEDWOMAN-1//clicsbp-wold-Hawaiian-MARRIEDWOMAN-1"
     words "v i ʔ e + h a i p o + i p o//h æ n ʔ i n o s o//f e f i n e + m a l i//a h a n a//v e h i v a v y + m a n a ⁿb a d y//p e i n + i w o + n + d a + j a//w a h i n e"
@@ -13980,7 +13968,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1165
+    id 1164
     label "FATHER-IN-LAW (OF WOMAN)"
     occurrences "clicsbp-idssegmented-rapanui-FATHERINLAWOFWOMAN-1//clicsbp-wold-Malagasy-FATHERINLAWOFWOMAN-1//clicsbp-wold-Takia-FATHERINLAWOFWOMAN-1//clicsbp-wold-Hawaiian-FATHERINLAWOFWOMAN-1"
     words "h u ŋ a v a i + t a n e//r a f o z a ⁿd a h y//i r a o//m a k u a h u n o a i + k a n e"
@@ -13992,7 +13980,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1166
+    id 1165
     label "SON-IN-LAW (OF WOMAN)"
     occurrences "clicsbp-idssegmented-rapanui-SONINLAWOFWOMAN-1//clicsbp-wold-Malagasy-SONINLAWOFWOMAN-1//clicsbp-wold-Takia-SONINLAWOFWOMAN-1//clicsbp-wold-Hawaiian-SONINLAWOFWOMAN-1"
     words "h u n o ŋ a + t a n e//v i n a ⁿt o + l a h y//i r a o//h u n o n a + k a n e"
@@ -14004,7 +13992,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1167
+    id 1166
     label "DAUGHTER-IN-LAW (OF WOMAN)"
     occurrences "clicsbp-idssegmented-rapanui-DAUGHTERINLAWOFWOMAN-1//clicsbp-wold-Malagasy-DAUGHTERINLAWOFWOMAN-1//clicsbp-wold-Takia-DAUGHTERINLAWOFWOMAN-1//clicsbp-wold-Hawaiian-DAUGHTERINLAWOFWOMAN-1"
     words "h u n o ŋ a + v a h i n e//v i n a ⁿt o + v a v y//i r a o//h u n o n a + w a h i n e"
@@ -14016,7 +14004,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1168
+    id 1167
     label "CATTLE"
     occurrences "clicsbp-idssegmented-rapanui-CATTLE-1//clicsbp-idssegmented-tongan-CATTLE-1//clicsbp-wold-Malagasy-CATTLE-1//clicsbp-wold-Takia-CATTLE-1//clicsbp-wold-Hawaiian-CATTLE-1"
     words "p u a ʔ a//f a ŋ a + p u l u//b i b y + f i o ⁿp y//m a k a o//p i p i"
@@ -14028,7 +14016,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1169
+    id 1168
     label "MARE"
     occurrences "clicsbp-idssegmented-rapanui-MARE-1//clicsbp-wold-Malagasy-MARE-1//clicsbp-wold-Takia-MARE-1//clicsbp-wold-Hawaiian-MARE-1"
     words "h o i + v a h i n e//s o a v a l y + v a v y//w o s//l i o + w a h i n e"
@@ -14040,7 +14028,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1170
+    id 1169
     label "FOAL"
     occurrences "clicsbp-idssegmented-rapanui-FOAL-1//clicsbp-wold-Malagasy-FOAL-1//clicsbp-wold-Takia-FOAL-1//clicsbp-wold-Hawaiian-FOAL-1"
     words "h o i + t a n e//z a n a + ts o a v a l y//w o s//l i o + k e i k i"
@@ -14052,7 +14040,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1171
+    id 1170
     label "ROOSTER"
     occurrences "clicsbp-idssegmented-rapanui-ROOSTER-1//clicsbp-idssegmented-rotuman-ROOSTER-1//clicsbp-idssegmented-tongan-ROOSTER-1//clicsbp-idssegmented-tongan-ROOSTER-2//clicsbp-wold-Malagasy-ROOSTER-1//clicsbp-wold-Takia-ROOSTER-1//clicsbp-wold-Hawaiian-ROOSTER-1"
     words "m o a//m o a//m o a + t a ʔ a n e//f a k a + t a ŋ a t a//a k o h o + l a h y//k r e k//m o a + k a n e"
@@ -14064,7 +14052,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1172
+    id 1171
     label "SCORPION"
     occurrences "clicsbp-idssegmented-rapanui-SCORPION-1//clicsbp-idssegmented-rotuman-SCORPION-1//clicsbp-idssegmented-rotuman-SCORPION-2//clicsbp-idssegmented-tongan-SCORPION-1//clicsbp-wold-Malagasy-SCORPION-1//clicsbp-wold-Takia-SCORPION-1//clicsbp-wold-Hawaiian-SCORPION-1"
     words "v e r i + ʔ a r a h u//r e u + m a tʃ a//ʔ a k r a v a//s i k o p i o//m a i ŋg o k a//b r a m a t//k o p i a n a"
@@ -14076,7 +14064,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1173
+    id 1172
     label "TURTLE"
     occurrences "clicsbp-idssegmented-rapanui-TURTLE-1//clicsbp-idssegmented-rotuman-TURTLE-1//clicsbp-idssegmented-tongan-TURTLE-2//clicsbp-idssegmented-tongan-TURTLE-1//clicsbp-idssegmented-tuamotuan-TURTLE-1//clicsbp-idssegmented-tuamotuan-TURTLE-2//clicsbp-idssegmented-tuamotuan-TURTLE-3//clicsbp-idssegmented-tuamotuan-TURTLE-4//clicsbp-idssegmented-tuamotuan-TURTLE-5//clicsbp-wold-Malagasy-TURTLE-1//clicsbp-wold-Malagasy-TURTLE-2//clicsbp-wold-Takia-TURTLE-1//clicsbp-wold-Hawaiian-TURTLE-1"
     words "h o n u//h o i//k a p o ŋ a//f o n u//k a v a k a//h o n u//f oː n u//t ĩ f a i//t i h a i//s o k a ʈ r a//f a n o//f o n//h o n u"
@@ -14088,7 +14076,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1174
+    id 1173
     label "LIZARD"
     occurrences "clicsbp-idssegmented-rapanui-LIZARD-1//clicsbp-idssegmented-rotuman-LIZARD-1//clicsbp-idssegmented-tongan-LIZARD-1//clicsbp-wold-Malagasy-LIZARD-1//clicsbp-wold-Takia-LIZARD-1//clicsbp-wold-Hawaiian-LIZARD-1"
     words "m o k o//ʔ ɔ l u s i//m o k o//a ɳ ɖ r o ŋg o//p e i k//m o o"
@@ -14100,7 +14088,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1175
+    id 1174
     label "PUBIC HAIR"
     occurrences "clicsbp-idssegmented-rapanui-PUBICHAIR-1//clicsbp-idssegmented-rotuman-PUBICHAIR-1//clicsbp-idssegmented-tuamotuan-PUBICHAIR-1//clicsbp-idssegmented-tuamotuan-PUBICHAIR-2//clicsbp-wold-Takia-PUBICHAIR-1//clicsbp-wold-Hawaiian-PUBICHAIR-1"
     words "v e r e + p u k u//l e v + l e v a//h u r u h u r u + t i a//h u r u h u r u + p a n e//fː l u//h u l u h u l u"
@@ -14112,7 +14100,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1176
+    id 1175
     label "DANDRUFF"
     occurrences "clicsbp-idssegmented-rapanui-DANDRUFF-1//clicsbp-idssegmented-rotuman-DANDRUFF-1//clicsbp-idssegmented-tongan-DANDRUFF-1//clicsbp-idssegmented-tongan-DANDRUFF-2//clicsbp-wold-Malagasy-DANDRUFF-1//clicsbp-wold-Takia-DANDRUFF-1//clicsbp-wold-Hawaiian-DANDRUFF-1"
     words "r a h a//ʔ ü l + t a t + n e + p e l ʔ u t a//m a f u n o f u n a + e//ŋ e ʔ e s i + ʔ u l u//a ŋg a d r a n o//k l m o + k a w//k e p i a"
@@ -14124,7 +14112,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1177
+    id 1176
     label "CROUCH"
     occurrences "clicsbp-idssegmented-rapanui-CROUCH-2//clicsbp-idssegmented-rapanui-CROUCH-1//clicsbp-idssegmented-rotuman-CROUCH-1//clicsbp-idssegmented-tuamotuan-CROUCH-1//clicsbp-wold-Malagasy-CROUCH-1//clicsbp-wold-Takia-CROUCH-1//clicsbp-wold-Hawaiian-CROUCH-1"
     words "r a h a//n o i//f i a ʔ r e r e//k oː h e r e//m i t o r o v o k a//k r a k o r//o k u u"
@@ -14136,7 +14124,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1178
+    id 1177
     label "COIN"
     occurrences "clicsbp-idssegmented-rapanui-COIN-1//clicsbp-idssegmented-rotuman-COIN-1//clicsbp-idssegmented-tongan-COIN-1//clicsbp-idssegmented-tongan-COIN-2//clicsbp-wold-Malagasy-COIN-1//clicsbp-wold-Takia-COIN-1//clicsbp-wold-Hawaiian-COIN-1"
     words "t a r a//s e l e n e//s i l i n i//s e n i t i//l e l a + v o l a//p a t u//k e n i k e n i"
@@ -14148,7 +14136,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1179
+    id 1178
     label "EARLOBE"
     occurrences "clicsbp-idssegmented-rapanui-EARLOBE-1//clicsbp-idssegmented-rotuman-EARLOBE-1//clicsbp-wold-Malagasy-EARLOBE-1//clicsbp-wold-Takia-EARLOBE-1//clicsbp-wold-Hawaiian-EARLOBE-1"
     words "ʔ e p e//i s + f a l i ŋ a//t a d i n y//kː d o + a w e + n//l e p e + p e p e i a o"
@@ -14160,7 +14148,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1180
+    id 1179
     label "SOUP"
     occurrences "clicsbp-idssegmented-rapanui-SOUP-1//clicsbp-idssegmented-rotuman-SOUP-1//clicsbp-idssegmented-tongan-SOUP-1//clicsbp-wold-Malagasy-SOUP-1//clicsbp-wold-Takia-SOUP-1//clicsbp-wold-Takia-SOUP-2//clicsbp-wold-Hawaiian-SOUP-1"
     words "t i h o p u//s u p u//s u p o//l a s o p y//t o r//s u p//p a i l a"
@@ -14172,7 +14160,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1181
+    id 1180
     label "VEGETABLES"
     occurrences "clicsbp-idssegmented-rapanui-VEGETABLES-1//clicsbp-idssegmented-rotuman-VEGETABLES-1//clicsbp-idssegmented-tongan-VEGETABLES-1//clicsbp-wold-Malagasy-VEGETABLES-1//clicsbp-wold-Hawaiian-VEGETABLES-1"
     words "h a ʔ a + ʔ a p u//t e + l a + ʔ a//v e s i t a p o l o//a n a n a//l a u a i"
@@ -14184,7 +14172,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1182
+    id 1181
     label "BEAN"
     occurrences "clicsbp-idssegmented-rapanui-BEAN-1//clicsbp-idssegmented-rotuman-BEAN-1//clicsbp-idssegmented-tongan-BEAN-1//clicsbp-wold-Malagasy-BEAN-1//clicsbp-wold-Takia-BEAN-1//clicsbp-wold-Hawaiian-BEAN-1"
     words "ʔ a r i k o//p i n i//p iː n i//ts a r a m a s o//b i n//p i"
@@ -14196,7 +14184,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1183
+    id 1182
     label "TAILOR"
     occurrences "clicsbp-idssegmented-rapanui-TAILOR-1//clicsbp-idssegmented-rotuman-TAILOR-1//clicsbp-idssegmented-tongan-TAILOR-1//clicsbp-wold-Malagasy-TAILOR-1//clicsbp-wold-Hawaiian-TAILOR-1"
     words "r e i + r e i + k a h u//f a + s u s + h ɔ ʔ u//t a ŋ a t a + t u i t u i + v a l a//m p a ⁿdz a i ʈ r a//k e l a"
@@ -14208,7 +14196,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1184
+    id 1183
     label "COTTON"
     occurrences "clicsbp-idssegmented-rapanui-COTTON-1//clicsbp-idssegmented-rotuman-COTTON-1//clicsbp-idssegmented-tongan-COTTON-1//clicsbp-wold-Malagasy-COTTON-1//clicsbp-wold-Hawaiian-COTTON-1"
     words "v a v a i//s i p i//f i l o//l a ⁿd i h a z o//p u l u p u l u"
@@ -14220,7 +14208,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1185
+    id 1184
     label "SILK"
     occurrences "clicsbp-idssegmented-rapanui-SILK-1//clicsbp-idssegmented-rotuman-SILK-1//clicsbp-idssegmented-tongan-SILK-1//clicsbp-wold-Malagasy-SILK-1//clicsbp-wold-Malagasy-SILK-2//clicsbp-wold-Hawaiian-SILK-1"
     words "s e a//s i l i k a//s i l i k a//l a s o a//l a ⁿb a + l a ⁿd y//k i l i k a"
@@ -14232,7 +14220,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1186
+    id 1185
     label "GRASS-SKIRT"
     occurrences "clicsbp-idssegmented-rapanui-GRASSSKIRT-1//clicsbp-idssegmented-rotuman-GRASSSKIRT-1//clicsbp-wold-Takia-GRASSSKIRT-1"
     words "k a h u + k a k a k a//t i t i//dː i r"
@@ -14244,7 +14232,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1187
+    id 1186
     label "NETBAG"
     occurrences "clicsbp-idssegmented-rapanui-NETBAG-1//clicsbp-idssegmented-rotuman-NETBAG-1//clicsbp-idssegmented-tuamotuan-NETBAG-1//clicsbp-wold-Takia-NETBAG-1//clicsbp-wold-Takia-NETBAG-2//clicsbp-wold-Hawaiian-NETBAG-1"
     words "k e t e//t a ŋ a//h a u t uː//k t a o k//b a d a m//e k e"
@@ -14256,7 +14244,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1188
+    id 1187
     label "PIPE"
     occurrences "clicsbp-idssegmented-rapanui-PIPE-1//clicsbp-idssegmented-rotuman-PIPE-1//clicsbp-idssegmented-tongan-PIPE-1//clicsbp-idssegmented-tongan-PIPE-2//clicsbp-wold-Malagasy-PIPE-1//clicsbp-wold-Takia-PIPE-1//clicsbp-wold-Hawaiian-PIPE-1"
     words "p u h i + p u h i//p ɔ i p i//p a i p a//p a m u//p i p a//p a e p//i p u"
@@ -14268,7 +14256,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1189
+    id 1188
     label "FORKED BRANCH"
     occurrences "clicsbp-idssegmented-rapanui-FORKEDBRANCH-1//clicsbp-idssegmented-rapanui-FORKEDBRANCH-2//clicsbp-idssegmented-rotuman-FORKEDBRANCH-1//clicsbp-wold-Malagasy-FORKEDBRANCH-1//clicsbp-wold-Takia-FORKEDBRANCH-1"
     words "v a h a + m a ŋ a//p i p i//m a tʃ a//s a ⁿp a n a//p l a g e"
@@ -14280,7 +14268,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1190
+    id 1189
     label "SUGAR CANE"
     occurrences "clicsbp-idssegmented-rapanui-SUGARCANE-1//clicsbp-idssegmented-rotuman-SUGARCANE-1//clicsbp-idssegmented-tongan-SUGARCANE-1//clicsbp-wold-Malagasy-SUGARCANE-1//clicsbp-wold-Takia-SUGARCANE-1//clicsbp-wold-Hawaiian-SUGARCANE-1"
     words "t o a//f o ʔ u//t oː//f a r y//t o u//k o"
@@ -14292,7 +14280,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1191
+    id 1190
     label "LINE"
     occurrences "clicsbp-idssegmented-rapanui-LINE-1//clicsbp-idssegmented-rotuman-LINE-1//clicsbp-idssegmented-tongan-LINE-1//clicsbp-idssegmented-tuamotuan-LINE-1//clicsbp-wold-Malagasy-LINE-1//clicsbp-wold-Malagasy-LINE-2//clicsbp-wold-Takia-LINE-1//clicsbp-wold-Hawaiian-LINE-1"
     words "h o r e//ɔ f u//ʔ o t u//k a p a p a//ts i p i k a//l a h a ʈ r a//l a e n//l a i n a"
@@ -14304,7 +14292,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1192
+    id 1191
     label "TOOL"
     occurrences "clicsbp-idssegmented-rapanui-TOOL-1//clicsbp-idssegmented-rotuman-TOOL-1//clicsbp-idssegmented-tongan-TOOL-1//clicsbp-wold-Malagasy-TOOL-1//clicsbp-wold-Takia-TOOL-1//clicsbp-wold-Hawaiian-TOOL-1"
     words "r a m i e n t a//t e + ŋ a r u e ŋ a//m e ʔ a ŋ a u e//f i a s a n a//t u l s//m e a + h a n a"
@@ -14316,7 +14304,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1193
+    id 1192
     label "GO OUT"
     occurrences "clicsbp-idssegmented-rapanui-GOOUT-1//clicsbp-idssegmented-rotuman-GOOUT-1//clicsbp-wold-Malagasy-GOOUT-1//clicsbp-wold-Takia-GOOUT-1//clicsbp-wold-Hawaiian-GOOUT-1"
     words "e ʔ a//s a i//m i v o a k a//l a + s a//h a a l e l e"
@@ -14328,7 +14316,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1194
+    id 1193
     label "TRAP (CATCH)"
     occurrences "clicsbp-idssegmented-rapanui-TRAPCATCH-1//clicsbp-idssegmented-rotuman-TRAPCATCH-1//clicsbp-wold-Malagasy-TRAPCATCH-1//clicsbp-wold-Takia-TRAPCATCH-1//clicsbp-wold-Hawaiian-TRAPCATCH-1"
     words "ʔ a + ʔ a r u//f ɔ i//m a m a ɳ ɖ r i k a//a b i//u m i k i"
@@ -14340,7 +14328,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1195
+    id 1194
     label "RAPE"
     occurrences "clicsbp-idssegmented-rapanui-RAPE-1//clicsbp-idssegmented-rapanui-RAPE-2//clicsbp-idssegmented-rotuman-RAPE-1//clicsbp-idssegmented-tongan-RAPE-1//clicsbp-idssegmented-tuamotuan-RAPE-1//clicsbp-wold-Takia-RAPE-1//clicsbp-wold-Hawaiian-RAPE-1"
     words "ʔ a + ʔ a r u//t e k i//s a s a p + h æ n//t o h o t o h o//p a h e r a//r e p//p u e"
@@ -14352,7 +14340,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1196
+    id 1195
     label "GO UP (ASCEND)"
     occurrences "clicsbp-idssegmented-rapanui-GOUPASCEND-1//clicsbp-idssegmented-rotuman-GOUPASCEND-1//clicsbp-idssegmented-tuamotuan-GOUPASCEND-1//clicsbp-idssegmented-tuamotuan-GOUPASCEND-2//clicsbp-wold-Malagasy-GOUPASCEND-1//clicsbp-wold-Takia-GOUPASCEND-1//clicsbp-wold-Hawaiian-GOUPASCEND-1"
     words "i r i//tʃ o r o//k a k e//k a k e//m i a k a ʈ r a//s d a//p i i"
@@ -14364,7 +14352,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1197
+    id 1196
     label "GIVE BACK"
     occurrences "clicsbp-idssegmented-rapanui-GIVEBACK-1//clicsbp-idssegmented-rotuman-GIVEBACK-1//clicsbp-idssegmented-tuamotuan-GIVEBACK-1//clicsbp-wold-Malagasy-GIVEBACK-1//clicsbp-wold-Takia-GIVEBACK-1//clicsbp-wold-Hawaiian-GIVEBACK-1"
     words "h a k a + h o k i//h œ + ʔ ɔ k i//h a k a h o k i//m a m e r i n a//g a n e + m u l//h o i h o i"
@@ -14376,7 +14364,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1198
+    id 1197
     label "PRESERVE"
     occurrences "clicsbp-idssegmented-rapanui-PRESERVE-1//clicsbp-idssegmented-rotuman-PRESERVE-1//clicsbp-idssegmented-tuamotuan-PRESERVE-1//clicsbp-wold-Malagasy-PRESERVE-1//clicsbp-wold-Takia-PRESERVE-1//clicsbp-wold-Hawaiian-PRESERVE-1"
     words "r o ʔ o u//æ f + ʔ ɔ k i//h a p u r a ŋ a//m i a r o//p a t u + n + p a s i//m a l a m a"
@@ -14388,7 +14376,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1199
+    id 1198
     label "OWE"
     occurrences "clicsbp-idssegmented-rapanui-OWE-1//clicsbp-idssegmented-rotuman-OWE-1//clicsbp-idssegmented-tongan-OWE-1//clicsbp-wold-Malagasy-OWE-1//clicsbp-wold-Takia-OWE-1//clicsbp-wold-Hawaiian-OWE-1"
     words "t a r a h u//t i n a u//m o ʔ u a//m i ʈ r o s a//d i n a + p a n i//a i e"
@@ -14400,7 +14388,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1200
+    id 1199
     label "BILL"
     occurrences "clicsbp-idssegmented-rapanui-BILL-1//clicsbp-idssegmented-rapanui-BILL-2//clicsbp-idssegmented-rotuman-BILL-1//clicsbp-idssegmented-tongan-BILL-1//clicsbp-wold-Malagasy-BILL-1//clicsbp-wold-Hawaiian-BILL-1"
     words "t a p a//t a + t a k u//f a k r a u//m o ʔ u a//a d i s a n i n a//p i l a"
@@ -14412,7 +14400,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1201
+    id 1200
     label "MARKET"
     occurrences "clicsbp-idssegmented-rapanui-MARKET-1//clicsbp-idssegmented-rotuman-MARKET-1//clicsbp-idssegmented-tongan-MARKET-1//clicsbp-wold-Malagasy-MARKET-1//clicsbp-wold-Takia-MARKET-1//clicsbp-wold-Hawaiian-MARKET-1"
     words "m e r k a o//m a k e t e//m a k e t i//ts e n a//m a k e t//m a k e k e"
@@ -14424,7 +14412,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1202
+    id 1201
     label "PICK UP"
     occurrences "clicsbp-idssegmented-rapanui-PICKUP-1//clicsbp-idssegmented-rapanui-PICKUP-2//clicsbp-idssegmented-rotuman-PICKUP-1//clicsbp-idssegmented-tongan-PICKUP-1//clicsbp-wold-Malagasy-PICKUP-1//clicsbp-wold-Takia-PICKUP-1//clicsbp-wold-Hawaiian-PICKUP-1"
     words "r u n u//t o ʔ o + m a i//f u i//t o ʔ o + h a k e//m i ts i ⁿp o n a//a b i + s a//k i i"
@@ -14436,7 +14424,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1203
+    id 1202
     label "LAST (FINAL)"
     occurrences "clicsbp-idssegmented-rapanui-LASTFINAL-1//clicsbp-idssegmented-rotuman-LASTFINAL-1//clicsbp-idssegmented-tongan-LASTFINAL-1//clicsbp-wold-Malagasy-LASTFINAL-1//clicsbp-wold-Takia-LASTFINAL-1//clicsbp-wold-Hawaiian-LASTFINAL-1"
     words "h o p e ʔ a//f a k m u r i//f a k a + m u i m u i//f a r a n y//w a d a + n + p a s i k//h o p e"
@@ -14448,7 +14436,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1204
+    id 1203
     label "NOTHING OR ZERO"
     occurrences "clicsbp-idssegmented-rapanui-NOTHINGORZERO-1//clicsbp-idssegmented-rapanui-NOTHINGORZERO-2//clicsbp-idssegmented-rotuman-NOTHINGORZERO-1//clicsbp-idssegmented-tongan-NOTHINGORZERO-1"
     words "ʔ i n a//e + k o r e + e + t a h i//ʔ oː//n o a"
@@ -14460,7 +14448,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1205
+    id 1204
     label "END (OF TIME)"
     occurrences "clicsbp-idssegmented-rapanui-ENDOFTIME-1//clicsbp-idssegmented-rotuman-ENDOFTIME-1//clicsbp-wold-Malagasy-ENDOFTIME-1//clicsbp-wold-Takia-ENDOFTIME-1//clicsbp-wold-Hawaiian-ENDOFTIME-1"
     words "o t i//a ʔ + œ f i ŋ a//f a r a n a//w a d a//h o p e n a"
@@ -14472,7 +14460,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1206
+    id 1205
     label "OFTEN"
     occurrences "clicsbp-idssegmented-rapanui-OFTEN-1//clicsbp-idssegmented-rotuman-OFTEN-1//clicsbp-idssegmented-rotuman-OFTEN-2//clicsbp-idssegmented-tongan-OFTEN-1//clicsbp-wold-Malagasy-OFTEN-1//clicsbp-wold-Takia-OFTEN-1//clicsbp-wold-Hawaiian-OFTEN-1"
     words "r u ŋ a + r u ŋ a//a ʔ + m a ʔ o i//a ʔ + m o u//f a ʔ a//m a t e t i k a//n a l + p e m p e m//p i n e p i n e"
@@ -14484,7 +14472,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1207
+    id 1206
     label "SOMETIMES"
     occurrences "clicsbp-idssegmented-rapanui-SOMETIMES-1//clicsbp-idssegmented-rotuman-SOMETIMES-1//clicsbp-idssegmented-rotuman-SOMETIMES-2//clicsbp-idssegmented-tongan-SOMETIMES-1//clicsbp-wold-Malagasy-SOMETIMES-1//clicsbp-wold-Takia-SOMETIMES-1//clicsbp-wold-Hawaiian-SOMETIMES-1"
     words "t o ʔ o n a + h o r a//ʔ e + a v + ʔ e + ʔ o n + r e r e ŋ e//k a r a u//t a i m i + ʔ e + n i ʔ i h i//i ɳ ɖ r a i ɳ ɖ r a y//n a l + k a e k + k a e k//k e k a h i + m a n a w a"
@@ -14496,7 +14484,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1208
+    id 1207
     label "DAY BEFORE YESTERDAY"
     occurrences "clicsbp-idssegmented-rapanui-DAYBEFOREYESTERDAY-1//clicsbp-idssegmented-rotuman-DAYBEFOREYESTERDAY-1//clicsbp-wold-Malagasy-DAYBEFOREYESTERDAY-1//clicsbp-wold-Takia-DAYBEFOREYESTERDAY-1"
     words "ʔ a ŋ a t a i a h i e r a//r æ ʔ t a ŋ a//a f a k o m a l y//w a r i"
@@ -14508,7 +14496,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1209
+    id 1208
     label "SPRINGTIME"
     occurrences "clicsbp-idssegmented-rapanui-SPRINGTIME-1//clicsbp-wold-Malagasy-SPRINGTIME-1//clicsbp-wold-Hawaiian-SPRINGTIME-1"
     words "ʔ a v a ʔ e + p i p i + m i r o//l o h a t a o n a//k u p u l a u"
@@ -14520,7 +14508,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1210
+    id 1209
     label "SMELL (PERCEIVE)"
     occurrences "clicsbp-idssegmented-rapanui-SMELLPERCEIVE-1//clicsbp-idssegmented-rotuman-SMELLPERCEIVE-1//clicsbp-idssegmented-tuamotuan-SMELLPERCEIVE-1//clicsbp-wold-Malagasy-SMELLPERCEIVE-1//clicsbp-wold-Takia-SMELLPERCEIVE-1//clicsbp-wold-Hawaiian-SMELLPERCEIVE-1"
     words "h o ŋ i//h u ŋ a//k oː ŋ a ŋ a//m a n a ⁿb o l o//w e n + l o ŋ//h o n i"
@@ -14532,7 +14520,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1211
+    id 1210
     label "THINK (BELIEVE)"
     occurrences "clicsbp-idssegmented-rapanui-THINKBELIEVE-1//clicsbp-idssegmented-rotuman-THINKBELIEVE-1//clicsbp-idssegmented-tongan-THINKBELIEVE-2//clicsbp-idssegmented-tongan-THINKBELIEVE-1//clicsbp-wold-Malagasy-THINKBELIEVE-1//clicsbp-wold-Takia-THINKBELIEVE-1//clicsbp-wold-Hawaiian-THINKBELIEVE-1"
     words "m a n a ʔ u//a ʔʰ æ e//l a u//p e h e//m a n a o//b o l//m a n a o"
@@ -14544,7 +14532,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1212
+    id 1211
     label "IDEA"
     occurrences "clicsbp-idssegmented-rapanui-IDEA-2//clicsbp-idssegmented-rapanui-IDEA-3//clicsbp-idssegmented-rapanui-IDEA-1//clicsbp-idssegmented-rotuman-IDEA-1//clicsbp-idssegmented-tongan-IDEA-1//clicsbp-wold-Malagasy-IDEA-1//clicsbp-wold-Takia-IDEA-1//clicsbp-wold-Hawaiian-IDEA-1"
     words "m a n a ʔ u//t u i a//r a v e ʔ a//a ʔʰ æ e//f a k a + k a u k a u//h e v i ʈ r a//k a n k a n//m a n a o"
@@ -14556,7 +14544,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1213
+    id 1212
     label "DECEIT"
     occurrences "clicsbp-idssegmented-rapanui-DECEIT-1//clicsbp-idssegmented-rotuman-DECEIT-1//clicsbp-idssegmented-tongan-DECEIT-1//clicsbp-idssegmented-tongan-DECEIT-2//clicsbp-idssegmented-tongan-DECEIT-3//clicsbp-idssegmented-tuamotuan-DECEIT-1//clicsbp-idssegmented-tuamotuan-DECEIT-2//clicsbp-idssegmented-tuamotuan-DECEIT-3//clicsbp-wold-Malagasy-DECEIT-1//clicsbp-wold-Malagasy-DECEIT-2//clicsbp-wold-Takia-DECEIT-1//clicsbp-wold-Hawaiian-DECEIT-1"
     words "p o r i k o//s i k o//k a k a//k a k aː ʔ i//k o + h a + k a k a//f a k a a t a//f a k a t a//f a k a h e ŋ a//f i t a k a//f a n a ⁿb a k a n a//r a w e + k//h o o p u n i p u n i"
@@ -14568,7 +14556,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1214
+    id 1213
     label "FORGIVE"
     occurrences "clicsbp-idssegmented-rapanui-FORGIVE-1//clicsbp-idssegmented-rapanui-FORGIVE-2//clicsbp-idssegmented-rotuman-FORGIVE-1//clicsbp-idssegmented-tongan-FORGIVE-1//clicsbp-idssegmented-tuamotuan-FORGIVE-1//clicsbp-idssegmented-tuamotuan-FORGIVE-2//clicsbp-wold-Malagasy-FORGIVE-1//clicsbp-wold-Takia-FORGIVE-1//clicsbp-wold-Hawaiian-FORGIVE-1"
     words "h a k a + k o r e//h a k a + o t i//r œ t + ʔ ɔ k i//f a k a + m o l e m o l e ʔ i//h a k a k o r e//h a k a k o r e v e k e//m a m e l a//p a r e + d u//k a l a"
@@ -14580,7 +14568,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1215
+    id 1214
     label "GREEDY"
     occurrences "clicsbp-idssegmented-rapanui-GREEDY-1//clicsbp-idssegmented-rapanui-GREEDY-2//clicsbp-idssegmented-rapanui-GREEDY-3//clicsbp-idssegmented-rotuman-GREEDY-1//clicsbp-idssegmented-rotuman-GREEDY-2//clicsbp-idssegmented-rotuman-GREEDY-3//clicsbp-idssegmented-tongan-GREEDY-1//clicsbp-idssegmented-tongan-GREEDY-2//clicsbp-wold-Malagasy-GREEDY-1//clicsbp-wold-Takia-GREEDY-1"
     words "o n o + o n o//t i t a u//n o u + n o u//h u a ŋ + p u ʔ a//h u a ŋ + k u m i//k a k a f a//m a n u m a n u//ʔ u a k a i//l i a n a//p a r + f t a n i"
@@ -14592,7 +14580,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1216
+    id 1215
     label "SEEM"
     occurrences "clicsbp-idssegmented-rapanui-SEEM-1//clicsbp-idssegmented-rotuman-SEEM-1//clicsbp-wold-Malagasy-SEEM-1//clicsbp-wold-Malagasy-SEEM-2//clicsbp-wold-Takia-SEEM-1"
     words "t u ʔ u + p e + h e//k e l e ŋ a//a t a o//t o a//b o l + o ŋ"
@@ -14604,7 +14592,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1217
+    id 1216
     label "STUDY"
     occurrences "clicsbp-idssegmented-rapanui-STUDY-1//clicsbp-idssegmented-rotuman-STUDY-1//clicsbp-idssegmented-tongan-STUDY-1//clicsbp-wold-Malagasy-STUDY-1//clicsbp-wold-Takia-STUDY-1//clicsbp-wold-Hawaiian-STUDY-1"
     words "h a p ĩ//r a k o//a k o//m i a n a ʈ r a//l e + l o ŋ//h o o p a a + h a a w i n a"
@@ -14616,7 +14604,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1218
+    id 1217
     label "HOW MUCH"
     occurrences "clicsbp-idssegmented-rapanui-HOWMUCH-1//clicsbp-idssegmented-rotuman-HOWMUCH-1//clicsbp-idssegmented-tongan-HOWMUCH-1//clicsbp-wold-Malagasy-HOWMUCH-1//clicsbp-wold-Malagasy-HOWMUCH-2//clicsbp-wold-Takia-HOWMUCH-1//clicsbp-wold-Hawaiian-HOWMUCH-1"
     words "e + h i a//h i s i//h a + h o n o + l a h i + p e + m a h u ʔ i ŋ a//f i r y//h o a ʈ r i n o n a//s a p i t a//e h i a"
@@ -14628,7 +14616,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1219
+    id 1218
     label "JUDGMENT"
     occurrences "clicsbp-idssegmented-rapanui-JUDGMENT-1//clicsbp-idssegmented-rotuman-JUDGMENT-1//clicsbp-idssegmented-tongan-JUDGMENT-2//clicsbp-idssegmented-tongan-JUDGMENT-1//clicsbp-wold-Malagasy-JUDGMENT-1//clicsbp-wold-Hawaiian-JUDGMENT-1"
     words "t u r e//a ʔʰ æ e//f a k a + f u o f u a//f a k a + m aː u//d i d i ⁿp i ts a r a n a//k o h o"
@@ -14640,7 +14628,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1220
+    id 1219
     label "PROSTITUTE"
     occurrences "clicsbp-idssegmented-rapanui-PROSTITUTE-1//clicsbp-idssegmented-rotuman-PROSTITUTE-1//clicsbp-idssegmented-tongan-PROSTITUTE-1//clicsbp-wold-Malagasy-PROSTITUTE-1//clicsbp-wold-Malagasy-PROSTITUTE-2//clicsbp-wold-Malagasy-PROSTITUTE-3//clicsbp-wold-Malagasy-PROSTITUTE-4//clicsbp-wold-Takia-PROSTITUTE-1//clicsbp-wold-Hawaiian-PROSTITUTE-1"
     words "t a i ʔ o//h æ n + r a k s a ʔ a//l a l e k i n i//m a k o r e l i n a//m p i v a r o t e n a//k a o d y//v e h i v a v y + dz a ŋg a//d a l + s a + n + p e i n//w a h i n e + h o o k a m a k a m a"
@@ -14652,7 +14640,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1221
+    id 1220
     label "DRUM"
     occurrences "clicsbp-idssegmented-rapanui-DRUM-1//clicsbp-idssegmented-rotuman-DRUM-1//clicsbp-idssegmented-tongan-DRUM-1//clicsbp-wold-Malagasy-DRUM-1//clicsbp-wold-Takia-DRUM-2//clicsbp-wold-Takia-DRUM-1//clicsbp-wold-Hawaiian-DRUM-1"
     words "t a m p u r u//tʃ a r a m u//t a l a m u//a ⁿp o ŋg a//d o u//d g a d u g//p a h u"
@@ -14664,7 +14652,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1222
+    id 1221
     label "NEIGHBOUR"
     occurrences "clicsbp-idssegmented-rapanui-NEIGHBOUR-1//clicsbp-idssegmented-tongan-NEIGHBOUR-1//clicsbp-idssegmented-tuamotuan-NEIGHBOUR-1//clicsbp-wold-Malagasy-NEIGHBOUR-1//clicsbp-wold-Takia-NEIGHBOUR-1//clicsbp-wold-Hawaiian-NEIGHBOUR-1"
     words "t a ŋ a t a + h a r e//k a u ŋ a ʔ a p i//t a ŋ a t a + t u p u//m p i f a n o l o b o d y + r i ɳ ɖ r i n a//m d b a n//h o a + k a i a h o m e"
@@ -14676,7 +14664,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1223
+    id 1222
     label "RETREAT"
     occurrences "clicsbp-idssegmented-rapanui-RETREAT-1//clicsbp-idssegmented-rotuman-RETREAT-1//clicsbp-wold-Malagasy-RETREAT-1//clicsbp-wold-Malagasy-RETREAT-2//clicsbp-wold-Takia-RETREAT-1//clicsbp-wold-Hawaiian-RETREAT-1"
     words "n e k e//tʃ o n i//m a ⁿd o s i ʈ r a//m i r i a ʈ r a//m u l//n e e h o p e"
@@ -14688,7 +14676,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1224
+    id 1223
     label "AMBUSH"
     occurrences "clicsbp-idssegmented-rapanui-AMBUSH-1//clicsbp-idssegmented-rotuman-AMBUSH-1//clicsbp-idssegmented-rotuman-AMBUSH-2//clicsbp-idssegmented-rotuman-AMBUSH-3//clicsbp-wold-Malagasy-AMBUSH-1//clicsbp-wold-Takia-AMBUSH-1//clicsbp-wold-Hawaiian-AMBUSH-1"
     words "a m o ŋ a r a u//f a k p oː//t a t a ʔ o//m o m o ʔ o//o ʈ r i k a//f t a n i//h a l u a"
@@ -14700,7 +14688,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1225
+    id 1224
     label "FISHERMAN"
     occurrences "clicsbp-idssegmented-rapanui-FISHERMAN-1//clicsbp-idssegmented-rapanui-FISHERMAN-2//clicsbp-idssegmented-rotuman-FISHERMAN-1//clicsbp-idssegmented-tongan-FISHERMAN-1//clicsbp-wold-Malagasy-FISHERMAN-1//clicsbp-wold-Malagasy-FISHERMAN-2//clicsbp-wold-Malagasy-FISHERMAN-3//clicsbp-wold-Malagasy-FISHERMAN-4//clicsbp-wold-Hawaiian-FISHERMAN-1"
     words "t a ŋ a t a + h ĩ + i k a//t e r e + v a k a//t a u t e i//t a ŋ a t a + t o u t a i//m p i h a z a//m p a m i ⁿt a n a//m p a ⁿdz o n o//m p a m o v o//l a w a i a"
@@ -14712,7 +14700,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1226
+    id 1225
     label "FISH TRAP"
     occurrences "clicsbp-idssegmented-rapanui-FISHTRAP-2//clicsbp-idssegmented-rapanui-FISHTRAP-1//clicsbp-idssegmented-rotuman-FISHTRAP-1//clicsbp-idssegmented-tongan-FISHTRAP-1//clicsbp-idssegmented-tuamotuan-FISHTRAP-1//clicsbp-wold-Malagasy-FISHTRAP-1//clicsbp-wold-Takia-FISHTRAP-1//clicsbp-wold-Hawaiian-FISHTRAP-1"
     words "k u p e ŋ a//t a r a m p a//f a ŋ a//f i n a k i//h i n a k i//v o v o//s a e ŋ//h i n a i"
@@ -14724,7 +14712,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1227
+    id 1226
     label "SWEAR"
     occurrences "clicsbp-idssegmented-rapanui-SWEAR-1//clicsbp-idssegmented-rotuman-SWEAR-1//clicsbp-idssegmented-tongan-SWEAR-1//clicsbp-idssegmented-tongan-SWEAR-2//clicsbp-wold-Malagasy-SWEAR-1//clicsbp-wold-Hawaiian-SWEAR-1//clicsbp-wold-Hawaiian-SWEAR-2"
     words "h o r e a//p uː l i o//f u a k a v a//f a k a + f u a k a v a ʔ i//m i a n i a n a//h o o h i k i//k u e a"
@@ -14736,7 +14724,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1228
+    id 1227
     label "OATH"
     occurrences "clicsbp-idssegmented-rapanui-OATH-1//clicsbp-idssegmented-rotuman-OATH-1//clicsbp-wold-Malagasy-OATH-1//clicsbp-wold-Takia-OATH-1//clicsbp-wold-Hawaiian-OATH-1"
     words "h o r e a//f æ e a ŋ + r e u t u//f i a n i a n a n a//h o l i m + b a i b e l//o l e l o + h o o h i k i"
@@ -14748,7 +14736,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1229
+    id 1228
     label "PATERNAL UNCLE (FATHER'S BROTHER)"
     occurrences "clicsbp-idssegmented-rotuman-PATERNALUNCLEFATHERSBROTHER-1//clicsbp-wold-Malagasy-PATERNALUNCLEFATHERSBROTHER-1//clicsbp-wold-Takia-PATERNALUNCLEFATHERSBROTHER-1//clicsbp-wold-Hawaiian-PATERNALUNCLEFATHERSBROTHER-1"
     words "œ ʔ f a//r a h a l a h i ɳ ɖ r a y//t a m a//a n a k a l a"
@@ -14760,7 +14748,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1230
+    id 1229
     label "MATERNAL UNCLE (MOTHER'S BROTHER)"
     occurrences "clicsbp-idssegmented-rotuman-MATERNALUNCLEMOTHERSBROTHER-1//clicsbp-wold-Malagasy-MATERNALUNCLEMOTHERSBROTHER-1//clicsbp-wold-Takia-MATERNALUNCLEMOTHERSBROTHER-1//clicsbp-wold-Hawaiian-MATERNALUNCLEMOTHERSBROTHER-1"
     words "o ʔʰ o n i//a n a d a h i ɳ ɖ r e n y//n g a i//a n a k a l a"
@@ -14772,7 +14760,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1231
+    id 1230
     label "MATERNAL AUNT (MOTHER'S SISTER)"
     occurrences "clicsbp-idssegmented-rotuman-MATERNALAUNTMOTHERSSISTER-1//clicsbp-wold-Malagasy-MATERNALAUNTMOTHERSSISTER-1//clicsbp-wold-Takia-MATERNALAUNTMOTHERSSISTER-1//clicsbp-wold-Hawaiian-MATERNALAUNTMOTHERSSISTER-1"
     words "o ʔʰ o n i//r a h a v a v i ɳ ɖ r e n y//t n a//a n a k e"
@@ -14784,7 +14772,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1232
+    id 1231
     label "PATERNAL AUNT (FATHER'S SISTER)"
     occurrences "clicsbp-idssegmented-rotuman-PATERNALAUNTFATHERSSISTER-1//clicsbp-wold-Malagasy-PATERNALAUNTFATHERSSISTER-1//clicsbp-wold-Takia-PATERNALAUNTFATHERSSISTER-1//clicsbp-wold-Hawaiian-PATERNALAUNTFATHERSSISTER-1"
     words "o ʔʰ o n i//a n a b a v i ɳ ɖ r a y//n b i//a n a k e"
@@ -14796,7 +14784,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1233
+    id 1232
     label "BEAR"
     occurrences "clicsbp-idssegmented-rotuman-BEAR-1//clicsbp-idssegmented-tongan-BEAR-1//clicsbp-wold-Malagasy-BEAR-1//clicsbp-wold-Hawaiian-BEAR-1"
     words "p e a//p e a//o r s a//p e a"
@@ -14808,7 +14796,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1234
+    id 1233
     label "MONKEY"
     occurrences "clicsbp-idssegmented-rotuman-MONKEY-1//clicsbp-idssegmented-tongan-MONKEY-1//clicsbp-wold-Malagasy-MONKEY-1//clicsbp-wold-Malagasy-MONKEY-2//clicsbp-wold-Takia-MONKEY-1//clicsbp-wold-Hawaiian-MONKEY-1"
     words "m ɔ ŋ k e//ŋ e l i//dz a k o//r a dz a k o//m o ŋ i//k e k o"
@@ -14820,7 +14808,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1235
+    id 1234
     label "ELEPHANT"
     occurrences "clicsbp-idssegmented-rotuman-ELEPHANT-1//clicsbp-idssegmented-tongan-ELEPHANT-1//clicsbp-wold-Malagasy-ELEPHANT-1//clicsbp-wold-Takia-ELEPHANT-1//clicsbp-wold-Hawaiian-ELEPHANT-1"
     words "a l e f e n//ʔ e l e f a n i t e//e l e f a ⁿt a//e l e f a n//e l e p a n i"
@@ -14832,7 +14820,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1236
+    id 1235
     label "CROCODILE"
     occurrences "clicsbp-idssegmented-rotuman-CROCODILE-1//clicsbp-idssegmented-tongan-CROCODILE-1//clicsbp-idssegmented-tongan-CROCODILE-2//clicsbp-wold-Malagasy-CROCODILE-1//clicsbp-wold-Malagasy-CROCODILE-2//clicsbp-wold-Takia-CROCODILE-1//clicsbp-wold-Hawaiian-CROCODILE-1"
     words "æ l e k i t a//ʔ e l i k e i t a//k a l o k a t a i l e//m a ⁿb a//v o a y//f a i//m o o + n u i"
@@ -14844,7 +14832,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1237
+    id 1236
     label "CHILI PEPPER"
     occurrences "clicsbp-idssegmented-rotuman-CHILIPEPPER-1//clicsbp-wold-Malagasy-CHILIPEPPER-1//clicsbp-wold-Takia-CHILIPEPPER-1//clicsbp-wold-Hawaiian-CHILIPEPPER-1"
     words "ʔ ɔ i + s u n u//s a k a y//m a r u p//k i l i"
@@ -14856,7 +14844,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1238
+    id 1237
     label "COLLAR"
     occurrences "clicsbp-idssegmented-rotuman-COLLAR-1//clicsbp-idssegmented-tongan-COLLAR-1//clicsbp-wold-Malagasy-COLLAR-1//clicsbp-wold-Takia-COLLAR-1//clicsbp-wold-Hawaiian-COLLAR-1"
     words "k o l a//k o l a//v o z o nʼ a k a ⁿdz o//k o l a//k a l a"
@@ -14868,7 +14856,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1239
+    id 1238
     label "GLOVE"
     occurrences "clicsbp-idssegmented-rotuman-GLOVE-1//clicsbp-idssegmented-tongan-GLOVE-1//clicsbp-wold-Malagasy-GLOVE-1//clicsbp-wold-Takia-GLOVE-1//clicsbp-wold-Hawaiian-GLOVE-1"
     words "h ɔ ʔ + n e + ʔ u ʔ u//k o f u n i m a//g a ⁿt a n a n a//g l a b//m i k i l i m a"
@@ -14880,7 +14868,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1240
+    id 1239
     label "LATCH"
     occurrences "clicsbp-idssegmented-rotuman-LATCH-1//clicsbp-idssegmented-tongan-LATCH-1//clicsbp-idssegmented-tongan-LATCH-2//clicsbp-wold-Malagasy-LATCH-1//clicsbp-wold-Takia-LATCH-1//clicsbp-wold-Hawaiian-LATCH-1"
     words "a ʔ m o u ŋ a//m e ʔ a + f a k a + m a ʔ u//p o l o t a//h i d y//p e d b o l//k i"
@@ -14892,7 +14880,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1241
+    id 1240
     label "PLANT (VEGETATION)"
     occurrences "clicsbp-idssegmented-rotuman-PLANTVEGETATION-1//clicsbp-idssegmented-tongan-PLANTVEGETATION-1//clicsbp-idssegmented-tuamotuan-PLANTVEGETATION-1//clicsbp-wold-Malagasy-PLANTVEGETATION-1//clicsbp-wold-Takia-PLANTVEGETATION-1//clicsbp-wold-Hawaiian-PLANTVEGETATION-1"
     words "h uː//ʔ a k a u//ŋ a h e r e//z a v a m a n i r y//a i//m e a + k a n u"
@@ -14904,7 +14892,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1242
+    id 1241
     label "GUILTY"
     occurrences "clicsbp-idssegmented-rotuman-GUILTY-1//clicsbp-idssegmented-tongan-GUILTY-1//clicsbp-wold-Malagasy-GUILTY-2//clicsbp-wold-Malagasy-GUILTY-1//clicsbp-wold-Takia-GUILTY-1//clicsbp-wold-Hawaiian-GUILTY-1"
     words "a ŋ s a r a//h a l a i a//m e l o k a//d i s o//g i l t i//h o a h e w a"
@@ -14916,7 +14904,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1243
+    id 1242
     label "CARRY IN HAND"
     occurrences "clicsbp-idssegmented-rotuman-CARRYINHAND-1//clicsbp-idssegmented-tongan-CARRYINHAND-1//clicsbp-wold-Malagasy-CARRYINHAND-1//clicsbp-wold-Takia-CARRYINHAND-1//clicsbp-wold-Hawaiian-CARRYINHAND-1"
     words "ʔ ɔ v i//f u a//m i v i ⁿb i n a//a b i//h a p a i"
@@ -14928,7 +14916,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1244
+    id 1243
     label "CARRY UNDER ARM"
     occurrences "clicsbp-idssegmented-rotuman-CARRYUNDERARM-1//clicsbp-idssegmented-tongan-CARRYUNDERARM-1//clicsbp-wold-Malagasy-CARRYUNDERARM-1//clicsbp-wold-Takia-CARRYUNDERARM-1//clicsbp-wold-Hawaiian-CARRYUNDERARM-1"
     words "k ɔ ʔ u//ʔ e f i//m i s a k e l i k a//p n i//h a p a i"
@@ -14940,7 +14928,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1245
+    id 1244
     label "BORROW"
     occurrences "clicsbp-idssegmented-rotuman-BORROW-1//clicsbp-idssegmented-tongan-BORROW-1//clicsbp-wold-Malagasy-BORROW-1//clicsbp-wold-Takia-BORROW-1//clicsbp-wold-Hawaiian-BORROW-1"
     words "t e k a//k o l e + k e + ŋ a u e ʔ a k i//m i s a ⁿb o ʈ r a//p a n i//l a w e a i e"
@@ -14952,7 +14940,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1246
+    id 1245
     label "CHEAP"
     occurrences "clicsbp-idssegmented-rotuman-CHEAP-1//clicsbp-idssegmented-tongan-CHEAP-1//clicsbp-idssegmented-tongan-CHEAP-2//clicsbp-wold-Malagasy-CHEAP-1//clicsbp-wold-Takia-CHEAP-1//clicsbp-wold-Hawaiian-CHEAP-1"
     words "t œ ŋ + v a vʰ i n a//m a ʔ a m a ʔ a//m a ʔ a m a ʔ a + h o n o + t o t o ŋ i//m o r a//n a o + n + t a n + n a + j a//e m i"
@@ -14964,7 +14952,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1247
+    id 1246
     label "FOR A LONG TIME"
     occurrences "clicsbp-idssegmented-rotuman-FORALONGTIME-1//clicsbp-idssegmented-rotuman-FORALONGTIME-2//clicsbp-idssegmented-rotuman-FORALONGTIME-3//clicsbp-idssegmented-tongan-FORALONGTIME-1//clicsbp-wold-Malagasy-FORALONGTIME-1//clicsbp-wold-Takia-FORALONGTIME-1//clicsbp-wold-Hawaiian-FORALONGTIME-1"
     words "r o a//a ʔ r o a//m a + r o a//f u o l o a//e l a//m l a e + n + m i//n o + k a + m a n a w a + l o i h i"
@@ -14976,7 +14964,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1248
+    id 1247
     label "THREE TIMES"
     occurrences "clicsbp-idssegmented-rotuman-THREETIMES-1//clicsbp-wold-Malagasy-THREETIMES-1//clicsbp-wold-Takia-THREETIMES-1//clicsbp-wold-Hawaiian-THREETIMES-1"
     words "a ʔ f o l u//i n + t e l o//n a l + u t o l//e k o l u + m a n a w a"
@@ -14988,7 +14976,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1249
+    id 1248
     label "LAST (ENDURE)"
     occurrences "clicsbp-idssegmented-rotuman-LASTENDURE-1//clicsbp-idssegmented-tuamotuan-LASTENDURE-1//clicsbp-wold-Malagasy-LASTENDURE-1//clicsbp-wold-Hawaiian-LASTENDURE-1"
     words "n o h + r o a//h a k a m a h u//m a h a r i ʈ r a//h o o m a u"
@@ -15000,7 +14988,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1250
+    id 1249
     label "NEVER"
     occurrences "clicsbp-idssegmented-rotuman-NEVER-1//clicsbp-idssegmented-tongan-NEVER-1//clicsbp-idssegmented-tongan-NEVER-2//clicsbp-wold-Malagasy-NEVER-1//clicsbp-wold-Takia-NEVER-1//clicsbp-wold-Hawaiian-NEVER-1"
     words "k a t + ʔ e + t a + a v//ʔ i k a i + ʔ a u p i t o//t e ʔ e k i + a i//ts y n a + o v i a n a + n a + o v i a n a//t j a + g e i g//a o l e + l o a"
@@ -15012,7 +15000,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1251
+    id 1250
     label "FAITHFUL"
     occurrences "clicsbp-idssegmented-rotuman-FAITHFUL-1//clicsbp-idssegmented-tongan-FAITHFUL-1//clicsbp-wold-Malagasy-FAITHFUL-1//clicsbp-wold-Takia-FAITHFUL-1//clicsbp-wold-Hawaiian-FAITHFUL-1"
     words "a i r e//f a l a l a ʔ a ŋ a//m a h a t o k y//k a g i n + p a n i//k u p a a"
@@ -15024,7 +15012,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1252
+    id 1251
     label "MISS (A TARGET)"
     occurrences "clicsbp-idssegmented-rotuman-MISSATARGET-1//clicsbp-wold-Malagasy-MISSATARGET-1//clicsbp-wold-Takia-MISSATARGET-1//clicsbp-wold-Hawaiian-MISSATARGET-1"
     words "s a r a//ts y + m a h a v o a//f r f i//h u h e w a"
@@ -15036,7 +15024,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1253
+    id 1252
     label "OBSCURE"
     occurrences "clicsbp-idssegmented-rotuman-OBSCURE-1//clicsbp-idssegmented-tongan-OBSCURE-1//clicsbp-idssegmented-tongan-OBSCURE-2//clicsbp-idssegmented-tongan-OBSCURE-3//clicsbp-idssegmented-tongan-OBSCURE-4//clicsbp-wold-Malagasy-OBSCURE-1//clicsbp-wold-Takia-OBSCURE-1//clicsbp-wold-Hawaiian-OBSCURE-1"
     words "m ɔ ʔ i r o//n e n e f u//t a ʔ e m a h i n o//f a k a + p u l i k i//t a p u n i + v i s o n e//m a i z i n a//m j a n u + k//p o h i h i h i"
@@ -15048,7 +15036,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1254
+    id 1253
     label "NEED (NOUN)"
     occurrences "clicsbp-idssegmented-rotuman-NEEDNOUN-1//clicsbp-idssegmented-tongan-NEEDNOUN-1//clicsbp-idssegmented-tongan-NEEDNOUN-3//clicsbp-idssegmented-tongan-NEEDNOUN-4//clicsbp-idssegmented-tongan-NEEDNOUN-2//clicsbp-idssegmented-tongan-NEEDNOUN-5//clicsbp-wold-Malagasy-NEEDNOUN-1//clicsbp-wold-Hawaiian-NEEDNOUN-1"
     words "ʔ e s + ʔ a o//f i e m a ʔ u//t o t o n u//p a u//m a s i v a//ʔ a o ŋ a//f a h a ɳ ʈ r a n a//p o n o"
@@ -15060,7 +15048,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1255
+    id 1254
     label "EAGLE"
     occurrences "clicsbp-idssegmented-tongan-EAGLE-1//clicsbp-wold-Takia-EAGLE-1//clicsbp-wold-Hawaiian-EAGLE-1"
     words "ʔ i k a l e//b o g//a e k o"
@@ -15072,7 +15060,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1256
+    id 1255
     label "VULTURE"
     occurrences "clicsbp-idssegmented-tongan-VULTURE-1//clicsbp-wold-Hawaiian-VULTURE-1"
     words "m a n u p u n a + l a h i + ʔ o k u + n e + k e i n a + ʔ a + e + k a k a n o//w u l e k u l a"
@@ -15084,7 +15072,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1257
+    id 1256
     label "FOX"
     occurrences "clicsbp-idssegmented-tongan-FOX-1//clicsbp-wold-Malagasy-FOX-1//clicsbp-wold-Hawaiian-FOX-1"
     words "f oː k i s i//a ⁿb o a h a o l o//a l o p e k a"
@@ -15096,7 +15084,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1258
+    id 1257
     label "BEEHIVE"
     occurrences "clicsbp-idssegmented-tongan-BEEHIVE-1//clicsbp-wold-Malagasy-BEEHIVE-1//clicsbp-wold-Hawaiian-BEEHIVE-1"
     words "t a u ŋ a + h o n e//t o h o ʈ r a//p a h u + m e l i"
@@ -15108,7 +15096,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1259
+    id 1258
     label "EARN"
     occurrences "clicsbp-idssegmented-tongan-EARN-1//clicsbp-wold-Malagasy-EARN-1//clicsbp-wold-Hawaiian-EARN-1"
     words "ŋ a u e ʔ i//m a h a z o//l o a a"
@@ -15120,7 +15108,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1260
+    id 1259
     label "BARLEY"
     occurrences "clicsbp-idssegmented-tongan-BARLEY-1//clicsbp-wold-Takia-BARLEY-1//clicsbp-wold-Hawaiian-BARLEY-1"
     words "p a ʔ a l e//b a l i w i t//p a l a o a + h u l u h u l u"
@@ -15132,7 +15120,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1261
+    id 1260
     label "FORGE"
     occurrences "clicsbp-idssegmented-tongan-FORGE-1//clicsbp-wold-Malagasy-FORGE-1//clicsbp-wold-Takia-FORGE-1//clicsbp-wold-Hawaiian-FORGE-1"
     words "t o f u n a ŋ a + t u k i u k a m e a//m a n e f y//m a r i//k u i + h a o"
@@ -15144,7 +15132,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1262
+    id 1261
     label "LEND"
     occurrences "clicsbp-idssegmented-tongan-LEND-1//clicsbp-wold-Malagasy-LEND-1//clicsbp-wold-Takia-LEND-1"
     words "ʔ o a ŋ e + k e + ŋ a u e ʔ a k i + f a k a + t a i m i//m a ⁿp i s a ⁿb o ʈ r a//p a n i"
@@ -15156,7 +15144,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1263
+    id 1262
     label "INNOCENT"
     occurrences "clicsbp-idssegmented-tongan-INNOCENT-1//clicsbp-idssegmented-tongan-INNOCENT-2//clicsbp-wold-Malagasy-INNOCENT-1//clicsbp-wold-Takia-INNOCENT-1//clicsbp-wold-Hawaiian-INNOCENT-1"
     words "t o n u h i a//t a ʔ e ʔ i l o + h a + k o v i//m a d i o//i n o s e n//h e w a o l e"
@@ -15168,7 +15156,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1264
+    id 1263
     label "DAY (24 HOURS)"
     occurrences "clicsbp-wold-Malagasy-DAY24HOURS-1//clicsbp-wold-Takia-DAY24HOURS-1//clicsbp-wold-Hawaiian-DAY24HOURS-1"
     words "a ɳ ɖ r o//a d j a n//a o"
@@ -15180,7 +15168,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1265
+    id 1264
     label "STEPMOTHER"
     occurrences "clicsbp-wold-Malagasy-STEPMOTHER-1//clicsbp-wold-Takia-STEPMOTHER-1//clicsbp-wold-Hawaiian-STEPMOTHER-1"
     words "r e n i k e l y//t n a + n + i r + t a r s i n + e k//m a k u a h i n e + k o l e a"
@@ -15192,7 +15180,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1266
+    id 1265
     label "STEPDAUGHTER"
     occurrences "clicsbp-wold-Malagasy-STEPDAUGHTER-1//clicsbp-wold-Takia-STEPDAUGHTER-1//clicsbp-wold-Hawaiian-STEPDAUGHTER-1"
     words "z a n a k a + v a v y + n y + v a d y//n a n u + n + i r + t a r s i n + e k//k e i k i + h a n a i"
@@ -15204,7 +15192,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1267
+    id 1266
     label "HE"
     occurrences "clicsbp-wold-Malagasy-HE-1//clicsbp-wold-Hawaiian-HE-1"
     words "i z y//i a"
@@ -15216,7 +15204,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1268
+    id 1267
     label "MULE"
     occurrences "clicsbp-wold-Malagasy-MULE-1//clicsbp-wold-Takia-MULE-1//clicsbp-wold-Hawaiian-MULE-1"
     words "r a m o l e//d o ŋ k i//m i u l a"
@@ -15228,7 +15216,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1269
+    id 1268
     label "FIREFLY"
     occurrences "clicsbp-wold-Malagasy-FIREFLY-1//clicsbp-wold-Takia-FIREFLY-1//clicsbp-wold-Hawaiian-FIREFLY-1"
     words "a ŋg a m e n a v a v a//l t o t//n a l o + u i u i k i"
@@ -15240,7 +15228,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1270
+    id 1269
     label "MAKE"
     occurrences "clicsbp-wold-Malagasy-MAKE-1//clicsbp-wold-Takia-MAKE-1//clicsbp-wold-Hawaiian-MAKE-1"
     words "m a n a o//g a n e//h a n a"
@@ -15252,7 +15240,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1271
+    id 1270
     label "BE HUNGRY"
     occurrences "clicsbp-wold-Malagasy-BEHUNGRY-1//clicsbp-wold-Takia-BEHUNGRY-1//clicsbp-wold-Hawaiian-BEHUNGRY-1"
     words "n o a n a//m a t + i g e n//p o l o l i"
@@ -15264,7 +15252,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1272
+    id 1271
     label "POT"
     occurrences "clicsbp-wold-Malagasy-POT-1//clicsbp-wold-Takia-POT-1//clicsbp-wold-Hawaiian-POT-1"
     words "v i l a n y//b o d//i p u + h a o"
@@ -15276,7 +15264,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1273
+    id 1272
     label "VINE"
     occurrences "clicsbp-wold-Malagasy-VINE-1//clicsbp-wold-Takia-VINE-1//clicsbp-wold-Hawaiian-VINE-1"
     words "v o a l o b o k a//k a m//l a a u + h i h i"
@@ -15288,7 +15276,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1274
+    id 1273
     label "LOOM"
     occurrences "clicsbp-wold-Malagasy-LOOM-1//clicsbp-wold-Hawaiian-LOOM-1"
     words "f a n e n o m a n a//o m a u"
@@ -15300,7 +15288,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1275
+    id 1274
     label "BANANA"
     occurrences "clicsbp-wold-Malagasy-BANANA-1//clicsbp-wold-Takia-BANANA-1//clicsbp-wold-Hawaiian-BANANA-1"
     words "a k o ɳ ɖ r o//f u d//m a i a"
@@ -15312,7 +15300,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1276
+    id 1275
     label "WIPE"
     occurrences "clicsbp-wold-Malagasy-WIPE-1//clicsbp-wold-Takia-WIPE-1//clicsbp-wold-Hawaiian-WIPE-1"
     words "m a m a o k a//s a s i//k a w e l e"
@@ -15324,7 +15312,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1277
+    id 1276
     label "ANVIL"
     occurrences "clicsbp-wold-Malagasy-ANVIL-1//clicsbp-wold-Malagasy-ANVIL-2//clicsbp-wold-Takia-ANVIL-1//clicsbp-wold-Hawaiian-ANVIL-1"
     words "l a ⁿd a i z a n a//r i a ɳ ɖ r i a n a//a nʷ i l//k u a + h a o"
@@ -15336,7 +15324,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1278
+    id 1277
     label "COPPER"
     occurrences "clicsbp-wold-Malagasy-COPPER-1//clicsbp-wold-Takia-COPPER-1//clicsbp-wold-Hawaiian-COPPER-1"
     words "v a r a h i n a//b a r a s//k e l e a w e"
@@ -15348,7 +15336,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1279
+    id 1278
     label "BECOME"
     occurrences "clicsbp-wold-Malagasy-BECOME-3//clicsbp-wold-Malagasy-BECOME-1//clicsbp-wold-Malagasy-BECOME-2//clicsbp-wold-Takia-BECOME-1//clicsbp-wold-Hawaiian-BECOME-1"
     words "t o ŋg a//m a ⁿdz a r y//m i h a//l a + s a//l i l o"
@@ -15360,7 +15348,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1280
+    id 1279
     label "CARRY ON HEAD"
     occurrences "clicsbp-wold-Malagasy-CARRYONHEAD-1//clicsbp-wold-Takia-CARRYONHEAD-1//clicsbp-wold-Hawaiian-CARRYONHEAD-1"
     words "m i l o l o h a//k d i//h a p a i"
@@ -15372,7 +15360,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1281
+    id 1280
     label "DOWN"
     occurrences "clicsbp-wold-Malagasy-DOWN-1//clicsbp-wold-Takia-DOWN-1//clicsbp-wold-Hawaiian-DOWN-1"
     words "a ⁿb a n y//d u//l a l o"
@@ -15384,7 +15372,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1282
+    id 1281
     label "MIDDLE"
     occurrences "clicsbp-wold-Malagasy-MIDDLE-1//clicsbp-wold-Malagasy-MIDDLE-2//clicsbp-wold-Takia-MIDDLE-1//clicsbp-wold-Hawaiian-MIDDLE-1"
     words "i v o//n y + a f o v o a n y//t ŋ + t ŋ a e + m i//w a e n a"
@@ -15396,7 +15384,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1283
+    id 1282
     label "ALONE"
     occurrences "clicsbp-wold-Malagasy-ALONE-1//clicsbp-wold-Takia-ALONE-1//clicsbp-wold-Hawaiian-ALONE-1"
     words "t o k a n a//s e + n + k a e k//h o o k a h i"
@@ -15408,7 +15396,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1284
+    id 1283
     label "BEGIN"
     occurrences "clicsbp-wold-Malagasy-BEGIN-1//clicsbp-wold-Malagasy-BEGIN-2//clicsbp-wold-Hawaiian-BEGIN-1"
     words "m i a ⁿd o h a//m a n o ⁿb o k a//h o o m a k a"
@@ -15420,7 +15408,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1285
+    id 1284
     label "QUIET"
     occurrences "clicsbp-wold-Malagasy-QUIET-1//clicsbp-wold-Malagasy-QUIET-2//clicsbp-wold-Takia-QUIET-1//clicsbp-wold-Hawaiian-QUIET-1"
     words "t o n y//m a ŋg i n a//m a l i n//m a l i e"
@@ -15432,7 +15420,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1286
+    id 1285
     label "LETTER"
     occurrences "clicsbp-wold-Malagasy-LETTER-1//clicsbp-wold-Takia-LETTER-1//clicsbp-wold-Hawaiian-LETTER-1"
     words "t a r a t a s y//p a s//l e k a"
@@ -15444,7 +15432,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1287
+    id 1286
     label "GUN"
     occurrences "clicsbp-wold-Malagasy-GUN-1//clicsbp-wold-Malagasy-GUN-2//clicsbp-wold-Takia-GUN-1//clicsbp-wold-Hawaiian-GUN-1"
     words "b a s y//a ⁿp i ŋg a h a r a ʈ r a//g a n//p u"
@@ -15456,7 +15444,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1288
+    id 1287
     label "AT"
     occurrences "clicsbp-wold-Malagasy-AT-1//clicsbp-wold-Takia-AT-1//clicsbp-wold-Hawaiian-AT-3//clicsbp-wold-Hawaiian-AT-1//clicsbp-wold-Hawaiian-AT-2"
     words "a n//n a//i a//m a//i"
@@ -15468,7 +15456,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1289
+    id 1288
     label "DEITY"
     occurrences "clicsbp-wold-Malagasy-DEITY-1//clicsbp-wold-Takia-DEITY-1//clicsbp-wold-Hawaiian-DEITY-1"
     words "a ɳ ɖ r i a m a n i ʈ r a//t b u d//a k u a"
@@ -15480,7 +15468,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1290
+    id 1289
     label "BOTTLE"
     occurrences "clicsbp-wold-Malagasy-BOTTLE-1//clicsbp-wold-Takia-BOTTLE-1//clicsbp-wold-Hawaiian-BOTTLE-1"
     words "t a v o a h a ŋg y//b o t o l//o m o l e"
@@ -15492,7 +15480,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1291
+    id 1290
     label "SONG"
     occurrences "clicsbp-wold-Malagasy-SONG-1//clicsbp-wold-Takia-SONG-1//clicsbp-wold-Hawaiian-SONG-1"
     words "h i r a//s o ŋ//m e l e"
@@ -15504,7 +15492,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1292
+    id 1291
     label "BE"
     occurrences "clicsbp-wold-Malagasy-BE-1"
     words "m i s y"
@@ -15516,7 +15504,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1293
+    id 1292
     label "THERE"
     occurrences "clicsbp-wold-Malagasy-THERE-1//clicsbp-wold-Malagasy-THERE-2//clicsbp-wold-Malagasy-THERE-3//clicsbp-wold-Malagasy-THERE-4//clicsbp-wold-Takia-THERE-1//clicsbp-wold-Hawaiian-THERE-1"
     words "e o//e ts y//a o//a ts y//a//l a i l a"
@@ -15528,7 +15516,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1294
+    id 1293
     label "VAGINA"
     occurrences "clicsbp-wold-Malagasy-VAGINA-1//clicsbp-wold-Malagasy-VAGINA-2//clicsbp-wold-Takia-VAGINA-1//clicsbp-wold-Hawaiian-VAGINA-1"
     words "f o r y//k i ⁿd y//d l e//k o h e"
@@ -15540,7 +15528,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1295
+    id 1294
     label "TEA"
     occurrences "clicsbp-wold-Malagasy-TEA-1//clicsbp-wold-Takia-TEA-1//clicsbp-wold-Hawaiian-TEA-1"
     words "d i t e//t i//k i"
@@ -15552,7 +15540,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1296
+    id 1295
     label "TENDON"
     occurrences "clicsbp-wold-Malagasy-TENDON-1//clicsbp-wold-Takia-TENDON-1//clicsbp-wold-Hawaiian-TENDON-1"
     words "h o z a b e//i m//a a h u k i"
@@ -15564,7 +15552,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1297
+    id 1296
     label "TICK"
     occurrences "clicsbp-wold-Malagasy-TICK-1//clicsbp-wold-Takia-TICK-1//clicsbp-wold-Hawaiian-TICK-1"
     words "k o ŋg o n a//k a m e d//u k u + h i p a"
@@ -15576,7 +15564,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1298
+    id 1297
     label "HAMMOCK"
     occurrences "clicsbp-wold-Malagasy-HAMMOCK-1//clicsbp-wold-Hawaiian-HAMMOCK-1"
     words "f a ɳ ɖ r i a n a + m i h a ⁿt o n a//m o e l e w a"
@@ -15588,7 +15576,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1299
+    id 1298
     label "MILLET"
     occurrences "clicsbp-wold-Malagasy-MILLET-1//clicsbp-wold-Hawaiian-MILLET-1"
     words "a ⁿp e ⁿb a//m i l e k a"
@@ -15600,7 +15588,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1300
+    id 1299
     label "CHAMELEON"
     occurrences "clicsbp-wold-Malagasy-CHAMELEON-1//clicsbp-wold-Takia-CHAMELEON-1//clicsbp-wold-Hawaiian-CHAMELEON-1"
     words "t a n a//t n i + k s a l a i//k a m e l e o n a"
@@ -15612,7 +15600,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1301
+    id 1300
     label "LIFE"
     occurrences "clicsbp-wold-Malagasy-LIFE-1//clicsbp-wold-Takia-LIFE-1//clicsbp-wold-Hawaiian-LIFE-1"
     words "f i a i n a n a//m a d o + k//o l a"
@@ -15624,7 +15612,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1302
+    id 1301
     label "DISEASE"
     occurrences "clicsbp-wold-Malagasy-DISEASE-1//clicsbp-wold-Takia-DISEASE-1//clicsbp-wold-Hawaiian-DISEASE-1"
     words "a r e t i n a//s b a m//m a i"
@@ -15636,7 +15624,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1303
+    id 1302
     label "SCRATCH"
     occurrences "clicsbp-wold-Malagasy-SCRATCH-1//clicsbp-wold-Takia-SCRATCH-1//clicsbp-wold-Hawaiian-SCRATCH-1"
     words "m i h a o ʈ r a//r a r e//w a u"
@@ -15648,7 +15636,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1304
+    id 1303
     label "FREEZE"
     occurrences "clicsbp-wold-Malagasy-FREEZE-1//clicsbp-wold-Takia-FREEZE-1//clicsbp-wold-Hawaiian-FREEZE-1"
     words "m a m a n a l a//i + b i l s a + e i s//h o o p a a h a u"
@@ -15660,7 +15648,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1305
+    id 1304
     label "PASTURE"
     occurrences "clicsbp-wold-Takia-PASTURE-1//clicsbp-wold-Hawaiian-PASTURE-1"
     words "s a s a w//k u l a + h o l o h o l o n a"
@@ -15672,7 +15660,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1306
+    id 1305
     label "MOLD"
     occurrences "clicsbp-wold-Takia-MOLD-1//clicsbp-wold-Hawaiian-MOLD-1"
     words "w a e b i//h o o m o o m o"
@@ -15684,7 +15672,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1307
+    id 1306
     label "DIGGING STICK"
     occurrences "clicsbp-wold-Takia-DIGGINGSTICK-1//clicsbp-wold-Hawaiian-DIGGINGSTICK-1"
     words "ŋ e i//o"
@@ -15696,7 +15684,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1308
+    id 1307
     label "TERMITE"
     occurrences "clicsbp-wold-Takia-TERMITE-1//clicsbp-wold-Hawaiian-TERMITE-1"
     words "s e r//h u h u"
@@ -15708,7 +15696,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1309
+    id 1308
     label "BUFFALO"
     occurrences "clicsbp-wold-Takia-BUFFALO-1//clicsbp-wold-Hawaiian-BUFFALO-1"
     words "b a f o l o//p a p u l o"
@@ -15720,7 +15708,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1310
+    id 1309
     label "FIR"
     occurrences "clicsbp-wold-Hawaiian-FIR-1"
     words "p i l a"
@@ -15732,7 +15720,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1311
+    id 1310
     label "SQUIRREL"
     occurrences "clicsbp-wold-Hawaiian-SQUIRREL-1"
     words "k i u l e l a"
@@ -15744,7 +15732,7 @@ graph [
     family_count 1
   ]
   node [
-    id 1312
+    id 1311
     label "JAGUAR"
     occurrences "clicsbp-wold-Hawaiian-JAGUAR-1"
     words "i a k u a"
@@ -15822,7 +15810,7 @@ graph [
   ]
   edge [
     source 1
-    target 1203
+    target 1202
     count 2
     words "f a k m u r i//h o p e"
     varieties "clicsbp-idssegmented-rotuman//clicsbp-wold-Hawaiian"
@@ -16199,7 +16187,7 @@ graph [
   ]
   edge [
     source 12
-    target 1178
+    target 1177
     count 1
     words "p a t u"
     varieties "clicsbp-wold-Takia"
@@ -16355,7 +16343,7 @@ graph [
   ]
   edge [
     source 13
-    target 1203
+    target 1202
     count 1
     words "h o p e"
     varieties "clicsbp-wold-Hawaiian"
@@ -16823,7 +16811,7 @@ graph [
   ]
   edge [
     source 21
-    target 1281
+    target 1280
     count 2
     words "a ⁿb a n y//l a l o"
     varieties "clicsbp-wold-Malagasy//clicsbp-wold-Hawaiian"
@@ -16875,7 +16863,7 @@ graph [
   ]
   edge [
     source 22
-    target 1288
+    target 1287
     count 2
     words "m a//i"
     varieties "clicsbp-wold-Hawaiian//clicsbp-wold-Hawaiian"
@@ -17642,7 +17630,7 @@ graph [
   ]
   edge [
     source 38
-    target 1118
+    target 1117
     count 4
     words "uː//s u s u//n o n o//s u"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-idssegmented-rotuman//clicsbp-wold-Malagasy//clicsbp-wold-Takia"
@@ -17707,7 +17695,7 @@ graph [
   ]
   edge [
     source 39
-    target 1118
+    target 1117
     count 3
     words "uː//s u s u//s u"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-idssegmented-rotuman//clicsbp-wold-Takia"
@@ -17811,7 +17799,7 @@ graph [
   ]
   edge [
     source 40
-    target 1118
+    target 1117
     count 1
     words "uː"
     varieties "clicsbp-idssegmented-rapanui"
@@ -18071,7 +18059,7 @@ graph [
   ]
   edge [
     source 44
-    target 1243
+    target 1242
     count 2
     words "f u a//h a p a i"
     varieties "clicsbp-idssegmented-tongan//clicsbp-wold-Hawaiian"
@@ -18136,7 +18124,7 @@ graph [
   ]
   edge [
     source 44
-    target 1280
+    target 1279
     count 1
     words "h a p a i"
     varieties "clicsbp-wold-Hawaiian"
@@ -18149,7 +18137,7 @@ graph [
   ]
   edge [
     source 44
-    target 1244
+    target 1243
     count 1
     words "h a p a i"
     varieties "clicsbp-wold-Hawaiian"
@@ -18188,7 +18176,7 @@ graph [
   ]
   edge [
     source 45
-    target 1263
+    target 1262
     count 1
     words "m a d i o"
     varieties "clicsbp-wold-Malagasy"
@@ -18292,7 +18280,7 @@ graph [
   ]
   edge [
     source 46
-    target 1264
+    target 1263
     count 1
     words "a o"
     varieties "clicsbp-wold-Hawaiian"
@@ -18435,7 +18423,7 @@ graph [
   ]
   edge [
     source 48
-    target 1279
+    target 1278
     count 1
     words "t o ŋg a"
     varieties "clicsbp-wold-Malagasy"
@@ -18487,7 +18475,7 @@ graph [
   ]
   edge [
     source 49
-    target 1254
+    target 1253
     count 1
     words "t o t o n u"
     varieties "clicsbp-idssegmented-tongan"
@@ -18578,7 +18566,7 @@ graph [
   ]
   edge [
     source 50
-    target 1117
+    target 1116
     count 1
     words "t u m u"
     varieties "clicsbp-idssegmented-rapanui"
@@ -18682,7 +18670,7 @@ graph [
   ]
   edge [
     source 51
-    target 1242
+    target 1241
     count 1
     words "m e l o k a"
     varieties "clicsbp-wold-Malagasy"
@@ -18981,7 +18969,7 @@ graph [
   ]
   edge [
     source 58
-    target 1112
+    target 1111
     count 1
     words "h a a + t a i t a i"
     varieties "clicsbp-idssegmented-marquesan"
@@ -18994,7 +18982,7 @@ graph [
   ]
   edge [
     source 58
-    target 1193
+    target 1192
     count 1
     words "m i v o a k a"
     varieties "clicsbp-wold-Malagasy"
@@ -19059,7 +19047,7 @@ graph [
   ]
   edge [
     source 61
-    target 1211
+    target 1210
     count 1
     words "m a n a o"
     varieties "clicsbp-wold-Malagasy"
@@ -19072,7 +19060,7 @@ graph [
   ]
   edge [
     source 61
-    target 1270
+    target 1269
     count 3
     words "m a n a o//g a n e//h a n a"
     varieties "clicsbp-wold-Malagasy//clicsbp-wold-Takia//clicsbp-wold-Hawaiian"
@@ -19228,7 +19216,7 @@ graph [
   ]
   edge [
     source 66
-    target 1179
+    target 1178
     count 1
     words "t a d i n y"
     varieties "clicsbp-wold-Malagasy"
@@ -19384,7 +19372,7 @@ graph [
   ]
   edge [
     source 68
-    target 1124
+    target 1123
     count 1
     words "k a i"
     varieties "clicsbp-idssegmented-marquesan"
@@ -19462,7 +19450,7 @@ graph [
   ]
   edge [
     source 68
-    target 1162
+    target 1161
     count 1
     words "a n i"
     varieties "clicsbp-wold-Takia"
@@ -19527,7 +19515,7 @@ graph [
   ]
   edge [
     source 69
-    target 1178
+    target 1177
     count 1
     words "p a t u"
     varieties "clicsbp-wold-Takia"
@@ -19839,7 +19827,7 @@ graph [
   ]
   edge [
     source 74
-    target 1281
+    target 1280
     count 1
     words "d u"
     varieties "clicsbp-wold-Takia"
@@ -20151,7 +20139,7 @@ graph [
   ]
   edge [
     source 78
-    target 1131
+    target 1130
     count 1
     words "h u l u"
     varieties "clicsbp-wold-Hawaiian"
@@ -20372,7 +20360,7 @@ graph [
   ]
   edge [
     source 83
-    target 1288
+    target 1287
     count 1
     words "i a"
     varieties "clicsbp-wold-Hawaiian"
@@ -20385,7 +20373,7 @@ graph [
   ]
   edge [
     source 83
-    target 1267
+    target 1266
     count 1
     words "i a"
     varieties "clicsbp-wold-Hawaiian"
@@ -20814,7 +20802,7 @@ graph [
   ]
   edge [
     source 92
-    target 1173
+    target 1172
     count 2
     words "h o i//f o n u"
     varieties "clicsbp-idssegmented-rotuman//clicsbp-idssegmented-tongan"
@@ -20970,7 +20958,7 @@ graph [
   ]
   edge [
     source 94
-    target 1262
+    target 1261
     count 1
     words "p a n i"
     varieties "clicsbp-wold-Takia"
@@ -20983,7 +20971,7 @@ graph [
   ]
   edge [
     source 94
-    target 1245
+    target 1244
     count 1
     words "p a n i"
     varieties "clicsbp-wold-Takia"
@@ -21217,7 +21205,7 @@ graph [
   ]
   edge [
     source 103
-    target 1205
+    target 1204
     count 1
     words "w a d a"
     varieties "clicsbp-wold-Takia"
@@ -21373,7 +21361,7 @@ graph [
   ]
   edge [
     source 106
-    target 1267
+    target 1266
     count 2
     words "i z y//i a"
     varieties "clicsbp-wold-Malagasy//clicsbp-wold-Hawaiian"
@@ -21386,7 +21374,7 @@ graph [
   ]
   edge [
     source 106
-    target 1288
+    target 1287
     count 1
     words "i a"
     varieties "clicsbp-wold-Hawaiian"
@@ -21594,7 +21582,7 @@ graph [
   ]
   edge [
     source 109
-    target 1125
+    target 1124
     count 1
     words "m a f u"
     varieties "clicsbp-idssegmented-tongan"
@@ -21646,7 +21634,7 @@ graph [
   ]
   edge [
     source 109
-    target 1128
+    target 1127
     count 1
     words "k a u"
     varieties "clicsbp-idssegmented-tuamotuan"
@@ -21815,7 +21803,7 @@ graph [
   ]
   edge [
     source 115
-    target 1178
+    target 1177
     count 1
     words "t a r a"
     varieties "clicsbp-idssegmented-rapanui"
@@ -21828,7 +21816,7 @@ graph [
   ]
   edge [
     source 115
-    target 1236
+    target 1235
     count 1
     words "f a i"
     varieties "clicsbp-wold-Takia"
@@ -21880,7 +21868,7 @@ graph [
   ]
   edge [
     source 116
-    target 1162
+    target 1161
     count 1
     words "v e r a"
     varieties "clicsbp-idssegmented-rapanui"
@@ -22062,7 +22050,7 @@ graph [
   ]
   edge [
     source 120
-    target 1303
+    target 1302
     count 1
     words "w a u"
     varieties "clicsbp-wold-Hawaiian"
@@ -22335,7 +22323,7 @@ graph [
   ]
   edge [
     source 126
-    target 1211
+    target 1210
     count 1
     words "l a u"
     varieties "clicsbp-idssegmented-tongan"
@@ -22530,7 +22518,7 @@ graph [
   ]
   edge [
     source 130
-    target 1246
+    target 1245
     count 1
     words "m a ʔ a m a ʔ a"
     varieties "clicsbp-idssegmented-tongan"
@@ -22660,7 +22648,7 @@ graph [
   ]
   edge [
     source 132
-    target 1301
+    target 1300
     count 1
     words "o l a"
     varieties "clicsbp-wold-Hawaiian"
@@ -22673,7 +22661,7 @@ graph [
   ]
   edge [
     source 133
-    target 1119
+    target 1118
     count 1
     words "a t e"
     varieties "clicsbp-idssegmented-marquesan"
@@ -22738,7 +22726,7 @@ graph [
   ]
   edge [
     source 134
-    target 1247
+    target 1246
     count 2
     words "r o a//f u o l o a"
     varieties "clicsbp-idssegmented-rotuman//clicsbp-idssegmented-tongan"
@@ -22972,7 +22960,7 @@ graph [
   ]
   edge [
     source 137
-    target 1281
+    target 1280
     count 2
     words "a ⁿb a n y//l a l o"
     varieties "clicsbp-wold-Malagasy//clicsbp-wold-Hawaiian"
@@ -23011,7 +22999,7 @@ graph [
   ]
   edge [
     source 139
-    target 1246
+    target 1245
     count 1
     words "m a ʔ a m a ʔ a"
     varieties "clicsbp-idssegmented-tongan"
@@ -23557,7 +23545,7 @@ graph [
   ]
   edge [
     source 152
-    target 1149
+    target 1148
     count 1
     words "s i v a"
     varieties "clicsbp-idssegmented-rotuman"
@@ -24012,7 +24000,7 @@ graph [
   ]
   edge [
     source 166
-    target 1171
+    target 1170
     count 1
     words "f a k a + t a ŋ a t a"
     varieties "clicsbp-idssegmented-tongan"
@@ -24220,7 +24208,7 @@ graph [
   ]
   edge [
     source 169
-    target 1123
+    target 1122
     count 1
     words "t a k e o"
     varieties "clicsbp-idssegmented-tuamotuan"
@@ -24506,7 +24494,7 @@ graph [
   ]
   edge [
     source 177
-    target 1273
+    target 1272
     count 1
     words "k a m"
     varieties "clicsbp-wold-Takia"
@@ -24558,7 +24546,7 @@ graph [
   ]
   edge [
     source 178
-    target 1287
+    target 1286
     count 1
     words "g a n"
     varieties "clicsbp-wold-Takia"
@@ -24675,7 +24663,7 @@ graph [
   ]
   edge [
     source 182
-    target 1223
+    target 1222
     count 1
     words "tʃ o n i"
     varieties "clicsbp-idssegmented-rotuman"
@@ -24870,7 +24858,7 @@ graph [
   ]
   edge [
     source 187
-    target 1211
+    target 1210
     count 2
     words "p e h e//b o l"
     varieties "clicsbp-idssegmented-tongan//clicsbp-wold-Takia"
@@ -25013,7 +25001,7 @@ graph [
   ]
   edge [
     source 190
-    target 1138
+    target 1137
     count 1
     words "k a k a n o"
     varieties "clicsbp-idssegmented-marquesan"
@@ -25104,7 +25092,7 @@ graph [
   ]
   edge [
     source 190
-    target 1178
+    target 1177
     count 1
     words "p a t u"
     varieties "clicsbp-wold-Takia"
@@ -25845,7 +25833,7 @@ graph [
   ]
   edge [
     source 221
-    target 1128
+    target 1127
     count 1
     words "k a u"
     varieties "clicsbp-idssegmented-tuamotuan"
@@ -25858,7 +25846,7 @@ graph [
   ]
   edge [
     source 221
-    target 1173
+    target 1172
     count 1
     words "t ĩ f a i"
     varieties "clicsbp-idssegmented-tuamotuan"
@@ -25975,7 +25963,7 @@ graph [
   ]
   edge [
     source 226
-    target 1183
+    target 1182
     count 1
     words "k e l a"
     varieties "clicsbp-wold-Hawaiian"
@@ -25988,7 +25976,7 @@ graph [
   ]
   edge [
     source 228
-    target 1267
+    target 1266
     count 1
     words "i z y"
     varieties "clicsbp-wold-Malagasy"
@@ -26326,7 +26314,7 @@ graph [
   ]
   edge [
     source 238
-    target 1243
+    target 1242
     count 1
     words "a b i"
     varieties "clicsbp-wold-Takia"
@@ -26365,7 +26353,7 @@ graph [
   ]
   edge [
     source 238
-    target 1194
+    target 1193
     count 1
     words "a b i"
     varieties "clicsbp-wold-Takia"
@@ -26482,7 +26470,7 @@ graph [
   ]
   edge [
     source 239
-    target 1117
+    target 1116
     count 2
     words "t u m u//t u m u"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-idssegmented-rapanui"
@@ -26534,7 +26522,7 @@ graph [
   ]
   edge [
     source 239
-    target 1241
+    target 1240
     count 1
     words "a i"
     varieties "clicsbp-wold-Takia"
@@ -26859,7 +26847,7 @@ graph [
   ]
   edge [
     source 247
-    target 1294
+    target 1293
     count 1
     words "d l e"
     varieties "clicsbp-wold-Takia"
@@ -26911,7 +26899,7 @@ graph [
   ]
   edge [
     source 248
-    target 1254
+    target 1253
     count 1
     words "f i e m a ʔ u"
     varieties "clicsbp-idssegmented-tongan"
@@ -27145,7 +27133,7 @@ graph [
   ]
   edge [
     source 253
-    target 1287
+    target 1286
     count 1
     words "g a n"
     varieties "clicsbp-wold-Takia"
@@ -27392,7 +27380,7 @@ graph [
   ]
   edge [
     source 262
-    target 1164
+    target 1163
     count 1
     words "w a h i n e"
     varieties "clicsbp-wold-Hawaiian"
@@ -27509,7 +27497,7 @@ graph [
   ]
   edge [
     source 264
-    target 1213
+    target 1212
     count 1
     words "s i k o"
     varieties "clicsbp-idssegmented-rotuman"
@@ -27548,7 +27536,7 @@ graph [
   ]
   edge [
     source 264
-    target 1242
+    target 1241
     count 1
     words "d i s o"
     varieties "clicsbp-wold-Malagasy"
@@ -27821,7 +27809,7 @@ graph [
   ]
   edge [
     source 281
-    target 1157
+    target 1156
     count 2
     words "h e n u a//h a n u a"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-idssegmented-rotuman"
@@ -27834,7 +27822,7 @@ graph [
   ]
   edge [
     source 282
-    target 1157
+    target 1156
     count 2
     words "h e n u a//h a n u a"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-idssegmented-rotuman"
@@ -28783,7 +28771,7 @@ graph [
   ]
   edge [
     source 304
-    target 1161
+    target 1160
     count 1
     words "h a u"
     varieties "clicsbp-wold-Hawaiian"
@@ -29121,7 +29109,7 @@ graph [
   ]
   edge [
     source 315
-    target 1241
+    target 1240
     count 1
     words "a i"
     varieties "clicsbp-wold-Takia"
@@ -29446,7 +29434,7 @@ graph [
   ]
   edge [
     source 322
-    target 1264
+    target 1263
     count 1
     words "a ɳ ɖ r o"
     varieties "clicsbp-wold-Malagasy"
@@ -29485,7 +29473,7 @@ graph [
   ]
   edge [
     source 325
-    target 1158
+    target 1157
     count 3
     words "ts e l a ʈ r a//h e l a ʈ r a//u i l a"
     varieties "clicsbp-wold-Malagasy//clicsbp-wold-Malagasy//clicsbp-wold-Hawaiian"
@@ -29498,7 +29486,7 @@ graph [
   ]
   edge [
     source 326
-    target 1159
+    target 1158
     count 1
     words "ʔ a t i"
     varieties "clicsbp-idssegmented-rapanui"
@@ -29511,7 +29499,7 @@ graph [
   ]
   edge [
     source 326
-    target 1160
+    target 1159
     count 1
     words "ʔ a t i"
     varieties "clicsbp-idssegmented-rapanui"
@@ -29550,7 +29538,7 @@ graph [
   ]
   edge [
     source 328
-    target 1191
+    target 1190
     count 1
     words "ts i p i k a"
     varieties "clicsbp-wold-Malagasy"
@@ -29641,7 +29629,7 @@ graph [
   ]
   edge [
     source 330
-    target 1127
+    target 1126
     count 1
     words "a m a"
     varieties "clicsbp-idssegmented-marquesan"
@@ -29654,7 +29642,7 @@ graph [
   ]
   edge [
     source 330
-    target 1128
+    target 1127
     count 1
     words "a m a"
     varieties "clicsbp-idssegmented-marquesan"
@@ -29758,7 +29746,7 @@ graph [
   ]
   edge [
     source 333
-    target 1161
+    target 1160
     count 1
     words "h a u"
     varieties "clicsbp-wold-Hawaiian"
@@ -29966,7 +29954,7 @@ graph [
   ]
   edge [
     source 338
-    target 1261
+    target 1260
     count 1
     words "m a r i"
     varieties "clicsbp-wold-Takia"
@@ -30187,7 +30175,7 @@ graph [
   ]
   edge [
     source 343
-    target 1241
+    target 1240
     count 1
     words "a i"
     varieties "clicsbp-wold-Takia"
@@ -30278,7 +30266,7 @@ graph [
   ]
   edge [
     source 345
-    target 1163
+    target 1162
     count 1
     words "k a n e"
     varieties "clicsbp-wold-Hawaiian"
@@ -30343,7 +30331,7 @@ graph [
   ]
   edge [
     source 346
-    target 1163
+    target 1162
     count 1
     words "k a n e"
     varieties "clicsbp-wold-Hawaiian"
@@ -30473,7 +30461,7 @@ graph [
   ]
   edge [
     source 348
-    target 1164
+    target 1163
     count 1
     words "w a h i n e"
     varieties "clicsbp-wold-Hawaiian"
@@ -30525,7 +30513,7 @@ graph [
   ]
   edge [
     source 349
-    target 1164
+    target 1163
     count 1
     words "w a h i n e"
     varieties "clicsbp-wold-Hawaiian"
@@ -30577,7 +30565,7 @@ graph [
   ]
   edge [
     source 350
-    target 1163
+    target 1162
     count 1
     words "k a n e"
     varieties "clicsbp-wold-Hawaiian"
@@ -30863,7 +30851,7 @@ graph [
   ]
   edge [
     source 363
-    target 1229
+    target 1228
     count 2
     words "œ ʔ f a//t a m a"
     varieties "clicsbp-idssegmented-rotuman//clicsbp-wold-Takia"
@@ -30902,7 +30890,7 @@ graph [
   ]
   edge [
     source 364
-    target 1230
+    target 1229
     count 1
     words "o ʔʰ o n i"
     varieties "clicsbp-idssegmented-rotuman"
@@ -30915,7 +30903,7 @@ graph [
   ]
   edge [
     source 364
-    target 1231
+    target 1230
     count 2
     words "o ʔʰ o n i//t n a"
     varieties "clicsbp-idssegmented-rotuman//clicsbp-wold-Takia"
@@ -30928,7 +30916,20 @@ graph [
   ]
   edge [
     source 364
-    target 1232
+    target 1231
+    count 1
+    words "o ʔʰ o n i"
+    varieties "clicsbp-idssegmented-rotuman"
+    languages "rotu1241"
+    families "Austronesian"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 365
+    target 1229
     count 1
     words "o ʔʰ o n i"
     varieties "clicsbp-idssegmented-rotuman"
@@ -30942,19 +30943,6 @@ graph [
   edge [
     source 365
     target 1230
-    count 1
-    words "o ʔʰ o n i"
-    varieties "clicsbp-idssegmented-rotuman"
-    languages "rotu1241"
-    families "Austronesian"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 365
-    target 1231
     count 2
     words "o ʔʰ o n i//a n a k e"
     varieties "clicsbp-idssegmented-rotuman//clicsbp-wold-Hawaiian"
@@ -30967,7 +30955,7 @@ graph [
   ]
   edge [
     source 365
-    target 1232
+    target 1231
     count 2
     words "o ʔʰ o n i//a n a k e"
     varieties "clicsbp-idssegmented-rotuman//clicsbp-wold-Hawaiian"
@@ -31071,7 +31059,7 @@ graph [
   ]
   edge [
     source 368
-    target 1150
+    target 1149
     count 1
     words "ʔ e s e"
     varieties "clicsbp-idssegmented-rotuman"
@@ -31201,7 +31189,7 @@ graph [
   ]
   edge [
     source 370
-    target 1193
+    target 1192
     count 1
     words "l a + s a"
     varieties "clicsbp-wold-Takia"
@@ -31227,7 +31215,7 @@ graph [
   ]
   edge [
     source 370
-    target 1279
+    target 1278
     count 1
     words "l a + s a"
     varieties "clicsbp-wold-Takia"
@@ -31734,7 +31722,7 @@ graph [
   ]
   edge [
     source 381
-    target 1128
+    target 1127
     count 1
     words "k a u"
     varieties "clicsbp-idssegmented-tuamotuan"
@@ -31747,7 +31735,7 @@ graph [
   ]
   edge [
     source 382
-    target 1247
+    target 1246
     count 1
     words "f u o l o a"
     varieties "clicsbp-idssegmented-tongan"
@@ -31799,7 +31787,7 @@ graph [
   ]
   edge [
     source 386
-    target 1229
+    target 1228
     count 2
     words "œ ʔ f a//a n a k a l a"
     varieties "clicsbp-idssegmented-rotuman//clicsbp-wold-Hawaiian"
@@ -31825,7 +31813,7 @@ graph [
   ]
   edge [
     source 386
-    target 1230
+    target 1229
     count 1
     words "a n a k a l a"
     varieties "clicsbp-wold-Hawaiian"
@@ -31851,7 +31839,7 @@ graph [
   ]
   edge [
     source 387
-    target 1165
+    target 1164
     count 3
     words "h u ŋ a v a i + t a n e//r a f o z a ⁿd a h y//m a k u a h u n o a i + k a n e"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-wold-Malagasy//clicsbp-wold-Hawaiian"
@@ -31890,7 +31878,7 @@ graph [
   ]
   edge [
     source 388
-    target 1165
+    target 1164
     count 1
     words "i r a o"
     varieties "clicsbp-wold-Takia"
@@ -31903,7 +31891,7 @@ graph [
   ]
   edge [
     source 388
-    target 1166
+    target 1165
     count 1
     words "i r a o"
     varieties "clicsbp-wold-Takia"
@@ -31929,7 +31917,7 @@ graph [
   ]
   edge [
     source 388
-    target 1167
+    target 1166
     count 1
     words "i r a o"
     varieties "clicsbp-wold-Takia"
@@ -31955,7 +31943,7 @@ graph [
   ]
   edge [
     source 389
-    target 1166
+    target 1165
     count 3
     words "h u n o ŋ a + t a n e//v i n a ⁿt o + l a h y//h u n o n a + k a n e"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-wold-Malagasy//clicsbp-wold-Hawaiian"
@@ -31968,7 +31956,7 @@ graph [
   ]
   edge [
     source 390
-    target 1167
+    target 1166
     count 4
     words "h u n o ŋ a + v a h i n e//v i n a ⁿt o + v a v y//i r a o//h u n o n a + w a h i n e"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-wold-Malagasy//clicsbp-wold-Takia//clicsbp-wold-Hawaiian"
@@ -31981,7 +31969,7 @@ graph [
   ]
   edge [
     source 390
-    target 1165
+    target 1164
     count 1
     words "i r a o"
     varieties "clicsbp-wold-Takia"
@@ -32007,7 +31995,7 @@ graph [
   ]
   edge [
     source 390
-    target 1166
+    target 1165
     count 1
     words "i r a o"
     varieties "clicsbp-wold-Takia"
@@ -32111,7 +32099,7 @@ graph [
   ]
   edge [
     source 395
-    target 1164
+    target 1163
     count 1
     words "w a h i n e"
     varieties "clicsbp-wold-Hawaiian"
@@ -32124,7 +32112,7 @@ graph [
   ]
   edge [
     source 396
-    target 1168
+    target 1167
     count 1
     words "b i b y + f i o ⁿp y"
     varieties "clicsbp-wold-Malagasy"
@@ -32137,7 +32125,7 @@ graph [
   ]
   edge [
     source 399
-    target 1168
+    target 1167
     count 1
     words "m a k a o"
     varieties "clicsbp-wold-Takia"
@@ -32189,7 +32177,7 @@ graph [
   ]
   edge [
     source 401
-    target 1168
+    target 1167
     count 1
     words "m a k a o"
     varieties "clicsbp-wold-Takia"
@@ -32241,7 +32229,7 @@ graph [
   ]
   edge [
     source 403
-    target 1168
+    target 1167
     count 1
     words "m a k a o"
     varieties "clicsbp-wold-Takia"
@@ -32267,7 +32255,7 @@ graph [
   ]
   edge [
     source 404
-    target 1184
+    target 1183
     count 1
     words "s i p i"
     varieties "clicsbp-idssegmented-rotuman"
@@ -32397,7 +32385,7 @@ graph [
   ]
   edge [
     source 407
-    target 1169
+    target 1168
     count 1
     words "w o s"
     varieties "clicsbp-wold-Takia"
@@ -32410,7 +32398,7 @@ graph [
   ]
   edge [
     source 407
-    target 1170
+    target 1169
     count 1
     words "w o s"
     varieties "clicsbp-wold-Takia"
@@ -32462,7 +32450,7 @@ graph [
   ]
   edge [
     source 411
-    target 1169
+    target 1168
     count 1
     words "w o s"
     varieties "clicsbp-wold-Takia"
@@ -32475,7 +32463,7 @@ graph [
   ]
   edge [
     source 411
-    target 1170
+    target 1169
     count 1
     words "w o s"
     varieties "clicsbp-wold-Takia"
@@ -32488,7 +32476,7 @@ graph [
   ]
   edge [
     source 412
-    target 1268
+    target 1267
     count 1
     words "d o ŋ k i"
     varieties "clicsbp-wold-Takia"
@@ -32514,7 +32502,7 @@ graph [
   ]
   edge [
     source 413
-    target 1171
+    target 1170
     count 3
     words "m o a//m o a//k r e k"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-idssegmented-rotuman//clicsbp-wold-Takia"
@@ -32553,7 +32541,7 @@ graph [
   ]
   edge [
     source 414
-    target 1171
+    target 1170
     count 1
     words "k r e k"
     varieties "clicsbp-wold-Takia"
@@ -32592,7 +32580,7 @@ graph [
   ]
   edge [
     source 415
-    target 1171
+    target 1170
     count 2
     words "m o a//k r e k"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-wold-Takia"
@@ -32748,7 +32736,7 @@ graph [
   ]
   edge [
     source 423
-    target 1213
+    target 1212
     count 1
     words "k a k a"
     varieties "clicsbp-idssegmented-tongan"
@@ -32826,7 +32814,7 @@ graph [
   ]
   edge [
     source 431
-    target 1173
+    target 1172
     count 1
     words "k a p o ŋ a"
     varieties "clicsbp-idssegmented-tongan"
@@ -33125,7 +33113,7 @@ graph [
   ]
   edge [
     source 436
-    target 1280
+    target 1279
     count 1
     words "k d i"
     varieties "clicsbp-wold-Takia"
@@ -33151,7 +33139,7 @@ graph [
   ]
   edge [
     source 437
-    target 1150
+    target 1149
     count 1
     words "ʔ e s e"
     varieties "clicsbp-idssegmented-rotuman"
@@ -33190,7 +33178,7 @@ graph [
   ]
   edge [
     source 448
-    target 1173
+    target 1172
     count 1
     words "h o n u"
     varieties "clicsbp-idssegmented-rapanui"
@@ -33476,7 +33464,7 @@ graph [
   ]
   edge [
     source 455
-    target 1253
+    target 1252
     count 1
     words "m j a n u + k"
     varieties "clicsbp-wold-Takia"
@@ -33593,7 +33581,7 @@ graph [
   ]
   edge [
     source 463
-    target 1117
+    target 1116
     count 1
     words "t u m u"
     varieties "clicsbp-idssegmented-rapanui"
@@ -33619,7 +33607,7 @@ graph [
   ]
   edge [
     source 463
-    target 1241
+    target 1240
     count 1
     words "h uː"
     varieties "clicsbp-idssegmented-rotuman"
@@ -33684,7 +33672,7 @@ graph [
   ]
   edge [
     source 464
-    target 1131
+    target 1130
     count 1
     words "f u l u f u l u"
     varieties "clicsbp-idssegmented-tongan"
@@ -33697,7 +33685,7 @@ graph [
   ]
   edge [
     source 464
-    target 1120
+    target 1119
     count 1
     words "k a e"
     varieties "clicsbp-idssegmented-tuamotuan"
@@ -33710,7 +33698,7 @@ graph [
   ]
   edge [
     source 464
-    target 1122
+    target 1121
     count 1
     words "v o l o"
     varieties "clicsbp-wold-Malagasy"
@@ -33723,7 +33711,7 @@ graph [
   ]
   edge [
     source 465
-    target 1184
+    target 1183
     count 1
     words "s i p i"
     varieties "clicsbp-idssegmented-rotuman"
@@ -33736,7 +33724,7 @@ graph [
   ]
   edge [
     source 465
-    target 1131
+    target 1130
     count 1
     words "h u l u"
     varieties "clicsbp-wold-Hawaiian"
@@ -33762,7 +33750,7 @@ graph [
   ]
   edge [
     source 467
-    target 1131
+    target 1130
     count 2
     words "f u l u f u l u//fː l u"
     varieties "clicsbp-idssegmented-tongan//clicsbp-wold-Takia"
@@ -33775,7 +33763,7 @@ graph [
   ]
   edge [
     source 467
-    target 1122
+    target 1121
     count 1
     words "v o l o"
     varieties "clicsbp-wold-Malagasy"
@@ -33788,7 +33776,7 @@ graph [
   ]
   edge [
     source 467
-    target 1175
+    target 1174
     count 2
     words "fː l u//h u l u h u l u"
     varieties "clicsbp-wold-Takia//clicsbp-wold-Hawaiian"
@@ -33801,7 +33789,7 @@ graph [
   ]
   edge [
     source 468
-    target 1296
+    target 1295
     count 1
     words "i m"
     varieties "clicsbp-wold-Takia"
@@ -34061,7 +34049,7 @@ graph [
   ]
   edge [
     source 477
-    target 1128
+    target 1127
     count 1
     words "k a u"
     varieties "clicsbp-idssegmented-tuamotuan"
@@ -34074,7 +34062,7 @@ graph [
   ]
   edge [
     source 477
-    target 1162
+    target 1161
     count 1
     words "a"
     varieties "clicsbp-wold-Hawaiian"
@@ -34126,7 +34114,7 @@ graph [
   ]
   edge [
     source 479
-    target 1155
+    target 1154
     count 1
     words "ŋ a u ŋ a u"
     varieties "clicsbp-idssegmented-tuamotuan"
@@ -34230,7 +34218,7 @@ graph [
   ]
   edge [
     source 482
-    target 1217
+    target 1216
     count 1
     words "r a k o"
     varieties "clicsbp-idssegmented-rotuman"
@@ -34412,7 +34400,7 @@ graph [
   ]
   edge [
     source 497
-    target 1242
+    target 1241
     count 1
     words "a ŋ s a r a"
     varieties "clicsbp-idssegmented-rotuman"
@@ -34490,7 +34478,7 @@ graph [
   ]
   edge [
     source 505
-    target 1117
+    target 1116
     count 1
     words "h a k a t u"
     varieties "clicsbp-idssegmented-marquesan"
@@ -34542,7 +34530,7 @@ graph [
   ]
   edge [
     source 506
-    target 1156
+    target 1155
     count 1
     words "s u r u"
     varieties "clicsbp-idssegmented-rotuman"
@@ -34607,7 +34595,7 @@ graph [
   ]
   edge [
     source 509
-    target 1203
+    target 1202
     count 1
     words "h o p e ʔ a"
     varieties "clicsbp-idssegmented-rapanui"
@@ -34659,7 +34647,7 @@ graph [
   ]
   edge [
     source 509
-    target 1205
+    target 1204
     count 1
     words "w a d a"
     varieties "clicsbp-wold-Takia"
@@ -34724,7 +34712,7 @@ graph [
   ]
   edge [
     source 510
-    target 1210
+    target 1209
     count 1
     words "h u ŋ a"
     varieties "clicsbp-idssegmented-rotuman"
@@ -34997,7 +34985,7 @@ graph [
   ]
   edge [
     source 517
-    target 1122
+    target 1121
     count 1
     words "k o h e"
     varieties "clicsbp-idssegmented-marquesan"
@@ -35023,7 +35011,7 @@ graph [
   ]
   edge [
     source 517
-    target 1278
+    target 1277
     count 1
     words "b a r a s"
     varieties "clicsbp-wold-Takia"
@@ -35075,7 +35063,7 @@ graph [
   ]
   edge [
     source 520
-    target 1241
+    target 1240
     count 1
     words "a i"
     varieties "clicsbp-wold-Takia"
@@ -35231,7 +35219,7 @@ graph [
   ]
   edge [
     source 525
-    target 1128
+    target 1127
     count 1
     words "k a u"
     varieties "clicsbp-idssegmented-tuamotuan"
@@ -35244,7 +35232,7 @@ graph [
   ]
   edge [
     source 525
-    target 1155
+    target 1154
     count 1
     words "ŋ a u ŋ a u"
     varieties "clicsbp-idssegmented-tuamotuan"
@@ -35257,7 +35245,7 @@ graph [
   ]
   edge [
     source 525
-    target 1154
+    target 1153
     count 1
     words "n a m u"
     varieties "clicsbp-wold-Hawaiian"
@@ -35348,7 +35336,7 @@ graph [
   ]
   edge [
     source 528
-    target 1193
+    target 1192
     count 1
     words "e ʔ a"
     varieties "clicsbp-idssegmented-rapanui"
@@ -35374,7 +35362,7 @@ graph [
   ]
   edge [
     source 528
-    target 1196
+    target 1195
     count 2
     words "s d a//p i i"
     varieties "clicsbp-wold-Takia//clicsbp-wold-Hawaiian"
@@ -35465,7 +35453,7 @@ graph [
   ]
   edge [
     source 530
-    target 1211
+    target 1210
     count 1
     words "m a n a o"
     varieties "clicsbp-wold-Malagasy"
@@ -35478,7 +35466,7 @@ graph [
   ]
   edge [
     source 530
-    target 1270
+    target 1269
     count 1
     words "m a n a o"
     varieties "clicsbp-wold-Malagasy"
@@ -35491,7 +35479,7 @@ graph [
   ]
   edge [
     source 531
-    target 1150
+    target 1149
     count 1
     words "ʔ e s e"
     varieties "clicsbp-idssegmented-rotuman"
@@ -35530,7 +35518,7 @@ graph [
   ]
   edge [
     source 532
-    target 1243
+    target 1242
     count 1
     words "h a p a i"
     varieties "clicsbp-wold-Hawaiian"
@@ -35556,7 +35544,7 @@ graph [
   ]
   edge [
     source 532
-    target 1280
+    target 1279
     count 1
     words "h a p a i"
     varieties "clicsbp-wold-Hawaiian"
@@ -35569,7 +35557,7 @@ graph [
   ]
   edge [
     source 532
-    target 1244
+    target 1243
     count 1
     words "h a p a i"
     varieties "clicsbp-wold-Hawaiian"
@@ -35738,7 +35726,7 @@ graph [
   ]
   edge [
     source 537
-    target 1302
+    target 1301
     count 2
     words "s b a m//m a i"
     varieties "clicsbp-wold-Takia//clicsbp-wold-Hawaiian"
@@ -36024,7 +36012,7 @@ graph [
   ]
   edge [
     source 542
-    target 1113
+    target 1112
     count 1
     words "k u i"
     varieties "clicsbp-wold-Hawaiian"
@@ -36102,7 +36090,7 @@ graph [
   ]
   edge [
     source 543
-    target 1113
+    target 1112
     count 1
     words "k u i"
     varieties "clicsbp-wold-Hawaiian"
@@ -36154,7 +36142,7 @@ graph [
   ]
   edge [
     source 546
-    target 1111
+    target 1110
     count 1
     words "h a ŋ u"
     varieties "clicsbp-idssegmented-rapanui"
@@ -36622,7 +36610,7 @@ graph [
   ]
   edge [
     source 563
-    target 1198
+    target 1197
     count 1
     words "p a t u + n + p a s i"
     varieties "clicsbp-wold-Takia"
@@ -36687,7 +36675,7 @@ graph [
   ]
   edge [
     source 572
-    target 1204
+    target 1203
     count 1
     words "n o a"
     varieties "clicsbp-idssegmented-tongan"
@@ -36700,7 +36688,7 @@ graph [
   ]
   edge [
     source 574
-    target 1123
+    target 1122
     count 1
     words "k o n a"
     varieties "clicsbp-idssegmented-tongan"
@@ -36739,7 +36727,7 @@ graph [
   ]
   edge [
     source 576
-    target 1181
+    target 1180
     count 1
     words "t e + l a + ʔ a"
     varieties "clicsbp-idssegmented-rotuman"
@@ -36817,7 +36805,7 @@ graph [
   ]
   edge [
     source 584
-    target 1125
+    target 1124
     count 1
     words "p u p u h i"
     varieties "clicsbp-idssegmented-marquesan"
@@ -36830,7 +36818,7 @@ graph [
   ]
   edge [
     source 584
-    target 1180
+    target 1179
     count 1
     words "p a i l a"
     varieties "clicsbp-wold-Hawaiian"
@@ -36869,7 +36857,7 @@ graph [
   ]
   edge [
     source 585
-    target 1118
+    target 1117
     count 1
     words "s u"
     varieties "clicsbp-wold-Takia"
@@ -36960,7 +36948,7 @@ graph [
   ]
   edge [
     source 588
-    target 1143
+    target 1142
     count 2
     words "l a f a o r o//s t o p"
     varieties "clicsbp-wold-Malagasy//clicsbp-wold-Takia"
@@ -37207,7 +37195,7 @@ graph [
   ]
   edge [
     source 600
-    target 1122
+    target 1121
     count 1
     words "k o h e"
     varieties "clicsbp-idssegmented-marquesan"
@@ -37272,7 +37260,7 @@ graph [
   ]
   edge [
     source 601
-    target 1307
+    target 1306
     count 1
     words "o"
     varieties "clicsbp-wold-Hawaiian"
@@ -37415,7 +37403,7 @@ graph [
   ]
   edge [
     source 607
-    target 1303
+    target 1302
     count 1
     words "w a u"
     varieties "clicsbp-wold-Hawaiian"
@@ -37506,7 +37494,7 @@ graph [
   ]
   edge [
     source 608
-    target 1243
+    target 1242
     count 1
     words "a b i"
     varieties "clicsbp-wold-Takia"
@@ -37545,7 +37533,7 @@ graph [
   ]
   edge [
     source 608
-    target 1194
+    target 1193
     count 1
     words "a b i"
     varieties "clicsbp-wold-Takia"
@@ -37584,7 +37572,7 @@ graph [
   ]
   edge [
     source 610
-    target 1122
+    target 1121
     count 1
     words "gː r e ŋ"
     varieties "clicsbp-wold-Takia"
@@ -37623,7 +37611,7 @@ graph [
   ]
   edge [
     source 611
-    target 1259
+    target 1258
     count 1
     words "ŋ a u e ʔ i"
     varieties "clicsbp-idssegmented-tongan"
@@ -37727,7 +37715,7 @@ graph [
   ]
   edge [
     source 614
-    target 1243
+    target 1242
     count 1
     words "a b i"
     varieties "clicsbp-wold-Takia"
@@ -37766,7 +37754,7 @@ graph [
   ]
   edge [
     source 614
-    target 1194
+    target 1193
     count 1
     words "a b i"
     varieties "clicsbp-wold-Takia"
@@ -37857,7 +37845,7 @@ graph [
   ]
   edge [
     source 620
-    target 1181
+    target 1180
     count 1
     words "h a ʔ a + ʔ a p u"
     varieties "clicsbp-idssegmented-rapanui"
@@ -37896,7 +37884,7 @@ graph [
   ]
   edge [
     source 620
-    target 1127
+    target 1126
     count 1
     words "n ŋ o"
     varieties "clicsbp-wold-Takia"
@@ -37948,7 +37936,7 @@ graph [
   ]
   edge [
     source 622
-    target 1273
+    target 1272
     count 1
     words "v o a l o b o k a"
     varieties "clicsbp-wold-Malagasy"
@@ -37961,7 +37949,7 @@ graph [
   ]
   edge [
     source 623
-    target 1140
+    target 1139
     count 1
     words "g r e ŋ"
     varieties "clicsbp-wold-Takia"
@@ -38169,7 +38157,7 @@ graph [
   ]
   edge [
     source 634
-    target 1130
+    target 1129
     count 3
     words "k a h u//h ɔ ʔ u//k a h u"
     varieties "clicsbp-idssegmented-marquesan//clicsbp-idssegmented-rotuman//clicsbp-idssegmented-tuamotuan"
@@ -38234,7 +38222,7 @@ graph [
   ]
   edge [
     source 634
-    target 1270
+    target 1269
     count 1
     words "g a n e"
     varieties "clicsbp-wold-Takia"
@@ -38286,7 +38274,7 @@ graph [
   ]
   edge [
     source 635
-    target 1135
+    target 1134
     count 1
     words "z i p o"
     varieties "clicsbp-wold-Malagasy"
@@ -38299,7 +38287,7 @@ graph [
   ]
   edge [
     source 636
-    target 1130
+    target 1129
     count 4
     words "k a h u//h ɔ ʔ u//k a h u//l o l e"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-idssegmented-rotuman//clicsbp-idssegmented-tuamotuan//clicsbp-wold-Hawaiian"
@@ -38455,7 +38443,7 @@ graph [
   ]
   edge [
     source 641
-    target 1118
+    target 1117
     count 1
     words "s u s u"
     varieties "clicsbp-idssegmented-rotuman"
@@ -38507,7 +38495,7 @@ graph [
   ]
   edge [
     source 642
-    target 1113
+    target 1112
     count 1
     words "k u i"
     varieties "clicsbp-wold-Hawaiian"
@@ -38585,7 +38573,7 @@ graph [
   ]
   edge [
     source 643
-    target 1184
+    target 1183
     count 1
     words "f i l o"
     varieties "clicsbp-idssegmented-tongan"
@@ -38624,7 +38612,7 @@ graph [
   ]
   edge [
     source 644
-    target 1130
+    target 1129
     count 1
     words "h ɔ ʔ u"
     varieties "clicsbp-idssegmented-rotuman"
@@ -38663,7 +38651,7 @@ graph [
   ]
   edge [
     source 644
-    target 1279
+    target 1278
     count 2
     words "t o ŋg a//l a + s a"
     varieties "clicsbp-wold-Malagasy//clicsbp-wold-Takia"
@@ -38676,7 +38664,7 @@ graph [
   ]
   edge [
     source 644
-    target 1193
+    target 1192
     count 1
     words "l a + s a"
     varieties "clicsbp-wold-Takia"
@@ -38741,7 +38729,7 @@ graph [
   ]
   edge [
     source 648
-    target 1135
+    target 1134
     count 1
     words "k a h u + u n a"
     varieties "clicsbp-idssegmented-marquesan"
@@ -38754,7 +38742,7 @@ graph [
   ]
   edge [
     source 654
-    target 1187
+    target 1186
     count 2
     words "k e t e//t a ŋ a"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-idssegmented-rotuman"
@@ -38780,7 +38768,7 @@ graph [
   ]
   edge [
     source 656
-    target 1182
+    target 1181
     count 1
     words "p i n i"
     varieties "clicsbp-idssegmented-rotuman"
@@ -38806,7 +38794,7 @@ graph [
   ]
   edge [
     source 660
-    target 1156
+    target 1155
     count 1
     words "s u r u"
     varieties "clicsbp-idssegmented-rotuman"
@@ -38819,7 +38807,7 @@ graph [
   ]
   edge [
     source 660
-    target 1221
+    target 1220
     count 1
     words "d o u"
     varieties "clicsbp-wold-Takia"
@@ -38845,7 +38833,7 @@ graph [
   ]
   edge [
     source 662
-    target 1276
+    target 1275
     count 1
     words "k a w e l e"
     varieties "clicsbp-wold-Hawaiian"
@@ -38962,7 +38950,7 @@ graph [
   ]
   edge [
     source 665
-    target 1243
+    target 1242
     count 1
     words "a b i"
     varieties "clicsbp-wold-Takia"
@@ -39001,7 +38989,7 @@ graph [
   ]
   edge [
     source 665
-    target 1194
+    target 1193
     count 1
     words "a b i"
     varieties "clicsbp-wold-Takia"
@@ -39157,7 +39145,7 @@ graph [
   ]
   edge [
     source 677
-    target 1240
+    target 1239
     count 1
     words "h i d y"
     varieties "clicsbp-wold-Malagasy"
@@ -39287,7 +39275,7 @@ graph [
   ]
   edge [
     source 688
-    target 1110
+    target 1109
     count 1
     words "a m a + t i k a u e"
     varieties "clicsbp-idssegmented-marquesan"
@@ -39378,7 +39366,7 @@ graph [
   ]
   edge [
     source 691
-    target 1145
+    target 1144
     count 1
     words "o t a"
     varieties "clicsbp-idssegmented-rotuman"
@@ -39469,7 +39457,7 @@ graph [
   ]
   edge [
     source 694
-    target 1281
+    target 1280
     count 1
     words "d u"
     varieties "clicsbp-wold-Takia"
@@ -39612,7 +39600,7 @@ graph [
   ]
   edge [
     source 701
-    target 1243
+    target 1242
     count 1
     words "a b i"
     varieties "clicsbp-wold-Takia"
@@ -39651,7 +39639,7 @@ graph [
   ]
   edge [
     source 701
-    target 1194
+    target 1193
     count 1
     words "a b i"
     varieties "clicsbp-wold-Takia"
@@ -39703,7 +39691,7 @@ graph [
   ]
   edge [
     source 702
-    target 1243
+    target 1242
     count 1
     words "a b i"
     varieties "clicsbp-wold-Takia"
@@ -39742,7 +39730,7 @@ graph [
   ]
   edge [
     source 702
-    target 1194
+    target 1193
     count 1
     words "a b i"
     varieties "clicsbp-wold-Takia"
@@ -39794,7 +39782,7 @@ graph [
   ]
   edge [
     source 704
-    target 1144
+    target 1143
     count 1
     words "a v a"
     varieties "clicsbp-idssegmented-rapanui"
@@ -39872,7 +39860,7 @@ graph [
   ]
   edge [
     source 712
-    target 1191
+    target 1190
     count 1
     words "h o r e"
     varieties "clicsbp-idssegmented-rapanui"
@@ -39885,7 +39873,7 @@ graph [
   ]
   edge [
     source 712
-    target 1148
+    target 1147
     count 3
     words "t u ʔ u s i//t a r e//o k i"
     varieties "clicsbp-idssegmented-tongan//clicsbp-wold-Takia//clicsbp-wold-Hawaiian"
@@ -39937,7 +39925,7 @@ graph [
   ]
   edge [
     source 712
-    target 1144
+    target 1143
     count 1
     words "t a r e"
     varieties "clicsbp-wold-Takia"
@@ -40054,7 +40042,7 @@ graph [
   ]
   edge [
     source 718
-    target 1260
+    target 1259
     count 1
     words "p a l a o a + h u l u h u l u"
     varieties "clicsbp-wold-Hawaiian"
@@ -40106,7 +40094,7 @@ graph [
   ]
   edge [
     source 723
-    target 1190
+    target 1189
     count 1
     words "t oː"
     varieties "clicsbp-idssegmented-tongan"
@@ -40145,7 +40133,7 @@ graph [
   ]
   edge [
     source 724
-    target 1240
+    target 1239
     count 1
     words "k i"
     varieties "clicsbp-wold-Hawaiian"
@@ -40158,7 +40146,7 @@ graph [
   ]
   edge [
     source 724
-    target 1295
+    target 1294
     count 1
     words "k i"
     varieties "clicsbp-wold-Hawaiian"
@@ -40171,7 +40159,7 @@ graph [
   ]
   edge [
     source 726
-    target 1124
+    target 1123
     count 1
     words "p a i n a"
     varieties "clicsbp-wold-Hawaiian"
@@ -40249,7 +40237,7 @@ graph [
   ]
   edge [
     source 734
-    target 1188
+    target 1187
     count 1
     words "i p u"
     varieties "clicsbp-wold-Hawaiian"
@@ -40353,7 +40341,7 @@ graph [
   ]
   edge [
     source 739
-    target 1243
+    target 1242
     count 1
     words "a b i"
     varieties "clicsbp-wold-Takia"
@@ -40392,7 +40380,7 @@ graph [
   ]
   edge [
     source 739
-    target 1194
+    target 1193
     count 1
     words "a b i"
     varieties "clicsbp-wold-Takia"
@@ -40418,7 +40406,7 @@ graph [
   ]
   edge [
     source 740
-    target 1117
+    target 1116
     count 1
     words "t u m u"
     varieties "clicsbp-idssegmented-rapanui"
@@ -40457,7 +40445,7 @@ graph [
   ]
   edge [
     source 740
-    target 1270
+    target 1269
     count 1
     words "g a n e"
     varieties "clicsbp-wold-Takia"
@@ -40600,7 +40588,7 @@ graph [
   ]
   edge [
     source 741
-    target 1211
+    target 1210
     count 1
     words "b o l"
     varieties "clicsbp-wold-Takia"
@@ -40626,7 +40614,7 @@ graph [
   ]
   edge [
     source 742
-    target 1270
+    target 1269
     count 1
     words "h a n a"
     varieties "clicsbp-wold-Hawaiian"
@@ -40769,7 +40757,7 @@ graph [
   ]
   edge [
     source 751
-    target 1148
+    target 1147
     count 3
     words "p a ʔ o//f ɔ i//t u ʔ u s i"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-idssegmented-rotuman//clicsbp-idssegmented-tongan"
@@ -40795,7 +40783,7 @@ graph [
   ]
   edge [
     source 751
-    target 1194
+    target 1193
     count 1
     words "f ɔ i"
     varieties "clicsbp-idssegmented-rotuman"
@@ -40860,7 +40848,7 @@ graph [
   ]
   edge [
     source 754
-    target 1142
+    target 1141
     count 1
     words "t o k i"
     varieties "clicsbp-idssegmented-marquesan"
@@ -40886,7 +40874,7 @@ graph [
   ]
   edge [
     source 754
-    target 1148
+    target 1147
     count 1
     words "t u ʔ u s i"
     varieties "clicsbp-idssegmented-tongan"
@@ -41029,7 +41017,7 @@ graph [
   ]
   edge [
     source 761
-    target 1276
+    target 1275
     count 2
     words "m a m a o k a//s a s i"
     varieties "clicsbp-wold-Malagasy//clicsbp-wold-Takia"
@@ -41159,7 +41147,7 @@ graph [
   ]
   edge [
     source 774
-    target 1113
+    target 1112
     count 1
     words "k u i"
     varieties "clicsbp-wold-Hawaiian"
@@ -41172,7 +41160,7 @@ graph [
   ]
   edge [
     source 776
-    target 1261
+    target 1260
     count 1
     words "k u i + h a o"
     varieties "clicsbp-wold-Hawaiian"
@@ -41211,7 +41199,7 @@ graph [
   ]
   edge [
     source 781
-    target 1211
+    target 1210
     count 1
     words "b o l"
     varieties "clicsbp-wold-Takia"
@@ -41224,7 +41212,7 @@ graph [
   ]
   edge [
     source 782
-    target 1272
+    target 1271
     count 1
     words "b o d"
     varieties "clicsbp-wold-Takia"
@@ -41237,7 +41225,7 @@ graph [
   ]
   edge [
     source 783
-    target 1187
+    target 1186
     count 1
     words "e k e"
     varieties "clicsbp-wold-Hawaiian"
@@ -41250,7 +41238,7 @@ graph [
   ]
   edge [
     source 785
-    target 1149
+    target 1148
     count 1
     words "p e a h i"
     varieties "clicsbp-wold-Hawaiian"
@@ -41328,7 +41316,7 @@ graph [
   ]
   edge [
     source 788
-    target 1134
+    target 1133
     count 2
     words "m a ⁿd o k o//p e n + p a n i"
     varieties "clicsbp-wold-Malagasy//clicsbp-wold-Takia"
@@ -41341,7 +41329,7 @@ graph [
   ]
   edge [
     source 789
-    target 1180
+    target 1179
     count 1
     words "t o r"
     varieties "clicsbp-wold-Takia"
@@ -41432,7 +41420,7 @@ graph [
   ]
   edge [
     source 795
-    target 1202
+    target 1201
     count 1
     words "a b i + s a"
     varieties "clicsbp-wold-Takia"
@@ -41445,7 +41433,7 @@ graph [
   ]
   edge [
     source 795
-    target 1243
+    target 1242
     count 1
     words "h a p a i"
     varieties "clicsbp-wold-Hawaiian"
@@ -41471,7 +41459,7 @@ graph [
   ]
   edge [
     source 795
-    target 1280
+    target 1279
     count 1
     words "h a p a i"
     varieties "clicsbp-wold-Hawaiian"
@@ -41484,7 +41472,7 @@ graph [
   ]
   edge [
     source 795
-    target 1244
+    target 1243
     count 1
     words "h a p a i"
     varieties "clicsbp-wold-Hawaiian"
@@ -41497,7 +41485,7 @@ graph [
   ]
   edge [
     source 796
-    target 1120
+    target 1119
     count 1
     words "t u r u + t u r u"
     varieties "clicsbp-idssegmented-rapanui"
@@ -41536,6 +41524,19 @@ graph [
   ]
   edge [
     source 798
+    target 1193
+    count 1
+    words "ʔ a + ʔ a r u"
+    varieties "clicsbp-idssegmented-rapanui"
+    languages "rapa1244"
+    families "Austronesian"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 798
     target 1194
     count 1
     words "ʔ a + ʔ a r u"
@@ -41549,20 +41550,7 @@ graph [
   ]
   edge [
     source 798
-    target 1195
-    count 1
-    words "ʔ a + ʔ a r u"
-    varieties "clicsbp-idssegmented-rapanui"
-    languages "rapa1244"
-    families "Austronesian"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 798
-    target 1245
+    target 1244
     count 1
     words "m i s a ⁿb o ʈ r a"
     varieties "clicsbp-wold-Malagasy"
@@ -41601,7 +41589,7 @@ graph [
   ]
   edge [
     source 799
-    target 1194
+    target 1193
     count 2
     words "ʔ a + ʔ a r u//a b i"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-wold-Takia"
@@ -41614,7 +41602,7 @@ graph [
   ]
   edge [
     source 799
-    target 1195
+    target 1194
     count 1
     words "ʔ a + ʔ a r u"
     varieties "clicsbp-idssegmented-rapanui"
@@ -41666,7 +41654,7 @@ graph [
   ]
   edge [
     source 799
-    target 1243
+    target 1242
     count 1
     words "a b i"
     varieties "clicsbp-wold-Takia"
@@ -41692,7 +41680,7 @@ graph [
   ]
   edge [
     source 802
-    target 1178
+    target 1177
     count 1
     words "p a t u"
     varieties "clicsbp-wold-Takia"
@@ -41744,7 +41732,7 @@ graph [
   ]
   edge [
     source 810
-    target 1223
+    target 1222
     count 2
     words "tʃ o n i//m a ⁿd o s i ʈ r a"
     varieties "clicsbp-idssegmented-rotuman//clicsbp-wold-Malagasy"
@@ -41757,7 +41745,7 @@ graph [
   ]
   edge [
     source 811
-    target 1213
+    target 1212
     count 1
     words "k a k a"
     varieties "clicsbp-idssegmented-tongan"
@@ -41770,7 +41758,7 @@ graph [
   ]
   edge [
     source 811
-    target 1196
+    target 1195
     count 1
     words "p i i"
     varieties "clicsbp-wold-Hawaiian"
@@ -41809,7 +41797,7 @@ graph [
   ]
   edge [
     source 812
-    target 1223
+    target 1222
     count 1
     words "m u l"
     varieties "clicsbp-wold-Takia"
@@ -41874,7 +41862,7 @@ graph [
   ]
   edge [
     source 814
-    target 1193
+    target 1192
     count 1
     words "h a a l e l e"
     varieties "clicsbp-wold-Hawaiian"
@@ -41900,7 +41888,7 @@ graph [
   ]
   edge [
     source 817
-    target 1270
+    target 1269
     count 1
     words "g a n e"
     varieties "clicsbp-wold-Takia"
@@ -41913,7 +41901,7 @@ graph [
   ]
   edge [
     source 818
-    target 1259
+    target 1258
     count 2
     words "m a h a z o//l o a a"
     varieties "clicsbp-wold-Malagasy//clicsbp-wold-Hawaiian"
@@ -41939,7 +41927,7 @@ graph [
   ]
   edge [
     source 818
-    target 1150
+    target 1149
     count 1
     words "l o a a"
     varieties "clicsbp-wold-Hawaiian"
@@ -41978,33 +41966,33 @@ graph [
   ]
   edge [
     source 819
+    target 1242
+    count 1
+    words "h a p a i"
+    varieties "clicsbp-wold-Hawaiian"
+    languages "hawa1245"
+    families "Austronesian"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 819
+    target 1279
+    count 1
+    words "h a p a i"
+    varieties "clicsbp-wold-Hawaiian"
+    languages "hawa1245"
+    families "Austronesian"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 819
     target 1243
-    count 1
-    words "h a p a i"
-    varieties "clicsbp-wold-Hawaiian"
-    languages "hawa1245"
-    families "Austronesian"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 819
-    target 1280
-    count 1
-    words "h a p a i"
-    varieties "clicsbp-wold-Hawaiian"
-    languages "hawa1245"
-    families "Austronesian"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 819
-    target 1244
     count 1
     words "h a p a i"
     varieties "clicsbp-wold-Hawaiian"
@@ -42069,7 +42057,7 @@ graph [
   ]
   edge [
     source 822
-    target 1251
+    target 1250
     count 1
     words "k a g i n + p a n i"
     varieties "clicsbp-wold-Takia"
@@ -42173,7 +42161,7 @@ graph [
   ]
   edge [
     source 827
-    target 1221
+    target 1220
     count 1
     words "p a h u"
     varieties "clicsbp-wold-Hawaiian"
@@ -42277,7 +42265,7 @@ graph [
   ]
   edge [
     source 839
-    target 1243
+    target 1242
     count 1
     words "a b i"
     varieties "clicsbp-wold-Takia"
@@ -42290,7 +42278,7 @@ graph [
   ]
   edge [
     source 839
-    target 1194
+    target 1193
     count 1
     words "a b i"
     varieties "clicsbp-wold-Takia"
@@ -42329,7 +42317,7 @@ graph [
   ]
   edge [
     source 840
-    target 1198
+    target 1197
     count 2
     words "æ f + ʔ ɔ k i//m a l a m a"
     varieties "clicsbp-idssegmented-rotuman//clicsbp-wold-Hawaiian"
@@ -42459,7 +42447,7 @@ graph [
   ]
   edge [
     source 845
-    target 1150
+    target 1149
     count 1
     words "l o a a"
     varieties "clicsbp-wold-Hawaiian"
@@ -42472,7 +42460,7 @@ graph [
   ]
   edge [
     source 845
-    target 1259
+    target 1258
     count 1
     words "l o a a"
     varieties "clicsbp-wold-Hawaiian"
@@ -42537,7 +42525,7 @@ graph [
   ]
   edge [
     source 846
-    target 1259
+    target 1258
     count 1
     words "m a h a z o"
     varieties "clicsbp-wold-Malagasy"
@@ -42615,7 +42603,7 @@ graph [
   ]
   edge [
     source 848
-    target 1193
+    target 1192
     count 1
     words "s a i"
     varieties "clicsbp-idssegmented-rotuman"
@@ -42628,7 +42616,7 @@ graph [
   ]
   edge [
     source 849
-    target 1178
+    target 1177
     count 1
     words "s e l e n e"
     varieties "clicsbp-idssegmented-rotuman"
@@ -42641,7 +42629,7 @@ graph [
   ]
   edge [
     source 849
-    target 1238
+    target 1237
     count 1
     words "k a l a"
     varieties "clicsbp-wold-Hawaiian"
@@ -42654,7 +42642,7 @@ graph [
   ]
   edge [
     source 849
-    target 1214
+    target 1213
     count 1
     words "k a l a"
     varieties "clicsbp-wold-Hawaiian"
@@ -42745,7 +42733,7 @@ graph [
   ]
   edge [
     source 855
-    target 1182
+    target 1181
     count 1
     words "p i"
     varieties "clicsbp-wold-Hawaiian"
@@ -42758,7 +42746,7 @@ graph [
   ]
   edge [
     source 856
-    target 1199
+    target 1198
     count 4
     words "t a r a h u//t i n a u//m o ʔ u a//a i e"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-idssegmented-rotuman//clicsbp-idssegmented-tongan//clicsbp-wold-Hawaiian"
@@ -42771,7 +42759,7 @@ graph [
   ]
   edge [
     source 856
-    target 1200
+    target 1199
     count 1
     words "m o ʔ u a"
     varieties "clicsbp-idssegmented-tongan"
@@ -43083,7 +43071,7 @@ graph [
   ]
   edge [
     source 869
-    target 1196
+    target 1195
     count 1
     words "s d a"
     varieties "clicsbp-wold-Takia"
@@ -43122,7 +43110,7 @@ graph [
   ]
   edge [
     source 870
-    target 1281
+    target 1280
     count 1
     words "l a l o"
     varieties "clicsbp-wold-Hawaiian"
@@ -43187,7 +43175,7 @@ graph [
   ]
   edge [
     source 874
-    target 1264
+    target 1263
     count 1
     words "a ɳ ɖ r o"
     varieties "clicsbp-wold-Malagasy"
@@ -43226,7 +43214,7 @@ graph [
   ]
   edge [
     source 876
-    target 1212
+    target 1211
     count 1
     words "r a v e ʔ a"
     varieties "clicsbp-idssegmented-rapanui"
@@ -43265,7 +43253,7 @@ graph [
   ]
   edge [
     source 877
-    target 1205
+    target 1204
     count 1
     words "w a d a"
     varieties "clicsbp-wold-Takia"
@@ -43278,7 +43266,7 @@ graph [
   ]
   edge [
     source 878
-    target 1202
+    target 1201
     count 1
     words "r u n u"
     varieties "clicsbp-idssegmented-rapanui"
@@ -43304,7 +43292,7 @@ graph [
   ]
   edge [
     source 879
-    target 1180
+    target 1179
     count 1
     words "p a i l a"
     varieties "clicsbp-wold-Hawaiian"
@@ -43369,7 +43357,7 @@ graph [
   ]
   edge [
     source 883
-    target 1224
+    target 1223
     count 1
     words "f t a n i"
     varieties "clicsbp-wold-Takia"
@@ -43395,7 +43383,7 @@ graph [
   ]
   edge [
     source 887
-    target 1114
+    target 1113
     count 1
     words "h o p e"
     varieties "clicsbp-idssegmented-tuamotuan"
@@ -43421,7 +43409,7 @@ graph [
   ]
   edge [
     source 891
-    target 1243
+    target 1242
     count 1
     words "f u a"
     varieties "clicsbp-idssegmented-tongan"
@@ -43460,7 +43448,7 @@ graph [
   ]
   edge [
     source 895
-    target 1243
+    target 1242
     count 1
     words "ʔ ɔ v i"
     varieties "clicsbp-idssegmented-rotuman"
@@ -43577,7 +43565,7 @@ graph [
   ]
   edge [
     source 909
-    target 1200
+    target 1199
     count 1
     words "t a + t a k u"
     varieties "clicsbp-idssegmented-rapanui"
@@ -43603,7 +43591,7 @@ graph [
   ]
   edge [
     source 909
-    target 1211
+    target 1210
     count 1
     words "l a u"
     varieties "clicsbp-idssegmented-tongan"
@@ -43629,7 +43617,7 @@ graph [
   ]
   edge [
     source 912
-    target 1283
+    target 1282
     count 1
     words "t o k a n a"
     varieties "clicsbp-wold-Malagasy"
@@ -43759,7 +43747,7 @@ graph [
   ]
   edge [
     source 918
-    target 1247
+    target 1246
     count 1
     words "e l a"
     varieties "clicsbp-wold-Malagasy"
@@ -43980,7 +43968,7 @@ graph [
   ]
   edge [
     source 946
-    target 1210
+    target 1209
     count 1
     words "h o n i"
     varieties "clicsbp-wold-Hawaiian"
@@ -44058,7 +44046,7 @@ graph [
   ]
   edge [
     source 950
-    target 1210
+    target 1209
     count 2
     words "h u ŋ a//h o n i"
     varieties "clicsbp-idssegmented-rotuman//clicsbp-wold-Hawaiian"
@@ -44253,7 +44241,7 @@ graph [
   ]
   edge [
     source 960
-    target 1134
+    target 1133
     count 1
     words "w a i h o o l u u"
     varieties "clicsbp-wold-Hawaiian"
@@ -44279,7 +44267,7 @@ graph [
   ]
   edge [
     source 961
-    target 1217
+    target 1216
     count 1
     words "r a k o"
     varieties "clicsbp-idssegmented-rotuman"
@@ -44305,7 +44293,7 @@ graph [
   ]
   edge [
     source 962
-    target 1194
+    target 1193
     count 1
     words "u m i k i"
     varieties "clicsbp-wold-Hawaiian"
@@ -44318,7 +44306,7 @@ graph [
   ]
   edge [
     source 963
-    target 1246
+    target 1245
     count 1
     words "m o r a"
     varieties "clicsbp-wold-Malagasy"
@@ -44383,7 +44371,7 @@ graph [
   ]
   edge [
     source 972
-    target 1210
+    target 1209
     count 2
     words "h o ŋ i//h o n i"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-wold-Hawaiian"
@@ -44396,7 +44384,7 @@ graph [
   ]
   edge [
     source 973
-    target 1136
+    target 1135
     count 1
     words "k ɔ l u"
     varieties "clicsbp-idssegmented-rotuman"
@@ -44422,7 +44410,7 @@ graph [
   ]
   edge [
     source 974
-    target 1211
+    target 1210
     count 1
     words "m a n a ʔ u"
     varieties "clicsbp-idssegmented-rapanui"
@@ -44435,7 +44423,7 @@ graph [
   ]
   edge [
     source 974
-    target 1212
+    target 1211
     count 1
     words "m a n a ʔ u"
     varieties "clicsbp-idssegmented-rapanui"
@@ -44526,7 +44514,7 @@ graph [
   ]
   edge [
     source 978
-    target 1308
+    target 1307
     count 1
     words "h u h u"
     varieties "clicsbp-wold-Hawaiian"
@@ -44591,7 +44579,7 @@ graph [
   ]
   edge [
     source 981
-    target 1215
+    target 1214
     count 1
     words "m a n u m a n u"
     varieties "clicsbp-idssegmented-tongan"
@@ -44617,7 +44605,7 @@ graph [
   ]
   edge [
     source 986
-    target 1218
+    target 1217
     count 5
     words "e + h i a//h i s i//f i r y//s a p i t a//e h i a"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-idssegmented-rotuman//clicsbp-wold-Malagasy//clicsbp-wold-Takia//clicsbp-wold-Hawaiian"
@@ -44630,7 +44618,7 @@ graph [
   ]
   edge [
     source 987
-    target 1210
+    target 1209
     count 1
     words "h u ŋ a"
     varieties "clicsbp-idssegmented-rotuman"
@@ -44643,7 +44631,7 @@ graph [
   ]
   edge [
     source 987
-    target 1212
+    target 1211
     count 1
     words "k a n k a n"
     varieties "clicsbp-wold-Takia"
@@ -44682,7 +44670,7 @@ graph [
   ]
   edge [
     source 988
-    target 1160
+    target 1159
     count 1
     words "k o h o"
     varieties "clicsbp-wold-Hawaiian"
@@ -44708,7 +44696,7 @@ graph [
   ]
   edge [
     source 988
-    target 1219
+    target 1218
     count 1
     words "k o h o"
     varieties "clicsbp-wold-Hawaiian"
@@ -44721,7 +44709,7 @@ graph [
   ]
   edge [
     source 990
-    target 1251
+    target 1250
     count 1
     words "a i r e"
     varieties "clicsbp-idssegmented-rotuman"
@@ -44747,7 +44735,7 @@ graph [
   ]
   edge [
     source 991
-    target 1213
+    target 1212
     count 2
     words "s i k o//h o o p u n i p u n i"
     varieties "clicsbp-idssegmented-rotuman//clicsbp-wold-Hawaiian"
@@ -44812,7 +44800,7 @@ graph [
   ]
   edge [
     source 993
-    target 1252
+    target 1251
     count 1
     words "s a r a"
     varieties "clicsbp-idssegmented-rotuman"
@@ -44825,7 +44813,7 @@ graph [
   ]
   edge [
     source 993
-    target 1242
+    target 1241
     count 1
     words "d i s o"
     varieties "clicsbp-wold-Malagasy"
@@ -44877,7 +44865,7 @@ graph [
   ]
   edge [
     source 998
-    target 1212
+    target 1211
     count 2
     words "t u i a//a ʔʰ æ e"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-idssegmented-rotuman"
@@ -44890,7 +44878,7 @@ graph [
   ]
   edge [
     source 998
-    target 1211
+    target 1210
     count 1
     words "a ʔʰ æ e"
     varieties "clicsbp-idssegmented-rotuman"
@@ -44903,7 +44891,7 @@ graph [
   ]
   edge [
     source 998
-    target 1219
+    target 1218
     count 1
     words "a ʔʰ æ e"
     varieties "clicsbp-idssegmented-rotuman"
@@ -44942,7 +44930,7 @@ graph [
   ]
   edge [
     source 1002
-    target 1217
+    target 1216
     count 4
     words "h a p ĩ//r a k o//a k o//m i a n a ʈ r a"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-idssegmented-rotuman//clicsbp-idssegmented-tongan//clicsbp-wold-Malagasy"
@@ -44968,7 +44956,7 @@ graph [
   ]
   edge [
     source 1002
-    target 1264
+    target 1263
     count 1
     words "a o"
     varieties "clicsbp-wold-Hawaiian"
@@ -44981,7 +44969,7 @@ graph [
   ]
   edge [
     source 1003
-    target 1217
+    target 1216
     count 1
     words "h a p ĩ"
     varieties "clicsbp-idssegmented-rapanui"
@@ -44994,7 +44982,7 @@ graph [
   ]
   edge [
     source 1003
-    target 1264
+    target 1263
     count 1
     words "a o"
     varieties "clicsbp-wold-Hawaiian"
@@ -45059,7 +45047,7 @@ graph [
   ]
   edge [
     source 1007
-    target 1211
+    target 1210
     count 1
     words "m a n a ʔ u"
     varieties "clicsbp-idssegmented-rapanui"
@@ -45072,7 +45060,7 @@ graph [
   ]
   edge [
     source 1007
-    target 1212
+    target 1211
     count 1
     words "m a n a ʔ u"
     varieties "clicsbp-idssegmented-rapanui"
@@ -45085,7 +45073,7 @@ graph [
   ]
   edge [
     source 1008
-    target 1254
+    target 1253
     count 1
     words "p a u"
     varieties "clicsbp-idssegmented-tongan"
@@ -45124,7 +45112,7 @@ graph [
   ]
   edge [
     source 1015
-    target 1233
+    target 1232
     count 1
     words "p e a"
     varieties "clicsbp-idssegmented-tongan"
@@ -45137,7 +45125,7 @@ graph [
   ]
   edge [
     source 1015
-    target 1119
+    target 1118
     count 1
     words "a r y"
     varieties "clicsbp-wold-Malagasy"
@@ -45150,7 +45138,7 @@ graph [
   ]
   edge [
     source 1015
-    target 1162
+    target 1161
     count 1
     words "a"
     varieties "clicsbp-wold-Hawaiian"
@@ -45163,7 +45151,7 @@ graph [
   ]
   edge [
     source 1016
-    target 1307
+    target 1306
     count 1
     words "o"
     varieties "clicsbp-wold-Hawaiian"
@@ -45189,7 +45177,7 @@ graph [
   ]
   edge [
     source 1018
-    target 1204
+    target 1203
     count 1
     words "ʔ i n a"
     varieties "clicsbp-idssegmented-rapanui"
@@ -45319,7 +45307,7 @@ graph [
   ]
   edge [
     source 1026
-    target 1220
+    target 1219
     count 1
     words "t a i ʔ o"
     varieties "clicsbp-idssegmented-rapanui"
@@ -45371,7 +45359,7 @@ graph [
   ]
   edge [
     source 1028
-    target 1286
+    target 1285
     count 1
     words "p a s"
     varieties "clicsbp-wold-Takia"
@@ -45449,7 +45437,7 @@ graph [
   ]
   edge [
     source 1035
-    target 1227
+    target 1226
     count 1
     words "h o o h i k i"
     varieties "clicsbp-wold-Hawaiian"
@@ -45462,7 +45450,7 @@ graph [
   ]
   edge [
     source 1036
-    target 1219
+    target 1218
     count 1
     words "t u r e"
     varieties "clicsbp-idssegmented-rapanui"
@@ -45501,7 +45489,7 @@ graph [
   ]
   edge [
     source 1042
-    target 1286
+    target 1285
     count 1
     words "t a r a t a s y"
     varieties "clicsbp-wold-Malagasy"
@@ -45514,7 +45502,7 @@ graph [
   ]
   edge [
     source 1044
-    target 1122
+    target 1121
     count 1
     words "o h e"
     varieties "clicsbp-wold-Hawaiian"
@@ -45527,7 +45515,7 @@ graph [
   ]
   edge [
     source 1045
-    target 1287
+    target 1286
     count 1
     words "p u"
     varieties "clicsbp-wold-Hawaiian"
@@ -45566,7 +45554,7 @@ graph [
   ]
   edge [
     source 1051
-    target 1139
+    target 1138
     count 1
     words "h a u"
     varieties "clicsbp-idssegmented-tongan"
@@ -45605,7 +45593,7 @@ graph [
   ]
   edge [
     source 1054
-    target 1159
+    target 1158
     count 1
     words "a g e r"
     varieties "clicsbp-wold-Takia"
@@ -45644,7 +45632,7 @@ graph [
   ]
   edge [
     source 1069
-    target 1195
+    target 1194
     count 1
     words "p u e"
     varieties "clicsbp-wold-Hawaiian"
@@ -45657,7 +45645,7 @@ graph [
   ]
   edge [
     source 1070
-    target 1198
+    target 1197
     count 1
     words "m i a r o"
     varieties "clicsbp-wold-Malagasy"
@@ -45670,7 +45658,7 @@ graph [
   ]
   edge [
     source 1072
-    target 1226
+    target 1225
     count 1
     words "k u p e ŋ a"
     varieties "clicsbp-idssegmented-rapanui"
@@ -45696,7 +45684,7 @@ graph [
   ]
   edge [
     source 1074
-    target 1136
+    target 1135
     count 1
     words "k ɔ l u"
     varieties "clicsbp-idssegmented-rotuman"
@@ -45709,7 +45697,7 @@ graph [
   ]
   edge [
     source 1074
-    target 1280
+    target 1279
     count 1
     words "k d i"
     varieties "clicsbp-wold-Takia"
@@ -45722,7 +45710,7 @@ graph [
   ]
   edge [
     source 1075
-    target 1226
+    target 1225
     count 2
     words "k u p e ŋ a//t a r a m p a"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-idssegmented-rapanui"
@@ -45735,7 +45723,7 @@ graph [
   ]
   edge [
     source 1075
-    target 1148
+    target 1147
     count 1
     words "f ɔ i"
     varieties "clicsbp-idssegmented-rotuman"
@@ -45748,7 +45736,7 @@ graph [
   ]
   edge [
     source 1075
-    target 1194
+    target 1193
     count 2
     words "f ɔ i//u m i k i"
     varieties "clicsbp-idssegmented-rotuman//clicsbp-wold-Hawaiian"
@@ -45761,7 +45749,7 @@ graph [
   ]
   edge [
     source 1077
-    target 1160
+    target 1159
     count 1
     words "k o h o"
     varieties "clicsbp-wold-Hawaiian"
@@ -45774,7 +45762,7 @@ graph [
   ]
   edge [
     source 1077
-    target 1219
+    target 1218
     count 1
     words "k o h o"
     varieties "clicsbp-wold-Hawaiian"
@@ -45787,7 +45775,7 @@ graph [
   ]
   edge [
     source 1079
-    target 1242
+    target 1241
     count 1
     words "h o a h e w a"
     varieties "clicsbp-wold-Hawaiian"
@@ -45839,11 +45827,24 @@ graph [
   ]
   edge [
     source 1099
-    target 1143
+    target 1142
     count 1
     words "k a p u a h i"
     varieties "clicsbp-wold-Hawaiian"
     languages "hawa1245"
+    families "Austronesian"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 1101
+    target 1164
+    count 1
+    words "i r a o"
+    varieties "clicsbp-wold-Takia"
+    languages "taki1248"
     families "Austronesian"
     variety_count 1
     language_count 1
@@ -45877,21 +45878,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1101
-    target 1167
-    count 1
-    words "i r a o"
-    varieties "clicsbp-wold-Takia"
-    languages "taki1248"
-    families "Austronesian"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
     source 1103
-    target 1266
+    target 1265
     count 2
     words "n a n u + n + i r + t a r s i n + e k//k e i k i + h a n a i"
     varieties "clicsbp-wold-Takia//clicsbp-wold-Hawaiian"
@@ -45916,7 +45904,20 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1117
+    source 1116
+    target 1210
+    count 1
+    words "m a n a o"
+    varieties "clicsbp-wold-Hawaiian"
+    languages "hawa1245"
+    families "Austronesian"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 1116
     target 1211
     count 1
     words "m a n a o"
@@ -45929,21 +45930,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1117
-    target 1212
-    count 1
-    words "m a n a o"
-    varieties "clicsbp-wold-Hawaiian"
-    languages "hawa1245"
-    families "Austronesian"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 1127
-    target 1128
+    source 1126
+    target 1127
     count 1
     words "a m a"
     varieties "clicsbp-idssegmented-marquesan"
@@ -45955,8 +45943,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1131
-    target 1175
+    source 1130
+    target 1174
     count 1
     words "fː l u"
     varieties "clicsbp-wold-Takia"
@@ -45968,8 +45956,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1135
-    target 1186
+    source 1134
+    target 1185
     count 1
     words "t i t i"
     varieties "clicsbp-idssegmented-rotuman"
@@ -45981,8 +45969,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1137
-    target 1138
+    source 1136
+    target 1137
     count 1
     words "k lː o j"
     varieties "clicsbp-wold-Takia"
@@ -45994,8 +45982,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1138
-    target 1202
+    source 1137
+    target 1201
     count 1
     words "f u i"
     varieties "clicsbp-idssegmented-rotuman"
@@ -46007,8 +45995,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1141
-    target 1142
+    source 1140
+    target 1141
     count 1
     words "k i r i"
     varieties "clicsbp-idssegmented-marquesan"
@@ -46020,8 +46008,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1144
-    target 1148
+    source 1143
+    target 1147
     count 1
     words "t a r e"
     varieties "clicsbp-wold-Takia"
@@ -46033,8 +46021,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1148
-    target 1194
+    source 1147
+    target 1193
     count 1
     words "f ɔ i"
     varieties "clicsbp-idssegmented-rotuman"
@@ -46046,8 +46034,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1150
-    target 1259
+    source 1149
+    target 1258
     count 1
     words "l o a a"
     varieties "clicsbp-wold-Hawaiian"
@@ -46059,8 +46047,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1159
-    target 1160
+    source 1158
+    target 1159
     count 1
     words "ʔ a t i"
     varieties "clicsbp-idssegmented-rapanui"
@@ -46072,8 +46060,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1160
-    target 1219
+    source 1159
+    target 1218
     count 2
     words "f a k a + f u o f u a//k o h o"
     varieties "clicsbp-idssegmented-tongan//clicsbp-wold-Hawaiian"
@@ -46085,12 +46073,38 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 1163
-    target 1164
+    source 1162
+    target 1163
     count 1
     words "a h a n a"
     varieties "clicsbp-idssegmented-tuamotuan"
     languages "tuam1242"
+    families "Austronesian"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 1164
+    target 1165
+    count 1
+    words "i r a o"
+    varieties "clicsbp-wold-Takia"
+    languages "taki1248"
+    families "Austronesian"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 1164
+    target 1166
+    count 1
+    words "i r a o"
+    varieties "clicsbp-wold-Takia"
+    languages "taki1248"
     families "Austronesian"
     variety_count 1
     language_count 1
@@ -46111,34 +46125,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1165
-    target 1167
-    count 1
-    words "i r a o"
-    varieties "clicsbp-wold-Takia"
-    languages "taki1248"
-    families "Austronesian"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 1166
-    target 1167
-    count 1
-    words "i r a o"
-    varieties "clicsbp-wold-Takia"
-    languages "taki1248"
-    families "Austronesian"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 1169
-    target 1170
+    source 1168
+    target 1169
     count 1
     words "w o s"
     varieties "clicsbp-wold-Takia"
@@ -46150,8 +46138,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1176
-    target 1177
+    source 1175
+    target 1176
     count 1
     words "r a h a"
     varieties "clicsbp-idssegmented-rapanui"
@@ -46163,8 +46151,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1193
-    target 1279
+    source 1192
+    target 1278
     count 1
     words "l a + s a"
     varieties "clicsbp-wold-Takia"
@@ -46176,8 +46164,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1194
-    target 1195
+    source 1193
+    target 1194
     count 1
     words "ʔ a + ʔ a r u"
     varieties "clicsbp-idssegmented-rapanui"
@@ -46189,8 +46177,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1194
-    target 1243
+    source 1193
+    target 1242
     count 1
     words "a b i"
     varieties "clicsbp-wold-Takia"
@@ -46202,8 +46190,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1199
-    target 1200
+    source 1198
+    target 1199
     count 1
     words "m o ʔ u a"
     varieties "clicsbp-idssegmented-tongan"
@@ -46215,8 +46203,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1200
-    target 1310
+    source 1199
+    target 1309
     count 1
     words "p i l a"
     varieties "clicsbp-wold-Hawaiian"
@@ -46228,8 +46216,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1211
-    target 1212
+    source 1210
+    target 1211
     count 3
     words "m a n a ʔ u//a ʔʰ æ e//m a n a o"
     varieties "clicsbp-idssegmented-rapanui//clicsbp-idssegmented-rotuman//clicsbp-wold-Hawaiian"
@@ -46241,8 +46229,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 1211
-    target 1219
+    source 1210
+    target 1218
     count 1
     words "a ʔʰ æ e"
     varieties "clicsbp-idssegmented-rotuman"
@@ -46254,8 +46242,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1211
-    target 1270
+    source 1210
+    target 1269
     count 1
     words "m a n a o"
     varieties "clicsbp-wold-Malagasy"
@@ -46267,8 +46255,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1212
-    target 1219
+    source 1211
+    target 1218
     count 1
     words "a ʔʰ æ e"
     varieties "clicsbp-idssegmented-rotuman"
@@ -46280,8 +46268,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1214
-    target 1238
+    source 1213
+    target 1237
     count 1
     words "k a l a"
     varieties "clicsbp-wold-Hawaiian"
@@ -46293,8 +46281,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1227
-    target 1228
+    source 1226
+    target 1227
     count 1
     words "h o r e a"
     varieties "clicsbp-idssegmented-rapanui"
@@ -46306,8 +46294,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1229
-    target 1230
+    source 1228
+    target 1229
     count 1
     words "a n a k a l a"
     varieties "clicsbp-wold-Hawaiian"
@@ -46319,7 +46307,20 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1230
+    source 1229
+    target 1230
+    count 1
+    words "o ʔʰ o n i"
+    varieties "clicsbp-idssegmented-rotuman"
+    languages "rotu1241"
+    families "Austronesian"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 1229
     target 1231
     count 1
     words "o ʔʰ o n i"
@@ -46333,20 +46334,7 @@ graph [
   ]
   edge [
     source 1230
-    target 1232
-    count 1
-    words "o ʔʰ o n i"
-    varieties "clicsbp-idssegmented-rotuman"
-    languages "rotu1241"
-    families "Austronesian"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 1231
-    target 1232
+    target 1231
     count 2
     words "o ʔʰ o n i//a n a k e"
     varieties "clicsbp-idssegmented-rotuman//clicsbp-wold-Hawaiian"
@@ -46358,8 +46346,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 1240
-    target 1295
+    source 1239
+    target 1294
     count 1
     words "k i"
     varieties "clicsbp-wold-Hawaiian"
@@ -46371,8 +46359,21 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1243
-    target 1280
+    source 1242
+    target 1279
+    count 1
+    words "h a p a i"
+    varieties "clicsbp-wold-Hawaiian"
+    languages "hawa1245"
+    families "Austronesian"
+    variety_count 1
+    language_count 1
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 1242
+    target 1243
     count 1
     words "h a p a i"
     varieties "clicsbp-wold-Hawaiian"
@@ -46385,7 +46386,7 @@ graph [
   ]
   edge [
     source 1243
-    target 1244
+    target 1279
     count 1
     words "h a p a i"
     varieties "clicsbp-wold-Hawaiian"
@@ -46398,20 +46399,7 @@ graph [
   ]
   edge [
     source 1244
-    target 1280
-    count 1
-    words "h a p a i"
-    varieties "clicsbp-wold-Hawaiian"
-    languages "hawa1245"
-    families "Austronesian"
-    variety_count 1
-    language_count 1
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 1245
-    target 1262
+    target 1261
     count 1
     words "p a n i"
     varieties "clicsbp-wold-Takia"
@@ -46423,8 +46411,8 @@ graph [
     cognate_count 1
   ]
   edge [
-    source 1267
-    target 1288
+    source 1266
+    target 1287
     count 1
     words "i a"
     varieties "clicsbp-wold-Hawaiian"

@@ -11,7 +11,7 @@ from collections import defaultdict
 
 def register(parser):
 
-    parser.add_argument("--weight", default="cognate_count")
+    parser.add_argument("--weight", help="Select the parameter (language, family, cognate_count)", default="language")
     parser.add_argument("--trials", default=1000, type=int)
 
 
