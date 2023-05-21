@@ -43,6 +43,7 @@ def register(parser):
             action="store_true"
             )
 
+
 def write_matrix(name, matrix, concepts):
     with open(name, "w") as f:
         for i, row in enumerate(matrix):
