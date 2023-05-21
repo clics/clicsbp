@@ -43,7 +43,6 @@ def register(parser):
             action="store_true"
             )
 
-
 def write_matrix(name, matrix, concepts):
     with open(name, "w") as f:
         for i, row in enumerate(matrix):
@@ -108,7 +107,7 @@ def run(args):
                         )
                     )
 
-            for tag in ["human body part", "color", "emotion"]:
+            for tag in ["color", "emotion","human body part"]:
                 current_concepts = [c for c in concepts[tag] if c in all_nodes]
                 args.log.info("analyzing {0} / {1}".format(family, tag))
                 idxs = []
@@ -179,6 +178,16 @@ def run(args):
                             ]]
                 else:
                     args.log.info("skipping family {0} since there are no data for {1}".format(family, tag))
+    
+                write_gml(
+                        SG,
+                        CLICS.dir.joinpath(
+                            "output", 
+                            "graphs",
+                            "{0}-{1}.gml".format(family,tag)
+                            )
+                        )
+
     with open(CLICS.dir / "output" / "colexifications.tsv", "w") as f:
         f.write("\t".join([
             "Concept", "Frequency", "Family", "Tag", "Random_Walk_Community",
