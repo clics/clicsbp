@@ -107,7 +107,7 @@ def run(args):
                         )
                     )
 
-            for tag in ["color", "emotion","human body part"]:
+            for tag in ["human body part", "color", "emotion"]:
                 current_concepts = [c for c in concepts[tag] if c in all_nodes]
                 args.log.info("analyzing {0} / {1}".format(family, tag))
                 idxs = []
