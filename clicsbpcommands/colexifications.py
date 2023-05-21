@@ -179,6 +179,16 @@ def run(args):
                             ]]
                 else:
                     args.log.info("skipping family {0} since there are no data for {1}".format(family, tag))
+    
+                write_gml(
+                        SG,
+                        CLICS.dir.joinpath(
+                            "output", 
+                            "graphs",
+                            "{0}-{1}.gml".format(family,tag)
+                            )
+                        )
+
     with open(CLICS.dir / "output" / "colexifications.tsv", "w") as f:
         f.write("\t".join([
             "Concept", "Frequency", "Family", "Tag", "Random_Walk_Community",
