@@ -1,64 +1,120 @@
-# CLDF dataset on Body Part Colexifications
+# Body Part Colexification Study with CLICS
+
+This repository contains data and analyses used for a study of body part colexifications, for example, HAND-ARM, FOOT-LEG, across diverse languages. The colexifications were automatically computed for more than 1,000 language varieties based on CLICS Version 4. 
 
 ## How to cite
 
-If you use these data please cite
-this dataset using the DOI of the [particular released version](../../releases/) you were using
+Cite as:
+
+Tjuka, Annika et al. 2023. Body Part Colexification Study with CLICS4. DOI: [released version](../../releases/)
 
 ## Description
 
+The repository includes:
 
-This dataset is licensed under a CC-BY-4.0 license
+- data in [CLDF](/cldf)
+- [commands](/clicsbpcommands) to compile the colexifications
+- [inventory](/etc) of concepts, Lexibank datasets, and language families 
+- table with [forms](/examples/clicspb.tsv)
+- [output](/output) including graphs, plots, and degrees
+- [raw](/raw) data folder for local clones of the Lexibank repositories
+- [scripts](/scripts) for the analyses of ARI and degree values
 
-## Notes
 
-# Workflow Instructions
+# Installation
 
-To run the code, you need to follow specific workflow instructions
+To run the code, you need to install the following. We recommend to use a fresh virtual environment.
 
-## 1 Install Packages
-
-- glottolog
-- concepticon
-- clts
-
-## 2 Download Data
-
-## 3 Create CLICS4 Dataset
+Clone the GitHub repository in a local folder:
 
 ```
-cldfbench lexibank.makecldf --glottolog-repos=Path2Glottolog --concepticon-repos=Path2Concepticon --clts-repos=Path2Clics --glottolog-version=v4.6 --concepticon-version=v2.6.0 --clts-version=v2.2.0 lexibank_clicsbp.py
+$ git clone https://github.com/clics/clicsbp.git
 ```
 
-## 4 Compute Colexifications
-
-Make sure to install pyclics, download via git, checkout branch `colexifications`, and then install the package.
+Change the directory to `clicsbp` and run:
 
 ```
-cldfbench clicsbp.colexifications
-cldfbench clicsbp.colexify_all_data
+$ pip install -e .
 ```
 
-## 5 Compute Statistics
+Check if everything worked by typing `cldfbench -h`. If you see commands starting with `clicsbp.`, you will be able to run the following code.
 
-### 5.1 Compute Pie-Charts
+In addition, you need the packages from our other reference catalogs ([Glottolog](https://pypi.org/project/pyglottolog/), [Concepticon](https://pypi.org/project/pyconcepticon/), [CLTS](https://pypi.org/project/pyclts/)) and the `pyclics` package. Make sure to install `pyclics` by downloading the [GitHub repository](https://github.com/clics/pyclics), checking out the branch `colexifications`, and then installing the package with `pip install -e .`.
 
-```
-cldfbench clicspb.piecharts --weight=Language_Count_Weighted
-```
 
-### 5.2 Compute ARI
+# Download the Lexibank datasets
 
-### 5.3 Plot Networks
+This command downloads the Lexibank datasets in the local `raw` folder. 
 
 ```
-cldfbench clicsbp.plotgraphs --weight=Cognate_Count_Weighted --tag="human body part"
+$ cldfbench download lexibank_clicsbp.py
 ```
 
+
+# Create CLICS4 Dataset
+
+To create the CLDF dataset with the colexifications aggregated from the Lexibank word lists, use:
+
+```
+$ cldfbench lexibank.makecldf lexibank_clicsbp.py --concepticon-version=v3.1.0 --clts-version=v2.2.0 --glottolog-version=v4.7
+```
+
+Note that the versions of the reference catalogs change and might need to be adapted in the future.
+
+
+# Colexifications and Analyses
+
+Now,you are able to compute the colexifications and perform the analysis. First, run:
+
+```
+$ cldfbench clicsbp.colexifications
+$ cldfbench clicsbp.colexify_all_data
+```
+
+## Compute Coverage
+
+Calculate the coverage of the data with:
+
+```
+$ cldfbench clicsbp.coverage
+```
+
+## Compute ARI, AMI, and BCubes Statistics
+
+The values can be created for each of the semantic domains by typing:
+
+```
+$ cldfbench clicsbp.ari --tag "human body part"
+$ cldfbench clicsbp.ari --tag "emotion"
+$ cldfbench clicsbp.ari --tag "color"
+```
+
+## Compute Degrees
+
+Examine the degree distributions across, for example, language weight with:
+
+```
+$ cldfbench clicsbp.degrees --weight "language"
+```
+
+## Plot Graphs
+
+To create images of the networks with body part colexifications for each of the 20 language families, use:
+
+```
+$ cldfbench clicsbp.plotgraphs --weight=Cognate_Count_Weighted --tag="human body part"
+```
+
+## Plot Pie-Charts
+
+The cognitive relations associated with body part colexifications can be explored by creating pie-charts of the data.
+
+```
+$ cldfbench clicspb.piecharts --weight=Language_Count_Weighted
+```
 
 
 ## Statistics
-
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
@@ -85,8 +141,8 @@ cldfbench clicsbp.plotgraphs --weight=Cognate_Count_Weighted --tag="human body p
 
 - Entries missing sources: 695697/695697 (100.00%)
 
-## CLDF Datasets
+## CLDF Dataset
 
-The following CLDF datasets are available in [cldf](cldf):
+The following CLDF dataset is available in [cldf](cldf):
 
 - CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/Wordlist-metadata.json](cldf/Wordlist-metadata.json)
