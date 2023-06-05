@@ -19,7 +19,8 @@ def register(parser):
     parser.add_argument(
             "--acd-threshold",
             help="Select the threshold for automatic cognate detection",
-            default=0.45
+            default=0.45,
+            type=float
             )
     parser.add_argument(
             "--steps",
