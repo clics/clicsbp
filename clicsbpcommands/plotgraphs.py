@@ -7,6 +7,7 @@ from lexibank_clicsbp import Dataset as CLICSBP
 from collections import defaultdict
 from matplotlib import pyplot as plt
 
+
 def register(parser):
     """
     """
@@ -19,21 +20,16 @@ def register(parser):
 
 def run(args):
     clicsbp = CLICSBP()
-    colexifications = clicsbp.dir.read_csv(
-            "output/colexifications.tsv",
-            delimiter="\t",
-            dicts=True)
+    colexifications = clicsbp.output.read_csv("colexifications.tsv", delimiter="\t", dicts=True)
 
     data = defaultdict(lambda : defaultdict(list))
     for row in colexifications:
-        data[row["Family"]][row["Tag"]] += [
-                (
-                            row["Concept"], 
-                            row["Random_Walk_Community"],
-                            row[args.weight].split(";"),
-                            row["Random_Walk_Links"].split(";")
-                            )
-                        ]
+        data[row["Family"]][row["Tag"]] += [(
+            row["Concept"],
+            row["Random_Walk_Community"],
+            row[args.weight].split(";"),
+            row["Random_Walk_Links"].split(";")
+        )]
     colors = [
         "#a6cee3",
         "#1f78b4",
@@ -47,7 +43,7 @@ def run(args):
         "#6a3d9a",
         "#ffff99",
         "#b15928",
-            ]
+    ]
     for fam in data:
         plt.clf()
         args.log.info("loading {0}".format(fam))
@@ -85,39 +81,37 @@ def run(args):
                 color = "lightgray"
                 width=2.5*data_["weight"]
             nx.draw_networkx_edges(
-                    G, 
-                    pos, 
-                    width=width, 
-                    alpha=alpha, 
-                    edgelist=[(nA, nB)],
-                    edge_color=color
-                    )
+                G,
+                pos,
+                width=width,
+                alpha=alpha,
+                edgelist=[(nA, nB)],
+                edge_color=color
+            )
         all_coms = sorted([c for c in coms if c != "0"])
         for i, com in enumerate(all_coms):
             nodes = coms[com]
             color = colors[i] if i < len(colors) else "black"
-            nx.draw_networkx_nodes(G, pos, 
-                    node_size=30, 
-                    alpha=0.5,
-                    nodelist=nodes,
-                    node_color=color)
+            nx.draw_networkx_nodes(
+                G,
+                pos,
+                node_size=30,
+                alpha=0.5,
+                nodelist=nodes,
+                node_color=color)
         if "0" in coms:
             nx.draw_networkx_nodes(
-                    G,
-                    pos,
-                    node_size=30,
-                    alpha=0.25,
-                    nodelist=coms["0"],
-                    node_color="white"
-                    )
+                G,
+                pos,
+                node_size=30,
+                alpha=0.25,
+                nodelist=coms["0"],
+                node_color="white"
+            )
 
         #nx.draw_networkx_nodes(G, pos, node_size=10)
         #nx.draw_networkx_edges(G, pos, width=2)
         nx.draw_networkx_labels(G, pos, font_size=12)
         plt.axis("off")
-        plt.savefig(clicsbp.dir.joinpath("output", "plots",
-            "{0}-{1}-{2}.png".format(fam, args.tag.replace(" ", "_"), args.weight.lower())).as_posix())
-
-
-
-
+        plt.savefig(clicsbp.output / "plots" / "{0}-{1}-{2}.png".format(
+            fam, args.tag.replace(" ", "_"), args.weight.lower()))

@@ -6,7 +6,8 @@ import networkx as nx
 from lexibank_clicsbp import Dataset as CLICSBP
 from collections import defaultdict
 from matplotlib import pyplot as plt
-from random import choice
+from csvw.dsv import UnicodeWriter
+
 
 def register(parser):
     """
@@ -16,34 +17,20 @@ def register(parser):
 
 def run(args):
     clicsbp = CLICSBP()
-    colexifications = clicsbp.dir.read_csv(
-            "output/colexifications.tsv",
-            delimiter="\t",
-            dicts=True)
-    relations = clicsbp.dir.read_csv(
-            "output/colexification-relations.tsv",
-            delimiter="\t",
-            dicts=True)
+    colexifications = clicsbp.output.read_csv("colexifications.tsv", delimiter="\t", dicts=True)
+    relations = clicsbp.output.read_csv("colexification-relations.tsv", delimiter="\t", dicts=True)
     rels = {}
-    props = {
-            "Continuity": 0,
-            "Shape": 0,
-            "Function": 0
-            }
+    props = {"Continuity": 0, "Shape": 0, "Function": 0}
     for row in relations:
         # change choice() to row["Relation"] !
         if row["NodeA"] != row["NodeB"]:
             rels[row["NodeA"], row["NodeB"]] = (
-                    int(row["Continuity"]),
-                    int(row["Shape"]),
-                    int(row["Function"])
-                    )
+                int(row["Continuity"]), int(row["Shape"]), int(row["Function"]))
             props["Continuity"] += int(row["Continuity"])
             props["Shape"] += int(row["Shape"])
             props["Function"] += int(row["Function"])
             rels[row["NodeB"], row["NodeA"]] = rels[row["NodeA"], row["NodeB"]]
 
-    
     #props["Continuity"] = props["Continuity"] / sum(props.values())
     #props["Shape"] = props["Shape"] / sum(props.values())
     #props["Function"] = props["Function"] / sum(props.values())
@@ -51,16 +38,8 @@ def run(args):
     data = defaultdict(lambda : defaultdict(list))
     for row in colexifications:
         data[row["Family"]][row["Tag"]] += [
-                (
-                            row["Concept"], 
-                            row["Random_Walk_Community"],
-                            row[args.weight].split(";")
-                            )
-                        ]
-    colors = [
-        "#a6cee3",
-        "#1f78b4",
-        "#b2df8a"]
+            (row["Concept"], row["Random_Walk_Community"], row[args.weight].split(";"))]
+    colors = ["#a6cee3", "#1f78b4", "#b2df8a"]
     pies = {}
     for fam in data:
         plt.clf()
@@ -89,10 +68,10 @@ def run(args):
             except:
                 print(fam, nodeA, nodeB)
         prop_pie = [
-                this_pie[0] / props["Continuity"],
-                this_pie[1] / props["Shape"],
-                this_pie[2] / props["Function"]
-                ]
+            this_pie[0] / props["Continuity"],
+            this_pie[1] / props["Shape"],
+            this_pie[2] / props["Function"]
+        ]
 
         pies[fam] = (this_pie, prop_pie, len(G), len(G.edges))
         fig, (ax1, ax2) = plt.subplots(1, 2, sharey=True)
@@ -102,28 +81,18 @@ def run(args):
         ax2.set_title("Weighted by Proportions")
         fig.suptitle("Family {0} / {1} edges".format(fam, len(G.edges)))
         plt.savefig(
-                clicsbp.dir.joinpath(
-                    "output", 
-                    "plots",
-                    "pie-"+fam+"-"+args.weight.lower()+".png")
-                )
+            clicsbp.output / "plots" / "pie-{}-{}.png".format(fam, args.weight.lower()))
         plt.clf()
-    with open(clicsbp.dir.joinpath(
-        "output",
-        "pie-chart-data.tsv"), "w") as f:
+    with UnicodeWriter(clicsbp.output / "pie-chart-data.tsv", delimiter='\t') as f:
         for fam, (pie, pieprop, leng, lengedges) in pies.items():
-            f.write("{0}\t{1}\t{2}\t{3}\t{4}\t{5}\t{6:.2f}\t{7:.2f}\t{8:.2f}\n".format(
+            f.writerow([
                 fam,
-                str(leng),
-                str(lengedges),
+                leng,
+                lengedges,
                 pie[0],
                 pie[1],
                 pie[2],
-                pieprop[0],
-                pieprop[1],
-                pieprop[2])
-                )
-
-
-
-
+                '{:.2f}'.format(pieprop[0]),
+                '{:.2f}'.format(pieprop[1]),
+                '{:.2f}'.format(pieprop[2]),
+            ])
