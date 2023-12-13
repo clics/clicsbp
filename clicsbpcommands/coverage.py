@@ -1,12 +1,12 @@
 """
 Calculate coverage for the data.
 """
+import itertools
+from collections import defaultdict
 
 from cltoolkit import Wordlist
 from lexibank_clicsbp import Dataset as _CLICS
 from pyclts import CLTS
-import itertools
-from collections import defaultdict
 import statistics
 from pylexibank import progressbar
 from clldutils.clilib import Table, add_format

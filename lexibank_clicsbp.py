@@ -2,8 +2,6 @@ import pathlib
 import collections
 
 import pycldf
-from pylexibank.dataset import CLDFSpec
-from pylexibank.cldf import LexibankWriter
 from pylexibank import Dataset as BaseDataset
 from cltoolkit import Wordlist
 from git import Repo
@@ -27,7 +25,6 @@ class CustomLexeme(Lexeme):
 @attr.s
 class CustomLanguage(Language):
     Concept_Count = attr.ib(default=None, metadata={"format": "integer"})
-    Form_Count = attr.ib(default=None, metadata={"format": "integer"})
 
 
 class Dataset(BaseDataset):
@@ -77,9 +74,8 @@ class Dataset(BaseDataset):
             for gloss in concept["BROADER_CONCEPT"].split(" // "):
                 unmerge[gloss].add(concept["CONCEPTICON_GLOSS"])
 
-        #
-        # FIXME: Why this somewhat magic cutoff at 1500 concepts?
-        #
+        # Limiting to 1500 concepts makes sure, IDS is covered, but rarely attested concepts
+        # are not.
         selected_concepts = [
             concept.id for concept in all_concepts if concept.id not in unmerge][:1500]
 
@@ -118,10 +114,7 @@ class Dataset(BaseDataset):
         for language in wl.languages:
             if (language.glottocode and language.id in valid_languages):
                 args.log.info("Processing {0}".format(language.id))
-                #
-                # FIXME: Why do we have two counters which count exactly the same things?
-                #
-                cnc_count, frm_count = 0, 0
+                cnc_count = 0
                 for form in language.forms_with_sounds:
                     if (form.concept and form.concept.concepticon_gloss in
                             concepts and form.concept.concepticon_gloss in
@@ -137,7 +130,6 @@ class Dataset(BaseDataset):
                             ""
                         ])
                         cnc_count += 1
-                        frm_count += 1
                     elif (form.concept and form.concept.concepticon_gloss in unmerge):
                         for gloss in unmerge[form.concept.concepticon_gloss]:
                             if gloss in selected_concepts:
@@ -151,7 +143,6 @@ class Dataset(BaseDataset):
                                     language.family,
                                     form.concept.id])
                                 cnc_count += 1
-                                frm_count += 1
                     elif (form.concept and form.concept.concepticon_gloss in selected_concepts):
                         clics.append([
                             language.id,
@@ -164,7 +155,6 @@ class Dataset(BaseDataset):
                             ""
                         ])
                         cnc_count += 1
-                        frm_count += 1
                         if form.concept.name not in new_concepts:
                             new_concepts[form.concept.name] = form.concept
                 args.writer.add_language(
@@ -175,7 +165,6 @@ class Dataset(BaseDataset):
                     Longitude=language.longitude,
                     Glottocode=language.glottocode,
                     Concept_Count=cnc_count,
-                    Form_Count=frm_count
                 )
                 accepted_languages += [language.id]
                 args.log.info("... added {0} with {1} concepts".format(language.id, cnc_count))

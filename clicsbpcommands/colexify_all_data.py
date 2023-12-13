@@ -3,13 +3,10 @@ Calculate colexification network for all data.
 """
 from csvw.dsv import UnicodeWriter
 from cltoolkit import Wordlist
-import networkx as nx
 from lingpy.convert.graph import networkx2igraph
-from pyclics.colexifications import get_colexifications
-import html
 from pyclts import CLTS
 
-
+from .colexifications import get_colexifications, write_gml
 from lexibank_clicsbp import Dataset as _CLICS
 
 
@@ -60,6 +57,4 @@ def run(args):
                 "Concept_A Concept_B Family_Count Language_Count Community_A Community_B".split())
             f.writerows(table)
 
-        with open(CLICS.output / "graph.gml", "w") as f:
-            for line in nx.generate_gml(G):
-                f.write(html.unescape(line)+"\n")
+        write_gml(G, CLICS.output / "graph.gml", copy=False)
