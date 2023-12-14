@@ -105,4 +105,4 @@ def run(args):
             "Color", "Color_Eff", "Color_Sig"
         ])
         for row in table:
-            f.writerow([[row[0]] + row[1:4] + ["{0:.2f}".format(v) for v in row[4:]]])
+            f.writerow([row[0]] + row[1:4] + ["{0:.2f}".format(v) for v in row[4:]])
