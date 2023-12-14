@@ -60,11 +60,11 @@ def run(args):
                 rdifs = [0, 0, 0]
                 for i in range(args.trials):
                     emox = dict(nx.degree(graph, weight=args.weight,
-                        nbunch=random.sample(graph.nodes, len(emo_deg))))
+                        nbunch=random.sample(list(graph.nodes), len(emo_deg))))
                     bdpx = dict(nx.degree(graph, weight=args.weight,
-                        nbunch=random.sample(graph.nodes, len(bdp_deg))))
+                        nbunch=random.sample(list(graph.nodes), len(bdp_deg))))
                     colx = dict(nx.degree(graph, weight=args.weight,
-                        nbunch=random.sample(graph.nodes, len(col_deg))))
+                        nbunch=random.sample(list(graph.nodes), len(col_deg))))
                     emo_tri = sum(emox.values())/len(emox)
                     bdp_tri = sum(bdpx.values())/len(bdpx)
                     col_tri = sum(colx.values())/len(colx)
