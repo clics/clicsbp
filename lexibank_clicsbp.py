@@ -48,14 +48,19 @@ class Dataset(BaseDataset):
 
     def cmd_download(self, args):
         for dataset in self.read_etc("datasets"):
-            if self.raw_dir.joinpath(dataset["ID"], "cldf", "cldf-metadata.json").exists():
-                args.log.info("skipping {0}".format(dataset["ID"]))
+            rdir = self.raw_dir / dataset['ID']
+            if rdir.exists():
+                repo = Repo(rdir)
             else:
-                args.log.info("cloning {0} to raw/{0}".format(dataset["ID"]))
-                Repo.clone_from(
+                args.log.info("cloning {} to {}".format(dataset["ID"], rdir))
+                repo = Repo.clone_from(
                     "https://github.com/{}/{}.git".format(
                         dataset["Organisation"], dataset["Repository"]),
-                    self.raw_dir / dataset["ID"])
+                    rdir)
+            if repo.git.describe('--tags', '--always') != dataset['Version']:
+                repo.git.pull('origin')
+                repo.git.checkout(dataset['Version'])
+                assert repo.git.describe('--tags', '--always') == dataset['Version']
 
     def cmd_makecldf(self, args):
         datasets = [
