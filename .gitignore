@@ -212,3 +212,4 @@ dmypy.json
 
 # R Session
 .RData
+.DS_Store
