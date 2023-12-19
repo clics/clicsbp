@@ -1,28 +1,23 @@
 {
-    "@context": [
-        "http://www.w3.org/ns/csvw",
-        {
-            "@language": "en"
-        }
-    ],
+    "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
-    "dc:title": "CLDF dataset on Body Part Colexifications",
+    "dc:title": "Body Part Colexification Study with CLICS",
     "dcat:accessURL": "https://github.com/clics/clicsbp",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/clics/clicsbp",
             "rdf:type": "prov:Entity",
-            "dc:created": "f36b930",
+            "dc:created": "b03d8d7",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.7",
+            "dc:created": "v4.8",
             "dc:title": "Glottolog"
         },
         {
@@ -46,7 +41,7 @@
         {
             "rdf:about": "https://github.com/tupian-language-resources/tuled",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.12-8-g2664817",
+            "dc:created": "v0.12",
             "dc:title": "Repository"
         },
         {
@@ -58,19 +53,19 @@
         {
             "rdf:about": "https://github.com/lexibank/wold",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.0-3-gfe81aac",
+            "dc:created": "v4.0",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/lexibank/bantubvd",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.0-1-g1df9ff6",
+            "dc:created": "v4.0",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/lexibank/transnewguineaorg",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0-2-g5005192",
+            "dc:created": "v3.1",
             "dc:title": "Repository"
         },
         {
@@ -82,7 +77,7 @@
         {
             "rdf:about": "https://github.com/lexibank/bowernpny",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.0.1-2-g0a14cb2",
+            "dc:created": "v4.0.1",
             "dc:title": "Repository"
         },
         {
@@ -106,13 +101,13 @@
         {
             "rdf:about": "https://github.com/lexibank/bodtkhobwa",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1.0",
+            "dc:created": "v3.0.1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/lexibank/hantganbangime",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-1-ga52490d",
+            "dc:created": "v1.0",
             "dc:title": "Repository"
         },
         {
@@ -143,12 +138,6 @@
             "rdf:about": "https://github.com/lexibank/chindialectsurvey",
             "rdf:type": "prov:Entity",
             "dc:created": "v1.0",
-            "dc:title": "Repository"
-        },
-        {
-            "rdf:about": "https://github.com/lexibank/vanuatuvoices",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-41-g76c9e5f",
             "dc:title": "Repository"
         },
         {
@@ -190,7 +179,7 @@
         {
             "rdf:about": "https://github.com/lexibank/zhoubizic",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-4-g276ba2e",
+            "dc:created": "v1.0",
             "dc:title": "Repository"
         },
         {
@@ -214,13 +203,13 @@
         {
             "rdf:about": "https://github.com/lexibank/sagartst",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.0-1-ga0b483c",
+            "dc:created": "v2.0",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/lexibank/tls",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.0-7-gff75ada",
+            "dc:created": "v4.0",
             "dc:title": "Repository"
         },
         {
@@ -232,7 +221,7 @@
         {
             "rdf:about": "https://github.com/lexibank/huntergatherer",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-9-g6d83825",
+            "dc:created": "v1.0",
             "dc:title": "Repository"
         },
         {
@@ -244,7 +233,7 @@
         {
             "rdf:about": "https://github.com/lexibank/polyglottaafricana",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-2-g04a31c1",
+            "dc:created": "v2.0",
             "dc:title": "Repository"
         },
         {
@@ -256,7 +245,7 @@
         {
             "rdf:about": "https://github.com/lexibank/lamanisoic",
             "rdf:type": "prov:Entity",
-            "dc:created": "a1e4ddc",
+            "dc:created": "v1.0",
             "dc:title": "Repository"
         },
         {
@@ -274,13 +263,13 @@
         {
             "rdf:about": "https://github.com/lexibank/simsrma",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1-1-ge7c2601",
+            "dc:created": "v1.1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/lexibank/othanieljen",
             "rdf:type": "prov:Entity",
-            "dc:created": "402c7e8",
+            "dc:created": "v1.0",
             "dc:title": "Repository"
         },
         {
@@ -298,19 +287,19 @@
         {
             "rdf:about": "https://github.com/lexibank/zgraggenmadang",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.0-3-gfd9696e",
+            "dc:created": "v4.0",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/lexibank/luangthongkumkaren",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1-2-gc3078ab",
+            "dc:created": "v1.0",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/intercontinental-dictionary-series/idssegmented",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2",
+            "dc:created": "v1.0",
             "dc:title": "Repository"
         },
         {
@@ -322,7 +311,7 @@
         {
             "rdf:about": "https://github.com/lexibank/northeuralex",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.0-4-g7767d83",
+            "dc:created": "v4.0",
             "dc:title": "Repository"
         },
         {
@@ -340,7 +329,7 @@
         {
             "rdf:about": "https://github.com/lexibank/oskolskayatungusic",
             "rdf:type": "prov:Entity",
-            "dc:created": "24184ab",
+            "dc:created": "v1.0",
             "dc:title": "Repository"
         },
         {
@@ -357,7 +346,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.8.3"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
@@ -369,61 +358,30 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 695697,
+            "dc:extent": 602121,
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": {
-                            "base": "string",
-                            "format": "[a-zA-Z0-9_\\-]+"
-                        },
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "required": true,
                         "name": "ID"
                     },
                     {
-                        "dc:description": "A reference to a language (or variety) the form belongs to",
-                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://purl.org/dc/terms/identifier",
+                        "name": "Local_ID"
+                    },
+                    {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
-                        "required": true,
                         "name": "Language_ID"
                     },
                     {
-                        "dc:description": "A reference to the meaning denoted by the form",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
-                        "required": true,
-                        "name": "Parameter_ID"
-                    },
-                    {
-                        "dc:description": "The written expression of the form. If possible the transcription system used for the written form should be described in CLDF metadata (e.g. via adding a common property `dc:conformsTo` to the column description using concept URLs of the GOLD Ontology (such as [phonemicRep](http://linguistics-ontology.org/gold/2010/phonemicRep) or [phoneticRep](http://linguistics-ontology.org/gold/2010/phoneticRep)) as values).",
-                        "dc:extent": "singlevalued",
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#form",
-                        "required": true,
-                        "name": "Form"
-                    },
-                    {
-                        "dc:extent": "multivalued",
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#segments",
-                        "required": false,
-                        "separator": " ",
-                        "name": "Segments"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
-                        "required": false,
-                        "name": "Comment"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
-                        "required": false,
-                        "separator": ";",
-                        "name": "Source"
+                        "name": "Parameter_ID",
+                        "titles": "Concept_ID"
                     },
                     {
                         "datatype": "string",
@@ -433,16 +391,26 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://purl.org/dc/terms/identifier",
-                        "name": "Local_ID"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#form",
+                        "required": true,
+                        "name": "Form"
                     },
                     {
                         "datatype": "string",
-                        "name": "Graphemes"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#segments",
+                        "separator": " ",
+                        "name": "Segments"
                     },
                     {
                         "datatype": "string",
-                        "name": "Profile"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "name": "Comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
                     },
                     {
                         "datatype": "string",
@@ -451,6 +419,14 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
                     },
                     {
                         "datatype": "string",
@@ -489,28 +465,37 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 1033,
+            "dc:extent": 894,
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": {
-                            "base": "string",
-                            "format": "[a-zA-Z0-9_\\-]+"
-                        },
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "required": true,
                         "name": "ID"
                     },
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
-                        "required": false,
                         "name": "Name"
                     },
                     {
                         "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
+                        "name": "Glottocode"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Glottolog_Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
+                        "name": "ISO639P3code"
+                    },
+                    {
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
-                        "required": false,
                         "name": "Macroarea"
                     },
                     {
@@ -534,39 +519,12 @@
                         "name": "Longitude"
                     },
                     {
-                        "datatype": {
-                            "base": "string",
-                            "format": "[a-z0-9]{4}[1-9][0-9]{3}"
-                        },
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
-                        "required": false,
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
-                        "name": "Glottocode"
-                    },
-                    {
-                        "datatype": {
-                            "base": "string",
-                            "format": "[a-z]{3}"
-                        },
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
-                        "required": false,
-                        "name": "ISO639P3code"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Glottolog_Name"
-                    },
-                    {
                         "datatype": "string",
                         "name": "Family"
                     },
                     {
                         "datatype": "string",
                         "name": "Concept_Count"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Form_Count"
                     }
                 ],
                 "primaryKey": [
@@ -581,31 +539,14 @@
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": {
-                            "base": "string",
-                            "format": "[a-zA-Z0-9_\\-]+"
-                        },
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "required": true,
                         "name": "ID"
                     },
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
-                        "required": false,
                         "name": "Name"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
-                        "required": false,
-                        "name": "Description"
-                    },
-                    {
-                        "datatype": "json",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#columnSpec",
-                        "required": false,
-                        "name": "ColumnSpec"
                     },
                     {
                         "datatype": "string",
