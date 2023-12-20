@@ -47,7 +47,7 @@ $ cldfbench download lexibank_clicsbp.py
 To create the CLDF dataset with the colexifications aggregated from the Lexibank word lists, use:
 
 ```
-$ cldfbench lexibank.makecldf lexibank_clicsbp.py --concepticon-version=v3.1.0 --clts-version=v2.2.0 --glottolog-version=v4.7
+$ cldfbench lexibank.makecldf lexibank_clicsbp.py --concepticon-version=v3.1.0 --clts-version=v2.2.0 --glottolog-version=v4.8
 ```
 
 Note that the versions of the reference catalogs change and might need to be adapted in the future.
