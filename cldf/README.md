@@ -1,6 +1,6 @@
 <a name="ds-cldfmetadatajson"> </a>
 
-# Wordlist Body Part Colexification Study with CLICS
+# CLDF dataset on Body Part Colexifications
 
 **CLDF Metadata**: [cldf-metadata.json](./cldf-metadata.json)
 

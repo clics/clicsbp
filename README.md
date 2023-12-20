@@ -1,4 +1,4 @@
-# Body Part Colexification Study with CLICS
+# CLDF dataset on Body Part Colexifications
 
 ## How to cite
 
@@ -42,7 +42,7 @@ $ cldfbench download lexibank_clicsbp.py
 ```
 
 
-# Create CLICS4 Dataset
+# Create CLDF Dataset
 
 To create the CLDF dataset with the colexifications aggregated from the Lexibank word lists, use:
 
@@ -101,7 +101,7 @@ $ cldfbench clicsbp.plotgraphs --weight=Cognate_Count_Weighted --tag="human body
 The cognitive relations associated with body part colexifications can be explored by creating pie-charts of the data.
 
 ```
-$ cldfbench clicspb.piecharts --weight=Language_Count_Weighted
+$ cldfbench clicsbp.piecharts --weight=Language_Count_Weighted
 ```
 
 
