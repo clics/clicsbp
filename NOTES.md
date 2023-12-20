@@ -1,3 +1,14 @@
+The repository includes:
+
+- data in [CLDF](/cldf)
+- [commands](/clicsbpcommands) to compile the colexifications
+- [inventory](/etc) of concepts, Lexibank datasets, and language families 
+- table with [forms](/examples/clicsbp.tsv)
+- [output](/output) including graphs, plots, and degrees
+- [raw](/raw) data folder for local clones of the Lexibank repositories
+- [scripts](/scripts) for the analyses of ARI and degree values
+
+
 # Installation
 
 To run the code, you need to install the following. We recommend to use a fresh virtual environment.
