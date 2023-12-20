@@ -42,6 +42,7 @@ setup(
         'lingpy>=2.6.8',
         'pyclts>=3.1',
         'pygraphviz',
+        'pyclics',
         'scikit-learn',
         #'cartopy',
         #'pillow',

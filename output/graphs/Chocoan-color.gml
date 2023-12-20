@@ -1,18 +1,6 @@
 graph [
   node [
     id 0
-    label "BLACK"
-    occurrences "clicsbp-hubercolumbian-Catio-BLACK-1//clicsbp-hubercolumbian-EmberaTado-BLACK-1//clicsbp-hubercolumbian-EmberaTado-BLACK-2//clicsbp-hubercolumbian-EmberaChami-BLACK-1//clicsbp-hubercolumbian-EmberaChami-BLACK-2//clicsbp-hubercolumbian-Wounaan-BLACK-1//clicsbp-idssegmented-embera-BLACK-1//clicsbp-idssegmented-epena-BLACK-1"
-    words "pʰ a i m a//pʰ a i m a//pʰ a r e//pʰ a i m a//pʰ a r//pʰ ɯ i s i//p a i m a//pʰ ã i m aː"
-    varieties "clicsbp-hubercolumbian-Catio//clicsbp-hubercolumbian-EmberaTado//clicsbp-hubercolumbian-EmberaTado//clicsbp-hubercolumbian-EmberaChami//clicsbp-hubercolumbian-EmberaChami//clicsbp-hubercolumbian-Wounaan//clicsbp-idssegmented-embera//clicsbp-idssegmented-epena"
-    languages "embe1260//embe1261//embe1261//embe1262//embe1262//woun1238//nort2972//epen1239"
-    families "Chocoan//Chocoan//Chocoan//Chocoan//Chocoan//Chocoan//Chocoan//Chocoan"
-    language_count 6
-    variety_count 6
-    family_count 1
-  ]
-  node [
-    id 1
     label "BLUE"
     occurrences "clicsbp-idssegmented-embera-BLUE-1//clicsbp-idssegmented-epena-BLUE-1"
     words "p ã õ ã r ã//pʰ ã pʰ ã r aː"
@@ -21,6 +9,18 @@ graph [
     families "Chocoan//Chocoan"
     language_count 2
     variety_count 2
+    family_count 1
+  ]
+  node [
+    id 1
+    label "BLACK"
+    occurrences "clicsbp-hubercolumbian-Catio-BLACK-1//clicsbp-hubercolumbian-EmberaTado-BLACK-1//clicsbp-hubercolumbian-EmberaTado-BLACK-2//clicsbp-hubercolumbian-EmberaChami-BLACK-1//clicsbp-hubercolumbian-EmberaChami-BLACK-2//clicsbp-hubercolumbian-Wounaan-BLACK-1//clicsbp-idssegmented-embera-BLACK-1//clicsbp-idssegmented-epena-BLACK-1"
+    words "pʰ a i m a//pʰ a i m a//pʰ a r e//pʰ a i m a//pʰ a r//pʰ ɯ i s i//p a i m a//pʰ ã i m aː"
+    varieties "clicsbp-hubercolumbian-Catio//clicsbp-hubercolumbian-EmberaTado//clicsbp-hubercolumbian-EmberaTado//clicsbp-hubercolumbian-EmberaChami//clicsbp-hubercolumbian-EmberaChami//clicsbp-hubercolumbian-Wounaan//clicsbp-idssegmented-embera//clicsbp-idssegmented-epena"
+    languages "embe1260//embe1261//embe1261//embe1262//embe1262//woun1238//nort2972//epen1239"
+    families "Chocoan//Chocoan//Chocoan//Chocoan//Chocoan//Chocoan//Chocoan//Chocoan"
+    language_count 6
+    variety_count 6
     family_count 1
   ]
   node [
@@ -48,7 +48,7 @@ graph [
     family_count 1
   ]
   edge [
-    source 1
+    source 0
     target 3
     count 1
     words "p ã õ ã r ã"

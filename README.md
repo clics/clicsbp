@@ -1,25 +1,16 @@
-# Body Part Colexification Study with CLICS
-
-This repository contains data and analyses used for a study of body part colexifications, for example, HAND-ARM, FOOT-LEG, across diverse languages. The colexifications were automatically computed for more than 1,000 language varieties based on CLICS Version 4. 
+# CLDF dataset on Body Part Colexifications
 
 ## How to cite
 
-Cite as:
-
-Tjuka, Annika et al. 2023. Body Part Colexification Study with CLICS4. DOI: [released version](../../releases/)
+If you use these data please cite
+this dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
-The repository includes:
 
-- data in [CLDF](/cldf)
-- [commands](/clicsbpcommands) to compile the colexifications
-- [inventory](/etc) of concepts, Lexibank datasets, and language families 
-- table with [forms](/examples/clicspb.tsv)
-- [output](/output) including graphs, plots, and degrees
-- [raw](/raw) data folder for local clones of the Lexibank repositories
-- [scripts](/scripts) for the analyses of ARI and degree values
+This dataset is licensed under a CC-BY-4.0 license
 
+## Notes
 
 # Installation
 
@@ -51,12 +42,12 @@ $ cldfbench download lexibank_clicsbp.py
 ```
 
 
-# Create CLICS4 Dataset
+# Create CLDF Dataset
 
 To create the CLDF dataset with the colexifications aggregated from the Lexibank word lists, use:
 
 ```
-$ cldfbench lexibank.makecldf lexibank_clicsbp.py --concepticon-version=v3.1.0 --clts-version=v2.2.0 --glottolog-version=v4.7
+$ cldfbench lexibank.makecldf lexibank_clicsbp.py --concepticon-version=v3.1.0 --clts-version=v2.2.0 --glottolog-version=v4.8
 ```
 
 Note that the versions of the reference catalogs change and might need to be adapted in the future.
@@ -110,11 +101,13 @@ $ cldfbench clicsbp.plotgraphs --weight=Cognate_Count_Weighted --tag="human body
 The cognitive relations associated with body part colexifications can be explored by creating pie-charts of the data.
 
 ```
-$ cldfbench clicspb.piecharts --weight=Language_Count_Weighted
+$ cldfbench clicsbp.piecharts --weight=Language_Count_Weighted
 ```
 
 
+
 ## Statistics
+
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
@@ -122,15 +115,15 @@ $ cldfbench clicspb.piecharts --weight=Language_Count_Weighted
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 1,033
+- **Varieties:** 894
 - **Concepts:** 1,500
-- **Lexemes:** 695,697
+- **Lexemes:** 602,121
 - **Sources:** 0
-- **Synonymy:** 1.14
+- **Synonymy:** 1.15
 - **Invalid lexemes:** 0
-- **Tokens:** 4,077,058
-- **Segments:** 1,389 (0 BIPA errors, 0 CLTS sound class errors, 1381 CLTS modified)
-- **Inventory size (avg):** 44.37
+- **Tokens:** 3,520,354
+- **Segments:** 1,385 (0 BIPA errors, 0 CLTS sound class errors, 1377 CLTS modified)
+- **Inventory size (avg):** 45.15
 
 ## Possible Improvements:
 
@@ -139,10 +132,10 @@ $ cldfbench clicspb.piecharts --weight=Language_Count_Weighted
   - Sanapaná (Angaité) [sana1281](http://glottolog.org/resource/languoid/id/sana1281)
 
 
-- Entries missing sources: 695697/695697 (100.00%)
+- Entries missing sources: 602121/602121 (100.00%)
 
-## CLDF Dataset
+## CLDF Datasets
 
-The following CLDF dataset is available in [cldf](cldf):
+The following CLDF datasets are available in [cldf](cldf):
 
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/Wordlist-metadata.json](cldf/Wordlist-metadata.json)
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

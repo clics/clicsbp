@@ -49,12 +49,12 @@ graph [
   ]
   node [
     id 4
-    label "FEAR (FRIGHT)"
-    occurrences "clicsbp-idssegmented-embera-FEARFRIGHT-1//clicsbp-idssegmented-epena-FEARFRIGHT-1//clicsbp-idssegmented-epena-FEARFRIGHT-2"
-    words "o a y a//n e h a s i a//w a w eː"
-    varieties "clicsbp-idssegmented-embera//clicsbp-idssegmented-epena//clicsbp-idssegmented-epena"
-    languages "nort2972//epen1239//epen1239"
-    families "Chocoan//Chocoan//Chocoan"
+    label "WANT"
+    occurrences "clicsbp-idssegmented-embera-WANT-1//clicsbp-idssegmented-epena-WANT-1"
+    words "k ĩ r ĩ ã//kʰ i n i a"
+    varieties "clicsbp-idssegmented-embera//clicsbp-idssegmented-epena"
+    languages "nort2972//epen1239"
+    families "Chocoan//Chocoan"
     language_count 2
     variety_count 2
     family_count 1
@@ -73,19 +73,19 @@ graph [
   ]
   node [
     id 6
-    label "WANT"
-    occurrences "clicsbp-idssegmented-embera-WANT-1//clicsbp-idssegmented-epena-WANT-1"
-    words "k ĩ r ĩ ã//kʰ i n i a"
-    varieties "clicsbp-idssegmented-embera//clicsbp-idssegmented-epena"
-    languages "nort2972//epen1239"
-    families "Chocoan//Chocoan"
+    label "FEAR (FRIGHT)"
+    occurrences "clicsbp-idssegmented-embera-FEARFRIGHT-1//clicsbp-idssegmented-epena-FEARFRIGHT-1//clicsbp-idssegmented-epena-FEARFRIGHT-2"
+    words "o a y a//n e h a s i a//w a w eː"
+    varieties "clicsbp-idssegmented-embera//clicsbp-idssegmented-epena//clicsbp-idssegmented-epena"
+    languages "nort2972//epen1239//epen1239"
+    families "Chocoan//Chocoan//Chocoan"
     language_count 2
     variety_count 2
     family_count 1
   ]
   edge [
     source 1
-    target 6
+    target 4
     count 1
     words "kʰ i n i a"
     varieties "clicsbp-idssegmented-epena"

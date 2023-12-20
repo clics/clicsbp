@@ -1,26 +1,26 @@
 graph [
   node [
     id 0
-    label "GOOD"
-    occurrences "clicsbp-hubercolumbian-Curripaco-GOOD-1//clicsbp-hubercolumbian-Piapoco-GOOD-1//clicsbp-hubercolumbian-Resigaro-GOOD-1//clicsbp-hubercolumbian-Yucuna-GOOD-1//clicsbp-huntergatherer-52-GOOD-1//clicsbp-huntergatherer-57-GOOD-1//clicsbp-huntergatherer-405-GOOD-1//clicsbp-idssegmented-goajiro-GOOD-1//clicsbp-idssegmented-ignaciano-GOOD-1//clicsbp-idssegmented-ignaciano-GOOD-2//clicsbp-idssegmented-mashcopiro-GOOD-1//clicsbp-idssegmented-trinitario-GOOD-1//clicsbp-idssegmented-trinitario-GOOD-2//clicsbp-idssegmented-wapishana-GOOD-1//clicsbp-idssegmented-waura-GOOD-1//clicsbp-idssegmented-yavitero-GOOD-1"
-    words "m a tʃ i a d a l i//k a j a b e e r i//k a ʃ o ʔ//p a l a n i//m a ts i a//w a i j e//s a n//a n a s ɨ//t i u r i//u r i//k i h lʲ e//tʲ u r i//u r i//kʰ a i m a n//a w ɨ ʒ ɨ//j u n i h i + n a"
-    varieties "clicsbp-hubercolumbian-Curripaco//clicsbp-hubercolumbian-Piapoco//clicsbp-hubercolumbian-Resigaro//clicsbp-hubercolumbian-Yucuna//clicsbp-huntergatherer-52//clicsbp-huntergatherer-57//clicsbp-huntergatherer-405//clicsbp-idssegmented-goajiro//clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-mashcopiro//clicsbp-idssegmented-trinitario//clicsbp-idssegmented-trinitario//clicsbp-idssegmented-wapishana//clicsbp-idssegmented-waura//clicsbp-idssegmented-yavitero"
-    languages "curr1243//piap1246//resi1247//yucu1253//bani1255//pare1272//araw1276//wayu1243//igna1246//igna1246//mash1270//trin1274//trin1274//wapi1253//waur1244//yavi1244"
-    families "Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan"
-    language_count 14
-    variety_count 14
+    label "GRIEF"
+    occurrences "clicsbp-idssegmented-ignaciano-GRIEF-1//clicsbp-idssegmented-wapishana-GRIEF-1//clicsbp-idssegmented-waura-GRIEF-2//clicsbp-idssegmented-waura-GRIEF-1//clicsbp-idssegmented-yavitero-GRIEF-1"
+    words "k a h a p a n u r a w a//kʰ a ʃ a ʔ u r a + ʔ u//p a l a w a//k a + t ũ p a//k u i j u lʲ e + h i"
+    varieties "clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-wapishana//clicsbp-idssegmented-waura//clicsbp-idssegmented-waura//clicsbp-idssegmented-yavitero"
+    languages "igna1246//wapi1253//waur1244//waur1244//yavi1244"
+    families "Arawakan//Arawakan//Arawakan//Arawakan//Arawakan"
+    language_count 4
+    variety_count 4
     family_count 1
   ]
   node [
     id 1
-    label "ENVY"
-    occurrences "clicsbp-idssegmented-goajiro-ENVY-1//clicsbp-idssegmented-goajiro-ENVY-2//clicsbp-idssegmented-ignaciano-ENVY-1//clicsbp-idssegmented-mashcopiro-ENVY-1//clicsbp-idssegmented-mashcopiro-ENVY-2//clicsbp-idssegmented-trinitario-ENVY-1//clicsbp-idssegmented-wapishana-ENVY-1//clicsbp-idssegmented-waura-ENVY-1//clicsbp-idssegmented-yavitero-ENVY-1"
-    words "tʃ u m ɨ h a//a tʃ u m ɨ lʲ a//t e t e a r a ʔ i//h o k t a t a//h o k tʃ i//e tʲ o k o//kʰ a ʃ a ɨ ʐ ɨ + n//u k i//s i m u t a"
-    varieties "clicsbp-idssegmented-goajiro//clicsbp-idssegmented-goajiro//clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-mashcopiro//clicsbp-idssegmented-mashcopiro//clicsbp-idssegmented-trinitario//clicsbp-idssegmented-wapishana//clicsbp-idssegmented-waura//clicsbp-idssegmented-yavitero"
-    languages "wayu1243//wayu1243//igna1246//mash1270//mash1270//trin1274//wapi1253//waur1244//yavi1244"
-    families "Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan"
-    language_count 7
-    variety_count 7
+    label "GOOD"
+    occurrences "clicsbp-hubercolumbian-Curripaco-GOOD-1//clicsbp-hubercolumbian-Piapoco-GOOD-1//clicsbp-hubercolumbian-Resigaro-GOOD-1//clicsbp-hubercolumbian-Yucuna-GOOD-1//clicsbp-idssegmented-goajiro-GOOD-1//clicsbp-idssegmented-ignaciano-GOOD-1//clicsbp-idssegmented-ignaciano-GOOD-2//clicsbp-idssegmented-mashcopiro-GOOD-1//clicsbp-idssegmented-trinitario-GOOD-1//clicsbp-idssegmented-trinitario-GOOD-2//clicsbp-idssegmented-wapishana-GOOD-1//clicsbp-idssegmented-waura-GOOD-1//clicsbp-idssegmented-yavitero-GOOD-1"
+    words "m a tʃ i a d a l i//k a j a b e e r i//k a ʃ o ʔ//p a l a n i//a n a s ɨ//t i u r i//u r i//k i h lʲ e//tʲ u r i//u r i//kʰ a i m a n//a w ɨ ʒ ɨ//j u n i h i + n a"
+    varieties "clicsbp-hubercolumbian-Curripaco//clicsbp-hubercolumbian-Piapoco//clicsbp-hubercolumbian-Resigaro//clicsbp-hubercolumbian-Yucuna//clicsbp-idssegmented-goajiro//clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-mashcopiro//clicsbp-idssegmented-trinitario//clicsbp-idssegmented-trinitario//clicsbp-idssegmented-wapishana//clicsbp-idssegmented-waura//clicsbp-idssegmented-yavitero"
+    languages "curr1243//piap1246//resi1247//yucu1253//wayu1243//igna1246//igna1246//mash1270//trin1274//trin1274//wapi1253//waur1244//yavi1244"
+    families "Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan"
+    language_count 11
+    variety_count 11
     family_count 1
   ]
   node [
@@ -38,13 +38,13 @@ graph [
   node [
     id 3
     label "BAD"
-    occurrences "clicsbp-hubercolumbian-Curripaco-BAD-1//clicsbp-hubercolumbian-Piapoco-BAD-1//clicsbp-hubercolumbian-Resigaro-BAD-1//clicsbp-hubercolumbian-Yucuna-BAD-1//clicsbp-huntergatherer-57-BAD-1//clicsbp-huntergatherer-405-BAD-1//clicsbp-idssegmented-goajiro-BAD-1//clicsbp-idssegmented-ignaciano-BAD-1//clicsbp-idssegmented-trinitario-BAD-1//clicsbp-idssegmented-trinitario-BAD-2//clicsbp-idssegmented-wapishana-BAD-1//clicsbp-idssegmented-waura-BAD-1//clicsbp-idssegmented-waura-BAD-2//clicsbp-idssegmented-yavitero-BAD-1"
-    words "m aː tʃ i d a l i//b a a w e e r i//m a tsʰ i β a ʔ n u ʔ//u n k a + p a a l a//i n i j a l a h a r e//w a kʰ a j a n//m o h u + s u//w a i n a r a h i k e n e//w i n a r a h i//m u e p e r a h i//i d i kʰ a ɨ d a//p ɨ n a j a//i tʲ a k i//k u lʲ u s i"
-    varieties "clicsbp-hubercolumbian-Curripaco//clicsbp-hubercolumbian-Piapoco//clicsbp-hubercolumbian-Resigaro//clicsbp-hubercolumbian-Yucuna//clicsbp-huntergatherer-57//clicsbp-huntergatherer-405//clicsbp-idssegmented-goajiro//clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-trinitario//clicsbp-idssegmented-trinitario//clicsbp-idssegmented-wapishana//clicsbp-idssegmented-waura//clicsbp-idssegmented-waura//clicsbp-idssegmented-yavitero"
-    languages "curr1243//piap1246//resi1247//yucu1253//pare1272//araw1276//wayu1243//igna1246//trin1274//trin1274//wapi1253//waur1244//waur1244//yavi1244"
-    families "Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan"
-    language_count 12
-    variety_count 12
+    occurrences "clicsbp-hubercolumbian-Curripaco-BAD-1//clicsbp-hubercolumbian-Piapoco-BAD-1//clicsbp-hubercolumbian-Resigaro-BAD-1//clicsbp-hubercolumbian-Yucuna-BAD-1//clicsbp-idssegmented-goajiro-BAD-1//clicsbp-idssegmented-ignaciano-BAD-1//clicsbp-idssegmented-trinitario-BAD-1//clicsbp-idssegmented-trinitario-BAD-2//clicsbp-idssegmented-wapishana-BAD-1//clicsbp-idssegmented-waura-BAD-1//clicsbp-idssegmented-waura-BAD-2//clicsbp-idssegmented-yavitero-BAD-1"
+    words "m aː tʃ i d a l i//b a a w e e r i//m a tsʰ i β a ʔ n u ʔ//u n k a + p a a l a//m o h u + s u//w a i n a r a h i k e n e//w i n a r a h i//m u e p e r a h i//i d i kʰ a ɨ d a//p ɨ n a j a//i tʲ a k i//k u lʲ u s i"
+    varieties "clicsbp-hubercolumbian-Curripaco//clicsbp-hubercolumbian-Piapoco//clicsbp-hubercolumbian-Resigaro//clicsbp-hubercolumbian-Yucuna//clicsbp-idssegmented-goajiro//clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-trinitario//clicsbp-idssegmented-trinitario//clicsbp-idssegmented-wapishana//clicsbp-idssegmented-waura//clicsbp-idssegmented-waura//clicsbp-idssegmented-yavitero"
+    languages "curr1243//piap1246//resi1247//yucu1253//wayu1243//igna1246//trin1274//trin1274//wapi1253//waur1244//waur1244//yavi1244"
+    families "Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan"
+    language_count 10
+    variety_count 10
     family_count 1
   ]
   node [
@@ -85,14 +85,14 @@ graph [
   ]
   node [
     id 7
-    label "GRIEF"
-    occurrences "clicsbp-idssegmented-ignaciano-GRIEF-1//clicsbp-idssegmented-wapishana-GRIEF-1//clicsbp-idssegmented-waura-GRIEF-2//clicsbp-idssegmented-waura-GRIEF-1//clicsbp-idssegmented-yavitero-GRIEF-1"
-    words "k a h a p a n u r a w a//kʰ a ʃ a ʔ u r a + ʔ u//p a l a w a//k a + t ũ p a//k u i j u lʲ e + h i"
-    varieties "clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-wapishana//clicsbp-idssegmented-waura//clicsbp-idssegmented-waura//clicsbp-idssegmented-yavitero"
-    languages "igna1246//wapi1253//waur1244//waur1244//yavi1244"
-    families "Arawakan//Arawakan//Arawakan//Arawakan//Arawakan"
-    language_count 4
-    variety_count 4
+    label "ENVY"
+    occurrences "clicsbp-idssegmented-goajiro-ENVY-1//clicsbp-idssegmented-goajiro-ENVY-2//clicsbp-idssegmented-ignaciano-ENVY-1//clicsbp-idssegmented-mashcopiro-ENVY-1//clicsbp-idssegmented-mashcopiro-ENVY-2//clicsbp-idssegmented-trinitario-ENVY-1//clicsbp-idssegmented-wapishana-ENVY-1//clicsbp-idssegmented-waura-ENVY-1//clicsbp-idssegmented-yavitero-ENVY-1"
+    words "tʃ u m ɨ h a//a tʃ u m ɨ lʲ a//t e t e a r a ʔ i//h o k t a t a//h o k tʃ i//e tʲ o k o//kʰ a ʃ a ɨ ʐ ɨ + n//u k i//s i m u t a"
+    varieties "clicsbp-idssegmented-goajiro//clicsbp-idssegmented-goajiro//clicsbp-idssegmented-ignaciano//clicsbp-idssegmented-mashcopiro//clicsbp-idssegmented-mashcopiro//clicsbp-idssegmented-trinitario//clicsbp-idssegmented-wapishana//clicsbp-idssegmented-waura//clicsbp-idssegmented-yavitero"
+    languages "wayu1243//wayu1243//igna1246//mash1270//mash1270//trin1274//wapi1253//waur1244//yavi1244"
+    families "Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan//Arawakan"
+    language_count 7
+    variety_count 7
     family_count 1
   ]
   edge [
