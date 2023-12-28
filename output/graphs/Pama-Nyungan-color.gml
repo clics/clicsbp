@@ -13,18 +13,6 @@ graph [
   ]
   node [
     id 1
-    label "BLUE"
-    occurrences "clicsbp-wold-Gurindji-BLUE-1"
-    words "w u r r k a w u r r k a l"
-    varieties "clicsbp-wold-Gurindji"
-    languages "guri1247"
-    families "Pama-Nyungan"
-    language_count 1
-    variety_count 1
-    family_count 1
-  ]
-  node [
-    id 2
     label "GREEN"
     occurrences "clicsbp-wold-Gurindji-GREEN-1"
     words "w u r r k a w u r r k a l"
@@ -36,7 +24,7 @@ graph [
     family_count 1
   ]
   node [
-    id 3
+    id 2
     label "BLACK"
     occurrences "clicsbp-bowernpny-Adnyamathanha-BLACK-1//clicsbp-bowernpny-Alyawarr-BLACK-1//clicsbp-bowernpny-Arabana-BLACK-1//clicsbp-bowernpny-Bunganditj-BLACK-1//clicsbp-bowernpny-Dhuwal-BLACK-1//clicsbp-bowernpny-Diyari-BLACK-1//clicsbp-bowernpny-Djabugay-BLACK-1//clicsbp-bowernpny-Djambarrpuyngu-BLACK-1//clicsbp-bowernpny-Djinang-BLACK-1//clicsbp-bowernpny-Gamilaraay-BLACK-1//clicsbp-bowernpny-Gumbaynggir-BLACK-1//clicsbp-bowernpny-Gupapuyngu-BLACK-1//clicsbp-bowernpny-Guyani-BLACK-1//clicsbp-bowernpny-Jaru-BLACK-1//clicsbp-bowernpny-Jiwarli-BLACK-1//clicsbp-bowernpny-Kalkatungu-BLACK-1//clicsbp-bowernpny-Karajarri-BLACK-1//clicsbp-bowernpny-Kartujarra-BLACK-1//clicsbp-bowernpny-Kaurna-BLACK-1//clicsbp-bowernpny-Kukatja-BLACK-1//clicsbp-bowernpny-Kurtjar-BLACK-1//clicsbp-bowernpny-Mabuiag-BLACK-1//clicsbp-bowernpny-Margany-BLACK-1//clicsbp-bowernpny-MartuWangka-BLACK-1//clicsbp-bowernpny-Mudburra-BLACK-1//clicsbp-bowernpny-Muruwari-BLACK-1//clicsbp-bowernpny-Ngaanyatjarra-BLACK-1//clicsbp-bowernpny-Ngarinyman-BLACK-1//clicsbp-bowernpny-Ngarluma-BLACK-1//clicsbp-bowernpny-Ngarrindjeri-BLACK-1//clicsbp-bowernpny-Ngiyambaa-BLACK-1//clicsbp-bowernpny-Nhanta-BLACK-1//clicsbp-bowernpny-Nyamal-BLACK-1//clicsbp-bowernpny-Nyangumarta-BLACK-1//clicsbp-bowernpny-Nyungar-BLACK-1//clicsbp-bowernpny-Paakantyi-BLACK-1//clicsbp-bowernpny-Panyjima-BLACK-1//clicsbp-bowernpny-Parnkala-BLACK-1//clicsbp-bowernpny-Payungu-BLACK-1//clicsbp-bowernpny-PittaPitta-BLACK-1//clicsbp-bowernpny-Ritharrngu-BLACK-1//clicsbp-bowernpny-Thalanyji-BLACK-1//clicsbp-bowernpny-Tharrgari-BLACK-1//clicsbp-bowernpny-Umpila-BLACK-1//clicsbp-bowernpny-Wajarri-BLACK-1//clicsbp-bowernpny-Wakaya-BLACK-1//clicsbp-bowernpny-Wangkumara-BLACK-1//clicsbp-bowernpny-Warlpiri-BLACK-1//clicsbp-bowernpny-Warnman-BLACK-1//clicsbp-bowernpny-Warriyangga-BLACK-1//clicsbp-bowernpny-Warumungu-BLACK-1//clicsbp-bowernpny-WikMungkan-BLACK-1//clicsbp-bowernpny-Wiradjuri-BLACK-1//clicsbp-bowernpny-Wirangu-BLACK-1//clicsbp-bowernpny-Yannhangu-BLACK-1//clicsbp-bowernpny-Yandruwandha-BLACK-1//clicsbp-bowernpny-Yindjibarndi-BLACK-1//clicsbp-bowernpny-Yugambeh-BLACK-1//clicsbp-bowernpny-Yuwaalaraay-BLACK-1//clicsbp-wold-Gurindji-BLACK-1"
     words "m a ɹ u//e r p u ɭ//p i ɭ a//m o n a l//b i ɭ a k//m a ɹ u//b u g aː l//g u r ŋ a n//m u l//b u l uː j//g uː ɹ u//g u r ŋ a n//p e i m b a//g o ɹ o + g o ɹ o//k u ɖ u//m a r c i n//g a l o ɹ o//m a ɹ u m a ɹ u//b oː l j o n//j a l d a//l t̪ oː ɹ ɣ//i n u ɹ a d + g a m u l//g u d u l//m a ɹ u + m a ɹ u//m u ŋ a r a m u ŋ a r a//k a ʈ a//m a ɹ u//ŋ i c b u r u//w a r u//j aː ɹ e//b u l u i//w u ɹ ʔ a d a//k a ɭ u r u//w a r u k u ɭ a//k u mː a//g u g i ɹ i g a//w a r u//i t a//k u ɳ a ŋ u//c i m p a//m u l ˀm u l//k u ɭ u w a//k u ɭ u w a//t̪ u ŋ k u//w i d i//w e t̪ i nː g u//m u r u m u r u//k i ɖ i l j//w a r u k u ɭ a//k u b a r i//w u m p u r a ɳ i//ŋ o t a n//b uː d̪ a ŋ//m a ŋ g u ɹ u//m o l ˀm u l ŋ u//i m p a//w a r u//t uː n d uː n//b u l uː j//m u m p u ŋ"
@@ -47,9 +35,21 @@ graph [
     variety_count 60
     family_count 1
   ]
+  node [
+    id 3
+    label "BLUE"
+    occurrences "clicsbp-wold-Gurindji-BLUE-1"
+    words "w u r r k a w u r r k a l"
+    varieties "clicsbp-wold-Gurindji"
+    languages "guri1247"
+    families "Pama-Nyungan"
+    language_count 1
+    variety_count 1
+    family_count 1
+  ]
   edge [
     source 1
-    target 2
+    target 3
     count 1
     words "w u r r k a w u r r k a l"
     varieties "clicsbp-wold-Gurindji"

@@ -1,26 +1,26 @@
 graph [
   node [
     id 0
-    label "REGRET"
-    occurrences "clicsbp-idssegmented-ancientaramaic-REGRET-1//clicsbp-idssegmented-ancientaramaic-REGRET-2//clicsbp-idssegmented-polci-REGRET-1//clicsbp-wold-Iraqw-REGRET-1//clicsbp-wold-Gawwada-REGRET-1//clicsbp-wold-Hausa-REGRET-1//clicsbp-wold-TarifiytBerber-REGRET-1"
-    words "t a b//tʷ a//s a nː u//w a ʕ aː ʕ uː s//k i t//t u u b a//n d ə m"
-    varieties "clicsbp-idssegmented-ancientaramaic//clicsbp-idssegmented-ancientaramaic//clicsbp-idssegmented-polci//clicsbp-wold-Iraqw//clicsbp-wold-Gawwada//clicsbp-wold-Hausa//clicsbp-wold-TarifiytBerber"
-    languages "olda1245//olda1245//polc1243//iraq1241//gaww1239//haus1257//tari1263"
-    families "Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic"
-    language_count 6
-    variety_count 6
+    label "PITY"
+    occurrences "clicsbp-idssegmented-ancientaramaic-PITY-1//clicsbp-idssegmented-polci-PITY-1//clicsbp-wold-Iraqw-PITY-1//clicsbp-wold-Hausa-PITY-1//clicsbp-wold-TarifiytBerber-PITY-1"
+    words "χ a s//t a u s a j i//g u ɾ + tɬ a w//dʒ i n kʼ a i//zː i dʒː ə z"
+    varieties "clicsbp-idssegmented-ancientaramaic//clicsbp-idssegmented-polci//clicsbp-wold-Iraqw//clicsbp-wold-Hausa//clicsbp-wold-TarifiytBerber"
+    languages "olda1245//polc1243//iraq1241//haus1257//tari1263"
+    families "Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic"
+    language_count 5
+    variety_count 5
     family_count 1
   ]
   node [
     id 1
-    label "ANGER"
-    occurrences "clicsbp-idssegmented-ancientaramaic-ANGER-1//clicsbp-idssegmented-ancientaramaic-ANGER-2//clicsbp-idssegmented-polci-ANGER-1//clicsbp-wold-Iraqw-ANGER-1//clicsbp-wold-Gawwada-ANGER-1//clicsbp-wold-Hausa-ANGER-1//clicsbp-wold-TarifiytBerber-ANGER-1//clicsbp-wold-TarifiytBerber-ANGER-2"
-    words "χ e mː t a//q ʂ a p a + q e ʂ p oː n a//m a ŋ t ə//m u n eː//m iː r a//ɸ u ʃ iː//ʒː n u n//m a rː ɣ a"
-    varieties "clicsbp-idssegmented-ancientaramaic//clicsbp-idssegmented-ancientaramaic//clicsbp-idssegmented-polci//clicsbp-wold-Iraqw//clicsbp-wold-Gawwada//clicsbp-wold-Hausa//clicsbp-wold-TarifiytBerber//clicsbp-wold-TarifiytBerber"
-    languages "olda1245//olda1245//polc1243//iraq1241//gaww1239//haus1257//tari1263//tari1263"
-    families "Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic"
-    language_count 6
-    variety_count 6
+    label "LOVE"
+    occurrences "clicsbp-idssegmented-ancientaramaic-LOVE-1//clicsbp-idssegmented-ancientaramaic-LOVE-2//clicsbp-idssegmented-polci-LOVE-1//clicsbp-northeuralex-arb-LOVE-1//clicsbp-northeuralex-heb-LOVE-1//clicsbp-wold-Iraqw-LOVE-1//clicsbp-wold-Gawwada-LOVE-1//clicsbp-wold-Hausa-LOVE-1//clicsbp-wold-Hausa-LOVE-2//clicsbp-wold-TarifiytBerber-LOVE-1"
+    words "r χ e m//χ a b//n d ə k t i//a ħ a b a//a h a v//ɬ aː ʔ//c i k a ɗ//s oː//j i + kʼ a u n aː//ə x s"
+    varieties "clicsbp-idssegmented-ancientaramaic//clicsbp-idssegmented-ancientaramaic//clicsbp-idssegmented-polci//clicsbp-northeuralex-arb//clicsbp-northeuralex-heb//clicsbp-wold-Iraqw//clicsbp-wold-Gawwada//clicsbp-wold-Hausa//clicsbp-wold-Hausa//clicsbp-wold-TarifiytBerber"
+    languages "olda1245//olda1245//polc1243//stan1318//hebr1245//iraq1241//gaww1239//haus1257//haus1257//tari1263"
+    families "Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic"
+    language_count 8
+    variety_count 8
     family_count 1
   ]
   node [
@@ -37,6 +37,42 @@ graph [
   ]
   node [
     id 3
+    label "REGRET"
+    occurrences "clicsbp-idssegmented-ancientaramaic-REGRET-1//clicsbp-idssegmented-ancientaramaic-REGRET-2//clicsbp-idssegmented-polci-REGRET-1//clicsbp-wold-Iraqw-REGRET-1//clicsbp-wold-Gawwada-REGRET-1//clicsbp-wold-Hausa-REGRET-1//clicsbp-wold-TarifiytBerber-REGRET-1"
+    words "t a b//tʷ a//s a nː u//w a ʕ aː ʕ uː s//k i t//t u u b a//n d ə m"
+    varieties "clicsbp-idssegmented-ancientaramaic//clicsbp-idssegmented-ancientaramaic//clicsbp-idssegmented-polci//clicsbp-wold-Iraqw//clicsbp-wold-Gawwada//clicsbp-wold-Hausa//clicsbp-wold-TarifiytBerber"
+    languages "olda1245//olda1245//polc1243//iraq1241//gaww1239//haus1257//tari1263"
+    families "Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic"
+    language_count 6
+    variety_count 6
+    family_count 1
+  ]
+  node [
+    id 4
+    label "BAD"
+    occurrences "clicsbp-idssegmented-ancientaramaic-BAD-1//clicsbp-idssegmented-polci-BAD-1//clicsbp-northeuralex-arb-BAD-1//clicsbp-northeuralex-heb-BAD-1//clicsbp-wold-Iraqw-BAD-1//clicsbp-wold-Gawwada-BAD-1//clicsbp-wold-Hausa-BAD-1//clicsbp-wold-Hausa-BAD-2//clicsbp-wold-TarifiytBerber-BAD-1//clicsbp-wold-TarifiytBerber-BAD-2"
+    words "b ʔ ĩ ʃ//b ə s i//s a jː i ʔ//g a ʁ u ʔ a//tɬ aː kʷ//m a k a k k o//m u u g u u//b aː + kʲ a u//a ʕ ə fː a n//w aː + y ə ħ r i"
+    varieties "clicsbp-idssegmented-ancientaramaic//clicsbp-idssegmented-polci//clicsbp-northeuralex-arb//clicsbp-northeuralex-heb//clicsbp-wold-Iraqw//clicsbp-wold-Gawwada//clicsbp-wold-Hausa//clicsbp-wold-Hausa//clicsbp-wold-TarifiytBerber//clicsbp-wold-TarifiytBerber"
+    languages "olda1245//polc1243//stan1318//hebr1245//iraq1241//gaww1239//haus1257//haus1257//tari1263//tari1263"
+    families "Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic"
+    language_count 8
+    variety_count 8
+    family_count 1
+  ]
+  node [
+    id 5
+    label "ANGER"
+    occurrences "clicsbp-idssegmented-ancientaramaic-ANGER-1//clicsbp-idssegmented-ancientaramaic-ANGER-2//clicsbp-idssegmented-polci-ANGER-1//clicsbp-wold-Iraqw-ANGER-1//clicsbp-wold-Gawwada-ANGER-1//clicsbp-wold-Hausa-ANGER-1//clicsbp-wold-TarifiytBerber-ANGER-1//clicsbp-wold-TarifiytBerber-ANGER-2"
+    words "χ e mː t a//q ʂ a p a + q e ʂ p oː n a//m a ŋ t ə//m u n eː//m iː r a//ɸ u ʃ iː//ʒː n u n//m a rː ɣ a"
+    varieties "clicsbp-idssegmented-ancientaramaic//clicsbp-idssegmented-ancientaramaic//clicsbp-idssegmented-polci//clicsbp-wold-Iraqw//clicsbp-wold-Gawwada//clicsbp-wold-Hausa//clicsbp-wold-TarifiytBerber//clicsbp-wold-TarifiytBerber"
+    languages "olda1245//olda1245//polc1243//iraq1241//gaww1239//haus1257//tari1263//tari1263"
+    families "Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic"
+    language_count 6
+    variety_count 6
+    family_count 1
+  ]
+  node [
+    id 6
     label "PAIN"
     occurrences "clicsbp-idssegmented-ancientaramaic-PAIN-1//clicsbp-idssegmented-polci-PAIN-1//clicsbp-northeuralex-arb-PAIN-1//clicsbp-northeuralex-arb-PAIN-2//clicsbp-northeuralex-heb-PAIN-1//clicsbp-wold-Iraqw-PAIN-1//clicsbp-wold-Gawwada-PAIN-1//clicsbp-wold-Hausa-PAIN-1//clicsbp-wold-TarifiytBerber-PAIN-1"
     words "k e b a//c i w o//a l a m//w a dʒ a ʕ//k ə ʔ ɛ v//ɬ a ħ aː ʔ a m u//k i l o//tʃ iː w oː//r ə ħ r i q"
@@ -48,7 +84,7 @@ graph [
     family_count 1
   ]
   node [
-    id 4
+    id 7
     label "GOOD"
     occurrences "clicsbp-idssegmented-ancientaramaic-GOOD-1//clicsbp-idssegmented-polci-GOOD-1//clicsbp-kraftchadic-Angas-GOOD-1//clicsbp-kraftchadic-Ankwe-GOOD-1//clicsbp-kraftchadic-Bacama-GOOD-1//clicsbp-kraftchadic-Bade-GOOD-1//clicsbp-kraftchadic-Bananamouseye-GOOD-1//clicsbp-kraftchadic-Boka-GOOD-1//clicsbp-kraftchadic-Bolewa-GOOD-1//clicsbp-kraftchadic-Bura-GOOD-1//clicsbp-kraftchadic-Burma-GOOD-1//clicsbp-kraftchadic-Cibak-GOOD-1//clicsbp-kraftchadic-Cip-GOOD-1//clicsbp-kraftchadic-Daba-GOOD-1//clicsbp-kraftchadic-Dera-GOOD-1//clicsbp-kraftchadic-Dira-GOOD-1//clicsbp-kraftchadic-Dwot-GOOD-1//clicsbp-kraftchadic-Faligili-GOOD-1//clicsbp-kraftchadic-Falijilbu-GOOD-1//clicsbp-kraftchadic-Falikiria-GOOD-1//clicsbp-kraftchadic-Falikiria-GOOD-2//clicsbp-kraftchadic-Falimucella-GOOD-1//clicsbp-kraftchadic-Faliwagira-GOOD-1//clicsbp-kraftchadic-Gava-GOOD-1//clicsbp-kraftchadic-Geji-GOOD-1//clicsbp-kraftchadic-Gera-GOOD-1//clicsbp-kraftchadic-Gudu-GOOD-1//clicsbp-kraftchadic-Gabin-GOOD-1//clicsbp-kraftchadic-Glvda-GOOD-1//clicsbp-kraftchadic-Higibaza-GOOD-1//clicsbp-kraftchadic-Higighye-GOOD-1//clicsbp-kraftchadic-Higikamale-GOOD-1//clicsbp-kraftchadic-Hildi-GOOD-1//clicsbp-kraftchadic-Hwona-GOOD-1//clicsbp-kraftchadic-Karekare-GOOD-1//clicsbp-kraftchadic-Kilba-GOOD-1//clicsbp-kraftchadic-Lamepeve-GOOD-1//clicsbp-kraftchadic-Mandara-GOOD-1//clicsbp-kraftchadic-Margi-GOOD-1//clicsbp-kraftchadic-Massa-GOOD-1//clicsbp-kraftchadic-Matakam-GOOD-1//clicsbp-kraftchadic-Mismezime-GOOD-1//clicsbp-kraftchadic-Miya-GOOD-1//clicsbp-kraftchadic-Mwulyen-GOOD-1//clicsbp-kraftchadic-Nakatsa-GOOD-1//clicsbp-kraftchadic-Ngamo-GOOD-1//clicsbp-kraftchadic-Ngizim-GOOD-1//clicsbp-kraftchadic-Ngwaxi-GOOD-1//clicsbp-kraftchadic-Njanye-GOOD-1//clicsbp-kraftchadic-Pero-GOOD-1//clicsbp-kraftchadic-Piimdi-GOOD-1//clicsbp-kraftchadic-Seya-GOOD-1//clicsbp-kraftchadic-Sura-GOOD-1//clicsbp-kraftchadic-Tangale-GOOD-1//clicsbp-kraftchadic-Westmargi-GOOD-1//clicsbp-kraftchadic-Westmargi-GOOD-2//clicsbp-kraftchadic-Zvana-GOOD-1//clicsbp-northeuralex-arb-GOOD-1//clicsbp-northeuralex-heb-GOOD-1//clicsbp-wold-Iraqw-GOOD-1//clicsbp-wold-Gawwada-GOOD-1//clicsbp-wold-Hausa-GOOD-1//clicsbp-wold-Hausa-GOOD-2//clicsbp-wold-TarifiytBerber-GOOD-1//clicsbp-wold-TarifiytBerber-GOOD-2"
     words "ʈ a b//m b o n//r i t//ɗ o ŋ//w u l a w u l a + p ɛ j p ɛ j//b ə l a n//dʒ i f i j a//n d i t c ɪ n//b ə ŋ//b ɗ a k u//j a g ə n//ɗ a k u//r e t//n i n e k//g w ə ŋ//m b u n i//d a m u n//ɣ w u z u ɣ w u z u//m ɨ d ã j//c ə m//n d ɨ r i//ŋ g a//ŋ g a ʔ a//x w a r a//b u n i//n g ə m a//ts ə b ts ə b//n d i t + c ɛ n//ʃ e g ɨ r a + m a r a w a//t a d ɛ g w e n a//g u n t ɨ r a g ə j//m u g u l a + g a n j ɪ k ə//m ɨ n a g u + g u m a g u m a//ŋ g a ʔ a//j ə w ə w + o r + b ə l a m//m ɪː n a k u//ɓ a i//ʃ ɛ g ɨ r a//m ɨ n a g u//ŋ a ʔ a//a m ɓ a ʔ//b e i//ə m b ə n//f a u n u//ʃ e k e r a//z i n a//b u l a n//ɗ a k u//n g a//c ɪ n + w ə l a ʔ//m b a r i//ʔ a + n d a r a//r e t//kʷ o ŋ//m ʔ n a//p n a//g u m e//dʒ a jː i d//t o v//ħ oː ʔ//h eː tʼ a//m a i + d aː ɗ iː//m a i + kʲ a u//ʃ ə n//sˤ β ə ħ"
@@ -60,31 +96,7 @@ graph [
     family_count 1
   ]
   node [
-    id 5
-    label "FEAR (FRIGHT)"
-    occurrences "clicsbp-idssegmented-ancientaramaic-FEARFRIGHT-1//clicsbp-idssegmented-polci-FEARFRIGHT-1//clicsbp-wold-Iraqw-FEARFRIGHT-1//clicsbp-wold-Gawwada-FEARFRIGHT-1//clicsbp-wold-Hausa-FEARFRIGHT-1//clicsbp-wold-TarifiytBerber-FEARFRIGHT-1"
-    words "d e χ l t a//b ə r t ə//d a ʔ a j eː//ɠ aː p k o//sʼ oː r oː//θ i gː w ð i"
-    varieties "clicsbp-idssegmented-ancientaramaic//clicsbp-idssegmented-polci//clicsbp-wold-Iraqw//clicsbp-wold-Gawwada//clicsbp-wold-Hausa//clicsbp-wold-TarifiytBerber"
-    languages "olda1245//polc1243//iraq1241//gaww1239//haus1257//tari1263"
-    families "Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic"
-    language_count 6
-    variety_count 6
-    family_count 1
-  ]
-  node [
-    id 6
-    label "PITY"
-    occurrences "clicsbp-idssegmented-ancientaramaic-PITY-1//clicsbp-idssegmented-polci-PITY-1//clicsbp-wold-Iraqw-PITY-1//clicsbp-wold-Hausa-PITY-1//clicsbp-wold-TarifiytBerber-PITY-1"
-    words "χ a s//t a u s a j i//g u ɾ + tɬ a w//dʒ i n kʼ a i//zː i dʒː ə z"
-    varieties "clicsbp-idssegmented-ancientaramaic//clicsbp-idssegmented-polci//clicsbp-wold-Iraqw//clicsbp-wold-Hausa//clicsbp-wold-TarifiytBerber"
-    languages "olda1245//polc1243//iraq1241//haus1257//tari1263"
-    families "Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic"
-    language_count 5
-    variety_count 5
-    family_count 1
-  ]
-  node [
-    id 7
+    id 8
     label "ANXIETY"
     occurrences "clicsbp-idssegmented-ancientaramaic-ANXIETY-1//clicsbp-idssegmented-polci-ANXIETY-1//clicsbp-wold-Iraqw-ANXIETY-1//clicsbp-wold-Hausa-ANXIETY-1//clicsbp-wold-Hausa-ANXIETY-2//clicsbp-wold-TarifiytBerber-ANXIETY-1"
     words "j ʂ e p//t l a kː ə n//g u ɾ + h aː m//sʼ oː r oː//dʒ u u j aː j iː//a m n u s"
@@ -96,7 +108,7 @@ graph [
     family_count 1
   ]
   node [
-    id 8
+    id 9
     label "LIKE"
     occurrences "clicsbp-northeuralex-arb-LIKE-1//clicsbp-northeuralex-heb-LIKE-1"
     words "a ħ a b a//a h a v"
@@ -108,7 +120,7 @@ graph [
     family_count 1
   ]
   node [
-    id 9
+    id 10
     label "WANT"
     occurrences "clicsbp-idssegmented-ancientaramaic-WANT-1//clicsbp-idssegmented-ancientaramaic-WANT-2//clicsbp-idssegmented-polci-WANT-1//clicsbp-northeuralex-arb-WANT-1//clicsbp-northeuralex-arb-WANT-2//clicsbp-northeuralex-heb-WANT-1//clicsbp-wold-Iraqw-WANT-1//clicsbp-wold-Iraqw-WANT-2//clicsbp-wold-Gawwada-WANT-1//clicsbp-wold-Hausa-WANT-1//clicsbp-wold-TarifiytBerber-WANT-2//clicsbp-wold-TarifiytBerber-WANT-1"
     words "r ʁ a//ʂ b a//n d ə k//ʃ aː ʔ a//a r aː d a//ʁ a ts a//ɬ aː ʔ//m oː tsʼ//w o ʔ//s oː//aː z u//ə x s"
@@ -120,27 +132,15 @@ graph [
     family_count 1
   ]
   node [
-    id 10
-    label "LOVE"
-    occurrences "clicsbp-idssegmented-ancientaramaic-LOVE-1//clicsbp-idssegmented-ancientaramaic-LOVE-2//clicsbp-idssegmented-polci-LOVE-1//clicsbp-northeuralex-arb-LOVE-1//clicsbp-northeuralex-heb-LOVE-1//clicsbp-wold-Iraqw-LOVE-1//clicsbp-wold-Gawwada-LOVE-1//clicsbp-wold-Hausa-LOVE-1//clicsbp-wold-Hausa-LOVE-2//clicsbp-wold-TarifiytBerber-LOVE-1"
-    words "r χ e m//χ a b//n d ə k t i//a ħ a b a//a h a v//ɬ aː ʔ//c i k a ɗ//s oː//j i + kʼ a u n aː//ə x s"
-    varieties "clicsbp-idssegmented-ancientaramaic//clicsbp-idssegmented-ancientaramaic//clicsbp-idssegmented-polci//clicsbp-northeuralex-arb//clicsbp-northeuralex-heb//clicsbp-wold-Iraqw//clicsbp-wold-Gawwada//clicsbp-wold-Hausa//clicsbp-wold-Hausa//clicsbp-wold-TarifiytBerber"
-    languages "olda1245//olda1245//polc1243//stan1318//hebr1245//iraq1241//gaww1239//haus1257//haus1257//tari1263"
-    families "Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic"
-    language_count 8
-    variety_count 8
-    family_count 1
-  ]
-  node [
     id 11
-    label "BAD"
-    occurrences "clicsbp-idssegmented-ancientaramaic-BAD-1//clicsbp-idssegmented-polci-BAD-1//clicsbp-northeuralex-arb-BAD-1//clicsbp-northeuralex-heb-BAD-1//clicsbp-wold-Iraqw-BAD-1//clicsbp-wold-Gawwada-BAD-1//clicsbp-wold-Hausa-BAD-1//clicsbp-wold-Hausa-BAD-2//clicsbp-wold-TarifiytBerber-BAD-1//clicsbp-wold-TarifiytBerber-BAD-2"
-    words "b ʔ ĩ ʃ//b ə s i//s a jː i ʔ//g a ʁ u ʔ a//tɬ aː kʷ//m a k a k k o//m u u g u u//b aː + kʲ a u//a ʕ ə fː a n//w aː + y ə ħ r i"
-    varieties "clicsbp-idssegmented-ancientaramaic//clicsbp-idssegmented-polci//clicsbp-northeuralex-arb//clicsbp-northeuralex-heb//clicsbp-wold-Iraqw//clicsbp-wold-Gawwada//clicsbp-wold-Hausa//clicsbp-wold-Hausa//clicsbp-wold-TarifiytBerber//clicsbp-wold-TarifiytBerber"
-    languages "olda1245//polc1243//stan1318//hebr1245//iraq1241//gaww1239//haus1257//haus1257//tari1263//tari1263"
-    families "Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic"
-    language_count 8
-    variety_count 8
+    label "FEAR (FRIGHT)"
+    occurrences "clicsbp-idssegmented-ancientaramaic-FEARFRIGHT-1//clicsbp-idssegmented-polci-FEARFRIGHT-1//clicsbp-wold-Iraqw-FEARFRIGHT-1//clicsbp-wold-Gawwada-FEARFRIGHT-1//clicsbp-wold-Hausa-FEARFRIGHT-1//clicsbp-wold-TarifiytBerber-FEARFRIGHT-1"
+    words "d e χ l t a//b ə r t ə//d a ʔ a j eː//ɠ aː p k o//sʼ oː r oː//θ i gː w ð i"
+    varieties "clicsbp-idssegmented-ancientaramaic//clicsbp-idssegmented-polci//clicsbp-wold-Iraqw//clicsbp-wold-Gawwada//clicsbp-wold-Hausa//clicsbp-wold-TarifiytBerber"
+    languages "olda1245//polc1243//iraq1241//gaww1239//haus1257//tari1263"
+    families "Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic//Afro-Asiatic"
+    language_count 6
+    variety_count 6
     family_count 1
   ]
   node [
@@ -156,7 +156,33 @@ graph [
     family_count 1
   ]
   edge [
-    source 3
+    source 1
+    target 9
+    count 2
+    words "a ħ a b a//a h a v"
+    varieties "clicsbp-northeuralex-arb//clicsbp-northeuralex-heb"
+    languages "stan1318//hebr1245"
+    families "Afro-Asiatic//Afro-Asiatic"
+    variety_count 2
+    language_count 2
+    family_count 1
+    cognate_count 1
+  ]
+  edge [
+    source 1
+    target 10
+    count 3
+    words "ɬ aː ʔ//s oː//ə x s"
+    varieties "clicsbp-wold-Iraqw//clicsbp-wold-Hausa//clicsbp-wold-TarifiytBerber"
+    languages "iraq1241//haus1257//tari1263"
+    families "Afro-Asiatic//Afro-Asiatic//Afro-Asiatic"
+    variety_count 3
+    language_count 3
+    family_count 1
+    cognate_count 3
+  ]
+  edge [
+    source 6
     target 12
     count 2
     words "k e b a//tʃ iː w oː"
@@ -169,8 +195,8 @@ graph [
     cognate_count 2
   ]
   edge [
-    source 5
-    target 7
+    source 8
+    target 11
     count 1
     words "sʼ oː r oː"
     varieties "clicsbp-wold-Hausa"
@@ -180,31 +206,5 @@ graph [
     language_count 1
     family_count 1
     cognate_count 1
-  ]
-  edge [
-    source 8
-    target 10
-    count 2
-    words "a ħ a b a//a h a v"
-    varieties "clicsbp-northeuralex-arb//clicsbp-northeuralex-heb"
-    languages "stan1318//hebr1245"
-    families "Afro-Asiatic//Afro-Asiatic"
-    variety_count 2
-    language_count 2
-    family_count 1
-    cognate_count 1
-  ]
-  edge [
-    source 9
-    target 10
-    count 3
-    words "ɬ aː ʔ//s oː//ə x s"
-    varieties "clicsbp-wold-Iraqw//clicsbp-wold-Hausa//clicsbp-wold-TarifiytBerber"
-    languages "iraq1241//haus1257//tari1263"
-    families "Afro-Asiatic//Afro-Asiatic//Afro-Asiatic"
-    variety_count 3
-    language_count 3
-    family_count 1
-    cognate_count 3
   ]
 ]

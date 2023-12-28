@@ -13,18 +13,6 @@ graph [
   ]
   node [
     id 1
-    label "BLUE"
-    occurrences "clicsbp-idssegmented-embera-BLUE-1//clicsbp-idssegmented-epena-BLUE-1"
-    words "p ã õ ã r ã//pʰ ã pʰ ã r aː"
-    varieties "clicsbp-idssegmented-embera//clicsbp-idssegmented-epena"
-    languages "nort2972//epen1239"
-    families "Chocoan//Chocoan"
-    language_count 2
-    variety_count 2
-    family_count 1
-  ]
-  node [
-    id 2
     label "GREEN"
     occurrences "clicsbp-hubercolumbian-Catio-GREEN-1//clicsbp-hubercolumbian-EmberaTado-GREEN-1//clicsbp-hubercolumbian-EmberaTado-GREEN-2//clicsbp-hubercolumbian-EmberaChami-GREEN-1//clicsbp-hubercolumbian-EmberaChami-GREEN-2//clicsbp-hubercolumbian-Wounaan-GREEN-1//clicsbp-idssegmented-embera-GREEN-1//clicsbp-idssegmented-epena-GREEN-1"
     words "pʰ ã w a ɾ a//s u r ã//pʰ ã a ɾ a//pʰ ã a ɾ a//pʰ ã w a r a//pʰ ã a u ɾ ã a//p ã õ ã r ã//pʰ ã w a r aː"
@@ -36,7 +24,7 @@ graph [
     family_count 1
   ]
   node [
-    id 3
+    id 2
     label "BLACK"
     occurrences "clicsbp-hubercolumbian-Catio-BLACK-1//clicsbp-hubercolumbian-EmberaTado-BLACK-1//clicsbp-hubercolumbian-EmberaTado-BLACK-2//clicsbp-hubercolumbian-EmberaChami-BLACK-1//clicsbp-hubercolumbian-EmberaChami-BLACK-2//clicsbp-hubercolumbian-Wounaan-BLACK-1//clicsbp-idssegmented-embera-BLACK-1//clicsbp-idssegmented-epena-BLACK-1"
     words "pʰ a i m a//pʰ a i m a//pʰ a r e//pʰ a i m a//pʰ a r//pʰ ɯ i s i//p a i m a//pʰ ã i m aː"
@@ -47,9 +35,21 @@ graph [
     variety_count 6
     family_count 1
   ]
+  node [
+    id 3
+    label "BLUE"
+    occurrences "clicsbp-idssegmented-embera-BLUE-1//clicsbp-idssegmented-epena-BLUE-1"
+    words "p ã õ ã r ã//pʰ ã pʰ ã r aː"
+    varieties "clicsbp-idssegmented-embera//clicsbp-idssegmented-epena"
+    languages "nort2972//epen1239"
+    families "Chocoan//Chocoan"
+    language_count 2
+    variety_count 2
+    family_count 1
+  ]
   edge [
     source 1
-    target 2
+    target 3
     count 1
     words "p ã õ ã r ã"
     varieties "clicsbp-idssegmented-embera"
