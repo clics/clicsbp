@@ -7,10 +7,20 @@ this dataset using the DOI of the [particular released version](../../releases/)
 
 ## Description
 
-
-This dataset is licensed under a CC-BY-4.0 license
+This dataset is licensed under a CC-BY-4.0 license.
 
 ## Notes
+
+The repository includes:
+
+- data in [CLDF](/cldf)
+- [commands](/clicsbpcommands) to compile the colexifications
+- [inventory](/etc) of concepts, Lexibank datasets, and language families 
+- table with [forms](/examples/clicsbp.tsv)
+- [output](/output) including graphs, plots, and degrees
+- [raw](/raw) data folder for local clones of the Lexibank repositories
+- [scripts](/scripts) for the analyses of ARI and degree values
+
 
 # Installation
 
@@ -115,15 +125,15 @@ $ cldfbench clicsbp.piecharts --weight=Language_Count_Weighted
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 894
+- **Varieties:** 1,028
 - **Concepts:** 1,500
-- **Lexemes:** 602,121
+- **Lexemes:** 662,159
 - **Sources:** 0
-- **Synonymy:** 1.15
+- **Synonymy:** 1.13
 - **Invalid lexemes:** 0
-- **Tokens:** 3,520,354
-- **Segments:** 1,385 (0 BIPA errors, 0 CLTS sound class errors, 1377 CLTS modified)
-- **Inventory size (avg):** 45.15
+- **Tokens:** 3,861,880
+- **Segments:** 1,390 (0 BIPA errors, 0 CLTS sound class errors, 1382 CLTS modified)
+- **Inventory size (avg):** 44.04
 
 ## Possible Improvements:
 
@@ -132,7 +142,7 @@ $ cldfbench clicsbp.piecharts --weight=Language_Count_Weighted
   - Sanapaná (Angaité) [sana1281](http://glottolog.org/resource/languoid/id/sana1281)
 
 
-- Entries missing sources: 602121/602121 (100.00%)
+- Entries missing sources: 662159/662159 (100.00%)
 
 ## CLDF Datasets
 
