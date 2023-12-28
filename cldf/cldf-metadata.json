@@ -5,13 +5,13 @@
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
-    "dc:title": "Body Part Colexification Study with CLICS",
+    "dc:title": "CLDF dataset on Body Part Colexifications",
     "dcat:accessURL": "https://github.com/clics/clicsbp",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/clics/clicsbp",
             "rdf:type": "prov:Entity",
-            "dc:created": "de12f0a",
+            "dc:created": "6e89156",
             "dc:title": "Repository"
         },
         {
