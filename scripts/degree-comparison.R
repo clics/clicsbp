@@ -8,7 +8,9 @@ groundhog.library(pkgs, "2023-05-01")
 
 # setwd("")
 
-degree <- read_csv("./clics/clicsbp/scripts/degree.csv")
+degree <- read_delim("github/repos/clics/clicsbp/output/degree-language.tsv", 
+                     delim = "\t", escape_double = FALSE, 
+                     trim_ws = TRUE)
 
 
 #Means, Standard derivations, Medians
