@@ -173,7 +173,7 @@ def weight_by_cognacy(
         graph[nA][nB]["cognate_count"] = weight
 
 
-def get_transition_matrix(graph, steps=10, weight="weight", normalize=False):
+def get_transition_matrix(graph, steps=5, weight="weight", normalize=False):
     """
     Compute transition matrix following Jackson et al. 2019
     """
@@ -212,7 +212,7 @@ def register(parser):
     parser.add_argument(
         "--steps",
         help="define steps for the random walk",
-        default=10,
+        default=5,
         type=int)
     parser.add_argument(
         "--community-method",

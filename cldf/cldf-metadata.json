@@ -5,13 +5,13 @@
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
-    "dc:title": "Body Part Colexification Study with CLICS",
+    "dc:title": "CLDF dataset on Body Part Colexifications",
     "dcat:accessURL": "https://github.com/clics/clicsbp",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/clics/clicsbp",
             "rdf:type": "prov:Entity",
-            "dc:created": "b03d8d7",
+            "dc:created": "6e89156",
             "dc:title": "Repository"
         },
         {
@@ -209,7 +209,7 @@
         {
             "rdf:about": "https://github.com/lexibank/tls",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.0",
+            "dc:created": "v4.1.1",
             "dc:title": "Repository"
         },
         {
@@ -221,7 +221,7 @@
         {
             "rdf:about": "https://github.com/lexibank/huntergatherer",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0",
+            "dc:created": "v1.1",
             "dc:title": "Repository"
         },
         {
@@ -358,7 +358,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 602121,
+            "dc:extent": 662159,
             "tableSchema": {
                 "columns": [
                     {
@@ -465,7 +465,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 894,
+            "dc:extent": 1028,
             "tableSchema": {
                 "columns": [
                     {
